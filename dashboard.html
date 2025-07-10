@@ -6,25 +6,24 @@
   <title>Live AI News Feed</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
-    /* Light mode overrides */
     .light-mode {
-      background-color: #f9fafb; /* Tailwind gray-50 */
-      color: #111827; /* Tailwind gray-900 */
+      background-color: #f9fafb;
+      color: #111827;
     }
     .light-mode input {
-      background-color: #e5e7eb; /* Tailwind gray-200 */
+      background-color: #e5e7eb;
       color: #111827;
       border-color: #d1d5db;
     }
     .light-mode a {
-      color: #047857; /* Tailwind emerald-700 */
+      color: #047857;
     }
     .light-mode .article-card {
       background-color: #ffffff;
       box-shadow: 0 1px 2px rgb(0 0 0 / 0.05);
     }
     .light-mode .article-card:hover {
-      background-color: #d1fae5; /* Tailwind emerald-100 */
+      background-color: #d1fae5;
     }
   </style>
 </head>
@@ -64,7 +63,6 @@
     const body = document.body;
     let allArticles = [];
 
-    // Load saved theme or default to dark
     function loadTheme() {
       const saved = localStorage.getItem('theme');
       if (saved === 'light') {
@@ -76,7 +74,6 @@
       }
     }
 
-    // Toggle theme on button click
     toggleThemeBtn.addEventListener('click', () => {
       if (body.classList.contains('light-mode')) {
         body.classList.remove('light-mode');
@@ -110,71 +107,31 @@
       return "Just now";
     }
 
+    function deduplicateArticles(articles) {
+      const seen = new Set();
+      const uniqueArticles = [];
+
+      for (const article of articles) {
+        const normTitle = article.title?.toLowerCase().replace(/[^\w\s]/gi, '') || '';
+        if (!seen.has(normTitle)) {
+          seen.add(normTitle);
+          uniqueArticles.push(article);
+        }
+      }
+      return uniqueArticles;
+    }
+
     function renderArticles(articles) {
-      if (!articles.length) {
+      const uniqueArticles = deduplicateArticles(articles);
+
+      if (!uniqueArticles.length) {
         newsContainer.innerHTML = "<p class='text-gray-400'>No articles found.</p>";
         return;
       }
 
-      const html = articles.map(article => {
+      const html = uniqueArticles.map(article => {
         const title = article.title || "Untitled";
         const source = article.source?.name || "Unknown";
         const url = article.url || "#";
         const publishedAt = article.publishedAt || null;
-        const imageUrl = article.image || article.urlToImage || null;
-        const timeAgo = publishedAt ? timeSince(new Date(publishedAt)) : "Unknown time";
-
-        return `
-          <div class="article-card flex items-center p-4 bg-gray-800 rounded-lg shadow hover:bg-gray-700 transition">
-            <a href="${url}" target="_blank" class="block flex-shrink-0 mr-4 rounded overflow-hidden w-20 h-20 bg-gray-700">
-              <img
-                src="${imageUrl || 'https://via.placeholder.com/80?text=No+Image'}"
-                alt="Article image"
-                class="w-full h-full object-cover"
-                loading="lazy"
-                onerror="this.onerror=null;this.src='https://via.placeholder.com/80?text=No+Image';"
-              />
-            </a>
-            <div class="flex-grow">
-              <a href="${url}" target="_blank" class="text-lg font-semibold text-emerald-300 hover:underline">
-                ${title}
-              </a>
-              <div class="text-sm text-gray-400 mt-1">
-                Source: ${source} · <span>${timeAgo}</span>
-              </div>
-            </div>
-          </div>
-        `;
-      }).join("");
-
-      newsContainer.innerHTML = html;
-    }
-
-    async function loadNews() {
-      try {
-        const response = await fetch("ai_news.json");
-        const data = await response.json();
-        allArticles = data;
-        renderArticles(data);
-      } catch (err) {
-        newsContainer.innerHTML = "<p class='text-red-400'>Failed to load news.</p>";
-        console.error("Error fetching news:", err);
-      }
-    }
-
-    // Search filter
-    searchInput.addEventListener("input", () => {
-      const keyword = searchInput.value.toLowerCase();
-      const filtered = allArticles.filter(article =>
-        article.title?.toLowerCase().includes(keyword) ||
-        article.source?.name?.toLowerCase().includes(keyword)
-      );
-      renderArticles(filtered);
-    });
-
-    // Initialize theme and load news
-    loadTheme();
-    loadNews();
-  </script>
-</body>
-</html>
+        const imageUrl = article.
