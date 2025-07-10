@@ -6,10 +6,20 @@
   <title>Live AI News Feed</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gray-950 text-white font-sans">
+<body class="bg-gray-950 text-white font-sans min-h-screen">
   <div class="max-w-3xl mx-auto p-6">
     <h1 class="text-3xl font-bold mb-4 text-center text-emerald-400">🧠 Live AI News Feed</h1>
     <p class="text-sm text-gray-400 mb-6 text-center">Auto-updated hourly from <code>ai_news.json</code></p>
+
+    <!-- Search box -->
+    <div class="mb-6">
+      <input
+        id="searchInput"
+        type="text"
+        placeholder="Search articles..."
+        class="w-full p-2 rounded bg-gray-800 text-white border border-gray-700 focus:outline-none focus:ring focus:border-emerald-400"
+      />
+    </div>
 
     <div id="news-container" class="space-y-4">
       <p class="text-gray-500">Loading news...</p>
@@ -18,35 +28,79 @@
 
   <script>
     const newsContainer = document.getElementById("news-container");
+    const searchInput = document.getElementById("searchInput");
+    let allArticles = [];
 
     async function loadNews() {
       try {
         const response = await fetch("ai_news.json");
         const data = await response.json();
-        
-        if (!data || data.length === 0) {
-          newsContainer.innerHTML = "<p class='text-gray-500'>No articles found.</p>";
-          return;
-        }
-
-        const html = data.map(article => `
-          <div class="p-4 bg-gray-800 rounded-lg shadow hover:bg-gray-700 transition">
-            <a href="${article.url}" target="_blank" class="text-lg font-semibold text-emerald-300 hover:underline">
-              ${article.title}
-            </a>
-            <div class="text-sm text-gray-400 mt-1">
-              Source: ${article.source?.name || "Unknown"}
-            </div>
-          </div>
-        `).join("");
-
-        newsContainer.innerHTML = html;
-
+        allArticles = data;
+        renderArticles(data);
       } catch (err) {
         newsContainer.innerHTML = "<p class='text-red-400'>Failed to load news.</p>";
         console.error("Error fetching news:", err);
       }
     }
+
+    function renderArticles(articles) {
+      if (!articles.length) {
+        newsContainer.innerHTML = "<p class='text-gray-400'>No articles found.</p>";
+        return;
+      }
+
+      const html = articles.map(article => {
+        const title = article.title || "Untitled";
+        const source = article.source?.name || "Unknown";
+        const url = article.url || "#";
+        const publishedAt = article.publishedAt || null;
+        const timeAgo = publishedAt ? timeSince(new Date(publishedAt)) : "Unknown time";
+
+        return `
+          <div class="p-4 bg-gray-800 rounded-lg shadow hover:bg-gray-700 transition">
+            <a href="${url}" target="_blank" class="text-lg font-semibold text-emerald-300 hover:underline">
+              ${title}
+            </a>
+            <div class="text-sm text-gray-400 mt-1">
+              Source: ${source} · <span>${timeAgo}</span>
+            </div>
+          </div>
+        `;
+      }).join("");
+
+      newsContainer.innerHTML = html;
+    }
+
+    function timeSince(date) {
+      const seconds = Math.floor((new Date() - date) / 1000);
+      const intervals = [
+        { label: "year", seconds: 31536000 },
+        { label: "month", seconds: 2592000 },
+        { label: "day", seconds: 86400 },
+        { label: "hour", seconds: 3600 },
+        { label: "minute", seconds: 60 },
+        { label: "second", seconds: 1 }
+      ];
+
+      for (let i = 0; i < intervals.length; i++) {
+        const interval = intervals[i];
+        const count = Math.floor(seconds / interval.seconds);
+        if (count > 0) {
+          return `Published ${count} ${interval.label}${count !== 1 ? 's' : ''} ago`;
+        }
+      }
+      return "Just now";
+    }
+
+    // Filter articles based on search
+    searchInput.addEventListener("input", () => {
+      const keyword = searchInput.value.toLowerCase();
+      const filtered = allArticles.filter(article =>
+        article.title?.toLowerCase().includes(keyword) ||
+        article.source?.name?.toLowerCase().includes(keyword)
+      );
+      renderArticles(filtered);
+    });
 
     loadNews();
   </script>
