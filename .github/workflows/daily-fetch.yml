@@ -2,7 +2,7 @@ name: Daily AI News Fetch
 
 on:
   schedule:
-    - cron: "0 9 * * *"  # Runs every day at 9 AM UTC
+    - cron: "0 * * * *"  # Runs at minute 0 every hour
   workflow_dispatch:     # Allows manual trigger
 
 jobs:
