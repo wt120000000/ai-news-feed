@@ -11,7 +11,7 @@
     }
   </style>
 </head>
-<body class="bg-gray-950 text-gray-100 min-h-screen transition-colors duration-300">
+<body class="bg-gray-950 text-white min-h-screen transition-colors duration-300">
 
   <!-- Header -->
   <div class="max-w-3xl mx-auto p-6 relative">
@@ -21,11 +21,21 @@
     </div>
 
     <!-- Main Title -->
-    <h1 class="text-3xl font-bold mb-6 text-center text-emerald-400">
+    <h1 class="text-3xl font-bold mb-4 text-center text-emerald-400">
       Latest News in A.I.
     </h1>
 
-    <!-- Dark Mode Toggle Button -->
+    <!-- Search -->
+    <div class="flex justify-center mb-6">
+      <input
+        id="searchInput"
+        type="text"
+        placeholder="Search articles..."
+        class="w-full max-w-md px-4 py-2 rounded bg-gray-800 text-white border border-gray-600 focus:outline-none focus:ring-2 focus:ring-emerald-500"
+      />
+    </div>
+
+    <!-- Dark Mode Toggle -->
     <button
       id="toggleThemeBtn"
       aria-label="Toggle dark mode"
@@ -39,55 +49,118 @@
   </div>
 
   <!-- News Container -->
-  <div id="newsContainer" class="max-w-3xl mx-auto px-4 grid gap-6 pb-12">
-    <!-- Articles will be inserted here -->
+  <div id="newsContainer" class="max-w-3xl mx-auto px-4 grid gap-6 pb-12"></div>
+
+  <!-- Pagination + Footer -->
+  <div class="max-w-3xl mx-auto px-4 pb-8 text-center">
+    <div id="paginationControls" class="flex justify-center gap-4 items-center mb-4">
+      <button id="prevBtn" class="px-4 py-2 bg-emerald-600 rounded hover:bg-emerald-500 disabled:opacity-50">Previous</button>
+      <span id="pageIndicator" class="text-gray-400 text-sm"></span>
+      <button id="nextBtn" class="px-4 py-2 bg-emerald-600 rounded hover:bg-emerald-500 disabled:opacity-50">Next</button>
+    </div>
+    <p class="text-sm text-gray-500">Collecting more A.I. news...</p>
   </div>
 
   <script>
     const container = document.getElementById("newsContainer");
+    const searchInput = document.getElementById("searchInput");
+    const prevBtn = document.getElementById("prevBtn");
+    const nextBtn = document.getElementById("nextBtn");
+    const pageIndicator = document.getElementById("pageIndicator");
+
+    let articles = [];
+    let filteredArticles = [];
+    let currentPage = 1;
+    const articlesPerPage = 8;
 
     fetch("ai_news.json")
       .then(response => response.json())
-      .then(articles => {
+      .then(data => {
         const seenTitles = new Set();
-
-        articles.forEach(article => {
-          const normalizedTitle = article.title.toLowerCase().replace(/[^a-z0-9]/g, "");
-
-          if (seenTitles.has(normalizedTitle)) return;
-          seenTitles.add(normalizedTitle);
-
-          const card = document.createElement("div");
-          card.className = "bg-gray-900 rounded-lg shadow p-5 transition hover:shadow-lg";
-
-          card.innerHTML = `
-            <h2 class="text-xl font-semibold mb-2 text-emerald-300">${article.title}</h2>
-            <p class="text-sm mb-4 text-gray-400">${article.source.name}</p>
-            <a href="${article.url}" target="_blank" class="inline-block mt-2 text-emerald-400 hover:underline">
-              Read more →
-            </a>
-          `;
-
-          container.appendChild(card);
+        articles = data.filter(article => {
+          const norm = article.title.toLowerCase().replace(/[^a-z0-9]/g, "");
+          if (seenTitles.has(norm)) return false;
+          seenTitles.add(norm);
+          return true;
         });
+        filteredArticles = articles;
+        renderPage();
       })
       .catch(error => {
         container.innerHTML = `<p class="text-red-500">Failed to load news: ${error}</p>`;
       });
 
-    // Theme toggle
-    const btn = document.getElementById("toggleThemeBtn");
-    btn.addEventListener("click", () => {
+    function renderPage() {
+      container.innerHTML = "";
+      const start = (currentPage - 1) * articlesPerPage;
+      const end = start + articlesPerPage;
+      const pageArticles = filteredArticles.slice(start, end);
+
+      if (pageArticles.length === 0) {
+        container.innerHTML = `<p class="text-gray-400 text-center">No articles found.</p>`;
+      }
+
+      pageArticles.forEach(article => {
+        const card = document.createElement("div");
+        card.className = "bg-gray-900 rounded-lg shadow overflow-hidden transition hover:shadow-lg";
+
+        const imageHtml = article.image
+          ? `<img src="${article.image}" alt="${article.title}" class="w-full h-48 object-cover">`
+          : "";
+
+        card.innerHTML = `
+          ${imageHtml}
+          <div class="p-5">
+            <h2 class="text-xl font-semibold mb-2 text-emerald-300">${article.title}</h2>
+            <p class="text-sm mb-4 text-gray-400">${article.source.name}</p>
+            <a href="${article.url}" target="_blank" class="inline-block mt-2 text-emerald-400 hover:underline">
+              Read more →
+            </a>
+          </div>
+        `;
+
+        container.appendChild(card);
+      });
+
+      const totalPages = Math.ceil(filteredArticles.length / articlesPerPage);
+      pageIndicator.textContent = `Page ${currentPage} of ${totalPages}`;
+      prevBtn.disabled = currentPage === 1;
+      nextBtn.disabled = currentPage === totalPages;
+    }
+
+    searchInput.addEventListener("keyup", () => {
+      const query = searchInput.value.toLowerCase();
+      filteredArticles = articles.filter(a =>
+        a.title.toLowerCase().includes(query) || a.source.name.toLowerCase().includes(query)
+      );
+      currentPage = 1;
+      renderPage();
+    });
+
+    prevBtn.addEventListener("click", () => {
+      if (currentPage > 1) {
+        currentPage--;
+        renderPage();
+      }
+    });
+
+    nextBtn.addEventListener("click", () => {
+      if ((currentPage * articlesPerPage) < filteredArticles.length) {
+        currentPage++;
+        renderPage();
+      }
+    });
+
+    document.getElementById("toggleThemeBtn").addEventListener("click", () => {
       const html = document.documentElement;
       html.dataset.theme = html.dataset.theme === "dark" ? "light" : "dark";
 
       document.body.classList.toggle("bg-gray-950");
       document.body.classList.toggle("bg-white");
-      document.body.classList.toggle("text-gray-100");
+      document.body.classList.toggle("text-white");
       document.body.classList.toggle("text-gray-900");
     });
 
-    // Auto height for iframe embedding
     function sendHeightToParent() {
       const height = document.body.scrollHeight;
       parent.postMessage({ type: "setHeight", height }, "*");
