@@ -1,137 +1,36 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Live AI News Feed</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Latest News in A.I.</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
-    .light-mode {
-      background-color: #f9fafb;
-      color: #111827;
-    }
-    .light-mode input {
-      background-color: #e5e7eb;
-      color: #111827;
-      border-color: #d1d5db;
-    }
-    .light-mode a {
-      color: #047857;
-    }
-    .light-mode .article-card {
-      background-color: #ffffff;
-      box-shadow: 0 1px 2px rgb(0 0 0 / 0.05);
-    }
-    .light-mode .article-card:hover {
-      background-color: #d1fae5;
+    body {
+      font-family: 'Segoe UI', sans-serif;
     }
   </style>
 </head>
-<body class="bg-gray-950 text-white font-sans min-h-screen transition-colors duration-300">
-  <div class="max-w-3xl mx-auto p-6 relative">
-    <h1 class="text-3xl font-bold mb-4 text-center text-emerald-400">🧠 Live AI News Feed</h1>
-    <p class="text-sm text-gray-400 mb-6 text-center">Auto-updated hourly from <code>ai_news.json</code></p>
+<body class="bg-gray-950 text-gray-100 min-h-screen transition-colors duration-300">
 
-    <!-- Dark mode toggle -->
+  <!-- Header -->
+  <div class="max-w-3xl mx-auto p-6 relative">
+    <!-- Logo Image -->
+    <div class="flex justify-center mb-4">
+      <img src="20cc9e62-1001-4ad9-bce1-a5aa4728b3b6.png" alt="AI Eye Logo" class="w-12 h-12">
+    </div>
+
+    <!-- Main Title -->
+    <h1 class="text-3xl font-bold mb-6 text-center text-emerald-400">
+      Latest News in A.I.
+    </h1>
+
+    <!-- Dark Mode Toggle Button -->
     <button
       id="toggleThemeBtn"
       aria-label="Toggle dark mode"
-      class="absolute top-6 right-6 bg-gray-800 hover:bg-gray-700 text-white px-3 py-1 rounded transition"
+      class="absolute top-6 right-6 bg-white text-black p-2 rounded-full shadow transition"
     >
-      🌙
-    </button>
-
-    <!-- Search box -->
-    <div class="mb-6">
-      <input
-        id="searchInput"
-        type="text"
-        placeholder="Search articles..."
-        class="w-full p-2 rounded bg-gray-800 text-white border border-gray-700 focus:outline-none focus:ring focus:border-emerald-400 transition"
-      />
-    </div>
-
-    <div id="news-container" class="space-y-4">
-      <p class="text-gray-500">Loading news...</p>
-    </div>
-  </div>
-
-  <script>
-    const newsContainer = document.getElementById("news-container");
-    const searchInput = document.getElementById("searchInput");
-    const toggleThemeBtn = document.getElementById("toggleThemeBtn");
-    const body = document.body;
-    let allArticles = [];
-
-    function loadTheme() {
-      const saved = localStorage.getItem('theme');
-      if (saved === 'light') {
-        body.classList.add('light-mode');
-        toggleThemeBtn.textContent = '☀️';
-      } else {
-        body.classList.remove('light-mode');
-        toggleThemeBtn.textContent = '🌙';
-      }
-    }
-
-    toggleThemeBtn.addEventListener('click', () => {
-      if (body.classList.contains('light-mode')) {
-        body.classList.remove('light-mode');
-        localStorage.setItem('theme', 'dark');
-        toggleThemeBtn.textContent = '🌙';
-      } else {
-        body.classList.add('light-mode');
-        localStorage.setItem('theme', 'light');
-        toggleThemeBtn.textContent = '☀️';
-      }
-    });
-
-    function timeSince(date) {
-      const seconds = Math.floor((new Date() - date) / 1000);
-      const intervals = [
-        { label: "year", seconds: 31536000 },
-        { label: "month", seconds: 2592000 },
-        { label: "day", seconds: 86400 },
-        { label: "hour", seconds: 3600 },
-        { label: "minute", seconds: 60 },
-        { label: "second", seconds: 1 }
-      ];
-
-      for (let i = 0; i < intervals.length; i++) {
-        const interval = intervals[i];
-        const count = Math.floor(seconds / interval.seconds);
-        if (count > 0) {
-          return `Published ${count} ${interval.label}${count !== 1 ? 's' : ''} ago`;
-        }
-      }
-      return "Just now";
-    }
-
-    function deduplicateArticles(articles) {
-      const seen = new Set();
-      const uniqueArticles = [];
-
-      for (const article of articles) {
-        const normTitle = article.title?.toLowerCase().replace(/[^\w\s]/gi, '') || '';
-        if (!seen.has(normTitle)) {
-          seen.add(normTitle);
-          uniqueArticles.push(article);
-        }
-      }
-      return uniqueArticles;
-    }
-
-    function renderArticles(articles) {
-      const uniqueArticles = deduplicateArticles(articles);
-
-      if (!uniqueArticles.length) {
-        newsContainer.innerHTML = "<p class='text-gray-400'>No articles found.</p>";
-        return;
-      }
-
-      const html = uniqueArticles.map(article => {
-        const title = article.title || "Untitled";
-        const source = article.source?.name || "Unknown";
-        const url = article.url || "#";
-        const publishedAt = article.publishedAt || null;
-        const imageUrl = article.
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M21 12.79A9 9 0 0112.21 3a7 7 0 000 14A9 9 0 0121 12.79z" />
