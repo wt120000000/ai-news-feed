@@ -21,7 +21,7 @@
     </div>
 
     <!-- Main Title -->
-    <h1 id="mainTitle" class="text-3xl font-bold mb-4 text-center text-emerald-400">
+    <h1 id="mainTitle" class="text-3xl font-bold mb-4 text-center text-white-400">
       Latest News in A.I.
     </h1>
 
@@ -31,7 +31,7 @@
         id="searchInput"
         type="text"
         placeholder="Search articles..."
-        class="w-full max-w-md px-4 py-2 rounded bg-gray-800 text-white border border-gray-600 focus:outline-none focus:ring-2 focus:ring-emerald-500"
+        class="w-full max-w-md px-4 py-2 rounded bg-gray-800 text-white border border-gray-600 focus:outline-none focus:ring-2 focus:ring-white-500"
       />
     </div>
 
@@ -164,7 +164,7 @@
         document.body.classList.add("bg-white", "text-gray-900");
 
         // Title color for light mode
-        mainTitle.classList.remove("text-emerald-400", "text-white");
+        mainTitle.classList.remove("text-white-400", "text-white");
         mainTitle.classList.add("text-gray-900");
 
         // Update toggle button style (optional)
@@ -179,7 +179,7 @@
 
         // Title color for dark mode
         mainTitle.classList.remove("text-gray-900", "text-white");
-        mainTitle.classList.add("text-emerald-400");
+        mainTitle.classList.add("text-white-400");
 
         // Update toggle button style (optional)
         toggleBtn.classList.remove("bg-gray-900", "text-white");
