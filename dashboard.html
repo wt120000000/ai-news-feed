@@ -17,7 +17,7 @@
   <div class="max-w-3xl mx-auto p-6 relative">
     <!-- Logo Image -->
     <div class="flex justify-center mb-4">
-      <img src="20cc9e62-1001-4ad9-bce1-a5aa4728b3b6.png" alt="AI Eye Logo" class="w-12 h-12">
+      <img src="digital_eye.svg" alt="AI Eye Logo" class="w-12 h-12">
     </div>
 
     <!-- Main Title -->
@@ -34,3 +34,69 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
           d="M21 12.79A9 9 0 0112.21 3a7 7 0 000 14A9 9 0 0121 12.79z" />
+      </svg>
+    </button>
+  </div>
+
+  <!-- News Container -->
+  <div id="newsContainer" class="max-w-3xl mx-auto px-4 grid gap-6 pb-12">
+    <!-- Articles will be inserted here -->
+  </div>
+
+  <script>
+    const container = document.getElementById("newsContainer");
+
+    fetch("ai_news.json")
+      .then(response => response.json())
+      .then(articles => {
+        const seenTitles = new Set();
+
+        articles.forEach(article => {
+          const normalizedTitle = article.title.toLowerCase().replace(/[^a-z0-9]/g, "");
+
+          if (seenTitles.has(normalizedTitle)) return;
+          seenTitles.add(normalizedTitle);
+
+          const card = document.createElement("div");
+          card.className = "bg-gray-900 rounded-lg shadow p-5 transition hover:shadow-lg";
+
+          card.innerHTML = `
+            <h2 class="text-xl font-semibold mb-2 text-emerald-300">${article.title}</h2>
+            <p class="text-sm mb-4 text-gray-400">${article.source.name}</p>
+            <a href="${article.url}" target="_blank" class="inline-block mt-2 text-emerald-400 hover:underline">
+              Read more →
+            </a>
+          `;
+
+          container.appendChild(card);
+        });
+      })
+      .catch(error => {
+        container.innerHTML = `<p class="text-red-500">Failed to load news: ${error}</p>`;
+      });
+
+    // Theme toggle
+    const btn = document.getElementById("toggleThemeBtn");
+    btn.addEventListener("click", () => {
+      const html = document.documentElement;
+      html.dataset.theme = html.dataset.theme === "dark" ? "light" : "dark";
+
+      document.body.classList.toggle("bg-gray-950");
+      document.body.classList.toggle("bg-white");
+      document.body.classList.toggle("text-gray-100");
+      document.body.classList.toggle("text-gray-900");
+    });
+
+    // Auto height for iframe embedding
+    function sendHeightToParent() {
+      const height = document.body.scrollHeight;
+      parent.postMessage({ type: "setHeight", height }, "*");
+    }
+
+    window.addEventListener("load", sendHeightToParent);
+    window.addEventListener("resize", sendHeightToParent);
+    setTimeout(sendHeightToParent, 1000);
+  </script>
+
+</body>
+</html>
