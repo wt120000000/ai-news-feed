@@ -55,7 +55,7 @@
     <div id="newsContainer" class="lg:col-span-2 grid gap-6 pb-12"></div>
 
     <!-- Sidebar -->
-    <aside class="bg-gray-900 p-4 rounded-lg shadow h-fit">
+    <aside class="bg-gray-900 p-4 rounded-lg shadow h-fit sticky top-20">
       <h2 class="text-xl font-bold mb-4 text-emerald-300">🔍 Trending Topics</h2>
       <ul id="trendingList" class="space-y-2 text-sm text-gray-300"></ul>
     </aside>
@@ -169,8 +169,28 @@
         .slice(0, 10);
 
       trendingList.innerHTML = topWords
-        .map(([word, count]) => `<li class="flex justify-between"><span>#${word}</span><span class="text-gray-500">${count}</span></li>`)
+        .map(([word, count]) =>
+          `<li class="flex justify-between cursor-pointer hover:text-emerald-400">
+            <a href="#" data-tag="${word}" class="flex justify-between w-full">
+              <span>#${word}</span><span class="text-gray-500">${count}</span>
+            </a>
+          </li>`
+        )
         .join("");
+
+      // Add click listeners to each tag link
+      trendingList.querySelectorAll("a[data-tag]").forEach(link => {
+        link.addEventListener("click", e => {
+          e.preventDefault();
+          const tag = e.currentTarget.getAttribute("data-tag");
+          searchInput.value = tag; // show tag in search input
+          filteredArticles = articles.filter(article =>
+            article.title.toLowerCase().includes(tag)
+          );
+          currentPage = 1;
+          renderPage();
+        });
+      });
     }
 
     searchInput.addEventListener("keyup", () => {
