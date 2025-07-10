@@ -93,6 +93,19 @@
       "new", "one", "two", "all", "can", "its", "out", "as", "on", "at", "in", "a", "an", "of", "to", "by"
     ]);
 
+    // Helper to format date or say "Today"
+    function formatArticleDate(dateStr) {
+      const date = new Date(dateStr);
+      const now = new Date();
+      const isToday = date.toDateString() === now.toDateString();
+      if (isToday) return "Today";
+      // Format MM/DD/YYYY
+      const mm = String(date.getMonth() + 1).padStart(2, "0");
+      const dd = String(date.getDate()).padStart(2, "0");
+      const yyyy = date.getFullYear();
+      return `${mm}/${dd}/${yyyy}`;
+    }
+
     fetch("ai_news.json")
       .then(response => response.json())
       .then(data => {
@@ -103,6 +116,10 @@
           seenTitles.add(norm);
           return true;
         });
+
+        // Sort articles newest first by publishedAt date
+        articles.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+
         filteredArticles = articles;
         renderPage();
         renderTrendingKeywords();
@@ -129,11 +146,16 @@
           ? `<img src="${article.image}" alt="${article.title}" class="w-full h-48 object-cover">`
           : "";
 
+        const formattedDate = article.publishedAt ? formatArticleDate(article.publishedAt) : "";
+
         card.innerHTML = `
           ${imageHtml}
           <div class="p-5">
             <h2 class="text-xl font-semibold mb-2 text-white">${article.title}</h2>
-            <p class="text-sm mb-4 text-gray-400">${article.source.name}</p>
+            <p class="text-sm mb-4 text-gray-400">
+              <span class="mr-2">${formattedDate}</span>
+              <span>${article.source.name}</span>
+            </p>
             <a href="${article.url}" target="_blank" class="inline-block mt-2 text-white hover:underline">
               Read more →
             </a>
