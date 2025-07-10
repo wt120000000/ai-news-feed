@@ -1,15 +1,46 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" >
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Live AI News Feed</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* Light mode overrides */
+    .light-mode {
+      background-color: #f9fafb; /* Tailwind gray-50 */
+      color: #111827; /* Tailwind gray-900 */
+    }
+    .light-mode input {
+      background-color: #e5e7eb; /* Tailwind gray-200 */
+      color: #111827;
+      border-color: #d1d5db;
+    }
+    .light-mode a {
+      color: #047857; /* Tailwind emerald-700 */
+    }
+    .light-mode .article-card {
+      background-color: #ffffff;
+      box-shadow: 0 1px 2px rgb(0 0 0 / 0.05);
+    }
+    .light-mode .article-card:hover {
+      background-color: #d1fae5; /* Tailwind emerald-100 */
+    }
+  </style>
 </head>
-<body class="bg-gray-950 text-white font-sans min-h-screen">
-  <div class="max-w-3xl mx-auto p-6">
+<body class="bg-gray-950 text-white font-sans min-h-screen transition-colors duration-300">
+  <div class="max-w-3xl mx-auto p-6 relative">
     <h1 class="text-3xl font-bold mb-4 text-center text-emerald-400">🧠 Live AI News Feed</h1>
     <p class="text-sm text-gray-400 mb-6 text-center">Auto-updated hourly from <code>ai_news.json</code></p>
+
+    <!-- Dark mode toggle -->
+    <button
+      id="toggleThemeBtn"
+      aria-label="Toggle dark mode"
+      class="absolute top-6 right-6 bg-gray-800 hover:bg-gray-700 text-white px-3 py-1 rounded transition"
+    >
+      🌙
+    </button>
 
     <!-- Search box -->
     <div class="mb-6">
@@ -17,7 +48,7 @@
         id="searchInput"
         type="text"
         placeholder="Search articles..."
-        class="w-full p-2 rounded bg-gray-800 text-white border border-gray-700 focus:outline-none focus:ring focus:border-emerald-400"
+        class="w-full p-2 rounded bg-gray-800 text-white border border-gray-700 focus:outline-none focus:ring focus:border-emerald-400 transition"
       />
     </div>
 
@@ -29,47 +60,34 @@
   <script>
     const newsContainer = document.getElementById("news-container");
     const searchInput = document.getElementById("searchInput");
+    const toggleThemeBtn = document.getElementById("toggleThemeBtn");
+    const body = document.body;
     let allArticles = [];
 
-    async function loadNews() {
-      try {
-        const response = await fetch("ai_news.json");
-        const data = await response.json();
-        allArticles = data;
-        renderArticles(data);
-      } catch (err) {
-        newsContainer.innerHTML = "<p class='text-red-400'>Failed to load news.</p>";
-        console.error("Error fetching news:", err);
+    // Load saved theme or default to dark
+    function loadTheme() {
+      const saved = localStorage.getItem('theme');
+      if (saved === 'light') {
+        body.classList.add('light-mode');
+        toggleThemeBtn.textContent = '☀️';
+      } else {
+        body.classList.remove('light-mode');
+        toggleThemeBtn.textContent = '🌙';
       }
     }
 
-    function renderArticles(articles) {
-      if (!articles.length) {
-        newsContainer.innerHTML = "<p class='text-gray-400'>No articles found.</p>";
-        return;
+    // Toggle theme on button click
+    toggleThemeBtn.addEventListener('click', () => {
+      if (body.classList.contains('light-mode')) {
+        body.classList.remove('light-mode');
+        localStorage.setItem('theme', 'dark');
+        toggleThemeBtn.textContent = '🌙';
+      } else {
+        body.classList.add('light-mode');
+        localStorage.setItem('theme', 'light');
+        toggleThemeBtn.textContent = '☀️';
       }
-
-      const html = articles.map(article => {
-        const title = article.title || "Untitled";
-        const source = article.source?.name || "Unknown";
-        const url = article.url || "#";
-        const publishedAt = article.publishedAt || null;
-        const timeAgo = publishedAt ? timeSince(new Date(publishedAt)) : "Unknown time";
-
-        return `
-          <div class="p-4 bg-gray-800 rounded-lg shadow hover:bg-gray-700 transition">
-            <a href="${url}" target="_blank" class="text-lg font-semibold text-emerald-300 hover:underline">
-              ${title}
-            </a>
-            <div class="text-sm text-gray-400 mt-1">
-              Source: ${source} · <span>${timeAgo}</span>
-            </div>
-          </div>
-        `;
-      }).join("");
-
-      newsContainer.innerHTML = html;
-    }
+    });
 
     function timeSince(date) {
       const seconds = Math.floor((new Date() - date) / 1000);
@@ -92,7 +110,59 @@
       return "Just now";
     }
 
-    // Filter articles based on search
+    function renderArticles(articles) {
+      if (!articles.length) {
+        newsContainer.innerHTML = "<p class='text-gray-400'>No articles found.</p>";
+        return;
+      }
+
+      const html = articles.map(article => {
+        const title = article.title || "Untitled";
+        const source = article.source?.name || "Unknown";
+        const url = article.url || "#";
+        const publishedAt = article.publishedAt || null;
+        const imageUrl = article.image || article.urlToImage || null;
+        const timeAgo = publishedAt ? timeSince(new Date(publishedAt)) : "Unknown time";
+
+        return `
+          <div class="article-card flex items-center p-4 bg-gray-800 rounded-lg shadow hover:bg-gray-700 transition">
+            <a href="${url}" target="_blank" class="block flex-shrink-0 mr-4 rounded overflow-hidden w-20 h-20 bg-gray-700">
+              <img
+                src="${imageUrl || 'https://via.placeholder.com/80?text=No+Image'}"
+                alt="Article image"
+                class="w-full h-full object-cover"
+                loading="lazy"
+                onerror="this.onerror=null;this.src='https://via.placeholder.com/80?text=No+Image';"
+              />
+            </a>
+            <div class="flex-grow">
+              <a href="${url}" target="_blank" class="text-lg font-semibold text-emerald-300 hover:underline">
+                ${title}
+              </a>
+              <div class="text-sm text-gray-400 mt-1">
+                Source: ${source} · <span>${timeAgo}</span>
+              </div>
+            </div>
+          </div>
+        `;
+      }).join("");
+
+      newsContainer.innerHTML = html;
+    }
+
+    async function loadNews() {
+      try {
+        const response = await fetch("ai_news.json");
+        const data = await response.json();
+        allArticles = data;
+        renderArticles(data);
+      } catch (err) {
+        newsContainer.innerHTML = "<p class='text-red-400'>Failed to load news.</p>";
+        console.error("Error fetching news:", err);
+      }
+    }
+
+    // Search filter
     searchInput.addEventListener("input", () => {
       const keyword = searchInput.value.toLowerCase();
       const filtered = allArticles.filter(article =>
@@ -102,6 +172,8 @@
       renderArticles(filtered);
     });
 
+    // Initialize theme and load news
+    loadTheme();
     loadNews();
   </script>
 </body>
