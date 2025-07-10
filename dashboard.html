@@ -21,7 +21,7 @@
     </div>
 
     <!-- Main Title -->
-    <h1 class="text-3xl font-bold mb-4 text-center text-emerald-400">
+    <h1 id="mainTitle" class="text-3xl font-bold mb-4 text-center text-emerald-400">
       Latest News in A.I.
     </h1>
 
@@ -67,6 +67,8 @@
     const prevBtn = document.getElementById("prevBtn");
     const nextBtn = document.getElementById("nextBtn");
     const pageIndicator = document.getElementById("pageIndicator");
+    const mainTitle = document.getElementById("mainTitle");
+    const toggleBtn = document.getElementById("toggleThemeBtn");
 
     let articles = [];
     let filteredArticles = [];
@@ -111,9 +113,9 @@
         card.innerHTML = `
           ${imageHtml}
           <div class="p-5">
-            <h2 class="text-xl font-semibold mb-2 text-emerald-300">${article.title}</h2>
+            <h2 class="text-xl font-semibold mb-2 text-white">${article.title}</h2>
             <p class="text-sm mb-4 text-gray-400">${article.source.name}</p>
-            <a href="${article.url}" target="_blank" class="inline-block mt-2 text-emerald-400 hover:underline">
+            <a href="${article.url}" target="_blank" class="inline-block mt-2 text-white hover:underline">
               Read more →
             </a>
           </div>
@@ -151,14 +153,38 @@
       }
     });
 
-    document.getElementById("toggleThemeBtn").addEventListener("click", () => {
+    toggleBtn.addEventListener("click", () => {
       const html = document.documentElement;
-      html.dataset.theme = html.dataset.theme === "dark" ? "light" : "dark";
 
-      document.body.classList.toggle("bg-gray-950");
-      document.body.classList.toggle("bg-white");
-      document.body.classList.toggle("text-white");
-      document.body.classList.toggle("text-gray-900");
+      if (html.dataset.theme === "dark") {
+        // Switch to light mode
+        html.dataset.theme = "light";
+
+        document.body.classList.remove("bg-gray-950", "text-white");
+        document.body.classList.add("bg-white", "text-gray-900");
+
+        // Title color for light mode
+        mainTitle.classList.remove("text-emerald-400", "text-white");
+        mainTitle.classList.add("text-gray-900");
+
+        // Update toggle button style (optional)
+        toggleBtn.classList.remove("bg-white", "text-black");
+        toggleBtn.classList.add("bg-gray-900", "text-white");
+      } else {
+        // Switch to dark mode
+        html.dataset.theme = "dark";
+
+        document.body.classList.remove("bg-white", "text-gray-900");
+        document.body.classList.add("bg-gray-950", "text-white");
+
+        // Title color for dark mode
+        mainTitle.classList.remove("text-gray-900", "text-white");
+        mainTitle.classList.add("text-emerald-400");
+
+        // Update toggle button style (optional)
+        toggleBtn.classList.remove("bg-gray-900", "text-white");
+        toggleBtn.classList.add("bg-white", "text-black");
+      }
     });
 
     function sendHeightToParent() {
