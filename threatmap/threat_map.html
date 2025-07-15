@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Singularity Overwatch: Threat Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <style>
+    html, body { margin: 0; padding: 0; height: 100%; background: black; color: white; }
+    #map { height: 100%; }
+    .legend {
+      position: absolute;
+      bottom: 20px;
+      left: 20px;
+      background: rgba(0,0,0,0.6);
+      padding: 10px;
+      border-radius: 5px;
+      font-size: 14px;
+      color: white;
+      z-index: 1000;
+    }
+    .legend div { margin: 4px 0; }
+    .ticker {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      background: #111;
+      color: #00ff00;
+      white-space: nowrap;
+      overflow: hidden;
+      font-family: monospace;
+      font-size: 14px;
+      padding: 5px 0;
+      z-index: 999;
+    }
+    .ticker-text {
+      display: inline-block;
+      padding-left: 100%;
+      animation: scroll linear infinite;
+    }
+    @keyframes scroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-100%); }
+    }
+    .conflict-cluster div {
+      background-color: red !important;
+      color: white;
+    }
+    .earthquake-cluster div {
+      background-color: yellow !important;
+      color: black;
+    }
+    .disaster-cluster div {
+      background-color: orange !important;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <div class="legend">
+    <div><span style="color: yellow">●</span> Earthquakes</div>
+    <div><span style="color: red">●</span> Conflicts</div>
+    <div><span style="color: orange">●</span> Disasters</div>
+  </div>
+  <div class="ticker"><span id="ticker-text" class="ticker-text"></span></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script>
+    const map = L.map('map').setView([20, 0], 2);
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    const tickerItems = [];
+    const conflictCluster = L.markerClusterGroup({ iconCreateFunction: cluster => createClusterIcon(cluster, 'red') });
+    const earthquakeCluster = L.markerClusterGroup({ iconCreateFunction: cluster => createClusterIcon(cluster, 'yellow') });
+    const disasterCluster = L.markerClusterGroup({ iconCreateFunction: cluster => createClusterIcon(cluster, 'orange') });
+
+    function createClusterIcon(cluster, color) {
+      return L.divIcon({
+        html: `<div style='background-color:${color};border-radius:50%;width:40px;height:40px;line-height:40px;text-align:center;color:#000;font-weight:bold;'>${cluster.getChildCount()}</div>`,
+        className: '',
+        iconSize: [40, 40]
+      });
+    }
+
+    async function loadConflicts() {
+      const res = await fetch("https://sheetdb.io/api/v1/4m2kw4g0y4djd?sheet=conflicts");
+      const data = await res.json();
+      data.forEach(event => {
+        const lat = parseFloat(event.latitude);
+        const lng = parseFloat(event.longitude);
+        const fatalities = parseInt(event.fatalities);
+        if (!isNaN(lat) && !isNaN(lng) && fatalities > 0) {
+          const marker = L.circleMarker([lat, lng], {
+            color: 'red', radius: 6, fillOpacity: 0.7
+          }).bindPopup(`<b>${event.sub_event_type}</b><br><b>Date:</b> ${event.event_date}<br><b>Actor:</b> ${event.actor1}<br><b>Location:</b> ${event.location}<br><b>Fatalities:</b> ${event.fatalities}<br><a href='https://acleddata.com/' target='_blank'>Source</a>`);
+          conflictCluster.addLayer(marker);
+          tickerItems.push(`${event.sub_event_type} - ${event.region} (${event.event_date})`);
+        }
+      });
+    }
+
+    async function loadEarthquakes() {
+      const res = await fetch("https://sheetdb.io/api/v1/4m2kw4g0y4djd?sheet=earthquakes");
+      const data = await res.json();
+      if (!Array.isArray(data)) return;
+      data.forEach(eq => {
+        const lat = parseFloat(eq.latitude);
+        const lng = parseFloat(eq.longitude);
+        if (!isNaN(lat) && !isNaN(lng)) {
+          const marker = L.circleMarker([lat, lng], {
+            color: 'yellow', radius: 5, fillOpacity: 0.6
+          }).bindPopup(`<b>Earthquake</b><br><b>Date:</b> ${eq.date}<br><b>Magnitude:</b> ${eq.magnitude}<br><b>Location:</b> ${eq.location}`);
+          earthquakeCluster.addLayer(marker);
+          tickerItems.push(`Earthquake - ${eq.location} (${eq.date})`);
+        }
+      });
+    }
+
+    async function loadDisasters() {
+      const res = await fetch("https://sheetdb.io/api/v1/4m2kw4g0y4djd?sheet=disasters");
+      const data = await res.json();
+      data.forEach(d => {
+        const lat = parseFloat(d.lat);
+        const lng = parseFloat(d.lng);
+        if (!isNaN(lat) && !isNaN(lng)) {
+          const marker = L.circleMarker([lat, lng], {
+            color: 'orange', radius: 6, fillOpacity: 0.7
+          }).bindPopup(`<b>${d.title}</b><br><b>Date:</b> ${d.date}<br><b>Details:</b> ${d.description}<br><a href='${d.url}' target='_blank'>Source</a>`);
+          disasterCluster.addLayer(marker);
+          tickerItems.push(`${d.title} - ${d.date} (${d.lat}, ${d.lng})`);
+        }
+      });
+    }
+
+    function updateTicker() {
+      const ticker = document.getElementById("ticker-text");
+      ticker.innerText = tickerItems.join("  •  ");
+      const charCount = ticker.innerText.length;
+      const speed = 8; // characters per second
+      const duration = charCount / speed;
+      ticker.style.animationDuration = `${duration}s`;
+    }
+
+    async function init() {
+      await Promise.all([loadConflicts(), loadEarthquakes(), loadDisasters()]);
+      map.addLayer(conflictCluster);
+      map.addLayer(earthquakeCluster);
+      map.addLayer(disasterCluster);
+      updateTicker();
+    }
+
+    init();
+  </script>
+</body>
+</html>
