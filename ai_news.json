@@ -1,5 +1,19 @@
 [
     {
+        "id": "747222a10089842d2af5d5159ef167c8",
+        "title": "Zuckerberg says Meta will build a data center the size of Manhattan in latest AI push",
+        "description": "The CEO said the company plans to spend hundreds of billions on developing artificial intelligence products",
+        "content": "Mark Zuckerberg proclaimed that Meta would spend hundreds of billions of dollars on developing artificial intelligence products in the near future and, to that end, construct a data center planned to be nearly the size of Manhattan.\nThe parent compan... [2888 chars]",
+        "url": "https://www.theguardian.com/technology/2025/jul/16/zuckerberg-meta-data-center-ai-manhattan",
+        "image": "https://i.guim.co.uk/img/media/74c3161f569512ffab2c4418861414e77dd52087/0_0_2506_2005/master/2506.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfec4876ec75daf8c2cd5eaa4d894080",
+        "publishedAt": "2025-07-16T18:07:37Z",
+        "source": {
+            "id": "01558c024928d45cf320f6f75eede787",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com"
+        }
+    },
+    {
         "id": "fef33585637e582e46280853933d067f",
         "title": "AI Is Heading For an Energy Crisis That Has Tech Giants Scrambling",
         "description": "The artificial intelligence industry is scrambling to reduce its massive energy consumption through better cooling systems, more efficient computer chips, and smarter programming – all while AI usage explodes worldwide.",
@@ -123,20 +137,6 @@
             "id": "a626af07817344050e3336789e06a2f5",
             "name": "Vancouver Is Awesome",
             "url": "https://www.vancouverisawesome.com"
-        }
-    },
-    {
-        "id": "b4630412da2f4f00a85114e872c1d67a",
-        "title": "After meeting with Trump, Nvidia CEO says the sale of AI chip is back on in China",
-        "description": "BANGKOK (AP) — Nvidia’s CEO Jensen Huang says the technology giant has won approval from the Trump administration to sell its advanced H20 computer chips used to develop artificial intelligence to China.",
-        "content": "BANGKOK (AP) — Nvidia’s CEO Jensen Huang says the technology giant has won approval from the Trump administration to sell its advanced H20 computer chips used to develop artificial intelligence to China.\nThe news came in a company blog post late Mond... [2625 chars]",
-        "url": "https://www.sootoday.com/national-business/after-meeting-with-trump-nvidia-ceo-says-the-sale-of-ai-chip-is-back-on-in-china-10943967",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/3aeae3abfc026d2b1f371518b0ff071a4e8bfceece9deb021f2a34acf9d54f49.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-07-15T12:03:15Z",
-        "source": {
-            "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-            "name": "SooToday",
-            "url": "https://www.sootoday.com"
         }
     }
 ]
