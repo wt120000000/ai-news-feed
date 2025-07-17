@@ -1,5 +1,19 @@
 [
     {
+        "id": "0a2f9ed87bcdc3b67d8fe90f798e92c8",
+        "title": "AI firms ‘unprepared’ for dangers of building human-level systems, report warns",
+        "description": "Future of Life Institute says companies pursuing artificial general intelligence lack credible plans to ensure safety",
+        "content": "Artificial intelligence companies are “fundamentally unprepared” for the consequences of creating systems with human-level intellectual performance, according to a leading AI safety group.\nThe Future of Life Institute (FLI) said none of the firms on ... [3119 chars]",
+        "url": "https://www.theguardian.com/technology/2025/jul/17/ai-firms-unprepared-for-dangers-of-building-human-level-systems-report-warns",
+        "image": "https://i.guim.co.uk/img/media/e0d13c6ce0b90597a109492537328402905b91ca/893_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cc96076541d1cfeb3234b635ebfdd3f",
+        "publishedAt": "2025-07-17T07:00:32Z",
+        "source": {
+            "id": "01558c024928d45cf320f6f75eede787",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com"
+        }
+    },
+    {
         "id": "e4d0e2a65250f8c324a8be2d0d8d6436",
         "title": "The King and AI: A humanoid robot has painted a picture of Charles. How did it do?",
         "description": "The artistic humanoid used advanced artificial intelligence algorithms and a robot arm using on oil canvas to create the image.",
@@ -123,20 +137,6 @@
             "id": "614ca0bad5b30dae34d65bb6aa5468a7",
             "name": "Castanet.net",
             "url": "https://www.castanet.net"
-        }
-    },
-    {
-        "id": "e1679a295da8de942d454b4c7b5d6a10",
-        "title": "Oracle to invest US$3 billion in AI, cloud expansion in Europe",
-        "description": "Oracle will invest US$3 billion in Germany and the Netherlands over the next five years to bolster its infrastructure powering artificial intelligence.",
-        "content": "In this Monday, June 18, 2012, file photo, a man walks near the Oracle headquarters in Redwood City, Calif. (AP Photo / Paul Sakuma, File)\nOracle will invest US$3 billion in Germany and the Netherlands over the next five years to bolster its infrastr... [1795 chars]",
-        "url": "https://www.cp24.com/news/world/2025/07/15/oracle-to-invest-us3-billion-in-ai-cloud-expansion-in-germany-netherlands/",
-        "image": "https://www.cp24.com/resizer/v2/F6ASOYTWBJI5JMLQTMWKEAB3N4.jpg?smart=true&auth=d9db76fcb93871f4b14f702e7072707dd9ec049f1e2f839963b831d1c7cff6b1&width=1200&height=630",
-        "publishedAt": "2025-07-15T15:56:37Z",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com"
         }
     }
 ]
