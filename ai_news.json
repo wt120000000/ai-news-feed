@@ -1,5 +1,19 @@
 [
     {
+        "id": "9095d5f1e36a78610bac3adb431d2573",
+        "title": "U.S. authors can sue Anthropic together, judge rules",
+        "description": "A California federal judge ruled that authors suing artificial intelligence startup Anthropic for copyright infringement can represent writers nationwide.",
+        "content": "A California federal judge ruled on Thursday that three authors suing artificial intelligence startup Anthropic for copyright infringement can represent writers nationwide whose books Anthropic allegedly pirated to train its AI system.\nU.S. District ... [1761 chars]",
+        "url": "https://www.cp24.com/news/world/2025/07/17/us-authors-suing-anthropic-can-band-together-in-copyright-class-action-judge-rules/",
+        "image": "https://www.cp24.com/resizer/v2/JDT2RFSO4FZAAXBECDJORTU32A.jpg?smart=true&auth=46218d92c6f35677bfac4ff33553bc701ae4e166d19fccafb442864509d4088e&width=1200&height=630",
+        "publishedAt": "2025-07-17T14:51:11Z",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com"
+        }
+    },
+    {
         "id": "2b60a9258d3eb0e495ed04bea7150b30",
         "title": "Routine eye scan 'could predict 10-year heart attack and stroke risk', University of Dundee study suggests",
         "description": "Researchers used artificial intelligence (AI) to analyse digital retinal photographs, with the technology able to produce personalised risk predictors in less than a second.",
@@ -123,20 +137,6 @@
             "id": "35515662ec044d3f94b543cd8802d63f",
             "name": "WDIV ClickOnDetroit",
             "url": "https://www.clickondetroit.com"
-        }
-    },
-    {
-        "id": "46685f2f33572e1fca96e0578d51214d",
-        "title": "Tech and energy giants pour billions to turn Pennsylvania into an AI hub as part of Trump’s tech push",
-        "description": "President Donald Trump on Tuesday announced an investment of more than $90 billion from private companies across tech, energy and finance to turn Pennsylvania into a hub for artificial intelligence — a technology that’s expected to upend everything from the economy to health care and education.",
-        "content": "CNN —\nPresident Donald Trump on Tuesday announced an investment of more than $90 billion from private companies across tech, energy and finance to turn Pennsylvania into a hub for artificial intelligence — a technology that’s expected to upend everyt... [3956 chars]",
-        "url": "https://edition.cnn.com/2025/07/15/tech/ai-energy-summit-90-billion-trump-anthropic-meta-google",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2224605868.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-07-15T20:49:32Z",
-        "source": {
-            "id": "26269dbc42635df9af8c24f3cdab8e37",
-            "name": "Cable News Network",
-            "url": "https://edition.cnn.com"
         }
     }
 ]
