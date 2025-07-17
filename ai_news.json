@@ -1,5 +1,19 @@
 [
     {
+        "id": "2b60a9258d3eb0e495ed04bea7150b30",
+        "title": "Routine eye scan 'could predict 10-year heart attack and stroke risk', University of Dundee study suggests",
+        "description": "Researchers used artificial intelligence (AI) to analyse digital retinal photographs, with the technology able to produce personalised risk predictors in less than a second.",
+        "content": "A scan which forms part of a routine eye test could help predict a person's risk of having a heart attack or stroke within the next 10 years, a study has suggested.\nResearchers at the University of Dundee used artificial intelligence (AI) to analyse ... [3018 chars]",
+        "url": "https://news.sky.com/story/routine-eye-scan-could-predict-10-year-heart-attack-and-stroke-risk-university-of-dundee-study-suggests-13397840",
+        "image": "https://e3.365dm.com/25/07/1600x900/skynews-optometrist-eye-test_6966799.jpg?20250717100402",
+        "publishedAt": "2025-07-17T09:55:00Z",
+        "source": {
+            "id": "64af9ff6ec07d70d68e9adf4e68843a5",
+            "name": "Sky News",
+            "url": "https://news.sky.com"
+        }
+    },
+    {
         "id": "0a2f9ed87bcdc3b67d8fe90f798e92c8",
         "title": "AI firms ‘unprepared’ for dangers of building human-level systems, report warns",
         "description": "Future of Life Institute says companies pursuing artificial general intelligence lack credible plans to ensure safety",
@@ -123,20 +137,6 @@
             "id": "26269dbc42635df9af8c24f3cdab8e37",
             "name": "Cable News Network",
             "url": "https://edition.cnn.com"
-        }
-    },
-    {
-        "id": "5adda3f6a191dd8cef2d8ab5b59e9954",
-        "title": "LaPointe: Google’s AI delivering a blow to newsrooms it's built on",
-        "description": "Thanks in advance for taking the time to read this column. Not sure how you found it, because a new threat arising from artificial intelligence’s advances is rapidly making this, and other sources of journalism, easier to avoid.",
-        "content": "Photo: Contributed AI news summaries threaten 'original' journalism.\nThanks in advance for taking the time to read this column. Not sure how you found it, because a new threat arising from artificial intelligence’s advances is rapidly making this, an... [5420 chars]",
-        "url": "https://www.castanet.net/edition/news-story-561097-1106-.htm",
-        "image": "https://www.castanet.net/content/2025/7/hands-1853302_1280_p4219056.jpg",
-        "publishedAt": "2025-07-15T18:00:00Z",
-        "source": {
-            "id": "614ca0bad5b30dae34d65bb6aa5468a7",
-            "name": "Castanet.net",
-            "url": "https://www.castanet.net"
         }
     }
 ]
