@@ -1,5 +1,19 @@
 [
     {
+        "id": "8711d0f8adbaaa80c1b7c79c2ce38244",
+        "title": "I asked ChatGPT the best pub in Birmingham then headed straight there",
+        "description": "I wanted to see if artificial intelligence could pull off the perfect recommendation",
+        "content": "Our community members are treated to special offers, promotions and adverts from us and our partners. You can check out at any time. More info\nI'm holding my hands up and announcing this isn't your typical pub review, this isn't your typical review i... [5083 chars]",
+        "url": "https://www.birminghammail.co.uk/whats-on/food-drink-news/asked-chatgpt-best-pub-birmingham-32080616",
+        "image": "https://i2-prod.birminghammail.co.uk/incoming/article32081719.ece/ALTERNATES/s1200/0_IMG_5306.jpg",
+        "publishedAt": "2025-07-18T06:07:00Z",
+        "source": {
+            "id": "cc0de8416f75329df7c88d7524745d12",
+            "name": "Birmingham Live",
+            "url": "https://www.birminghammail.co.uk"
+        }
+    },
+    {
         "id": "f9eadd0b4e14094769afbbad037acb13",
         "title": "Meta Poaches Two More Apple AI Executives",
         "description": "After poaching one of Apple's top artificial intelligence executives with a $200 million pay package to lure him away from the company, Meta...",
@@ -123,20 +137,6 @@
             "id": "20ca9773b4c0563e26b4c2863bdf8c19",
             "name": "The Associated Press",
             "url": "https://apnews.com"
-        }
-    },
-    {
-        "id": "9095d5f1e36a78610bac3adb431d2573",
-        "title": "U.S. authors can sue Anthropic together, judge rules",
-        "description": "A California federal judge ruled that authors suing artificial intelligence startup Anthropic for copyright infringement can represent writers nationwide.",
-        "content": "A California federal judge ruled on Thursday that three authors suing artificial intelligence startup Anthropic for copyright infringement can represent writers nationwide whose books Anthropic allegedly pirated to train its AI system.\nU.S. District ... [1761 chars]",
-        "url": "https://www.cp24.com/news/world/2025/07/17/us-authors-suing-anthropic-can-band-together-in-copyright-class-action-judge-rules/",
-        "image": "https://www.cp24.com/resizer/v2/JDT2RFSO4FZAAXBECDJORTU32A.jpg?smart=true&auth=46218d92c6f35677bfac4ff33553bc701ae4e166d19fccafb442864509d4088e&width=1200&height=630",
-        "publishedAt": "2025-07-17T14:51:11Z",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com"
         }
     }
 ]
