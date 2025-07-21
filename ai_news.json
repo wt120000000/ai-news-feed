@@ -1,5 +1,19 @@
 [
     {
+        "id": "bdd3c23443034ca7d0ed30d8cfd03417",
+        "title": "Meta snubs the EU’s voluntary AI guidelines",
+        "description": "Meta says it won’t sign the European Union’s artificial intelligence code of practice agreement, warning that “Europe is heading down the wrong path on AI.”",
+        "content": "Meta says it won’t sign the European Union’s artificial intelligence code of practice agreement, warning that “Europe is heading down the wrong path on AI.” The code published by the EU on July 10th is a voluntary set of guidelines to help companies ... [1633 chars]",
+        "url": "https://www.theverge.com/news/710576/meta-eu-ai-act-code-of-practice-agreement",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-07-21T11:13:49Z",
+        "source": {
+            "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+            "name": "The Verge",
+            "url": "https://www.theverge.com"
+        }
+    },
+    {
         "id": "b728f031d6e5a0e2e32ed675d0539876",
         "title": "AI reshapes ARDS care by predicting risk, guiding ventilation, and personalizing treatment",
         "description": "Artificial intelligence and machine learning are transforming acute respiratory distress syndrome (ARDS) management, enabling earlier detection, precision risk stratification, and tailored therapies. Emerging AI techniques promise to improve outcomes, but real-world clinical validation and integration remain critical challenges.",
@@ -39,20 +53,6 @@
             "id": "85e5403407038478a5e7d8d100ff8e8f",
             "name": "CP24 Toronto",
             "url": "https://www.cp24.com"
-        }
-    },
-    {
-        "id": "df2be689771ee41f25cfee2588a5521f",
-        "title": "Ottawa weighing plans on AI and copyright as OpenAI fights Ontario court jurisdiction",
-        "description": "OTTAWA — Canada's artificial intelligence minister is keeping a close watch on ongoing court cases in Canada and the U.S. to determine next steps for the government's regulatory approach to AI.",
-        "content": "OTTAWA — Canada's artificial intelligence minister is keeping a close watch on ongoing court cases in Canada and the U.S. to determine next steps for the government's regulatory approach to AI.\nSome AI companies have claimed early wins south of the b... [4940 chars]",
-        "url": "https://www.guelphtoday.com/national-news/ottawa-weighing-plans-on-ai-and-copyright-as-openai-fights-ontario-court-jurisdiction-10965914",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/6674e3a3c054e8deca3ba9b53f35e95437b0785383e7e235aae8e6462f3e94f9.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-07-19T10:00:14Z",
-        "source": {
-            "id": "300a668ea1fb6b59c9da32db8e856d66",
-            "name": "GuelphToday",
-            "url": "https://www.guelphtoday.com"
         }
     },
     {
