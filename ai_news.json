@@ -1,5 +1,19 @@
 [
     {
+        "id": "bb9cb172de1d1afed096ebf8ac231a2f",
+        "title": "OpenAI signs deal with UK to find government uses for its models",
+        "description": "Wide-ranging agreement with artificial intelligence firm behind ChatGPT comes after similar UK deal with Google",
+        "content": "Sam Altman, leader of one of the world’s biggest artificial intelligence companies, has signed a deal with the British government to explore the deployment of advanced AI models in areas including justice, security and education.\nThe chief executive ... [3726 chars]",
+        "url": "https://www.theguardian.com/technology/2025/jul/21/openai-signs-deal-with-uk-to-find-government-uses-for-its-models",
+        "image": "https://i.guim.co.uk/img/media/19cef061abc67b3d2926d0ecbd82cf652eabaf88/454_0_4591_3673/master/4591.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05e568fe49a016bcd79815d0458e8a1d",
+        "publishedAt": "2025-07-21T19:45:49Z",
+        "source": {
+            "id": "01558c024928d45cf320f6f75eede787",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com"
+        }
+    },
+    {
         "id": "bdd3c23443034ca7d0ed30d8cfd03417",
         "title": "Meta snubs the EU’s voluntary AI guidelines",
         "description": "Meta says it won’t sign the European Union’s artificial intelligence code of practice agreement, warning that “Europe is heading down the wrong path on AI.”",
@@ -53,20 +67,6 @@
             "id": "85e5403407038478a5e7d8d100ff8e8f",
             "name": "CP24 Toronto",
             "url": "https://www.cp24.com"
-        }
-    },
-    {
-        "id": "be747dbcf94375c5fd3f06d7d951bc00",
-        "title": "Ottawa weighing plans on AI and copyright as OpenAI fights Ontario court jurisdiction",
-        "description": "OTTAWA — Canada's artificial intelligence minister is keeping a close watch on ongoing court cases in Canada and the U.S. to determine next steps for the government's regulatory approach to AI.",
-        "content": "OTTAWA — Canada's artificial intelligence minister is keeping a close watch on ongoing court cases in Canada and the U.S. to determine next steps for the government's regulatory approach to AI.\nSome AI companies have claimed early wins south of the b... [4940 chars]",
-        "url": "https://www.elliotlaketoday.com/national-news/ottawa-weighing-plans-on-ai-and-copyright-as-openai-fights-ontario-court-jurisdiction-10965914",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/6674e3a3c054e8deca3ba9b53f35e95437b0785383e7e235aae8e6462f3e94f9.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-07-19T10:00:14Z",
-        "source": {
-            "id": "b93fbda11fec5c2f08572a67a337e87d",
-            "name": "ElliotLakeToday.com",
-            "url": "https://www.elliotlaketoday.com"
         }
     },
     {
