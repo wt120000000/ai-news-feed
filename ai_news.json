@@ -1,5 +1,19 @@
 [
     {
+        "id": "cbfb63abd3584c9f411f4a0f9620d379",
+        "title": "AI turns old diabetes drug Halicin into a potent weapon against superbugs",
+        "description": "Researchers found that Halicin, an AI-identified drug, effectively inhibited most multidrug-resistant bacteria except Pseudomonas aeruginosa. The study highlights Halicin’s broad-spectrum antibacterial potential and the transformative role of artificial intelligence in antibiotic discovery.",
+        "content": "Can an AI-repurposed diabetes drug tackle our toughest superbugs? Researchers reveal Halicin’s powerful action against deadly multidrug-resistant bacteria, except for one elusive foe.\nStudy: Halicin: A New Approach to Antibacterial Therapy, a Promisi... [6441 chars]",
+        "url": "https://www.news-medical.net/news/20250720/AI-turns-old-diabetes-drug-Halicin-into-a-potent-weapon-against-superbugs.aspx",
+        "image": "https://www.news-medical.net/images/news/ImageForNews_814923_17530640440916573.jpg",
+        "publishedAt": "2025-07-21T02:15:00Z",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net"
+        }
+    },
+    {
         "id": "202b280dfb00c3ba3564bd3dee2ffdb4",
         "title": "OpenAI fights Ontario court jurisdiction",
         "description": "Canada’s artificial intelligence minister is keeping a close watch on ongoing court cases in Canada and the U.S. to determine next steps for the government’s regulatory approach to AI.",
@@ -123,20 +137,6 @@
             "id": "0ce70f407e0fa82ddaeeb29243aa8210",
             "name": "SooToday",
             "url": "https://www.sootoday.com"
-        }
-    },
-    {
-        "id": "ca1acb8afc5d2e5d50741a572b34512c",
-        "title": "‘Dear ChatGPT, am I having a panic attack?’: AI is bridging mental health gaps but not without risks",
-        "description": "Young Indians are turning to artificial intelligence-driven tools for support. Experts and tech founders say these help but can’t replace human therapists.",
-        "content": "During a stressful internship early this year, 21-year-old Keshav* was struggling with unsettling thoughts.\n“One day, on the way home from work, I saw a dead rat and instantly wanted to pick it up and eat it,” he said. “I’m a vegetarian and have neve... [9805 chars]",
-        "url": "https://scroll.in/article/1084587/dear-chatgpt-am-i-having-a-panic-attack-ai-is-bridging-mental-health-gaps-but-not-without-risks",
-        "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/208357-rsjjrpthhz-1752747722.jpeg",
-        "publishedAt": "2025-07-19T01:00:00Z",
-        "source": {
-            "id": "41ffcb0a7e770544afd8def89d1e0674",
-            "name": "Scroll.in",
-            "url": "https://scroll.in"
         }
     }
 ]
