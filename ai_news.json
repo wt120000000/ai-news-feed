@@ -1,5 +1,33 @@
 [
     {
+        "id": "1c95c4b03cf0eca9e5cd1bf2da578ba3",
+        "title": "SoftBank, Stargate eye small data center",
+        "description": "STARGATE, a multibillion-dollar effort by ChatGPT’s creator OpenAI, SoftBank and Oracle to supercharge US artificial intelligence (AI) ambitions, is now setting the more modest goal of building a small data center by the end of the year, likely in Ohio, the Wall Street Journal reported on Monday.",
+        "content": "STARGATE, a multibillion-dollar effort by ChatGPT’s creator OpenAI, SoftBank and Oracle to supercharge US artificial intelligence (AI) ambitions, is now setting the more modest goal of building a small data center by the end of the year, likely in Oh... [1487 chars]",
+        "url": "https://www.manilatimes.net/2025/07/23/business/foreign-business/softbank-stargate-eye-small-data-center/2154130",
+        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2025-07-22T16:20:00Z",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net"
+        }
+    },
+    {
+        "id": "fbab585dd00f5d2bd55c1d0ed2546977",
+        "title": "Microsoft poaches Google DeepMind AI talent as it beefs up Copilot",
+        "description": "Microsoft's artificial intelligence group has been growing under Mustafa Suleyman, a co-founder of the DeepMind research lab Google acquired years ago.",
+        "content": "Mustafa Suleyman, CEO of Microsoft AI, speaks during an event commemorating the 50th anniversary of the company at Microsoft headquarters in Redmond, Washington, on April 4, 2025.\nMicrosoft has hired around two dozen employees from Alphabet's Google ... [1050 chars]",
+        "url": "https://www.cnbc.com/2025/07/22/microsoft-google-deepmind-ai-talent.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108175219-1753203051931-gettyimages-2207879384-MICROSOFT_COPILOT.jpeg?v=1753203122&w=1920&h=1080",
+        "publishedAt": "2025-07-22T16:17:39Z",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com"
+        }
+    },
+    {
         "id": "076046d2a61a59c966b8914af6b1767f",
         "title": "Humans beat AI gold-level score at top math contest",
         "description": "SYDNEY, Australia — Humans beat generative artificial intelligence (AI) models made by Google and OpenAI at a top international mathematics competition, despite the programs reaching gold-level scores for the first time.",
@@ -109,34 +137,6 @@
             "id": "c6075ba0dc9d123bb327faaa419d3d07",
             "name": "Motley Fool Australia",
             "url": "https://www.fool.com.au"
-        }
-    },
-    {
-        "id": "fa5e6e19dbcb6c7154d299c8072e81fb",
-        "title": "B.C. public consultation process on AI underway",
-        "description": "The B.C. government says it’s not ready to discuss artificial intelligence legislation until a public consultation process is complete in September 2025.",
-        "content": "The government is consulting on recommended changes. Critics say faster action is needed.\nTen months after being urged to change the labour code to address artificial intelligence, the B.C. government is still considering its response.\nIn February 20... [4697 chars]",
-        "url": "https://www.vancouverisawesome.com/highlights/is-bc-doing-enough-to-protect-workers-from-ai-10971591",
-        "image": "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/futuristicaibot.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-07-22T01:00:00Z",
-        "source": {
-            "id": "a626af07817344050e3336789e06a2f5",
-            "name": "Vancouver Is Awesome",
-            "url": "https://www.vancouverisawesome.com"
-        }
-    },
-    {
-        "id": "9f5597c7e1c8f04f76bdca6df7e96c4f",
-        "title": "math competition",
-        "description": "Alphabet’s Google and OpenAI said their artificial-intelligence models won gold medals at a global mathematics competition, signaling a breakthrough in math capabilities in the race to build powerful systems that can rival human intelligence.",
-        "content": "The Icons for the smartphone apps DeepSeek and ChatGPT are seen on a smartphone screen in Beijing. (AP Photo/Andy Wong)\nAlphabet’s Google and OpenAI said their artificial-intelligence models won gold medals at a global mathematics competition, signal... [3783 chars]",
-        "url": "https://www.cp24.com/news/world/2025/07/21/google-and-openais-ai-models-win-milestone-gold-at-global-math-competition/",
-        "image": "https://www.cp24.com/resizer/v2/ORKYN2XJNHKGU5EYWQUMFSM7KU.jpg?smart=true&auth=4da6dce460348e2ead8dba82fa16ba7f2a9864bef8933099af7f00dd5ce3eb50&width=1200&height=630",
-        "publishedAt": "2025-07-21T23:09:05Z",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com"
         }
     }
 ]
