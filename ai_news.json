@@ -1,5 +1,33 @@
 [
     {
+        "id": "5795c29c8d8345f4e2a5368bcacb7f47",
+        "title": "Georgian grad co-founds AI tool to sidestep 'imposter syndrome'",
+        "description": "From business student to award-winning innovator, Delaney Thompson proving people don’t need computer science degree to make impact in world of artificial intelligence",
+        "content": "From business student to award-winning innovator, Delaney Thompson proving people don’t need computer science degree to make impact in world of artificial intelligence\nBarrie native Delaney Thompson is finding success in the world of artificial intel... [4503 chars]",
+        "url": "https://www.bradfordtoday.ca/local-news/georgian-grad-co-founds-ai-tool-to-sidestep-imposter-syndrome-10971782",
+        "image": "https://www.vmcdn.ca/f/files/barrietoday/images/07182025delaneythompson1.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2025-07-23T13:00:00Z",
+        "source": {
+            "id": "ec12383a90942fd0ccc50c66266217a5",
+            "name": "BradfordToday",
+            "url": "https://www.bradfordtoday.ca"
+        }
+    },
+    {
+        "id": "12e1a4cb3cfc16a72e7e057535d4ed1a",
+        "title": "The Latest: Trump will reveal ‘AI Action Plan’ shaped by his Silicon Valley supporters",
+        "description": "An artificial intelligence agenda formed on the podcasts of Silicon Valley billionaires is now being set into U.S. policy as President Donald Trump leans on the ideas of the tech",
+        "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+        "url": "https://www.thestar.com/news/world/united-states/the-latest-trump-will-reveal-ai-action-plan-shaped-by-his-silicon-valley-supporters/article_b6adc985-36df-5e45-b07e-a0c4a00e408b.html",
+        "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/2a/12ac72cd-d2fa-525c-8fe4-456a0f34c91b/6880d821272e5.image.jpg?crop=1622%2C852%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+        "publishedAt": "2025-07-23T12:32:43Z",
+        "source": {
+            "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
+            "name": "Toronto Star",
+            "url": "https://www.thestar.com"
+        }
+    },
+    {
         "id": "546718d4664d4c44f2227ae435c23211",
         "title": "Amazon.com shuts down China AI research lab",
         "description": "Amazon is shutting down its Shanghai artificial intelligence lab, the Financial Times reported on Wednesday.",
@@ -109,34 +137,6 @@
             "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
             "name": "CNBC",
             "url": "https://www.cnbc.com"
-        }
-    },
-    {
-        "id": "076046d2a61a59c966b8914af6b1767f",
-        "title": "Humans beat AI gold-level score at top math contest",
-        "description": "SYDNEY, Australia — Humans beat generative artificial intelligence (AI) models made by Google and OpenAI at a top international mathematics competition, despite the programs reaching gold-level scores for the first time.",
-        "content": "SYDNEY, Australia — Humans beat generative artificial intelligence (AI) models made by Google and OpenAI at a top international mathematics competition, despite the programs reaching gold-level scores for the first time.\nNeither model scored full mar... [2209 chars]",
-        "url": "https://www.manilatimes.net/2025/07/23/world/asia-oceania/humans-beat-ai-gold-level-score-at-top-math-contest/2154110",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-07-22T16:10:00Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "31fd62b6eb5622a794b8dd8613808ce2",
-        "title": "Composio Raises $25 Million to Help AI Agents Learn from Experience",
-        "description": "Agentic artificial intelligence (AI) startup Composio has secured $25 million in Series A funding led by Lightspeed Venture Partners, bringing its total funding to $29 million.",
-        "content": "Agentic artificial intelligence (AI) startup Composio has secured $25 million in Series A funding led by Lightspeed Venture Partners, bringing its total funding to $29 million.\nRegister for the IIT Data Hackathon\nThe round also saw participation from... [3167 chars]",
-        "url": "https://analyticsindiamag.com/ai-news-updates/composio-raises-25-million-to-help-ai-agents-learn-from-experience/",
-        "image": "https://analyticsindiamag.com/wp-content/uploads/2024/12/How-This-IIT-Bombay-Graduate-is-Helping-AI-Agents-Communicate-1.jpg",
-        "publishedAt": "2025-07-22T16:03:44Z",
-        "source": {
-            "id": "628299239469ffa8b7dbb809aabbcc2e",
-            "name": "Analytics India Magazine",
-            "url": "https://analyticsindiamag.com"
         }
     }
 ]
