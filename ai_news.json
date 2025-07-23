@@ -1,5 +1,47 @@
 [
     {
+        "id": "a842b7163e51660f1f49b6db0556fb1a",
+        "title": "Here's the Front-Runner to Play Elon Musk in Luca Guadagnino's AI Movie",
+        "description": "Artificial is being described as a comedic drama about the world of artificial intelligence.",
+        "content": "It seems like you haven’t really made it in Silicon Valley until a major movie actor plays you on film. Jesse Eisenberg portrayed Facebook founder Mark Zuckerberg in The Social Network, and Michael Fassbender played Steve Jobs in the 2015 film Steve ... [2465 chars]",
+        "url": "https://gizmodo.com/heres-the-front-runner-to-play-elon-musk-in-luca-guadagninos-ai-movie-2000633319",
+        "image": "https://gizmodo.com/app/uploads/2025/07/GettyImages-2217854518-1200x675.jpg",
+        "publishedAt": "2025-07-23T19:45:18Z",
+        "source": {
+            "id": "18c2a6429621fbedc49891aa7c847ec6",
+            "name": "Gizmodo",
+            "url": "https://gizmodo.com"
+        }
+    },
+    {
+        "id": "0b4d63c819e133be665d13f5284b882e",
+        "title": "White House unveils U.S. strategic plan on AI. Here's what it includes.",
+        "description": "An AI Action Plan outlines steps to advance U.S. artificial intelligence innovation and infrastructure.",
+        "content": "The Trump administration on Wednesday unveiled an AI Action Plan aimed at maintaining U.S. dominance in the rapidly emerging artificial intelligence field. The initiative is part of an ongoing effort the White House began earlier this year with an ex... [4456 chars]",
+        "url": "https://www.cbsnews.com/news/trump-uai-plan-data-centers-us-infrastructure/",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/07/23/5aa82e22-7de2-4bb9-af45-0b18e634bc7b/thumbnail/1200x630/bae538e260657e90b49ef8ae3e9070ff/gettyimages-2225249191.jpg",
+        "publishedAt": "2025-07-23T19:11:36Z",
+        "source": {
+            "id": "3a3847d645a619320aa3b3484581e395",
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com"
+        }
+    },
+    {
+        "id": "9b5d0c88277fa7be00128f0ee209c1fc",
+        "title": "Sydney’s GCQ posts big return powered by global real estate platforms",
+        "description": "he Sydney-headquartered hedge fund said it was “particularly pleased” that it did not have to rely on the surge in artificial intelligence to boost results.",
+        "content": "A combination of luxury goods and real estate listings have helped GCQ, the Sydney-headquartered hedge fund run by former VGI Partners investor Doug Tynan, record a 26.4 per cent return after fees in the last financial year, outpacing its benchmark o... [353 chars]",
+        "url": "https://www.afr.com/markets/equity-markets/sydney-s-gcq-posts-big-return-powered-by-global-real-estate-platforms-20250723-p5mh5k",
+        "image": "https://static.ffx.io/images/$zoom_0.2735%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/d667433e17f6a241d224eea7cb5899cbf7bbc1d0",
+        "publishedAt": "2025-07-23T19:00:00Z",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "The Australian Financial Review",
+            "url": "https://www.afr.com"
+        }
+    },
+    {
         "id": "97178751fb97420816b23eaf1a4157ab",
         "title": "Gmail users issued alert over new AI scam and one step they can take to prevent it",
         "description": "A new form of artificial intelligence scam targeting Google's Gmail users poses a risk to 1.8billion users of the platform, which has prompted a tech expert to explain what you can do to help avoid it",
@@ -11,6 +53,20 @@
             "id": "cc0de8416f75329df7c88d7524745d12",
             "name": "Birmingham Live",
             "url": "https://www.birminghammail.co.uk"
+        }
+    },
+    {
+        "id": "7ce727b2268b4e9bce60a56a0e86ffcd",
+        "title": "Can you tell an AI influencer from a real one? The Post polled Times Square visitors - and the results were not great",
+        "description": "Don't believe your lying eyes. Given the incredibly rapid advancements in Artificial Intelligence, it's getting harder to tell what — or, more precisely, who — is real these days. Influencer Mia Zelu made headlines earlier this month after her stunning snaps from Wimbledon sent fans into a frenzy.",
+        "content": "Don’t believe your lying eyes.\nWith the incredibly rapid advancements in Artificial Intelligence, it’s getting harder to tell what — or, more precisely, who — is real these days.\nSexy influencer Mia Zelu made headlines earlier this month after her st... [7135 chars]",
+        "url": "https://nypost.com/2025/07/23/tech/can-you-tell-an-ai-influencer-from-a-real-one-the-post-polled-times-square-visitors-and-the-results-were-not-great/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/07/real-model-ai-model-hp-1.jpg?quality=75&strip=all&1753269981&w=1024",
+        "publishedAt": "2025-07-23T17:19:08Z",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com"
         }
     },
     {
@@ -28,115 +84,59 @@
         }
     },
     {
-        "id": "6c157da4e73f4742afee3ff25b192497",
-        "title": "Trump's AI Action Plan leans heavily on Silicon Valley ideas",
-        "description": "An artificial intelligence agenda that started coalescing on the podcasts of Silicon Valley billionaires is now being forged into U.S. policy.",
-        "content": "White House AI and crypto czar David Sacks speaks as President Donald Trump listens at an event for the signing of the GENIUS Act, a bill that regulates stablecoins, a type of cryptocurrency, in the East Room of the White House, Friday, July 18, 2025... [6822 chars]",
-        "url": "https://www.cp24.com/news/world/2025/07/23/from-tech-podcasts-to-policy-trumps-new-ai-plan-leans-heavily-on-silicon-valley-industry-ideas/",
-        "image": "https://www.cp24.com/resizer/v2/R5HBLBOKCTWHEOKEWRPOWL5BHQ.jpg?smart=true&auth=aa9cca778f4f06445e17f85a5adf903925854b0b58fa426aba951c41b713ea82&width=1200&height=630",
-        "publishedAt": "2025-07-23T13:34:41Z",
+        "id": "8a1be542b0048e45e226ec848d646e70",
+        "title": "New Artificial Intelligence Movie Casts Its Elon Musk Actor With Comedian From Apple TV+'s Recent 93% RT Hit",
+        "description": "An upcoming artificial intelligence movie casts its Elon Musk actor with a comedian from Apple TV's recent hit with a 93% Rotten Tomatoes score.",
+        "content": "Artificial, an upcoming film about OpenAI, has found its Elon Musk. Last month, it was announced that director Luca Guadagnino's next movie would be a \"comedic drama set in the world of artificial intelligence.\" It's rumored to revolve around the com... [2740 chars]",
+        "url": "https://screenrant.com/artificial-movie-elon-musk-actor-cast-ike-barinholtz/",
+        "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2025/07/elon-musk-on-red-carpet.jpg",
+        "publishedAt": "2025-07-23T16:14:57Z",
         "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com"
+            "id": "6b8b6fae575a37200ef9ef50109518f5",
+            "name": "Screen Rant",
+            "url": "https://screenrant.com"
         }
     },
     {
-        "id": "5795c29c8d8345f4e2a5368bcacb7f47",
-        "title": "Georgian grad co-founds AI tool to sidestep 'imposter syndrome'",
-        "description": "From business student to award-winning innovator, Delaney Thompson proving people don’t need computer science degree to make impact in world of artificial intelligence",
-        "content": "From business student to award-winning innovator, Delaney Thompson proving people don’t need computer science degree to make impact in world of artificial intelligence\nBarrie native Delaney Thompson is finding success in the world of artificial intel... [4503 chars]",
-        "url": "https://www.bradfordtoday.ca/local-news/georgian-grad-co-founds-ai-tool-to-sidestep-imposter-syndrome-10971782",
-        "image": "https://www.vmcdn.ca/f/files/barrietoday/images/07182025delaneythompson1.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-07-23T13:00:00Z",
+        "id": "46c8415ed1b44a23b69cd49cf88daf0a",
+        "title": "Tips to help your teen navigate AI chatbots — and what to watch out for: experts",
+        "description": "As artificial intelligence technology becomes part of daily life, adolescents are turning to chatbots for advice, guidance and conversation. The appeal is clear: Chatbots are patient, never judgmental, supportive and always available.",
+        "content": "As artificial intelligence technology becomes part of daily life, adolescents are turning to chatbots for advice, guidance and conversation.\nThe appeal is clear: Chatbots are patient, never judgmental, supportive and always available.\nThat worries ex... [4826 chars]",
+        "url": "https://nypost.com/2025/07/23/tech/tips-to-help-your-teen-navigate-ai-chatbots-and-what-to-watch-out-for-experts/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/07/108598635.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2025-07-23T15:58:49Z",
         "source": {
-            "id": "ec12383a90942fd0ccc50c66266217a5",
-            "name": "BradfordToday",
-            "url": "https://www.bradfordtoday.ca"
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com"
         }
     },
     {
-        "id": "12e1a4cb3cfc16a72e7e057535d4ed1a",
-        "title": "The Latest: Trump will reveal ‘AI Action Plan’ shaped by his Silicon Valley supporters",
-        "description": "An artificial intelligence agenda formed on the podcasts of Silicon Valley billionaires is now being set into U.S. policy as President Donald Trump leans on the ideas of the tech",
-        "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-        "url": "https://www.thestar.com/news/world/united-states/the-latest-trump-will-reveal-ai-action-plan-shaped-by-his-silicon-valley-supporters/article_b6adc985-36df-5e45-b07e-a0c4a00e408b.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/2a/12ac72cd-d2fa-525c-8fe4-456a0f34c91b/6880d821272e5.image.jpg?crop=1622%2C852%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2025-07-23T12:32:43Z",
+        "id": "0b173ecfc5a3657abefe3872a95ec71d",
+        "title": "Ex-DOGE lawyer launches AI policy council to push US to front of tech race with China",
+        "description": "A former top lawyer at the Department of Government Efficiency launched a new artificial intelligence policy council on Wednesday, coinciding with executive actions by President Trump to deregulating the industry, The Post can reveal.",
+        "content": "WASHINGTON — A former top lawyer at the Department of Government Efficiency launched a new artificial intelligence policy council on Wednesday, coinciding with executive actions by President Trump to deregulate the industry, The Post can reveal.\nJame... [2531 chars]",
+        "url": "https://nypost.com/2025/07/23/us-news/ex-doge-lawyer-launches-ai-policy-council-to-push-us-to-front-of-tech-race-with-china/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/07/108595561.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2025-07-23T15:15:23Z",
         "source": {
-            "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
-            "name": "Toronto Star",
-            "url": "https://www.thestar.com"
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com"
         }
     },
     {
-        "id": "d2cbb4818a76db6a3817ad1b8f1633a2",
-        "title": "The Latest: White House reveals ‘AI Action Plan’ shaped by Trump’s Silicon Valley supporters",
-        "description": "An artificial intelligence agenda formed on the podcasts of Silicon Valley billionaires is now being set into U.S. policy as President Donald Trump leans on the ideas of the tech",
-        "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-        "url": "https://www.thestar.com/news/world/united-states/the-latest-white-house-reveals-ai-action-plan-shaped-by-trump-s-silicon-valley-supporters/article_b6adc985-36df-5e45-b07e-a0c4a00e408b.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/2a/12ac72cd-d2fa-525c-8fe4-456a0f34c91b/6880d821272e5.image.jpg?crop=1622%2C852%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2025-07-23T12:32:43Z",
+        "id": "90ac123f075b3c2a1f188a79f2407686",
+        "title": "Amazon closes Shanghai AI research lab in latest cost-cutting move",
+        "description": "Amazon's closure of an artificial intelligence research lab in China is tied to recently announced layoffs in the company's cloud computing unit.",
+        "content": "The front desk of the Amazon office is pictured in New York, May 1, 2019.\nAmazon is shuttering its research lab in Shanghai focused on artificial intelligence development, the latest belt-tightening move by the e-commerce and cloud computing giant.\nW... [566 chars]",
+        "url": "https://www.cnbc.com/2025/07/23/amazon-closes-shanghai-ai-research-lab-in-latest-cost-cutting-move.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/105885814-1556735385862rtx6tyk4.jpg?v=1674063149&w=1920&h=1080",
+        "publishedAt": "2025-07-23T15:08:34Z",
         "source": {
-            "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
-            "name": "Toronto Star",
-            "url": "https://www.thestar.com"
-        }
-    },
-    {
-        "id": "1451e1184aac5e5791896087569ac69b",
-        "title": "The Latest: Trump will reveal ‘AI Action Plan’ shaped by his Silicon Valley supporters",
-        "description": "An artificial intelligence agenda formed on the podcasts of Silicon Valley billionaires is now being set into U.S. policy as President Donald Trump leans on the ideas of the tech figures who backed his election campaign.",
-        "content": "President Donald Trump speaks during a reception for Republican members of Congress in the East Room of the White House, Tuesday, July 22, 2025, in Washington. (AP Photo/Julia Demaree Nikhinson)\nAn artificial intelligence agenda formed on the podcast... [6556 chars]",
-        "url": "https://www.clickondetroit.com/news/politics/2025/07/23/the-latest-trump-will-reveal-ai-action-plan-shaped-by-his-silicon-valley-supporters/",
-        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/FITPJK5J2FE2RE3V24VNPHIUTM.jpg?_a=DATAg1eAZAA0",
-        "publishedAt": "2025-07-23T12:31:59Z",
-        "source": {
-            "id": "35515662ec044d3f94b543cd8802d63f",
-            "name": "WDIV ClickOnDetroit",
-            "url": "https://www.clickondetroit.com"
-        }
-    },
-    {
-        "id": "253bc1e37950a50e1e32e8d49c075736",
-        "title": "President Donald Trump’s AI plan leans on Silicon Valley industry",
-        "description": "An artificial intelligence agenda that started coalescing on the podcasts of Silicon Valley billionaires is now being forged into U.S. policy.",
-        "content": "An artificial intelligence agenda that started coalescing on the podcasts of Silicon Valley billionaires is now being forged into U.S. policy as President Donald Trump leans on the ideas of the tech figures who backed his election campaign.\nTrump on ... [6474 chars]",
-        "url": "https://www.chicagotribune.com/2025/07/23/donald-trump-new-ai-plan/",
-        "image": "https://www.chicagotribune.com/wp-content/uploads/2025/07/Trump_81532-1.jpg?w=1024&h=682",
-        "publishedAt": "2025-07-23T12:13:28Z",
-        "source": {
-            "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
-            "name": "Chicago Tribune",
-            "url": "https://www.chicagotribune.com"
-        }
-    },
-    {
-        "id": "546718d4664d4c44f2227ae435c23211",
-        "title": "Amazon.com shuts down China AI research lab",
-        "description": "Amazon is shutting down its Shanghai artificial intelligence lab, the Financial Times reported on Wednesday.",
-        "content": "An Amazon Prime logo appears on the side of a delivery van as it departs an Amazon Warehouse location in Dedham, Mass. on Oct. 1, 2020. (Steven Senne / AP)\nAmazon is shutting down its Shanghai artificial intelligence lab, the Financial Times reported... [994 chars]",
-        "url": "https://www.cp24.com/news/money/2025/07/23/amazon-shuts-down-shanghai-ai-research-lab-ft-says/",
-        "image": "https://www.cp24.com/resizer/v2/IDNRAXVV2OUIICK6JZ22OM6BEI.jpg?smart=true&auth=0d491c16d126cc416d33e6a2037e6ffae201c5af3de859b76af7d2b069c8ef9c&width=1200&height=630",
-        "publishedAt": "2025-07-23T12:09:33Z",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com"
-        }
-    },
-    {
-        "id": "236528fe1ca470dcc7628e736066b58c",
-        "title": "From drone swarms to gene-edited soldiers: AI transforms modern warfare",
-        "description": "Artificial intelligence may determine future conflicts as the U.S. and China race to integrate AI into warfare, with Taiwan potentially becoming the first test of technological edge.",
-        "content": "NEW You can now listen to Fox News articles!\nFrom drone swarms to gene-edited soldiers, the United States and China are racing to integrate artificial intelligence into nearly every facet of their war machines — and a potential conflict over Taiwan m... [5684 chars]",
-        "url": "https://www.foxnews.com/politics/ai-arms-race-us-china-weaponize-drones-code-biotech-next-great-war",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/iStock-1386281299.jpg",
-        "publishedAt": "2025-07-23T12:00:45Z",
-        "source": {
-            "id": "8da923084554b2821233d6c5c5f02c97",
-            "name": "Fox News",
-            "url": "https://www.foxnews.com"
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com"
         }
     }
 ]
