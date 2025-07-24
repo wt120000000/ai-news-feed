@@ -1,5 +1,19 @@
 [
     {
+        "id": "d9934a2a26f7f6e4f21cc6242d1efd84",
+        "title": "PayPal to add 100 high-tech jobs in Dublin with AI fraud and data science centre",
+        "description": "Company setting up new artificial intelligence fraud and data-science centre",
+        "content": "PayPal said the expansion was a 'new chapter' for the Irish operation. Photograph: Gabby Jones/Bloomberg\nPayPal is to create 100 high-tech jobs in Ireland as the payments company establishes a new artificial intelligence (AI) fraud and data science c... [2048 chars]",
+        "url": "https://www.irishtimes.com/business/2025/07/24/paypal-to-add-100-high-tech-jobs-in-dublin/",
+        "image": "https://www.irishtimes.com/resizer/v2/KLFLVZ5SWIEDIS5IJ4UJNZYZ4Y.jpg?smart=true&auth=4e7e8e59f7c962d3d3f2c853d434368e49d14428d56a917d25fed0d4f230d763&width=1200&height=630",
+        "publishedAt": "2025-07-24T00:00:00Z",
+        "source": {
+            "id": "dd1d806725f45e4403e75c1bb23b447a",
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com"
+        }
+    },
+    {
         "id": "b4ebbd64005ecb0802ae9439a2b4ef9b",
         "title": "U.S. Education Department encourages schools to use AI in the classroom",
         "description": "The U.S. Secretary of Education, Linda McMahon, said in a statement Tuesday that artificial intelligence \"drives personalized learning, sharpens critical thinking and prepares students with problem-solving skills that are vital for tomorrow's challenges.\"",
@@ -112,31 +126,17 @@
         }
     },
     {
-        "id": "8a1be542b0048e45e226ec848d646e70",
-        "title": "New Artificial Intelligence Movie Casts Its Elon Musk Actor With Comedian From Apple TV+'s Recent 93% RT Hit",
-        "description": "An upcoming artificial intelligence movie casts its Elon Musk actor with a comedian from Apple TV's recent hit with a 93% Rotten Tomatoes score.",
-        "content": "Artificial, an upcoming film about OpenAI, has found its Elon Musk. Last month, it was announced that director Luca Guadagnino's next movie would be a \"comedic drama set in the world of artificial intelligence.\" It's rumored to revolve around the com... [2740 chars]",
-        "url": "https://screenrant.com/artificial-movie-elon-musk-actor-cast-ike-barinholtz/",
-        "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2025/07/elon-musk-on-red-carpet.jpg",
-        "publishedAt": "2025-07-23T16:14:57Z",
+        "id": "7c753fed1cbff537d1586cbd9fe60f91",
+        "title": "AI regulation vs AI readiness",
+        "description": "ARTIFICIAL intelligence (AI) has rapidly moved from being a buzzword to a serious policy concern, prompting lawmakers around the world to consider how best to regulate it.",
+        "content": "ARTIFICIAL intelligence (AI) has rapidly moved from being a buzzword to a serious policy concern, prompting lawmakers around the world to consider how best to regulate it.\nIn the Philippines, Sen. Pia Cayetano is filing an AI-related bill in the 20th... [5988 chars]",
+        "url": "https://www.manilatimes.net/2025/07/24/business/top-business/ai-regulation-vs-ai-readiness/2154896",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/07/23/688107.jpg",
+        "publishedAt": "2025-07-23T16:24:00Z",
         "source": {
-            "id": "6b8b6fae575a37200ef9ef50109518f5",
-            "name": "Screen Rant",
-            "url": "https://screenrant.com"
-        }
-    },
-    {
-        "id": "46c8415ed1b44a23b69cd49cf88daf0a",
-        "title": "Tips to help your teen navigate AI chatbots — and what to watch out for: experts",
-        "description": "As artificial intelligence technology becomes part of daily life, adolescents are turning to chatbots for advice, guidance and conversation. The appeal is clear: Chatbots are patient, never judgmental, supportive and always available.",
-        "content": "As artificial intelligence technology becomes part of daily life, adolescents are turning to chatbots for advice, guidance and conversation.\nThe appeal is clear: Chatbots are patient, never judgmental, supportive and always available.\nThat worries ex... [4826 chars]",
-        "url": "https://nypost.com/2025/07/23/tech/tips-to-help-your-teen-navigate-ai-chatbots-and-what-to-watch-out-for-experts/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/07/108598635.jpg?quality=75&strip=all&w=1024",
-        "publishedAt": "2025-07-23T15:58:49Z",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com"
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net"
         }
     }
 ]
