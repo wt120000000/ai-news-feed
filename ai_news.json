@@ -1,5 +1,33 @@
 [
     {
+        "id": "cc40547957a20c6f2c15cdc38a9730e7",
+        "title": "Study reveals stigmatizing responses in LLMs for addiction-related queries",
+        "description": "As artificial intelligence is rapidly developing and becoming a growing presence in healthcare communication, a new study addresses a concern that large language models (LLMs) can reinforce harmful stereotypes by using stigmatizing language.",
+        "content": "As artificial intelligence is rapidly developing and becoming a growing presence in healthcare communication, a new study addresses a concern that large language models (LLMs) can reinforce harmful stereotypes by using stigmatizing language.\nThe stud... [2852 chars]",
+        "url": "https://www.news-medical.net/news/20250726/Study-reveals-stigmatizing-responses-in-LLMs-for-addiction-related-queries.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2018/7/Selection_of_alcoholic_drinks_on_rustic_wood_background_-_Oleksandra_Naumenko_A1_fe979bdaef3943969b200bceaf42b174-620x480.jpg",
+        "publishedAt": "2025-07-26T04:30:00Z",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net"
+        }
+    },
+    {
+        "id": "0aab2f6e4fcdc4d516e54745932dfccd",
+        "title": "China's premier proposes global co-operation on AI",
+        "description": "China's Premier Li Qiang has emphasised the need for more co-ordination between countries to form a globally recognised framework for artificial intelligence.",
+        "content": "Chinese Premier Li Qiang has proposed establishing an organisation to foster global co-operation on artificial intelligence, calling on countries to coordinate on the development and security of the fast-evolving technology.\nSpeaking at the opening o... [2389 chars]",
+        "url": "https://www.perthnow.com.au/news/politics/chinas-premier-proposes-global-co-operation-on-ai-c-19481380",
+        "image": "https://images.perthnow.com.au/publication/C-19481380/a79211b018122a858b96eaf8f9f1952adb5fc33b-16x9-x0y0w1280h720.jpg?imwidth=1200",
+        "publishedAt": "2025-07-26T04:17:06Z",
+        "source": {
+            "id": "7f6e8514e9d8f8376aaa9a7229861518",
+            "name": "PerthNow",
+            "url": "https://www.perthnow.com.au"
+        }
+    },
+    {
         "id": "7febb5dd9d05a7f3d9adbbb907328e93",
         "title": "White House lashes out at ‘South Park’ Trump parody",
         "description": "LOS ANGELES, California — The White House lashed out at the creators of “South Park” on Thursday after the bawdy satirical program skewered Donald Trump in an episode featuring an artificial intelligence (AI)-generated version of the United States president crawling naked through a desert.",
@@ -109,34 +137,6 @@
             "id": "ca84296ef941bfa461f4239a2290cb99",
             "name": "News18",
             "url": "https://www.news18.com"
-        }
-    },
-    {
-        "id": "48f41fe91e82302bb596a3a0cbf3b209",
-        "title": "Trump's AI plan calls for massive data centers. Here's how it may affect energy in the U.S.",
-        "description": "President Donald Trump’s plan to boost artificial intelligence and build data centers across the U.S. could speed up a building boom that was already expected to strain the nation’s ability to power it.",
-        "content": "FILE - Amazon Web Services data center is seen on Aug. 22, 2024, in Boardman, Ore. (AP Photo/Jenny Kane, File)\nPresident Donald Trump’s plan to boost artificial intelligence and build data centers across the U.S. could speed up a building boom that w... [4874 chars]",
-        "url": "https://www.clickondetroit.com/business/2025/07/24/trumps-ai-plan-calls-for-massive-data-centers-heres-how-it-may-affect-energy-in-the-us/",
-        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/OJOZBY7LL5CKNNQ7FBYGTTJFF4.jpg?_a=DATAg1eAZAA0",
-        "publishedAt": "2025-07-24T20:36:11Z",
-        "source": {
-            "id": "35515662ec044d3f94b543cd8802d63f",
-            "name": "WDIV ClickOnDetroit",
-            "url": "https://www.clickondetroit.com"
-        }
-    },
-    {
-        "id": "7e690194072e4d7996ce3f53a391e37a",
-        "title": "Tech stocks nudge Wall Street to more records",
-        "description": "Wall Street inched to more records on Thursday as gains for Alphabet and artificial-intelligence stocks helped make up for Tesla ’s steep tumble.",
-        "content": "Trader John Gorman works on the floor of the New York Stock Exchange, Monday, July 21, 2025. (AP Photo/Richard Drew)\nNEW YORK — Wall Street inched to more records on Thursday as gains for Alphabet and artificial-intelligence stocks helped make up for... [4667 chars]",
-        "url": "https://www.cp24.com/news/money/2025/07/24/alphabet-and-ai-stocks-nudge-wall-street-to-more-records/",
-        "image": "https://www.cp24.com/resizer/v2/XXLNYJ4ZBVFGDHK2SZCNMH2T54.jpg?smart=true&auth=a0f506377f9c5e67f81e201f37eafc8a3df3f9441d27ee72391454995909306b&width=1200&height=630",
-        "publishedAt": "2025-07-24T20:28:37Z",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com"
         }
     }
 ]
