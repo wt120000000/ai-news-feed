@@ -1,5 +1,19 @@
 [
     {
+        "id": "1ae216044dab24b44ae144ce353df4cf",
+        "title": "Bill to criminalise AI child abuse apps to be introduced to parliament",
+        "description": "MP Kate Chaney is set to introduce a bill to criminalise the use of AI tools purpose-built to create child sexual abuse material, with the independent saying the urgent issue cannot wait for the government's wider response to artificial intelligence.",
+        "content": "A bill to criminalise the use of AI tools purpose-built to create child sexual abuse material is set to be introduced to parliament.\nIndependent MP Kate Chaney, who will introduce the bill, says the urgent issue cannot wait for the government's wider... [5808 chars]",
+        "url": "https://www.abc.net.au/news/2025-07-28/kate-chaney-bill-aims-to-criminalise-ai-child-abuse-tools/105571734",
+        "image": "https://live-production.wcms.abc-cdn.net.au/c71e6a4a678be64fbd4059637c4f3c53?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+        "publishedAt": "2025-07-27T20:06:51Z",
+        "source": {
+            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+            "name": "ABC News",
+            "url": "https://www.abc.net.au"
+        }
+    },
+    {
         "id": "f846bb5a26ea21705394f5f8d2885da9",
         "title": "The US and China will go head-to-head in the battle to bring about artificial general intelligence",
         "description": "The AI battle between China and the US is less about profits and return on investment, and more about geopolitics — national machismo, security and defence.",
@@ -123,20 +137,6 @@
             "id": "7c666ee953f873d3057b310220f510df",
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "881ae8dd67b6578296081a92a7328bfc",
-        "title": "China calls for the creation of a global AI organization",
-        "description": "China wants to work with other countries and has laid out its plans for the global governance of artificial intelligence.",
-        "content": "China wants to work with other countries and has laid out its plans for the global governance of artificial intelligence at the World Artificial Intelligence Conference (WAIC) in Shanghai. Li Qiang, the country's premier, warned about \"technological ... [1501 chars]",
-        "url": "https://www.engadget.com/ai/china-calls-for-the-creation-of-a-global-ai-organization-160005350.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/jJypaZKh.9GnkcwvpfYNMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-07/7e1f05c0-6a22-11f0-b2eb-d5d98ca35b16",
-        "publishedAt": "2025-07-26T16:00:05Z",
-        "source": {
-            "id": "549a7a859b2345bbe231b00e7244ef99",
-            "name": "Engadget",
-            "url": "https://www.engadget.com"
         }
     }
 ]
