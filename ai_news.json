@@ -61,7 +61,7 @@
         "description": "China wants to work with other countries and has laid out its plans for the global governance of artificial intelligence.",
         "content": "China wants to work with other countries and has laid out its plans for the global governance of artificial intelligence at the World Artificial Intelligence Conference (WAIC) in Shanghai. Li Qiang, the country's premier, warned about \"technological ... [1501 chars]",
         "url": "https://www.engadget.com/ai/china-calls-for-the-creation-of-a-global-ai-organization-160005350.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/70lFeDZt2VD1lMlwk7oKAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/7e1f05c0-6a22-11f0-b2eb-d5d98ca35b16",
+        "image": "https://s.yimg.com/ny/api/res/1.2/jJypaZKh.9GnkcwvpfYNMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-07/7e1f05c0-6a22-11f0-b2eb-d5d98ca35b16",
         "publishedAt": "2025-07-26T16:00:05Z",
         "source": {
             "id": "549a7a859b2345bbe231b00e7244ef99",
@@ -98,6 +98,20 @@
         }
     },
     {
+        "id": "a389bdb476871fcb38629dae1efcb5f8",
+        "title": "How digital transformation becomes strategic lever for internationalization",
+        "description": "Digital transformation promotes internationalization through two primary channels: enhancing productivity and reducing transaction costs. On the productivity front, the integration of digital technologies such as artificial intelligence, big data analytics, and Internet of Things platforms helps firms optimize labor structures, streamline supply chains, and transition from traditional enterprise-centric innovation to collaborative, consumer-driven ecosystems. These improvements enable firms to adapt quickly to foreign market demands and maintain a competitive edge.",
+        "content": "Digital transformation is a critical force propelling the international expansion of enterprises, according to a new study published in SAGE Open. The research, based on data from over 40,000 annual firm-level observations of Chinese enterprises, ind... [6508 chars]",
+        "url": "https://www.devdiscourse.com/article/business/3516284-how-digital-transformation-becomes-strategic-lever-for-internationalization",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/25_07_2025_10_22_09_5292455.png?width=920&format=jpeg",
+        "publishedAt": "2025-07-26T12:59:06Z",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com"
+        }
+    },
+    {
         "id": "0aec93841d6a6b3e6ac3768abeda1fdc",
         "title": "More Power adopts AI in core operations to boost service",
         "description": "MORE Electric and Power Corporation (More Power) has started integrating artificial intelligence (AI) into its core operations, becoming one of the...",
@@ -123,20 +137,6 @@
             "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
             "name": "CNBC",
             "url": "https://www.cnbc.com"
-        }
-    },
-    {
-        "id": "cc40547957a20c6f2c15cdc38a9730e7",
-        "title": "Study reveals stigmatizing responses in LLMs for addiction-related queries",
-        "description": "As artificial intelligence is rapidly developing and becoming a growing presence in healthcare communication, a new study addresses a concern that large language models (LLMs) can reinforce harmful stereotypes by using stigmatizing language.",
-        "content": "As artificial intelligence is rapidly developing and becoming a growing presence in healthcare communication, a new study addresses a concern that large language models (LLMs) can reinforce harmful stereotypes by using stigmatizing language.\nThe stud... [2852 chars]",
-        "url": "https://www.news-medical.net/news/20250726/Study-reveals-stigmatizing-responses-in-LLMs-for-addiction-related-queries.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2018/7/Selection_of_alcoholic_drinks_on_rustic_wood_background_-_Oleksandra_Naumenko_A1_fe979bdaef3943969b200bceaf42b174-620x480.jpg",
-        "publishedAt": "2025-07-26T04:30:00Z",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net"
         }
     }
 ]
