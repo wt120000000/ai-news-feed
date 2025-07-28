@@ -1,5 +1,19 @@
 [
     {
+        "id": "08d3e1ec44d82e048b6e1262e2314567",
+        "title": "America must win the AI race — and prepare for the worst",
+        "description": "Trump administration's AI action plan outlines over 90 policy actions across three pillars to ensure American leadership in artificial intelligence amid competition with China",
+        "content": "NEW You can now listen to Fox News articles!\nArtificial intelligence is no longer a niche tool for tech labs or science-fiction thrillers. It’s now the battleground where the future of American power, prosperity, and freedom will be decided. With the... [5710 chars]",
+        "url": "https://www.foxnews.com/opinion/america-must-win-ai-race-prepare-worst",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/artificial-intelligence-trump-1.jpg",
+        "publishedAt": "2025-07-28T09:00:45Z",
+        "source": {
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com"
+        }
+    },
+    {
         "id": "4ad2a38fa1e27f9311a0d99a57adf744",
         "title": "Chinese AI firms form alliances to build domestic ecosystem amid U.S. curbs",
         "description": "China's artificial intelligence companies have announced two new industry alliances with the aim of developing a domestic ecosystem.",
@@ -119,20 +133,6 @@
         "url": "https://www.abc.net.au/news/2025-07-28/kate-chaney-bill-aims-to-criminalise-ai-child-abuse-tools/105571734",
         "image": "https://live-production.wcms.abc-cdn.net.au/c71e6a4a678be64fbd4059637c4f3c53?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
         "publishedAt": "2025-07-27T20:06:51Z",
-        "source": {
-            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-            "name": "ABC News",
-            "url": "https://www.abc.net.au"
-        }
-    },
-    {
-        "id": "f846bb5a26ea21705394f5f8d2885da9",
-        "title": "The US and China will go head-to-head in the battle to bring about artificial general intelligence",
-        "description": "The AI battle between China and the US is less about profits and return on investment, and more about geopolitics — national machismo, security and defence.",
-        "content": "Artificial intelligence is no longer just a race among a group of over-valued American tech companies and over-yachted billionaires.\nIt's still that, but it's now also part of the great contest between the US and China.\nThat means it's less about pro... [8410 chars]",
-        "url": "https://www.abc.net.au/news/2025-07-28/us-china-race-for-agi/105578724",
-        "image": "https://live-production.wcms.abc-cdn.net.au/1d15947b446a2897f6875ef73fab637a?impolicy=wcms_watermark_news&cropH=1800&cropW=3200&xPos=0&yPos=92&width=862&height=485&imformat=generic",
-        "publishedAt": "2025-07-27T18:46:22Z",
         "source": {
             "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
             "name": "ABC News",
