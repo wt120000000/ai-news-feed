@@ -1,5 +1,33 @@
 [
     {
+        "id": "768e0b0254eecc080ce60727c9a31e0b",
+        "title": "Why women are wary of the AI rush",
+        "description": "New technology has always been used against women. Why should we trust artificial intelligence not to be?",
+        "content": "It’s here. It’s there. Everywhere you look, AI.\nEach Google search returns a lengthy AI summary before providing links to relevant search results. Chatbots pop up as soon as you go online to make flight reservations or pay a credit card bill. Start w... [9659 chars]",
+        "url": "https://www.salon.com/2025/07/28/why-women-are-wary-of-the-ai-rush/",
+        "image": "https://www.salon.com/app/uploads/2025/07/women-and-AI-2199274566.jpg",
+        "publishedAt": "2025-07-28T13:00:21Z",
+        "source": {
+            "id": "d64c9f761b22764bd19004c3945d6428",
+            "name": "Salon",
+            "url": "https://www.salon.com"
+        }
+    },
+    {
+        "id": "580f6c990f0efe75acf700280393b60e",
+        "title": "Paterson warns government not to put a handbrake on AI",
+        "description": "The shadow finance spokesman acknowledged the Coalition got it wrong over an election pledge, and warned the government not to stymie artificial intelligence.",
+        "content": "Opposition finance spokesman James Paterson has issued a mea culpa over the Coalition’s election pledge to gut the public service and signalled a more respectful relationship, while also making clear business has a role to play in government service ... [292 chars]",
+        "url": "https://www.afr.com/politics/federal/paterson-warns-government-not-to-put-a-handbrake-on-ai-20250728-p5mi8w",
+        "image": "https://static.ffx.io/images/$zoom_0.2125%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_35/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e8297a371a98882347bc17914c8cc3ca961a9f7c",
+        "publishedAt": "2025-07-28T12:30:00Z",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "The Australian Financial Review",
+            "url": "https://www.afr.com"
+        }
+    },
+    {
         "id": "4dbc2d73bf64b17aca953c7cc794e9af",
         "title": "AI Should Revive Robin Williams",
         "description": "'Mrs. Doubtfire' star Matthew Lawrence says he would \"love\" to bring back Robin Williams using artificial intelligence.",
@@ -109,34 +137,6 @@
             "id": "8da923084554b2821233d6c5c5f02c97",
             "name": "Fox News",
             "url": "https://www.foxnews.com"
-        }
-    },
-    {
-        "id": "4ad2a38fa1e27f9311a0d99a57adf744",
-        "title": "Chinese AI firms form alliances to build domestic ecosystem amid U.S. curbs",
-        "description": "China's artificial intelligence companies have announced two new industry alliances with the aim of developing a domestic ecosystem.",
-        "content": "China's artificial intelligence companies have announced two new industry alliances with the aim of developing a domestic ecosystem.\nChina's artificial intelligence companies have announced two new industry alliances, aiming to develop a domestic eco... [2900 chars]",
-        "url": "https://www.cnbc.com/2025/07/28/chinese-ai-firms-form-alliances-to-build-domestic-ecosystem-amid-us-curbs.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108177570-1753687681221-gettyimages-2170889984-2024_vrtg_sep_01_011.jpeg?v=1753687698&w=1920&h=1080",
-        "publishedAt": "2025-07-28T07:35:04Z",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com"
-        }
-    },
-    {
-        "id": "82b60c9cc63e3ec1a92a8bab4744d9ef",
-        "title": "Anthropic’s $150 Billion Goal: How Amazon and Alphabet Could Benefit From the AI Surge",
-        "description": "Artificial intelligence start-up Anthropic is in early talks to raise between $3 billion and $5 billion in a new funding round. The raise could ...",
-        "content": "Artificial intelligence start-up Anthropic is in early talks to raise between $3 billion and $5 billion in a new funding round. The raise could push the company’s valuation above $150 billion, according to the Financial Times. That would more than do... [2340 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/anthropic-s-150-billion-goal-how-amazon-and-alphabet-could-benefit-from-the-ai-surge-1034942848",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2025/07/image-1970.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2025-07-28T07:30:42Z",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Business Insider",
-            "url": "https://markets.businessinsider.com"
         }
     }
 ]
