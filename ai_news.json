@@ -1,5 +1,19 @@
 [
     {
+        "id": "1f50dfcf02a7b829aa01efb5b3ab2d52",
+        "title": "Pope Leo XIV gets rock star’s welcome at Catholic influencer festival",
+        "description": "Pope Leo XIV on Tuesday received a rock star’s welcome at the Vatican’s festival of Catholic influencers as he urged them to ensure that human relations don’t suffer with the spread of digital ecosystems and artificial intelligence.",
+        "content": "Pope Leo XIV on Tuesday received a rock star’s welcome at the Vatican’s festival of Catholic influencers — priests, nuns and ordinary faithful who use their social media presence to preach and teach the faith — as he urged them to ensure that human r... [5233 chars]",
+        "url": "https://nypost.com/2025/07/29/world-news/pope-leo-xiv-gets-rock-stars-welcome-at-catholic-influencer-festival/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/07/108928235.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2025-07-29T14:55:50Z",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com"
+        }
+    },
+    {
         "id": "74e8fef1c5641e8d308528fd2d16e6fb",
         "title": "Apple opens manufacturing academy in Detroit as part of U.S. push",
         "description": "The Apple Manufacturing Academy is opening in downtown Detroit, with a focus on artificial intelligence.",
@@ -123,20 +137,6 @@
             "id": "f6d6ee1134197fe1441d65a3e7915835",
             "name": "Yahoo Singapore News",
             "url": "https://sg.news.yahoo.com"
-        }
-    },
-    {
-        "id": "5418ce31ac14105906b0a2c7fdb6c280",
-        "title": "AI models may be accidentally (and secretly) learning each other’s bad behaviors",
-        "description": "Artificial intelligence models can secretly transmit dangerous inclinations to one another like a contagion, a recent study found",
-        "content": "Artificial intelligence models can secretly transmit dangerous inclinations to one another like a contagion, a recent study found.\nExperiments showed that an AI model that’s training other models can pass along everything from innocent preferences — ... [4631 chars]",
-        "url": "https://www.nbcnews.com/tech/tech-news/ai-models-can-secretly-influence-one-another-owls-rcna221583",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250728-ai-learning-lr-ee0b60.jpg",
-        "publishedAt": "2025-07-29T09:00:00Z",
-        "source": {
-            "id": "77b86639d1384ac68141803ec5db27c0",
-            "name": "NBC News",
-            "url": "https://www.nbcnews.com"
         }
     }
 ]
