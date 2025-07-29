@@ -1,5 +1,47 @@
 [
     {
+        "id": "74e8fef1c5641e8d308528fd2d16e6fb",
+        "title": "Apple opens manufacturing academy in Detroit as part of U.S. push",
+        "description": "The Apple Manufacturing Academy is opening in downtown Detroit, with a focus on artificial intelligence.",
+        "content": "US President Donald Trump (R) and Apple CEO Tim Cook (2nd L), with Senior Advisor to the President Ivanka Trump (L) and Treasury Secretary Steven Mnuchin, tour the Flextronics computer manufacturing facility where Apple's Mac Pros are assembled in Au... [2797 chars]",
+        "url": "https://www.cnbc.com/2025/07/29/apple-opens-manufacturing-academy-in-detroit-as-part-of-us-push-.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/106258256-1574341199950gettyimages-1183652344.jpeg?v=1574341294&w=1920&h=1080",
+        "publishedAt": "2025-07-29T13:00:01Z",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com"
+        }
+    },
+    {
+        "id": "0456140c6f85469aec35cca0edda0750",
+        "title": "Power equipment maker Hubbell raises annual profit forecast on strong data center demand",
+        "description": "Electrical equipment maker Hubbell raised its full-year profit forecast on Tuesday, betting on strong demand for products used by data centers needed for artificial intelligence. The development of data centers is a crucial step in building key infrastructure required for tackling complex tasks employed by generative AI. The Connecticut-based company, which makes and sells products including wiring and lighting systems, expects 2025 adjusted profit to be between $17.65 and $18.15 per share, compared with its earlier forecast of $17.35 to $17.85 per share.",
+        "content": "(Reuters) -Electrical equipment maker Hubbell raised its full-year profit forecast on Tuesday, betting on strong demand for products used by data centers needed for artificial intelligence.\nThe development of data centers is a crucial step in buildin... [1113 chars]",
+        "url": "https://sg.news.yahoo.com/power-equipment-maker-hubbell-raises-124531018.html?guce_referrer=aHR0cHM6Ly9zZy5uZXdzLnlhaG9vLmNvbS8&guce_referrer_sig=AQAAAA6w0iras3SAqBmgvCm7y326h_O13yM9VANFaHVD4PZVUw4iq6he3X7JOMdw51nShQ-HO5h7WoVMtvum7eNj1XldhxXCWA8G4d7oQbR_QiICPKUGou4qKOtyONdwEwsj2_8OXR0tJAEqtC_LGFM-hGAdsFvAs2UgWhwyhDvbrg24&_guc_consent_skip=1753794687",
+        "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "publishedAt": "2025-07-29T12:45:31Z",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com"
+        }
+    },
+    {
+        "id": "a18522ea62c23ac7eb55129772d0cf50",
+        "title": "Power equipment maker Hubbell raises annual profit forecast on strong data center demand",
+        "description": "Electrical equipment maker Hubbell raised its full-year profit forecast on Tuesday, betting on strong demand for products used by data centers needed for artificial intelligence. The development of data centers is a crucial step in building key infrastructure required for tackling complex tasks employed by generative AI. The Connecticut-based company, which makes and sells products including wiring and lighting systems, expects 2025 adjusted profit to be between $17.65 and $18.15 per share, compared with its earlier forecast of $17.35 to $17.85 per share.",
+        "content": "(Reuters) -Electrical equipment maker Hubbell raised its full-year profit forecast on Tuesday, betting on strong demand for products used by data centers needed for artificial intelligence.\nThe development of data centers is a crucial step in buildin... [1113 chars]",
+        "url": "https://sg.news.yahoo.com/power-equipment-maker-hubbell-raises-124531018.html",
+        "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "publishedAt": "2025-07-29T12:45:31Z",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com"
+        }
+    },
+    {
         "id": "446e2ccda939ee8098cb93a34bd017e0",
         "title": "How US adults are using AI, according to AP-NORC polling",
         "description": "A new poll finds most Americans say they've used artificial intelligence to search for information.",
@@ -95,48 +137,6 @@
             "id": "77b86639d1384ac68141803ec5db27c0",
             "name": "NBC News",
             "url": "https://www.nbcnews.com"
-        }
-    },
-    {
-        "id": "7ce97de67bd1c3b642532e428edebbd9",
-        "title": "Advantest raises full-year operating profit forecast by 24% on strong AI demand",
-        "description": "Japanese chip testing equipment maker Advantest raised on Tuesday its full-year operating profit forecast by 24% due to robust demand for semiconductors used in artificial intelligence. The company forecast an operating profit of 300 billion yen ($2.02 billion) for the current business year to the end of March 2026, compared with an earlier forecast of 242 billion yen and an average estimate of 302.05 billon yen in a survey of 23 analysts by LSEG. ($1 = 148.7100 yen)",
-        "content": "TOKYO (Reuters) -Japanese chip testing equipment maker Advantest raised on Tuesday its full-year operating profit forecast by 24% due to robust demand for semiconductors used in artificial intelligence.\nThe company forecast an operating profit of 300... [335 chars]",
-        "url": "https://sg.news.yahoo.com/advantest-raises-full-operating-profit-081203640.html",
-        "image": "https://media.zenfs.com/en/reuters.com/0c3835373e3f9e3d9d8a26056d662337",
-        "publishedAt": "2025-07-29T08:12:03Z",
-        "source": {
-            "id": "f6d6ee1134197fe1441d65a3e7915835",
-            "name": "Yahoo Singapore News",
-            "url": "https://sg.news.yahoo.com"
-        }
-    },
-    {
-        "id": "2aaa9981c35bfe18789430ee2ac6e5c3",
-        "title": "Nation urged to increase spending on AI storage",
-        "description": "Australia lacks the data storage capacity to take advantage of artificial intelligence and the nation's productivity could suffer as a result, experts warn.",
-        "content": "Customers will go elsewhere if Australia lacks the data storage needed for artificial intelligence. (Julian Smith/AAP PHOTOS)\nCustomers will go elsewhere if Australia lacks the data storage needed for artificial intelligence. (Julian Smith/AAP PHOTOS... [2538 chars]",
-        "url": "https://www.perthnow.com.au/news/technology/nation-urged-to-increase-spending-on-ai-storage-c-19513685",
-        "image": "https://images.perthnow.com.au/publication/C-19513685/5ecfa2ecd784a177c4fa9d92f1c71a5f81117c7c-16x9-x0y0w1280h720.jpg?imwidth=1200",
-        "publishedAt": "2025-07-29T08:11:16Z",
-        "source": {
-            "id": "7f6e8514e9d8f8376aaa9a7229861518",
-            "name": "PerthNow",
-            "url": "https://www.perthnow.com.au"
-        }
-    },
-    {
-        "id": "c904f747618c6942f3571999d9dc4eef",
-        "title": "Samsung backs AI chip startup Rebellions ahead of IPO",
-        "description": "Rebellions has been working with Samsung to bring its second-generation artificial intelligence chip, called Rebel, to market.",
-        "content": "The Rebel-Quad is the second-generation product from Rebellions and is made up of four Rebel AI chips. Rebellions, a South Korean firm, is looking to rival companies like Nvidia in AI chips.\nSouth Korean artificial intelligence chip startup Rebellion... [1380 chars]",
-        "url": "https://www.cnbc.com/2025/07/29/samsung-backs-ai-chip-startup-rebellions-ahead-of-ipo.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108178219-1753773288905-REBEL-Quad_by_Rebellionspng_png_.png_?v=1753775056&w=1920&h=1080",
-        "publishedAt": "2025-07-29T08:07:31Z",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com"
         }
     }
 ]
