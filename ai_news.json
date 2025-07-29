@@ -1,5 +1,61 @@
 [
     {
+        "id": "5418ce31ac14105906b0a2c7fdb6c280",
+        "title": "AI models may be accidentally (and secretly) learning each other’s bad behaviors",
+        "description": "Artificial intelligence models can secretly transmit dangerous inclinations to one another like a contagion, a recent study found",
+        "content": "Artificial intelligence models can secretly transmit dangerous inclinations to one another like a contagion, a recent study found.\nExperiments showed that an AI model that’s training other models can pass along everything from innocent preferences — ... [4631 chars]",
+        "url": "https://www.nbcnews.com/tech/tech-news/ai-models-can-secretly-influence-one-another-owls-rcna221583",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250728-ai-learning-lr-ee0b60.jpg",
+        "publishedAt": "2025-07-29T09:00:00Z",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com"
+        }
+    },
+    {
+        "id": "7ce97de67bd1c3b642532e428edebbd9",
+        "title": "Advantest raises full-year operating profit forecast by 24% on strong AI demand",
+        "description": "Japanese chip testing equipment maker Advantest raised on Tuesday its full-year operating profit forecast by 24% due to robust demand for semiconductors used in artificial intelligence. The company forecast an operating profit of 300 billion yen ($2.02 billion) for the current business year to the end of March 2026, compared with an earlier forecast of 242 billion yen and an average estimate of 302.05 billon yen in a survey of 23 analysts by LSEG. ($1 = 148.7100 yen)",
+        "content": "TOKYO (Reuters) -Japanese chip testing equipment maker Advantest raised on Tuesday its full-year operating profit forecast by 24% due to robust demand for semiconductors used in artificial intelligence.\nThe company forecast an operating profit of 300... [335 chars]",
+        "url": "https://sg.news.yahoo.com/advantest-raises-full-operating-profit-081203640.html",
+        "image": "https://media.zenfs.com/en/reuters.com/0c3835373e3f9e3d9d8a26056d662337",
+        "publishedAt": "2025-07-29T08:12:03Z",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com"
+        }
+    },
+    {
+        "id": "2aaa9981c35bfe18789430ee2ac6e5c3",
+        "title": "Nation urged to increase spending on AI storage",
+        "description": "Australia lacks the data storage capacity to take advantage of artificial intelligence and the nation's productivity could suffer as a result, experts warn.",
+        "content": "Customers will go elsewhere if Australia lacks the data storage needed for artificial intelligence. (Julian Smith/AAP PHOTOS)\nCustomers will go elsewhere if Australia lacks the data storage needed for artificial intelligence. (Julian Smith/AAP PHOTOS... [2538 chars]",
+        "url": "https://www.perthnow.com.au/news/technology/nation-urged-to-increase-spending-on-ai-storage-c-19513685",
+        "image": "https://images.perthnow.com.au/publication/C-19513685/5ecfa2ecd784a177c4fa9d92f1c71a5f81117c7c-16x9-x0y0w1280h720.jpg?imwidth=1200",
+        "publishedAt": "2025-07-29T08:11:16Z",
+        "source": {
+            "id": "7f6e8514e9d8f8376aaa9a7229861518",
+            "name": "PerthNow",
+            "url": "https://www.perthnow.com.au"
+        }
+    },
+    {
+        "id": "c904f747618c6942f3571999d9dc4eef",
+        "title": "Samsung backs AI chip startup Rebellions ahead of IPO",
+        "description": "Rebellions has been working with Samsung to bring its second-generation artificial intelligence chip, called Rebel, to market.",
+        "content": "The Rebel-Quad is the second-generation product from Rebellions and is made up of four Rebel AI chips. Rebellions, a South Korean firm, is looking to rival companies like Nvidia in AI chips.\nSouth Korean artificial intelligence chip startup Rebellion... [1380 chars]",
+        "url": "https://www.cnbc.com/2025/07/29/samsung-backs-ai-chip-startup-rebellions-ahead-of-ipo.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108178219-1753773288905-REBEL-Quad_by_Rebellionspng_png_.png_?v=1753775056&w=1920&h=1080",
+        "publishedAt": "2025-07-29T08:07:31Z",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com"
+        }
+    },
+    {
         "id": "38eb0b9bacf7960a2739eae4c1b206d9",
         "title": "High Alert: The Ongoing Terrorism Threat in Singapore",
         "description": "Singapore's home affairs ministry warns of high terrorism threat due to the Israeli-Palestinian conflict and radical narratives. Despite no imminent attack intelligence, the appeal of radical ideologies, especially online, poses significant risks, with the Internal Security Act used against self-radicalised youths. Artificial intelligence also emerges as a new threat tool.",
@@ -25,6 +81,20 @@
             "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
             "name": "ABC News",
             "url": "https://www.abc.net.au"
+        }
+    },
+    {
+        "id": "2b4190ed0687ddb9a6023be2725936cf",
+        "title": "3 Quantum Computing Stocks with Positive Investor Sentiment - 7/28/2025",
+        "description": "Quantum computing, though still in its early stages, is expected to be the next big revolution after artificial intelligence. This emerging tech...",
+        "content": "Quantum computing, though still in its early stages, is expected to be the next big revolution after artificial intelligence. This emerging technology can tackle complex problems more quickly than traditional computers due to its ability to process i... [2126 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/3-quantum-computing-stocks-with-positive-investor-sentiment-7-28-2025-1034947821",
+        "image": "https://markets.businessinsider.com/apple-touch-icon.png",
+        "publishedAt": "2025-07-29T06:00:00Z",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Business Insider",
+            "url": "https://markets.businessinsider.com"
         }
     },
     {
@@ -63,76 +133,6 @@
         "url": "https://www.manilatimes.net/2025/07/29/business/foreign-business/palantir-the-ai-giant-that-preaches-us-dominance/2157687",
         "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/07/29/692767.jpg",
         "publishedAt": "2025-07-29T01:31:00Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "a009c12bc94c2c916ff6a5c782de0af1",
-        "title": "Palantir, the AI giant that preaches US dominance",
-        "description": "PALO ALTO — Palantir, an American data analysis and artificial intelligence company, has emerged as Silicon Valley's latest tech darling -- one that makes no secret of its macho, America-first ethos now ascendant in Trump-era tech culture.",
-        "content": "PALO ALTO — Palantir, an American data analysis and artificial intelligence company, has emerged as Silicon Valley's latest tech darling -- one that makes no secret of its macho, America-first ethos now ascendant in Trump-era tech culture.\nThe compan... [5243 chars]",
-        "url": "https://www.manilatimes.net/2025/07/29/world/americas-emea/palantir-the-ai-giant-that-preaches-us-dominance/2157687",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-07-29T01:31:00Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "3b80ac4ca5921966f5887f9a47c2cbfd",
-        "title": "Alphabet's AI push is accelerating — Is the stock a buy now?",
-        "description": "Alphabet is looking to be a big winner in artificial intelligence, defying skeptics.",
-        "content": "You’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources , and mo... [5519 chars]",
-        "url": "https://www.fool.com.au/2025/07/29/alphabets-ai-push-is-accelerating-is-the-stock-a-buy-now-usfeed/",
-        "image": "https://www.fool.com.au/wp-content/uploads/2022/03/div-1200x675.jpg",
-        "publishedAt": "2025-07-29T00:58:00Z",
-        "source": {
-            "id": "c6075ba0dc9d123bb327faaa419d3d07",
-            "name": "Motley Fool Australia",
-            "url": "https://www.fool.com.au"
-        }
-    },
-    {
-        "id": "2da3c42f9e3b7cf2d457637dcccb12e7",
-        "title": "Student revolt against AI arts course at top university",
-        "description": "One of Australia's leading universities is facing resistance to a subject teaching fine arts students how to use artificial intelligence to make artworks.",
-        "content": "Robin Chessell has launched a petition to have the UNSW Generative AI for Artists subject cancelled. (Dean Lewins/AAP PHOTOS)\nRobin Chessell has launched a petition to have the UNSW Generative AI for Artists subject cancelled. (Dean Lewins/AAP PHOTOS... [3606 chars]",
-        "url": "https://www.perthnow.com.au/entertainment/student-revolt-against-ai-arts-course-at-top-university-c-19506242",
-        "image": "https://images.perthnow.com.au/publication/C-19506242/c262928b0182d694f4d19e7eb0dbc28ae02a31ef-16x9-x0y0w1280h720.jpg?imwidth=1200",
-        "publishedAt": "2025-07-28T21:02:48Z",
-        "source": {
-            "id": "7f6e8514e9d8f8376aaa9a7229861518",
-            "name": "PerthNow",
-            "url": "https://www.perthnow.com.au"
-        }
-    },
-    {
-        "id": "6574b18d883e42dade05e60f54090c57",
-        "title": "AI-powered blood test improves early Lyme disease detection",
-        "description": "Today at ADLM 2025 (formerly the AACC Annual Scientific Meeting & Clinical Lab Expo), researchers will unveil a blood test developed with the help of artificial intelligence (AI) that identifies Lyme disease sooner and more accurately than the current standard - and that could translate to vastly improved patient outcomes.",
-        "content": "Today at ADLM 2025 (formerly the AACC Annual Scientific Meeting & Clinical Lab Expo), researchers will unveil a blood test developed with the help of artificial intelligence (AI) that identifies Lyme disease sooner and more accurately than the curren... [4341 chars]",
-        "url": "https://www.news-medical.net/news/20250728/AI-powered-blood-test-improves-early-Lyme-disease-detection.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2025-07-28T17:19:00Z",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net"
-        }
-    },
-    {
-        "id": "be154ea9ff397822dc8bba270f51ab19",
-        "title": "Biometrics, AI to replace standard OTPs by 2027",
-        "description": "THE prevailing one-time passwords (OTPs) used for online financial transactions will be replaced by facial recognition and artificial intelligence authentication by 2027, an official of Singapore-based technology firm ADVANCE.AI said.",
-        "content": "THE prevailing one-time passwords (OTPs) used for online financial transactions will be replaced by facial recognition and artificial intelligence authentication by 2027, an official of Singapore-based technology firm ADVANCE.AI said.\n“We’re already ... [3156 chars]",
-        "url": "https://www.manilatimes.net/2025/07/29/business/top-business/biometrics-ai-to-replace-standard-otps-by-2027/2157483",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-07-28T16:15:00Z",
         "source": {
             "id": "7c666ee953f873d3057b310220f510df",
             "name": "The Manila Times",
