@@ -1,5 +1,19 @@
 [
     {
+        "id": "b44da464543d03d908e292502d46b8af",
+        "title": "One Third of Americans Are Now Heavy AI Users",
+        "description": "The rapid adoption of artificial intelligence systems is transforming how Americans interact with technology, information, and everyday services.",
+        "content": "Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.\nNewsweek AI is in beta. Translations may contain inaccuracies—please refer to the original content.\nA new survey has revealed... [4378 chars]",
+        "url": "https://www.newsweek.com/one-third-americans-are-now-heavy-ai-users-2105748",
+        "image": "https://d.newsweek.com/en/full/2692444/chatgpt.jpg",
+        "publishedAt": "2025-07-29T16:25:03Z",
+        "source": {
+            "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+            "name": "Newsweek",
+            "url": "https://www.newsweek.com"
+        }
+    },
+    {
         "id": "b42f803c82e1a6ccf08ac89281d20a0e",
         "title": "​Global firms seek to enter China’s AI ecosystem",
         "description": "GLOBAL tech giants and niche innovators alike have flocked to the 2025 World Artificial Intelligence Conference (WAIC) in Shanghai, driven by China’s booming artificial intelligence (AI) ecosystem, where industrial integration, policy support and scalable applications have positioned the nation as a global hub for AI collaboration and innovation.",
@@ -39,6 +53,20 @@
             "id": "7c666ee953f873d3057b310220f510df",
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net"
+        }
+    },
+    {
+        "id": "8b4ba40bf5ab071f1ee570f7dd04bbe0",
+        "title": "One City's Huge New AI Data Center Will Be a 'Game Changer'",
+        "description": "An artificial intelligence data center that would use more electricity than every home in Wyoming combined, before expanding to as much as five times that size, will be built...",
+        "content": "An artificial intelligence data center that would use more electricity than every home in Wyoming combined, before expanding to as much as five times that size, will be built soon near Cheyenne, according to the city's mayor. \"It's a game changer. It... [2076 chars]",
+        "url": "https://www.newser.com/story/372611/ai-data-center-to-use-more-power-than-every-home-in-the-state.html",
+        "image": "https://img1-azrcdn.newser.com/image/1624930-12-20250729064432.jpeg",
+        "publishedAt": "2025-07-29T16:03:00Z",
+        "source": {
+            "id": "51aadd014176eb61b32255e2791b7207",
+            "name": "Newser",
+            "url": "https://www.newser.com"
         }
     },
     {
@@ -109,34 +137,6 @@
             "id": "95a96a1867c4dac6f720e9d08d4c1b96",
             "name": "New York Post",
             "url": "https://nypost.com"
-        }
-    },
-    {
-        "id": "74e8fef1c5641e8d308528fd2d16e6fb",
-        "title": "Apple opens manufacturing academy in Detroit as part of U.S. push",
-        "description": "The Apple Manufacturing Academy is opening in downtown Detroit, with a focus on artificial intelligence.",
-        "content": "US President Donald Trump (R) and Apple CEO Tim Cook (2nd L), with Senior Advisor to the President Ivanka Trump (L) and Treasury Secretary Steven Mnuchin, tour the Flextronics computer manufacturing facility where Apple's Mac Pros are assembled in Au... [2797 chars]",
-        "url": "https://www.cnbc.com/2025/07/29/apple-opens-manufacturing-academy-in-detroit-as-part-of-us-push-.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/106258256-1574341199950gettyimages-1183652344.jpeg?v=1574341294&w=1920&h=1080",
-        "publishedAt": "2025-07-29T13:00:01Z",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com"
-        }
-    },
-    {
-        "id": "0456140c6f85469aec35cca0edda0750",
-        "title": "Power equipment maker Hubbell raises annual profit forecast on strong data center demand",
-        "description": "Electrical equipment maker Hubbell raised its full-year profit forecast on Tuesday, betting on strong demand for products used by data centers needed for artificial intelligence. The development of data centers is a crucial step in building key infrastructure required for tackling complex tasks employed by generative AI. The Connecticut-based company, which makes and sells products including wiring and lighting systems, expects 2025 adjusted profit to be between $17.65 and $18.15 per share, compared with its earlier forecast of $17.35 to $17.85 per share.",
-        "content": "(Reuters) -Electrical equipment maker Hubbell raised its full-year profit forecast on Tuesday, betting on strong demand for products used by data centers needed for artificial intelligence.\nThe development of data centers is a crucial step in buildin... [1113 chars]",
-        "url": "https://sg.news.yahoo.com/power-equipment-maker-hubbell-raises-124531018.html?guce_referrer=aHR0cHM6Ly9zZy5uZXdzLnlhaG9vLmNvbS8&guce_referrer_sig=AQAAAA6w0iras3SAqBmgvCm7y326h_O13yM9VANFaHVD4PZVUw4iq6he3X7JOMdw51nShQ-HO5h7WoVMtvum7eNj1XldhxXCWA8G4d7oQbR_QiICPKUGou4qKOtyONdwEwsj2_8OXR0tJAEqtC_LGFM-hGAdsFvAs2UgWhwyhDvbrg24&_guc_consent_skip=1753794687",
-        "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-        "publishedAt": "2025-07-29T12:45:31Z",
-        "source": {
-            "id": "f6d6ee1134197fe1441d65a3e7915835",
-            "name": "Yahoo Singapore News",
-            "url": "https://sg.news.yahoo.com"
         }
     }
 ]
