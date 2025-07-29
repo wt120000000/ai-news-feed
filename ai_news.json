@@ -1,5 +1,33 @@
 [
     {
+        "id": "01aeab14ca3d0465c4dc8aee3522e7ff",
+        "title": "AI bands signal new era for music business",
+        "description": "NEW YORK, United States — A rising tide of artificial intelligence (AI) bands is ushering in a new era where work will be scarcer for musicians.",
+        "content": "NEW YORK, United States — A rising tide of artificial intelligence (AI) bands is ushering in a new era where work will be scarcer for musicians.\nWhether it's Velvet Sundown's 1970s-style rock or country music projects \"Aventhis\" and \"The Devil Inside... [3644 chars]",
+        "url": "https://www.manilatimes.net/2025/07/29/business/sunday-business-it/ai-bands-signal-new-era-for-music-business/2157851",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/07/29/693046.jpg",
+        "publishedAt": "2025-07-29T10:13:00Z",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net"
+        }
+    },
+    {
+        "id": "b57068a483164659a8fb09853431f90d",
+        "title": "Scientists use quantum machine learning to create semiconductors for the first time - and it could transform how chips are made",
+        "description": "Researchers have found a way to make the chip design and manufacturing process much easier — by tapping into a hybrid blend of artificial intelligence and quantum computing.",
+        "content": "Microchips power almost every modern device — phones, laptops and even fridges. But behind the scenes, making them is a complex process. But researchers say they have found a way to tap into the power of quantum computing to make it simpler.\nScientis... [5389 chars]",
+        "url": "https://www.livescience.com/technology/computing/scientists-use-quantum-machine-learning-to-create-semiconductors-for-the-first-time-and-it-could-transform-how-chips-are-made",
+        "image": "https://cdn.mos.cms.futurecdn.net/SdKiMuUR8aUFGmHmjwJzVg.jpg",
+        "publishedAt": "2025-07-29T10:00:00Z",
+        "source": {
+            "id": "6534c1541b974602cc2ed040c2e4038f",
+            "name": "Livescience.com",
+            "url": "https://www.livescience.com"
+        }
+    },
+    {
         "id": "5418ce31ac14105906b0a2c7fdb6c280",
         "title": "AI models may be accidentally (and secretly) learning each other’s bad behaviors",
         "description": "Artificial intelligence models can secretly transmit dangerous inclinations to one another like a contagion, a recent study found",
@@ -109,34 +137,6 @@
             "id": "bce8b9fcd331f3552e3dcf603b83b80e",
             "name": "Business Insider",
             "url": "https://markets.businessinsider.com"
-        }
-    },
-    {
-        "id": "54390b11a08a309e562e5bc2e5698f19",
-        "title": "China pitches global AI governance group as the US goes it alone",
-        "description": "China has proposed a global action plan to govern artificial intelligence, just days after the United States unveiled its own plan to promote US dominance of the rapidly growing field that’s become a key bargaining chip in trade talks between the economic powerhouses.",
-        "content": "AI Asia China Corporate news See all topics Follow\nChina has proposed a global action plan to govern artificial intelligence, just days after the United States unveiled its own plan to promote US dominance of the rapidly growing field that’s become a... [7576 chars]",
-        "url": "https://edition.cnn.com/2025/07/28/tech/china-global-ai-cooperation-organization-waic-hnk-spc",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-15417926d.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-07-29T03:58:10Z",
-        "source": {
-            "id": "26269dbc42635df9af8c24f3cdab8e37",
-            "name": "Cable News Network",
-            "url": "https://edition.cnn.com"
-        }
-    },
-    {
-        "id": "d421ddd5a6e3ae98866cc40d25c39259",
-        "title": "Palantir, the AI giant that preaches US dominance",
-        "description": "PALO ALTO — Palantir, an American data analysis and artificial intelligence company, has emerged as Silicon Valley's latest tech darling -- one that makes no secret of its macho, America-first ethos now ascendant in Trump-era tech culture.",
-        "content": "PALO ALTO — Palantir, an American data analysis and artificial intelligence company, has emerged as Silicon Valley's latest tech darling -- one that makes no secret of its macho, America-first ethos now ascendant in Trump-era tech culture.\nThe compan... [5411 chars]",
-        "url": "https://www.manilatimes.net/2025/07/29/business/foreign-business/palantir-the-ai-giant-that-preaches-us-dominance/2157687",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/07/29/692767.jpg",
-        "publishedAt": "2025-07-29T01:31:00Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
         }
     }
 ]
