@@ -1,5 +1,19 @@
 [
     {
+        "id": "d1ba04aa9cd66c3577fff1749b1c0313",
+        "title": "Meta stock surges after Q2 results blow past expectations despite heavy AI spending",
+        "description": "By BARBARA ORTUTAY Meta’s artificial intelligence spending spree appears to be paying off with investors, who sent the company’s stock soaring after hours on Wednesday following a blowout quarterly earnings report. The Menlo Park, California-based company easily beat Wall Street’s expectations for the second quarter, helped by higher advertising revenue and a growing user base […]",
+        "content": "By BARBARA ORTUTAY\nMeta’s artificial intelligence spending spree appears to be paying off with investors, who sent the company’s stock soaring after hours on Wednesday following a blowout quarterly earnings report.\nThe Menlo Park, California-based co... [2273 chars]",
+        "url": "https://www.mercurynews.com/2025/07/30/meta-stock-surges-after-q2-results-blow-past-expectations-despite-heavy-ai-spending/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2025/07/Earns_Meta_93720.jpg?w=1024&h=682",
+        "publishedAt": "2025-07-30T22:25:52Z",
+        "source": {
+            "id": "17d7c2645f485578130862e0c8dd9480",
+            "name": "The Mercury News",
+            "url": "https://www.mercurynews.com"
+        }
+    },
+    {
         "id": "5c263f0b5c812478249b7cf8dbed8a1a",
         "title": "Equinix raises annual results forecast on steady data center demand",
         "description": "Data center firm Equinix raised its forecast for annual results on Wednesday, signaling steady demand from its enterprise customers investing in AI solutions. The company has benefited from the increased demand for data center infrastructure amid a surge in artificial intelligence usage. Major cloud firms, including Google, have pledged significant investments this year to expand on AI, underscoring robust demand for AI-related products and solutions.",
@@ -123,20 +137,6 @@
             "id": "7c666ee953f873d3057b310220f510df",
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "287ef49cd758ff0f7db70ee15a63350b",
-        "title": "Zuckerberg says AI superintelligence is 'in sight,' touts 'new era of personal empowerment'",
-        "description": "Meta CEO Mark Zuckerberg said Wednesday that the creation of superintelligent artificial intelligence is “now in sight” and that it will herald a “new era of personal empowerment.”Zuckerberg said that Meta’s approach will be “different from others in the industry” because it will focus on developing AI superintelligence to benefit people’s personal life, rather than directing AI to automate work — a rising concern as more and more companies move to replace entry-level roles with AI.",
-        "content": "Meta CEO Mark Zuckerberg said Wednesday that the creation of superintelligent artificial intelligence is “now in sight” and that it will herald a “new era of personal empowerment.”\nZuckerberg said that Meta’s approach will be “different from others i... [2235 chars]",
-        "url": "https://www.nbcnews.com/tech/tech-news/zuckerberg-says-ai-superintelligence-sight-touts-new-era-personal-empo-rcna221918",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250730-zuckerberg-ch-0927-b1847e.jpg",
-        "publishedAt": "2025-07-30T15:16:18Z",
-        "source": {
-            "id": "77b86639d1384ac68141803ec5db27c0",
-            "name": "NBC News",
-            "url": "https://www.nbcnews.com"
         }
     }
 ]
