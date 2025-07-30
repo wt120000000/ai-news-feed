@@ -1,5 +1,33 @@
 [
     {
+        "id": "35f1bd844665bcc2e32f07815e2974cd",
+        "title": "Morgan Stanley raises Nvidia price target on ‘exceptional’ AI strength",
+        "description": "Analyst Joseph Moore, who reiterated his overweight rating on the artificial intelligence chip darling, upped his price target on the stock.",
+        "content": "Nvidia , along with other chipmakers, could extend recent gains as AI demand continues to grow, according to Morgan Stanley. Analyst Joseph Moore, who reiterated his overweight rating on the artificial intelligence chip darling, upped his price targe... [2017 chars]",
+        "url": "https://www.cnbc.com/2025/07/30/morgan-stanley-raises-nvidia-price-target-on-exceptional-ai-strength.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108169494-17520658522025-07-09t124800z_1139416955_rc20jfazmr5a_rtrmadp_0_israel-tech-nvidia.jpeg?v=1752065899&w=1920&h=1080",
+        "publishedAt": "2025-07-30T10:47:24Z",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com"
+        }
+    },
+    {
+        "id": "639f238531bdbabf48038597f1886531",
+        "title": "AI cyberattacks outpace security as sector still the wild west",
+        "description": "A new IBM report finds that artificial intelligence-related cybersecurity breaches are “greatly” outpacing AI security and governance.",
+        "content": "IBM’s latest Cost of a Data Breach report finds that AI is already an easy and high value target.\nA new IBM report finds that artificial intelligence adoption is “greatly” outpacing AI security and governance.\nThe company has been issuing its annual ... [4853 chars]",
+        "url": "https://www.siliconrepublic.com/enterprise/ibm-ai-cost-of-data-breach-cybersecurity-report-2025",
+        "image": "https://www.siliconrepublic.com/wp-content/uploads/2025/07/AdobeStock_605588419_Editorial_Use_Only.jpeg",
+        "publishedAt": "2025-07-30T10:25:57Z",
+        "source": {
+            "id": "59749bcce0ec90ed59071c45c44738b7",
+            "name": "Siliconrepublic.com",
+            "url": "https://www.siliconrepublic.com"
+        }
+    },
+    {
         "id": "7b80da5503948d7056285b960ac627c8",
         "title": "Artificial intelligence used to reduce cassowary road deaths in Queensland",
         "description": "Far North Queensland drivers were warned with flashing signs triggered by approaching cassowaries in a bid to save them from being hit.",
@@ -109,34 +137,6 @@
             "id": "f6d6ee1134197fe1441d65a3e7915835",
             "name": "Yahoo Singapore News",
             "url": "https://sg.news.yahoo.com"
-        }
-    },
-    {
-        "id": "3489a48fbe32731ecc4e1d04b689c0f7",
-        "title": "Apple Continues Losing AI Experts to Meta",
-        "description": "A fourth Apple artificial intelligence expert has left the company to join Meta, reports Bloomberg. Bowen Zhang, who was on Apple's foundation...",
-        "content": "A fourth Apple artificial intelligence expert has left the company to join Meta, reports Bloomberg. Bowen Zhang, who was on Apple's foundation models team, is the latest employee to abandon Apple for Meta.\nThe leader of Apple's foundation models grou... [2092 chars]",
-        "url": "https://www.macrumors.com/2025/07/29/apple-continues-losing-ai-experts-to-meta/",
-        "image": "https://images.macrumors.com/t/A1B4aW248cXlls58AjTKuZPDmaI=/1600x/article-new/2025/02/meta-ai.jpg",
-        "publishedAt": "2025-07-30T01:47:00Z",
-        "source": {
-            "id": "10216cb8fabd0accd5eb967c97fc37ab",
-            "name": "MacRumors",
-            "url": "https://www.macrumors.com"
-        }
-    },
-    {
-        "id": "1ae9f3a2102129bddab320db70b21e6c",
-        "title": "YouTube to roll out new AI-powered technology aimed at identifying teen users",
-        "description": "Powered by artificial intelligence, the new tool will assess a person's age based on their activity on the platform — regardless of the birthday listed on their account.",
-        "content": "YouTube announced on Tuesday it is planning to roll out a new age-estimation technology that will identify users under the age of 18. The new feature is intended to protect young teens from harmful content, the company says.\nPowered by artificial int... [1970 chars]",
-        "url": "https://www.cbsnews.com/detroit/news/youtube-ai-powered-technology-teen-users/",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/07/29/0f2ad34f-e977-46c9-a4a7-de8db9113d6c/thumbnail/1200x630/f8973259f1d593a73db291d815e9b66b/gettyimages-1200731050.jpg",
-        "publishedAt": "2025-07-29T20:04:24Z",
-        "source": {
-            "id": "3a3847d645a619320aa3b3484581e395",
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com"
         }
     }
 ]
