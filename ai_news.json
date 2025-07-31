@@ -1,5 +1,19 @@
 [
     {
+        "id": "90ef6143fef46823a66b8837fcb289ae",
+        "title": "Big Tech's AI Bets Propel Record Highs in S&P 500 and Nasdaq",
+        "description": "The S&P 500 and Nasdaq hit record highs as significant earnings from Meta and Microsoft showcase the success of their artificial intelligence investments, driving Big Tech forward. The Dow Jones also saw a notable increase, highlighting a positive movement across major stock indices on Thursday.",
+        "content": "In a significant market move, the S&P 500 and Nasdaq surged to record highs on Thursday. This upswing came on the heels of impressive earnings reports from tech giants Meta and Microsoft, proving the effectiveness of their major investments in artifi... [477 chars]",
+        "url": "https://www.devdiscourse.com/article/science-environment/3524903-big-techs-ai-bets-propel-record-highs-in-sp-500-and-nasdaq",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2024_19_15_19_4397187.png?width=920&format=jpeg",
+        "publishedAt": "2025-07-31T13:35:34Z",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com"
+        }
+    },
+    {
         "id": "8d4936ed42f372864ec87d6002c08de9",
         "title": "Startup and Nobel laureate collaborate to create GPU financial exchange",
         "description": "The world of artificial intelligence is built on computing power, and at the heart of that engine are graphics processing units. These chips are in such high...",
@@ -123,20 +137,6 @@
             "id": "f6d6ee1134197fe1441d65a3e7915835",
             "name": "Yahoo Singapore News",
             "url": "https://sg.news.yahoo.com"
-        }
-    },
-    {
-        "id": "aa1b2f41cf4df7907535830da3bcb6ae",
-        "title": "Google to sign EU’s AI code of practice despite concerns",
-        "description": "The European Union enacted the guardrails for the use of artificial intelligence in an attempt to set a potential global benchmark for a technology used in business and everyday life",
-        "content": "Google was concerned that the AI Act and code of practice risk slowing Europe's development and deployment of AI. (Image: Reuters)\nAlphabet’s Google will sign the European Union’s code of practice which aims to help companies comply with the bloc’s l... [448 chars]",
-        "url": "https://indianexpress.com/article/technology/google-to-sign-eus-ai-code-of-practice-despite-concerns-10160633/",
-        "image": "https://images.indianexpress.com/2025/07/Google-article-images-1.jpg",
-        "publishedAt": "2025-07-31T04:47:05Z",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com"
         }
     }
 ]
