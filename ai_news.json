@@ -1,5 +1,33 @@
 [
     {
+        "id": "18be63df295bb9f975f50ee719e2d278",
+        "title": "Meta will allow job candidates to use AI during coding tests",
+        "description": "Meta is going to let job candidates to use artificial intelligence tools during coding tests.",
+        "content": "Meta will begin allowing candidates to use artificial intelligence during coding tests. The company has also asked existing employees to volunteer for a “mock AI-enabled interview,” as first reported by 404 Media and later confirmed by Meta.\nThe Sili... [2741 chars]",
+        "url": "https://indianexpress.com/article/technology/meta-will-allow-job-candidates-to-use-ai-during-coding-tests-10161510/",
+        "image": "https://images.indianexpress.com/2025/07/Meta-Reuters.jpg",
+        "publishedAt": "2025-07-31T10:38:18Z",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com"
+        }
+    },
+    {
+        "id": "c5565f822579fe2a3f1940f1f147b0d3",
+        "title": "CoreWeave is a buy after Microsoft’s strong earnings report, Citi says",
+        "description": "Analyst Tyler Radke upgraded the artificial intelligence cloud computing stock.",
+        "content": "Investors should buy the recent dip in CoreWeave as strong AI demand will power shares higher, according to Citi. Analyst Tyler Radke upgraded the artificial intelligence cloud computing stock to buy from neutral. His price target of $160 implies ups... [1168 chars]",
+        "url": "https://www.cnbc.com/2025/07/31/coreweave-is-a-buy-after-microsofts-strong-earnings-report-citi-says.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108172055-1752584137600-gettyimages-2213626396-COREWEAVE_DEBT_DEAL.jpeg?v=1752584197&w=1920&h=1080",
+        "publishedAt": "2025-07-31T10:31:28Z",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com"
+        }
+    },
+    {
         "id": "cf13f8aaa0b1d1a55d6d9a217fa30a65",
         "title": "AI infrastructure company fal raises $125 million, valuing company at $1.5 billion",
         "description": "SAN FRANCISCO (Reuters) -Artificial intelligence infrastructure company fal raised a $125 million Series C round valuing the company at $1.5 billion, the company said Thursday. Venture capital fund Meritech led the round with participation from Salesforce Ventures, Shopify Ventures and Google AI Futures fund. Existing investors Bessemer Venture Partners, Kindred Ventures, Andreessen Horowitz, Notable Capital, First Round Capital, Unusual Ventures and Village Global also participated in the round.",
@@ -109,34 +137,6 @@
             "id": "20ca9773b4c0563e26b4c2863bdf8c19",
             "name": "The Associated Press",
             "url": "https://apnews.com"
-        }
-    },
-    {
-        "id": "bdd4a05dfdfa58f71c1833fa2c87a403",
-        "title": "Meta's big AI spending blitz will continue into 2026",
-        "description": "Meta CEO Mark Zuckerberg plans to continue his company's artificial intelligence spending blitz well into the next year as rival tech giants do the same.",
-        "content": "Meta CEO Mark Zuckerberg plans to continue his company's artificial intelligence spending blitz well into the next year as rival tech giants do the same.\nZuckerberg told analysts Wednesday during a second-quarter earnings call that AI's rapid pace of... [3040 chars]",
-        "url": "https://www.cnbc.com/2025/07/30/metas-big-ai-spending-blitz-will-continue-into-2026-.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108039160-17272877402024-09-25t180630z_1748780285_rc2u7aaoq2mv_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1753907044&w=1920&h=1080",
-        "publishedAt": "2025-07-31T00:02:07Z",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com"
-        }
-    },
-    {
-        "id": "d1ba04aa9cd66c3577fff1749b1c0313",
-        "title": "Meta stock surges after Q2 results blow past expectations despite heavy AI spending",
-        "description": "By BARBARA ORTUTAY Meta’s artificial intelligence spending spree appears to be paying off with investors, who sent the company’s stock soaring after hours on Wednesday following a blowout quarterly earnings report. The Menlo Park, California-based company easily beat Wall Street’s expectations for the second quarter, helped by higher advertising revenue and a growing user base […]",
-        "content": "By BARBARA ORTUTAY\nMeta’s artificial intelligence spending spree appears to be paying off with investors, who sent the company’s stock soaring after hours on Wednesday following a blowout quarterly earnings report.\nThe Menlo Park, California-based co... [2273 chars]",
-        "url": "https://www.mercurynews.com/2025/07/30/meta-stock-surges-after-q2-results-blow-past-expectations-despite-heavy-ai-spending/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2025/07/Earns_Meta_93720.jpg?w=1024&h=682",
-        "publishedAt": "2025-07-30T22:25:52Z",
-        "source": {
-            "id": "17d7c2645f485578130862e0c8dd9480",
-            "name": "The Mercury News",
-            "url": "https://www.mercurynews.com"
         }
     }
 ]
