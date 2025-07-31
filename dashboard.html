@@ -1,3 +1,4 @@
+<!-- dashboard.html -->
 <!DOCTYPE html>
 <html lang="en" data-theme="dark">
 <head>
@@ -15,15 +16,10 @@
 
   <!-- Header -->
   <div class="max-w-7xl mx-auto p-6 relative">
-    <!-- Logo Image -->
     <div class="flex justify-center mb-4">
       <img src="digital_eye.svg" alt="AI Eye Logo" class="w-12 h-12">
     </div>
-
-    <!-- Main Title -->
-    <h1 id="mainTitle" class="text-3xl font-bold mb-4 text-center text-white-400">
-      Latest News in A.I.
-    </h1>
+    <h1 id="mainTitle" class="text-3xl font-bold mb-4 text-center text-white-400">Latest News in A.I.</h1>
 
     <!-- Search -->
     <div class="flex justify-center mb-6">
@@ -48,17 +44,9 @@
     </button>
   </div>
 
-  <!-- Main Layout: News + Sidebar -->
-  <div class="max-w-7xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
-
-    <!-- News Container -->
-    <div id="newsContainer" class="lg:col-span-2 grid gap-6 pb-12"></div>
-
-    <!-- Sidebar -->
-    <aside class="bg-gray-900 p-4 rounded-lg shadow h-fit sticky top-20">
-      <h2 class="text-xl font-bold mb-4 text-white">Trending Topics</h2>
-      <ul id="trendingList" class="space-y-2 text-sm text-gray-300"></ul>
-    </aside>
+  <!-- Main Layout -->
+  <div class="max-w-7xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-2 gap-8">
+    <div id="newsContainer" class="grid gap-6 pb-12"></div>
   </div>
 
   <!-- Pagination + Footer -->
@@ -79,31 +67,27 @@
     const pageIndicator = document.getElementById("pageIndicator");
     const mainTitle = document.getElementById("mainTitle");
     const toggleBtn = document.getElementById("toggleThemeBtn");
-    const trendingList = document.getElementById("trendingList");
 
     let articles = [];
     let filteredArticles = [];
     let currentPage = 1;
     const articlesPerPage = 8;
 
-    const stopwords = new Set([
-      "the", "and", "for", "with", "that", "this", "from", "you", "your", "are", "was", "but", "have",
-      "has", "about", "they", "their", "will", "just", "more", "than", "been", "into", "when", "how",
-      "why", "what", "which", "who", "over", "after", "before", "amid", "among", "using", "while",
-      "new", "one", "two", "all", "can", "its", "out", "as", "on", "at", "in", "a", "an", "of", "to", "by"
-    ]);
-
-    // Helper to format date or say "Today"
     function formatArticleDate(dateStr) {
       const date = new Date(dateStr);
       const now = new Date();
       const isToday = date.toDateString() === now.toDateString();
       if (isToday) return "Today";
-      // Format MM/DD/YYYY
       const mm = String(date.getMonth() + 1).padStart(2, "0");
       const dd = String(date.getDate()).padStart(2, "0");
       const yyyy = date.getFullYear();
       return `${mm}/${dd}/${yyyy}`;
+    }
+
+    function getFirstParagraph(content) {
+      if (!content) return '';
+      const paragraph = content.split("\n").find(p => p.trim().length > 30) || '';
+      return paragraph.length > 300 ? paragraph.slice(0, 300) + "..." : paragraph;
     }
 
     fetch("ai_news.json")
@@ -117,12 +101,9 @@
           return true;
         });
 
-        // Sort articles newest first by publishedAt date
         articles.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
-
         filteredArticles = articles;
         renderPage();
-        renderTrendingKeywords();
       })
       .catch(error => {
         container.innerHTML = `<p class="text-red-500">Failed to load news: ${error}</p>`;
@@ -136,6 +117,7 @@
 
       if (pageArticles.length === 0) {
         container.innerHTML = `<p class="text-gray-400 text-center">No articles found.</p>`;
+        return;
       }
 
       pageArticles.forEach(article => {
@@ -147,21 +129,22 @@
           : "";
 
         const formattedDate = article.publishedAt ? formatArticleDate(article.publishedAt) : "";
+        const summary = article.summary || getFirstParagraph(article.content);
 
         card.innerHTML = `
           ${imageHtml}
           <div class="p-5">
             <h2 class="text-xl font-semibold mb-2 text-white">${article.title}</h2>
-            <p class="text-sm mb-4 text-gray-400">
+            <p class="text-sm mb-2 text-gray-400">
               <span class="mr-2">${formattedDate}</span>
               <span>${article.source.name}</span>
             </p>
+            <p class="text-gray-300 mb-3">${summary}</p>
             <a href="${article.url}" target="_blank" class="inline-block mt-2 text-white hover:underline">
               Read more →
             </a>
           </div>
         `;
-
         container.appendChild(card);
       });
 
@@ -169,50 +152,6 @@
       pageIndicator.textContent = `Page ${currentPage} of ${totalPages}`;
       prevBtn.disabled = currentPage === 1;
       nextBtn.disabled = currentPage === totalPages;
-    }
-
-    function renderTrendingKeywords() {
-      const wordCounts = {};
-      articles.forEach(article => {
-        const words = article.title
-          .toLowerCase()
-          .replace(/[^\w\s]/g, "")
-          .split(/\s+/);
-
-        words.forEach(word => {
-          if (!stopwords.has(word) && word.length > 2) {
-            wordCounts[word] = (wordCounts[word] || 0) + 1;
-          }
-        });
-      });
-
-      const topWords = Object.entries(wordCounts)
-        .sort((a, b) => b[1] - a[1])
-        .slice(0, 10);
-
-      trendingList.innerHTML = topWords
-        .map(([word, count]) =>
-          `<li class="flex justify-between cursor-pointer hover:text-emerald-400">
-            <a href="#" data-tag="${word}" class="flex justify-between w-full">
-              <span>#${word}</span><span class="text-gray-500">${count}</span>
-            </a>
-          </li>`
-        )
-        .join("");
-
-      // Add click listeners to each tag link
-      trendingList.querySelectorAll("a[data-tag]").forEach(link => {
-        link.addEventListener("click", e => {
-          e.preventDefault();
-          const tag = e.currentTarget.getAttribute("data-tag");
-          searchInput.value = tag; // show tag in search input
-          filteredArticles = articles.filter(article =>
-            article.title.toLowerCase().includes(tag)
-          );
-          currentPage = 1;
-          renderPage();
-        });
-      });
     }
 
     searchInput.addEventListener("keyup", () => {
@@ -240,7 +179,6 @@
 
     toggleBtn.addEventListener("click", () => {
       const html = document.documentElement;
-
       if (html.dataset.theme === "dark") {
         html.dataset.theme = "light";
         document.body.classList.remove("bg-gray-950", "text-white");
@@ -269,6 +207,5 @@
     window.addEventListener("resize", sendHeightToParent);
     setTimeout(sendHeightToParent, 1000);
   </script>
-
 </body>
 </html>
