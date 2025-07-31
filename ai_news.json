@@ -1,5 +1,19 @@
 [
     {
+        "id": "cf13f8aaa0b1d1a55d6d9a217fa30a65",
+        "title": "AI infrastructure company fal raises $125 million, valuing company at $1.5 billion",
+        "description": "SAN FRANCISCO (Reuters) -Artificial intelligence infrastructure company fal raised a $125 million Series C round valuing the company at $1.5 billion, the company said Thursday. Venture capital fund Meritech led the round with participation from Salesforce Ventures, Shopify Ventures and Google AI Futures fund. Existing investors Bessemer Venture Partners, Kindred Ventures, Andreessen Horowitz, Notable Capital, First Round Capital, Unusual Ventures and Village Global also participated in the round.",
+        "content": "An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai\nBy Anna Tong\nSAN FRANCISCO (Reuters) -Artificial intelligence infrastructure company fal raised a $125 million Series C round valuing the ... [1756 chars]",
+        "url": "https://sg.news.yahoo.com/ai-infrastructure-company-fal-raises-100526775.html",
+        "image": "https://media.zenfs.com/en/reuters.com/83511b7b16073c45c1b2add1df1b3a06",
+        "publishedAt": "2025-07-31T10:05:26Z",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com"
+        }
+    },
+    {
         "id": "216d4d762abaafc2f07342cf84ac112c",
         "title": "AI Boom Boosts Big Tech's Market Value Amid Economic Uncertainty",
         "description": "Big Tech's massive investments in artificial intelligence are paying off, with companies like Microsoft, Meta, and Alphabet experiencing substantial revenue growth. As AI becomes a primary growth engine, these firms continue to increase their capital expenditures, despite economic uncertainties affecting other sectors, showcasing strong investor support.",
@@ -123,20 +137,6 @@
             "id": "17d7c2645f485578130862e0c8dd9480",
             "name": "The Mercury News",
             "url": "https://www.mercurynews.com"
-        }
-    },
-    {
-        "id": "8d5b07bd8141e10b63efb9de8b39bb6b",
-        "title": "Equinix raises annual results forecast on steady data center demand",
-        "description": "Data center firm Equinix raised its forecast for annual results on Wednesday, signaling steady demand from its enterprise customers investing in AI solutions. The company has benefited from the increased demand for data center infrastructure amid a surge in artificial intelligence usage. Major cloud firms, including Google, have pledged significant investments this year to expand on AI, underscoring robust demand for AI-related products and solutions.",
-        "content": "The logo of Equinix is pictured at the entrance of a data center in Pantin\n(Reuters) -Data center firm Equinix raised its forecast for annual results on Wednesday, signaling steady demand from its enterprise customers investing in AI solutions.\nThe c... [1079 chars]",
-        "url": "https://sg.news.yahoo.com/equinix-raises-annual-results-forecast-212610828.html",
-        "image": "https://media.zenfs.com/en/reuters.com/6177a20ed0f09f83de888566ce20aaef",
-        "publishedAt": "2025-07-30T21:26:10Z",
-        "source": {
-            "id": "f6d6ee1134197fe1441d65a3e7915835",
-            "name": "Yahoo Singapore News",
-            "url": "https://sg.news.yahoo.com"
         }
     }
 ]
