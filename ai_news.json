@@ -1,5 +1,19 @@
 [
     {
+        "id": "aa1b2f41cf4df7907535830da3bcb6ae",
+        "title": "Google to sign EU’s AI code of practice despite concerns",
+        "description": "The European Union enacted the guardrails for the use of artificial intelligence in an attempt to set a potential global benchmark for a technology used in business and everyday life",
+        "content": "Google was concerned that the AI Act and code of practice risk slowing Europe's development and deployment of AI. (Image: Reuters)\nAlphabet’s Google will sign the European Union’s code of practice which aims to help companies comply with the bloc’s l... [448 chars]",
+        "url": "https://indianexpress.com/article/technology/google-to-sign-eus-ai-code-of-practice-despite-concerns-10160633/",
+        "image": "https://images.indianexpress.com/2025/07/Google-article-images-1.jpg",
+        "publishedAt": "2025-07-31T04:47:05Z",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com"
+        }
+    },
+    {
         "id": "d04f7e9c342745673b8e7a6274904560",
         "title": "Meta surges after Q2 results blow past expectations",
         "description": "In the midst of an artificial intelligence spending spree, Meta has posted stronger-than-expected results for the second quarter, buoyed by growing ad revenue.",
@@ -123,20 +137,6 @@
             "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
             "name": "The Australian Financial Review",
             "url": "https://www.afr.com"
-        }
-    },
-    {
-        "id": "4596565c94e67e303105c99de5e63301",
-        "title": "Microsoft's Azure Cloud Surges with AI Power Play",
-        "description": "Microsoft's Azure cloud-computing business reported impressive growth, surpassing expectations with annual sales exceeding $75 billion. The company's strategic investment in artificial intelligence has fueled this success. Despite concerns over its partnership with OpenAI, Microsoft continues to innovate with in-house AI technologies and partnerships to maintain its competitive edge.",
-        "content": "Microsoft's Azure cloud-computing division has delivered a notable performance, surpassing Wall Street expectations with annual sales exceeding $75 billion. This marks the first time Microsoft has disclosed sales figures of this magnitude, showcasing... [711 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3523900-microsofts-azure-cloud-surges-with-ai-power-play",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/31_07_2024_16_23_14_6533478.png?width=920&format=jpeg",
-        "publishedAt": "2025-07-30T20:47:29Z",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com"
         }
     }
 ]
