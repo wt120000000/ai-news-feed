@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Latest News in A.I.</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+    }
+  </style>
+</head>
+<body class="bg-gray-950 text-white min-h-screen transition-colors duration-300">
+
+  <!-- Header -->
+  <div class="max-w-7xl mx-auto p-6 relative">
+    <!-- Logo Image -->
+    <div class="flex justify-center mb-4">
+      <img src="digital_eye.svg" alt="AI Eye Logo" class="w-12 h-12">
+    </div>
+
+    <!-- Main Title -->
+    <h1 id="mainTitle" class="text-3xl font-bold mb-4 text-center text-white-400">
+      Latest News in A.I.
+    </h1>
+
+    <!-- Search -->
+    <div class="flex justify-center mb-6">
+      <input
+        id="searchInput"
+        type="text"
+        placeholder="Search articles..."
+        class="w-full max-w-md px-4 py-2 rounded bg-gray-800 text-white border border-gray-600 focus:outline-none focus:ring-2 focus:ring-white-500"
+      />
+    </div>
+
+    <!-- Dark Mode Toggle -->
+    <button
+      id="toggleThemeBtn"
+      aria-label="Toggle dark mode"
+      class="absolute top-6 right-6 bg-white text-black p-2 rounded-full shadow transition"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M21 12.79A9 9 0 0112.21 3a7 7 0 000 14A9 9 0 0121 12.79z" />
+      </svg>
+    </button>
+  </div>
+
+  <!-- Main Layout: News + Sidebar -->
+  <div class="max-w-7xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
+
+    <!-- News Container -->
+    <div id="newsContainer" class="lg:col-span-2 grid gap-6 pb-12"></div>
+
+    <!-- Sidebar -->
+    <aside class="bg-gray-900 p-4 rounded-lg shadow h-fit sticky top-20">
+      <h2 class="text-xl font-bold mb-4 text-white">Trending Topics</h2>
+      <ul id="trendingList" class="space-y-2 text-sm text-gray-300"></ul>
+    </aside>
+  </div>
+
+  <!-- Pagination + Footer -->
+  <div class="max-w-7xl mx-auto px-4 pb-8 text-center">
+    <div id="paginationControls" class="flex justify-center gap-4 items-center mb-4">
+      <button id="prevBtn" class="px-4 py-2 bg-emerald-600 rounded hover:bg-emerald-500 disabled:opacity-50">Previous</button>
+      <span id="pageIndicator" class="text-gray-400 text-sm"></span>
+      <button id="nextBtn" class="px-4 py-2 bg-emerald-600 rounded hover:bg-emerald-500 disabled:opacity-50">Next</button>
+    </div>
+    <p class="text-sm text-gray-500">Collecting more A.I. news...</p>
+  </div>
+
+  <script>
+    const container = document.getElementById("newsContainer");
+    const searchInput = document.getElementById("searchInput");
+    const prevBtn = document.getElementById("prevBtn");
+    const nextBtn = document.getElementById("nextBtn");
+    const pageIndicator = document.getElementById("pageIndicator");
+    const mainTitle = document.getElementById("mainTitle");
+    const toggleBtn = document.getElementById("toggleThemeBtn");
+    const trendingList = document.getElementById("trendingList");
+
+    let articles = [];
+    let filteredArticles = [];
+    let currentPage = 1;
+    const articlesPerPage = 8;
+
+    const stopwords = new Set([
+      "the", "and", "for", "with", "that", "this", "from", "you", "your", "are", "was", "but", "have",
+      "has", "about", "they", "their", "will", "just", "more", "than", "been", "into", "when", "how",
+      "why", "what", "which", "who", "over", "after", "before", "amid", "among", "using", "while",
+      "new", "one", "two", "all", "can", "its", "out", "as", "on", "at", "in", "a", "an", "of", "to", "by"
+    ]);
+
+    // Helper to format date or say "Today"
+    function formatArticleDate(dateStr) {
+      const date = new Date(dateStr);
+      const now = new Date();
+      const isToday = date.toDateString() === now.toDateString();
+      if (isToday) return "Today";
+      // Format MM/DD/YYYY
+      const mm = String(date.getMonth() + 1).padStart(2, "0");
+      const dd = String(date.getDate()).padStart(2, "0");
+      const yyyy = date.getFullYear();
+      return `${mm}/${dd}/${yyyy}`;
+    }
+
+    fetch("ai_news.json")
+      .then(response => response.json())
+      .then(data => {
+        const seenTitles = new Set();
+        articles = data.filter(article => {
+          const norm = article.title.toLowerCase().replace(/[^a-z0-9]/g, "");
+          if (seenTitles.has(norm)) return false;
+          seenTitles.add(norm);
+          return true;
+        });
+
+        // Sort articles newest first by publishedAt date
+        articles.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+
+        filteredArticles = articles;
+        renderPage();
+        renderTrendingKeywords();
+      })
+      .catch(error => {
+        container.innerHTML = `<p class="text-red-500">Failed to load news: ${error}</p>`;
+      });
+
+    function renderPage() {
+      container.innerHTML = "";
+      const start = (currentPage - 1) * articlesPerPage;
+      const end = start + articlesPerPage;
+      const pageArticles = filteredArticles.slice(start, end);
+
+      if (pageArticles.length === 0) {
+        container.innerHTML = `<p class="text-gray-400 text-center">No articles found.</p>`;
+      }
+
+      pageArticles.forEach(article => {
+        const card = document.createElement("div");
+        card.className = "bg-gray-900 rounded-lg shadow overflow-hidden transition hover:shadow-lg";
+
+        const imageHtml = article.image
+          ? `<img src="${article.image}" alt="${article.title}" class="w-full h-48 object-cover">`
+          : "";
+
+        const formattedDate = article.publishedAt ? formatArticleDate(article.publishedAt) : "";
+
+        card.innerHTML = `
+          ${imageHtml}
+          <div class="p-5">
+            <h2 class="text-xl font-semibold mb-2 text-white">${article.title}</h2>
+            <p class="text-sm mb-4 text-gray-400">
+              <span class="mr-2">${formattedDate}</span>
+              <span>${article.source.name}</span>
+            </p>
+            <a href="${article.url}" target="_blank" class="inline-block mt-2 text-white hover:underline">
+              Read more →
+            </a>
+          </div>
+        `;
+
+        container.appendChild(card);
+      });
+
+      const totalPages = Math.ceil(filteredArticles.length / articlesPerPage);
+      pageIndicator.textContent = `Page ${currentPage} of ${totalPages}`;
+      prevBtn.disabled = currentPage === 1;
+      nextBtn.disabled = currentPage === totalPages;
+    }
+
+    function renderTrendingKeywords() {
+      const wordCounts = {};
+      articles.forEach(article => {
+        const words = article.title
+          .toLowerCase()
+          .replace(/[^\w\s]/g, "")
+          .split(/\s+/);
+
+        words.forEach(word => {
+          if (!stopwords.has(word) && word.length > 2) {
+            wordCounts[word] = (wordCounts[word] || 0) + 1;
+          }
+        });
+      });
+
+      const topWords = Object.entries(wordCounts)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 10);
+
+      trendingList.innerHTML = topWords
+        .map(([word, count]) =>
+          `<li class="flex justify-between cursor-pointer hover:text-emerald-400">
+            <a href="#" data-tag="${word}" class="flex justify-between w-full">
+              <span>#${word}</span><span class="text-gray-500">${count}</span>
+            </a>
+          </li>`
+        )
+        .join("");
+
+      // Add click listeners to each tag link
+      trendingList.querySelectorAll("a[data-tag]").forEach(link => {
+        link.addEventListener("click", e => {
+          e.preventDefault();
+          const tag = e.currentTarget.getAttribute("data-tag");
+          searchInput.value = tag; // show tag in search input
+          filteredArticles = articles.filter(article =>
+            article.title.toLowerCase().includes(tag)
+          );
+          currentPage = 1;
+          renderPage();
+        });
+      });
+    }
+
+    searchInput.addEventListener("keyup", () => {
+      const query = searchInput.value.toLowerCase();
+      filteredArticles = articles.filter(a =>
+        a.title.toLowerCase().includes(query) || a.source.name.toLowerCase().includes(query)
+      );
+      currentPage = 1;
+      renderPage();
+    });
+
+    prevBtn.addEventListener("click", () => {
+      if (currentPage > 1) {
+        currentPage--;
+        renderPage();
+      }
+    });
+
+    nextBtn.addEventListener("click", () => {
+      if ((currentPage * articlesPerPage) < filteredArticles.length) {
+        currentPage++;
+        renderPage();
+      }
+    });
+
+    toggleBtn.addEventListener("click", () => {
+      const html = document.documentElement;
+
+      if (html.dataset.theme === "dark") {
+        html.dataset.theme = "light";
+        document.body.classList.remove("bg-gray-950", "text-white");
+        document.body.classList.add("bg-white", "text-gray-900");
+        mainTitle.classList.remove("text-white-400", "text-white");
+        mainTitle.classList.add("text-gray-900");
+        toggleBtn.classList.remove("bg-white", "text-black");
+        toggleBtn.classList.add("bg-gray-900", "text-white");
+      } else {
+        html.dataset.theme = "dark";
+        document.body.classList.remove("bg-white", "text-gray-900");
+        document.body.classList.add("bg-gray-950", "text-white");
+        mainTitle.classList.remove("text-gray-900", "text-white");
+        mainTitle.classList.add("text-white-400");
+        toggleBtn.classList.remove("bg-gray-900", "text-white");
+        toggleBtn.classList.add("bg-white", "text-black");
+      }
+    });
+
+    function sendHeightToParent() {
+      const height = document.body.scrollHeight;
+      parent.postMessage({ type: "setHeight", height }, "*");
+    }
+
+    window.addEventListener("load", sendHeightToParent);
+    window.addEventListener("resize", sendHeightToParent);
+    setTimeout(sendHeightToParent, 1000);
+  </script>
+
+</body>
+</html>
