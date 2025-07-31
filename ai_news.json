@@ -1,5 +1,47 @@
 [
     {
+        "id": "03e6a9bd5f220e45d92f56666730a4a3",
+        "title": "More Americans are turning to AI for health advice",
+        "description": "A survey reveals 35% of Americans now use artificial intelligence for health management, from meal planning to fitness advice and medical concerns.",
+        "content": "NEW You can now listen to Fox News articles!\nForget typing symptoms into a search bar.\nA growing number of Americans are now using artificial intelligence to manage their health and wellness.\nAccording to a nationwide survey of 2,000 U.S. adults, 35%... [3918 chars]",
+        "url": "https://www.foxnews.com/tech/more-americans-turning-ai-health-advice",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/1-more-americans-are-turning-to-ai-for-health-advice.jpg",
+        "publishedAt": "2025-07-31T17:00:32Z",
+        "source": {
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com"
+        }
+    },
+    {
+        "id": "a592b69c8bc396988265d795d954a5f8",
+        "title": "Zhaoxin unveils new consumer and server CPUs aimed at challenging global semiconductor giants",
+        "description": "This week, Chinese semiconductor company Zhaoxin introduced its latest generation of consumer and enterprise processors at the 2025 World Artificial Intelligence Conference in Shanghai. Two new flagship...",
+        "content": "Why it matters: Zhaoxin's latest processors mark a key step in China's push for technological self-reliance, bringing new AI-focused chips that aim to challenge established global players. While still behind industry leaders, these advances reflect g... [3350 chars]",
+        "url": "https://www.techspot.com/news/108881-zhaoxin-debuts-advanced-consumer-server-chips-shanghai-conference.html",
+        "image": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-31-image.jpg",
+        "publishedAt": "2025-07-31T16:56:00Z",
+        "source": {
+            "id": "18288dd33a2735f068925baac812ba0f",
+            "name": "TechSpot",
+            "url": "https://www.techspot.com"
+        }
+    },
+    {
+        "id": "8b8f04f8cd0ee07432c7512c27d11948",
+        "title": "U.S Vogue ad models created with AI",
+        "description": "American Vogue’s August 2025 issue has been making headlines after it was revealed that a model for an Guess advertisment was created using artificial intelligence.",
+        "content": "U.S. clothing brand Guess used AI-generated models in its latest campaign. The image was created by Seraphinne Vallora, an AI-driven marketing agency. (Seraphinne Vallora via CNN Newsource)\nAmerican Vogue’s August 2025 issue has been making headlines... [12626 chars]",
+        "url": "https://www.cp24.com/news/entertainment/2025/07/31/your-favourite-model-thanks-to-ai-they-might-not-be-real/",
+        "image": "https://www.cp24.com/resizer/v2/ZXXHBVEHY5EDRMVGTHZT2N4WXY.JPG?smart=true&auth=bd07bdd99d45952411f307836243ba6eb2c12625918bfc3af59afa57e6dbd76c&width=1200&height=630",
+        "publishedAt": "2025-07-31T16:43:56Z",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com"
+        }
+    },
+    {
         "id": "55358ab32a1cf998eb37e4d6c4492740",
         "title": "Meta beats expectations in Q2",
         "description": "SAN FRANCISCO, California — Meta reported robust second-quarter (Q2) financial results on Wednesday, with revenue jumping 22 percent year over year to $47.5 billion as the social media giant continues investing heavily in artificial intelligence (AI).",
@@ -95,48 +137,6 @@
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com"
-        }
-    },
-    {
-        "id": "8d4936ed42f372864ec87d6002c08de9",
-        "title": "Startup and Nobel laureate collaborate to create GPU financial exchange",
-        "description": "The world of artificial intelligence is built on computing power, and at the heart of that engine are graphics processing units. These chips are in such high...",
-        "content": "What just happened? A new financial marketplace aims to offer crucial risk management tools to a resource at the center of the tech industry's explosive growth. If successful, the initiative could make access to high-performance compute more predicta... [4458 chars]",
-        "url": "https://www.techspot.com/news/108879-startup-nobel-laureate-collaborate-create-gpu-financial-exchange.html",
-        "image": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-30-image-31.jpg",
-        "publishedAt": "2025-07-31T13:22:00Z",
-        "source": {
-            "id": "18288dd33a2735f068925baac812ba0f",
-            "name": "TechSpot",
-            "url": "https://www.techspot.com"
-        }
-    },
-    {
-        "id": "de1ffcf65df6e4e1087cd623871eaf43",
-        "title": "AI Surge: Tech Giants Amplify Investments Amid Rising Returns",
-        "description": "Big Tech companies, including Microsoft, Meta, and Alphabet, are heavily investing in artificial intelligence, resulting in record-breaking revenue growth. The increasing demand for AI services in internet search, digital advertising, and cloud computing is attracting investor confidence and shielding these companies from broader economic uncertainties.",
-        "content": "Major technology firms are directing unprecedented funds toward artificial intelligence, seeing strong returns and generating substantial investor interest. As AI increasingly propels demand in internet search, digital advertising, and cloud computin... [762 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3524860-ai-surge-tech-giants-amplify-investments-amid-rising-returns",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/18_03_2025_10_28_04_9819432.png?width=920&format=jpeg",
-        "publishedAt": "2025-07-31T13:13:55Z",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com"
-        }
-    },
-    {
-        "id": "c92a7c15bc9457694b15800631545c97",
-        "title": "AI uncovers new lipid-lowering effects in existing FDA-approved drugs",
-        "description": "In a breakthrough for cardiovascular medicine, researchers have harnessed artificial intelligence to discover unexpected lipid-lowering effects in existing FDA-approved drugs.",
-        "content": "In a breakthrough for cardiovascular medicine, researchers have harnessed artificial intelligence to discover unexpected lipid-lowering effects in existing FDA-approved drugs. The study, published in Acta Pharmacologica Sinica, addresses critical gap... [1623 chars]",
-        "url": "https://www.news-medical.net/news/20250731/AI-uncovers-new-lipid-lowering-effects-in-existing-FDA-approved-drugs.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2025-07-31T12:16:00Z",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net"
         }
     }
 ]
