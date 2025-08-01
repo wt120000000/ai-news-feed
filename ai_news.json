@@ -1,5 +1,33 @@
 [
     {
+        "id": "1b9941fa41a7e958d8e3a4e9c2899f5f",
+        "title": "Apple shares rise after strong quarterly results amid tariff woes, competition",
+        "description": "Results seen as indicating resilience in the face of global trade tensions and intensifying artificial intelligence rivalry",
+        "content": "Apple (AAPL-Q) shares rose 2 per cent in premarket trading on Friday, after the iPhone maker’s quarterly results topped Wall Street expectations, indicating resilience in the face of global trade tensions and intensifying artificial intelligence riva... [1761 chars]",
+        "url": "https://www.theglobeandmail.com/investing/article-apple-shares-rise-after-strong-quarterly-results-amid-tariff-woes/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/5BMMA43Y3FF3PPCHLO3NGPO3TE.JPG?auth=4c4e635f6fc764ac55a60ac0e70001b163783e39ad65bc7503289964cf7b0e6a&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2025-08-01T10:36:08Z",
+        "source": {
+            "id": "f5081afeaba654292dd91fffd29f9dd4",
+            "name": "The Globe and Mail",
+            "url": "https://www.theglobeandmail.com"
+        }
+    },
+    {
+        "id": "be51b2dccf266880fd6af61c2a4843cc",
+        "title": "Microsoft launches AI accelerator to help firms develop agentic AI road maps",
+        "description": "SINGAPORE – In the future, when an e-mail from a client on the commencement of a legal suit lands in the inbox of law firm Rajah & Tann, an artificial intelligence (AI) agent programmed to process it can automatically forward it to lawyers with the most relevant experience, suggest key legal issues to be addressed and even draft preliminary legal opinions.",
+        "content": "Senior Minister of State for Trade and Industry Low Yen Ling at Microsoft's office on Aug 1 for the launch of its Agentic AI Accelerator programme.\nSINGAPORE – In the future, when an e-mail from a client on the commencement of a legal suit lands in t... [4020 chars]",
+        "url": "https://sg.news.yahoo.com/microsoft-launches-ai-accelerator-help-100500078.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/PFwOtMQn_vbxstWYDrdsHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/straits_times_442/af68ecf9e6001715acc20b09852db5c4",
+        "publishedAt": "2025-08-01T10:05:00Z",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com"
+        }
+    },
+    {
         "id": "d4088d2a74c7b351113b8d7ad0ac138f",
         "title": "Why Figma (FIG) CEO Doesn’t Think AI Is an Immediate Threat to the Business",
         "description": "Figma (FIG) co‑founder and CEO Dylan Field said on Thursday that artificial intelligence, including the concept of “superintelligence,” is unlik...",
@@ -109,34 +137,6 @@
             "id": "20ca9773b4c0563e26b4c2863bdf8c19",
             "name": "The Associated Press",
             "url": "https://apnews.com"
-        }
-    },
-    {
-        "id": "3a5f9cd3182f72b84267ef6abaeebc78",
-        "title": "Apple is 'open to' acquisitions to boost its AI roadmap",
-        "description": "CEO Tim Cook said that the company is \"significantly growing out investments\" in artificial intelligence.",
-        "content": "Apple leadership discussed results and updates today in its third-quarter conference call, including some statements about its AI endeavors. As reported by CNBC, CEO Tim Cook said that the company is \"significantly growing out investments\" in artific... [964 chars]",
-        "url": "https://www.engadget.com/ai/apple-is-open-to-acquisitions-to-boost-its-ai-roadmap-221925560.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/xwQLfyrEuvvS8dnq_Jgwhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/4aae2830-dda3-11ef-9f5f-9631a8d45eb7",
-        "publishedAt": "2025-07-31T22:19:25Z",
-        "source": {
-            "id": "549a7a859b2345bbe231b00e7244ef99",
-            "name": "Engadget",
-            "url": "https://www.engadget.com"
-        }
-    },
-    {
-        "id": "efed7317a2d653662badb397b64b8bd0",
-        "title": "Apple Surges Ahead Despite Tariff Challenges and AI Delays",
-        "description": "Apple reported fiscal third-quarter results exceeding expectations with $94.04 billion in revenue. Sales of iPhones increased notably. Despite tariff concerns and AI development delays, Apple maintains growth through strategic production shifts. Apple faced challenges in markets, while continuing to innovate in artificial intelligence and sustain its services business.",
-        "content": "Apple Inc. delivered far stronger-than-expected fiscal third-quarter results, reporting $94.04 billion in revenue, surpassing analyst predictions. Notably, iPhone sales grew by 13.5% to $44.58 billion, alleviating some tariff-related concerns.\nAmidst... [473 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3525406-apple-surges-ahead-despite-tariff-challenges-and-ai-delays",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_07_2025_15_32_04_686519.png?width=920&format=jpeg",
-        "publishedAt": "2025-07-31T21:05:06Z",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com"
         }
     }
 ]
