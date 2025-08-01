@@ -1,5 +1,19 @@
 [
     {
+        "id": "880ca1b7e8cac19d3367b1bf1e17b904",
+        "title": "Amazon (AMZN) Blocks Google’s AI Shopping Agents from Its E-Commerce Platform",
+        "description": "Tech giant Amazon (AMZN) is taking steps to control how artificial intelligence shopping tools interact with its e-commerce platform, according ...",
+        "content": "Tech giant Amazon (AMZN) is taking steps to control how artificial intelligence shopping tools interact with its e-commerce platform, according to The Information. In recent weeks, the company updated its robots.txt file — which are the instructions ... [2028 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/amazon-amzn-blocks-google-s-ai-shopping-agents-from-its-e-commerce-platform-1034968541",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/07/image-2411-1024x766.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2025-08-01T03:00:00Z",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Business Insider",
+            "url": "https://markets.businessinsider.com"
+        }
+    },
+    {
         "id": "33b84091c754173638a2291239fd64f7",
         "title": "US tech titan earnings rise on AI as economy roils",
         "description": "Tech giants Amazon, Apple, Meta and Microsoft this week eclipsed earnings expectations, cashing in on artificial intelligence (AI) while navigating economic waters roiled by US tariffs.-\nMeta reported robust second-quarter financial results Wednesday, with revenue jumping 22 percent year-over-year as the social media giant continues investing heavily in artificial intelligence.",
@@ -47,7 +61,7 @@
         "description": "CEO Tim Cook said that the company is \"significantly growing out investments\" in artificial intelligence.",
         "content": "Apple leadership discussed results and updates today in its third-quarter conference call, including some statements about its AI endeavors. As reported by CNBC, CEO Tim Cook said that the company is \"significantly growing out investments\" in artific... [964 chars]",
         "url": "https://www.engadget.com/ai/apple-is-open-to-acquisitions-to-boost-its-ai-roadmap-221925560.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/mTIWWFY1fs5KxDj3OYBPiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-01/4aae2830-dda3-11ef-9f5f-9631a8d45eb7",
+        "image": "https://s.yimg.com/ny/api/res/1.2/xwQLfyrEuvvS8dnq_Jgwhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/4aae2830-dda3-11ef-9f5f-9631a8d45eb7",
         "publishedAt": "2025-07-31T22:19:25Z",
         "source": {
             "id": "549a7a859b2345bbe231b00e7244ef99",
@@ -123,20 +137,6 @@
             "id": "8da923084554b2821233d6c5c5f02c97",
             "name": "Fox News",
             "url": "https://www.foxnews.com"
-        }
-    },
-    {
-        "id": "a592b69c8bc396988265d795d954a5f8",
-        "title": "Zhaoxin unveils new consumer and server CPUs aimed at challenging global semiconductor giants",
-        "description": "This week, Chinese semiconductor company Zhaoxin introduced its latest generation of consumer and enterprise processors at the 2025 World Artificial Intelligence Conference in Shanghai. Two new flagship...",
-        "content": "Why it matters: Zhaoxin's latest processors mark a key step in China's push for technological self-reliance, bringing new AI-focused chips that aim to challenge established global players. While still behind industry leaders, these advances reflect g... [3350 chars]",
-        "url": "https://www.techspot.com/news/108881-zhaoxin-debuts-advanced-consumer-server-chips-shanghai-conference.html",
-        "image": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-31-image.jpg",
-        "publishedAt": "2025-07-31T16:56:00Z",
-        "source": {
-            "id": "18288dd33a2735f068925baac812ba0f",
-            "name": "TechSpot",
-            "url": "https://www.techspot.com"
         }
     }
 ]
