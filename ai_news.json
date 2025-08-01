@@ -1,5 +1,19 @@
 [
     {
+        "id": "ea0cf99b3748ddbfb9dfae031ed301f7",
+        "title": "Delta Air Lines Vows to Avoid AI-Driven Personal Pricing",
+        "description": "Delta Air Lines has committed not to use artificial intelligence for personalized ticket pricing following criticism from U.S. lawmakers. While the airline will deploy AI-powered revenue management by 2025, it insists it will not base pricing on personal data. Senators remain concerned and demand clarity on data collection practices.",
+        "content": "Delta Air Lines has assured it will refrain from using artificial intelligence to set personalized ticket prices, a move made after receiving sharp criticism from U.S. lawmakers. The decision aims to address concerns that individualized pricing could... [636 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3526989-delta-air-lines-vows-to-avoid-ai-driven-personal-pricing",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_03_2025_17_08_49_5664002.png?width=920&format=jpeg",
+        "publishedAt": "2025-08-01T22:25:51Z",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com"
+        }
+    },
+    {
         "id": "5eaed342a91223cc84e797f957ac4e90",
         "title": "Meta to share AI infrastructure costs via $2 billion asset sale",
         "description": "(Reuters) -Meta Platforms is pressing ahead with efforts to bring in outside partners to help fund the massive infrastructure needed to power artificial intelligence, disclosing plans in a filing on Thursday to offload $2 billion in data center assets as part of that strategy. The strategy reflects a broader shift among tech giants — long known for self-funding growth — as they grapple with the soaring cost of building and powering data centers to support generative AI. The social media giant said earlier this week that it was exploring ways to work with financial partners to co-develop data centers to help finance its massive capital outlay for next year.",
@@ -112,31 +126,17 @@
         }
     },
     {
-        "id": "7f49319dd6d8e2dbc9aebcf3f69c542a",
-        "title": "Amazon profits surge 35 percent",
-        "description": "SAN FRANCISCO, California — Amazon reported a 35-percent jump in quarterly profits Thursday as the e-commerce giant said major investments in artificial intelligence (AI) began paying off.",
-        "content": "SAN FRANCISCO, California — Amazon reported a 35-percent jump in quarterly profits Thursday as the e-commerce giant said major investments in artificial intelligence (AI) began paying off.\nBut the Seattle-based company’s profit outlook for the curren... [2994 chars]",
-        "url": "https://www.manilatimes.net/2025/08/02/business/foreign-business/amazon-profits-surge-35-percent/2160860",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-08-01T16:19:00Z",
+        "id": "28f256e0d0469e7f105fd13b4aa469aa",
+        "title": "Exclusive-Prosus set to win EU nod for $4.74 billion Just Eat deal, sources say",
+        "description": "BRUSSELS (Reuters) -Dutch technology investor Prosus is set to win EU antitrust approval for its 4.1 billion euro ($4.7 billion) bid for Just Eat Takeaway, after agreeing to sell down its stake in Delivery Hero, people with direct knowledge of the matter said. Amsterdam-headquartered Prosus, which is majority owned by South Africa's Naspers, announced the deal in February, banking on its artificial intelligence capability to boost Just Eat Takeaway, Europe's biggest meal delivery company. Prosus last month offered to incrementally sell down its 27.4% stake in Delivery Hero and to give up its board seat to address EU competition concerns, other people familiar with the matter had told Reuters.",
+        "content": "Exclusive-Prosus set to win EU nod for $4.74 billion Just Eat deal, sources say\nBy Foo Yun Chee\nBRUSSELS (Reuters) -Dutch technology investor Prosus is set to win EU antitrust approval for its 4.1 billion euro ($4.7 billion) bid for Just Eat Takeaway... [1314 chars]",
+        "url": "https://sg.news.yahoo.com/exclusive-eu-antitrust-regulators-set-162752001.html",
+        "image": "https://media.zenfs.com/en/reuters.com/999020a60c55cd82176343d24cde4216",
+        "publishedAt": "2025-08-01T16:27:52Z",
         "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "7753d2ebb4453d6372d72bfb0a0d8c53",
-        "title": "AI is entering an 'unprecedented regime.' Should we stop it - and can we - before it destroys us?",
-        "description": "The technological singularity — the point at which artificial general intelligence surpasses human intelligence — is coming. But will it usher in humanity's salvation, or lead to its downfall?",
-        "content": "AI is rapidly approaching the technological singularity. How do we ensure that the future it ushers in is a good one?\nIn 2024, Scottish futurist David Wood was part of an informal roundtable discussion at an artificial intelligence (AI) conference in... [15229 chars]",
-        "url": "https://www.livescience.com/technology/artificial-intelligence/ai-is-entering-an-unprecedented-regime-should-we-stop-it-and-can-we-before-it-destroys-us",
-        "image": "https://cdn.mos.cms.futurecdn.net/6awnXRZof8XBnkf5UTEaMC.jpg",
-        "publishedAt": "2025-08-01T16:00:00Z",
-        "source": {
-            "id": "6534c1541b974602cc2ed040c2e4038f",
-            "name": "Livescience.com",
-            "url": "https://www.livescience.com"
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com"
         }
     }
 ]
