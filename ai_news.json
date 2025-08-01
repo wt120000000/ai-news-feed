@@ -1,5 +1,47 @@
 [
     {
+        "id": "7753d2ebb4453d6372d72bfb0a0d8c53",
+        "title": "AI is entering an 'unprecedented regime.' Should we stop it - and can we - before it destroys us?",
+        "description": "The technological singularity — the point at which artificial general intelligence surpasses human intelligence — is coming. But will it usher in humanity's salvation, or lead to its downfall?",
+        "content": "AI is rapidly approaching the technological singularity. How do we ensure that the future it ushers in is a good one?\nIn 2024, Scottish futurist David Wood was part of an informal roundtable discussion at an artificial intelligence (AI) conference in... [15229 chars]",
+        "url": "https://www.livescience.com/technology/artificial-intelligence/ai-is-entering-an-unprecedented-regime-should-we-stop-it-and-can-we-before-it-destroys-us",
+        "image": "https://cdn.mos.cms.futurecdn.net/6awnXRZof8XBnkf5UTEaMC.jpg",
+        "publishedAt": "2025-08-01T16:00:00Z",
+        "source": {
+            "id": "6534c1541b974602cc2ed040c2e4038f",
+            "name": "Livescience.com",
+            "url": "https://www.livescience.com"
+        }
+    },
+    {
+        "id": "271d2b7af4b57095cf342b4db2f797b3",
+        "title": "Palantir lands $10 billion Army software and data contract",
+        "description": "Palantir has been a key beneficiary of President Donald Trump's clampdown on cost efficiencies using artificial intelligence.",
+        "content": "Alex Karp, CEO of Palantir, attending the annual Allen & Co. Media and Technology Conference in Sun Valley, Idaho on July 9th, 2025.\nPalantir has inked a contract with the U.S. Army worth up to $10 billion to meet growing warfare demands over the nex... [432 chars]",
+        "url": "https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108170224-1752159052051-9KQgL0_i.jpg?v=1752159162&w=1920&h=1080",
+        "publishedAt": "2025-08-01T15:49:52Z",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com"
+        }
+    },
+    {
+        "id": "f32c00773fccaf18d3828059304bfc96",
+        "title": "US government turmoil stalls thousands of export approvals, sources say",
+        "description": "(Reuters) -Thousands of license applications by U.S. companies to export goods and technology around the globe, including to China, are in limbo because turmoil at the agency in charge of approving them has left it nearly paralyzed, two sources said. While U.S. Commerce Secretary Howard Lutnick has become a familiar face touting President Donald Trump's tariff and trade deals, sources said the export bureau under Lutnick's command has failed to issue expected new rules, stifled communications with industry representatives, pushed out experts, and lost staff through buyouts and resignations. Shipments of artificial intelligence chips from Nvidia to China are the most high-profile example of licenses not being swiftly approved.",
+        "content": "By Karen Freifeld and Alexandra Alper\n(Reuters) -Thousands of license applications by U.S. companies to export goods and technology around the globe, including to China, are in limbo because turmoil at the agency in charge of approving them has left ... [4842 chars]",
+        "url": "https://sg.news.yahoo.com/us-government-turmoil-stalls-thousands-152237955.html",
+        "image": "https://media.zenfs.com/en/reuters.com/83c0329baecb191e46bc1b3c2dd75ceb",
+        "publishedAt": "2025-08-01T15:22:37Z",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com"
+        }
+    },
+    {
         "id": "5b923bbdeb5a1357060fb619ed9da061",
         "title": "This Artificial Intelligence Stock Is Still Ridiculously Cheap",
         "description": "It’s not often that a software stock with steady double-digit revenue growth and rising profits trades at a steep discount. And honestly, that's not",
@@ -84,20 +126,6 @@
         }
     },
     {
-        "id": "29d07ef776dfd12ea71c4428c2f9e1fd",
-        "title": "Inside The Fight To Align And Control Modern AI Systems",
-        "description": "AI can be aligned and controlled, if we choose to act. Explore the technical tools, ethical dilemmas, and policy choices shaping the future of artificial intelligence.",
-        "content": "Central Computer Processors CPU concept. Can we control the AI black box? getty\nA common trope today is that artificial intelligence is too complex to understand and impossible to control. Some pioneering work on AI transparency challenges this assum... [8520 chars]",
-        "url": "https://www.forbes.com/sites/paulocarvao/2025/08/01/inside-the-fight-to-align-and-control-modern-ai-systems/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6888167eabfd185e899a9a12/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-08-01T04:00:00Z",
-        "source": {
-            "id": "a0300bc9a6e9d5b317bd6f614767231f",
-            "name": "Forbes",
-            "url": "https://www.forbes.com"
-        }
-    },
-    {
         "id": "f1c496bc49e51d79ed1c5ac6e76c0085",
         "title": "How AI Is Increasing User Engagement on Meta’s Social Media Platforms",
         "description": "Artificial intelligence was the main theme of Meta Platforms’ (META) second‑quarter earnings call, as executives highlighted how AI is transform...",
@@ -105,34 +133,6 @@
         "url": "https://markets.businessinsider.com/news/stocks/how-ai-is-increasing-user-engagement-on-meta-s-social-media-platforms-1034968667",
         "image": "https://blog.tipranks.com/wp-content/uploads/2025/07/image-2418-1024x764.png?utm_source=markets.businessinsider.com&utm_medium=referral",
         "publishedAt": "2025-08-01T04:00:00Z",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Business Insider",
-            "url": "https://markets.businessinsider.com"
-        }
-    },
-    {
-        "id": "1f60447048b1066734b911ab02135373",
-        "title": "What's Next With CoreWeave Stock?",
-        "description": "CoreWeave is not your typical cloud company. It focuses on high-performance, GPU-based infrastructure specifically designed for artificial intelligence — think ChatGPT...",
-        "content": "SUQIAN, CHINA - JULY 16, 2025 - A illustration photo shows CoreWeave logo in a smartphone in Suqian, Jiangsu province, China on July 16, 2025. (Photo credit should read CFOTO/Future Publishing via Getty Images) CFOTO/Future Publishing via Getty Image... [2877 chars]",
-        "url": "https://www.forbes.com/sites/greatspeculations/2025/08/01/whats-next-with-coreweave-stock/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/688c5d1bc55708813537e7af/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-08-01T04:00:00Z",
-        "source": {
-            "id": "a0300bc9a6e9d5b317bd6f614767231f",
-            "name": "Forbes",
-            "url": "https://www.forbes.com"
-        }
-    },
-    {
-        "id": "880ca1b7e8cac19d3367b1bf1e17b904",
-        "title": "Amazon (AMZN) Blocks Google’s AI Shopping Agents from Its E-Commerce Platform",
-        "description": "Tech giant Amazon (AMZN) is taking steps to control how artificial intelligence shopping tools interact with its e-commerce platform, according ...",
-        "content": "Tech giant Amazon (AMZN) is taking steps to control how artificial intelligence shopping tools interact with its e-commerce platform, according to The Information. In recent weeks, the company updated its robots.txt file — which are the instructions ... [2028 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/amazon-amzn-blocks-google-s-ai-shopping-agents-from-its-e-commerce-platform-1034968541",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2025/07/image-2411-1024x766.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2025-08-01T03:00:00Z",
         "source": {
             "id": "bce8b9fcd331f3552e3dcf603b83b80e",
             "name": "Business Insider",
