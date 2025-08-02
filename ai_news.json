@@ -1,5 +1,19 @@
 [
     {
+        "id": "34a55fb5d60a1da3698e581562b2e0e3",
+        "title": "Apple, Google, Microsoft, and Samsung revise advertising over exaggerated AI claims after regulator scrutiny",
+        "description": "Major technology companies are reassessing the way they promote artificial intelligence features after increased scrutiny from industry and federal regulators. Over the past year, Apple, Google, Microsoft,...",
+        "content": "Cutting corners: As the landscape for AI-powered products evolves, companies face growing demands to deliver not just innovation, but clearly supported and honestly communicated claims about what their technology can actually do. \"When you market AI ... [4401 chars]",
+        "url": "https://www.techspot.com/news/108904-apple-google-microsoft-samsung-revise-advertising-over-exaggerated.html",
+        "image": "https://www.techspot.com/images2/news/bigimage/2025/08/2025-08-01-image-17.jpg",
+        "publishedAt": "2025-08-02T12:40:30Z",
+        "source": {
+            "id": "18288dd33a2735f068925baac812ba0f",
+            "name": "TechSpot",
+            "url": "https://www.techspot.com"
+        }
+    },
+    {
         "id": "396dce825fb546851a099958d5d552ee",
         "title": "This Is How Much AMZN, GOOGL, MSFT, and META Will Spend on AI This Year",
         "description": "Big Tech companies are ramping up their spending on artificial intelligence, with Amazon (AMZN), Alphabet (GOOGL), Microsoft (MSFT), and Meta (M...",
@@ -123,20 +137,6 @@
             "id": "f6d6ee1134197fe1441d65a3e7915835",
             "name": "Yahoo Singapore News",
             "url": "https://sg.news.yahoo.com"
-        }
-    },
-    {
-        "id": "366693ebb26df4b5bf419fb5841d0724",
-        "title": "Bidding Wars for AI's Top Talent Would Make an NBA Star Blush",
-        "description": "The bidding war for artificial intelligence talent is looking less like a job market and more like NBA free agency, minus the salary cap. Take 24-year-old Matt Deitke, per the...",
-        "content": "The bidding war for artificial intelligence talent is looking less like a job market and more like NBA free agency, minus the salary cap. Take 24-year-old Matt Deitke, per the New York Times : Meta dangled an initial offer of $125 million in cash and... [1883 chars]",
-        "url": "https://www.newser.com/story/372846/ai-talent-wars-heat-up-with-nba-level-pay-packages.html",
-        "image": "https://img1-azrcdn.newser.com/image/1625736-12-20250801095401.jpeg",
-        "publishedAt": "2025-08-01T19:16:00Z",
-        "source": {
-            "id": "51aadd014176eb61b32255e2791b7207",
-            "name": "Newser",
-            "url": "https://www.newser.com"
         }
     }
 ]
