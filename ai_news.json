@@ -1,5 +1,19 @@
 [
     {
+        "id": "1c4dfa78a04b9237e8c045440f56ae81",
+        "title": "IBM’s Data Breach Report Warns that AI Tools Are Growing Hacker Targets",
+        "description": "Tech giant IBM (IBM) recently released its 2025 Cost of a Data Breach Report, which showed that companies are adopting artificial intelligence f...",
+        "content": "Tech giant IBM (IBM) recently released its 2025 Cost of a Data Breach Report, which showed that companies are adopting artificial intelligence far faster than they are securing it. For the first time, the report looked at breaches that involved AI sy... [2162 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/ibm-s-data-breach-report-warns-that-ai-tools-are-growing-hacker-targets-1034974788",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-49-1024x764.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2025-08-02T02:03:00Z",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Business Insider",
+            "url": "https://markets.businessinsider.com"
+        }
+    },
+    {
         "id": "ea0cf99b3748ddbfb9dfae031ed301f7",
         "title": "Delta Air Lines Vows to Avoid AI-Driven Personal Pricing",
         "description": "Delta Air Lines has committed not to use artificial intelligence for personalized ticket pricing following criticism from U.S. lawmakers. While the airline will deploy AI-powered revenue management by 2025, it insists it will not base pricing on personal data. Senators remain concerned and demand clarity on data collection practices.",
@@ -119,20 +133,6 @@
         "url": "https://sg.news.yahoo.com/delta-not-ai-set-personalized-170229745.html",
         "image": "https://media.zenfs.com/en/reuters.com/4365ad40acc9f6662d714ca18a7da1fa",
         "publishedAt": "2025-08-01T17:02:29Z",
-        "source": {
-            "id": "f6d6ee1134197fe1441d65a3e7915835",
-            "name": "Yahoo Singapore News",
-            "url": "https://sg.news.yahoo.com"
-        }
-    },
-    {
-        "id": "28f256e0d0469e7f105fd13b4aa469aa",
-        "title": "Exclusive-Prosus set to win EU nod for $4.74 billion Just Eat deal, sources say",
-        "description": "BRUSSELS (Reuters) -Dutch technology investor Prosus is set to win EU antitrust approval for its 4.1 billion euro ($4.7 billion) bid for Just Eat Takeaway, after agreeing to sell down its stake in Delivery Hero, people with direct knowledge of the matter said. Amsterdam-headquartered Prosus, which is majority owned by South Africa's Naspers, announced the deal in February, banking on its artificial intelligence capability to boost Just Eat Takeaway, Europe's biggest meal delivery company. Prosus last month offered to incrementally sell down its 27.4% stake in Delivery Hero and to give up its board seat to address EU competition concerns, other people familiar with the matter had told Reuters.",
-        "content": "Exclusive-Prosus set to win EU nod for $4.74 billion Just Eat deal, sources say\nBy Foo Yun Chee\nBRUSSELS (Reuters) -Dutch technology investor Prosus is set to win EU antitrust approval for its 4.1 billion euro ($4.7 billion) bid for Just Eat Takeaway... [1314 chars]",
-        "url": "https://sg.news.yahoo.com/exclusive-eu-antitrust-regulators-set-162752001.html",
-        "image": "https://media.zenfs.com/en/reuters.com/999020a60c55cd82176343d24cde4216",
-        "publishedAt": "2025-08-01T16:27:52Z",
         "source": {
             "id": "f6d6ee1134197fe1441d65a3e7915835",
             "name": "Yahoo Singapore News",
