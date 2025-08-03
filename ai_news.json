@@ -1,5 +1,19 @@
 [
     {
+        "id": "fdaee01c26052ed5b00bbacec775e190",
+        "title": "House bill to criminalize sexually explicit AI deepfakes",
+        "description": "MANILA, Philippines — Bagong Henerasyon Rep. Robert Nazal filed House Bill 808 which seeks to criminalize the creation and distribution of sexually explicit deepfakes that are generated through artificial intelligence (AI).",
+        "content": "MANILA, Philippines — Bagong Henerasyon Rep. Robert Nazal filed House Bill 808 which seeks to criminalize the creation and distribution of sexually explicit deepfakes that are generated through artificial intelligence (AI).\n\"To truly protect people f... [929 chars]",
+        "url": "https://www.manilatimes.net/2025/08/03/sports/house-bill-to-criminalize-sexually-explicit-ai-deepfakes/2161322",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/03/697955.jpg",
+        "publishedAt": "2025-08-03T07:52:00Z",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net"
+        }
+    },
+    {
         "id": "695c4d5fe9d60b9e7e0441b80169c8af",
         "title": "AI robot pet hit in Japan as personalities vary based on upbringing",
         "description": "A fluffy robot pet equipped with artificial intelligence has proven to be a hit in Japan. Read more at straitstimes.com.",
@@ -25,6 +39,20 @@
             "id": "e9207083a357fb7e76b38e485888ebe7",
             "name": "manilastandard.net",
             "url": "https://manilastandard.net"
+        }
+    },
+    {
+        "id": "2b04ac273f4136060907201cd62691d7",
+        "title": "Tim Cook Says He’s “Open to M&A that Accelerates” Apple’s AI Plans",
+        "description": "Tech giant Apple (AAPL) is changing its strategy on artificial intelligence, with CEO Tim Cook saying that the company is now willing to spend m...",
+        "content": "Tech giant Apple (AAPL) is changing its strategy on artificial intelligence, with CEO Tim Cook saying that the company is now willing to spend more in order to catch up to competitors. Interestingly, this could involve building more data centers or e... [2047 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/tim-cook-says-he-s-open-to-m-a-that-accelerates-apple-s-ai-plans-1034974541",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-34-1024x768.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2025-08-03T01:07:48Z",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Business Insider",
+            "url": "https://markets.businessinsider.com"
         }
     },
     {
@@ -109,34 +137,6 @@
             "id": "3bd4bd306c42647825fa42989624c036",
             "name": "Livemint",
             "url": "https://www.livemint.com"
-        }
-    },
-    {
-        "id": "e6093404d1a9361896b4277f872fc8ae",
-        "title": "From labs to real-world impact: Quantum artificial intelligence edges closer to reality",
-        "description": "While quantum computing provides new capabilities to AI, the relationship is reciprocal. The study explains how AI helps overcome several challenges in implementing quantum technologies, particularly in the compilation and execution of quantum circuits. Quantum-circuit compilation is critical for mapping algorithms onto real quantum hardware, which is often constrained by noise and limited qubit connectivity. AI-driven algorithms, including reinforcement learning and graph neural networks, have shown the potential to optimize qubit routing and minimize error accumulation during execution.",
-        "content": "A team of Italian researchers has unveiled groundbreaking insights into how quantum computing and artificial intelligence could merge to overcome some of the most pressing computational limits of modern science. The study published in AI offers a com... [5777 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3525561-from-labs-to-real-world-impact-quantum-artificial-intelligence-edges-closer-to-reality",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/01_08_2025_10_39_05_5136004.png?width=920&format=jpeg",
-        "publishedAt": "2025-08-02T17:49:11Z",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com"
-        }
-    },
-    {
-        "id": "396dce825fb546851a099958d5d552ee",
-        "title": "This Is How Much AMZN, GOOGL, MSFT, and META Will Spend on AI This Year",
-        "description": "Big Tech companies are ramping up their spending on artificial intelligence, with Amazon (AMZN), Alphabet (GOOGL), Microsoft (MSFT), and Meta (M...",
-        "content": "Big Tech companies are ramping up their spending on artificial intelligence, with Amazon (AMZN), Alphabet (GOOGL), Microsoft (MSFT), and Meta (META) expecting a combined total of $364 billion in capital expenditures for 2025. This is a sharp increase... [1995 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/this-is-how-much-amzn-googl-msft-and-meta-will-spend-on-ai-this-year-1034974930",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-37-1024x410.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2025-08-02T17:37:00Z",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Business Insider",
-            "url": "https://markets.businessinsider.com"
         }
     }
 ]
