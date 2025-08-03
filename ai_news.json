@@ -1,5 +1,19 @@
 [
     {
+        "id": "0af5c2cca1cb4a7b388861e06ea1750a",
+        "title": "Silicon Valley’s AI Spend Goes Berserk as Microsoft Starts Cashing In",
+        "description": "Tech giants reported eye-watering figures linked to artificial intelligence investment.",
+        "content": "Meta, Apple, Microsoft, and Amazon all reported quarterly earnings this week, and there was a common thread tying them together: a boom in AI spending and plans to increase it even more, beyond analyst expectations.\nAlthough capital expenditures abov... [4763 chars]",
+        "url": "https://gizmodo.com/silicon-valleys-ai-spend-goes-berserk-as-microsoft-starts-cashing-in-2000638318",
+        "image": "https://gizmodo.com/app/uploads/2025/07/GettyImages-2153471300-1200x675.jpg",
+        "publishedAt": "2025-08-03T10:00:27Z",
+        "source": {
+            "id": "18c2a6429621fbedc49891aa7c847ec6",
+            "name": "Gizmodo",
+            "url": "https://gizmodo.com"
+        }
+    },
+    {
         "id": "fdaee01c26052ed5b00bbacec775e190",
         "title": "House bill to criminalize sexually explicit AI deepfakes",
         "description": "MANILA, Philippines — Bagong Henerasyon Rep. Robert Nazal filed House Bill 808 which seeks to criminalize the creation and distribution of sexually explicit deepfakes that are generated through artificial intelligence (AI).",
@@ -123,20 +137,6 @@
             "id": "bce8b9fcd331f3552e3dcf603b83b80e",
             "name": "Business Insider",
             "url": "https://markets.businessinsider.com"
-        }
-    },
-    {
-        "id": "95c623d0634eae3a6ae334277cdc8779",
-        "title": "The AI boom’s hidden risk to the economy",
-        "description": "The build-out of artificial-intelligence infrastructure is costing a fortune, straining companies and capital markets.",
-        "content": "In the past two weeks one big tech company after another reported blowout earnings amid a wholesale embrace of artificial intelligence.\nLook a little closer, and a more unsettling side to the AI boom emerges. All the spending on chips, data centers a... [6290 chars]",
-        "url": "https://www.livemint.com/ai/artificial-intelligence/the-ai-boom-s-hidden-risk-to-the-economy-11754201576855.html",
-        "image": "https://www.livemint.com/lm-img/img/2025/08/03/1600x900/Trump-AI-Energy-Explainer-0_1754202645617_1754202669788.jpg",
-        "publishedAt": "2025-08-02T18:30:00Z",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com"
         }
     }
 ]
