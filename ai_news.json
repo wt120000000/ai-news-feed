@@ -1,5 +1,19 @@
 [
     {
+        "id": "e0ea2ae64dfbb69f86a0965de05ff955",
+        "title": "Tesla Gives Musk $30 Billion Award, Saying ‘Deal Is a Deal’",
+        "description": "Tesla Inc. approved an interim stock award worth about $30 billion for Chief Executive Officer Elon Musk, a massive payout meant to keep the billionaire’s attention on the automaker as a legal fight over a 2018 pay package drags on.\nThe new agreement includes 96 million shares of the automaker that will vest if Musk continues to serve in the top post for another two years, the company said Monday in a regulatory filing. The restricted stock has an exercise price of $23.34, equal to the price in the prior compensation plan.\nThe move underscores Musk’s grip on the company, even as it struggles with falling electric vehicle sales and a slumping stock price. The world’s richest person has said he wants a greater stake in Tesla as he reorients it around futuristic pursuits including artificial intelligence and driverless vehicles.\nBloomberg's Steve Man reports. (Source: Bloomberg)",
+        "content": "00:00\nThey are going through a pivot right now, not not only an automaker, but they're very focused on AI. But if you look at Elon Musk, you know, he's Tesla is not his only business. He's got A.I., his A.I. company, which owns the former Twitter. An... [2399 chars]",
+        "url": "https://www.bloomberg.com/news/videos/2025-08-04/tesla-gives-musk-30b-award-saying-deal-is-a-deal-video",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBeDsawss5o4/v3/-1x-1.jpg",
+        "publishedAt": "2025-08-04T16:28:34Z",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com"
+        }
+    },
+    {
         "id": "1306a7c38095aad05b4726fdc1d988d9",
         "title": "AI search hurting traditional news sites",
         "description": "New York — Generative artificial intelligence assistants like ChatGPT are cutting into traditional online search traffic, depriving news sites of visitors and impacting the advertising revenue they desperately need, in a crushing blow to an industry already fighting for survival.",
@@ -30,8 +44,8 @@
     {
         "id": "ce7bdb53e0fe1ca6b741136172dd3f0f",
         "title": "AI investments in Singapore over the last 12 months",
-        "description": "SINGAPORE - Some of the world’s biggest tech giants and multinational corporations have established artificial intelligence (AI) centres of excellence in Singapore, citing the country’s business-friendly conditions.",
-        "content": "AI investments in Singapore over the last 12 months\n(From left) Grab chief technology officer Suthen Thomas, Grab chief executive Anthony Tan, DPM Gan Kim Yong, then Transport Minister Chee Hong Tat and Grab chief operating officer Alex Hungate at th... [4663 chars]",
+        "description": "SINGAPORE – Some of the world’s biggest technology giants and multinational corporations have established artificial intelligence (AI) centres of excellence in Singapore, citing the country’s business-friendly conditions.",
+        "content": "AI investments in Singapore over the last 12 months\n(From left) Grab chief technology officer Suthen Thomas, Grab chief executive Anthony Tan, DPM Gan Kim Yong, then Transport Minister Chee Hong Tat and Grab chief operating officer Alex Hungate at th... [4794 chars]",
         "url": "https://sg.news.yahoo.com/ai-investments-singapore-over-last-110011701.html",
         "image": "https://s.yimg.com/ny/api/res/1.2/Q5b_XOlu4dkdqTslFVZvVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/straits_times_442/2423dbb09de9816a7be7f422d61b1239",
         "publishedAt": "2025-08-04T11:00:11Z",
@@ -123,20 +137,6 @@
             "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
             "name": "The Dallas Morning News",
             "url": "https://www.dallasnews.com"
-        }
-    },
-    {
-        "id": "cd4923fb460720481b34befba53faca7",
-        "title": "Demis Hassabis on our AI future: ‘It’ll be 10 times bigger than the Industrial Revolution - and maybe 10 times faster’",
-        "description": "The head of Google’s DeepMind says artificial intelligence could usher in an era of ‘incredible productivity’ and ‘radical abundance’. But who will it benefit? And why does he wish the tech giants had moved more slowly?",
-        "content": "If you have a mental image of a Nobel prizewinner, Demis Hassabis probably doesn’t fit it. Relatively young (he’s 49), mixed race (his father is Greek-Cypriot, his mother Chinese-Singaporean), state-educated, he didn’t exactly look out of place recei... [14664 chars]",
-        "url": "https://www.theguardian.com/technology/2025/aug/04/demis-hassabis-ai-future-10-times-bigger-than-industrial-revolution-and-10-times-faster",
-        "image": "https://i.guim.co.uk/img/media/d5e91c33050a876de575fe5431c32f4daaec8468/792_0_7920_6336/master/7920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0898cab223198c6cf20725144ae5941e",
-        "publishedAt": "2025-08-04T04:00:03Z",
-        "source": {
-            "id": "01558c024928d45cf320f6f75eede787",
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com"
         }
     }
 ]
