@@ -1,5 +1,19 @@
 [
     {
+        "id": "05249b9a396546038d7b27ad9c1fc657",
+        "title": "Apple CEO Tells Staff AI 'Ours to Grab'",
+        "description": "Apple Inc. Chief Executive Officer Tim Cook, holding a rare all-hands meeting following earnings results, rallied employees around the company’s artificial intelligence prospects and an “amazing” pipeline of products. The executive gathered staff at Apple’s on-campus auditorium Friday in Cupertino, California, telling them that the AI revolution is “as big or bigger” as the internet, smartphones, cloud computing and apps. “Apple must do this. Apple will do this. This is sort of ours to grab,” Cook told employees, according to people aware of the meeting. “We will make the investment to do it.” The iPhone maker has been late to AI, debuting Apple Intelligence months after OpenAI, Alphabet Inc.’s Google, Microsoft Corp. and others flooded the market with products like ChatGPT. And when Apple finally released its AI tools, they fell flat. Bloomberg's Mark Gurman reports. (Source: Bloomberg)",
+        "content": "00:00\nI think long term. Yes, to a certain extent for the time being. Apple still in a phase right now where smartphones and other types of consumer gadgets are getting an exemption no matter where those products are being imported into the U.S. from... [6042 chars]",
+        "url": "https://www.bloomberg.com/news/videos/2025-08-04/apple-ceo-tells-staff-ai-ours-to-grab-video",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8Z3mmW47knw/v3/-1x-1.jpg",
+        "publishedAt": "2025-08-04T18:35:04Z",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com"
+        }
+    },
+    {
         "id": "3de165e820508c1d05c0bc7648438c3c",
         "title": "Naver Cloud, UpStage, SK Telecom, NC AI and LG AI Research Team Up to Build South Korea’s First Homegrown AI Foundation Models",
         "description": "Five elite teams have been finally selected to participate in the “Independent Artificial Intelligence Foundation Model (AI Foundation Model)” project, overseen by the Ministry of Science",
@@ -123,20 +137,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "c4fe4f49ae8e17f726185e0a470466ca",
-        "title": "A.I. Has Ushered in Silicon Valley’s ‘Hard Tech’ Era",
-        "description": "Goodbye to the age of consumer websites and mobile apps. Artificial intelligence has ushered in an era of what insiders in the nation’s innovation capital call “hard tech.”",
-        "content": "In a scene in HBO’s “Silicon Valley” in 2014, a character who had just sold his idea to a fictional tech company that was a thinly veiled analogue to Google encountered some of his new colleagues day drinking on the roof in folding lawn chairs. They ... [992 chars]",
-        "url": "https://www.nytimes.com/2025/08/04/technology/ai-silicon-valley-hard-tech.html",
-        "image": "https://static01.nyt.com/images/2025/07/01/01visualUploader-67056-cover/01visualUploader-67056-cover-facebookJumbo.jpg",
-        "publishedAt": "2025-08-04T09:00:11Z",
-        "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com"
         }
     }
 ]
