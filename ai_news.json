@@ -1,5 +1,19 @@
 [
     {
+        "id": "00e428f27a1b62d6e45adf568dc5abbf",
+        "title": "Are AI-powered schools the future? Not so fast",
+        "description": "An Austin private school is off on an ambitious experiment in artificial intelligence. Alpha School has already graduated its first class of students schooled...",
+        "content": "An Austin private school is off on an ambitious experiment in artificial intelligence. Alpha School has already graduated its first class of students schooled through AI, The New York Times reported. While this educational approach raises valid conce... [3224 chars]",
+        "url": "https://www.dallasnews.com/opinion/editorials/2025/08/04/are-ai-powered-schools-the-future-not-so-fast/",
+        "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/MYNPM4NNA5E4BGOAIWXCKOMQMY.jpg?auth=52ebb0f77e6634ac35e2682c87b03cd4d9eca4181c73b008823ef086f2181e04&quality=80&width=1200&height=630&smart=true",
+        "publishedAt": "2025-08-04T07:00:00Z",
+        "source": {
+            "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+            "name": "The Dallas Morning News",
+            "url": "https://www.dallasnews.com"
+        }
+    },
+    {
         "id": "cd4923fb460720481b34befba53faca7",
         "title": "Demis Hassabis on our AI future: ‘It’ll be 10 times bigger than the Industrial Revolution - and maybe 10 times faster’",
         "description": "The head of Google’s DeepMind says artificial intelligence could usher in an era of ‘incredible productivity’ and ‘radical abundance’. But who will it benefit? And why does he wish the tech giants had moved more slowly?",
@@ -123,20 +137,6 @@
             "id": "18c2a6429621fbedc49891aa7c847ec6",
             "name": "Gizmodo",
             "url": "https://gizmodo.com"
-        }
-    },
-    {
-        "id": "fdaee01c26052ed5b00bbacec775e190",
-        "title": "House bill to criminalize sexually explicit AI deepfakes",
-        "description": "MANILA, Philippines — Bagong Henerasyon Rep. Robert Nazal filed House Bill 807 which seeks to criminalize the creation and distribution of sexually explicit deepfakes that are generated through artificial intelligence (AI).",
-        "content": "MANILA, Philippines — Bagong Henerasyon Rep. Robert Nazal filed House Bill 807 which seeks to criminalize the creation and distribution of sexually explicit deepfakes that are generated through artificial intelligence (AI).\n\"To truly protect people f... [929 chars]",
-        "url": "https://www.manilatimes.net/2025/08/03/sports/house-bill-to-criminalize-sexually-explicit-ai-deepfakes/2161322",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/03/697955.jpg",
-        "publishedAt": "2025-08-03T07:52:00Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
         }
     }
 ]
