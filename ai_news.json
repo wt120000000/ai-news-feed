@@ -1,5 +1,19 @@
 [
     {
+        "id": "97032dbc70dc84f7b35fa15c9493fa70",
+        "title": "Google agrees to curb power use for AI data centers to ease strain on US grid when demand surges",
+        "description": "They are the first formal agreements by Google in demand-response programs with utilities to temporarily curtail its machine learning workloads, a subset of artificial intelligence.",
+        "content": "Google has signed agreements with two U.S. electric utilities to reduce its AI data center power consumption during times of surging demand on the grid, the company said on Monday, as energy-intensive AI use outpaces power supplies.\nUtilities in the ... [1656 chars]",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-agrees-to-curb-power-use-for-ai-data-centers-to-ease-strain-on-us-grid-when-demand-surges-10170716/",
+        "image": "https://images.indianexpress.com/2025/07/Google-Reuters-2.jpg",
+        "publishedAt": "2025-08-05T08:02:26Z",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com"
+        }
+    },
+    {
         "id": "8f8ecb0d7514939fd43f0a3f71aef2f4",
         "title": "TSMC cracks down on potential trade secret breach, initiates legal action",
         "description": "Taiwan Semiconductor Manufacturing Co said on Tuesday it had launched legal proceedings and taken disciplinary action against employees involved in potential trade secret leaks after detecting unauthorized activities during routine monitoring. TSMC said in an emailed statement to Reuters that its \"comprehensive and robust monitoring mechanisms\" enabled early identification of the issue, leading to swift internal investigations and strict measures against the personnel involved. The case, now under judicial review, prevents the company from providing further details, said TSMC, the world's top producer of advanced artificial intelligence chips.",
@@ -123,20 +137,6 @@
             "id": "e553cce06d349ac1f7fbb7618a979256",
             "name": "The New York Times",
             "url": "https://www.nytimes.com"
-        }
-    },
-    {
-        "id": "a1b0956b0037f847a5f2f52ec261f0b7",
-        "title": "Noted Tesla analyst Adam Jonas moving into new role at Morgan Stanley",
-        "description": "Morgan Stanley auto analyst Adam Jonas will transition into a new internal role focusing on the artificial intelligence theme.",
-        "content": "Noted Morgan Stanley auto research analyst Adam Jonas will be stepping into a new role at the firm.\nSave for a brief stint as a researcher at a European competitor, Jonas has been with Morgan Stanley (and predecessor firm Dean Witter) since graduatin... [982 chars]",
-        "url": "https://www.cnbc.com/2025/08/04/noted-tesla-analyst-adam-jonas-moving-into-new-role-at-morgan-stanley.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/105585169-1542737297267untitled-2.jpg?v=1542737376&w=1920&h=1080",
-        "publishedAt": "2025-08-04T20:04:35Z",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com"
         }
     }
 ]
