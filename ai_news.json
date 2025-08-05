@@ -1,5 +1,33 @@
 [
     {
+        "id": "204f605360608f14ff636b867be40846",
+        "title": "St Scholastica's College Manila now the first AI-powered private school in partnership with Khan Academy",
+        "description": "ST. Scholastica’s College Manila, in partnership with Khan Academy Philippines, proudly launches a groundbreaking education initiative that brings cutting-edge artificial intelligence (AI) technology to the classroom. The launch marks a major milestone as the school becomes the first private educational institution in the country to fully implement the complete suite of Khan Academy tools including Khanmigo — an innovative AI-powered learning assistant designed to support students and teachers alike.",
+        "content": "ST. Scholastica’s College Manila, in partnership with Khan Academy Philippines, proudly launches a groundbreaking education initiative that brings cutting-edge artificial intelligence (AI) technology to the classroom. The launch marks a major milesto... [1993 chars]",
+        "url": "https://www.manilatimes.net/2025/08/05/tmt-newswire/st-scholasticas-college-manila-now-the-first-ai-powered-private-school-in-partnership-with-khan-academy/2162131",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/05/699645.png",
+        "publishedAt": "2025-08-05T01:59:00Z",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net"
+        }
+    },
+    {
+        "id": "c4fe4f49ae8e17f726185e0a470466ca",
+        "title": "A.I. Has Ushered in Silicon Valley’s ‘Hard Tech’ Era",
+        "description": "Goodbye to the age of consumer websites and mobile apps. Artificial intelligence has ushered in an era of what insiders in the nation’s innovation capital call “hard tech.”",
+        "content": "In a scene in HBO’s “Silicon Valley” in 2014, a character who had just sold his idea to a fictional tech company that was a thinly veiled analogue to Google encountered some of his new colleagues day drinking on the roof in folding lawn chairs. They ... [992 chars]",
+        "url": "https://www.nytimes.com/2025/08/04/technology/ai-silicon-valley-hard-tech.html",
+        "image": "https://static01.nyt.com/images/2025/07/01/01visualUploader-67056-cover/01visualUploader-67056-cover-facebookJumbo.jpg",
+        "publishedAt": "2025-08-04T20:48:18Z",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com"
+        }
+    },
+    {
         "id": "a1b0956b0037f847a5f2f52ec261f0b7",
         "title": "Noted Tesla analyst Adam Jonas moving into new role at Morgan Stanley",
         "description": "Morgan Stanley auto analyst Adam Jonas will transition into a new internal role focusing on the artificial intelligence theme.",
@@ -39,6 +67,20 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
+        }
+    },
+    {
+        "id": "98adef26b7cceb249ab773944377ce6a",
+        "title": "Why Nvidia is the biggest risk to the stock market-not tariffs",
+        "description": "Louis Gave sees the possibility that the hundreds of billions of dollars invested in artificial intelligence turns out to be a dud as the bigger risk for markets.",
+        "content": "Nvidia has lost half its market value seven times since going public in 2000.\nWhile worries persist over the impact of shifting trade policy and higher tariffs on markets, the bigger risk may be the hundreds of billions invested in artificial intelli... [3511 chars]",
+        "url": "https://www.livemint.com/global/why-nvidia-is-the-biggest-risk-to-the-stock-market-not-tariffs-11754358613920.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/08/05/1600x900/im-99939951_1754358619436_1754358827288.jpg",
+        "publishedAt": "2025-08-04T18:30:00Z",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com"
         }
     },
     {
@@ -95,48 +137,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "1306a7c38095aad05b4726fdc1d988d9",
-        "title": "AI search hurting traditional news sites",
-        "description": "New York — Generative artificial intelligence assistants like ChatGPT are cutting into traditional online search traffic, depriving news sites of visitors and impacting the advertising revenue they desperately need, in a crushing blow to an industry already fighting for survival.",
-        "content": "New York — Generative artificial intelligence assistants like ChatGPT are cutting into traditional online search traffic, depriving news sites of visitors and impacting the advertising revenue they desperately need, in a crushing blow to an industry ... [4636 chars]",
-        "url": "https://www.manilatimes.net/2025/08/05/news/national/ai-search-hurting-traditional-news-sites/2161849",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/04/698916.jpg",
-        "publishedAt": "2025-08-04T16:03:00Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "75f4456faf712d93e29124281a93edc7",
-        "title": "Hertz rival also uses AI scanners to charge for bogus claims: report",
-        "description": "Hertz customers aren't the only ones getting burned by artificial intelligence-powered damage scanners.",
-        "content": "Hertz customers aren’t the only ones getting burned by artificial intelligence-powered damage scanners.\nSixt, the Germany-based rival which operates more than 100 branches in 25 US states, has reportedly been sticking car renters with bogus repair bi... [5903 chars]",
-        "url": "https://nypost.com/2025/08/04/business/hertz-rival-also-uses-ai-scanners-to-charge-for-bogus-claims-report/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109202602-1.jpg?quality=75&strip=all&w=1024",
-        "publishedAt": "2025-08-04T14:27:59Z",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com"
-        }
-    },
-    {
-        "id": "28c65cf8d758a44a06d2e3f8a800de61",
-        "title": "AI investments in Singapore over the last 12 months",
-        "description": "SINGAPORE - Some of the world’s biggest tech giants and multinational corporations have established artificial intelligence (AI) centres of excellence in Singapore, citing the country’s business-friendly conditions.",
-        "content": "AI investments in Singapore over the last 12 months\n(From left) Grab chief technology officer Suthen Thomas, Grab chief executive Anthony Tan, DPM Gan Kim Yong, then Transport Minister Chee Hong Tat and Grab chief operating officer Alex Hungate at th... [4663 chars]",
-        "url": "https://sg.news.yahoo.com/ai-investments-singapore-over-last-110011701.html?guccounter=1&guce_referrer=aHR0cHM6Ly9zZy5uZXdzLnlhaG9vLmNvbS8&guce_referrer_sig=AQAAADzVI6Gv4bEZ1-qx_426iU9c_R0M8yiLS9bVCIDq6AFYATBr8NG591IysAmDXtF_7BTYAV2mHC2SDtackWgXLc63qTykUVdDWEfwN5IVv-c0Oaw51_wGsNydls3ktvGB4CUZs6aN54z0WNw8AhxGYOCZ0PFZIq34fYqXI1wFoTDL",
-        "image": "https://s.yimg.com/ny/api/res/1.2/Q5b_XOlu4dkdqTslFVZvVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/straits_times_442/2423dbb09de9816a7be7f422d61b1239",
-        "publishedAt": "2025-08-04T11:00:11Z",
-        "source": {
-            "id": "f6d6ee1134197fe1441d65a3e7915835",
-            "name": "Yahoo Singapore News",
-            "url": "https://sg.news.yahoo.com"
         }
     }
 ]
