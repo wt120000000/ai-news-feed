@@ -1,5 +1,75 @@
 [
     {
+        "id": "0272315fa2875c2ae5229222d7cd8e48",
+        "title": "US Considers More Chip Tariffs | Bloomberg Tech 8/5/2025",
+        "description": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss President Donald Trump’s comments that more chip tariffs may be coming soon. Plus, booming demand for artificial intelligence led Palantir’s revenue to climb above $1 billion. And AMD is under pressure to show benefits from the AI race as the chipmaker prepares to release earnings after markets close. (Source: Bloomberg)",
+        "content": "00:00\n> > THIS IS \"BLOOMBERG TECH.\" PRESIDENT TRUMP'S IS MORE CHIP TARIFFS ARE COMING SOON. THIS AT THE ADMINISTRATION SAYS THEY WILL EQUIP CHIPS WITH LOCATION TRACKING TECH. PLUS, BOOMING AI DEMAND IS SENDING PALANTIR SECOND-QUARTER REVENUE SOARING ... [35987 chars]",
+        "url": "https://www.bloomberg.com/news/videos/2025-08-05/bloomberg-tech-8-5-2025-video",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTD4hUEii6GI/v3/-1x-1.jpg",
+        "publishedAt": "2025-08-05T20:45:14Z",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com"
+        }
+    },
+    {
+        "id": "2b16db8c35fc95787429ac209eff07f7",
+        "title": "Super Micro (SMCI) Q4 earnings report 2025",
+        "description": "The server maker's business is still getting a big boost from artificial intelligence, but growth is slowing.",
+        "content": "Charles Liang, CEO of Super Micro, speaks at the Computex conference in Taipei, Taiwan, on June 1, 2023.\nSuper Micro Computer shares slid 15% in extended trading on Tuesday after the server maker reported disappointing fiscal fourth-quarter results a... [1325 chars]",
+        "url": "https://www.cnbc.com/2025/08/05/super-micro-smci-q4-earnings-report-2025.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108182023-1754425755270-gettyimages-1258355965-TAIWAN-COMPUTEX2023-01062023-032JPG.jpeg?v=1754425894&w=1920&h=1080",
+        "publishedAt": "2025-08-05T20:42:19Z",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com"
+        }
+    },
+    {
+        "id": "ccc6e8e2ae479828c6e904d0964ac813",
+        "title": "AI Boom Leads to Exploding Valuations",
+        "description": "Demand for artificial intelligence has led to soaring valuations for some tech companies, even as US policy uncertainty remains. Stephanie Aliaga, global market strategist from JPMorgan’s Asset Management Market Insights Team, joins Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+        "content": "00:00\nWe look at something like Palantir, a 500% in 12 months, the most expensive stock on the S & P 500 when you're looking at where it prices versus future sales. Does it seem vindicated to you, these sorts of valuations? There's absolutely some en... [6406 chars]",
+        "url": "https://www.bloomberg.com/news/videos/2025-08-05/ai-boom-leads-to-exploding-valuations-video",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii5mrfZ7hZpo/v3/-1x-1.jpg",
+        "publishedAt": "2025-08-05T20:17:13Z",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com"
+        }
+    },
+    {
+        "id": "2732829c70e0af2b16ddee851765a138",
+        "title": "Super Micro's quarterly revenue misses estimates",
+        "description": "Super Micro missed Wall Street estimates for fourth-quarter revenue on Tuesday, hit by intense competition from larger server makers for high-performance computers used to train artificial-intelligence models. Shares of the San Jose, California-based firm fell 11% in extended trading. The AI server market is becoming more competitive as many companies launch advanced servers and rack configurations.",
+        "content": "(Reuters) -Super Micro missed Wall Street estimates for fourth-quarter revenue on Tuesday, hit by intense competition from larger server makers for high-performance computers used to train artificial-intelligence models.\nShares of the San Jose, Calif... [370 chars]",
+        "url": "https://sg.news.yahoo.com/super-micros-quarterly-revenue-misses-201116578.html?guccounter=1&guce_referrer=aHR0cHM6Ly9zZy5uZXdzLnlhaG9vLmNvbS8_X2d1Y19jb25zZW50X3NraXA9MTc1NDQyNjE2Mg&guce_referrer_sig=AQAAAL59EtsWODVT3KOSOY2tvm6FzvxZvv47ZJ7J1ounNPO61_528zxAQnyL-74KaFP8RNmy8uVVJZ1xwwsffB3_XnFVQSkfwSlw9N9yAvEvh1xz4jlSQW8NLD8N2s-R6mBDM3ZreV2jFOmPt5qjhQrn9hL4J5P7ih-obVmpA19Y-Tkb",
+        "image": "https://media.zenfs.com/en/reuters.com/a448afc8890fbe924922ec44690b3f4f",
+        "publishedAt": "2025-08-05T20:11:16Z",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com"
+        }
+    },
+    {
+        "id": "67b1e52e23997f4d5e735c95226a4ddb",
+        "title": "Super Micro's quarterly results underwhelm, shares fall",
+        "description": "Super Micro missed Wall Street estimates for fourth-quarter revenue and profit on Tuesday, as the company battles larger server makers for high-performance computers used to train artificial-intelligence models. Shares of the San Jose, California-based firm slumped 10.5% in extended trading. They have soared 91% this year, as investors bet on strong demand for its AI servers and its liquid cooling solutions.",
+        "content": "(Reuters) -Super Micro missed Wall Street estimates for fourth-quarter revenue and profit on Tuesday, as the company battles larger server makers for high-performance computers used to train artificial-intelligence models.\nShares of the San Jose, Cal... [927 chars]",
+        "url": "https://sg.news.yahoo.com/super-micros-quarterly-revenue-misses-201116578.html",
+        "image": "https://media.zenfs.com/en/reuters.com/a448afc8890fbe924922ec44690b3f4f",
+        "publishedAt": "2025-08-05T20:11:16Z",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com"
+        }
+    },
+    {
         "id": "d0751e741bc88f1ebc4491b79636def7",
         "title": "Microsoft, EA, and other publishers should give up on artificial intelligence: We peaked 21 years ago, when Resident Evil 4 devs were thrilled AI enemies could think \"like a smart person\" by using \"we",
         "description": "Chainsaws? I think you mean \"undeniable genius\"",
@@ -67,76 +137,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "03dc6bc133a5588b5bafece1bcffe8fa",
-        "title": "Global dealmaking hits $2.6T",
-        "description": "LONDON — Global dealmaking has reached $2.6 trillion, the highest for the first seven months of the year since the 2021 pandemic-era peak, as a quest for growth in corporate boardrooms and the impact of a surge in artificial intelligence (AI) activity has overcome the uncertainty caused by US tariffs.",
-        "content": "LONDON — Global dealmaking has reached $2.6 trillion, the highest for the first seven months of the year since the 2021 pandemic-era peak, as a quest for growth in corporate boardrooms and the impact of a surge in artificial intelligence (AI) activit... [3371 chars]",
-        "url": "https://www.manilatimes.net/2025/08/06/business/foreign-business/global-dealmaking-hits-26t/2162552",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-08-05T16:26:00Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "eb3eea1b585028286bcedd9535686a1d",
-        "title": "The EU AI Act aims to create a level playing field for AI innovation. Here's what it is.",
-        "description": "The European Union’s Artificial Intelligence Act, known as the EU AI Act, has been described as “the world's first comprehensive AI law” by the European Commission.",
-        "content": "The European Union’s Artificial Intelligence Act, known as the EU AI Act, has been described by the European Commission as “the world’s first comprehensive AI law.” After years in the making, it is progressively becoming a part of reality for the 450... [7520 chars]",
-        "url": "https://techcrunch.com/2025/08/05/the-eu-ai-act-aims-to-create-a-level-playing-field-for-ai-innovation-heres-what-it-is/",
-        "image": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1146371917.jpg?w=1024",
-        "publishedAt": "2025-08-05T16:24:10Z",
-        "source": {
-            "id": "732b46cdef66b68ee2fbc940e79f81de",
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com"
-        }
-    },
-    {
-        "id": "bcf60a5f42743476b801db2d9b3e5c6e",
-        "title": "Omega Healthcare, Microsoft to accelerate AI capabilities",
-        "description": "OMEGA Healthcare, a leading provider of technology-enabled revenue cycle management (RCM) services, announced an expanded collaboration with Microsoft to further enhance its advanced artificial intelligence (AI) capabilities across the revenue cycle.",
-        "content": "OMEGA Healthcare, a leading provider of technology-enabled revenue cycle management (RCM) services, announced an expanded collaboration with Microsoft to further enhance its advanced artificial intelligence (AI) capabilities across the revenue cycle.... [1638 chars]",
-        "url": "https://www.manilatimes.net/2025/08/06/tmt-newswire/omega-healthcare-microsoft-to-accelerate-ai-capabilities/2162648",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/06/700842.jpg",
-        "publishedAt": "2025-08-05T16:01:00Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "389888bde8552a92d0b93da960372bf7",
-        "title": "Karl Deeter-led mortgage and insurance fintech sold to UK plc in up to €9m deal",
-        "description": "Deal involves an initial €5m being paid for 95% of Dublin-based Artificial Intelligence Finance",
-        "content": "Karl Deeter is ? of Dublin-based Artificial Intelligence Finance, which has been sold to London-listed Software Circle.\nAn Irish mortgage and life insurance solutions fintech led by home loans expert Karl Deeter has been acquired by London-listed Sof... [3311 chars]",
-        "url": "https://www.irishtimes.com/business/2025/08/05/karl-deeter-led-mortgage-and-insurance-fintech-sold-to-uk-plc-in-up-to-9m-deal/",
-        "image": "https://www.irishtimes.com/resizer/v2/TQXMHSZLDJHTZKTGXBHKXBPVTM.jpg?smart=true&auth=61d0b9fd533b15a5d17a8b80e9658621ed67cd088328bb119a65aedcc307b54d&width=1200&height=630",
-        "publishedAt": "2025-08-05T15:22:00Z",
-        "source": {
-            "id": "dd1d806725f45e4403e75c1bb23b447a",
-            "name": "The Irish Times",
-            "url": "https://www.irishtimes.com"
-        }
-    },
-    {
-        "id": "5bbc1183145b9e7a9492c396a6bc5a52",
-        "title": "HSBC lifts S&P 500 year-end target to 6,400 on AI boom",
-        "description": "HSBC raised its year-end S&P 500 index target by more than 800 points to 6,400, citing euphoria around artificial intelligence.",
-        "content": "People walk past a logo of the HSBC headquarters in Hong Kong in this July 2012 file photo. (AP Photo/Vincent Yu)\nHSBC on Tuesday raised its year-end S&P 500 index target by more than 800 points to 6,400, citing euphoria around artificial intelligenc... [1327 chars]",
-        "url": "https://www.cp24.com/news/money/2025/08/05/hsbc-lifts-sp-500-year-end-target-to-6400-on-ai-boom-easing-policy-uncertainty/",
-        "image": "https://www.cp24.com/resizer/v2/LJVCI34TZUQJK2UHO6HQTGO3XI.jpg?smart=true&auth=d14a6b0c52ccbc3701316ffd51ffa2ed2bb04a16467003f001cf32c813edd2d7&width=1200&height=630",
-        "publishedAt": "2025-08-05T14:57:35Z",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com"
         }
     }
 ]
