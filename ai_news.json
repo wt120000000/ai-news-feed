@@ -1,5 +1,19 @@
 [
     {
+        "id": "c2e2cf9a8838c4b46d2722c0dfcc8c5c",
+        "title": "Meet the AI vegans",
+        "description": "They are choosing to abstain from using artificial intelligence for environmental, ethical and personal reasons. Maybe they have a point, writes Guardian columnist Arwa Mahdawi",
+        "content": "I tried to write a letter recently but my hand didn’t quite cooperate: the result was a maniacal scrawl. I rarely put literal pen to paper any more and it seems my overreliance on a keyboard means I may have lost the ability to write legible cursive.... [2067 chars]",
+        "url": "https://www.theguardian.com/commentisfree/2025/aug/06/meet-the-ai-vegans",
+        "image": "https://i.guim.co.uk/img/media/32c97644ee92137425b44c2e81483a807bcec537/544_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=01031c00f6d77491b525766c17e55a76",
+        "publishedAt": "2025-08-06T10:00:52Z",
+        "source": {
+            "id": "01558c024928d45cf320f6f75eede787",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com"
+        }
+    },
+    {
         "id": "fe2a384797c65d9cf615b3a2fbaf7440",
         "title": "A politician made an AI clone of himself. The outrage was real.",
         "description": "British lawmaker Mark Sewards released an artificial intelligence prototype of himself to help deal with a backlog of queries from constituents. Some weren’t impressed.",
@@ -119,20 +133,6 @@
         "url": "https://sg.news.yahoo.com/nvidia-reiterates-chips-no-backdoors-025056979.html",
         "image": "https://media.zenfs.com/en/reuters.com/b83ace6089fc16e2235a7438783b2cda",
         "publishedAt": "2025-08-06T02:50:56Z",
-        "source": {
-            "id": "f6d6ee1134197fe1441d65a3e7915835",
-            "name": "Yahoo Singapore News",
-            "url": "https://sg.news.yahoo.com"
-        }
-    },
-    {
-        "id": "fd79d522e5356278f056e76465002ba1",
-        "title": "OpenAI eyes $500 billion valuation in potential employee share sale, source says",
-        "description": "(Reuters) -ChatGPT maker OpenAI is in early-stage discussions about a stock sale that would allow employees to cash out and could value the company at about $500 billion, a source familiar with the matter said. That would represent an eye-popping bump-up from its current valuation of $300 billion, with the sale underscoring both OpenAI's rapid gains in users and revenue as well as the intense competition among artificial intelligence firms to secure talented workers. The transaction, which would come before a potential IPO, would allow current and former employees to sell several billion dollars worth of shares, said the source, who requested anonymity because the talks are private.",
-        "content": "By Krystal Hu and Shivani Tanna\n(Reuters) -ChatGPT maker OpenAI is in early-stage discussions about a stock sale that would allow employees to cash out and could value the company at about $500 billion, a source familiar with the matter said.\nThat wo... [2236 chars]",
-        "url": "https://sg.news.yahoo.com/openai-talks-share-sale-valuing-014446944.html",
-        "image": "https://media.zenfs.com/en/reuters.com/9af63d08087e4f503a5d1e26cdf92d36",
-        "publishedAt": "2025-08-06T01:44:46Z",
         "source": {
             "id": "f6d6ee1134197fe1441d65a3e7915835",
             "name": "Yahoo Singapore News",
