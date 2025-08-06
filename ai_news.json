@@ -1,5 +1,19 @@
 [
     {
+        "id": "be7c180510ec5365f0299c49ee546fb2",
+        "title": "UPDATE 3-OpenAI eyes $500 billion valuation in potential employee share sale, source says",
+        "description": "That would represent an eye-popping bump-up from its current valuation of $300 billion, with the sale underscoring both OpenAI's rapid gains in users and revenue as well as the intense competition among artificial intelligence firms to secure talented workers. The transaction, which would come before a potential IPO, would allow current and former employees to sell several billion dollars worth of shares, said the source, who requested anonymity because the talks are private.",
+        "content": "ChatGPT maker OpenAI is in early-stage discussions about a stock sale that would allow employees to cash out and could value the company at about $500 billion, a source familiar with the matter said. That would represent an eye-popping bump-up from i... [2150 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3531214-update-3-openai-eyes-500-billion-valuation-in-potential-employee-share-sale-source-says",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg?width=920&format=jpeg",
+        "publishedAt": "2025-08-06T04:58:51Z",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com"
+        }
+    },
+    {
         "id": "f9368843cbae0582cb4f280afa14e67f",
         "title": "OpenAI Launches Free, Customizable AI Models in Major Strategic Shift",
         "description": "OpenAI on Tuesday released two new artificial intelligence (AI) models that can be downloaded for free and altered by users, to challenge similar offerings by US and Chinese competition.",
@@ -123,20 +137,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "2732829c70e0af2b16ddee851765a138",
-        "title": "Super Micro's quarterly revenue misses estimates",
-        "description": "Super Micro missed Wall Street estimates for fourth-quarter revenue on Tuesday, hit by intense competition from larger server makers for high-performance computers used to train artificial-intelligence models. Shares of the San Jose, California-based firm fell 11% in extended trading. The AI server market is becoming more competitive as many companies launch advanced servers and rack configurations.",
-        "content": "(Reuters) -Super Micro missed Wall Street estimates for fourth-quarter revenue on Tuesday, hit by intense competition from larger server makers for high-performance computers used to train artificial-intelligence models.\nShares of the San Jose, Calif... [370 chars]",
-        "url": "https://sg.news.yahoo.com/super-micros-quarterly-revenue-misses-201116578.html?guccounter=1&guce_referrer=aHR0cHM6Ly9zZy5uZXdzLnlhaG9vLmNvbS8_X2d1Y19jb25zZW50X3NraXA9MTc1NDQyNjE2Mg&guce_referrer_sig=AQAAAL59EtsWODVT3KOSOY2tvm6FzvxZvv47ZJ7J1ounNPO61_528zxAQnyL-74KaFP8RNmy8uVVJZ1xwwsffB3_XnFVQSkfwSlw9N9yAvEvh1xz4jlSQW8NLD8N2s-R6mBDM3ZreV2jFOmPt5qjhQrn9hL4J5P7ih-obVmpA19Y-Tkb",
-        "image": "https://media.zenfs.com/en/reuters.com/a448afc8890fbe924922ec44690b3f4f",
-        "publishedAt": "2025-08-05T20:11:16Z",
-        "source": {
-            "id": "f6d6ee1134197fe1441d65a3e7915835",
-            "name": "Yahoo Singapore News",
-            "url": "https://sg.news.yahoo.com"
         }
     }
 ]
