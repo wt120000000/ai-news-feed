@@ -1,5 +1,19 @@
 [
     {
+        "id": "2a9fe8813fc755be6d84ade7c2af8de1",
+        "title": "How DeepSeek and Open-Source Models Are Shaking Up AI",
+        "description": "Tech companies and academics have long wrestled with the risks and rewards of building open-source software. But the frenzy around generative artificial intelligence has lent new significance to the debate.",
+        "content": "Tech companies and academics have long wrestled with the risks and rewards of building open-source software. But the frenzy around generative artificial intelligence has lent new significance to the debate.\nDeepSeek and other Chinese companies have p... [285 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-06/how-deepseek-and-open-source-ai-models-are-disrupting-big-tech",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3lIiWD5bkIM/v2/1200x798.jpg",
+        "publishedAt": "2025-08-06T19:27:37Z",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com"
+        }
+    },
+    {
         "id": "cfff144535d9f86cc1a6ff0679be99f5",
         "title": "Jim Chalmers treads middle path between unions and business on artificial intelligence",
         "description": "The government is trying to strike the right balance between preventing mass redundancies forced by AI, while also preventing Australia falling behind those countries rapidly embracing the technology.",
@@ -56,6 +70,20 @@
         }
     },
     {
+        "id": "655ff9a32ef9e4b1898636ee076b7f96",
+        "title": "From chatbot apocalypse to a bespoke romance about the family cat: Edinburgh gets creative with AI",
+        "description": "A tech twist on Hamlet, a glimpse into a catastrophic future and a uniquely personalised tale of societal breakdown immerse fringe audiences in the haunting uncertainty of artificial intelligence",
+        "content": "Every new technology unsettles us because it confuses our boundaries. The radio announcer who appears in our living room; the movie star we see on a screen; the relative’s voice we hear on a phone: they all mix up our sense of the real and the imagin... [4933 chars]",
+        "url": "https://www.theguardian.com/stage/2025/aug/06/chatbot-apocalypse-bespoke-romance-edinburgh-fringe-ai-artificial-intelligence",
+        "image": "https://i.guim.co.uk/img/media/cddfb607dc418b410f3c26a93671339cf7201bea/189_0_4840_3872/master/4840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2759551775541b9643021083dc599108",
+        "publishedAt": "2025-08-06T14:43:55Z",
+        "source": {
+            "id": "01558c024928d45cf320f6f75eede787",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com"
+        }
+    },
+    {
         "id": "22de29958bf734e7a31d2a236239807b",
         "title": "Arista’s Stock Jump Pushes CEO Ullal’s Wealth to $6.4 Billion",
         "description": "In the artificial intelligence gold rush, even pick-and-shovel companies like Arista Networks Inc. are seeing their fortunes swell. The hardware provider’s shares have more than doubled since April, reaching an all-time high on Wednesday.",
@@ -109,34 +137,6 @@
             "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
             "name": "Washington Examiner",
             "url": "https://www.washingtonexaminer.com"
-        }
-    },
-    {
-        "id": "6e99b64aaa0906a4d8de8315a9e73682",
-        "title": "Cohere's agentic AI platform North gets wide release, aims to handle 'boring' work",
-        "description": "Cohere is making its agentic artificial intelligence platform more widely available. The Toronto-based tech firm announced Wednesday that its North platform, which was launched in a limited fashion in January, is getting a broader release.",
-        "content": "Cohere is making its agentic artificial intelligence platform more widely available.\nThe Toronto-based tech firm announced Wednesday that its North platform, which was launched in a limited fashion in January, is getting a broader release.\nThe platfo... [2855 chars]",
-        "url": "https://www.baytoday.ca/business/coheres-agentic-ai-platform-north-gets-wide-release-aims-to-handle-boring-work-11038231",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/64b90e6ee8a44b9ea9f3243d6408134c70e40fe008de0b71a2b0fb25b18c6579.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-08-06T13:00:04Z",
-        "source": {
-            "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-            "name": "BayToday",
-            "url": "https://www.baytoday.ca"
-        }
-    },
-    {
-        "id": "a46657e91cb056b40390539100f57601",
-        "title": "Cohere's agentic AI platform North gets wide release, aims to handle 'boring' work",
-        "description": "Cohere is making its agentic artificial intelligence platform more widely available. The Toronto-based tech firm announced Wednesday that its North platform, which was launched in a limited fashion in January, is getting a broader release.",
-        "content": "Cohere is making its agentic artificial intelligence platform more widely available.\nThe Toronto-based tech firm announced Wednesday that its North platform, which was launched in a limited fashion in January, is getting a broader release.\nThe platfo... [2855 chars]",
-        "url": "https://www.bradfordtoday.ca/national-business/coheres-agentic-ai-platform-north-gets-wide-release-aims-to-handle-boring-work-11038231",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/64b90e6ee8a44b9ea9f3243d6408134c70e40fe008de0b71a2b0fb25b18c6579.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-08-06T13:00:04Z",
-        "source": {
-            "id": "ec12383a90942fd0ccc50c66266217a5",
-            "name": "BradfordToday",
-            "url": "https://www.bradfordtoday.ca"
         }
     }
 ]
