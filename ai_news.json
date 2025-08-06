@@ -1,5 +1,19 @@
 [
     {
+        "id": "dbed1695099ca9b2a953ead8f0d7657e",
+        "title": "We May Be Headed Toward Post-Smartphone World",
+        "description": "Artificial intelligence is advancing so quickly that some Silicon Valley bigwigs are betting it will lead to what might seem unthinkable at the moment: a world in which people...",
+        "content": "Artificial intelligence is advancing so quickly that some Silicon Valley bigwigs are betting it will lead to what might seem unthinkable at the moment: a world in which people don't carry around smartphones. Instead, they might get their AI-powered k... [438 chars]",
+        "url": "https://www.newser.com/story/373020/we-may-be-headed-toward-post-smartphone-world.html",
+        "image": "https://img1-azrcdn.newser.com/image/1626368-12-20250805140717.jpeg",
+        "publishedAt": "2025-08-05T23:58:20Z",
+        "source": {
+            "id": "51aadd014176eb61b32255e2791b7207",
+            "name": "Newser",
+            "url": "https://www.newser.com"
+        }
+    },
+    {
         "id": "0272315fa2875c2ae5229222d7cd8e48",
         "title": "US Considers More Chip Tariffs | Bloomberg Tech 8/5/2025",
         "description": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss President Donald Trump’s comments that more chip tariffs may be coming soon. Plus, booming demand for artificial intelligence led Palantir’s revenue to climb above $1 billion. And AMD is under pressure to show benefits from the AI race as the chipmaker prepares to release earnings after markets close. (Source: Bloomberg)",
@@ -17,7 +31,7 @@
         "id": "2b16db8c35fc95787429ac209eff07f7",
         "title": "Super Micro (SMCI) Q4 earnings report 2025",
         "description": "The server maker's business is still getting a big boost from artificial intelligence, but growth is slowing.",
-        "content": "Charles Liang, CEO of Super Micro, speaks at the Computex conference in Taipei, Taiwan, on June 1, 2023.\nSuper Micro Computer shares slid 15% in extended trading on Tuesday after the server maker reported disappointing fiscal fourth-quarter results a... [1325 chars]",
+        "content": "Charles Liang, CEO of Super Micro, speaks at the Computex conference in Taipei, Taiwan, on June 1, 2023.\nSuper Micro Computer shares slid 15% in extended trading on Tuesday after the server maker reported disappointing fiscal fourth-quarter results a... [1561 chars]",
         "url": "https://www.cnbc.com/2025/08/05/super-micro-smci-q4-earnings-report-2025.html",
         "image": "https://image.cnbcfm.com/api/v1/image/108182023-1754425755270-gettyimages-1258355965-TAIWAN-COMPUTEX2023-01062023-032JPG.jpeg?v=1754425894&w=1920&h=1080",
         "publishedAt": "2025-08-05T20:42:19Z",
@@ -57,9 +71,9 @@
     },
     {
         "id": "67b1e52e23997f4d5e735c95226a4ddb",
-        "title": "Super Micro's quarterly results underwhelm, shares fall",
-        "description": "Super Micro missed Wall Street estimates for fourth-quarter revenue and profit on Tuesday, as the company battles larger server makers for high-performance computers used to train artificial-intelligence models. Shares of the San Jose, California-based firm slumped 10.5% in extended trading. They have soared 91% this year, as investors bet on strong demand for its AI servers and its liquid cooling solutions.",
-        "content": "(Reuters) -Super Micro missed Wall Street estimates for fourth-quarter revenue and profit on Tuesday, as the company battles larger server makers for high-performance computers used to train artificial-intelligence models.\nShares of the San Jose, Cal... [927 chars]",
+        "title": "Super Micro's quarterly results underwhelm, shares tumble",
+        "description": "(Reuters) -Super Micro missed Wall Street estimates for fourth-quarter revenue and profit on Tuesday, as the company battles larger server makers for high-performance computers used to train artificial-intelligence models. Super Micro projected revenue of at least $33 billion for fiscal year 2026. Super Micro has been gaining traction in the hyper-competitive server industry, but analysts have said larger rivals such as Dell Technologies and HP Enterprise have been able to leverage their vast customer base to boost sales.",
+        "content": "By Juby Babu\n(Reuters) -Super Micro missed Wall Street estimates for fourth-quarter revenue and profit on Tuesday, as the company battles larger server makers for high-performance computers used to train artificial-intelligence models.\nShares of the ... [2384 chars]",
         "url": "https://sg.news.yahoo.com/super-micros-quarterly-revenue-misses-201116578.html",
         "image": "https://media.zenfs.com/en/reuters.com/a448afc8890fbe924922ec44690b3f4f",
         "publishedAt": "2025-08-05T20:11:16Z",
@@ -119,20 +133,6 @@
         "url": "https://www.mercurynews.com/2025/08/05/openai-google-and-anthropic-win-us-approval-for-civilian-ai-contracts/",
         "image": "https://www.mercurynews.com/wp-content/uploads/2025/04/Alphabet-Results_96727-1.jpg?w=1024&h=683",
         "publishedAt": "2025-08-05T17:16:21Z",
-        "source": {
-            "id": "17d7c2645f485578130862e0c8dd9480",
-            "name": "The Mercury News",
-            "url": "https://www.mercurynews.com"
-        }
-    },
-    {
-        "id": "a51f95cfdf17c7c76e292c3fab523fc1",
-        "title": "AMD under pressure to show AI gains with stock beating Nvidia",
-        "description": "Advanced Micro Devices Inc. earnings are expected to show the chipmaker is increasingly benefiting from the artificial intelligence arms race.",
-        "content": "(Bloomberg/Ryan Vlastelica) — Advanced Micro Devices Inc. earnings are expected to show the chipmaker is increasingly benefiting from the artificial intelligence arms race. The question is whether it’s enough to justify a rally that has outpaced Nvid... [5733 chars]",
-        "url": "https://www.mercurynews.com/2025/08/05/amd-under-pressure-to-show-ai-gains-with-stock-beating-nvidia/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2024/08/AMD_ZT_Systems_26615.jpg?w=1024&h=682",
-        "publishedAt": "2025-08-05T17:15:20Z",
         "source": {
             "id": "17d7c2645f485578130862e0c8dd9480",
             "name": "The Mercury News",
