@@ -1,5 +1,33 @@
 [
     {
+        "id": "5480eef12bae4b3130f2b3999e8b7710",
+        "title": "Cohere's artificial intelligence platform North gets wide release",
+        "description": "The Toronto-based tech firm Cohere announced that its North platform, which was launched in a limited fashion in January, is getting a broader release.",
+        "content": "Mirko Bibic, president and CEO, BCE and Aidan Gomez, Co-Founder and CEO, Cohere, announce a strategic partnership to deliver sovereign AI solutions to government and business on Monday.\nCohere is making its agentic artificial intelligence platform mo... [3129 chars]",
+        "url": "https://www.cp24.com/news/money/2025/08/06/coheres-agentic-ai-platform-north-gets-wide-release-aims-to-handle-boring-work/",
+        "image": "https://www.cp24.com/resizer/v2/45MTVWGMZJHRFC5AL773PEVA2Y.jpg?smart=true&auth=0d49491190b7342739a9db4850a7c5f3b6a20601ad62d44a4d5c9c1f8bb67744&width=1200&height=630",
+        "publishedAt": "2025-08-06T13:51:50Z",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com"
+        }
+    },
+    {
+        "id": "e5263411650972dbb0cbaf5e9725e10e",
+        "title": "Court strikes down California law on election-related AI deepfakes",
+        "description": "The law came amid increased concerns about the quick advancement of artificial intelligence and its effects on political candidates.",
+        "content": "A federal judge ruled in favor of Elon Musk and his X social media platform in the billionaire’s challenge to a California law that bans artificial intelligence-generated, deepfake content related to elections.\nThe law requires social media companies... [1790 chars]",
+        "url": "https://www.washingtonexaminer.com/news/justice/3492053/court-musk-x-california-law-election-related-ai-deepfakes/",
+        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/01/Elon-Musk-yy771123.webp",
+        "publishedAt": "2025-08-06T13:01:30Z",
+        "source": {
+            "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+            "name": "Washington Examiner",
+            "url": "https://www.washingtonexaminer.com"
+        }
+    },
+    {
         "id": "e403f1d3fb0bf2376587ef6cc936fe60",
         "title": "Court sides strikes down California law on election-related AI deepfakes",
         "description": "The AI deepfakes law came as there's been increased concerns about the quick advancement of artificial intelligence and its impacts on political candidates.",
@@ -109,34 +137,6 @@
             "id": "ec12383a90942fd0ccc50c66266217a5",
             "name": "BradfordToday",
             "url": "https://www.bradfordtoday.ca"
-        }
-    },
-    {
-        "id": "fd63f4e0d0b1ed1c32807d1a54436c7a",
-        "title": "Karl Deeter’s EI-backed software business acquired for €9m",
-        "description": "Mortgage broker Karl Deeter sold his business Artificial Intelligence Finance to London-listen Software Circle in a deal valued up to €9m.",
-        "content": "Deeter will continue to remain with the company, leading AIF’s day-to-day business.\nMortgage broker Karl Deeter has sold his business Artificial Intelligence Finance (AIF) to London-listen Software Circle in a deal valued up to €9m.\nThe Manchester ba... [2759 chars]",
-        "url": "https://www.siliconrepublic.com/start-ups/karl-deeters-artificial-intelligence-finance-online-application-software-circle-acquisition",
-        "image": "https://www.siliconrepublic.com/wp-content/uploads/2025/08/AdobeStock_526499704.jpeg",
-        "publishedAt": "2025-08-06T11:40:52Z",
-        "source": {
-            "id": "59749bcce0ec90ed59071c45c44738b7",
-            "name": "Siliconrepublic.com",
-            "url": "https://www.siliconrepublic.com"
-        }
-    },
-    {
-        "id": "894a93e8cbeec60ac63ce5ff89bfcf46",
-        "title": "Digital literacy, intersectoral action key to successful fraud prevention in PH",
-        "description": "WHAT began as simple phishing emails has evolved into a complex network of online schemes that leave many pockets dry. Powered by both cutting-edge artificial intelligence (AI) deepfakes and forged IDs, digital fraud is more challenging to battle against despite financial technology’s undeniable convenience.",
-        "content": "WHAT began as simple phishing emails has evolved into a complex network of online schemes that leave many pockets dry. Powered by both cutting-edge artificial intelligence (AI) deepfakes and forged IDs, digital fraud is more challenging to battle aga... [4514 chars]",
-        "url": "https://www.manilatimes.net/2025/08/06/tmt-newswire/digital-literacy-intersectoral-action-key-to-successful-fraud-prevention-in-ph/2163112",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/06/701953.jpg",
-        "publishedAt": "2025-08-06T11:16:00Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
         }
     }
 ]
