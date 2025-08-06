@@ -1,5 +1,19 @@
 [
     {
+        "id": "19f2bc89ce75ea6c7385fc85865bb3f7",
+        "title": "U.S. charges Chinese nationals with illegally exporting chips to China",
+        "description": "Two Chinese nationals residing in California have been arrested and charged with violating export control laws by allegedly shipping advanced microchips used in artificial intelligence to China.",
+        "content": "The Department of Justice on Tuesday announced charges against two Chinese nationals accused of illegally shipping computer chips to China. File Photo by Bonnie Cash/UPI | License Photo\nAug. 6 (UPI) -- Two Chinese nationals residing in California hav... [1692 chars]",
+        "url": "https://www.upi.com/Top_News/US/2025/08/06/Chinese-charged-chips-export-China/2691754463252/",
+        "image": "https://cdnph.upi.com/sv/ph/og/upi/2691754463252/2025/1/5fd5ff533e99d8fa93f73850573f25a0/v1.5/US-charges-Chinese-nationals-with-illegally-exporting-chips-to-China.jpg",
+        "publishedAt": "2025-08-06T07:23:00Z",
+        "source": {
+            "id": "79baacd62152cf257ee35e8c0bec19a2",
+            "name": "UPI News",
+            "url": "https://www.upi.com"
+        }
+    },
+    {
         "id": "c37713507cfb436744750cc91c525f25",
         "title": "‘AI will disrupt work and reinvent it’: Harsh Goenka shares his bold outlook on artificial intelligence",
         "description": "In an X post, Harsh Goenka predicted whether AI would take over jobs.",
@@ -123,20 +137,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "dbed1695099ca9b2a953ead8f0d7657e",
-        "title": "We May Be Headed Toward Post-Smartphone World",
-        "description": "Artificial intelligence is advancing so quickly that some Silicon Valley bigwigs are betting it will lead to what might seem unthinkable at the moment: a world in which people...",
-        "content": "Artificial intelligence is advancing so quickly that some Silicon Valley bigwigs are betting it will lead to what might seem unthinkable at the moment: a world in which people don't carry around smartphones. Instead, they might get their AI-powered k... [438 chars]",
-        "url": "https://www.newser.com/story/373020/we-may-be-headed-toward-post-smartphone-world.html",
-        "image": "https://img1-azrcdn.newser.com/image/1626368-12-20250805140717.jpeg",
-        "publishedAt": "2025-08-05T23:58:20Z",
-        "source": {
-            "id": "51aadd014176eb61b32255e2791b7207",
-            "name": "Newser",
-            "url": "https://www.newser.com"
         }
     }
 ]
