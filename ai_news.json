@@ -1,5 +1,19 @@
 [
     {
+        "id": "554ed4083997335088bd7a95ff38e582",
+        "title": "'Skeevy' Epstein gave us the creeps: top academics recall bizarre island visit",
+        "description": "Twenty-three years ago, pioneers in artificial intelligence received an invitation to a Caribbean conference funded by “some rich guy.”Now there is dismay among those who attended the three-day St. Thomas Common Sense Symposium in the U.S. Virgin Islands in April 2002 — because that “rich guy” was J...",
+        "content": "Twenty-three years ago, pioneers in artificial intelligence received an invitation to a Caribbean conference funded by “some rich guy.”\nNow there is dismay among those who attended the three-day St. Thomas Common Sense Symposium in the U.S. Virgin Is... [9103 chars]",
+        "url": "https://www.rawstory.com/raw-investigates/2673860453/",
+        "image": "https://www.rawstory.com/media-library/image.jpg?id=61429815&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
+        "publishedAt": "2025-08-06T10:09:59Z",
+        "source": {
+            "id": "d9e5f124fd3af657d83b8787fbbae53d",
+            "name": "Raw Story",
+            "url": "https://www.rawstory.com"
+        }
+    },
+    {
         "id": "c2e2cf9a8838c4b46d2722c0dfcc8c5c",
         "title": "Meet the AI vegans",
         "description": "They are choosing to abstain from using artificial intelligence for environmental, ethical and personal reasons. Maybe they have a point, writes Guardian columnist Arwa Mahdawi",
@@ -58,8 +72,8 @@
     {
         "id": "9e57c893cdeb08f1f019392669faaf32",
         "title": "GPs are using artificial intelligence to record patient consultations but how safe is your personal data?",
-        "description": "Some GPs are now relying on artificial intelligence to take notes during patient consultations. So how safe is our sensitive information?",
-        "content": "For the last 12 months Dr Grant Blashki has used what he calls a \"medical intern\" in every appointment.\nHis intern is completely digital. It is an artificial intelligence scribe that listens to every word his patients say.\n\"It's mostly surprisingly a... [7882 chars]",
+        "description": "Some GPs are now relying on artificial intelligence to take notes during patient consultations. So, how safe is our sensitive information?",
+        "content": "For the past 12 months, Dr Grant Blashki has used what he calls a \"medical intern\" in every appointment.\nHis intern is completely digital. It is an artificial intelligence scribe that listens to every word his patients say.\n\"It's mostly surprisingly ... [7732 chars]",
         "url": "https://www.abc.net.au/news/2025-08-06/doctor-ai-artificial-intelligence-scribe-notes-appointment/105615244",
         "image": "https://live-production.wcms.abc-cdn.net.au/9a16dc94632b87f7257bc30e3d0c9dd6?impolicy=wcms_watermark_news&cropH=1013&cropW=1801&xPos=119&yPos=0&width=862&height=485&imformat=generic",
         "publishedAt": "2025-08-06T06:12:29Z",
@@ -123,20 +137,6 @@
             "id": "d6397b77175680e2678c0d60edcee7af",
             "name": "South China Morning Post",
             "url": "https://www.scmp.com"
-        }
-    },
-    {
-        "id": "de2b93780a10525c6902f578fb820d79",
-        "title": "Nvidia reiterates its chips have no backdoors, urges US against location verification",
-        "description": "BEIJING (Reuters) -Nvidia has published a blog post reiterating that its chips did not have backdoors or kill switches and appealed to U.S. policymakers to forgo such ideas saying it would be a \"gift\" to hackers and hostile actors. The blog post, which was published on Tuesday in both English and Chinese, comes a week after the Chinese government summoned the U.S. artificial intelligence (AI) chip giant to a meeting saying it was concerned by a U.S. proposal for advanced chips sold abroad to be equipped with tracking and positioning functions. The White House and both houses of U.S. Congress have proposed the idea of requiring U.S. chip firms to include location verification technology with their chips to prevent them from being diverted to countries where U.S. export laws ban sales.",
-        "content": "Nvidia reiterates its chips have no backdoors, urges US against location verification\nBEIJING (Reuters) -Nvidia has published a blog post reiterating that its chips did not have backdoors or kill switches and appealed to U.S. policymakers to forgo su... [1374 chars]",
-        "url": "https://sg.news.yahoo.com/nvidia-reiterates-chips-no-backdoors-025056979.html",
-        "image": "https://media.zenfs.com/en/reuters.com/b83ace6089fc16e2235a7438783b2cda",
-        "publishedAt": "2025-08-06T02:50:56Z",
-        "source": {
-            "id": "f6d6ee1134197fe1441d65a3e7915835",
-            "name": "Yahoo Singapore News",
-            "url": "https://sg.news.yahoo.com"
         }
     }
 ]
