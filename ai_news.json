@@ -1,5 +1,19 @@
 [
     {
+        "id": "7b6b3928ab7dd38b7d5eb741ec171b07",
+        "title": "Get Ready, the AI Hacks Are Coming",
+        "description": "Artificial intelligence, very real vulnerabilities.",
+        "content": "Think twice before you ask Google’s Gemini AI assistant to summarize your schedule for you, because it could lead to you losing control of all of your smart devices. At a presentation at Black Hat USA, the annual cybersecurity conference in Las Vegas... [2629 chars]",
+        "url": "https://gizmodo.com/get-ready-the-ai-hacks-are-coming-2000639625",
+        "image": "https://gizmodo.com/app/uploads/2025/06/geminigooglegetty-1200x675.jpg",
+        "publishedAt": "2025-08-06T18:10:25Z",
+        "source": {
+            "id": "18c2a6429621fbedc49891aa7c847ec6",
+            "name": "Gizmodo",
+            "url": "https://gizmodo.com"
+        }
+    },
+    {
         "id": "5abaf03543030cd09872b17d23c00623",
         "title": "Google's $1 Billion Boost for AI in U.S. Education",
         "description": "Google has announced a $1 billion commitment over three years to enhance artificial intelligence education in U.S. higher education institutions and nonprofits. Over 100 universities have joined, receiving resources and tools. This initiative aims to integrate AI into academia while addressing concerns surrounding its role in education.",
@@ -11,6 +25,20 @@
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com"
+        }
+    },
+    {
+        "id": "51839c9d79b4a17b720dea1aa53a401b",
+        "title": "AI Investments Key for SoftBank Shares After $65 Billion Rally",
+        "description": "After adding $65 billion in market value over the past four months, the fate of SoftBank Group Corp. shares is more firmly attached to the global artificial intelligence boom than ever before.",
+        "content": "After adding $65 billion in market value over the past four months, the fate of SoftBank Group Corp. shares is more firmly attached to the global artificial intelligence boom than ever before.\nInvestors are returning to Masayoshi Son ’s flagship comp... [256 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-06/ai-investments-key-for-softbank-shares-after-65-billion-rally",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2y8daUoyqZ4/v1/1200x800.jpg",
+        "publishedAt": "2025-08-06T16:00:00Z",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com"
         }
     },
     {
@@ -70,20 +98,6 @@
         }
     },
     {
-        "id": "619e076833f8e05f4fe6e609786d2da4",
-        "title": "Cohere's agentic AI platform North gets wide release, aims to handle 'boring' work",
-        "description": "Cohere is making its agentic artificial intelligence platform more widely available.",
-        "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-        "url": "https://www.thestar.com/business/coheres-agentic-ai-platform-north-gets-wide-release-aims-to-handle-boring-work/article_486d047e-c06a-5653-9571-7ad2e7d8f825.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/28/d2814422-ae0a-5bd3-9d00-a69793f32db4/67d2f54c6841e.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2025-08-06T13:00:04Z",
-        "source": {
-            "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
-            "name": "Toronto Star",
-            "url": "https://www.thestar.com"
-        }
-    },
-    {
         "id": "6e99b64aaa0906a4d8de8315a9e73682",
         "title": "Cohere's agentic AI platform North gets wide release, aims to handle 'boring' work",
         "description": "Cohere is making its agentic artificial intelligence platform more widely available. The Toronto-based tech firm announced Wednesday that its North platform, which was launched in a limited fashion in January, is getting a broader release.",
@@ -98,6 +112,20 @@
         }
     },
     {
+        "id": "afd53f90209311ac7cc9e2e4eab1d189",
+        "title": "Cohere's agentic AI platform North gets wide release, aims to handle 'boring' work",
+        "description": "Cohere is making its agentic artificial intelligence platform more widely available. The Toronto-based tech firm announced Wednesday that its North platform, which was launched in a limited fashion in January, is getting a broader release.",
+        "content": "Cohere is making its agentic artificial intelligence platform more widely available.\nThe Toronto-based tech firm announced Wednesday that its North platform, which was launched in a limited fashion in January, is getting a broader release.\nThe platfo... [2855 chars]",
+        "url": "https://www.elliotlaketoday.com/national-business/coheres-agentic-ai-platform-north-gets-wide-release-aims-to-handle-boring-work-11038231",
+        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/64b90e6ee8a44b9ea9f3243d6408134c70e40fe008de0b71a2b0fb25b18c6579.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2025-08-06T13:00:04Z",
+        "source": {
+            "id": "b93fbda11fec5c2f08572a67a337e87d",
+            "name": "ElliotLakeToday.com",
+            "url": "https://www.elliotlaketoday.com"
+        }
+    },
+    {
         "id": "796f795498df84116bdce836108680e0",
         "title": "Cohere's agentic AI platform North gets wide release, aims to handle 'boring' work",
         "description": "Cohere is making its agentic artificial intelligence platform more widely available. The Toronto-based tech firm announced Wednesday that its North platform, which was launched in a limited fashion in January, is getting a broader release.",
@@ -109,34 +137,6 @@
             "id": "a626af07817344050e3336789e06a2f5",
             "name": "Vancouver Is Awesome",
             "url": "https://www.vancouverisawesome.com"
-        }
-    },
-    {
-        "id": "48e3ab2fa542afe1b95fee7cb6853cfe",
-        "title": "Cohere's agentic AI platform North gets wide release, aims to handle 'boring' work",
-        "description": "Cohere is making its agentic artificial intelligence platform more widely available. The Toronto-based tech firm announced Wednesday that its North platform, which was launched in a limited fashion in January, is getting a broader release.",
-        "content": "Cohere is making its agentic artificial intelligence platform more widely available.\nThe Toronto-based tech firm announced Wednesday that its North platform, which was launched in a limited fashion in January, is getting a broader release.\nThe platfo... [2855 chars]",
-        "url": "https://www.sootoday.com/national-business/coheres-agentic-ai-platform-north-gets-wide-release-aims-to-handle-boring-work-11038231",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/64b90e6ee8a44b9ea9f3243d6408134c70e40fe008de0b71a2b0fb25b18c6579.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-08-06T13:00:04Z",
-        "source": {
-            "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-            "name": "SooToday",
-            "url": "https://www.sootoday.com"
-        }
-    },
-    {
-        "id": "a46657e91cb056b40390539100f57601",
-        "title": "Cohere's agentic AI platform North gets wide release, aims to handle 'boring' work",
-        "description": "Cohere is making its agentic artificial intelligence platform more widely available. The Toronto-based tech firm announced Wednesday that its North platform, which was launched in a limited fashion in January, is getting a broader release.",
-        "content": "Cohere is making its agentic artificial intelligence platform more widely available.\nThe Toronto-based tech firm announced Wednesday that its North platform, which was launched in a limited fashion in January, is getting a broader release.\nThe platfo... [2855 chars]",
-        "url": "https://www.bradfordtoday.ca/national-business/coheres-agentic-ai-platform-north-gets-wide-release-aims-to-handle-boring-work-11038231",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/64b90e6ee8a44b9ea9f3243d6408134c70e40fe008de0b71a2b0fb25b18c6579.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-08-06T13:00:04Z",
-        "source": {
-            "id": "ec12383a90942fd0ccc50c66266217a5",
-            "name": "BradfordToday",
-            "url": "https://www.bradfordtoday.ca"
         }
     }
 ]
