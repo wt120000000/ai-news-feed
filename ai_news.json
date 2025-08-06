@@ -1,5 +1,33 @@
 [
     {
+        "id": "730a6af372195a2452d3751e61d4c9b4",
+        "title": "Researchers hacked Google Gemini to take control of a smart home",
+        "description": "Cybersecurity researchers were able to control smart home devices by hacking the Google Gemini artificial intelligence assistant.",
+        "content": "Wired reported on new cybersecurity research that demonstrated a hack of the Google Gemini artificial intelligence assistant. The researchers were able to control connected smart home devices through the use of indirect prompt injections in Google Ca... [522 chars]",
+        "url": "https://www.engadget.com/cybersecurity/researchers-hacked-google-gemini-to-take-control-of-a-smart-home-201926464.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/WdDnLynnrE04hRcrZOXKRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Njk-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/5937f8c0-7300-11f0-bb6b-f4cd782ec9fa",
+        "publishedAt": "2025-08-06T20:19:26Z",
+        "source": {
+            "id": "549a7a859b2345bbe231b00e7244ef99",
+            "name": "Engadget",
+            "url": "https://www.engadget.com"
+        }
+    },
+    {
+        "id": "13d19bf676207e80d092f470271f2627",
+        "title": "Can US Become Robotics Capital of the World?",
+        "description": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
+        "content": "Divided as we might be, let's face it: America and much of the world quickly fell in love with C-3PO, the humanoid robot character who appears in every Skywalker \"Star Wars\" movie as well as in television series, novels, comics, and video games.\nC-3P... [5820 chars]",
+        "url": "https://www.newsmax.com/dugganflanakin/david-sacks-ai-elon-musk/2025/08/06/id/1221530/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=6bdc94c3-1f5f-4940-8924-1a0f91b74c2c&SiteName=Newsmax",
+        "publishedAt": "2025-08-06T20:17:03Z",
+        "source": {
+            "id": "a8984f03fe66dae9745793f6560aa444",
+            "name": "Newsmax",
+            "url": "https://www.newsmax.com"
+        }
+    },
+    {
         "id": "2a9fe8813fc755be6d84ade7c2af8de1",
         "title": "How DeepSeek and Open-Source Models Are Shaking Up AI",
         "description": "Tech companies and academics have long wrestled with the risks and rewards of building open-source software. But the frenzy around generative artificial intelligence has lent new significance to the debate.",
@@ -39,6 +67,20 @@
             "id": "18c2a6429621fbedc49891aa7c847ec6",
             "name": "Gizmodo",
             "url": "https://gizmodo.com"
+        }
+    },
+    {
+        "id": "9cdadd2a7e5bb7a2a5d8012c700f8b2c",
+        "title": "Google invests $1 billion in AI education training over 3 years in US",
+        "description": "Google announces $1 billion investment in artificial intelligence training and education initiatives across U.S. universities over the next three years.",
+        "content": "Google is investing $1 billion to support artificial intelligence training and education initiatives in the U.S. over the next three years, underscoring how some tech giants are working to scale access to their learning models and shape the future of... [4241 chars]",
+        "url": "https://www.foxbusiness.com/economy/google-commits-1b-train-us-college-students-artificial-intelligence-over-three-years",
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/um-2.jpg?ve=1&tl=1",
+        "publishedAt": "2025-08-06T16:40:00Z",
+        "source": {
+            "id": "1b97b25c0ec482f85326378f82f7f815",
+            "name": "Fox Business",
+            "url": "https://www.foxbusiness.com"
         }
     },
     {
@@ -95,48 +137,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "5480eef12bae4b3130f2b3999e8b7710",
-        "title": "Cohere's artificial intelligence platform North gets wide release",
-        "description": "The Toronto-based tech firm Cohere announced that its North platform, which was launched in a limited fashion in January, is getting a broader release.",
-        "content": "Mirko Bibic, president and CEO, BCE and Aidan Gomez, Co-Founder and CEO, Cohere, announce a strategic partnership to deliver sovereign AI solutions to government and business on Monday.\nCohere is making its agentic artificial intelligence platform mo... [3129 chars]",
-        "url": "https://www.cp24.com/news/money/2025/08/06/coheres-agentic-ai-platform-north-gets-wide-release-aims-to-handle-boring-work/",
-        "image": "https://www.cp24.com/resizer/v2/45MTVWGMZJHRFC5AL773PEVA2Y.jpg?smart=true&auth=0d49491190b7342739a9db4850a7c5f3b6a20601ad62d44a4d5c9c1f8bb67744&width=1200&height=630",
-        "publishedAt": "2025-08-06T13:51:50Z",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com"
-        }
-    },
-    {
-        "id": "e5263411650972dbb0cbaf5e9725e10e",
-        "title": "Court strikes down California law on election-related AI deepfakes",
-        "description": "The law came amid increased concerns about the quick advancement of artificial intelligence and its effects on political candidates.",
-        "content": "A federal judge ruled in favor of Elon Musk and his X social media platform in the billionaire’s challenge to a California law that bans artificial intelligence-generated, deepfake content related to elections.\nThe law requires social media companies... [1790 chars]",
-        "url": "https://www.washingtonexaminer.com/news/justice/3492053/court-musk-x-california-law-election-related-ai-deepfakes/",
-        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/01/Elon-Musk-yy771123.webp",
-        "publishedAt": "2025-08-06T13:01:30Z",
-        "source": {
-            "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
-            "name": "Washington Examiner",
-            "url": "https://www.washingtonexaminer.com"
-        }
-    },
-    {
-        "id": "e403f1d3fb0bf2376587ef6cc936fe60",
-        "title": "Court sides strikes down California law on election-related AI deepfakes",
-        "description": "The AI deepfakes law came as there's been increased concerns about the quick advancement of artificial intelligence and its impacts on political candidates.",
-        "content": "A federal judge ruled in favor of billionaire Elon Musk and his X social media platform in their challenge to a California law that banned AI-generated, deepfake content related to elections.\nThe law required social media companies to remove deepfake... [1789 chars]",
-        "url": "https://www.washingtonexaminer.com/news/3492053/court-musk-x-california-law-election-related-ai-deepfakes/",
-        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/01/Elon-Musk-yy771123.webp",
-        "publishedAt": "2025-08-06T13:01:30Z",
-        "source": {
-            "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
-            "name": "Washington Examiner",
-            "url": "https://www.washingtonexaminer.com"
         }
     }
 ]
