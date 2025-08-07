@@ -1,5 +1,19 @@
 [
     {
+        "id": "1efde3f0cee7099d9ca1656e070b47d5",
+        "title": "AI is not your friend",
+        "description": "ZURICH, Switzerland — Meta chief Mark Zuckerberg and OpenAI’s Sam Altman have been aggressively promoting the idea that everyone, children included, should form relationships with artificial intelligence (AI) “friends” or “companions.” Meanwhile, multinational tech companies are pushing the concept of “AI agents” designed to assist us in our personal and professional lives, handle routine tasks and guide decision-making.",
+        "content": "ZURICH, Switzerland — Meta chief Mark Zuckerberg and OpenAI’s Sam Altman have been aggressively promoting the idea that everyone, children included, should form relationships with artificial intelligence (AI) “friends” or “companions.” Meanwhile, mul... [5577 chars]",
+        "url": "https://www.manilatimes.net/2025/08/08/opinion/world/ai-is-not-your-friend/2164169",
+        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2025-08-07T16:02:00Z",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net"
+        }
+    },
+    {
         "id": "048259bc36d54786ae8417d526631d68",
         "title": "AI technology advances early detection of glioblastoma progression",
         "description": "University of Virginia School of Medicine scientists are tapping the power of artificial intelligence to enhance and accelerate treatment for glioblastoma, the deadliest brain cancer.",
@@ -123,20 +137,6 @@
             "id": "10216cb8fabd0accd5eb967c97fc37ab",
             "name": "MacRumors",
             "url": "https://www.macrumors.com"
-        }
-    },
-    {
-        "id": "e7d361c81ba2f5d0d2f5b5f12a33567d",
-        "title": "Roblox rolls out open-source AI system to protect kids from predators in chats",
-        "description": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it…",
-        "content": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial…\nRoblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source versio... [4024 chars]",
-        "url": "https://wtop.com/national/2025/08/roblox-rolls-out-open-source-ai-system-to-protect-kids-from-predators-in-chats/",
-        "image": "https://wtop.com/wp-content/uploads/2025/07/Roblox-Grow_a_Garden_54920-scaled.jpg",
-        "publishedAt": "2025-08-07T12:18:42Z",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com"
         }
     }
 ]
