@@ -1,5 +1,19 @@
 [
     {
+        "id": "0d2d96b656e9368a82deefe3a7d9b66c",
+        "title": "China's new AI threat: Companies collecting data for influence campaign from Hong Kong to US",
+        "description": "China is increasingly using artificial intelligence to shape public opinion and expand its global influence, according to a new report based on insights from current and former US officials. A state-linked company, GoLaxy, has been at the center of these efforts.",
+        "content": "China is increasingly using artificial intelligence to shape public opinion and expand its global influence, according to a new report based on insights from current and former US officials. A state-linked company, GoLaxy, has been at the center of t... [2035 chars]",
+        "url": "https://www.firstpost.com/world/chinas-new-ai-threat-companies-collecting-data-for-influence-campaign-from-hong-kong-to-us-13921446.html",
+        "image": "https://images.firstpost.com/uploads/2025/03/Artificial-Intelligence-AI-workers-2025-03-9fc16a19f6f574d389504dbbbfc09eb4.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2025-08-07T08:08:20Z",
+        "source": {
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com"
+        }
+    },
+    {
         "id": "e50ad01d889c4510164d64daab2a0e74",
         "title": "NSW Labor just sneaked in this regulation on monitoring workers",
         "description": "The Minns government has included the country’s first express regulation of artificial intelligence in a workers compensation bill, backing union rights to lift the hood on digital work systems.",
@@ -11,6 +25,20 @@
             "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
             "name": "The Australian Financial Review",
             "url": "https://www.afr.com"
+        }
+    },
+    {
+        "id": "9c20cf8dc7f3faa9bfac795863d25156",
+        "title": "SoftBank Swings to Profit on Vision Fund Gains Ahead of AI Push",
+        "description": "SoftBank Group Corp. swung to a bigger-than-expected profit in the June quarter, riding on gains from its bets on Nvidia Corp. and startups in a boost for founder Masayoshi Son’s bets on artificial intelligence technologies.",
+        "content": "SoftBank Group Corp. swung to a bigger-than-expected profit in the June quarter, riding on gains from its bets on Nvidia Corp. and startups in a boost for founder Masayoshi Son ’s bets on artificial intelligence technologies.\nThe Tokyo-based company ... [322 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-07/softbank-swings-to-profit-on-nvidia-bet-ahead-of-big-ai-campaign",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBTXyAldOqbk/v0/1200x800.jpg",
+        "publishedAt": "2025-08-07T06:36:13Z",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com"
         }
     },
     {
@@ -109,34 +137,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "730a6af372195a2452d3751e61d4c9b4",
-        "title": "Researchers hacked Google Gemini to take control of a smart home",
-        "description": "Cybersecurity researchers were able to control smart home devices by hacking the Google Gemini artificial intelligence assistant.",
-        "content": "Wired reported on new cybersecurity research that demonstrated a hack of the Google Gemini artificial intelligence assistant. The researchers were able to control connected smart home devices through the use of indirect prompt injections in Google Ca... [522 chars]",
-        "url": "https://www.engadget.com/cybersecurity/researchers-hacked-google-gemini-to-take-control-of-a-smart-home-201926464.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/WdDnLynnrE04hRcrZOXKRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Njk-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/5937f8c0-7300-11f0-bb6b-f4cd782ec9fa",
-        "publishedAt": "2025-08-06T20:19:26Z",
-        "source": {
-            "id": "549a7a859b2345bbe231b00e7244ef99",
-            "name": "Engadget",
-            "url": "https://www.engadget.com"
-        }
-    },
-    {
-        "id": "13d19bf676207e80d092f470271f2627",
-        "title": "Can US Become Robotics Capital of the World?",
-        "description": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
-        "content": "Divided as we might be, let's face it: America and much of the world quickly fell in love with C-3PO, the humanoid robot character who appears in every Skywalker \"Star Wars\" movie as well as in television series, novels, comics, and video games.\nC-3P... [5820 chars]",
-        "url": "https://www.newsmax.com/dugganflanakin/david-sacks-ai-elon-musk/2025/08/06/id/1221530/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=6bdc94c3-1f5f-4940-8924-1a0f91b74c2c&SiteName=Newsmax",
-        "publishedAt": "2025-08-06T20:17:03Z",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com"
         }
     }
 ]
