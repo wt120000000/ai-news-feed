@@ -1,5 +1,19 @@
 [
     {
+        "id": "34391f0243f53a87b638ae6d4ada23e3",
+        "title": "AI Helps Rapidly Crack Yearlong Mystery in Alps",
+        "description": "The search for the body of a hiker who vanished in Italy's Alps last September ended up being a remarkably quick one, thanks to artificial intelligence. The National Alpine...",
+        "content": "The search for the body of a hiker who vanished in Italy's Alps last September ended up being a remarkably quick one, thanks to artificial intelligence. The National Alpine and Speleological Rescue Corps tapped into drone technology and AI image anal... [1004 chars]",
+        "url": "https://www.newser.com/story/373103/ai-and-drones-crack-yearlong-mystery-in-italian-alps.html",
+        "image": "https://img2-azrcdn.newser.com/image/1626695-12-20250806182517.jpeg",
+        "publishedAt": "2025-08-07T04:00:00Z",
+        "source": {
+            "id": "51aadd014176eb61b32255e2791b7207",
+            "name": "Newser",
+            "url": "https://www.newser.com"
+        }
+    },
+    {
         "id": "54419f9086f5728fc6112b45326be35e",
         "title": "AI and extended reality successfully train surgical trainees without instructors",
         "description": "Mount Sinai researchers have demonstrated the effectiveness of teaching surgical trainees a difficult procedure using artificial intelligence (AI) algorithms and an extended-reality headset without the presence of an instructor.",
@@ -58,8 +72,8 @@
     {
         "id": "44faaa7324698a884214dda00f561271",
         "title": "Former Tesla Leaders Start AI-Focused Automotive Company",
-        "description": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on the automotive industry, according to people familiar with the matter.",
-        "content": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on the automotive industry, according to people familiar with the matter.\nDensityAI, which is poised to come out of stealth soon, is in ta... [271 chars]",
+        "description": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on data center services for industries from automotive to robotics, according to people familiar with the matter.",
+        "content": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on data center services for industries from automotive to robotics, according to people familiar with the matter.\nDensityAI, which is pois... [311 chars]",
         "url": "https://www.bloomberg.com/news/articles/2025-08-06/former-tesla-executives-start-automotive-ai-company-densityai",
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRm2SXr2Lta4/v0/1200x799.jpg",
         "publishedAt": "2025-08-06T21:17:55Z",
@@ -123,20 +137,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "cfff144535d9f86cc1a6ff0679be99f5",
-        "title": "Jim Chalmers treads middle path between unions and business on artificial intelligence",
-        "description": "The government is trying to strike the right balance between preventing mass redundancies forced by AI, while also preventing Australia falling behind those countries rapidly embracing the technology.",
-        "content": "It was only last week the prime minister stood in front of three grieving parents to announce YouTube would be included in his social media ban for kids. One father was cradling an urn as he blamed social media for the loss of his daughter.\nIt was a ... [5878 chars]",
-        "url": "https://www.abc.net.au/news/2025-08-07/artificial-intelligence-jim-chalmers-economics-reform-roundtable/105618958",
-        "image": "https://live-production.wcms.abc-cdn.net.au/7c79cdd761d44fad0aabf26d351bc847?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "publishedAt": "2025-08-06T19:00:00Z",
-        "source": {
-            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-            "name": "ABC News",
-            "url": "https://www.abc.net.au"
         }
     }
 ]
