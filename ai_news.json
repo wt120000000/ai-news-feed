@@ -14,6 +14,20 @@
         }
     },
     {
+        "id": "a1a9e562f69123a0da295419e8dd7e9f",
+        "title": "OpenAI launches ChatGPT-5, promises 'PhD level expert' for all users",
+        "description": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
+        "content": "SAN FRANCISCO, Aug 7 (Reuters) – OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.\nOpenAI’s GPT models are the AI tech... [4953 chars]",
+        "url": "https://nypost.com/2025/08/07/tech/openai-launches-chatgpt-5-promises-phd-level-expert-for-all-users/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109325951.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2025-08-07T20:08:17Z",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com"
+        }
+    },
+    {
         "id": "7c7b789ee136f9f8432239c6cbcb450f",
         "title": "The critical groundwork needed to win the AI race",
         "description": "Artificial intelligence has become a high-stakes global race that everyone is watching closely. But far from merely leading the race, Saudi Arabia has set out to help design the racetrack. While most countries are debating regulations and scrambling for compute, the Kingdom is building a vertically integrated AI engine at an unprecedented scale, from sovereign data centers and",
@@ -123,20 +137,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "82745545df3b643aa69d36065963b776",
-        "title": "OpenAI releases GPT-5, calling it a ‘team of Ph.D. level experts in your pocket’",
-        "description": "OpenAI on Thursday released the newest version of the artificial intelligence model that powers its popular ChatGPT chatbot, with CEO Sam Altman promoting it as like having a “team of Ph.D.",
-        "content": "OpenAI on Thursday released the newest version of the artificial intelligence model that powers its popular ChatGPT chatbot, with CEO Sam Altman promoting it as like having a “team of Ph.D. level experts in your pocket.”\nThe company said the new mode... [6463 chars]",
-        "url": "https://www.nbcnews.com/tech/tech-news/openai-releases-chatgpt-5-rcna223265",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250805-sam-altman-aa-520-3f10fc.jpg",
-        "publishedAt": "2025-08-07T17:00:00Z",
-        "source": {
-            "id": "77b86639d1384ac68141803ec5db27c0",
-            "name": "NBC News",
-            "url": "https://www.nbcnews.com"
         }
     }
 ]
