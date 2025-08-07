@@ -1,5 +1,19 @@
 [
     {
+        "id": "7c7b789ee136f9f8432239c6cbcb450f",
+        "title": "The critical groundwork needed to win the AI race",
+        "description": "Artificial intelligence has become a high-stakes global race that everyone is watching closely. But far from merely leading the race, Saudi Arabia has set out to help design the racetrack. While most countries are debating regulations and scrambling for compute, the Kingdom is building a vertically integrated AI engine at an unprecedented scale, from sovereign data centers and",
+        "content": "The critical groundwork needed to win the AI race\nJavier Alvarez\nShort Url https://arab.news/vzqhw\nArtificial intelligence has become a high-stakes global race that everyone is watching closely. But far from merely leading the race, Saudi Arabia has ... [4980 chars]",
+        "url": "https://www.arabnews.com/node/2611046",
+        "image": "https://www.arabnews.com/sites/default/files/authors/4628613-javieralvarezseniormanagingdirectortechnologyheadmiddleeastftidelta.png",
+        "publishedAt": "2025-08-07T18:40:09Z",
+        "source": {
+            "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+            "name": "Arab News",
+            "url": "https://www.arabnews.com"
+        }
+    },
+    {
         "id": "ce456bdffe67eb6cb1aee3e2e042cdb5",
         "title": "David Ellison Meets the Press",
         "description": "\"We're ready to move past the noise,\" the CEO said, despite the lobbed questions geared toward Trump, '60 Minutes' independence, artificial intelligence and FCC maneuvering.",
@@ -84,6 +98,20 @@
         }
     },
     {
+        "id": "410dd74976260e3a7d05ef4e3cea1847",
+        "title": "OpenAI Launches More Powerful GPT-5 Model Aimed at Better Coding",
+        "description": "OpenAI is rolling out a more powerful and long-awaited new artificial intelligence model called GPT-5, vying to stay ahead of increased competition from rivals in the US and China.",
+        "content": "OpenAI is rolling out a more powerful and long-awaited new artificial intelligence model called GPT-5, vying to stay ahead of increased competition from rivals in the US and China.\nGPT-5, set to be unveiled during a livestreamed event on Thursday, is... [340 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-07/openai-launches-more-powerful-gpt-5-model-aimed-at-better-coding",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI8Hl20.ax.8/v1/1200x800.jpg",
+        "publishedAt": "2025-08-07T17:00:30Z",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com"
+        }
+    },
+    {
         "id": "82745545df3b643aa69d36065963b776",
         "title": "OpenAI releases GPT-5, calling it a ‘team of Ph.D. level experts in your pocket’",
         "description": "OpenAI on Thursday released the newest version of the artificial intelligence model that powers its popular ChatGPT chatbot, with CEO Sam Altman promoting it as like having a “team of Ph.D.",
@@ -109,34 +137,6 @@
             "id": "8da923084554b2821233d6c5c5f02c97",
             "name": "Fox News",
             "url": "https://www.foxnews.com"
-        }
-    },
-    {
-        "id": "9b32242ce5df6ee17db9eb8ae0d31d32",
-        "title": "Roblox opens up AI system that helps detect predatory language in chats",
-        "description": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
-        "content": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.\nThe move comes as the com... [3756 chars]",
-        "url": "https://apnews.com/article/roblox-grooming-messages-ai-kids-teens-9e9d4131d46b80eead3e57b1110d48eb",
-        "image": "https://dims.apnews.com/dims4/default/9113df2/2147483647/strip/true/crop/3260x1834+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2F10%2Fd0b1b4c70caeffb3279b8a1438b0%2F7fbcab172730411281b76187d7ee3446",
-        "publishedAt": "2025-08-07T16:16:25Z",
-        "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com"
-        }
-    },
-    {
-        "id": "1efde3f0cee7099d9ca1656e070b47d5",
-        "title": "AI is not your friend",
-        "description": "ZURICH, Switzerland — Meta chief Mark Zuckerberg and OpenAI’s Sam Altman have been aggressively promoting the idea that everyone, children included, should form relationships with artificial intelligence (AI) “friends” or “companions.” Meanwhile, multinational tech companies are pushing the concept of “AI agents” designed to assist us in our personal and professional lives, handle routine tasks and guide decision-making.",
-        "content": "ZURICH, Switzerland — Meta chief Mark Zuckerberg and OpenAI’s Sam Altman have been aggressively promoting the idea that everyone, children included, should form relationships with artificial intelligence (AI) “friends” or “companions.” Meanwhile, mul... [5577 chars]",
-        "url": "https://www.manilatimes.net/2025/08/08/opinion/world/ai-is-not-your-friend/2164169",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-08-07T16:02:00Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
         }
     }
 ]
