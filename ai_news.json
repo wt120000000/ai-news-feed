@@ -1,5 +1,47 @@
 [
     {
+        "id": "9b8835c9f13ce5e5f0d5fd0477af8eaf",
+        "title": "Scientists want to prevent AI from going rogue by teaching it to be bad first",
+        "description": "Researchers are trying to “vaccinate” artificial intelligence systems against developing evil, overly flattering or otherwise harmful personality traits in a seemingly counterintuitive way: by giving them a small dose of those problematic traits.",
+        "content": "Researchers are trying to “vaccinate” artificial intelligence systems against developing evil, overly flattering or otherwise harmful personality traits in a seemingly counterintuitive way: by giving them a small dose of those problematic traits.\nA n... [5696 chars]",
+        "url": "https://www.nbcnews.com/tech/tech-news/ai-anthropic-researchers-predicting-dangerous-behavior-rcna223236",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250806-ai-evil-lr-d5ab93.jpg",
+        "publishedAt": "2025-08-07T09:00:00Z",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com"
+        }
+    },
+    {
+        "id": "859f2f01432988b1e43db6719640e208",
+        "title": "Japan tech giant SoftBank Group sees better fortunes on surging AI stocks",
+        "description": "Japanese technology conglomerate SoftBank Group has reported a $2.9 billion profit for the April-June quarter, rebounding from a loss a year earlier, as its investments benefited from the craze for artificial intelligence.",
+        "content": "FILE - The logo of Japanese mobile provider SoftBank is seen at its shop in Tokyo on June 14, 2018. (AP Photo/Shuji Kajiyama, File)\nTOKYO – Japanese technology conglomerate SoftBank Group Corp. posted a 421.8 billion yen ($2.9 billion) profit in the ... [1558 chars]",
+        "url": "https://www.clickondetroit.com/tech/2025/08/07/japan-tech-giant-softbank-group-sees-better-fortunes-on-surging-ai-stocks/",
+        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/KW7RZLVEHVD3ZKHO2UU7R4MKB4.jpg?_a=DATAg1eAZAA0",
+        "publishedAt": "2025-08-07T08:51:46Z",
+        "source": {
+            "id": "35515662ec044d3f94b543cd8802d63f",
+            "name": "WDIV ClickOnDetroit",
+            "url": "https://www.clickondetroit.com"
+        }
+    },
+    {
+        "id": "4d6687841c8e748d30301291b924e13f",
+        "title": "Google Pledges $1 Billion For AI Training At US Universities, Aims To Expand Globally",
+        "description": "In a strategic move, Alphabet Inc (NASDAQ: GOOGL) (NASDAQ: GOOG) subsidiary Google has committed $1 billion to provide artificial intelligence (AI) offering educational resources and technical assistance to U.S. colleges and nonprofits.",
+        "content": "In a strategic move, Alphabet Inc. GOOGL GOOG subsidiary Google has committed $1 billion to provide artificial intelligence (AI) offering educational resources and technical assistance to U.S. colleges and nonprofits.\nCash Funding, Advanced Gemini, C... [2540 chars]",
+        "url": "https://www.benzinga.com/news/education/25/08/46954239/google-pledges-1-billion-for-ai-training-at-us-universities-aims-to-expand-globally",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/08/07/Google-Logo-At-The-Entrance-Of-Its-Headq.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-08-07T08:45:00Z",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com"
+        }
+    },
+    {
         "id": "0d2d96b656e9368a82deefe3a7d9b66c",
         "title": "China's new AI threat: Companies collecting data for influence campaign from Hong Kong to US",
         "description": "China is increasingly using artificial intelligence to shape public opinion and expand its global influence, according to a new report based on insights from current and former US officials. A state-linked company, GoLaxy, has been at the center of these efforts.",
@@ -84,20 +126,6 @@
         }
     },
     {
-        "id": "360a82b6d1acc4e17a60c13e89dba0cd",
-        "title": "Shares in South Korean chipmaker SK Hynix tumble on US tariffs",
-        "description": "SEOUL (Reuters) -Shares in South Korean chipmaker SK Hynix fell 3.1% in early Thursday trade, after President Donald Trump said the U.S. will impose a tariff of about 100% on chips. SK Hynix supplies Nvidia with chips called high-bandwidth memory used in artificial intelligence chipsets. Trump said on Wednesday the United States will impose a tariff of about 100% on semiconductors imported from countries not producing in the U.S. or planning to do so.",
-        "content": "The logos of SK Hynix is seen at its headquarters in Seongnam\nSEOUL (Reuters) -Shares in South Korean chipmaker SK Hynix fell 3.1% in early Thursday trade, after President Donald Trump said the U.S. will impose a tariff of about 100% on chips.\nSK Hyn... [616 chars]",
-        "url": "https://sg.news.yahoo.com/shares-south-korean-chipmaker-sk-004633229.html",
-        "image": "https://media.zenfs.com/en/reuters.com/ae0fdb21f31f6a0d0cc8ef2dfdb72fbf",
-        "publishedAt": "2025-08-07T00:46:33Z",
-        "source": {
-            "id": "f6d6ee1134197fe1441d65a3e7915835",
-            "name": "Yahoo Singapore News",
-            "url": "https://sg.news.yahoo.com"
-        }
-    },
-    {
         "id": "445f19334c8dffc2ea24e9af74b2ae61",
         "title": "Shares in South Korean chipmaker SK Hynix tumble on US tariffs",
         "description": "SEOUL (Reuters) -Shares in South Korean chipmaker SK Hynix fell 3.1% in early Thursday trade, after President Donald Trump said the U.S. will impose a tariff of about 100% on chips. SK Hynix supplies Nvidia with chips called high-bandwidth memory used in artificial intelligence chipsets. Trump said on Wednesday the United States will impose a tariff of about 100% on semiconductors imported from countries not producing in the U.S. or planning to do so.",
@@ -109,34 +137,6 @@
             "id": "f6d6ee1134197fe1441d65a3e7915835",
             "name": "Yahoo Singapore News",
             "url": "https://sg.news.yahoo.com"
-        }
-    },
-    {
-        "id": "8fd10c6d55d446ac0d4a32a64359ebc3",
-        "title": "Google to spend $1 billion on AI education and job training in the U.S.",
-        "description": "Google is partnering with colleges to give students free access to its artificial intelligence tools.",
-        "content": "AI has led to more than 10,000 job cuts this year, new report shows\nGoogle said it will provide U.S. colleges and universities with $1 billion worth of artificial intelligence education and job training tools, the company announced Wednesday.\nThe thr... [2754 chars]",
-        "url": "https://www.cbsnews.com/news/google-ai-education-college-job-training-1-billion/",
-        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/06/014a75fd-e588-40c6-bc8f-d092da38a949/thumbnail/1200x630/8966272ae1ba273821d0cbd0418dcd43/gettyimages-2226280945.jpg",
-        "publishedAt": "2025-08-06T21:29:21Z",
-        "source": {
-            "id": "3a3847d645a619320aa3b3484581e395",
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com"
-        }
-    },
-    {
-        "id": "44faaa7324698a884214dda00f561271",
-        "title": "Former Tesla Leaders Start AI-Focused Automotive Company",
-        "description": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on data center services for industries from automotive to robotics, according to people familiar with the matter.",
-        "content": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on data center services for industries from automotive to robotics, according to people familiar with the matter.\nDensityAI, which is pois... [311 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-06/former-tesla-executives-start-automotive-ai-company-densityai",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRm2SXr2Lta4/v0/1200x799.jpg",
-        "publishedAt": "2025-08-06T21:17:55Z",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com"
         }
     }
 ]
