@@ -42,6 +42,20 @@
         }
     },
     {
+        "id": "e3275b067fd35d6637708248fdb5f483",
+        "title": "DeepSeek Vs OpenAI | Microsoft And Openai Probe Unauthorized Data Access Linked To Deepseek Ai |N18G",
+        "description": "Microsoft Corp. and OpenAI are investigating whether data output from OpenAI’s technology was obtained in an unauthorized manner by a group linked to Chinese artificial intelligence startup DeepSeek, according to people familiar with the matter.Microsoft’s security researchers in the fall observed individuals they believe may be linked to DeepSeek exfiltrating a large amount of data using the OpenAI application programming interface, or API, said the people, who asked not to be identified because the matter is confidential. Software developers can pay for a license to use the API to integrate OpenAI’s proprietary artificial intelligence models into their own applications. News18 Mobile App - https://onelink.to/desc-youtube",
+        "content": "Last Updated: January 29, 2025, 21:13 IST Tech\nMicrosoft Corp. and OpenAI are investigating whether data output from OpenAI’s technology was obtained in an unauthorized manner by a group linked to Chinese artificial intelligence startup DeepSeek, acc... [529 chars]",
+        "url": "https://www.news18.com/videos/tech/deepseek-vs-openai-microsoft-and-openai-probe-unauthorized-data-access-linked-to-deepseek-ai-n18g-9207303.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2025/01/1738165562_1d8cd3a1-08d8-437f-b82d-3bd8bc3d99c1-16x9.jpeg",
+        "publishedAt": "2025-08-08T18:30:00Z",
+        "source": {
+            "id": "ca84296ef941bfa461f4239a2290cb99",
+            "name": "News18",
+            "url": "https://www.news18.com"
+        }
+    },
+    {
         "id": "d5b71ccfbc035cbc0a36fa105e268644",
         "title": "Our ChatGPT Overlords Have an Update",
         "description": "OpenAI on Thursday released the fifth generation of the artificial intelligence technology that powers ChatGPT, a product update that's being closely watched as a measure...",
@@ -53,6 +67,20 @@
             "id": "51aadd014176eb61b32255e2791b7207",
             "name": "Newser",
             "url": "https://www.newser.com"
+        }
+    },
+    {
+        "id": "cb4555c3bc7e62449da051b53286c73d",
+        "title": "WATCH: How to buy plane tickets in the AI era",
+        "description": "Delta is using artificial intelligence to help set some airfare prices. That has sparked fears that the airline, or any airline in the future, could create a custom price for you, using your data to find how much you would be willing to pay for a ticket.",
+        "content": "Delta is using artificial intelligence to help set some airfare prices. That has sparked fears that the airline, or any airline in the future, could create a custom price for you, using your data to find how much you would be willing to pay for a tic... [678 chars]",
+        "url": "https://www.pbs.org/newshour/nation/watch-how-to-buy-plane-tickets-in-the-ai-era",
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/2015-11-24T120000Z_1415348395_GF20000071397_RTRMADP_3_USA-TRANSPORT-1024x682.jpg",
+        "publishedAt": "2025-08-08T17:31:28Z",
+        "source": {
+            "id": "31177620c1e6e610b5d2b67916ed3615",
+            "name": "PBS News",
+            "url": "https://www.pbs.org/newshour"
         }
     },
     {
@@ -109,34 +137,6 @@
             "id": "17d7c2645f485578130862e0c8dd9480",
             "name": "The Mercury News",
             "url": "https://www.mercurynews.com"
-        }
-    },
-    {
-        "id": "2c20790750e72da0309ede96dd67a4c5",
-        "title": "This US state is now dishing out $10,000 fines if AI is used for therapy",
-        "description": "Illinois has become the first US state to enact legislation banning artificial intelligence from offering mental health advice, with fines of up to $10,000 for those in violation. The new law, under the Wellness and Oversight for Psychological Resources (WOPR) Act, was signed by Governor JB Pritzker earlier this week...",
-        "content": "Illinois has become the first US state to enact legislation banning artificial intelligence from offering mental health advice, with fines of up to $10,000 for those in violation. The new law, under the Wellness and Oversight for Psychological Resour... [2189 chars]",
-        "url": "https://www.indy100.com/news/illinois-ai-therapy-mental-health-fines",
-        "image": "https://www.indy100.com/media-library/image.png?id=61442517&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
-        "publishedAt": "2025-08-08T13:33:26Z",
-        "source": {
-            "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
-            "name": "indy100",
-            "url": "https://www.indy100.com"
-        }
-    },
-    {
-        "id": "b6c3334abbd4b6f70e650b0dd46c1faf",
-        "title": "Why Tesla's latest move could be a boon for Nvidia, AMD",
-        "description": "Tesla's move to shut down its Dojo supercomputer team likely increases its usage of general purpose GPUs for artificial intelligence, Wells Fargo said.",
-        "content": "The end of Tesla 's own artificial intelligence supercomputer efforts — when it was developing its own chips — means Elon Musk's company will become an even bigger customer for major chipmakers, according to Wells Fargo. Analyst Aaron Rakers highligh... [2380 chars]",
-        "url": "https://www.cnbc.com/2025/08/08/why-teslas-latest-move-could-be-a-boon-for-nvidia-amd.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108176644-1753384811496-gettyimages-2226854082-dji_20250724133334_0492_d_ndwbjfha.jpeg?v=1754668422&w=1920&h=1080",
-        "publishedAt": "2025-08-08T13:00:10Z",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com"
         }
     }
 ]
