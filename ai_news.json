@@ -1,5 +1,19 @@
 [
     {
+        "id": "d5b71ccfbc035cbc0a36fa105e268644",
+        "title": "Our ChatGPT Overlords Have an Update",
+        "description": "OpenAI on Thursday released the fifth generation of the artificial intelligence technology that powers ChatGPT, a product update that's being closely watched as a measure...",
+        "content": "OpenAI on Thursday released the fifth generation of the artificial intelligence technology that powers ChatGPT, a product update that's being closely watched as a measure of whether generative AI is advancing rapidly or hitting a plateau. GPT-5 arriv... [2085 chars]",
+        "url": "https://www.newser.com/story/373227/our-chatgpt-overlords-have-an-update.html",
+        "image": "https://img2-azrcdn.newser.com/image/1627071-12-20250808084401.jpeg",
+        "publishedAt": "2025-08-08T18:23:00Z",
+        "source": {
+            "id": "51aadd014176eb61b32255e2791b7207",
+            "name": "Newser",
+            "url": "https://www.newser.com"
+        }
+    },
+    {
         "id": "c128ea61df17f88673311ecd92a2b2b8",
         "title": "War and peace: New arms race?",
         "description": "MILITARY weapons, and equipment magazines and exhibition brochures summarize trends in preparation for a defensive war as follows: maximizing the military potential of artificial intelligence and the move toward weapons with multi-mission capabilities; advances in robotic and autonomous systems from solely explosive ordnance disposal to wider capabilities such as chemical, biological, radiological, nuclear and explosive detection; unmanned aerial vehicles, unmanned amphibious systems to more flexible counter unmanned systems and how humans can interact with unmanned vehicles.",
@@ -103,7 +117,7 @@
         "description": "Long-unloved nuclear and geothermal are experiencing a boom in interest as data center developers seek carbon-free resources capable of delivering round-the-clock electricity to power artificial intelligence.",
         "content": "Green firms in the US have found something of a lifeline in artificial intelligence after being bogged down by high interest rates, shrinking funding and, more recently, President Donald Trump’s sharp rollback of support.\nClean technology companies t... [427 chars]",
         "url": "https://www.bloomberg.com/news/articles/2025-08-08/ai-money-is-raining-down-on-clean-tech-firms",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/il8g41IXpQmE/v1/1200x800.jpg",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izElsusgbQFc/v1/1200x800.jpg",
         "publishedAt": "2025-08-08T12:00:30Z",
         "source": {
             "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -123,20 +137,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "3ced48de45f657d815e082e50f7b687f",
-        "title": "Business Brief: Canadian companies and the AI reboot",
-        "description": "Not every CEO is thinking about laying off their employees, but they are definitely all thinking about artificial intelligence",
-        "content": "Good morning. Artificial intelligence continues to change the game of business, and this year companies are finding they can get lots of mileage out of tools that may never be 100-per-cent reliable. But while not every CEO is about to shed huge numbe... [6435 chars]",
-        "url": "https://www.theglobeandmail.com/business/article-business-brief-canadian-companies-and-the-ai-reboot/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/J4EPNQ2LGNAX3DFBDDJTVYKU44.jpg?auth=9f91dfe58e6cf2ab945f78d167210f3ccebae1a14259ab6ddfeb3f6083dbeb42&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2025-08-08T11:11:08Z",
-        "source": {
-            "id": "f5081afeaba654292dd91fffd29f9dd4",
-            "name": "The Globe and Mail",
-            "url": "https://www.theglobeandmail.com"
         }
     }
 ]
