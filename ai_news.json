@@ -1,5 +1,19 @@
 [
     {
+        "id": "1ae7cc8654b5f956d8720d6f123dbd56",
+        "title": "Hong Kong Observatory to enhance AI models after record-breaking downpours",
+        "description": "Forecaster pledges to invest in improving artificial intelligence models which predicted development of torrential rainband a week in advance.",
+        "content": "The Hong Kong Observatory has pledged to further develop its artificial intelligence forecasting models to better predict typhoons and rainstorms after producing useful information before the record-breaking downpours earlier this week.\nAdvertisement... [1171 chars]",
+        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3321182/hong-kong-observatory-enhance-ai-models-after-record-breaking-downpours",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/08/08/79130f73-19ad-47e8-b42b-250dd2ebf3a4_d90e4ffb.jpg?itok=R811RQSf&v=1754629639",
+        "publishedAt": "2025-08-08T05:07:21Z",
+        "source": {
+            "id": "d6397b77175680e2678c0d60edcee7af",
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com"
+        }
+    },
+    {
         "id": "c692c90c5113a464613e9465e9804425",
         "title": "OpenAI releases GPT-5, free to users",
         "description": "Open AI announced Thursday the release of GPT-5, the latest and most-advanced iteration of its artificial intelligence technology, which will be free to users.",
@@ -56,6 +70,20 @@
         }
     },
     {
+        "id": "02ee92df8ad7f07d6b786b724c6f0e24",
+        "title": "OpenAI releases GPT-5, free to users",
+        "description": "Aug. 7 (UPI) -- Open AI announced Thursday the release of GPT-5, the latest and most-advanced iteration of its artificial intelligence technology, which",
+        "content": "Aug. 7 (UPI) — Open AI announced Thursday the release of GPT-5, the latest and most-advanced iteration of its artificial intelligence technology, which will be free to users.\nThe company said the program, which underwent 5,000 hours of testing, is sm... [1219 chars]",
+        "url": "https://www.breitbart.com/news/openai-releases-gpt-5-free-to-users/",
+        "image": "https://media.breitbart.com/media/2025/08/wi/upi/openai-offers-federal-agencies-of-chatgpt-openai-offers-federal-agencies-of-chatgpt.jpg",
+        "publishedAt": "2025-08-07T21:25:00Z",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com"
+        }
+    },
+    {
         "id": "13d19bf676207e80d092f470271f2627",
         "title": "Can US Become Robotics Capital of the World?",
         "description": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
@@ -109,34 +137,6 @@
             "id": "95a96a1867c4dac6f720e9d08d4c1b96",
             "name": "New York Post",
             "url": "https://nypost.com"
-        }
-    },
-    {
-        "id": "a1a9e562f69123a0da295419e8dd7e9f",
-        "title": "OpenAI launches ChatGPT-5, promises 'PhD level expert' for all users",
-        "description": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
-        "content": "SAN FRANCISCO, Aug 7 (Reuters) – OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.\nOpenAI’s GPT models are the AI tech... [4953 chars]",
-        "url": "https://nypost.com/2025/08/07/tech/openai-launches-chatgpt-5-promises-phd-level-expert-for-all-users/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109325951.jpg?quality=75&strip=all&w=1024",
-        "publishedAt": "2025-08-07T20:08:17Z",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com"
-        }
-    },
-    {
-        "id": "fefa6f13a8a806c5421c19b80710eea2",
-        "title": "OpenAI launches GPT-5 as the AI industry seeks a return on investment",
-        "description": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
-        "content": "A smartphone with a displayed ChatGPT logo is placed on a computer motherboard in this illustration taken February 23, 2023. REUTERS/Dado Ruvic/Illustration/File Photo Purchase Licensing Rights , opens new tab\nSummary\nCompanies OpenAI touts GPT-5's e... [5612 chars]",
-        "url": "https://www.reuters.com/business/retail-consumer/openai-launches-gpt-5-ai-industry-seeks-return-investment-2025-08-07/",
-        "image": "https://www.reuters.com/resizer/v2/DE764WJDLROJHLQO3WICIVSUXA.jpg?auth=2d17c4832a09a13f1cea75a999a940bc0536ee190dfe774218d742e8146c743f&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-07T19:50:02Z",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com"
         }
     }
 ]
