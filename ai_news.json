@@ -84,6 +84,20 @@
         }
     },
     {
+        "id": "b6c3334abbd4b6f70e650b0dd46c1faf",
+        "title": "Why Tesla's latest move could be a boon for Nvidia, AMD",
+        "description": "Tesla's move to shut down its Dojo supercomputer team likely increases its usage of general purpose GPUs for artificial intelligence, Wells Fargo said.",
+        "content": "The end of Tesla 's own artificial intelligence supercomputer efforts — when it was developing its own chips — means Elon Musk's company will become an even bigger customer for major chipmakers, according to Wells Fargo. Analyst Aaron Rakers highligh... [2380 chars]",
+        "url": "https://www.cnbc.com/2025/08/08/why-teslas-latest-move-could-be-a-boon-for-nvidia-amd.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108176644-1753384811496-gettyimages-2226854082-dji_20250724133334_0492_d_ndwbjfha.jpeg?v=1754668422&w=1920&h=1080",
+        "publishedAt": "2025-08-08T13:00:10Z",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com"
+        }
+    },
+    {
         "id": "6b6c4ff5525e072630919d6737497601",
         "title": "AI Money Is Raining Down on Clean Tech Firms",
         "description": "Long-unloved nuclear and geothermal are experiencing a boom in interest as data center developers seek carbon-free resources capable of delivering round-the-clock electricity to power artificial intelligence.",
@@ -123,20 +137,6 @@
             "id": "f5081afeaba654292dd91fffd29f9dd4",
             "name": "The Globe and Mail",
             "url": "https://www.theglobeandmail.com"
-        }
-    },
-    {
-        "id": "51e27c1bdaaf589798bfcb002ba82e03",
-        "title": "OpenAI launches ChatGPT-5 model for all users: What are the big upgrades from GPT-4?",
-        "description": "OpenAI on Thursday unveiled GPT-5, the latest version of its artificial intelligence (AI) chatbot. Describing it as smarter, faster and ‘a lot more useful’, the company said the model offers improved capabilities in areas like writing, coding and health care. The new ChatGPT version features notable upgrades in reasoning, safety and the way it responds to questions",
-        "content": "OpenAI on Thursday unveiled GPT-5, the latest version of its artificial intelligence (AI) chatbot. Describing it as smarter, faster and ‘a lot more useful’, the company said the model offers improved capabilities in areas like writing, coding and hea... [4609 chars]",
-        "url": "https://www.firstpost.com/explainers/openai-chatgpt-5-model-big-upgrades-from-gpt-4-13922142.html",
-        "image": "https://images.firstpost.com/uploads/2025/08/1-2025-08-df8aedccbd8488916048621d3db5b14b.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2025-08-08T08:07:52Z",
-        "source": {
-            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-            "name": "Firstpost",
-            "url": "https://www.firstpost.com"
         }
     }
 ]
