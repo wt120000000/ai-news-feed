@@ -14,6 +14,20 @@
         }
     },
     {
+        "id": "0c7bf6ff03c5ec2a02f4f93ec2a61016",
+        "title": "OpenAI’s latest step towards advanced artificial intelligence",
+        "description": "Its new model is an update, not a revolution. But it keeps AI on a trajectory with profound implications | Science & technology",
+        "content": "A LMOST TWO decades after the birth of the iPhone, Steve Jobs remains the model for any tech founder seeking to wow the world with their latest product. The launch events he pioneered at Apple, with their mix of showmanship and glamour, seized the wo... [376 chars]",
+        "url": "https://www.economist.com/science-and-technology/2025/08/08/openais-latest-step-towards-advanced-artificial-intelligence",
+        "image": "https://www.economist.com/content-assets/images/20250809_STP506.jpg",
+        "publishedAt": "2025-08-08T19:51:44Z",
+        "source": {
+            "id": "09b0f2a67f91c79490242d295233127e",
+            "name": "The Economist",
+            "url": "https://www.economist.com"
+        }
+    },
+    {
         "id": "b56c1f2c0120d457ddb9eed3a7000133",
         "title": "Nuclear power in a ‘renaissance,’ AtkinsRéalis CEO says",
         "description": "The head of AtkinsRéalis says the Canadian engineering giant is taking advantage of a global shift towards nuclear power, which he believes is key to fulfilling the growing energy needs of artificial intelligence (AI) infrastructure.",
@@ -87,7 +101,7 @@
         "id": "df04a2494d3869df3fd2e395ce0184f2",
         "title": "Meta picks Pimco, Blue Owl for $29 billion data center deal",
         "description": "Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for artificial intelligence infrastructure heats up, according to people with knowledge of the matter.",
-        "content": "(Bloomberg/Carmen Arroyo, Laura Benitez and Kurt Wagner) — Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for a... [2970 chars]",
+        "content": "(Bloomberg/Carmen Arroyo, Laura Benitez and Kurt Wagner) — Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for a... [2914 chars]",
         "url": "https://www.mercurynews.com/2025/08/08/meta-picks-pimco-blue-owl-for-29-billion-data-center-deal/",
         "image": "https://www.mercurynews.com/wp-content/uploads/2025/07/SJM-L-HYDRODATA-07XX-5.jpg?w=1024&h=683",
         "publishedAt": "2025-08-08T15:41:37Z",
@@ -123,20 +137,6 @@
             "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
             "name": "CNBC",
             "url": "https://www.cnbc.com"
-        }
-    },
-    {
-        "id": "6b6c4ff5525e072630919d6737497601",
-        "title": "AI Money Is Raining Down on Clean Tech Firms",
-        "description": "Long-unloved nuclear and geothermal are experiencing a boom in interest as data center developers seek carbon-free resources capable of delivering round-the-clock electricity to power artificial intelligence.",
-        "content": "Green firms in the US have found something of a lifeline in artificial intelligence after being bogged down by high interest rates, shrinking funding and, more recently, President Donald Trump’s sharp rollback of support.\nClean technology companies t... [427 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-08/ai-money-is-raining-down-on-clean-tech-firms",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izElsusgbQFc/v1/1200x800.jpg",
-        "publishedAt": "2025-08-08T12:00:30Z",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com"
         }
     }
 ]
