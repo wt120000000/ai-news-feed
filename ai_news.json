@@ -1,5 +1,19 @@
 [
     {
+        "id": "c692c90c5113a464613e9465e9804425",
+        "title": "OpenAI releases GPT-5, free to users",
+        "description": "Open AI announced Thursday the release of GPT-5, the latest and most-advanced iteration of its artificial intelligence technology, which will be free to users.",
+        "content": "OpenAI creator Sam Altman and other leaders in artificial intelligence testify before the Senate Commerce, Science, and Transportation Committee on Capitol Hill in May in Washington, DC. The company released its latest version of the program, GPT-5, ... [1549 chars]",
+        "url": "https://www.upi.com/Top_News/US/2025/08/07/OpenAI-releases-GPT-5/2931754622135/",
+        "image": "https://cdnph.upi.com/sv/ph/og/upi/2931754622135/2025/1/6ca7bc987fd34d1ad82ce7e3cb47a565/v1.5/OpenAI-releases-GPT-5-free-to-users.jpg",
+        "publishedAt": "2025-08-08T03:23:00Z",
+        "source": {
+            "id": "79baacd62152cf257ee35e8c0bec19a2",
+            "name": "UPI News",
+            "url": "https://www.upi.com"
+        }
+    },
+    {
         "id": "3077fedb4d9cdf80ac544e0df54495d2",
         "title": "Release of ChatGPT-5 'Beginning of a New Era For Humanity'",
         "description": "OpenAI released a keenly awaited new generation of its hallmark ChatGPT on Thursday, touting \"significant\" advancements in artificial intelligence capabilities as a global race over the technology accelerates.",
@@ -39,6 +53,20 @@
             "id": "2f5884e252590f739df55c0e7db375df",
             "name": "WJLA",
             "url": "https://wjla.com"
+        }
+    },
+    {
+        "id": "13d19bf676207e80d092f470271f2627",
+        "title": "Can US Become Robotics Capital of the World?",
+        "description": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
+        "content": "Divided as we might be, let's face it: America and much of the world quickly fell in love with C-3PO, the humanoid robot character who appears in every Skywalker \"Star Wars\" movie as well as in television series, novels, comics, and video games.\nC-3P... [5820 chars]",
+        "url": "https://www.newsmax.com/dugganflanakin/david-sacks-ai-elon-musk/2025/08/06/id/1221530/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=6bdc94c3-1f5f-4940-8924-1a0f91b74c2c&SiteName=Newsmax",
+        "publishedAt": "2025-08-07T21:02:23Z",
+        "source": {
+            "id": "a8984f03fe66dae9745793f6560aa444",
+            "name": "Newsmax",
+            "url": "https://www.newsmax.com"
         }
     },
     {
@@ -109,34 +137,6 @@
             "id": "da5c26287bdd02563a2c32b55cb12051",
             "name": "Reuters",
             "url": "https://www.reuters.com"
-        }
-    },
-    {
-        "id": "7c7b789ee136f9f8432239c6cbcb450f",
-        "title": "The critical groundwork needed to win the AI race",
-        "description": "Artificial intelligence has become a high-stakes global race that everyone is watching closely. But far from merely leading the race, Saudi Arabia has set out to help design the racetrack. While most countries are debating regulations and scrambling for compute, the Kingdom is building a vertically integrated AI engine at an unprecedented scale, from sovereign data centers and",
-        "content": "The critical groundwork needed to win the AI race\nJavier Alvarez\nShort Url https://arab.news/vzqhw\nArtificial intelligence has become a high-stakes global race that everyone is watching closely. But far from merely leading the race, Saudi Arabia has ... [4980 chars]",
-        "url": "https://www.arabnews.com/node/2611046",
-        "image": "https://www.arabnews.com/sites/default/files/authors/4628613-javieralvarezseniormanagingdirectortechnologyheadmiddleeastftidelta.png",
-        "publishedAt": "2025-08-07T18:40:09Z",
-        "source": {
-            "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
-            "name": "Arab News",
-            "url": "https://www.arabnews.com"
-        }
-    },
-    {
-        "id": "794cca83f804c1d6fae8fd56f0d0e097",
-        "title": "Core Scientific's largest shareholder to vote against sale to CoreWeave",
-        "description": "The investment management firm owns roughly 6.3% of the crypto miner and said the sale \"materially undervalues\" Core Scientific and unnecessarily exposes its shareholders to substantial economic risk. \"We do not believe this transaction should receive shareholder approval,\" it said. CoreWeave announced its intention to buy Core Scientific last month in an all-stock deal, as it seeks to tap into more data center capacity in order to meet growing demand for artificial intelligence services.",
-        "content": "Core Scientific's largest shareholder to vote against sale to CoreWeave\nFILE PHOTO: CoreWeave's logo is seen in New York\n(Reuters) -Two Seas Capital, the largest shareholder of Core Scientific, issued an open letter on Thursday saying it would vote a... [2003 chars]",
-        "url": "https://sg.news.yahoo.com/core-scientifics-largest-shareholder-vote-175056597.html",
-        "image": "https://media.zenfs.com/en/reuters.com/1ea410d19c8f43e477914742c448f49e",
-        "publishedAt": "2025-08-07T17:50:56Z",
-        "source": {
-            "id": "f6d6ee1134197fe1441d65a3e7915835",
-            "name": "Yahoo Singapore News",
-            "url": "https://sg.news.yahoo.com"
         }
     }
 ]
