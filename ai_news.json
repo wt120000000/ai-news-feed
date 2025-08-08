@@ -1,5 +1,19 @@
 [
     {
+        "id": "2c20790750e72da0309ede96dd67a4c5",
+        "title": "This US state is now dishing out $10,000 fines if AI is used for therapy",
+        "description": "Illinois has become the first US state to enact legislation banning artificial intelligence from offering mental health advice, with fines of up to $10,000 for those in violation. The new law, under the Wellness and Oversight for Psychological Resources (WOPR) Act, was signed by Governor JB Pritzker earlier this week...",
+        "content": "Illinois has become the first US state to enact legislation banning artificial intelligence from offering mental health advice, with fines of up to $10,000 for those in violation. The new law, under the Wellness and Oversight for Psychological Resour... [2189 chars]",
+        "url": "https://www.indy100.com/news/illinois-ai-therapy-mental-health-fines",
+        "image": "https://www.indy100.com/media-library/image.png?id=61442517&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
+        "publishedAt": "2025-08-08T13:33:26Z",
+        "source": {
+            "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
+            "name": "indy100",
+            "url": "https://www.indy100.com"
+        }
+    },
+    {
         "id": "6b6c4ff5525e072630919d6737497601",
         "title": "AI Money Is Raining Down on Clean Tech Firms",
         "description": "Long-unloved nuclear and geothermal are experiencing a boom in interest as data center developers seek carbon-free resources capable of delivering round-the-clock electricity to power artificial intelligence.",
@@ -123,20 +137,6 @@
             "id": "7f6e8514e9d8f8376aaa9a7229861518",
             "name": "PerthNow",
             "url": "https://www.perthnow.com.au"
-        }
-    },
-    {
-        "id": "e0c2f1fe70dc99a5918ba4a45ed6ad79",
-        "title": "‘AI will be better than humans at everything,’ warns former Google executive; says ‘In 15 years, lots of jobs will be lost, including…’",
-        "description": "In a conversation on The Diary of a CEO podcast, he said the rise of Artificial General Intelligence (AGI) could wipe out most human jobs within 15 years, with the middle class being hit the hardest.",
-        "content": "Mo Gawdat, the former Chief Business Officer at Google X, has given a blunt prediction about the future of artificial intelligence. In a conversation on The Diary of a CEO podcast, he said the rise of Artificial General Intelligence (AGI) could wipe ... [2408 chars]",
-        "url": "https://indianexpress.com/article/trending/trending-globally/former-google-executive-warns-ai-could-wipe-out-most-jobs-in-15-years-10177179/",
-        "image": "https://images.indianexpress.com/2025/08/AI-4.jpg",
-        "publishedAt": "2025-08-08T05:39:26Z",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com"
         }
     }
 ]
