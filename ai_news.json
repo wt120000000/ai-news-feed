@@ -1,5 +1,19 @@
 [
     {
+        "id": "ec1f30037e8c847f2c8d3acbd041d1a2",
+        "title": "Q&A: What is GPT-5? And should I worry about my job?",
+        "description": "Chatbot creator Open AI claims artificial intelligence model boasts PhD level intelligence but remains a technology in progress",
+        "content": "Open AI's ChatGPT-5 has gone live and is, say its developers, smarter and easier to use. Photograph: Andres Kudacki/The New York Times\nAn incredible on-demand superpower or overhyped tech? The latest artificial intelligence model from Open AI, GPT-5,... [3127 chars]",
+        "url": "https://www.irishtimes.com/technology/2025/08/08/qa-what-is-gpt-5-and-should-i-worry-about-my-job/",
+        "image": "https://www.irishtimes.com/resizer/v2/CEAVY6WUN4D2TSIEWIP5WD5JGA.jpg?smart=true&auth=b2150efaae8e07766e68d9554f8d1c5de5306806d6dd90706abe4558ccbe937c&width=1200&height=630",
+        "publishedAt": "2025-08-08T13:44:00Z",
+        "source": {
+            "id": "dd1d806725f45e4403e75c1bb23b447a",
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com"
+        }
+    },
+    {
         "id": "2c20790750e72da0309ede96dd67a4c5",
         "title": "This US state is now dishing out $10,000 fines if AI is used for therapy",
         "description": "Illinois has become the first US state to enact legislation banning artificial intelligence from offering mental health advice, with fines of up to $10,000 for those in violation. The new law, under the Wellness and Oversight for Psychological Resources (WOPR) Act, was signed by Governor JB Pritzker earlier this week...",
@@ -123,20 +137,6 @@
             "id": "7c666ee953f873d3057b310220f510df",
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "c7db4a7edcb17862f5357ea250b0cf9e",
-        "title": "ChatGPT-5: Rapid advancement of Artificial Intelligence continues but tech still can’t replace people",
-        "description": "As Artificial Intelligence continues to develop at a rapid pace, OpenAI has released a ‘significant’ upgrade with the newest GPT-5 model.",
-        "content": "As Artificial Intelligence continues to develop at a rapid pace, OpenAI has released a “significant” upgrade with the newest GPT-5 model.\nThe newest upgrades claims to have the “best response” times, being “great at coding”, feeling like “an expressi... [2041 chars]",
-        "url": "https://www.perthnow.com.au/news/technology/chatgpt-5-rapid-advancement-of-artificial-intelligence-continues-but-tech-still-cant-replace-people-c-19620050",
-        "image": "https://images.perthnow.com.au/publication/C-19620050/3e75fe542e5fb15fb048f7513259874e9fa7f37b-16x9-x0y2w1280h720.jpg?imwidth=1200",
-        "publishedAt": "2025-08-08T05:43:24Z",
-        "source": {
-            "id": "7f6e8514e9d8f8376aaa9a7229861518",
-            "name": "PerthNow",
-            "url": "https://www.perthnow.com.au"
         }
     }
 ]
