@@ -1,9 +1,37 @@
 [
     {
+        "id": "b0c3cf1d7ba59928b3ea2ac7437674d9",
+        "title": "‘It’s missing something’: AGI, superintelligence and a race for the future",
+        "description": "As US and Chinese tech giants chase artificial general intelligence, experts warn the hype may be outrunning the science",
+        "content": "A significant step forward but not a leap over the finish line. That was how Sam Altman, chief executive of OpenAI, described the latest upgrade to ChatGPT this week.\nThe race Altman was referring to was artificial general intelligence (AGI), a theor... [7411 chars]",
+        "url": "https://www.theguardian.com/technology/2025/aug/09/its-missing-something-agi-superintelligence-and-a-race-for-the-future",
+        "image": "https://i.guim.co.uk/img/media/7ceeb5c1793a2a5c6a1555d5b54229e119bc8e33/2_0_3326_2661/master/3326.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34d6556b9d53c85b577549b1f5d5afc3",
+        "publishedAt": "2025-08-09T13:00:07Z",
+        "source": {
+            "id": "01558c024928d45cf320f6f75eede787",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com"
+        }
+    },
+    {
+        "id": "ffa075a0f124e7f9b369dd0a0dc6607b",
+        "title": "Traders Are Fleeing Stocks Feared to Be Under Threat From AI",
+        "description": "Artificial intelligence’s imprint on US financial markets is unmistakable. Nvidia Corp. is the most valuable company in the world at nearly $4.5 trillion. Startups from OpenAI to Anthropic have raised tens of billions of dollars.",
+        "content": "Artificial intelligence’s imprint on US financial markets is unmistakable. Nvidia Corp. is the most valuable company in the world at nearly $4.5 trillion. Startups from OpenAI to Anthropic have raised tens of billions of dollars.\nBut there’s a downsi... [358 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-09/traders-are-fleeing-stocks-feared-to-be-under-threat-from-ai",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izIxRapN0V28/v1/1200x800.jpg",
+        "publishedAt": "2025-08-09T13:00:01Z",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com"
+        }
+    },
+    {
         "id": "515f71271e8649b82785140a00c446a5",
         "title": "Use of AI to change Bollywood hit’s tragic ending sparks debate",
         "description": "An obsessive lover dies mourning his unrequited love – this has been the cornerstone of Raanjhanaa, a 2013 Bollywood hit that remains popular for its tragic rendition of an all-consuming love, shaping onscreen memories for an entire generation of Indian filmgoers. The Hindi film was also released in Tamil as Ambikapathy that year. But in a new Tamil version of the film, the hero lives on, thanks to artificial intelligence (AI) that was used to change the movie’s ending. Read more at straitstimes.com.",
-        "content": "A release poster for Ambikapathy. The Tamil film, which was originally released in 2013, has been re-released with a new AI-edited ending.\nNEW DELHI – An obsessive lover dies mourning his unrequited love – this has been the cornerstone of Raanjhanaa,... [375 chars]",
+        "content": "A release poster for Ambikapathy. The film, which was originally released in 2013, has been re-released with a new AI-edited ending.\n– An obsessive lover dies mourning his unrequited love – this has been the cornerstone of Raanjhanaa, a 2013 Bollywoo... [360 chars]",
         "url": "https://www.straitstimes.com/asia/south-asia/use-of-ai-to-change-bollywood-hits-tragic-ending-sparks-debate",
         "image": "https://cassette.sphdigital.com.sg/image/straitstimes/102928962dd2df4ed13bf9e050db5d275c4e5be4cd4eddc75e00f8bfc23c8ab7",
         "publishedAt": "2025-08-09T08:10:00Z",
@@ -109,34 +137,6 @@
             "id": "85e5403407038478a5e7d8d100ff8e8f",
             "name": "CP24 Toronto",
             "url": "https://www.cp24.com"
-        }
-    },
-    {
-        "id": "7e02a7df32b0994e5df98177290c58cf",
-        "title": "Tesla Disbands Dojo Supercomputer Team",
-        "description": "In a blow to Tesla’s efforts in artificial intelligence, the company has decided to disband its Dojo supercomputer team. Bloomberg’s Max Chafkin discusses what’s behind the move and how the company will pivot with Caroline Hyde on “Bloomberg Tech.” (Source: Bloomberg)",
-        "content": "00:00\nWhat do you make of this move away from making its own hardware in the AI chip space? I mean, it's it's definitely a setback because Tesla, of course, if somewhat famously likes to make everything that's kind of Elon Musk's whole thing. He's tr... [2288 chars]",
-        "url": "https://www.bloomberg.com/news/videos/2025-08-08/tesla-disbands-dojo-supercomputer-team-video",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i18NbpravOLc/v3/-1x-1.jpg",
-        "publishedAt": "2025-08-08T19:52:43Z",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "0c7bf6ff03c5ec2a02f4f93ec2a61016",
-        "title": "OpenAI’s latest step towards advanced artificial intelligence",
-        "description": "GPT-5 is an update, not a revolution. But revolution may still be on the way | Science & technology",
-        "content": "A LMOST TWO decades after the birth of the iPhone, Steve Jobs remains the model for any tech founder seeking to wow the world with their latest product. The launch events he pioneered at Apple, with their mix of showmanship and glamour, seized the wo... [376 chars]",
-        "url": "https://www.economist.com/science-and-technology/2025/08/08/openais-latest-step-towards-advanced-artificial-intelligence",
-        "image": "https://www.economist.com/content-assets/images/20250809_STP506.jpg",
-        "publishedAt": "2025-08-08T19:51:44Z",
-        "source": {
-            "id": "09b0f2a67f91c79490242d295233127e",
-            "name": "The Economist",
-            "url": "https://www.economist.com"
         }
     }
 ]
