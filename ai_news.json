@@ -1,5 +1,19 @@
 [
     {
+        "id": "936ca5ed2a7b661ab5846144489fe84d",
+        "title": "Nasdaq ends at record high as U.S. stocks post solid gains",
+        "description": "The Nasdaq posted a second straight record Friday as U.S. equities concluded a winning week on an upbeat note amid optimism over artificial intelligence and less uncertainty over trade policy.",
+        "content": "The Nasdaq MarketSite in New York, US, on Friday, April 4, 2025.\nThe Nasdaq posted a second straight record Friday as U.S. equities concluded a winning week on an upbeat note amid optimism over artificial intelligence and less uncertainty over trade ... [1326 chars]",
+        "url": "https://www.cp24.com/news/money/2025/08/08/nasdaq-ends-at-record-high-as-us-stocks-post-solid-weekly-gains/",
+        "image": "https://www.cp24.com/resizer/v2/DPLZT4PAHJBGMBV7CJX22NTQGA.jpg?smart=true&auth=2b193c24a8a40b64b6c6edaffcc99e45b34be6e162d0253d209e03b42e3e59db&width=1200&height=630",
+        "publishedAt": "2025-08-08T23:51:40Z",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com"
+        }
+    },
+    {
         "id": "7e02a7df32b0994e5df98177290c58cf",
         "title": "Tesla Disbands Dojo Supercomputer Team",
         "description": "In a blow to Tesla’s efforts in artificial intelligence, the company has decided to disband its Dojo supercomputer team. Bloomberg’s Max Chafkin discusses what’s behind the move and how the company will pivot with Caroline Hyde on “Bloomberg Tech.” (Source: Bloomberg)",
@@ -16,7 +30,7 @@
     {
         "id": "0c7bf6ff03c5ec2a02f4f93ec2a61016",
         "title": "OpenAI’s latest step towards advanced artificial intelligence",
-        "description": "Its new model is an update, not a revolution. But it keeps AI on a trajectory with profound implications | Science & technology",
+        "description": "GPT-5 is an update, not a revolution. But revolution may still be on the way | Science & technology",
         "content": "A LMOST TWO decades after the birth of the iPhone, Steve Jobs remains the model for any tech founder seeking to wow the world with their latest product. The launch events he pioneered at Apple, with their mix of showmanship and glamour, seized the wo... [376 chars]",
         "url": "https://www.economist.com/science-and-technology/2025/08/08/openais-latest-step-towards-advanced-artificial-intelligence",
         "image": "https://www.economist.com/content-assets/images/20250809_STP506.jpg",
@@ -123,20 +137,6 @@
             "id": "7c666ee953f873d3057b310220f510df",
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "df04a2494d3869df3fd2e395ce0184f2",
-        "title": "Meta picks Pimco, Blue Owl for $29 billion data center deal",
-        "description": "Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for artificial intelligence infrastructure heats up, according to people with knowledge of the matter.",
-        "content": "(Bloomberg/Carmen Arroyo, Laura Benitez and Kurt Wagner) — Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for a... [2914 chars]",
-        "url": "https://www.mercurynews.com/2025/08/08/meta-picks-pimco-blue-owl-for-29-billion-data-center-deal/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2025/07/SJM-L-HYDRODATA-07XX-5.jpg?w=1024&h=683",
-        "publishedAt": "2025-08-08T15:41:37Z",
-        "source": {
-            "id": "17d7c2645f485578130862e0c8dd9480",
-            "name": "The Mercury News",
-            "url": "https://www.mercurynews.com"
         }
     }
 ]
