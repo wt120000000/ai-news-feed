@@ -98,6 +98,20 @@
         }
     },
     {
+        "id": "da41ac290fc3beed0baca18eead13318",
+        "title": "OpenAI’s $500 billion ambition puts it in elite club-and in the crosshairs",
+        "description": "OpenAI’s soaring valuation masks a high-stakes battle against other artificial intelligence startups, Big Tech, and a complicated partnership with its main backer, Microsoft.",
+        "content": "Just a week after OpenAI secured fresh funding at a $300-billion valuation, reports emerged of potential share sales at $500 billion. If it goes through, that kind of valuation would place OpenAI among only around 20 companies valued at over half a t... [4616 chars]",
+        "url": "https://www.livemint.com/ai/openai-rivals-ai-startups-big-tech-microsoft-11754800079641.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/08/10/1600x900/AI-DEEPSEEK-12_1740715682614_1754803721524.jpg",
+        "publishedAt": "2025-08-09T18:30:00Z",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com"
+        }
+    },
+    {
         "id": "efe5260ccea90403e7335f86ad0e01bb",
         "title": "Dark AI: The technology of cyber-evil",
         "description": "DANANG, Vietnam — Artificial intelligence (AI) is currently the most powerful and accessible technology since the invention of the personal computer. That same power and accessibility are now being used for cybercrimes, made available by programmers hidden deep in the dark web for malicious, unethical, or unauthorized purposes.",
@@ -123,20 +137,6 @@
             "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
             "name": "indy100",
             "url": "https://www.indy100.com"
-        }
-    },
-    {
-        "id": "14800906c9d4a03ed2959410c605156e",
-        "title": "Election Commission removes digital draft voter lists in Bihar",
-        "description": "Data on digital rolls can be extracted and organised quickly using computer programmes and artificial intelligence tools.",
-        "content": "The Election Commission on Saturday replaced the digital draft voter lists in Bihar with scanned images of the voter lists on its official websites.\nThe digital draft lists are machine-readable and easier to analyse for errors and patterns on a large... [4250 chars]",
-        "url": "https://scroll.in/latest/1085399/election-commission-removes-digital-draft-voter-lists-in-bihar",
-        "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/208122-rxvkhsijpr-1751471953.jpg",
-        "publishedAt": "2025-08-09T13:17:00Z",
-        "source": {
-            "id": "41ffcb0a7e770544afd8def89d1e0674",
-            "name": "Scroll.in",
-            "url": "https://scroll.in"
         }
     }
 ]
