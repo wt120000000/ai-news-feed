@@ -1,5 +1,33 @@
 [
     {
+        "id": "2d3ea5c2204898d32930e956d87e3ef2",
+        "title": "GitHub CEO Thomas Dohmke steps down to launch new startup",
+        "description": "Thomas Dohmke is leaving GitHub at the end of the year, closing a chapter that saw the Microsoft-owned platform double down on artificial intelligence and grow its global footprint, Axios said in an exclusive report. His next move? Going back to his roots as a founder. \"GitHub CEO Thomas Dohmke announced Monday that he plans",
+        "content": "Thomas Dohmke is leaving GitHub at the end of the year, closing a chapter that saw the Microsoft-owned platform double down on artificial intelligence and grow its global footprint, Axios said in an exclusive report. His next move? Going back to his ... [2109 chars]",
+        "url": "https://techstartups.com/2025/08/11/github-ceo-thomas-dohmke-steps-down-to-launch-new-startup-after-ai-driven-tenure/",
+        "image": "https://techstartups.com/wp-content/uploads/2025/08/Thomas-Dohmke.jpg",
+        "publishedAt": "2025-08-11T20:08:51Z",
+        "source": {
+            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+            "name": "TechStartups.com",
+            "url": "https://techstartups.com"
+        }
+    },
+    {
+        "id": "14ceb1a9287eaefdd667b7950d1a9164",
+        "title": "Bitcoin-Miner MARA Said to Near $168 Million Deal for EDF Unit",
+        "description": "MARA Holdings Inc. is in advanced talks to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider, according to people familiar with the matter.",
+        "content": "MARA Holdings Inc. is in advanced talks to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider, according to people familia... [496 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-11/bitcoin-miner-mara-said-to-near-168-million-deal-for-edf-unit",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijB6r.LjfVIw/v0/1200x800.jpg",
+        "publishedAt": "2025-08-11T20:03:22Z",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com"
+        }
+    },
+    {
         "id": "db1487e4fd91c55e9eb90600c216c0c1",
         "title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
         "description": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness American artificial intelligence capabilities to supercharge its military.",
@@ -99,7 +127,7 @@
     },
     {
         "id": "e55b95c01c5974fc2cf4c40fbccfccf3",
-        "title": "Medicare Update: Lawmakers Sound Alarm About Major Change to Program",
+        "title": "Medicare Update: Major Change Sparks Alarm from Lawmakers",
         "description": "The new model incorporates artificial intelligence to help make decisions and is being tested in six states beginning in January.",
         "content": "Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.\nNewsweek AI is in beta. Translations may contain inaccuracies—please refer to the original content.\nMore than a dozen House D... [6150 chars]",
         "url": "https://www.newsweek.com/medicare-update-lawmakers-sound-alarm-about-major-change-program-2111784",
@@ -109,34 +137,6 @@
             "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
             "name": "Newsweek",
             "url": "https://www.newsweek.com"
-        }
-    },
-    {
-        "id": "139d83bdbb40140dc3bb76fe4d7b41e8",
-        "title": "Hollywood Rocked by Amazon-Backed AI Tool, Showrunner, that Allows Viewers to Create Their Own Shows",
-        "description": "Filmmakers, educators, and other entertainment industry professionals are reacting in alarm at a new Amazon-backed tool that will allow viewers to create their own TV shows using an artificial intelligence system called Showrunner.",
-        "content": "Filmmakers, educators, and other entertainment industry professionals are reacting in alarm at a new Amazon-backed tool that will allow viewers to create their own TV shows using an artificial intelligence system called Showrunner.\nFable, a company b... [3002 chars]",
-        "url": "https://www.breitbart.com/entertainment/2025/08/11/hollywood-artists-blasting-amazon-backed-ai-tool-that-allows-viewers-to-create-their-own-shows/",
-        "image": "https://media.breitbart.com/media/2025/08/showrunner-640x335.jpg",
-        "publishedAt": "2025-08-11T14:39:58Z",
-        "source": {
-            "id": "85b540771682043e2a9f294068f5345b",
-            "name": "Breitbart News Network",
-            "url": "https://www.breitbart.com"
-        }
-    },
-    {
-        "id": "1a6ba00d938127da1c5a56c41a83de99",
-        "title": "Artificial intelligence predicts hospital admissions hours earlier in emergency departments",
-        "description": "Artificial intelligence (AI) can help emergency department (ED) teams better anticipate which patients will need hospital admission, hours earlier than is currently possible, according to a multi-hospital study by the Mount Sinai Health System.",
-        "content": "Artificial intelligence (AI) can help emergency department (ED) teams better anticipate which patients will need hospital admission, hours earlier than is currently possible, according to a multi-hospital study by the Mount Sinai Health System.\nBy gi... [4918 chars]",
-        "url": "https://www.news-medical.net/news/20250811/Artificial-intelligence-predicts-hospital-admissions-hours-earlier-in-emergency-departments.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2025-08-11T14:19:00Z",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net"
         }
     }
 ]
