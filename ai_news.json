@@ -1,5 +1,33 @@
 [
     {
+        "id": "aebfabae54c2b94a17665aa818e55db9",
+        "title": "Hong Kong allowing listing applicants more privacy sparks wave of confidential filings",
+        "description": "HONG KONG (Reuters) -At least two dozen Chinese companies have confidentially filed for listing in Hong Kong this year and more are preparing to do so, two industry sources said, following a new rule permitting private filings at a time of heightened market volatility. The Hong Kong exchange's rule for U.S.-style confidential filings, which allows certain companies to keep their business plans and financials under wraps in the initial stages of their stock market debut process, was implemented in May. Chinese companies, including autonomous driving firm Zelos Tech and artificial intelligence (AI) startup MiniMax, have filed confidentially in recent months to get themselves listed in the city, according to separate sources.",
+        "content": "FILE PHOTO: Guests pose for photos during companies' listing ceremonies at the Hong Kong Stock Exchange in Hong Kong\nBy Julie Zhu, Selena Li and Kane Wu\nHONG KONG (Reuters) -At least two dozen Chinese companies have confidentially filed for listing i... [4511 chars]",
+        "url": "https://sg.news.yahoo.com/hong-kong-allowing-listing-applicants-114654899.html",
+        "image": "https://media.zenfs.com/en/reuters.com/fc32f02df7345e497bbef0c622388637",
+        "publishedAt": "2025-08-11T11:46:54Z",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com"
+        }
+    },
+    {
+        "id": "e2611ccbbf8599d5fe95829769bc7cf5",
+        "title": "New government review committee in talks with firms to broaden and deepen AI adoption",
+        "description": "SINGAPORE – A new government committee set up to harness technology to drive economic growth has started talking to businesses here about how artificial intelligence (AI) use can be broadened and deepened.",
+        "content": "Minister for Digital Development and Information Josephine Teo (second from right) and Senior Parliamentary Secretary for Culture, Community and Youth Goh Hanyan (left) looking at live demonstrations of AI technologies transforming finance and supply... [4477 chars]",
+        "url": "https://sg.news.yahoo.com/government-review-committee-talks-firms-111500324.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/Yjc_gnEIa4sdvKg.fpmx2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/straits_times_442/8f74fa45c1de7ba260895e38177a9344",
+        "publishedAt": "2025-08-11T11:15:00Z",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com"
+        }
+    },
+    {
         "id": "943e89f0193715a0119108081e0addfd",
         "title": "Indonesia eyes 'sovereign AI fund' to drive development, document shows",
         "description": "JAKARTA (Reuters) -Authorities overseeing the development of artificial intelligence in Indonesia have proposed a \"sovereign AI fund\" to finance the archipelago's ambitions to become a regional hub for the fast-growing technology, a government document showed. Last month, Reuters reported that Southeast Asia's largest economy would release its first national roadmap on AI in a bid to attract foreign investment as it looks to join the global AI and chip-making race. The Indonesia strategy, released in the form of a 179-page white paper seen by Reuters, recommends, among other things, a sovereign AI fund mainly handled by the country's new sovereign wealth fund Danantara Indonesia, which controls over $900 billion in assets.",
@@ -109,34 +137,6 @@
             "id": "9290338c23f31e3f547a2dbfa1c52c03",
             "name": "Scientific American",
             "url": "https://www.scientificamerican.com"
-        }
-    },
-    {
-        "id": "b9da9ee0e09e23abaad012bcc17b7eca",
-        "title": "Meta And Microsoft Are Betting Big On AI - So Is The C-Suite",
-        "description": "Like Meta and Microsoft, CxOs are fast-tracking artificial intelligence not as a future play, but as a present-day growth lever.",
-        "content": "Data from Forbes Research shows that investment in artificial intelligence is increasing as CxOs tie its inclusion to growth. Getty Creative\nMeta and Microsoft just posted strong earnings, and a common thread is clear: aggressive investment in AI. Fr... [1641 chars]",
-        "url": "https://www.forbes.com/sites/forbes-research/2025/08/11/meta-and-microsoft-are-betting-big-on-ai---so-is-the-c-suite/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6893e755dc79ee157c8c3b15/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-08-11T04:00:00Z",
-        "source": {
-            "id": "a0300bc9a6e9d5b317bd6f614767231f",
-            "name": "Forbes",
-            "url": "https://www.forbes.com"
-        }
-    },
-    {
-        "id": "83d9611bb4a1ee013a19efd0645aaee8",
-        "title": "Scalable, secure and smart: ECBT architecture reinvents horticultural data chains",
-        "description": "Among the technologies evaluated, IoT was the most widely adopted, appearing in 45 percent of the studies reviewed. IoT sensors were primarily used for data collection, particularly temperature, humidity, and transport status. Blockchain technology featured in 32 percent of cases, offering immutable data storage, real-time visibility, and smart contract functionality for automated verification. Artificial intelligence and machine learning technologies were used in 23 percent of cases, focusing on predictive analytics, risk scoring, and anomaly detection.",
-        "content": "A new study published in the journal Frontiers in Blockchain details how emerging digital technologies can transform traceability systems in global horticultural supply chains. The study assesses the convergence of edge computing, cloud systems, bloc... [5201 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3533353-scalable-secure-and-smart-ecbt-architecture-reinvents-horticultural-data-chains",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_08_2025_17_46_35_8685686.png?width=920&format=jpeg",
-        "publishedAt": "2025-08-11T02:07:14Z",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com"
         }
     }
 ]
