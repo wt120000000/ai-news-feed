@@ -1,5 +1,19 @@
 [
     {
+        "id": "1c08531e3affd4fedaf832ae993b4030",
+        "title": "Workers are seeking out AI training to prepare for the jobs of tomorrow",
+        "description": "Working professionals and young people are investing in artificial intelligence courses, programs and degrees as the technology promises to transform jobs.",
+        "content": "SAN FRANCISCO — Vicky Fowler, who uses ChatGPT for tasks including writing and brainstorming, asked the chatbot out of curiosity to do something more challenging: program a working calculator. To her surprise, it took just seconds. Discovering how fa... [8234 chars]",
+        "url": "https://www.washingtonpost.com/business/2025/08/11/ai-degree-education/",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RTKUQODDPHKGKIPDNP7YWOMSL4.jpg&w=1440",
+        "publishedAt": "2025-08-11T09:00:00Z",
+        "source": {
+            "id": "f16dc396e088c7c707eabe9d7479e7a2",
+            "name": "The Washington Post",
+            "url": "https://www.washingtonpost.com"
+        }
+    },
+    {
         "id": "ced70477550418ef1237a3b21c3edb63",
         "title": "eToro Leverages AI to Redefine Social Investing",
         "description": "eToro Group Ltd., the trading and investing platform, announced today how the company is harnessing artificial intelligence to redefine social investing.",
@@ -123,20 +137,6 @@
             "id": "c6075ba0dc9d123bb327faaa419d3d07",
             "name": "Motley Fool Australia",
             "url": "https://www.fool.com.au"
-        }
-    },
-    {
-        "id": "df3344085661ce1abe5c81b9cbdf9311",
-        "title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
-        "description": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
-        "content": "The logo of SK Hynix is seen on its product during The 26th Semiconductor Exhibition (SEDEX 2024) in Seoul, South Korea, October 23, 2024. REUTERS/Kim Hong-Ji/File Photo Purchase Licensing Rights , opens new tab\nSummary\nCompanies Custom HBM market to... [3895 chars]",
-        "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-expects-ai-memory-market-grow-30-year-2030-2025-08-10/",
-        "image": "https://www.reuters.com/resizer/v2/EIVOPWF2OJMBBJCSZSVTVQPLVQ.jpg?auth=287bed4d531c75033de3d3c9c54d2507b8a49a4f1105c3c662c4f5e2470e9000&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-10T22:04:39Z",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com"
         }
     }
 ]
