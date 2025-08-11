@@ -1,5 +1,33 @@
 [
     {
+        "id": "6aaf45936130630f68f4a13b830a41bb",
+        "title": "NASA and Google develop an AI medical assistant to be used by astronauts on deep‑space missions",
+        "description": "NASA is testing a new artificial intelligence tool to help keep astronauts healthy during missions without an onboard physician or steady communication with Earth.",
+        "content": "Google and NASA are working on a medical assistant powered by artificial intelligence that could be used for extended trips to the space, starting with its Artemis campaign to return to the moon.\nThe tool, called the Crew Medical Officer Digital Assi... [2951 chars]",
+        "url": "https://indianexpress.com/article/technology/tech-news-technology/nasa-and-google-develop-an-ai-medical-assistant-to-be-used-by-astronauts-on-deep%e2%80%91space-missions-10182252/",
+        "image": "https://images.indianexpress.com/2025/08/NASA.jpg",
+        "publishedAt": "2025-08-11T05:36:59Z",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com"
+        }
+    },
+    {
+        "id": "b9da9ee0e09e23abaad012bcc17b7eca",
+        "title": "Meta And Microsoft Are Betting Big On AI - So Is The C-Suite",
+        "description": "Like Meta and Microsoft, CxOs are fast-tracking artificial intelligence not as a future play, but as a present-day growth lever.",
+        "content": "Data from Forbes Research shows that investment in artificial intelligence is increasing as CxOs tie its inclusion to growth. Getty Creative\nMeta and Microsoft just posted strong earnings, and a common thread is clear: aggressive investment in AI. Fr... [1641 chars]",
+        "url": "https://www.forbes.com/sites/forbes-research/2025/08/11/meta-and-microsoft-are-betting-big-on-ai---so-is-the-c-suite/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6893e755dc79ee157c8c3b15/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-08-11T04:00:00Z",
+        "source": {
+            "id": "a0300bc9a6e9d5b317bd6f614767231f",
+            "name": "Forbes",
+            "url": "https://www.forbes.com"
+        }
+    },
+    {
         "id": "e4c3f948a3e3e2c061e13447919b337f",
         "title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
         "description": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
@@ -109,34 +137,6 @@
             "id": "bce8b9fcd331f3552e3dcf603b83b80e",
             "name": "Business Insider",
             "url": "https://markets.businessinsider.com"
-        }
-    },
-    {
-        "id": "fe0c962294cb82f89f12f1e8ae3e493a",
-        "title": "Nvidia China H20 chips",
-        "description": "Nvidia pushed back Sunday in response to allegations from Chinese state media that its H20 artificial intelligence chips are a national security risk for China.",
-        "content": "Chip giant Nvidia pushed back Sunday in response to allegations from Chinese state media that its H20 artificial intelligence chips are a national security risk for China.\nEarlier in the day, Reuters reported Yuyuan Tantian, an account affiliated wit... [1722 chars]",
-        "url": "https://www.cnbc.com/2025/08/10/nvidia-china-h20-chips.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108180927-1754288633016-gettyimages-2227849607-vcg111562335270.jpeg?v=1754849058&w=1920&h=1080",
-        "publishedAt": "2025-08-10T19:47:28Z",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com"
-        }
-    },
-    {
-        "id": "4812c33fdbf5e7fca3457e33c7986a52",
-        "title": "Bethenny Frankel reveals WILD celebrity matches AI suggested she date… including Jeff Bezos",
-        "description": "Bethenny Frankel has listed the celebrities artificial intelligence suggested she should date in a funny new video.",
-        "content": "Bethenny Frankel revealed the celebrities artificial intelligence suggested she should date in a hilarious new video.\nOn Sunday the 54-year-old media personality took to Instagram to share, 'Someone from my team just sent me the top five matches for ... [3387 chars]",
-        "url": "https://www.dailymail.co.uk/tvshowbiz/article-14987599/Bethenny-Frankel-celebrity-matches-Jeff-Bezos-Leonardo-DiCaprio.html",
-        "image": "https://i.dailymail.co.uk/1s/2025/08/10/17/101085447-0-image-m-39_1754843657255.jpg",
-        "publishedAt": "2025-08-10T18:30:02Z",
-        "source": {
-            "id": "0c9364fff53c0e5a3450947d9a54e795",
-            "name": "Daily Mail Online",
-            "url": "https://www.dailymail.co.uk"
         }
     }
 ]
