@@ -1,5 +1,19 @@
 [
     {
+        "id": "e6386590cd4654b32953b61cd99c5e5d",
+        "title": "Micron Technology raises quarterly results forecast on AI-driven demand",
+        "description": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, due to surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares up 5% before the bell.",
+        "content": "Sanjay Mehrotra, CEO of Micron Technology Inc., holds a chip on the floor at the New York Stock Exchange (NYSE) in New York City, U.S., April 26, 2024. REUTERS/Brendan McDermid/File Photo Purchase Licensing Rights , opens new tab\nAug 11 (Reuters) - M... [934 chars]",
+        "url": "https://www.reuters.com/business/micron-technology-raises-quarterly-results-forecast-ai-driven-demand-2025-08-11/",
+        "image": "https://www.reuters.com/resizer/v2/AAYGEAAVLFJSTMZJQG7NDKPHDA.jpg?auth=f79420cf90935826e27d612f74a186376512be3c9199c5f277dd813c14e31992&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-11T12:17:56Z",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com"
+        }
+    },
+    {
         "id": "aebfabae54c2b94a17665aa818e55db9",
         "title": "Hong Kong allowing listing applicants more privacy sparks wave of confidential filings",
         "description": "HONG KONG (Reuters) -At least two dozen Chinese companies have confidentially filed for listing in Hong Kong this year and more are preparing to do so, two industry sources said, following a new rule permitting private filings at a time of heightened market volatility. The Hong Kong exchange's rule for U.S.-style confidential filings, which allows certain companies to keep their business plans and financials under wraps in the initial stages of their stock market debut process, was implemented in May. Chinese companies, including autonomous driving firm Zelos Tech and artificial intelligence (AI) startup MiniMax, have filed confidentially in recent months to get themselves listed in the city, according to separate sources.",
@@ -39,6 +53,20 @@
             "id": "f6d6ee1134197fe1441d65a3e7915835",
             "name": "Yahoo Singapore News",
             "url": "https://sg.news.yahoo.com"
+        }
+    },
+    {
+        "id": "124c7172418abe70c40ff2b0c3675ce3",
+        "title": "Indonesia eyes 'sovereign AI fund' to drive development, document shows",
+        "description": "Authorities overseeing the development of artificial intelligence in Indonesia have proposed a \"sovereign AI fund\" to finance the archipelago's ambitions to become a regional hub for the fast-growing technology, a government document showed.",
+        "content": "A message reading \"AI artificial intelligence\", a keyboard, and robot hands are seen in this illustration taken January 27, 2025. REUTERS/Dado Ruvic/Illustration/File Photo Purchase Licensing Rights , opens new tab\nJAKARTA, Aug 11 (Reuters) - Authori... [2317 chars]",
+        "url": "https://www.reuters.com/world/asia-pacific/indonesia-eyes-sovereign-ai-fund-drive-development-document-shows-2025-08-11/",
+        "image": "https://www.reuters.com/resizer/v2/PENMWE7ZX5II3ODXQ5ORVZAH4Y.jpg?auth=0f15252981e635403fdf32933f12366b3eea1f655bdeb7ca565faa929e762222&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-11T10:06:00Z",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com"
         }
     },
     {
@@ -109,34 +137,6 @@
             "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
             "name": "CNBC",
             "url": "https://www.cnbc.com"
-        }
-    },
-    {
-        "id": "6aaf45936130630f68f4a13b830a41bb",
-        "title": "NASA and Google develop an AI medical assistant to be used by astronauts on deep‑space missions",
-        "description": "NASA is testing a new artificial intelligence tool to help keep astronauts healthy during missions without an onboard physician or steady communication with Earth.",
-        "content": "Google and NASA are working on a medical assistant powered by artificial intelligence that could be used for extended trips to the space, starting with its Artemis campaign to return to the moon.\nThe tool, called the Crew Medical Officer Digital Assi... [2951 chars]",
-        "url": "https://indianexpress.com/article/technology/tech-news-technology/nasa-and-google-develop-an-ai-medical-assistant-to-be-used-by-astronauts-on-deep%e2%80%91space-missions-10182252/",
-        "image": "https://images.indianexpress.com/2025/08/NASA.jpg",
-        "publishedAt": "2025-08-11T05:36:59Z",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com"
-        }
-    },
-    {
-        "id": "cb3bef971d2703ab628450106e42dc38",
-        "title": "How This AI Breakthrough with Pure Mathematics and Reinforcement Learning Could Help Predict Future Crises",
-        "description": "An artificial intelligence breakthrough uses reinforcement learning to tackle the Andrews-Curtis conjecture, solving long-standing counterexamples and hinting at tools for forecasting stock crashes, diseases and climate disasters",
-        "content": "Imagine knowing that the stock market will likely crash in three years, that extreme weather will destroy your home in eight or that you will have a debilitating disease in 15—but that you can take steps now to protect yourself from these crises. Alt... [8724 chars]",
-        "url": "https://www.scientificamerican.com/article/how-this-ai-breakthrough-with-pure-mathematics-and-reinforcement-learning/",
-        "image": "https://static.scientificamerican.com/dam/m/1bd6ef8bdaf31968/original/Breakwater-in-sea.jpg?m=1754868497.29&w=1200",
-        "publishedAt": "2025-08-11T04:00:00Z",
-        "source": {
-            "id": "9290338c23f31e3f547a2dbfa1c52c03",
-            "name": "Scientific American",
-            "url": "https://www.scientificamerican.com"
         }
     }
 ]
