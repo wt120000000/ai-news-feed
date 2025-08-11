@@ -1,5 +1,47 @@
 [
     {
+        "id": "e4c3f948a3e3e2c061e13447919b337f",
+        "title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
+        "description": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
+        "content": "A highest-capacity, high-bandwidth 16-High HBM3E memory chip from SK Hynix is seen at this studio photograph in San Francisco, California, U.S. August 6, 2025. REUTERS/Carlos Barria Purchase Licensing Rights , opens new tab\nItem 1 of 4 A highest-capa... [4381 chars]",
+        "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-expects-ai-memory-market-grow-30-year-2030-2025-08-11/",
+        "image": "https://www.reuters.com/resizer/v2/ZQROWB6POZP4JFSQ3WWXWBNVVY.jpg?auth=73c458927fceef819561197e75753cdfb109ad7c0282e1ae0662133703a0631b&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-11T03:13:31Z",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com"
+        }
+    },
+    {
+        "id": "83d9611bb4a1ee013a19efd0645aaee8",
+        "title": "Scalable, secure and smart: ECBT architecture reinvents horticultural data chains",
+        "description": "Among the technologies evaluated, IoT was the most widely adopted, appearing in 45 percent of the studies reviewed. IoT sensors were primarily used for data collection, particularly temperature, humidity, and transport status. Blockchain technology featured in 32 percent of cases, offering immutable data storage, real-time visibility, and smart contract functionality for automated verification. Artificial intelligence and machine learning technologies were used in 23 percent of cases, focusing on predictive analytics, risk scoring, and anomaly detection.",
+        "content": "A new study published in the journal Frontiers in Blockchain details how emerging digital technologies can transform traceability systems in global horticultural supply chains. The study assesses the convergence of edge computing, cloud systems, bloc... [5201 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3533353-scalable-secure-and-smart-ecbt-architecture-reinvents-horticultural-data-chains",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_08_2025_17_46_35_8685686.png?width=920&format=jpeg",
+        "publishedAt": "2025-08-11T02:07:14Z",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com"
+        }
+    },
+    {
+        "id": "2a254e8e9cf6b0bc7a261a837f51d2e4",
+        "title": "Nvidia, AMD To Pay 15% Of China Chip Sale Revenues To U.S., Official Says",
+        "description": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
+        "content": "The Financial Times said the chipmakers agreed to the arrangement as a condition for obtaining the export licences for their semiconductors, including AMD’s MI308 chips. The report said the Trump administration had yet to determine how to use the mon... [599 chars]",
+        "url": "https://www.huffpost.com/entry/nvidia-amd-china-chip-sale-usa_n_68994c60e4b07a70fa08c7af",
+        "image": "https://img.huffingtonpost.com/asset/68994e26180000f5cd8c51da.jpeg?ops=1200_630",
+        "publishedAt": "2025-08-11T01:58:25Z",
+        "source": {
+            "id": "e382ce4dfbd3358e338d63782000b7df",
+            "name": "The Huffington Post",
+            "url": "https://www.huffpost.com"
+        }
+    },
+    {
         "id": "fbc34f9e320674d222ed87b4ef01039c",
         "title": "CNBC Daily Open: Chipping away at semiconductor revenues",
         "description": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
@@ -95,48 +137,6 @@
             "id": "0c9364fff53c0e5a3450947d9a54e795",
             "name": "Daily Mail Online",
             "url": "https://www.dailymail.co.uk"
-        }
-    },
-    {
-        "id": "9384605bb5502b1a3c9c24df40849e2a",
-        "title": "Investors Flee Companies Seen as Most at Risk From Artificial Intelligence",
-        "description": "Investors are exhibiting growing concerns over the potential upheaval caused by AI in various sectors.",
-        "content": "Investors are exhibiting growing concerns over the potential upheaval caused by artificial intelligence (AI) in various sectors. As a result, they are pulling out their investments from companies they perceive to be at risk.\nWhat Happened: Companies ... [2216 chars]",
-        "url": "https://www.benzinga.com/markets/tech/25/08/47021272/investors-flee-companies-seen-as-most-at-risk-from-artificial-intelligence",
-        "image": "https://cdn.benzinga.com/files/images/story/2025/08/10/Close--Up-Of-Computer-Chip-With-Ai-Sign-.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2025-08-10T15:16:00Z",
-        "source": {
-            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-            "name": "Benzinga",
-            "url": "https://www.benzinga.com"
-        }
-    },
-    {
-        "id": "9a1323ac8f762e8f9c51b2c5feecb624",
-        "title": "Free AI courses for beginners that does not require any prior experience",
-        "description": "From IBM's AI for Everyone on edX to Google Cloud's Introduction to Generative AI, and practical modules from Microsoft, HP LIFE, and SkillsBuild, this article highlights a collection of courses that open the door to the world of artificial intelligence.",
-        "content": "Artificial Intelligence is no longer the future — it is our present, which is already shaping our daily lives. Whether you’re curious about how AI works or aiming to build a tech-driven career, now is the perfect time to start learning. With rapid de... [4238 chars]",
-        "url": "https://indianexpress.com/article/education/ai-courses-free-for-beginners-no-experience-ibm-google-microsoft-10170812/",
-        "image": "https://images.indianexpress.com/2025/08/ai-free-courses-beginners.jpg",
-        "publishedAt": "2025-08-10T12:07:25Z",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com"
-        }
-    },
-    {
-        "id": "8785185102b767ca203154513687bfcc",
-        "title": "AI is changing the lucrative search business. Here's how to pick the winners - and avoid the losers",
-        "description": "Concerns over a potential plunge in web traffic due to artificial intelligence — and its impact on many businesses — may have been overblown.",
-        "content": "Concerns over a potential plunge in web traffic due to artificial intelligence — and its impact on many businesses — may have been overblown. The proliferation of artificial intelligence tools in web navigation have raised concern that Google, as wel... [4681 chars]",
-        "url": "https://www.cnbc.com/2025/08/10/ai-is-changing-the-lucrative-search-business-heres-how-to-pick-the-winners-and-avoid-the-losers.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108182663-1754516086028-gettyimages-2162021891-72_ai.jpeg?v=1754516107&w=1920&h=1080",
-        "publishedAt": "2025-08-10T11:56:06Z",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com"
         }
     }
 ]
