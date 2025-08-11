@@ -1,5 +1,19 @@
 [
     {
+        "id": "10f7e2b58b0b7c4e81d2492069683a54",
+        "title": "How Artificial Intelligence is helping badminton players improve their games",
+        "description": "It analyses grip, tosses, serves, and tracks postures, movements and shuttle flights while the next goal is to have predictive analysis that can help prevent injuries from happening.",
+        "content": "There is an epidemic of poorly executed forehand air tosses in badminton, amongst the hundreds of player videos collated in Bengaluru. A bug was blighting the feature.\nAn AI-powered review system had picked up the trend pointing to the weakness of th... [4715 chars]",
+        "url": "https://indianexpress.com/article/sports/badminton/artificial-intelligence-ai-badminton-players-improve-10183462/",
+        "image": "https://images.indianexpress.com/2025/08/badminton-ai-2.jpeg",
+        "publishedAt": "2025-08-11T17:07:27Z",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com"
+        }
+    },
+    {
         "id": "2bf4d59b4736ed7771002b89b6844234",
         "title": "SK Hynix sees big growth in AI memory market",
         "description": "SEOUL/SAN FRANCISCO — South Korea’s SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence (AI) will grow 30 percent a year until 2030, a senior executive said in an interview with Reuters.",
@@ -123,20 +137,6 @@
             "id": "b93fbda11fec5c2f08572a67a337e87d",
             "name": "ElliotLakeToday.com",
             "url": "https://www.elliotlaketoday.com"
-        }
-    },
-    {
-        "id": "5b77d59c5c56b0b3497955ff1e7d73f4",
-        "title": "Bell to provide customers free access to Perplexity Pro for a year in latest AI move",
-        "description": "MONTREAL — Bell Canada is partnering with Perplexity, an AI-powered conversational search engine, to give its customers a year of free artificial intelligence services.",
-        "content": "MONTREAL — Bell Canada is partnering with Perplexity, an AI-powered conversational search engine, to give its customers a year of free artificial intelligence services.\nIt marks another step in the telecommunications company's foray into the AI space... [1091 chars]",
-        "url": "https://www.guelphtoday.com/national-business/bell-to-provide-customers-free-access-to-perplexity-pro-for-a-year-in-latest-ai-move-11058800",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/ed7a8a85cfeaf30f0d8edba1cbfea957a84ec11fb96cd3b4c42e1c0529e0d320.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-08-11T13:40:16Z",
-        "source": {
-            "id": "300a668ea1fb6b59c9da32db8e856d66",
-            "name": "GuelphToday",
-            "url": "https://www.guelphtoday.com"
         }
     }
 ]
