@@ -14,6 +14,20 @@
         }
     },
     {
+        "id": "36eb6dabeff28818ae840fb0df2f435b",
+        "title": "Why A.I. Should Make Parents Rethink Posting Photos of Their Children Online",
+        "description": "Artificial intelligence apps generating fake nudes, amid other privacy concerns, make “sharenting” far riskier than it was just a few years ago.",
+        "content": "Last summer, my wife and I beat the odds of middle age and gave birth to a beautiful baby girl. Thousands of people who follow me on Instagram and other apps have yet to notice.\nThat’s not because I’ve ghosted everyone. I have just opted against post... [809 chars]",
+        "url": "https://www.nytimes.com/2025/08/11/technology/personaltech/ai-kids-photos.html",
+        "image": "https://static01.nyt.com/images/2025/07/31/business/00techfix/00techfix-facebookJumbo.jpg",
+        "publishedAt": "2025-08-11T09:01:21Z",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com"
+        }
+    },
+    {
         "id": "1c08531e3affd4fedaf832ae993b4030",
         "title": "Workers are seeking out AI training to prepare for the jobs of tomorrow",
         "description": "Working professionals and young people are investing in artificial intelligence courses, programs and degrees as the technology promises to transform jobs.",
@@ -25,6 +39,20 @@
             "id": "f16dc396e088c7c707eabe9d7479e7a2",
             "name": "The Washington Post",
             "url": "https://www.washingtonpost.com"
+        }
+    },
+    {
+        "id": "e4c3f948a3e3e2c061e13447919b337f",
+        "title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
+        "description": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
+        "content": "A highest-capacity, high-bandwidth 16-High HBM3E memory chip from SK Hynix is seen at this studio photograph in San Francisco, California, U.S. August 6, 2025. REUTERS/Carlos Barria Purchase Licensing Rights , opens new tab\nItem 1 of 4 A highest-capa... [4394 chars]",
+        "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-expects-ai-memory-market-grow-30-year-2030-2025-08-11/",
+        "image": "https://www.reuters.com/resizer/v2/ZQROWB6POZP4JFSQ3WWXWBNVVY.jpg?auth=73c458927fceef819561197e75753cdfb109ad7c0282e1ae0662133703a0631b&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-11T08:23:26Z",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com"
         }
     },
     {
@@ -70,6 +98,20 @@
         }
     },
     {
+        "id": "cb3bef971d2703ab628450106e42dc38",
+        "title": "How This AI Breakthrough with Pure Mathematics and Reinforcement Learning Could Help Predict Future Crises",
+        "description": "An artificial intelligence breakthrough uses reinforcement learning to tackle the Andrews-Curtis conjecture, solving long-standing counterexamples and hinting at tools for forecasting stock crashes, diseases and climate disasters",
+        "content": "Imagine knowing that the stock market will likely crash in three years, that extreme weather will destroy your home in eight or that you will have a debilitating disease in 15—but that you can take steps now to protect yourself from these crises. Alt... [8724 chars]",
+        "url": "https://www.scientificamerican.com/article/how-this-ai-breakthrough-with-pure-mathematics-and-reinforcement-learning/",
+        "image": "https://static.scientificamerican.com/dam/m/1bd6ef8bdaf31968/original/Breakwater-in-sea.jpg?m=1754868497.29&w=1200",
+        "publishedAt": "2025-08-11T04:00:00Z",
+        "source": {
+            "id": "9290338c23f31e3f547a2dbfa1c52c03",
+            "name": "Scientific American",
+            "url": "https://www.scientificamerican.com"
+        }
+    },
+    {
         "id": "b9da9ee0e09e23abaad012bcc17b7eca",
         "title": "Meta And Microsoft Are Betting Big On AI - So Is The C-Suite",
         "description": "Like Meta and Microsoft, CxOs are fast-tracking artificial intelligence not as a future play, but as a present-day growth lever.",
@@ -84,20 +126,6 @@
         }
     },
     {
-        "id": "e4c3f948a3e3e2c061e13447919b337f",
-        "title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
-        "description": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
-        "content": "A highest-capacity, high-bandwidth 16-High HBM3E memory chip from SK Hynix is seen at this studio photograph in San Francisco, California, U.S. August 6, 2025. REUTERS/Carlos Barria Purchase Licensing Rights , opens new tab\nItem 1 of 4 A highest-capa... [4381 chars]",
-        "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-expects-ai-memory-market-grow-30-year-2030-2025-08-11/",
-        "image": "https://www.reuters.com/resizer/v2/ZQROWB6POZP4JFSQ3WWXWBNVVY.jpg?auth=73c458927fceef819561197e75753cdfb109ad7c0282e1ae0662133703a0631b&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-11T03:13:31Z",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com"
-        }
-    },
-    {
         "id": "83d9611bb4a1ee013a19efd0645aaee8",
         "title": "Scalable, secure and smart: ECBT architecture reinvents horticultural data chains",
         "description": "Among the technologies evaluated, IoT was the most widely adopted, appearing in 45 percent of the studies reviewed. IoT sensors were primarily used for data collection, particularly temperature, humidity, and transport status. Blockchain technology featured in 32 percent of cases, offering immutable data storage, real-time visibility, and smart contract functionality for automated verification. Artificial intelligence and machine learning technologies were used in 23 percent of cases, focusing on predictive analytics, risk scoring, and anomaly detection.",
@@ -109,34 +137,6 @@
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com"
-        }
-    },
-    {
-        "id": "2a254e8e9cf6b0bc7a261a837f51d2e4",
-        "title": "Nvidia, AMD To Pay 15% Of China Chip Sale Revenues To U.S., Official Says",
-        "description": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
-        "content": "The Financial Times said the chipmakers agreed to the arrangement as a condition for obtaining the export licences for their semiconductors, including AMD’s MI308 chips. The report said the Trump administration had yet to determine how to use the mon... [599 chars]",
-        "url": "https://www.huffpost.com/entry/nvidia-amd-china-chip-sale-usa_n_68994c60e4b07a70fa08c7af",
-        "image": "https://img.huffingtonpost.com/asset/68994e26180000f5cd8c51da.jpeg?ops=1200_630",
-        "publishedAt": "2025-08-11T01:58:25Z",
-        "source": {
-            "id": "e382ce4dfbd3358e338d63782000b7df",
-            "name": "The Huffington Post",
-            "url": "https://www.huffpost.com"
-        }
-    },
-    {
-        "id": "fbc34f9e320674d222ed87b4ef01039c",
-        "title": "CNBC Daily Open: Chipping away at semiconductor revenues",
-        "description": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
-        "content": "U.S. President Donald Trump (L) listens as Nvidia CEO Jensen Huang speaks in the Cross Hall of the White House during an event on \"Investing in America\" on April 30, 2025 in Washington, DC.\nU.S. markets continue to ride the artificial intelligence wa... [1261 chars]",
-        "url": "https://www.cnbc.com/2025/08/11/cnbc-daily-open-chipping-away-at-semiconductor-revenues.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108139110-1746049018921-gettyimages-2212801534-ah805109_ovha5wzr.jpeg?v=1754872044&w=1920&h=1080",
-        "publishedAt": "2025-08-11T01:39:37Z",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com"
         }
     }
 ]
