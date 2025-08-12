@@ -1,5 +1,33 @@
 [
     {
+        "id": "a68cb92ef5b8bd4193c6ae650a4e0980",
+        "title": "China urges firms not to use Nvidia's H20 chips, Bloomberg News reports",
+        "description": "Authorities have sent notices to a range of firms discouraging use of the less-advanced semiconductors, with the guidance taking a particularly strong stance against the use of Nvidia's H20s for any government or national security-related work by state enterprises or private companies, the report said. Nvidia did not immediately respond to a request for comment outside regular business hours. Nvidia said in July that its products have no \"backdoors\" that would allow remote access or control after China raised concerns over potential security risks in the firm's H20 artificial intelligence chip.",
+        "content": "(Reuters) -Chinese authorities have urged local companies to avoid using Nvidia's H20 processors, particularly for government-related purposes, Bloomberg News reported on Tuesday, citing people familiar with the matter.\nAuthorities have sent notices ... [1174 chars]",
+        "url": "https://sg.news.yahoo.com/china-urges-firms-not-nvidias-053604141.html",
+        "image": "https://media.zenfs.com/en/reuters.com/d12691e31b34a4432e8b19e2fb746f2b",
+        "publishedAt": "2025-08-12T05:36:04Z",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com"
+        }
+    },
+    {
+        "id": "a0e20011265201058558a3fd8d85665e",
+        "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+        "description": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
+        "content": "FILE - The opening page of X is displayed on a computer and phone in Sydney on Oct. 16, 2023. (AP Photo/Rick Rycroft, File)\nBillionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelli... [1518 chars]",
+        "url": "https://www.clickondetroit.com/tech/2025/08/12/musk-says-he-plans-to-sue-apple-for-not-featuring-x-or-grok-among-its-top-apps/",
+        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VCXE55YWKJF7JNCRKCPVVSACGM.jpg?_a=DATAg1eAZAA0",
+        "publishedAt": "2025-08-12T05:16:55Z",
+        "source": {
+            "id": "35515662ec044d3f94b543cd8802d63f",
+            "name": "WDIV ClickOnDetroit",
+            "url": "https://www.clickondetroit.com"
+        }
+    },
+    {
         "id": "c2a4e1816e549ab09bcb226e2492bc6a",
         "title": "Musk says xAI to take legal action against Apple over App Store rankings",
         "description": "Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple , accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings. “Apple is behaving in a manner that makes it impossible for any AI company besides OpenAI to reach #1 in the App Store, […]",
@@ -39,6 +67,20 @@
             "id": "d4e7f6a65e15620f4e4044691a99d0fd",
             "name": "Benzinga",
             "url": "https://www.benzinga.com"
+        }
+    },
+    {
+        "id": "cc4c4336d225c8c81556bbbe373a37e6",
+        "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+        "description": "Billionaire SpaceX, Tesla, and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
+        "content": "Musk posted the comments on X late Monday, saying, “Hey @Apple App Store, why do you refuse to put either X or Grok in your ‘Must Have’ section when X is the #1 news app in the world and Grok is #5 among all apps? Are you playing politics? What gives... [1328 chars]",
+        "url": "https://www.bostonglobe.com/2025/08/12/business/musk-says-he-plans-sue-apple-not-featuring-x-or-grok-among-its-top-apps/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/6KFEJJ7ROOOMQBSHAO5S6Q5FLM.jpg?auth=7cc520efd6799b789838d48e6411044c051147b2ccd686aabb7c4c8d3e29f1f6&width=1440",
+        "publishedAt": "2025-08-12T04:00:00Z",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com"
         }
     },
     {
@@ -95,48 +137,6 @@
             "id": "a8984f03fe66dae9745793f6560aa444",
             "name": "Newsmax",
             "url": "https://www.newsmax.com"
-        }
-    },
-    {
-        "id": "9857c1eeafac6aa821728d9743b86324",
-        "title": "Free AI training comes to California colleges - but at what cost?",
-        "description": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will teach them to master the new technology.",
-        "content": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will teach them to master the new technology.\n“You’re seeing in certain coding s... [6185 chars]",
-        "url": "https://apnews.com/article/information-technology-artificial-intelligence-colleges-and-universities-alphabet-inc-california-bda897ddb2fa4317bc603e4b71943b7e",
-        "image": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-        "publishedAt": "2025-08-12T01:11:21Z",
-        "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com"
-        }
-    },
-    {
-        "id": "95cf146a6b96819c83bd0fe51a26d17c",
-        "title": "Cerence AI CEO explains how new tech can help drivers",
-        "description": "In a Monday interview with CNBC's Jim Cramer, Cerence AI CEO Brian Krzanich explained how new artificial intelligence technology can help automobile drivers.",
-        "content": "In a Monday interview with CNBC's Jim Cramer, Cerence AI CEO Brian Krzanich explained how his company's artificial intelligence technology can help automobile drivers, likening the AI program to \"a partner in the vehicle.\"\n\"We're on an annual cadence... [1329 chars]",
-        "url": "https://www.cnbc.com/2025/08/11/cerence-ai-ceo-explains-how-new-tech-can-help-drivers.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/102624225-_Y2A3585.JPG?v=1430169042&w=1920&h=1080",
-        "publishedAt": "2025-08-11T23:37:05Z",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com"
-        }
-    },
-    {
-        "id": "e5e78f984b1fe6c897547d2ac1f603e0",
-        "title": "Nvidia, AMD AI Deal, Intel CEO to Meet Trump | Bloomberg Tech 8/11/2025",
-        "description": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss Nvidia’s and AMD’s agreement to pay 15% of their revenues from Chinese artificial intelligence chip sales to the US government. Analysts and investors react to the “unprecedented” deal. Plus, Intel CEO Lip-Bu Tan is set to meet with President Donald Trump, after the US leader called his resignation.  (Source: Bloomberg)",
-        "content": "00:00\n> > BLOOMBERG TECH IS LIVE. > > THIS IS BLOOMBERG TECH. COMING UP NVIDIA AND AMD -- > > PLUS, INTEL CEO IS SET TO VISIT THE WHITE HOUSE. > > LITHIUM PRICES AND STOCKS SPIKE. > > WE RETURN TO THESE MAJOR MARKETS. THIS IS AN ENTIRE SHOW FOCUSED O... [34695 chars]",
-        "url": "https://www.bloomberg.com/news/videos/2025-08-11/bloomberg-tech-8-11-2025-video",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2SykDbtLuX0/v3/-1x-1.jpg",
-        "publishedAt": "2025-08-11T21:14:20Z",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com"
         }
     }
 ]
