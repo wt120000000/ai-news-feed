@@ -1,5 +1,19 @@
 [
     {
+        "id": "bac919cb221644ad2d6f816a94a34069",
+        "title": "Google Teams With NASA On AI 'Space Doctor' To Diagnose, Treat Astronauts On Moon, Mars Missions Where Real-Time Earth Contact Isn't Possible",
+        "description": "Alphabet Inc. is collaborating with NASA to develop an artificial intelligence medical assistant designed to diagnose and treat astronauts.",
+        "content": "Alphabet Inc. GOOGL GOOG is collaborating with NASA to develop an artificial intelligence medical assistant designed to diagnose and treat astronauts during extended space missions where real-time Earth communication isn’t feasible.\nAI System Address... [2203 chars]",
+        "url": "https://www.benzinga.com/news/space/25/08/47053184/google-teams-with-nasa-on-ai-space-doctor-to-diagnose-treat-astronauts-on-moon-mars-missions-where-real-time-earth-contact-isnt-possible",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/08/12/Close-Up-Of-The-Google-Logo-Sign-On-The-.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-08-12T10:08:00Z",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com"
+        }
+    },
+    {
         "id": "248f9d3d63445b117d95515b065277c6",
         "title": "Ireland could be ‘AI Island’ but must act promptly to set up artificial intelligence office and observatory",
         "description": "AI island",
@@ -11,6 +25,20 @@
             "id": "dd1d806725f45e4403e75c1bb23b447a",
             "name": "The Irish Times",
             "url": "https://www.irishtimes.com"
+        }
+    },
+    {
+        "id": "10f7e2b58b0b7c4e81d2492069683a54",
+        "title": "How Artificial Intelligence is helping badminton players improve their games",
+        "description": "It analyses grip, tosses, serves, and tracks postures, movements and shuttle flights while the next goal is to have predictive analysis that can help prevent injuries from happening.",
+        "content": "There is an epidemic of poorly executed forehand air tosses in badminton, amongst the hundreds of player videos collated in Bengaluru. A bug was blighting the feature.\nAn AI-powered review system had picked up the trend pointing to the weakness of th... [4819 chars]",
+        "url": "https://indianexpress.com/article/sports/badminton/artificial-intelligence-ai-badminton-players-improve-10183462/",
+        "image": "https://images.indianexpress.com/2025/08/badminton-ai-2.jpeg",
+        "publishedAt": "2025-08-12T06:29:11Z",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com"
         }
     },
     {
@@ -109,34 +137,6 @@
             "id": "bce8b9fcd331f3552e3dcf603b83b80e",
             "name": "Business Insider",
             "url": "https://markets.businessinsider.com"
-        }
-    },
-    {
-        "id": "cc4c4336d225c8c81556bbbe373a37e6",
-        "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-        "description": "Billionaire SpaceX, Tesla, and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
-        "content": "Musk posted the comments on X late Monday, saying, “Hey @Apple App Store, why do you refuse to put either X or Grok in your ‘Must Have’ section when X is the #1 news app in the world and Grok is #5 among all apps? Are you playing politics? What gives... [1328 chars]",
-        "url": "https://www.bostonglobe.com/2025/08/12/business/musk-says-he-plans-sue-apple-not-featuring-x-or-grok-among-its-top-apps/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/6KFEJJ7ROOOMQBSHAO5S6Q5FLM.jpg?auth=7cc520efd6799b789838d48e6411044c051147b2ccd686aabb7c4c8d3e29f1f6&width=1440",
-        "publishedAt": "2025-08-12T04:00:00Z",
-        "source": {
-            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-            "name": "The Boston Globe",
-            "url": "https://www.bostonglobe.com"
-        }
-    },
-    {
-        "id": "6aaf45936130630f68f4a13b830a41bb",
-        "title": "NASA and Google develop an AI medical assistant to be used by astronauts on deep‑space missions",
-        "description": "NASA is testing a new artificial intelligence tool to help keep astronauts healthy during missions without an onboard physician or steady communication with Earth.",
-        "content": "Google and NASA are working on a medical assistant powered by artificial intelligence that could be used for extended trips to the space, starting with its Artemis campaign to return to the moon.\nThe tool, called the Crew Medical Officer Digital Assi... [2951 chars]",
-        "url": "https://indianexpress.com/article/technology/tech-news-technology/nasa-and-google-develop-an-ai-medical-assistant-to-be-used-by-astronauts-on-deep%e2%80%91space-missions-10182252/",
-        "image": "https://images.indianexpress.com/2025/08/NASA.jpg",
-        "publishedAt": "2025-08-12T03:36:32Z",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com"
         }
     }
 ]
