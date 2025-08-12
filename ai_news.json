@@ -1,5 +1,19 @@
 [
     {
+        "id": "9cbfd62b07bd68b1d0feafca4b0497e8",
+        "title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
+        "description": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness U.S. artificial intelligence capabilities to supercharge its military.",
+        "content": "Summary\nCompanies Trump also confirms Nvidia, AMD to give China AI chip revenues to government\nNvidia says company follows rules set by US government\nUS official says admin does not feel sale of chips compromises national security\nAug 11 (Reuters) - ... [5065 chars]",
+        "url": "https://www.reuters.com/world/china/trump-opens-door-sales-version-nvidias-next-gen-ai-chips-china-2025-08-12/",
+        "image": "https://www.reuters.com/resizer/v2/ZET5WGUIBJMRFKFK6AS53T43JQ.jpg?auth=f84cf82e028969a3dd513e1e76df724c30362023b8ff073a4ee0b98a3154fecc&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-12T03:20:14Z",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com"
+        }
+    },
+    {
         "id": "5f6b6aedc099e1d3d36aafc7c1fd894d",
         "title": "Elon Musk's AI Startup xAI to Sue Apple Over App Store Rankings",
         "description": "Elon Musk's artificial intelligence startup xAI is set to take legal action against Apple, claiming the company violated antitrust regulations in managing App Store rankings. Musk accuses Apple of hindering AI companies' potential to top the charts, aside from OpenAI. Apple, OpenAI, and xAI have yet to comment.",
@@ -11,6 +25,20 @@
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com"
+        }
+    },
+    {
+        "id": "192f2531428fd3b7dd5f0a88a01c261e",
+        "title": "Musk says xAI to take legal action against Apple over App Store rankings",
+        "description": "Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple , accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings.",
+        "content": "Elon Musk is seen with a bruised eye that Musk claimed he received at the hands of his son, X Æ A-12, as he attends a press conference with U.S. President Donald Trump in the Oval Office at the White House in Washington, D.C., U.S., May 30, 2025. REU... [2204 chars]",
+        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-says-xai-take-legal-action-against-apple-over-app-store-rankings-2025-08-12/",
+        "image": "https://www.reuters.com/resizer/v2/3WG5DKLR5RJK7AQYBG5YIDP4LA.jpg?auth=ecce4a9329cbddd4094b89a63e66695f8c60f0953e2ab5320b432231b47ebc40&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-12T02:51:49Z",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com"
         }
     },
     {
@@ -109,34 +137,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "db1487e4fd91c55e9eb90600c216c0c1",
-        "title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
-        "description": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness American artificial intelligence capabilities to supercharge its military.",
-        "content": "Summary\nCompanies Trump also confirms Nvidia, AMD to give China AI chip revenues to government\nNvidia says company follows rules set by US government\nUS official says admin does not feel sale of chips compromises national security\nAug 11 (Reuters) - ... [6646 chars]",
-        "url": "https://www.reuters.com/world/china/trump-opens-door-sales-version-nvidias-next-gen-ai-chips-china-2025-08-11/",
-        "image": "https://www.reuters.com/resizer/v2/ZET5WGUIBJMRFKFK6AS53T43JQ.jpg?auth=f84cf82e028969a3dd513e1e76df724c30362023b8ff073a4ee0b98a3154fecc&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-11T19:36:17Z",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com"
-        }
-    },
-    {
-        "id": "010702911e661351f16aacca355dd62a",
-        "title": "Go to school on AI to ease teacher load, treasurer told",
-        "description": "A national approach to promote artificial intelligence use in schools is being pursued by the Productivity Commission to boost skill levels and economic growth.",
-        "content": "The government should provide \"national leadership\" on AI in schools, a report has recommended. (Paul Miller/AAP PHOTOS)\nThe government should provide \"national leadership\" on AI in schools, a report has recommended. (Paul Miller/AAP PHOTOS) Credit: ... [3340 chars]",
-        "url": "https://www.perthnow.com.au/news/business/go-to-school-on-ai-to-ease-teacher-load-treasurer-told-c-19653957",
-        "image": "https://images.perthnow.com.au/publication/C-19653957/26597e69f2a6e8c71f43cdd30c2007a5499b4852-16x9-x0y0w1280h720.jpg?imwidth=1200",
-        "publishedAt": "2025-08-11T19:02:24Z",
-        "source": {
-            "id": "7f6e8514e9d8f8376aaa9a7229861518",
-            "name": "PerthNow",
-            "url": "https://www.perthnow.com.au"
         }
     }
 ]
