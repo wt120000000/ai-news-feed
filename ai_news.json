@@ -98,6 +98,20 @@
         }
     },
     {
+        "id": "de1acd98e11f2cefd1e3e452b942d735",
+        "title": "NY's free community college program for adult students drawing upwards of 16,000 applicants",
+        "description": "More than 16,500 have applied to the free NY community college program for adult students interested in high-demand fields like artificial intelligence and nursing.",
+        "content": "New York’s new free community college program is drawing strong interest, with more than 16,500 people applying to the new $47 million initiative. The program covers the tuition of adults interested in high-demand fields, such as artificial intellige... [2256 chars]",
+        "url": "https://www.nydailynews.com/2025/08/12/nys-free-community-college-program-for-adult-students-drawing-upwards-of-16000-applicants/",
+        "image": "https://www.nydailynews.com/wp-content/uploads/2025/08/54716542481_a3813353f2_k.jpg?w=1024&h=683",
+        "publishedAt": "2025-08-12T17:49:38Z",
+        "source": {
+            "id": "3fac65098bad206a4847f7fdbac9f170",
+            "name": "New York Daily News",
+            "url": "https://www.nydailynews.com"
+        }
+    },
+    {
         "id": "dc587cb6cda17c68d3c9a5d3048019ff",
         "title": "India’s First AI Unicorn Fractal Files for $560 Million IPO",
         "description": "Fractal Analytics, a provider of artificial intelligence and analytics services, filed for an initial public offering in Mumbai that could value the company at more than $3.5 billion.",
@@ -123,20 +137,6 @@
             "id": "79baacd62152cf257ee35e8c0bec19a2",
             "name": "UPI News",
             "url": "https://www.upi.com"
-        }
-    },
-    {
-        "id": "2edbf2f070749f45a3c58da1386dd696",
-        "title": "YouTube testing a new age verification system in the U.S.",
-        "description": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
-        "content": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors, based on the kinds of videos that they have been watching.\nThe tests initially will o... [2411 chars]",
-        "url": "https://apnews.com/article/youtube-video-age-verification-system-1ce99a7089b33e88dc76e49945ded186",
-        "image": "https://dims.apnews.com/dims4/default/e24c265/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F55%2Fad51ee037e6b2409b96e0efbdf85%2F1dd0d8843f2f440bbf085a8dd63d3094",
-        "publishedAt": "2025-08-12T16:35:58Z",
-        "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com"
         }
     }
 ]
