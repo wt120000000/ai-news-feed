@@ -1,5 +1,47 @@
 [
     {
+        "id": "5f6b6aedc099e1d3d36aafc7c1fd894d",
+        "title": "Elon Musk's AI Startup xAI to Sue Apple Over App Store Rankings",
+        "description": "Elon Musk's artificial intelligence startup xAI is set to take legal action against Apple, claiming the company violated antitrust regulations in managing App Store rankings. Musk accuses Apple of hindering AI companies' potential to top the charts, aside from OpenAI. Apple, OpenAI, and xAI have yet to comment.",
+        "content": "Billionaire Elon Musk announced plans for his AI startup xAI to pursue legal action against Apple, citing alleged antitrust violations in the management of App Store rankings.\nMusk claims Apple's practices prevent AI firms, except OpenAI, from securi... [320 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3538128-elon-musks-ai-startup-xai-to-sue-apple-over-app-store-rankings",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_08_2025_11_51_55_0814438.jpg?width=920&format=jpeg",
+        "publishedAt": "2025-08-12T02:54:08Z",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com"
+        }
+    },
+    {
+        "id": "c39a8a329b56808c4f86acea74af2894",
+        "title": "Musk Accuses Apple of Antitrust Violation, Threatens Legal Action",
+        "description": "Elon Musk says Apple is engaging in antitrust violations by allegedly making it impossible for any artificial intelligence company other than OpenAI to reach the No. 1 spot in its App Store rankings, calling it an unequivocal antitrust violation.",
+        "content": "Elon Musk has accused Apple of engaging in antitrust violations by allegedly making it impossible for any artificial intelligence company other than OpenAI to reach the No. 1 spot in its App Store rankings, calling it an \"unequivocal antitrust violat... [520 chars]",
+        "url": "https://www.newsmax.com/newsfront/elon-musk-apple-antitrust/2025/08/11/id/1222099/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9f3e7def-eab1-4c04-a436-52ff9b736d2a&SiteName=Newsmax",
+        "publishedAt": "2025-08-12T01:57:59Z",
+        "source": {
+            "id": "a8984f03fe66dae9745793f6560aa444",
+            "name": "Newsmax",
+            "url": "https://www.newsmax.com"
+        }
+    },
+    {
+        "id": "9857c1eeafac6aa821728d9743b86324",
+        "title": "Free AI training comes to California colleges - but at what cost?",
+        "description": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will teach them to master the new technology.",
+        "content": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will teach them to master the new technology.\n“You’re seeing in certain coding s... [6185 chars]",
+        "url": "https://apnews.com/article/information-technology-artificial-intelligence-colleges-and-universities-alphabet-inc-california-bda897ddb2fa4317bc603e4b71943b7e",
+        "image": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "publishedAt": "2025-08-12T01:11:21Z",
+        "source": {
+            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+            "name": "The Associated Press",
+            "url": "https://apnews.com"
+        }
+    },
+    {
         "id": "95cf146a6b96819c83bd0fe51a26d17c",
         "title": "Cerence AI CEO explains how new tech can help drivers",
         "description": "In a Monday interview with CNBC's Jim Cramer, Cerence AI CEO Brian Krzanich explained how new artificial intelligence technology can help automobile drivers.",
@@ -58,8 +100,8 @@
     {
         "id": "14ceb1a9287eaefdd667b7950d1a9164",
         "title": "Bitcoin-Miner MARA Said to Near $168 Million Deal for EDF Unit",
-        "description": "MARA Holdings Inc. is in advanced talks to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider, according to people familiar with the matter.",
-        "content": "MARA Holdings Inc. is in advanced talks to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider, according to people familia... [496 chars]",
+        "description": "MARA Holdings Inc. has agreed to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider.",
+        "content": "MARA Holdings Inc. has agreed to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider.\nHallandale Beach, Florida-based MARA ... [396 chars]",
         "url": "https://www.bloomberg.com/news/articles/2025-08-11/bitcoin-miner-mara-said-to-near-168-million-deal-for-edf-unit",
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijB6r.LjfVIw/v0/1200x800.jpg",
         "publishedAt": "2025-08-11T20:03:22Z",
@@ -95,48 +137,6 @@
             "id": "7f6e8514e9d8f8376aaa9a7229861518",
             "name": "PerthNow",
             "url": "https://www.perthnow.com.au"
-        }
-    },
-    {
-        "id": "10f7e2b58b0b7c4e81d2492069683a54",
-        "title": "How Artificial Intelligence is helping badminton players improve their games",
-        "description": "It analyses grip, tosses, serves, and tracks postures, movements and shuttle flights while the next goal is to have predictive analysis that can help prevent injuries from happening.",
-        "content": "There is an epidemic of poorly executed forehand air tosses in badminton, amongst the hundreds of player videos collated in Bengaluru. A bug was blighting the feature.\nAn AI-powered review system had picked up the trend pointing to the weakness of th... [4715 chars]",
-        "url": "https://indianexpress.com/article/sports/badminton/artificial-intelligence-ai-badminton-players-improve-10183462/",
-        "image": "https://images.indianexpress.com/2025/08/badminton-ai-2.jpeg",
-        "publishedAt": "2025-08-11T17:07:27Z",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com"
-        }
-    },
-    {
-        "id": "dcf72d5c3ce2436d42140294505b4740",
-        "title": "Micron raises forecasts as AI boosts memory chip demand",
-        "description": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, banking on surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares up about 3%.",
-        "content": "Sanjay Mehrotra, CEO of Micron Technology Inc., holds a chip on the floor at the New York Stock Exchange (NYSE) in New York City, U.S., April 26, 2024. REUTERS/Brendan McDermid/File Photo Purchase Licensing Rights , opens new tab\nAug 11 (Reuters) - M... [2051 chars]",
-        "url": "https://www.reuters.com/business/micron-raises-forecasts-ai-boosts-memory-chip-demand-2025-08-11/",
-        "image": "https://www.reuters.com/resizer/v2/AAYGEAAVLFJSTMZJQG7NDKPHDA.jpg?auth=f79420cf90935826e27d612f74a186376512be3c9199c5f277dd813c14e31992&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-11T16:40:07Z",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com"
-        }
-    },
-    {
-        "id": "2bf4d59b4736ed7771002b89b6844234",
-        "title": "SK Hynix sees big growth in AI memory market",
-        "description": "SEOUL/SAN FRANCISCO — South Korea’s SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence (AI) will grow 30 percent a year until 2030, a senior executive said in an interview with Reuters.",
-        "content": "SEOUL/SAN FRANCISCO — South Korea’s SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence (AI) will grow 30 percent a year until 2030, a senior executive said in an interview with Reuters.\nA hig... [4305 chars]",
-        "url": "https://www.manilatimes.net/2025/08/12/business/foreign-business/sk-hynix-sees-big-growth-in-ai-memory-market/2165849",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/11/708504.png",
-        "publishedAt": "2025-08-11T16:12:00Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
         }
     }
 ]
