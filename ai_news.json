@@ -1,5 +1,19 @@
 [
     {
+        "id": "95cf146a6b96819c83bd0fe51a26d17c",
+        "title": "Cerence AI CEO explains how new tech can help drivers",
+        "description": "In a Monday interview with CNBC's Jim Cramer, Cerence AI CEO Brian Krzanich explained how new artificial intelligence technology can help automobile drivers.",
+        "content": "In a Monday interview with CNBC's Jim Cramer, Cerence AI CEO Brian Krzanich explained how his company's artificial intelligence technology can help automobile drivers, likening the AI program to \"a partner in the vehicle.\"\n\"We're on an annual cadence... [1329 chars]",
+        "url": "https://www.cnbc.com/2025/08/11/cerence-ai-ceo-explains-how-new-tech-can-help-drivers.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/102624225-_Y2A3585.JPG?v=1430169042&w=1920&h=1080",
+        "publishedAt": "2025-08-11T23:37:05Z",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com"
+        }
+    },
+    {
         "id": "e5e78f984b1fe6c897547d2ac1f603e0",
         "title": "Nvidia, AMD AI Deal, Intel CEO to Meet Trump | Bloomberg Tech 8/11/2025",
         "description": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss Nvidia’s and AMD’s agreement to pay 15% of their revenues from Chinese artificial intelligence chip sales to the US government. Analysts and investors react to the “unprecedented” deal. Plus, Intel CEO Lip-Bu Tan is set to meet with President Donald Trump, after the US leader called his resignation.  (Source: Bloomberg)",
@@ -119,20 +133,6 @@
         "url": "https://www.manilatimes.net/2025/08/12/business/foreign-business/sk-hynix-sees-big-growth-in-ai-memory-market/2165849",
         "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/11/708504.png",
         "publishedAt": "2025-08-11T16:12:00Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "c112cc7b45f4567b1a35c0be8073ab47",
-        "title": "Nvidia, AMD to pay US 15% of China AI chip sales",
-        "description": "WASHINGTON — US semiconductor giants Nvidia and Advanced Micro Devices (AMD) have agreed to pay the United States government 15 percent of their revenue from selling artificial intelligence chips to China, according to media reports Sunday (Monday in Manila).",
-        "content": "WASHINGTON — US semiconductor giants Nvidia and Advanced Micro Devices (AMD) have agreed to pay the United States government 15 percent of their revenue from selling artificial intelligence chips to China, according to media reports Sunday (Monday in... [2231 chars]",
-        "url": "https://www.manilatimes.net/2025/08/12/business/foreign-business/nvidia-amd-to-pay-us-15-of-china-ai-chip-sales/2165844",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-08-11T16:09:00Z",
         "source": {
             "id": "7c666ee953f873d3057b310220f510df",
             "name": "The Manila Times",
