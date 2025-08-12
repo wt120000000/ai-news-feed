@@ -1,5 +1,19 @@
 [
     {
+        "id": "248f9d3d63445b117d95515b065277c6",
+        "title": "Ireland could be ‘AI Island’ but must act promptly to set up artificial intelligence office and observatory",
+        "description": "AI island",
+        "content": "Ireland could position itself as “the AI island” but risks getting left behind unless decisions are taken promptly on important related infrastructure, the chairman of the Oireachtas committee examining the technology has said.\nFianna Fáil TD Malcolm... [2656 chars]",
+        "url": "https://www.irishtimes.com/politics/2025/08/12/ireland-could-be-ai-island-but-must-act-promptly-to-set-up-artificial-intelligence-office-and-observatory/",
+        "image": "https://www.irishtimes.com/resizer/v2/UYZONGBTUNNLZAH7HZZXO6VKDE.jpg?smart=true&auth=6a3bc54046b72c240abad24c3545c2b56d6dd99d04f9e313fc65538a39507323&width=1200&height=630",
+        "publishedAt": "2025-08-12T09:00:00Z",
+        "source": {
+            "id": "dd1d806725f45e4403e75c1bb23b447a",
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com"
+        }
+    },
+    {
         "id": "a68cb92ef5b8bd4193c6ae650a4e0980",
         "title": "China urges firms not to use Nvidia's H20 chips, Bloomberg News reports",
         "description": "Authorities have sent notices to a range of firms discouraging use of the less-advanced semiconductors, with the guidance taking a particularly strong stance against the use of Nvidia's H20s for any government or national security-related work by state enterprises or private companies, the report said. Nvidia did not immediately respond to a request for comment outside regular business hours. Nvidia said in July that its products have no \"backdoors\" that would allow remote access or control after China raised concerns over potential security risks in the firm's H20 artificial intelligence chip.",
@@ -11,6 +25,20 @@
             "id": "f6d6ee1134197fe1441d65a3e7915835",
             "name": "Yahoo Singapore News",
             "url": "https://sg.news.yahoo.com"
+        }
+    },
+    {
+        "id": "cdae0580213f28937243658cf16c1ebe",
+        "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+        "description": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top…",
+        "content": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its…\nBillionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in... [1612 chars]",
+        "url": "https://wtop.com/europe/2025/08/musk-says-he-plans-to-sue-apple-for-not-featuring-x-or-grok-among-its-top-apps/",
+        "image": "https://wtop.com/wp-content/uploads/2025/07/Australia_X_Corp_88975-scaled.jpg",
+        "publishedAt": "2025-08-12T05:20:25Z",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com"
         }
     },
     {
@@ -98,45 +126,17 @@
         }
     },
     {
-        "id": "9cbfd62b07bd68b1d0feafca4b0497e8",
-        "title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
-        "description": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness U.S. artificial intelligence capabilities to supercharge its military.",
-        "content": "Summary\nCompanies Trump also confirms Nvidia, AMD to give China AI chip revenues to government\nNvidia says company follows rules set by US government\nUS official says admin does not feel sale of chips compromises national security\nAug 11 (Reuters) - ... [5065 chars]",
-        "url": "https://www.reuters.com/world/china/trump-opens-door-sales-version-nvidias-next-gen-ai-chips-china-2025-08-12/",
-        "image": "https://www.reuters.com/resizer/v2/ZET5WGUIBJMRFKFK6AS53T43JQ.jpg?auth=f84cf82e028969a3dd513e1e76df724c30362023b8ff073a4ee0b98a3154fecc&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-12T03:20:14Z",
+        "id": "6aaf45936130630f68f4a13b830a41bb",
+        "title": "NASA and Google develop an AI medical assistant to be used by astronauts on deep‑space missions",
+        "description": "NASA is testing a new artificial intelligence tool to help keep astronauts healthy during missions without an onboard physician or steady communication with Earth.",
+        "content": "Google and NASA are working on a medical assistant powered by artificial intelligence that could be used for extended trips to the space, starting with its Artemis campaign to return to the moon.\nThe tool, called the Crew Medical Officer Digital Assi... [2951 chars]",
+        "url": "https://indianexpress.com/article/technology/tech-news-technology/nasa-and-google-develop-an-ai-medical-assistant-to-be-used-by-astronauts-on-deep%e2%80%91space-missions-10182252/",
+        "image": "https://images.indianexpress.com/2025/08/NASA.jpg",
+        "publishedAt": "2025-08-12T03:36:32Z",
         "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com"
-        }
-    },
-    {
-        "id": "5f6b6aedc099e1d3d36aafc7c1fd894d",
-        "title": "Elon Musk's AI Startup xAI to Sue Apple Over App Store Rankings",
-        "description": "Elon Musk's artificial intelligence startup xAI is set to take legal action against Apple, claiming the company violated antitrust regulations in managing App Store rankings. Musk accuses Apple of hindering AI companies' potential to top the charts, aside from OpenAI. Apple, OpenAI, and xAI have yet to comment.",
-        "content": "Billionaire Elon Musk announced plans for his AI startup xAI to pursue legal action against Apple, citing alleged antitrust violations in the management of App Store rankings.\nMusk claims Apple's practices prevent AI firms, except OpenAI, from securi... [349 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3538128-elon-musks-ai-startup-xai-to-sue-apple-over-app-store-rankings",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_08_2025_11_51_55_0814438.jpg?width=920&format=jpeg",
-        "publishedAt": "2025-08-12T02:54:08Z",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com"
-        }
-    },
-    {
-        "id": "192f2531428fd3b7dd5f0a88a01c261e",
-        "title": "Musk says xAI to take legal action against Apple over App Store rankings",
-        "description": "Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple , accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings.",
-        "content": "Elon Musk is seen with a bruised eye that Musk claimed he received at the hands of his son, X Æ A-12, as he attends a press conference with U.S. President Donald Trump in the Oval Office at the White House in Washington, D.C., U.S., May 30, 2025. REU... [2204 chars]",
-        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-says-xai-take-legal-action-against-apple-over-app-store-rankings-2025-08-12/",
-        "image": "https://www.reuters.com/resizer/v2/3WG5DKLR5RJK7AQYBG5YIDP4LA.jpg?auth=ecce4a9329cbddd4094b89a63e66695f8c60f0953e2ab5320b432231b47ebc40&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-12T02:51:49Z",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com"
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com"
         }
     }
 ]
