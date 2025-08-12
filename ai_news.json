@@ -1,5 +1,33 @@
 [
     {
+        "id": "acb4ef7ebdafac49fa8648325ec0c01d",
+        "title": "Study: AI programs might help ER overcrowding in hospitals",
+        "description": "Artificial intelligence programs can help doctors and nurses predict hours earlier which ER patients will likely require hospital admission, a new study says.",
+        "content": "New York researchers said artificial intelligence programs can help doctors and nurses predict hours earlier which ER patients will likely require hospital admission. File Photo by Thomas Maresca/UPI | License Photo\nArtificial intelligence programs c... [3869 chars]",
+        "url": "https://www.upi.com/Health_News/2025/08/12/ER-overcrowding-AI-program-study/5831755010362/",
+        "image": "https://cdnph.upi.com/sv/ph/og/upi/5831755010362/2025/1/0267573c346724f96eb0b39f383b7dea/v1.5/Study-AI-programs-might-help-ER-overcrowding-in-hospitals.jpg",
+        "publishedAt": "2025-08-12T17:09:00Z",
+        "source": {
+            "id": "79baacd62152cf257ee35e8c0bec19a2",
+            "name": "UPI News",
+            "url": "https://www.upi.com"
+        }
+    },
+    {
+        "id": "4402a909191123b69a5ad90b9323fa30",
+        "title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
+        "description": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
+        "content": "AI Tech giants See all topics Follow\nNew York —\nArtificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend ... [2584 chars]",
+        "url": "https://edition.cnn.com/2025/08/12/tech/perplexity-google-chrome-bid",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184968332.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-08-12T16:31:32Z",
+        "source": {
+            "id": "26269dbc42635df9af8c24f3cdab8e37",
+            "name": "Cable News Network",
+            "url": "https://edition.cnn.com"
+        }
+    },
+    {
         "id": "787e8c4ec2ef58396431867bfdcae08a",
         "title": "Musk to sue Apple over App Store rankings",
         "description": "BILLIONAIRE Elon Musk said on Monday his artificial intelligence (AI) startup xAI would take legal action against Apple, accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings.",
@@ -109,34 +137,6 @@
             "id": "17d7c2645f485578130862e0c8dd9480",
             "name": "The Mercury News",
             "url": "https://www.mercurynews.com"
-        }
-    },
-    {
-        "id": "821ae280cbdb6e33a2fc63a1ad761b8a",
-        "title": "Can South Korea build a sovereign AI?",
-        "description": "South Korea's Ministry of Science and ICT shortlisted five teams this month to take charge of the sovereign AI project, also known as \"AI for everyone,\" aimed at developing domestically built artificial intelligence mode",
-        "content": "The South Korean government has selected five groups as candidates to head the development of the country’s sovereign AI models. Among them are Naver and LG Group. Photos courtesy of Naver, LG Group\nSEOUL, Aug. 12 (UPI) -- South Korea's Ministry of S... [3830 chars]",
-        "url": "https://www.upi.com/Voices/2025/08/12/perspectivve-home-grown-AI-project/6791755003257/",
-        "image": "https://cdnph.upi.com/sv/ph/og/i/6791755003257/2025/1/17550039419229/v1.5/Can-South-Korea-build-a-sovereign-AI.jpg",
-        "publishedAt": "2025-08-12T13:08:00Z",
-        "source": {
-            "id": "79baacd62152cf257ee35e8c0bec19a2",
-            "name": "UPI News",
-            "url": "https://www.upi.com"
-        }
-    },
-    {
-        "id": "62c6de25007e2a54b71f612613929e2c",
-        "title": "Anthropic offers AI chatbot Claude to US government for $1",
-        "description": "Amazon.com-backed Anthropic said on Tuesday it will offer its Claude AI model to the U.S. government for $1, joining a growing list of artificial intelligence startups proposing lucrative deals to win federal contracts.",
-        "content": "Anthropic logo is seen in this illustration taken May 20, 2024. REUTERS/Dado Ruvic/Illustration/File Photo Purchase Licensing Rights , opens new tab\nAug 12 (Reuters) - Amazon.com-backed (AMZN.O) , opens new tab Anthropic said on Tuesday it will offer... [614 chars]",
-        "url": "https://www.reuters.com/business/retail-consumer/anthropic-offers-ai-chatbot-claude-us-government-1-2025-08-12/",
-        "image": "https://www.reuters.com/resizer/v2/WGSWTLH5LRMARGHC3JPB5W7JFM.jpg?auth=13fe4d7d7ba55ac1d6d463de361e064856aff0b365acde62fc2b2b3a95f3f67d&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-12T13:03:13Z",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com"
         }
     }
 ]
