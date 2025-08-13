@@ -1,5 +1,33 @@
 [
     {
+        "id": "58c92d00dd1e1311e746a57e2f8b4238",
+        "title": "Markets Wait for Impact of US Deals With Nvidia, AMD",
+        "description": "Will there be a globally dominant artificial intelligence standard, or different forks for the technology’s development? That’s what Lei Qiu, CIO for Thematic Innovation Equities at AllianceBernstein, is watching as the US allows some AI chips to be sold to China. She joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
+        "content": "00:00\nI'm really interested as to how AllianceBernstein thinks about pricing this in, if at all. How are you looking at the opportunity to access the Chinese market going forward? Well, I think China has always remained one of the most strategic mark... [3308 chars]",
+        "url": "https://www.bloomberg.com/news/videos/2025-08-13/markets-wait-for-impact-of-us-deals-with-nvidia-amd-video",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8l5Ai3ilK_g/v3/-1x-1.jpg",
+        "publishedAt": "2025-08-13T19:28:34Z",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com"
+        }
+    },
+    {
+        "id": "38c8949818f55a378dc03d50c99f3018",
+        "title": "Apple's New Plan for Artificial Intelligence",
+        "description": "Apple Inc. is planning a comeback in artificial intelligence with new devices, including robots, a smart speaker with a display, and home-security cameras, according to people with knowledge of the matter. Mark Gurman has the exclusive details on Bloomberg Businessweek. (Source: Bloomberg)",
+        "content": "00:00\nWalk us through your exclusive. What did you learn about what is Apple is up to when it comes to A.I.? Mark So the conventional wisdom is that Apple is lagging right now. It has no future. The product pipeline is very limited. They're strugglin... [5127 chars]",
+        "url": "https://www.bloomberg.com/news/videos/2025-08-13/apple-s-new-plan-for-artificial-intelligence-video",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMTelY9oVlUo/v3/-1x-1.jpg",
+        "publishedAt": "2025-08-13T19:20:46Z",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com"
+        }
+    },
+    {
         "id": "69d1725aee3dd3c154246e825e624e29",
         "title": "YouTube to begin testing a new AI-powered age verification system in the U.S.",
         "description": "YouTube will begin testing an age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors.",
@@ -109,34 +137,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "5e8f8b64db0db4d69507514ca3468e98",
-        "title": "AI starts performing entry-level work",
-        "description": "ARTIFICIAL intelligence (AI) is quietly shifting the ground beneath entry-level jobs.",
-        "content": "ARTIFICIAL intelligence (AI) is quietly shifting the ground beneath entry-level jobs.\nA recent Business Insider story shows how PwC (PricewaterhouseCoopers), one of the Big Four accounting firms, has started training junior accountants not just to ex... [4362 chars]",
-        "url": "https://www.manilatimes.net/2025/08/14/business/top-business/ai-starts-performing-entry-level-work/2167317",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/13/712130.jpg",
-        "publishedAt": "2025-08-13T16:16:00Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "ede82c25d3b70086d452d4522991e56a",
-        "title": "Cisco earnings are out Wednesday. What top analysts expect to see",
-        "description": "Cisco shares are up more than 20% year to date, largely driven by enthusiasm pouring into artificial intelligence infrastructure and cybersecurity demand.",
-        "content": "Cisco Systems is scheduled to report its fiscal fourth-quarter 2025 earnings after the market close Wednesday. Analysts expect a strong quarter, but some see risks ahead for the stock after its strong performance this year. According to LSEG, analyst... [4444 chars]",
-        "url": "https://www.cnbc.com/2025/08/13/cisco-earnings-are-out-wednesday-heres-what-top-analysts-expect-to-see.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/107373934-1707951626069-gettyimages-1999041241-js2_9788_fus9e4e4.jpeg?v=1755024725&w=1920&h=1080",
-        "publishedAt": "2025-08-13T16:12:37Z",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com"
         }
     }
 ]
