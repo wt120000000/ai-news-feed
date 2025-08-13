@@ -1,5 +1,19 @@
 [
     {
+        "id": "30cf38ba600c9965ab8a7b368bf44712",
+        "title": "CoreWeave drops 14% on wider-than-expected loss ahead of lockup expiry",
+        "description": "CoreWeave's stock dropped about 14% after the renter of artificial intelligence data centers reported a bigger-than-expected loss.",
+        "content": "CoreWeave 's stock dropped 14% after the renter of artificial intelligence data centers reported a bigger-than-expected loss.\nIn its second quarterly financial results as a public company, CoreWeave reported an adjusted loss of 27 cents per share, co... [1005 chars]",
+        "url": "https://www.cnbc.com/2025/08/13/coreweave-stock-loss-lockup.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108122996-17431838782025-03-28t174351z_436556732_rc2emdaff7p1_rtrmadp_0_coreweave-ipo.jpeg?v=1743439739&w=1920&h=1080",
+        "publishedAt": "2025-08-13T14:34:37Z",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com"
+        }
+    },
+    {
         "id": "ecab8651fa8cf47e0c2ce8af5983f0d3",
         "title": "Is AI going to steal your job? Not if you work in cleaning, construction or hospitality, Australian report finds",
         "description": "Jobs and Skills Australia says doomsday predictions are overblown but almost all occupations will be augmented by artificial intelligence",
@@ -123,20 +137,6 @@
             "id": "3f09ae62ee37a33ab191a698fec83f4b",
             "name": "WEAU",
             "url": "https://www.weau.com"
-        }
-    },
-    {
-        "id": "0da2ae21bd6a07bb98234df627c02fc5",
-        "title": "AI Revolutionizes Supply Chains Amid Trade Turbulence",
-        "description": "Amid U.S. trade tariff uncertainties, companies like The Toro Company are leveraging artificial intelligence to optimize supply chain efficiency. AI helps digest news affecting business and assists in ordering components, potentially boosting profit margins by keeping inventories low. Experts warn against overreliance on AI, noting its current limitations.",
-        "content": "In the face of U.S. President Donald Trump's trade tariffs, manufacturers such as The Toro Company are capitalizing on artificial intelligence to navigate supply chain challenges. Despite disruptive global events, Toro's pre-pandemic inventory levels... [625 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3539908-ai-revolutionizes-supply-chains-amid-trade-turbulence",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_03_2025_05_16_22_790612.png?width=920&format=jpeg",
-        "publishedAt": "2025-08-13T11:01:41Z",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com"
         }
     }
 ]
