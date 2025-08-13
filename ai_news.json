@@ -1,12 +1,26 @@
 [
     {
+        "id": "0da2ae21bd6a07bb98234df627c02fc5",
+        "title": "AI Revolutionizes Supply Chains Amid Trade Turbulence",
+        "description": "Amid U.S. trade tariff uncertainties, companies like The Toro Company are leveraging artificial intelligence to optimize supply chain efficiency. AI helps digest news affecting business and assists in ordering components, potentially boosting profit margins by keeping inventories low. Experts warn against overreliance on AI, noting its current limitations.",
+        "content": "In the face of U.S. President Donald Trump's trade tariffs, manufacturers such as The Toro Company are capitalizing on artificial intelligence to navigate supply chain challenges. Despite disruptive global events, Toro's pre-pandemic inventory levels... [625 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3539908-ai-revolutionizes-supply-chains-amid-trade-turbulence",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_03_2025_05_16_22_790612.png?width=920&format=jpeg",
+        "publishedAt": "2025-08-13T11:01:41Z",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com"
+        }
+    },
+    {
         "id": "00b73a2567ea90975d36f3bca2066dd9",
         "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - AI Revolutionizes Supply Chains Amid Trade Turbulence",
         "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
         "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
         "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
         "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2025-08-13T10:09:30Z",
+        "publishedAt": "2025-08-13T11:01:41Z",
         "source": {
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
@@ -123,20 +137,6 @@
             "id": "3bd4bd306c42647825fa42989624c036",
             "name": "Livemint",
             "url": "https://www.livemint.com"
-        }
-    },
-    {
-        "id": "b15696048442fb9167f7bf0d827579fb",
-        "title": "Short Wave : NPR",
-        "description": "Neurotic, anxious robots like C-3P0 from Star Wars' C-3P0 and Marvin from The Hitchhiker's Guide to the Galaxy are a staple of science fiction — but they're not as common in the real world. Most of the time, the chatbots and artificial intelligence \"robots\" we encounter are programmed to be extraverted, confident and cheerful. But what if that changed?NPR science correspondent Nell Greenfieldboyce dives into the world of robot personality research and talks to a team of researchers that are experimenting with a very different kind of robot temperament.Read more of Nell's reporting on the topic here.Interested in more science news? Let us know at shortwave@npr.org. Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.Love podcasts? For handpicked recommendations every Friday, subscribe to NPR's Pod Club.",
-        "content": "Neurotic, anxious robots like C-3P0 from Star Wars' C-3P0 and Marvin from The Hitchhiker's Guide to the Galaxy are a staple of science fiction — but they're not as common in the real world. Most of the time, the chatbots and artificial intelligence \"... [650 chars]",
-        "url": "https://www.npr.org/2025/08/13/nx-s1-5498601/ai-robot-chatgpt-human-personality",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F40%2F37960aca436aa86ef6af8cca1427%2Ffacb5e32-9f3a-44ab-b4b8-9bce6d5f0a0a.jpg",
-        "publishedAt": "2025-08-13T07:00:00Z",
-        "source": {
-            "id": "b41851fb2662ea502db29f71ec4d1583",
-            "name": "NPR",
-            "url": "https://www.npr.org"
         }
     }
 ]
