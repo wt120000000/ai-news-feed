@@ -1,12 +1,12 @@
 [
     {
-        "id": "0da2ae21bd6a07bb98234df627c02fc5",
-        "title": "AI Revolutionizes Supply Chains Amid Trade Turbulence",
-        "description": "Amid U.S. trade tariff uncertainties, companies like The Toro Company are leveraging artificial intelligence to optimize supply chain efficiency. AI helps digest news affecting business and assists in ordering components, potentially boosting profit margins by keeping inventories low. Experts warn against overreliance on AI, noting its current limitations.",
-        "content": "In the face of U.S. President Donald Trump's trade tariffs, manufacturers such as The Toro Company are capitalizing on artificial intelligence to navigate supply chain challenges. Despite disruptive global events, Toro's pre-pandemic inventory levels... [625 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3539908-ai-revolutionizes-supply-chains-amid-trade-turbulence",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_03_2025_05_16_22_790612.png?width=920&format=jpeg",
-        "publishedAt": "2025-08-13T11:01:41Z",
+        "id": "80cdb88b63c5e16e208e2d0bc98cfd88",
+        "title": "The Downside of AI in Healthcare: Erosion of Medical Skills",
+        "description": "A new study suggests that excessive reliance on artificial intelligence in healthcare may lead to skill degradation, as exemplified by a 20% decrease in experienced health professionals' ability to detect benign tumours during colonoscopies when not using AI. The research, first to highlight this issue, calls for more studies.",
+        "content": "A recent study raises concerns over frequent reliance on artificial intelligence in healthcare, particularly as it relates to skill degradation among medical professionals. Researchers found a 20% drop in experienced clinicians' ability to identify b... [694 chars]",
+        "url": "https://www.devdiscourse.com/article/health/3540081-the-downside-of-ai-in-healthcare-erosion-of-medical-skills",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_05_2025_17_39_18_5109334.png?width=920&format=jpeg",
+        "publishedAt": "2025-08-13T12:38:54Z",
         "source": {
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
@@ -15,11 +15,81 @@
     },
     {
         "id": "00b73a2567ea90975d36f3bca2066dd9",
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - AI Revolutionizes Supply Chains Amid Trade Turbulence",
+        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - AI Innovations: Qure.ai's Quest to Revolutionize India's Public Healthcare System",
         "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
         "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
         "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
         "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
+        "publishedAt": "2025-08-13T12:04:22Z",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com"
+        }
+    },
+    {
+        "id": "f6844d4e7dcdb59a0d177733ed1758f2",
+        "title": "AI use in colonoscopy may weaken doctors' detection skills over time",
+        "description": "The introduction of artificial intelligence (AI) to assist colonoscopies is linked to a reduction in the ability of endoscopists (health professionals who perform colonoscopies) to detect precancerous growths (adenomas) in the colon without AI assistance, according to a paper published in The Lancet Gastroenterology & Hepatology journal.",
+        "content": "The introduction of artificial intelligence (AI) to assist colonoscopies is linked to a reduction in the ability of endoscopists (health professionals who perform colonoscopies) to detect precancerous growths (adenomas) in the colon without AI assist... [3780 chars]",
+        "url": "https://www.news-medical.net/news/20250813/AI-use-in-colonoscopy-may-weaken-doctors-detection-skills-over-time.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/Gastroenterology-620x480.jpg",
+        "publishedAt": "2025-08-13T11:36:00Z",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net"
+        }
+    },
+    {
+        "id": "2dbd5069bfe06c0d4891a5ef136d0049",
+        "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+        "description": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
+        "content": "(AP) - Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.\nFILE - Elon Musk, who owns Twitter, Tesla and SpaceX,... [2064 chars]",
+        "url": "https://www.live5news.com/2025/08/13/musk-says-he-plans-sue-apple-not-featuring-x-or-grok-among-its-top-apps/",
+        "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/GF7KGX3Q3ZG3PG2LUA2BL3DPDQ.jpg?auth=ea6778c52fa648e47f8646c703874357befcd8cbacee29f6707c552816f6e833&width=1200&height=600&smart=true",
+        "publishedAt": "2025-08-13T11:09:30Z",
+        "source": {
+            "id": "e7b4d14003cc89c64a689f1c38723ef5",
+            "name": "Live 5 News WCSC",
+            "url": "https://www.live5news.com"
+        }
+    },
+    {
+        "id": "f17cc20aa7f154f77510c6e104011847",
+        "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+        "description": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
+        "content": "(AP) - Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.\nFILE - Elon Musk, who owns Twitter, Tesla and SpaceX,... [2064 chars]",
+        "url": "https://www.wistv.com/2025/08/13/musk-says-he-plans-sue-apple-not-featuring-x-or-grok-among-its-top-apps/",
+        "image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/GF7KGX3Q3ZG3PG2LUA2BL3DPDQ.jpg?auth=ea6778c52fa648e47f8646c703874357befcd8cbacee29f6707c552816f6e833&width=1200&height=600&smart=true",
+        "publishedAt": "2025-08-13T11:09:30Z",
+        "source": {
+            "id": "04c17c43a7507fac95fd9ba5d47715b5",
+            "name": "WIS10",
+            "url": "https://www.wistv.com"
+        }
+    },
+    {
+        "id": "e7b7a7d0ff6ac997aacfef514e9a6203",
+        "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+        "description": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
+        "content": "(AP) - Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.\nFILE - Elon Musk, who owns Twitter, Tesla and SpaceX,... [2064 chars]",
+        "url": "https://www.weau.com/2025/08/13/musk-says-he-plans-sue-apple-not-featuring-x-or-grok-among-its-top-apps/",
+        "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/GF7KGX3Q3ZG3PG2LUA2BL3DPDQ.jpg?auth=ea6778c52fa648e47f8646c703874357befcd8cbacee29f6707c552816f6e833&width=1200&height=600&smart=true",
+        "publishedAt": "2025-08-13T11:09:30Z",
+        "source": {
+            "id": "3f09ae62ee37a33ab191a698fec83f4b",
+            "name": "WEAU",
+            "url": "https://www.weau.com"
+        }
+    },
+    {
+        "id": "0da2ae21bd6a07bb98234df627c02fc5",
+        "title": "AI Revolutionizes Supply Chains Amid Trade Turbulence",
+        "description": "Amid U.S. trade tariff uncertainties, companies like The Toro Company are leveraging artificial intelligence to optimize supply chain efficiency. AI helps digest news affecting business and assists in ordering components, potentially boosting profit margins by keeping inventories low. Experts warn against overreliance on AI, noting its current limitations.",
+        "content": "In the face of U.S. President Donald Trump's trade tariffs, manufacturers such as The Toro Company are capitalizing on artificial intelligence to navigate supply chain challenges. Despite disruptive global events, Toro's pre-pandemic inventory levels... [625 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3539908-ai-revolutionizes-supply-chains-amid-trade-turbulence",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_03_2025_05_16_22_790612.png?width=920&format=jpeg",
         "publishedAt": "2025-08-13T11:01:41Z",
         "source": {
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -67,76 +137,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "0ce309749f0934436a0c82dbfcb29731",
-        "title": "Musk threatens to sue Apple over App Store Grok-snub feud",
-        "description": "Elon Musk has threatened to sue Apple for not putting his artificial intelligence chatbot at the top of its download charts.",
-        "content": "Elon Musk has threatened to sue Apple for not putting his artificial intelligence chatbot at the top of its download charts.\nThe combative Tesla boss has found himself embroiled in another row with the iPhone maker and Sam Altman’s OpenAI group.\nAccu... [2056 chars]",
-        "url": "https://www.dailymail.co.uk/money/markets/article-14995877/Musk-threatens-sue-Apple-App-Store-Grok-snub-feud.html",
-        "image": "https://i.dailymail.co.uk/1s/2025/08/13/08/101170491-0-image-m-38_1755071229877.jpg",
-        "publishedAt": "2025-08-13T07:48:45Z",
-        "source": {
-            "id": "0c9364fff53c0e5a3450947d9a54e795",
-            "name": "Daily Mail Online",
-            "url": "https://www.dailymail.co.uk"
-        }
-    },
-    {
-        "id": "bda7dac7af01482b2a15b0c0f86b590b",
-        "title": "Presight CEO: AI Era is Here to Stay",
-        "description": "Presight has reported record 1H growth as revenue surpassed AED 1 billion. The Abu Dhabi based AI company also said 2Q revenue and net profit rose, fueled by its acquisition of AIQ, a firm specializing in artificial intelligence solutions for the energy industry. Presight CEO, Thomas Pramotedham spoke to Bloomberg's Lizzy Burden on Horizons Middle East and Africa on their international acquisitions as well as use of AI in oilfields. (Source: Bloomberg)",
-        "content": "00:00\nI've just been thinking through your results this morning. You've got first half revenue of 80%. You've upgraded your outlook. What's powering this positivity for the outlook for the rest of the year ahead? Yeah, it's definitely an exciting tim... [4563 chars]",
-        "url": "https://www.bloomberg.com/news/videos/2025-08-13/presight-ceo-ai-era-is-here-to-stay-video",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ie0TJ_Ujw0yw/v3/-1x-1.jpg",
-        "publishedAt": "2025-08-13T07:27:25Z",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com"
-        }
-    },
-    {
-        "id": "f4f62f4a4c069192004de7d1e198928b",
-        "title": "Infobip Positions AI as the New Standard for Customer Experience in Asia-Pacific",
-        "description": "KUALA LUMPUR, Malaysia, Aug. 13, 2025 /PRNewswire/ -- Infobip, the global cloud communications platform, today launched its latest report - The AI Advantage: How Leading Brands Thrive in a 24 x 7 Customer World - providing fresh insights into how Asia-Pacific's hyper-digital consumers are reshaping expectations for always-on engagement, and how artificial intelligence is fast becoming the only way for brands to keep up.",
-        "content": "KUALA LUMPUR, Malaysia, Aug. 13, 2025 /PRNewswire/ -- Infobip, the global cloud communications platform, today launched its latest report - The AI Advantage: How Leading Brands Thrive in a 24 x 7 Customer World - providing fresh insights into how Asi... [7352 chars]",
-        "url": "https://www.manilatimes.net/2025/08/13/tmt-newswire/pr-newswire/infobip-positions-ai-as-the-new-standard-for-customer-experience-in-asia-pacific/2167004",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/13/711336.jpg",
-        "publishedAt": "2025-08-13T07:18:45Z",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
-        }
-    },
-    {
-        "id": "b8c7116805bd2c53a0c9634f80a9b104",
-        "title": "Artificial intelligence is revolutionising classroom learning but will it help or hinder students?",
-        "description": "The AI revolution is well underway in Australia’s schools but what does that mean for the way students learn and think?",
-        "content": "Adrian Camm's \"digital twin\" is uncanny, down to the voice and twitching eyebrows.\nThe website chatbot means the Melbourne principal can be everywhere all at once, answering parents' questions and signing up new enrolments to his school, Westbourne G... [7219 chars]",
-        "url": "https://www.abc.net.au/news/2025-08-13/artificial-intelligence-in-the-classroom-education/105638698",
-        "image": "https://live-production.wcms.abc-cdn.net.au/efe16daf20cafab2d11ac8cd88de12f2?impolicy=wcms_watermark_news&cropH=900&cropW=1600&xPos=0&yPos=150&width=862&height=485&imformat=generic",
-        "publishedAt": "2025-08-13T07:05:26Z",
-        "source": {
-            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-            "name": "ABC News",
-            "url": "https://www.abc.net.au"
-        }
-    },
-    {
-        "id": "8c6e98fdc85645395e5e533eed1b46be",
-        "title": "Jobs at stake: Legislation could shield employees facing an AI threat",
-        "description": "India’s IT sector already seems hit by the rise of artificial intelligence (AI). A private member’s bill presented in Parliament should initiate a debate on the rights of workers in the age of AI. Here’s a look at this bill’s proposals.",
-        "content": "On the heels of news of layoffs at an Indian information technology (IT) behemoth that may be attributed to artificial intelligence (AI), a private member’s bill to protect employees from the use of AI in the workplace has been presented in the Rajya... [5525 chars]",
-        "url": "https://www.livemint.com/opinion/online-views/indian-workplace-legislation-bias-consent-data-processing-gdpr-article-22-equality-impact-assessment-tmc-mausam-noor-ai-11754997401969.html",
-        "image": "https://www.livemint.com/lm-img/img/2025/08/12/1600x900/hire_1752772597466_1752772604975_1755015032061.jpg",
-        "publishedAt": "2025-08-13T07:00:10Z",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com"
         }
     }
 ]
