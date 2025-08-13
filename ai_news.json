@@ -1,16 +1,30 @@
 [
     {
         "id": "00b73a2567ea90975d36f3bca2066dd9",
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - CoreWeave's AI Growth Struggles Amid Rising Losses and Investor Uncertainty",
+        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - AI Revolutionizes Supply Chains Amid Trade Turbulence",
         "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
         "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
         "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
         "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2025-08-13T09:07:04Z",
+        "publishedAt": "2025-08-13T10:09:30Z",
         "source": {
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com"
+        }
+    },
+    {
+        "id": "b0b5f070324b15a6e770dcb25be990f1",
+        "title": "Companies Are Pouring Billions Into A.I. It Has Yet to Pay Off.",
+        "description": "Corporate spending on artificial intelligence is surging as executives bank on major efficiency gains. So far, they report little effect to the bottom line.",
+        "content": "Nearly four decades ago, when the personal computer boom was in full swing, a phenomenon known as the “productivity paradox” emerged.\nIt was a reference to how, despite companies’ huge investments in new technology, there was scant evidence of a corr... [722 chars]",
+        "url": "https://www.nytimes.com/2025/08/13/business/ai-business-payoff-lags.html",
+        "image": "https://static01.nyt.com/images/2025/08/12/business/00biz-ai-lag/00biz-ai-lag-facebookJumbo.jpg",
+        "publishedAt": "2025-08-13T09:01:01Z",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com"
         }
     },
     {
@@ -123,20 +137,6 @@
             "id": "b41851fb2662ea502db29f71ec4d1583",
             "name": "NPR",
             "url": "https://www.npr.org"
-        }
-    },
-    {
-        "id": "c15069425ef2c3d0be59b993ac1c97eb",
-        "title": "Reliance on AI is making health workers less capable",
-        "description": "Use of artificial intelligence may decrease medic’s likelihood of spotting cancerous growths, study finds",
-        "content": "Relying on artificial intelligence could be making health workers less capable, a study has suggested.\nIt is the first research to assess “the phenomenon of deskilling” in medics who have been using AI.\nThe study followed health care workers in Polan... [3047 chars]",
-        "url": "https://www.telegraph.co.uk/news/2025/08/13/reliance-ai-health-workers-less-capable/",
-        "image": "https://www.telegraph.co.uk/content/dam/briefs/2025/08/12/TELEMMGLPICT000435396923_17550110050320_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
-        "publishedAt": "2025-08-13T06:00:00Z",
-        "source": {
-            "id": "bff0cd3b8c64dceaada8841bea814f65",
-            "name": "The Telegraph",
-            "url": "https://www.telegraph.co.uk"
         }
     }
 ]
