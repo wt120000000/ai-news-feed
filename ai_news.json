@@ -1,5 +1,69 @@
 [
     {
+        "id": "be1c43576b7a42a2114e346a46037ad3",
+        "title": "Algorithmic truth: How artificial intelligence is redefining verification and credibility",
+        "description": "The paper argues that AI systems do not simply discover truth; they compute it. In this new epistemic framework, truth is no longer the result of human debate, evidence weighing, and institutional vetting. Instead, it emerges from the inner workings of probabilistic models, pattern recognition systems, and data pipelines. These systems rely on vast training datasets, algorithmic proxies, and optimization objectives to determine credibility and accuracy.",
+        "content": "Artificial intelligence is no longer just a technological tool, it is increasingly becoming the arbiter of what counts as truth. A new review warns that the rise of algorithmically mediated knowledge is reshaping the foundations of public discourse a... [4248 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3538649-algorithmic-truth-how-artificial-intelligence-is-redefining-verification-and-credibility",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_08_2025_17_35_48_6377399.png?width=920&format=jpeg",
+        "publishedAt": "2025-08-14T18:27:54Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "8ead8b744b1c4a5b3cb447f913afe173",
+        "title": "Man who asked ChatGPT about cutting out salt from his diet was hospitalized with hallucinations",
+        "description": "A 60-year-old man spent three weeks being treated at a hospital after replacing table salt with sodium bromide following consultation with a popular artificial intelligence chatbot.",
+        "content": "A 60-year-old man spent three weeks being treated at a hospital after replacing table salt with sodium bromide following consultation with a popular artificial intelligence chatbot.\nThree physicians published a case report on the matter in the Annals... [2417 chars]",
+        "url": "https://www.nbcnews.com/tech/tech-news/man-asked-chatgpt-cutting-salt-diet-was-hospitalized-hallucinations-rcna225055",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250814-chatgpt-salt-advice-se-200p-8c63c7.jpg",
+        "publishedAt": "2025-08-14T18:17:19Z",
+        "lang": "en",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "00b73a2567ea90975d36f3bca2066dd9",
+        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - AI Revolution: SabhaSaar Transforms Panchayat Meeting Minutes",
+        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
+        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
+        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
+        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
+        "publishedAt": "2025-08-14T17:46:37Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "1395da3c91c9ce6b16541e6b007a665d",
+        "title": "Eightfold AI Achieves All Three Levels of ISO/IEC 42001:2023 Certification",
+        "description": "SANTA CLARA, Calif., Aug. 14, 2025 (GLOBE NEWSWIRE) -- Eightfold AI, the leader in AI-powered talent intelligence, today announced that it has been certified to ISO/IEC 42001:2023, the international management system standard for artificial intelligence. Eightfold is the first HR technology vendor to be certified for controls as a developer of AI systems, a provider of AI-enabled services, and a consumer of third‑party AI.",
+        "content": "SANTA CLARA, Calif., Aug. 14, 2025 (GLOBE NEWSWIRE) -- Eightfold AI , the leader in AI-powered talent intelligence, today announced that it has been certified to ISO/IEC 42001:2023, the international management system standard for artificial intellig... [3435 chars]",
+        "url": "https://www.manilatimes.net/2025/08/15/tmt-newswire/globenewswire/eightfold-ai-achieves-all-three-levels-of-isoiec-420012023-certification/2168247",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/15/714170.jpg",
+        "publishedAt": "2025-08-14T17:28:02Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "a7ecb5e9c4071ecfbc3ed41d820b096f",
         "title": "3 charts that show Palantir's astronomical growth since going public",
         "description": "The artificial intelligence-powered software company's cofounders include renowned venture capitalist Peter Thiel and current CEO Alex Karp.",
@@ -93,70 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "9e9a88ae9f0b1837d5abcb276e0a20f6",
-        "title": "Flirty AI chatbot stories illustrate darker side of tech",
-        "description": "Personal stories illustrate a darker side of the artificial intelligence revolution now sweeping tech and the broader business world.",
-        "content": "When Thongbue Wongbandue began packing to visit a friend in New York City one morning in March, his wife, Linda, became alarmed.\n“But you don’t know anyone in the city anymore,” she told him. Bue, as his friends called him, hadn’t lived in the city i... [18257 chars]",
-        "url": "https://www.cp24.com/news/world/2025/08/14/metas-flirty-ai-chatbot-invited-a-retiree-to-new-york-he-never-made-it-home/",
-        "image": "https://www.cp24.com/resizer/v2/C4FSFL4YCWYD4IRJUKFLXWT3XA.jpg?smart=true&auth=ebbfe7108329f1d3a9202d11c49b5314aa82ca815ddb8d027af1e2f9db80dba6&width=1200&height=630",
-        "publishedAt": "2025-08-14T15:58:58Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "00b73a2567ea90975d36f3bca2066dd9",
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Google's AI Revolutionizes Travel with 'Flight Deals' Launch",
-        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
-        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
-        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2025-08-14T15:43:35Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "3b512b776a431f99f26d419de6386840",
-        "title": "AI chatbots can exploit you - so how safe is your personal information?",
-        "description": "A study by researchers from King’s College London found that artificial intelligence chatbots are able to manipulate people into giving them their deep personal information – and there is concern about how this information is stored and if it has the potential to be co-opted by people with nefarious intentions.",
-        "content": "AI chatbots have become so integrated into modern life, with people using them for emotional support , as well as an information-finding tool.\nBut, with bots exploding in popularity, experts are fearful about the unknowns, especially where the safety... [2305 chars]",
-        "url": "https://www.indy100.com/science-tech/ai-chatbots-personal-information-privacy",
-        "image": "https://www.indy100.com/media-library/image.jpg?id=61464604&width=1200&height=600&coordinates=0%2C247%2C0%2C107",
-        "publishedAt": "2025-08-14T15:42:03Z",
-        "lang": "en",
-        "source": {
-            "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
-            "name": "indy100",
-            "url": "https://www.indy100.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "2cc485fccc2e253e1662bc6ff31afa91",
-        "title": "AI firm Cohere raises US$500M, giving US$6.8B valuation",
-        "description": "Cohere says it’s raised US$500 million, giving the Canadian artificial intelligence firm a US$6.8 billion valuation.",
-        "content": "Aidan Gomez, co-founder of Cohere, attends the Collision Conference in Toronto on Tuesday, June 18, 2024.THE CANADIAN PRESS/Chris Young\nTORONTO — Cohere says it’s raised US$500 million, giving the Canadian artificial intelligence firm a US$6.8 billio... [798 chars]",
-        "url": "https://www.cp24.com/news/money/2025/08/14/ai-firm-cohere-raises-us500-million-giving-business-us68-billion-valuation/",
-        "image": "https://www.cp24.com/resizer/v2/3XUDYHTRP3ESQJLZWN4CA24YUM.jpg?smart=true&auth=c2bae63b519cebb4a33c0c1e25af1c4826d7909c77bffd5ee077282a11c75625&width=1200&height=630",
-        "publishedAt": "2025-08-14T14:52:45Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
         }
     }
 ]
