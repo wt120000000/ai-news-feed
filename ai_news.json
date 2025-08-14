@@ -1,5 +1,37 @@
 [
     {
+        "id": "ca6d63de2689ad41ac1a0c80b55e13d3",
+        "title": "Apple Needs to Do an AI Acquisition, Says Dan Ives",
+        "description": "Wedbush Head of Tech Research Dan Ives says Apple is so far behind in artificial intelligence development that it needs to make an acquisition to catch up. Ives joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
+        "content": "00:00\nMarc's reporting moves the needle. Right. We know that this tabletop robot will be the centerpiece on the hardware side. We know that Siri will be made more lifelike. Has this changed things for you, Dan, in what you're modeling for Apple and t... [3991 chars]",
+        "url": "https://www.bloomberg.com/news/videos/2025-08-14/apple-needs-to-do-an-ai-acquisition-says-dan-ives-video",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHLiwkKl6rc8/v3/-1x-1.jpg",
+        "publishedAt": "2025-08-14T18:43:31Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a203445525854b3d306bc25333037178",
+        "title": "Apple Looks to Regain Mojo With AI Robots, Lifelike Siri",
+        "description": "Apple is plotting an artificial intelligence comeback with new devices, including robots and a lifelike version of Siri. Bloomberg’s Mark Gurman discusses the iPhone maker’s plans with Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+        "content": "00:00\nStart with the focus. What can we expect? You know, Apple is a hardware company, right? All these companies charge LPT, Google, Gemini, Microsoft. They have all these AI features. But from a consumer standpoint, it really hasn't been monetized.... [3487 chars]",
+        "url": "https://www.bloomberg.com/news/videos/2025-08-14/apple-looks-to-regain-mojo-with-ai-robots-lifelike-siri-video",
+        "image": "https://www.bloomberg.com/favicon-black.png",
+        "publishedAt": "2025-08-14T18:40:16Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "be1c43576b7a42a2114e346a46037ad3",
         "title": "Algorithmic truth: How artificial intelligence is redefining verification and credibility",
         "description": "The paper argues that AI systems do not simply discover truth; they compute it. In this new epistemic framework, truth is no longer the result of human debate, evidence weighing, and institutional vetting. Instead, it emerges from the inner workings of probabilistic models, pattern recognition systems, and data pipelines. These systems rely on vast training datasets, algorithmic proxies, and optimization objectives to determine credibility and accuracy.",
@@ -13,6 +45,22 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
+        }
+    },
+    {
+        "id": "b0c589e6920217a9e023d93bf7e62eb7",
+        "title": "AI company optimizes buildings with green energy",
+        "description": "Emerging developments in artificial intelligence (AI) have prompted a technology company to acquire a subsidiary focused on optimizing energy operations for commercial and residential buildings to become more sustainable.",
+        "content": "Jean-Simon Venne, President and Founder of BrainBox AI, a Trane Technologies Company, joins BNN Bloomberg to discuss the company's outlook.\nEmerging developments in artificial intelligence (AI) have prompted a technology company to launch a subsidiar... [3898 chars]",
+        "url": "https://www.cp24.com/news/money/2025/08/14/build-a-better-future-ai-company-aims-to-optimize-energy-consumption-with-data/",
+        "image": "https://www.cp24.com/resizer/v2/COPHKJGRJ7LRGI77NVKXCP2HWY.jpg?smart=true&auth=edc4a80f6e47ea239273af7447a4dc0311dd194ae65a09952e7363eb5168417b&width=1200&height=630",
+        "publishedAt": "2025-08-14T18:25:05Z",
+        "lang": "en",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com",
+            "country": "ca"
         }
     },
     {
@@ -109,54 +157,6 @@
             "name": "Cable News Network",
             "url": "https://edition.cnn.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "3a14c187d516fc48258ee9d5563e8233",
-        "title": "AI startup Cohere valued at $6.8 billion in latest fundraise, appoints new executives",
-        "description": "Cohere was valued at $6.8 billion after its latest $500 million funding round, as the artificial intelligence startup moves to expand its market share in a highly competitive industry.",
-        "content": "Cohere logo is seen in this illustration taken March 31, 2023. REUTERS/Dado Ruvic/Illustration/File Photo Purchase Licensing Rights , opens new tab\nAug 14 (Reuters) - Cohere was valued at $6.8 billion after its latest $500 million funding round, as t... [1235 chars]",
-        "url": "https://www.reuters.com/business/ai-startup-cohere-valued-68-billion-latest-fundraise-appoints-new-executives-2025-08-14/",
-        "image": "https://www.reuters.com/resizer/v2/NNM457HPLNNBRFZNYWP52ZZYGM.jpg?auth=90d029b22223f9c236880c82b709daa0ec23da99b35ac97e06af2379f93b8188&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-14T16:06:05Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a60ef3b934832ca816b65148c3f7d31c",
-        "title": "US-China tariff pause a positive sign - Lenovo",
-        "description": "BEIJING — China’s Lenovo said on Thursday the tariff pause between Washington and Beijing was positive, and growth in China’s artificial intelligence (AI) infrastructure remained strong despite US-China tech tensions.",
-        "content": "BEIJING — China’s Lenovo said on Thursday the tariff pause between Washington and Beijing was positive, and growth in China’s artificial intelligence (AI) infrastructure remained strong despite US-China tech tensions.\n“The truce is a positive situati... [2531 chars]",
-        "url": "https://www.manilatimes.net/2025/08/15/business/foreign-business/us-china-tariff-pause-a-positive-sign-lenovo/2168074",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-08-14T16:03:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "3d9502c55b4d51e0b9823307414dab85",
-        "title": "AI demand to boost Foxconn’s Q2 profit",
-        "description": "TAIPEI — Taiwan’s Foxconn, the world’s largest contract electronics maker, is expected to report on Thursday that second-quarter profit rose 11 percent on continued strong demand for artificial intelligence (AI) servers.",
-        "content": "TAIPEI — Taiwan’s Foxconn, the world’s largest contract electronics maker, is expected to report on Thursday that second-quarter profit rose 11 percent on continued strong demand for artificial intelligence (AI) servers.\nNet profit for April-June for... [2197 chars]",
-        "url": "https://www.manilatimes.net/2025/08/15/business/foreign-business/ai-demand-to-boost-foxconns-q2-profit/2168072",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-08-14T16:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
