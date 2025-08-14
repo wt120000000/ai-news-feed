@@ -1,5 +1,53 @@
 [
     {
+        "id": "a7ecb5e9c4071ecfbc3ed41d820b096f",
+        "title": "3 charts that show Palantir's astronomical growth since going public",
+        "description": "The artificial intelligence-powered software company's cofounders include renowned venture capitalist Peter Thiel and current CEO Alex Karp.",
+        "content": "In this article PLTR Follow your favorite stocks CREATE FREE ACCOUNT\nAlexander Karp, chief executive officer and co-founder of Palantir Technologies Inc. Scott Eelis | Bloomberg | Getty Images\nPalantir 's astronomical rise since its public debut on t... [4164 chars]",
+        "url": "https://www.cnbc.com/2025/08/14/palantir-ai-charts-revenue.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/101701316-173313274.jpg?v=1755185385&w=1920&h=1080",
+        "publishedAt": "2025-08-14T17:05:51Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7c8d540bf3511c9bfcc12193a04ddd74",
+        "title": "Right-wing activist Robby Starbuck joins Meta as an AI advisor focused on ‘bias’",
+        "description": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
+        "content": "AI Tech giants Activism Congressional news See all topics Follow\nNew York —\nConservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.\nThe par... [4323 chars]",
+        "url": "https://www.cnn.com/2025/08/14/tech/robby-starbuck-meta-ai-advisor",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202924571.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-08-14T16:19:00Z",
+        "lang": "en",
+        "source": {
+            "id": "0c27793cc56dcaedbbf2ab1ff2728cac",
+            "name": "CNN",
+            "url": "https://www.cnn.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "bf8c091c758bcc1c624f8bc86b250a74",
+        "title": "Right-wing activist Robby Starbuck joins Meta as an AI advisor focused on ‘bias’",
+        "description": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
+        "content": "AI Tech giants Activism Congressional news See all topics Follow\nNew York —\nConservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.\nThe par... [4323 chars]",
+        "url": "https://edition.cnn.com/2025/08/14/tech/robby-starbuck-meta-ai-advisor",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202924571.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-08-14T16:19:00Z",
+        "lang": "en",
+        "source": {
+            "id": "26269dbc42635df9af8c24f3cdab8e37",
+            "name": "Cable News Network",
+            "url": "https://edition.cnn.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "3a14c187d516fc48258ee9d5563e8233",
         "title": "AI startup Cohere valued at $6.8 billion in latest fundraise, appoints new executives",
         "description": "Cohere was valued at $6.8 billion after its latest $500 million funding round, as the artificial intelligence startup moves to expand its market share in a highly competitive industry.",
@@ -7,10 +55,12 @@
         "url": "https://www.reuters.com/business/ai-startup-cohere-valued-68-billion-latest-fundraise-appoints-new-executives-2025-08-14/",
         "image": "https://www.reuters.com/resizer/v2/NNM457HPLNNBRFZNYWP52ZZYGM.jpg?auth=90d029b22223f9c236880c82b709daa0ec23da99b35ac97e06af2379f93b8188&height=1005&width=1920&quality=80&smart=true",
         "publishedAt": "2025-08-14T16:06:05Z",
+        "lang": "en",
         "source": {
             "id": "da5c26287bdd02563a2c32b55cb12051",
             "name": "Reuters",
-            "url": "https://www.reuters.com"
+            "url": "https://www.reuters.com",
+            "country": "us"
         }
     },
     {
@@ -21,10 +71,12 @@
         "url": "https://www.manilatimes.net/2025/08/15/business/foreign-business/us-china-tariff-pause-a-positive-sign-lenovo/2168074",
         "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
         "publishedAt": "2025-08-14T16:03:00Z",
+        "lang": "en",
         "source": {
             "id": "7c666ee953f873d3057b310220f510df",
             "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
         }
     },
     {
@@ -35,10 +87,12 @@
         "url": "https://www.manilatimes.net/2025/08/15/business/foreign-business/ai-demand-to-boost-foxconns-q2-profit/2168072",
         "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
         "publishedAt": "2025-08-14T16:00:00Z",
+        "lang": "en",
         "source": {
             "id": "7c666ee953f873d3057b310220f510df",
             "name": "The Manila Times",
-            "url": "https://www.manilatimes.net"
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
         }
     },
     {
@@ -49,10 +103,12 @@
         "url": "https://www.cp24.com/news/world/2025/08/14/metas-flirty-ai-chatbot-invited-a-retiree-to-new-york-he-never-made-it-home/",
         "image": "https://www.cp24.com/resizer/v2/C4FSFL4YCWYD4IRJUKFLXWT3XA.jpg?smart=true&auth=ebbfe7108329f1d3a9202d11c49b5314aa82ca815ddb8d027af1e2f9db80dba6&width=1200&height=630",
         "publishedAt": "2025-08-14T15:58:58Z",
+        "lang": "en",
         "source": {
             "id": "85e5403407038478a5e7d8d100ff8e8f",
             "name": "CP24 Toronto",
-            "url": "https://www.cp24.com"
+            "url": "https://www.cp24.com",
+            "country": "ca"
         }
     },
     {
@@ -63,10 +119,12 @@
         "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
         "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
         "publishedAt": "2025-08-14T15:43:35Z",
+        "lang": "en",
         "source": {
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com"
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
         }
     },
     {
@@ -77,10 +135,12 @@
         "url": "https://www.indy100.com/science-tech/ai-chatbots-personal-information-privacy",
         "image": "https://www.indy100.com/media-library/image.jpg?id=61464604&width=1200&height=600&coordinates=0%2C247%2C0%2C107",
         "publishedAt": "2025-08-14T15:42:03Z",
+        "lang": "en",
         "source": {
             "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
             "name": "indy100",
-            "url": "https://www.indy100.com"
+            "url": "https://www.indy100.com",
+            "country": "gb"
         }
     },
     {
@@ -91,52 +151,12 @@
         "url": "https://www.cp24.com/news/money/2025/08/14/ai-firm-cohere-raises-us500-million-giving-business-us68-billion-valuation/",
         "image": "https://www.cp24.com/resizer/v2/3XUDYHTRP3ESQJLZWN4CA24YUM.jpg?smart=true&auth=c2bae63b519cebb4a33c0c1e25af1c4826d7909c77bffd5ee077282a11c75625&width=1200&height=630",
         "publishedAt": "2025-08-14T14:52:45Z",
+        "lang": "en",
         "source": {
             "id": "85e5403407038478a5e7d8d100ff8e8f",
             "name": "CP24 Toronto",
-            "url": "https://www.cp24.com"
-        }
-    },
-    {
-        "id": "1070bd456a40c15884148e5413a2b9f1",
-        "title": "AI firm Cohere raises US$500 million, giving business US$6.8 billion valuation",
-        "description": "TORONTO — Cohere says it's raised US$500 million, giving the Canadian artificial intelligence firm a US$6.8 billion valuation.",
-        "content": "TORONTO — Cohere says it's raised US$500 million, giving the Canadian artificial intelligence firm a US$6.8 billion valuation.\nThe funding round was led by Radical Ventures and Inovia Capital, with additional cash from AMD Ventures, Nvidia, PSP Inves... [658 chars]",
-        "url": "https://www.guelphtoday.com/national-business/ai-firm-cohere-raises-us500-million-giving-business-us68-billion-valuation-11075470",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/093e10a7203cb2575445228d41a19a49e9d6bdf7f638d64d574a17fcda632c72.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-08-14T14:42:29Z",
-        "source": {
-            "id": "300a668ea1fb6b59c9da32db8e856d66",
-            "name": "GuelphToday",
-            "url": "https://www.guelphtoday.com"
-        }
-    },
-    {
-        "id": "8d17ee3c1ee52166e0f992faa1ffd039",
-        "title": "AI firm Cohere raises US$500 million, giving business US$6.8 billion valuation",
-        "description": "TORONTO — Cohere says it's raised US$500 million, giving the Canadian artificial intelligence firm a US$6.8 billion valuation.",
-        "content": "TORONTO — Cohere says it's raised US$500 million, giving the Canadian artificial intelligence firm a US$6.8 billion valuation.\nThe funding round was led by Radical Ventures and Inovia Capital, with additional cash from AMD Ventures, Nvidia, PSP Inves... [658 chars]",
-        "url": "https://www.elliotlaketoday.com/national-business/ai-firm-cohere-raises-us500-million-giving-business-us68-billion-valuation-11075470",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/093e10a7203cb2575445228d41a19a49e9d6bdf7f638d64d574a17fcda632c72.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-08-14T14:42:29Z",
-        "source": {
-            "id": "b93fbda11fec5c2f08572a67a337e87d",
-            "name": "ElliotLakeToday.com",
-            "url": "https://www.elliotlaketoday.com"
-        }
-    },
-    {
-        "id": "5db9161810e140aefa534100c83f4b3e",
-        "title": "AI firm Cohere raises US$500 million, giving business US$6.8 billion valuation",
-        "description": "TORONTO - Cohere says it's raised US$500 million, giving the Canadian artificial intelligence firm a US$6.8 billion valuation.",
-        "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-        "url": "https://www.thestar.com/business/ai-firm-cohere-raises-us-500-million-giving-business-us-6-8-billion-valuation/article_3349ca60-c48b-5ae6-b1b5-7d05cb4df413.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/80/2802d031-15d9-5291-8d91-e24492cf033d/685abfcac5d02.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2025-08-14T14:42:29Z",
-        "source": {
-            "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
-            "name": "Toronto Star",
-            "url": "https://www.thestar.com"
+            "url": "https://www.cp24.com",
+            "country": "ca"
         }
     }
 ]
