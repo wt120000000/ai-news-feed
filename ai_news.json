@@ -1,5 +1,19 @@
 [
     {
+        "id": "b9c3c6db63ec711efe3497b117ce7d12",
+        "title": "Illinois becomes third state to restrict use of AI in mental health industry as experts warn about 'AI psychosis'",
+        "description": "Illinois passed a bill banning therapists from employing artificial intelligence chatbots for assistance with mental health therapy as experts countrywide warn against people's ever-growing reliance on the machines.",
+        "content": "Illinois passed a bill banning therapists from employing artificial intelligence chatbots for assistance with mental health therapy, as experts countrywide warn against people’s ever-growing reliance on the machines.\nThe “Therapy Resources Oversight”... [3682 chars]",
+        "url": "https://nypost.com/2025/08/13/us-news/illinois-becomes-third-state-to-restrict-use-of-ai-in-mental-health-industry-as-experts-warn-about-ai-psychosis/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/ai-therapy.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2025-08-14T03:54:04Z",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com"
+        }
+    },
+    {
         "id": "288a34df3b6447193ec85e0eaf7f3907",
         "title": "Generative AI set to improve banking operations in India by 46%: RBI Report",
         "description": "Generative Artificial Intelligence (AI) has the potential to improve banking operations in India by up to 46 per cent, according to a report by the Reserve Bank of India (RBI).",
@@ -84,6 +98,20 @@
         }
     },
     {
+        "id": "fb51c640bf195c7119a7c57f3c1835e7",
+        "title": "Trump’s AI chip deal sparks legal questions and national security concerns",
+        "description": "President Trump stunned many in the tech world after announcing a controversial deal with chipmakers Nvidia and AMD, allowing them to sell advanced artificial intelligence chips to China in exchange for giving the U.S. government a 15% cut of their revenue. Amna Nawaz discussed the legality of this deal and its implications with Scott Kennedy of the Center for Strategic and International Studies.",
+        "content": "Amna Nawaz:\nPresident Trump stunned many in the tech world after announcing a controversial deal with chipmakers Nvidia and Advanced Micro Devices, allowing them to sell advanced artificial intelligence chips to China in exchange for giving the U.S. ... [1070 chars]",
+        "url": "https://www.pbs.org/newshour/show/trumps-ai-chip-deal-sparks-legal-questions-and-national-security-concerns",
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/ChipsDeal-1024x683.jpg",
+        "publishedAt": "2025-08-13T22:40:18Z",
+        "source": {
+            "id": "31177620c1e6e610b5d2b67916ed3615",
+            "name": "PBS News",
+            "url": "https://www.pbs.org/newshour"
+        }
+    },
+    {
         "id": "756ce1e54ee7278ac35f64116c34917c",
         "title": "Illinois law bans AI use to provide mental health advice",
         "description": "Illinois recently passed a law that prohibits the use of artificial intelligence for mental health interactions or decisions.",
@@ -109,34 +137,6 @@
             "id": "2f5884e252590f739df55c0e7db375df",
             "name": "WJLA",
             "url": "https://wjla.com"
-        }
-    },
-    {
-        "id": "bdce931ebcd999d6bdb3fe27165b8491",
-        "title": "AI demand expected to boost electronics giant Foxconn's second-quarter profit",
-        "description": "Taiwan's Foxconn , the world's largest contract electronics maker, is expected to report on Thursday that second-quarter profit rose 14% on continued strong demand for artificial intelligence servers.",
-        "content": "A Foxconn electric two-wheeler powertrain system is displayed at Foxconn?s annual tech day in Taipei, Taiwan October 8, 2024. REUTERS/Ann Wang/File Photo Purchase Licensing Rights , opens new tab\nItem 1 of 2 A Foxconn electric two-wheeler powertrain ... [2510 chars]",
-        "url": "https://www.reuters.com/world/china/ai-demand-expected-boost-electronics-giant-foxconns-second-quarter-profit-2025-08-13/",
-        "image": "https://www.reuters.com/resizer/v2/BH4YW72J3ROGZEK5DV2XRFDDCU.jpg?auth=4edd45f32f01a9468a9bf2f647ec1d337fc5bb0cf0fe1a2b4db8e2961a910e9e&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-13T22:02:18Z",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com"
-        }
-    },
-    {
-        "id": "055ca371495a72f05ca37c9c6610d9b7",
-        "title": "Elon Musk's xAI loses co-founder Igor Babuschkin for venture firm",
-        "description": "Igor Babuschkin, who helped start xAI in 2023, said in a post on X that he's leaving the artificial intelligence startup to launch his own venture firm.",
-        "content": "Igor Babuschkin, co-founder of xAI, during the Nvidia GPU Technology Conference (GTC) in San Jose, California, US, on Tuesday, March 19, 2024.\nIgor Babuschkin, a founding member of Elon Musk's xAI, said Wednesday that he's leaving the artificial inte... [3055 chars]",
-        "url": "https://www.cnbc.com/2025/08/13/elon-musks-xai-loses-co-founder-igor-babuschkin-for-venture-firm.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108185685-1755120943572-gettyimages-2089842712-NVIDIA_GTC_CONFERENCE.jpeg?v=1755120980&w=1920&h=1080",
-        "publishedAt": "2025-08-13T21:56:08Z",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com"
         }
     }
 ]
