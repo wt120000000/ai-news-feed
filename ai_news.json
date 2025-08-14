@@ -1,5 +1,37 @@
 [
     {
+        "id": "7635a540c4d5442076809fc68995b08c",
+        "title": "Margaret Boden, Philosopher of Artificial Intelligence, Dies at 88",
+        "description": "A cognitive scientist, she used the language of computers to explore the nature of human thought and creativity, offering prescient insights about A.I.",
+        "content": "Margaret Boden, a British philosopher and cognitive scientist who used the language of computers to explore the nature of thought and creativity, leading her to prescient insights about the possibilities and limitations of artificial intelligence, di... [1061 chars]",
+        "url": "https://www.nytimes.com/2025/08/14/science/margaret-boden-dead.html",
+        "image": "https://static01.nyt.com/images/2025/08/14/multimedia/14Boden--zfmv/14Boden--zfmv-facebookJumbo.jpg",
+        "publishedAt": "2025-08-14T20:36:35Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ca0949613fee79c545240059addacb24",
+        "title": "India is rising to become a global powerhouse",
+        "description": "As India marks its 79th Independence Day on Aug. 15, it is a moment to reflect on the sacrifices of our freedom fighters and the extraordinary journey of a nation that has risen to become a global powerhouse. India’s progress today is underscored by leadership across cutting-edge domains such as artificial intelligence, digital governance, and space exploration. The recent",
+        "content": "India is rising to become a global powerhouse\nFahad Ahmed Khan Suri\nShort Url https://arab.news/nd8n3\nAs India marks its 79th Independence Day on Aug. 15, it is a moment to reflect on the sacrifices of our freedom fighters and the extraordinary journ... [2631 chars]",
+        "url": "https://www.arabnews.com/node/2611852",
+        "image": "https://www.arabnews.com/sites/default/files/index23.png",
+        "publishedAt": "2025-08-14T20:07:38Z",
+        "lang": "en",
+        "source": {
+            "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+            "name": "Arab News",
+            "url": "https://www.arabnews.com",
+            "country": "ar"
+        }
+    },
+    {
         "id": "bf4c335ecb0f07c3f52238ba22c87ea8",
         "title": "Meta’s superintelligence dream team will be management challenge of the century",
         "description": "Meta Platforms Inc. is spending a fortune to assemble the brightest minds in artificial intelligence. Chief Executive Officer Mark Zuckerberg may want to note: Research suggests that packing a team with too much genius can backfire.",
@@ -125,38 +157,6 @@
             "name": "NBC News",
             "url": "https://www.nbcnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "1b453e7da634f447f9dabcae70f32a8d",
-        "title": "Cognitively impaired man traveled to NYC to meet Facebook chatbot he fell in love with. He never returned home",
-        "description": "Incident illustrates potential dangers posed by vulnerable people accessing artificial intelligence",
-        "content": "Your support helps us to tell the story Read more Support Now From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PA... [6855 chars]",
-        "url": "https://www.independent.co.uk/news/world/americas/ai-relationship-death-facebook-b2807899.html",
-        "image": "https://static.independent.co.uk/2025/08/14/17/21/GettyImages-2192471202.jpg?width=1200&height=800&crop=1200:800",
-        "publishedAt": "2025-08-14T18:08:14Z",
-        "lang": "en",
-        "source": {
-            "id": "97497c18f5cb431f5f324b3d8643c24f",
-            "name": "The Independent",
-            "url": "https://www.independent.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "00b73a2567ea90975d36f3bca2066dd9",
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - AI Revolution: SabhaSaar Transforms Panchayat Meeting Minutes",
-        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
-        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
-        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2025-08-14T17:46:37Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
