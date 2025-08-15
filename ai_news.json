@@ -1,9 +1,41 @@
 [
     {
+        "id": "5797bb191834ea2c75049d2ef442bf62",
+        "title": "YouTube turns to AI to spot children posing as adults",
+        "description": "YouTube has started using artificial intelligence (AI) to figure out when users are children pretending to be adults on the popular video-sharing platform amid pressure to protect minors from sensitive content.\"Our position remains clear: YouTube is a video sharing platform with a library of free, high-quality content, increasingly viewed on TV screens,\" the company said in a statement at the time.",
+        "content": "Interest in limiting the ability of children to access YouTube clashes with a growing use of YouTube videos in education (Kirill KUDRYAVTSEV) (Kirill KUDRYAVTSEV/AFP/AFP)\nYouTube has started using artificial intelligence (AI) to figure out when users... [2255 chars]",
+        "url": "https://sg.news.yahoo.com/youtube-turns-ai-spot-children-001736495.html",
+        "image": "https://media.zenfs.com/en/afp.com.sg/4f393250ec393bb347341ad9c80f7e66",
+        "publishedAt": "2025-08-15T00:17:36Z",
+        "lang": "en",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com",
+            "country": "sg"
+        }
+    },
+    {
+        "id": "96d20b3408f52d9d95c7d8eda3fe3228",
+        "title": "Hedge funds shift bets to double down on Big Tech amid AI boom",
+        "description": "Wall Street's largest hedge funds, Bridgewater Associates, Tiger Global Management and Discovery Capital, increased their exposure to Big Tech in the second quarter amid a generational boom in the growth of artificial intelligence.",
+        "content": "A view shows the New York Stock Exchange (NYSE) Wall Street entrance in New York City, U.S., April 7, 2025. REUTERS/Kylie Cooper/File Photo Purchase Licensing Rights , opens new tab\nNEW YORK, Aug 14 (Reuters) - Wall Street's largest hedge funds, Brid... [4629 chars]",
+        "url": "https://www.reuters.com/markets/wealth/hedge-funds-shift-bets-double-down-big-tech-amid-ai-boom-2025-08-14/",
+        "image": "https://www.reuters.com/resizer/v2/QIMUYXIPNNJWLFB7FEMVFQODIU.jpg?auth=6bcddd76163f72276a09eb76602852888d94a4a8e25557d73a55eb872f1fb50e&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-14T23:35:44Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "61302272122006d7d6047a65070d8e9d",
         "title": "Silicon Valley Parents Are Spending $50,000 to Screen Embryos for IQ",
         "description": "Some tech CEOs are hoping that their children will be intelligent enough to regulate the artificial intelligence being developed in their very own industry.",
-        "content": "Scouted selects products independently. If you purchase something from our posts, we may earn a small commission.\nWhile there’s something undeniably indulgent about a 10-step skincare routine, sometimes you just need a few streamlined products to get... [1960 chars]",
+        "content": "Scouted selects products independently. If you purchase something from our posts, we may earn a small commission.\nForget books and binders—if you really want to step into a new school year with confidence, you need a fresh pair of jeans. When it come... [1620 chars]",
         "url": "https://www.thedailybeast.com/silicon-valley-parents-are-spending-50000-to-screen-embryos-for-iq/",
         "image": "https://www.thedailybeast.com/resizer/v2/U47XM5M5HNDKPDOJ5UHCTVKNPA.jpg?smart=true&auth=071dc01ba10bfe0c393d8a5d72edf283a8e3bc9c27f794d520d99cf76ef93f0f&width=1200&height=630",
         "publishedAt": "2025-08-14T21:39:37Z",
@@ -83,7 +115,7 @@
         "id": "499c4b3888587964ac71368ebe90c8a7",
         "title": "AI Cash Boon Might Grease Way for Universal Income",
         "description": "With artificial intelligence (AI) rendering more and more jobs obsolete, some tech titans in Silicon Valley say the solution lies in giving everyone a universal basic income (UBI).",
-        "content": "With artificial intelligence (AI) rendering more and more jobs obsolete, some tech titans in Silicon Valley say the solution lies in giving everyone a universal basic income (UBI).\nIn the 1960s, economists and welfare-rights activists began pushing t... [2653 chars]",
+        "content": "With artificial intelligence rendering more and more jobs obsolete, some tech titans in Silicon Valley say the solution lies in giving everyone a universal basic income.\nIn the 1960s, economists and welfare-rights activists began pushing the idea as ... [3697 chars]",
         "url": "https://www.newsmax.com/newsfront/technology-ai-basic/2025/08/14/id/1222535/",
         "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=034fa37e-b67b-41ce-8d28-666c0f06192f&SiteName=Newsmax",
         "publishedAt": "2025-08-14T21:08:34Z",
@@ -101,7 +133,7 @@
         "description": "A cognitive scientist, she used the language of computers to explore the nature of human thought and creativity, offering prescient insights about A.I.",
         "content": "Margaret Boden, a British philosopher and cognitive scientist who used the language of computers to explore the nature of thought and creativity, leading her to prescient insights about the possibilities and limitations of artificial intelligence, di... [1061 chars]",
         "url": "https://www.nytimes.com/2025/08/14/science/margaret-boden-dead.html",
-        "image": "https://static01.nyt.com/images/2025/08/14/multimedia/14Boden--zfmv/14Boden--zfmv-facebookJumbo.jpg",
+        "image": "https://static01.nyt.com/images/2025/08/14/multimedia/14Boden--zfmv/14Boden--zfmv-facebookJumbo-v2.jpg",
         "publishedAt": "2025-08-14T20:36:35Z",
         "lang": "en",
         "source": {
@@ -125,38 +157,6 @@
             "name": "Arab News",
             "url": "https://www.arabnews.com",
             "country": "ar"
-        }
-    },
-    {
-        "id": "4ec3000a65cb6e89c11398a512f2c860",
-        "title": "Japan consortium developing misinformation-fighting AI model",
-        "description": "A Japanese consortium involving Fujitsu Ltd is developing a fact-checking platform using artificial intelligence, seeking to counter the type of online misinformation often seen during disasters and around elections. The group of nine organizations -- including the National Institute of Informatics, NEC Corp and academic institutions -- aims to complete…",
-        "content": "A Japanese consortium involving Fujitsu Ltd is developing a fact-checking platform using artificial intelligence, seeking to counter the type of online misinformation often seen during disasters and around elections.\nThe group of nine organizations -... [1546 chars]",
-        "url": "https://japantoday.com/category/tech/japan-consortium-developing-misinformation-fighting-ai-model",
-        "image": "https://japantoday.com/images/japan-today-social.jpg",
-        "publishedAt": "2025-08-14T20:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "bf4c335ecb0f07c3f52238ba22c87ea8",
-        "title": "Meta’s superintelligence dream team will be management challenge of the century",
-        "description": "Meta Platforms Inc. is spending a fortune to assemble the brightest minds in artificial intelligence. Chief Executive Officer Mark Zuckerberg may want to note: Research suggests that packing a team with too much genius can backfire.",
-        "content": "The Meta AI logo on a laptop arranged in Germantown, New York, US, on Wednesday, July 23, 2025. In April, Meta said it could spend as much as $72 billion on capital expenditures this year, with a focus on AI and the data centers used to train and run... [8711 chars]",
-        "url": "https://www.latimes.com/business/story/2025-08-14/metas-superintelligence-dream-team-will-be-management-challenge-of-the-century",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/8a4345c/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fde%2F61%2F95704e1251798b1029fc009dce63%2F1x-1.jpg",
-        "publishedAt": "2025-08-14T19:49:47Z",
-        "lang": "en",
-        "source": {
-            "id": "492abf277b7277432148b61b21ddc836",
-            "name": "Los Angeles Times",
-            "url": "https://www.latimes.com",
-            "country": "us"
         }
     }
 ]
