@@ -1,5 +1,37 @@
 [
     {
+        "id": "b8326e411767744f774007f4d89c444b",
+        "title": "Blue-collar jobs are gaining popularity as AI threatens office work",
+        "description": "Geoffrey Hinton’s message on a recent podcast about artificial intelligence was simple: “Train to be a plumber.”Hinton, a Nobel Prize-winning computer scientist often called “the Godfather of AI,” said in June what people have now been saying for years: Jobs that include manual labor and expertise are the least vulnerable to modern technology than some other career paths, many of which have generally been considered more respected and more lucrative.",
+        "content": "Geoffrey Hinton’s message on a recent podcast about artificial intelligence was simple: “Train to be a plumber.”\nHinton, a Nobel Prize-winning computer scientist often called “the Godfather of AI,” said in June what people have now been saying for ye... [5322 chars]",
+        "url": "https://www.nbcnews.com/business/business-news/ai-which-jobs-are-skilled-trades-protected-what-to-know-rcna223249",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250807-ai-replacing-trade-jobs-to-33bace.jpg",
+        "publishedAt": "2025-08-16T10:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ad6dd46367f5c500e0bc10203ebeaa39",
+        "title": "Robots race, play football, crash and collapse at China’s ‘robot Olympics’",
+        "description": "China kicked off the three-day long World Humanoid Robot Games on Friday, looking to showcase its advances in artificial intelligence and robotics with 280 teams from 16 countries.",
+        "content": "Asia China Football See all topics Follow\nReuters —\nChina kicked off the three-day long World Humanoid Robot Games on Friday, looking to showcase its advances in artificial intelligence and robotics with 280 teams from 16 countries.\nRobots competed i... [2653 chars]",
+        "url": "https://edition.cnn.com/2025/08/16/sport/world-humanoid-robot-olympics-china-intl",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2230288274.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-08-16T09:36:53Z",
+        "lang": "en",
+        "source": {
+            "id": "26269dbc42635df9af8c24f3cdab8e37",
+            "name": "Cable News Network",
+            "url": "https://edition.cnn.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "00b73a2567ea90975d36f3bca2066dd9",
         "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Australia's AI Shadow Use: Unveiling the Secret Workforce Revolution",
         "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
@@ -13,22 +45,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "df733fb8f5b54d70d92bd4dbb573ee0c",
-        "title": "US senator launches probe into Meta’s AI policies",
-        "description": "WASHINGTON: US Senator Josh Hawley launched a probe into Facebook parent Meta Platforms artificial intelligence...",
-        "content": "WASHINGTON: US Senator Josh Hawley launched a probe into Facebook parent Meta Platforms artificial intelligence policies on Friday, demanding documents on rules that had allowed its artificial intelligence chatbots to engage a child in conversations ... [1328 chars]",
-        "url": "https://www.dawn.com/news/1931184/us-senator-launches-probe-into-metas-ai-policies",
-        "image": "https://www.dawn.com/_img/social-default.jpg",
-        "publishedAt": "2025-08-16T02:13:08Z",
-        "lang": "en",
-        "source": {
-            "id": "6536182115f7e8188f38d864bab0e1c6",
-            "name": "DAWN.com",
-            "url": "https://www.dawn.com",
-            "country": "pk"
         }
     },
     {
@@ -140,22 +156,6 @@
             "id": "8e9ab8327c5f7903cc1b50470411d165",
             "name": "GlobeNewswire",
             "url": "https://www.globenewswire.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5ae9a72713ce10d18f0d21718e2de84a",
-        "title": "Sen. Josh Hawley to probe Meta AI policies for children following damning report",
-        "description": "Sen. Josh Hawley, R-Mo., said Friday that he will investigate Meta following a report that the company approved rules allowing artificial intelligence chatbots to have certain “romantic” and “sensual” conversations with children",
-        "content": "Sen. Josh Hawley, R-Mo., said Friday that he will investigate Meta following a report that the company approved rules allowing artificial intelligence chatbots to have certain “romantic” and “sensual” conversations with children.\nHawley called on Met... [2446 chars]",
-        "url": "https://www.nbcnews.com/tech/social-media/sen-josh-hawley-probe-meta-ai-policies-children-damning-report-rcna225297",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-11/241120-meta-se-132p-341c98.jpg",
-        "publishedAt": "2025-08-15T20:01:15Z",
-        "lang": "en",
-        "source": {
-            "id": "77b86639d1384ac68141803ec5db27c0",
-            "name": "NBC News",
-            "url": "https://www.nbcnews.com",
             "country": "us"
         }
     }
