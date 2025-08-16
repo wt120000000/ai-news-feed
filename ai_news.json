@@ -1,5 +1,21 @@
 [
     {
+        "id": "df733fb8f5b54d70d92bd4dbb573ee0c",
+        "title": "US senator launches probe into Meta’s AI policies",
+        "description": "WASHINGTON: US Senator Josh Hawley launched a probe into Facebook parent Meta Platforms artificial intelligence...",
+        "content": "WASHINGTON: US Senator Josh Hawley launched a probe into Facebook parent Meta Platforms artificial intelligence policies on Friday, demanding documents on rules that had allowed its artificial intelligence chatbots to engage a child in conversations ... [1328 chars]",
+        "url": "https://www.dawn.com/news/1931184/us-senator-launches-probe-into-metas-ai-policies",
+        "image": "https://www.dawn.com/_img/social-default.jpg",
+        "publishedAt": "2025-08-16T02:13:08Z",
+        "lang": "en",
+        "source": {
+            "id": "6536182115f7e8188f38d864bab0e1c6",
+            "name": "DAWN.com",
+            "url": "https://www.dawn.com",
+            "country": "pk"
+        }
+    },
+    {
         "id": "684aec39b2dbfad4e74ccf47f3f6d539",
         "title": "Meta plans fourth restructuring of AI efforts in six months, The Information reports",
         "description": "Meta is planning its fourth overhaul of artificial intelligence efforts in six months, The Information reported on Friday, citing three people familiar with the matter.",
@@ -19,7 +35,7 @@
         "id": "38693ddfb5c93028677a308fa22ccd15",
         "title": "Senator Josh Hawley Begins Child Safety Inquiry Into Meta’s A.I. Bot",
         "description": "Josh Hawley, Republican of Missouri, said he would look into whether the social media company’s artificial intelligence technology endangers children.",
-        "content": "Senator Josh Hawley, Republican of Missouri, said on Friday he is starting an investigation into Meta’s generative artificial intelligence products and whether they pose harms to children, the latest scrutiny of whether the social media giant takes a... [867 chars]",
+        "content": "Senator Josh Hawley, Republican of Missouri, said on Friday that he was starting an investigation into Meta’s generative artificial intelligence products and whether they posed harms to children, the latest scrutiny of whether the social media giant ... [881 chars]",
         "url": "https://www.nytimes.com/2025/08/15/technology/meta-child-safety-senate-investigation.html",
         "image": "https://static01.nyt.com/images/2025/08/15/multimedia/15biz-meta-investigation-pfvq/15biz-meta-investigation-pfvq-facebookJumbo.jpg",
         "publishedAt": "2025-08-15T21:24:03Z",
@@ -141,22 +157,6 @@
             "name": "BGR",
             "url": "https://www.bgr.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "8dd5370bdd3e65c3801bde07a72697cd",
-        "title": "YouTube turns to AI to spot children posing as adults",
-        "description": "YouTube has started using artificial intelligence (AI) to figure out when users are children pretending to be adults on the popular video-sharing platform amid pressure to protect minors from sensitive content. The new safeguard is being rolled out in the United States as Google-owned YouTube and social media platforms such…",
-        "content": "Interest in limiting the ability of children to access YouTube clashes with a growing use of YouTube videos in education\nYouTube has started using artificial intelligence (AI) to figure out when users are children pretending to be adults on the popul... [2177 chars]",
-        "url": "https://japantoday.com/category/tech/youtube-turns-to-ai-to-spot-children-posing-as-adults",
-        "image": "https://media.japantoday.com/img/store/ed/cc/1f399970f6b3e77ae6e18314b7a965c4f98c/148befa6d5fc135d150f377d6f0d86a8e7eb5c90/_w1700.jpeg",
-        "publishedAt": "2025-08-15T19:13:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
