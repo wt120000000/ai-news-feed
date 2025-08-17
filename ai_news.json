@@ -1,5 +1,21 @@
 [
     {
+        "id": "d18558d76b1c62ca9c27febee61c233a",
+        "title": "What older adults are really using AI for - according to new research",
+        "description": "Artificial intelligence is increasingly transforming day-to-day life. While it’s often assumed that platforms like ChatGPT are mainly the domain of Gen Z and millennials, new research suggests otherwise – AI is proving surprisingly popular among Americans over 50...",
+        "content": "Artificial intelligence is increasingly transforming day-to-day life. While it’s often assumed that platforms like ChatGPT are mainly the domain of Gen Z and millennials, new research suggests otherwise – AI is proving surprisingly popular among Amer... [1521 chars]",
+        "url": "https://www.indy100.com/science-tech/older-americans-using-ai-research",
+        "image": "https://www.indy100.com/media-library/image.jpg?id=61474095&width=1200&height=600&coordinates=0%2C177%2C0%2C177",
+        "publishedAt": "2025-08-17T14:14:41Z",
+        "lang": "en",
+        "source": {
+            "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
+            "name": "indy100",
+            "url": "https://www.indy100.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "8b199fd05190d0e33305b411dc6b66d7",
         "title": "AI-Powered Justice: Nagpur Police Crackdown on Hit-and-Run",
         "description": "Nagpur Police harnessed artificial intelligence to trace a hit-and-run driver after a viral video showed Amit Yadav transporting his deceased wife on a motorcycle. The AI-MARVEL system aided police in identifying and arresting driver Satyapal Rajendra. The incident highlights both technological innovation in law enforcement and societal apathy.",
@@ -141,22 +157,6 @@
             "name": "The New York Times",
             "url": "https://www.nytimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "0c8e5b32939f0d560cfef54aef4f9388",
-        "title": "Output growth forecast for Taiwan semiconductors increased",
-        "description": "The government-supported Industrial Technology Research Institute (ITRI) has raised its forecast for 2025 growth in the output value of Taiwan's semiconductor industry to above 22 per cent on strong global demand for artificial intelligence applications, Focus Taiwan reported.",
-        "content": "Taipei [Taiwan], August 17 (ANI): Taiwan's government-supported Industrial Technology Research Institute (ITRI) has raised its forecast for 2025 growth in the output value of the country's semiconductor industry to above 22 per cent on strong global ... [2093 chars]",
-        "url": "https://www.livemint.com/market/stock-market-news/output-growth-forecast-for-taiwan-semiconductors-increased-11755420334010.html",
-        "image": "https://images.livemint.com/img/2018/12/28/1600x900/Market_-_stocks_1545996587096.jpg",
-        "publishedAt": "2025-08-17T08:45:33Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
         }
     }
 ]
