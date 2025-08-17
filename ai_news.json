@@ -1,5 +1,21 @@
 [
     {
+        "id": "93f048c4dd36b73f7bf2504c857abcc4",
+        "title": "Artificial Intelligence unleashed to bring down NHS waiting lists",
+        "description": "AI is being harnessed with the goal of cutting through bureaucracy, getting people home to their families faster and freeing up hospital beds",
+        "content": "The power of Artificial Intelligence will be unleashed in the latest effort to slash NHS waiting lists and free Britain’s public services from red tape. Health Secretary Wes Streeting is betting AI can deliver “huge benefits” for patients and frontli... [1499 chars]",
+        "url": "https://www.express.co.uk/news/politics/2096087/artificial-intelligence-unleashed-bring-down",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/139/1200x630/6364533.jpg",
+        "publishedAt": "2025-08-17T05:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c97ef3cad273a1993c998ca7ddcc5212",
+            "name": "Daily Express",
+            "url": "https://www.express.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "d6f81899b42f37bfdc265dff8931a231",
         "title": "Using AI to analyse ultrasound scans lets parents pinpoint exact due date of babies, study claims",
         "description": "Using artificial intelligence to analyse ultrasound scans could give parents the exact day their child will be born with 95 per cent accuracy, a study has claimed.",
@@ -141,22 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "b021b2b5132a1102cd7862a6c5cb50b2",
-        "title": "Mohamed bin Zayed University of Artificial Intelligence begins new academic year with largest-ever cohort of 400+ students",
-        "description": "ABU DHABI,UAE, Aug. 16, 2025 /PRNewswire/ -- Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has welcomed its largest cohort for its Fall 2025 intake, enrolling 403 new students. This includes its inaugural undergraduate class, new graduate cohorts in existing programmes in Computer Science, Computer Vision, Machine Learning, Natural Language Processing, and Robotics, and the first intakes into the Master of Science in Statistics & Data Science and Master in Applied Artificial Intelligence.",
-        "content": "ABU DHABI,UAE, Aug. 16, 2025 /PRNewswire/ -- Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has welcomed its largest cohort for its Fall 2025 intake, enrolling 403 new students. This includes its inaugural undergraduate class, new g... [4376 chars]",
-        "url": "https://www.manilatimes.net/2025/08/16/tmt-newswire/pr-newswire/mohamed-bin-zayed-university-of-artificial-intelligence-begins-new-academic-year-with-largest-ever-cohort-of-400-students/2169029",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/16/716296.jpg",
-        "publishedAt": "2025-08-16T14:33:26Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
