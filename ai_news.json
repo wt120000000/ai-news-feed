@@ -1,5 +1,21 @@
 [
     {
+        "id": "d6f81899b42f37bfdc265dff8931a231",
+        "title": "Using AI to analyse ultrasound scans lets parents pinpoint exact due date of babies, study claims",
+        "description": "Using artificial intelligence to analyse ultrasound scans could give parents the exact day their child will be born with 95 per cent accuracy, a study has claimed.",
+        "content": "Using artificial intelligence to analyse ultrasound scans could give parents the exact day their child will be born with 95 per cent accuracy, a study has claimed.\nDoctors currently estimate a foetus's due date by adding 40 weeks to the first day of ... [1964 chars]",
+        "url": "https://www.dailymail.co.uk/health/article-15007397/AI-analyse-ultrasound-scans-exact-date-babies-study.html",
+        "image": "https://i.dailymail.co.uk/1s/2025/08/17/00/101290495-0-image-a-72_1755387383259.jpg",
+        "publishedAt": "2025-08-16T23:38:07Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "cafd8c7b71a4cfffa654b6c107b7ee50",
         "title": "'Australiana' images made by AI are racist and full of tired cliches, researchers say",
         "description": "Big tech company hype sells generative artificial intelligence (AI) as intelligent, creative, desirable, inevitable, and about to radically reshape the future in many ways.",
@@ -45,6 +61,22 @@
             "name": "Arab News",
             "url": "https://www.arabnews.com",
             "country": "ar"
+        }
+    },
+    {
+        "id": "6545746726e288b921ec687c4ba99ef3",
+        "title": "“A Brain-Inspired Approach” Microsoft Stock (NASDAQ:MSFT) Notches Up With StreamMind Reveal",
+        "description": "Artificial intelligence (AI) research has done some pretty amazing things so far. We have modest video generation abilities, we have vast text w...",
+        "content": "Artificial intelligence (AI) research has done some pretty amazing things so far. We have modest video generation abilities, we have vast text writing capabilities, and we have plenty of other applications as well. But making an artificial intelligen... [2619 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/a-brain-inspired-approach-microsoft-stock-nasdaq-msft-notches-up-with-streammind-reveal-1035046771",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-at-13-35-47-Microsoft-MSFT-Stock-Forecast-Price-Targets-and-Analysts-Predictions-1024x760.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2025-08-16T17:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Markets Insider",
+            "url": "https://markets.businessinsider.com",
+            "country": "us"
         }
     },
     {
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "1280eae80111282201cbffae5a7263e2",
-        "title": "3 Quantum Computing Stocks with Potential to Beat the Market - 8/15/2025",
-        "description": "Quantum computing, though still in its early stages, is expected to be the next big revolution after artificial intelligence (AI). Thi...",
-        "content": "Quantum computing, though still in its early stages, is expected to be the next big revolution after artificial intelligence (AI). This emerging technology can tackle complex problems more quickly than traditional computers due to its ability to proc... [1395 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/3-quantum-computing-stocks-with-potential-to-beat-the-market-8-15-2025-1035046807",
-        "image": "https://markets.businessinsider.com/apple-touch-icon.png",
-        "publishedAt": "2025-08-16T13:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Markets Insider",
-            "url": "https://markets.businessinsider.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "085ba6bc7becbc701f76b4388e207b71",
-        "title": "I was surprised but the ring he chose is stunning'",
-        "description": "A woman has shared her happiness at getting engaged to her boyfriend after five months of dating - despite him not being real and being an artificial intelligence bot",
-        "content": "'My AI boyfriend proposed - I was surprised but the ring he chose is stunning'\nA woman has shared her happiness at getting engaged to her boyfriend after five months of dating - despite him not being real and being an artificial intelligence bot\nShe ... [3238 chars]",
-        "url": "https://www.mirror.co.uk/lifestyle/sex-relationships/my-ai-boyfriend-proposed-surprised-35729098",
-        "image": "https://i2-prod.mirror.co.uk/article34863553.ece/ALTERNATES/s1200/0_black-woman-holds-diamond-engagement-ring.jpg",
-        "publishedAt": "2025-08-16T13:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "105bb16685822879671e4bad332aeec9",
-            "name": "The Mirror",
-            "url": "https://www.mirror.co.uk",
-            "country": "gb"
         }
     }
 ]
