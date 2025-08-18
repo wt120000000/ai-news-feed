@@ -1,5 +1,21 @@
 [
     {
+        "id": "539ee66dd687e65fafe9c9b92837f7c0",
+        "title": "AI-powered tool developed for near real-time, large-scale wildfire fuel mapping",
+        "description": "Researchers from the UCLA Samueli School of Engineering and their collaborators have developed FuelVision, a new system that could help enhance nationwide wildfire preparedness by combining satellite imagery with artificial intelligence to rapidly and accurately identify wildfire fuel sources.",
+        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nFuels map of the 2025 Eaton Fire, as predicted by FuelVision. Credit:... [2889 chars]",
+        "url": "https://phys.org/news/2025-08-ai-powered-tool-real-large.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2025/researchers-unveil-ai.jpg",
+        "publishedAt": "2025-08-18T14:46:16Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
         "id": "6bf162300c509c1ecda0ef8192f661a0",
         "title": "“AI is in a Bubble:” OpenAI CEO Sam Altman compares AI hype to the Dot-Com crash",
         "description": "Even as OpenAI edges toward a staggering $500 billion valuation, Sam Altman is warning that the artificial intelligence boom may be overheating. Speaking with reporters last week, the OpenAI CEO didn’t shy away from calling it what many in Silicon Valley whisper about: a bubble. In an interview with The Verge published Friday, Altman said,",
@@ -140,22 +156,6 @@
             "id": "6a3aad3dbb44ac873f72b594aaea22c4",
             "name": "The Indian Express",
             "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d7373c8f792dfe65eedfbab4a012f83b",
-        "title": "10 kg weight loss with chatGPT: AI meal plan helped Indian expert lose fat with snacks",
-        "description": "Artificial intelligence is now being used in weight management, with ChatGPT emerging as a tool for creating personalized diet plans. Indian health and wellness expert Simran Valecha shared that she lost 10 kg by following a ChatGPT-generated meal chart, which even allowed occasional ice cream. She revealed the exact prompt she used, highlighting how AI can simplify planning by factoring in lifestyle, work hours, and food preferences. However, Valecha stressed that sustainable results require more than just a diet plan, pointing to the need for daily support and guidance.",
-        "content": "The Prompt Behind the Plan\nGlobal Interest in AI Diets\nWhat Experts Say\nArtificial intelligence is no longer limited to offices and classrooms—it is now finding its way into kitchens and fitness routines. From designing customized diets to tracking c... [2672 chars]",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/10-kg-weight-loss-with-chatgpt-ai-meal-plan-helped-indian-expert-lose-fat-with-snacks/articleshow/123364041.cms",
-        "image": "https://img.etimg.com/thumb/msid-123365160,width-1200,height-630,imgsize-69862,overlay-etpanache/articleshow.jpg",
-        "publishedAt": "2025-08-18T12:19:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "Economic Times",
-            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
