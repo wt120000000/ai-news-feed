@@ -1,5 +1,53 @@
 [
     {
+        "id": "82d059a4fa82d746424141efac5f46b5",
+        "title": "Eletrobras partners with C3 AI to modernize Brazil's power grid",
+        "description": "SAO PAULO (Reuters) -Brazilian power company Eletrobras has partnered with C3 AI to apply artificial intelligence to help operate the electric power transmission network in Latin America's largest economy, the two companies told Reuters on Monday. Eletrobras, Brazil's largest operator in the segment, will implement the C3 AI Grid Intelligence tool, which focuses on monitoring and resolving failures in real time, in all of its transmission assets.",
+        "content": "A logo of C3.ai sits at the WEF in Davos\nSAO PAULO (Reuters) -Brazilian power company Eletrobras has partnered with C3 AI to apply artificial intelligence to help operate the electric power transmission network in Latin America's largest economy, the... [1268 chars]",
+        "url": "https://sg.news.yahoo.com/eletrobras-partners-c3-ai-modernize-110351713.html",
+        "image": "https://media.zenfs.com/en/reuters.com/4ae550d9151f9f80ff829e6a89698298",
+        "publishedAt": "2025-08-18T11:03:51Z",
+        "lang": "en",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com",
+            "country": "sg"
+        }
+    },
+    {
+        "id": "f45b2bf82aad4030afcf19dc00e01a80",
+        "title": "Trump's AI plan is a bulwark against the rising threat from China",
+        "description": "Trump's AI initiative aims to maintain American leadership in artificial intelligence amid growing competition with China and national security concerns",
+        "content": "NEW You can now listen to Fox News articles!\nIn July, some of the brightest minds in American technology descended on Washington to celebrate a major milestone: the launch of President Donald Trump's bold initiative to ensure the United States remain... [4842 chars]",
+        "url": "https://www.foxnews.com/opinion/trumps-ai-plan-bulwark-against-rising-threat-from-china",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/Regulation-could-allow-China-to-dominate-in-the-artificial-intelligence-race-3.gif",
+        "publishedAt": "2025-08-18T11:00:46Z",
+        "lang": "en",
+        "source": {
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "0615afe101a6d45e4ce8197a2893cc72",
+        "title": "Mark Zuckerberg Reportedly Plans Fourth AI Restructuring In Six Months Amid Silicon Valley's AI Talent War",
+        "description": "Meta Platforms Inc. (NASDAQ: META) is reportedly gearing up for its fourth major overhaul of artificial intelligence (AI) initiatives in just six months.",
+        "content": "Meta Platforms Inc. META is reportedly gearing up for its fourth major overhaul of artificial intelligence (AI) initiatives in just six months.\nZuckerberg Splits Superintelligence Labs Into 4 Teams\nThe restructuring is expected to involve the divisio... [2378 chars]",
+        "url": "https://www.benzinga.com/markets/tech/25/08/47180898/mark-zuckerberg-reportedly-plans-fourth-ai-restructuring-in-six-months-amid-silicon-valleys-ai-talent-war",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/08/18/Deauville--France---May-26--2011--Facebo.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-08-18T10:22:53Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "4ff8b82b098b55c5af797cfe01170e89",
         "title": "Editorial: Artificial intelligence meets fried chicken at Wingstop",
         "description": "Wingstop’s new digital operating system streamlines ordering and evaluates scads of data to predict how much food will be needed and when.",
@@ -108,54 +156,6 @@
             "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
             "name": "CNBC",
             "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e77757303880112379621f4753921253",
-        "title": "Lens Technology accelerates Liquid Cooling Innovations for AI Systems",
-        "description": "**media[]**HONG KONG SAR - Media OutReach Newswire - 18 August 2025 - The rapid advancement of artificial intelligence has significantly increased GPU power demands, leading to a substantial rise in power consumption across data centers, from individual GPU chips to entire server racks. This surge in power usage has resulted in heightened heat generation. Liquid cooling technology, utilizing direct or indirect liquid contact with heat-generating components, delivers superior thermal dissipation efficiency. This capability effectively addresses the rigorous thermal management needs of server racks and data centers, positioning liquid cooling as the essential solution for next-generation high-performance computing servers.",
-        "content": "**media[]**HONG KONG SAR - Media OutReach Newswire - 18 August 2025 - The rapid advancement of artificial intelligence has significantly increased GPU power demands, leading to a substantial rise in power consumption across data centers, from individ... [2903 chars]",
-        "url": "https://www.manilatimes.net/2025/08/18/tmt-newswire/media-outreach-newswire/lens-technology-accelerates-liquid-cooling-innovations-for-ai-systems/2169374",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/18/717131.png",
-        "publishedAt": "2025-08-18T07:36:37Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "4115f32694a599a99e7ec39f18fa7a9b",
-        "title": "World Youth Forum Concludes Dual Summits; Global Youth Explore New Global Issues in the AI Era",
-        "description": "HONG KONG and MACAU, Aug. 18, 2025 /PRNewswire/ -- The World Youth Forum (WYF) - a global youth platform for challenge-based learning and growth, co-created by top cross-sector partners through multilateral collaboration - wrapped up its 2025 Future Economics Leadership Summit (WYF-FELS) in Hong Kong, China, and Future Liberal Arts Leadership Summit (WYF-FLALS) in Macau, China, between August 5 and 16.The event attracted nearly 1,000 youth representatives and diverse academic forces from 15 countries and regions, including China, India, Singapore, South Korea, and the United States, among others, who joined together to explore global issues in the era of artificial intelligence.",
-        "content": "HONG KONG and MACAU, Aug. 18, 2025 /PRNewswire/ -- The World Youth Forum (WYF) - a global youth platform for challenge-based learning and growth, co-created by top cross-sector partners through multilateral collaboration - wrapped up its 2025 Future ... [6067 chars]",
-        "url": "https://www.manilatimes.net/2025/08/18/tmt-newswire/pr-newswire/world-youth-forum-concludes-dual-summits-global-youth-explore-new-global-issues-in-the-ai-era/2169361",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-08-18T06:58:30Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "e41a0888219dd48a9782107af0db251f",
-        "title": "Foxconn and SoftBank to make data centre equipment in Ohio for Stargate project",
-        "description": "Foxconn's said on Monday it plans to manufacture data centre equipment with Japan's SoftBank at the Taiwanese firm's former electric vehicle factory in Ohio, part of the Stargate project to advance U.S. artificial intelligence infrastructure.",
-        "content": "Foxconn Chairman and CEO Young-way Liu speaks at an industry forum in Taipei, Taiwan April 17, 2025. REUTERS/Ann Wang/File Photo Purchase Licensing Rights , opens new tab\nTAIPEI, Aug 18 (Reuters) - Foxconn's (2317.TW) , opens new tab said on Monday i... [1179 chars]",
-        "url": "https://www.reuters.com/business/media-telecom/foxconn-softbank-make-data-centre-equipment-ohio-stargate-project-2025-08-18/",
-        "image": "https://www.reuters.com/resizer/v2/GB4WBQFPL5L6NIRZKAIKRRJ5R4.jpg?auth=94c1e6472384126d13519782a5019e58b7de8880dce745f522cb18fcddccc6b5&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-18T06:56:48Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
             "country": "us"
         }
     }
