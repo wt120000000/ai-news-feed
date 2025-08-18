@@ -1,5 +1,69 @@
 [
     {
+        "id": "d85ef985a6366b55923cd30ff66f4dd9",
+        "title": "MIGHT: Powerful new algorithm advances reliability of AI with applications in medical diagnostics",
+        "description": "Two studies led by Johns Hopkins Kimmel Cancer Center, Ludwig Center, and Johns Hopkins Whiting School of Engineering researchers report on a powerful new method that significantly improves the reliability and accuracy of artificial intelligence (AI) for many applications. As an example, they apply the new method to early cancer detection from blood samples, known as liquid biopsy.",
+        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nMIGHT algorithm for AI-informed medical decisions and MIGHT-informed ... [8086 chars]",
+        "url": "https://medicalxpress.com/news/2025-08-powerful-algorithm-advances-reliability-ai.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-method-advances-re.jpg",
+        "publishedAt": "2025-08-18T19:00:08Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "bb966a473c01f25013387c19dfc56feb",
+        "title": "Philips CEO Jeff DiLullo on how AI is changing healthcare today",
+        "description": "From faster MRI scans to earlier cancer diagnoses, Philips is betting big on artificial intelligence to transform patient care and ease the strain on clinicians.",
+        "content": "AI is quietly reshaping the efficiency, power, and potential of U.S. healthcare, even as government health policy and spending drastically shift. Philips, the legacy electronics manufacturer turned medtech provider, is leading the AI healthcare revol... [6571 chars]",
+        "url": "https://www.fastcompany.com/91387516/philips-ceo-jeff-dilullo-on-how-ai-is-changing-healthcare-today",
+        "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/08/p-1-91387516-philips-ceo-jeff-dilullo-on-how-ai-is-changing-healthcare-today.jpg",
+        "publishedAt": "2025-08-18T19:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5ac5f32ba74846cef441099f666f2d98",
+            "name": "Fast Company",
+            "url": "https://www.fastcompany.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3f5c8948335e9f7a029206f9ed9f7406",
+        "title": "Prediction: 2 artificial intelligence (AI) stocks that will be worth more than Nvidia by 2030",
+        "description": "The market expects a lot from Nvidia, but it might not fully appreciate the potential of these two AI giants.",
+        "content": "The market expects a lot from Nvidia, but it might not fully appreciate the potential of these two AI giants.\nYou’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a Motley Fool member t... [8010 chars]",
+        "url": "https://www.fool.com.au/2025/08/19/prediction-2-artificial-intelligence-ai-stocks-that-will-be-worth-more-than-nvidia-by-2030-usfeed/",
+        "image": "https://www.fool.com.au/wp-content/uploads/2024/12/more-AI-1-16.9-1200x675.jpg",
+        "publishedAt": "2025-08-18T19:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c6075ba0dc9d123bb327faaa419d3d07",
+            "name": "Motley Fool Australia",
+            "url": "https://www.fool.com.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "059ef5417515e1c48c63d0a7ba4d945a",
+        "title": "Why AI is an industrial relations challenge for business",
+        "description": "Australia will miss the productivity gains from artificial intelligence unless we fix the laws that stop firms from reorganising how work gets done.",
+        "content": "For years, we have been told that our productivity problem can be solved by taxing landlords, lifting the GST, or reining in big business. The latest hope is that AI will be the breakthrough. But AI will not transform the economy simply by existing. ... [675 chars]",
+        "url": "https://www.afr.com/technology/why-ai-is-an-industrial-relations-challenge-for-business-20250818-p5mnqv",
+        "image": "https://static.ffx.io/images/$zoom_0.2742%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_52/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/1aaae958f8425e1c1fd5a028ebeaf3f10d7742ff",
+        "publishedAt": "2025-08-18T19:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "The Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "6881503d3a1c6de735ffacb595595309",
         "title": "The age of AI soft power",
         "description": "Artificial intelligence leaders like OpenAI and DeepMind see themselves as being in a race to build artificial general intelligence: a model capable of performing any intellectual task that a human can. At the same time, the US and Chinese governments see the AI race as a national security priority that demands massive investments reminiscent of the Manhattan Project. In both",
@@ -93,70 +157,6 @@
             "name": "New York Post",
             "url": "https://nypost.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "7f60e6d1dafb25be95b24c2034b66b0e",
-        "title": "How AI support can go wrong in safety-critical settings",
-        "description": "When it comes to adopting artificial intelligence in high-stakes settings like hospitals and airplanes, good AI performance and brief worker training on the technology is not sufficient to ensure systems will run smoothly and patients and passengers will be safe, a new study suggests.",
-        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nExample patient case with AI recommendations and explanations. Credit... [6115 chars]",
-        "url": "https://medicalxpress.com/news/2025-08-ai-wrong-safety-critical.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/how-ai-support-can-go.jpg",
-        "publishedAt": "2025-08-18T16:38:10Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "fbd8332c18cd643a3be985937e21a096",
-        "title": "Rethinking AI readiness of students",
-        "description": "THE integration of artificial intelligence (AI) into education marks a crucial shift in how students absorb knowledge. The government has taken proactive steps in this direction, including the unveiling of the National AI road map and the establishment of the National Center for AI Research, with a vision to embrace AI as a means to future-proof the education system.",
-        "content": "THE integration of artificial intelligence (AI) into education marks a crucial shift in how students absorb knowledge. The government has taken proactive steps in this direction, including the unveiling of the National AI road map and the establishme... [4746 chars]",
-        "url": "https://www.manilatimes.net/2025/08/19/business/top-business/rethinking-ai-readiness-of-students/2169617",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/18/717708.jpg",
-        "publishedAt": "2025-08-18T16:11:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "fa9da975b5358d20d6863d2a409f0c6b",
-        "title": "Madison Avenue Is Starting to Love A.I.",
-        "description": "Advertisers are increasingly using generative artificial intelligence to make their commercials.",
-        "content": "A.I. has come for the commercials.\nWhen Coca-Cola released a holiday commercial with visuals generated entirely by artificial intelligence last year, the use of the technology for a 30-second spot seemed novel. It is quickly becoming commonplace.\nNea... [1022 chars]",
-        "url": "https://www.nytimes.com/2025/08/18/business/madison-avenue-is-starting-to-love-ai.html",
-        "image": "https://static01.nyt.com/images/2025/07/31/31visualUploader-84324-cover/31visualUploader-84324-cover-facebookJumbo.jpg",
-        "publishedAt": "2025-08-18T15:16:04Z",
-        "lang": "en",
-        "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "7ee8b42360125482773989e9550025dd",
-        "title": "Agent Factory: The Dawning of the Agentic AI Era",
-        "description": "Agent Factory brings about a revolution in artificial intelligence: the dawn of agentic AI, where independent agents don't merely \"help,\" but possess multi-step processes and yield business results. With proactive customer service to machine learning-driven manufacturing, agentic systems are transforming how businesses deploy, integrate, and scale intelligence.",
-        "content": "Live Events\nEnterprises only recently upgraded to agentic AI . With the news of Retrival-augmented generation, which will assist teams in surface insights to respond to questions with incredible velocity. To many, it is an itinerary to various paths,... [2247 chars]",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/agent-factory-the-dawning-of-the-agentic-ai-era/articleshow/123367721.cms",
-        "image": "https://img.etimg.com/thumb/msid-123367720,width-1200,height-630,imgsize-2287870,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2025-08-18T15:02:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
