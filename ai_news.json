@@ -1,5 +1,37 @@
 [
     {
+        "id": "f03ac2faa1ff3d412ab44e96b71dce8e",
+        "title": "Researcher: We can build safer tunnels with artificial intelligence",
+        "description": "Every day, new tunnels are being built through rock across the country. The completed tunnels are safe, but the construction phase presents challenges.",
+        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nThe future of tunnel construction isn’t just about better explosives,... [4624 chars]",
+        "url": "https://phys.org/news/2025-08-safer-tunnels-artificial-intelligence.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/we-can-build-safer-tun.jpg",
+        "publishedAt": "2025-08-18T20:16:03Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "56b05da6eec9c67efbe258be8b30db90",
+        "title": "As Meta Faces AI Scrutiny, Mounting Regulatory Risk Overshadows Strong Earnings And Pushes Stock Lower",
+        "description": "Meta Platforms shares are trading lower Monday afternoon. The company is navigating a series of headwinds related to its artificial intelligence strategy.",
+        "content": "Meta Platforms Inc META shares are trading lower Monday afternoon as the company navigates a series of headwinds related to its artificial intelligence strategy. Here’s what investors need to know.\nWhat To Know: The stock is under pressure following ... [2877 chars]",
+        "url": "https://www.benzinga.com/trading-ideas/movers/25/08/47195084/as-meta-faces-ai-scrutiny-mounting-regulatory-risk-overshadows-strong-earnings-and-pushes-stock-lower",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/08/18/Meta-Platforms-Inc--META.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-08-18T19:29:22Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d85ef985a6366b55923cd30ff66f4dd9",
         "title": "MIGHT: Powerful new algorithm advances reliability of AI with applications in medical diagnostics",
         "description": "Two studies led by Johns Hopkins Kimmel Cancer Center, Ludwig Center, and Johns Hopkins Whiting School of Engineering researchers report on a powerful new method that significantly improves the reliability and accuracy of artificial intelligence (AI) for many applications. As an example, they apply the new method to early cancer detection from blood samples, known as liquid biopsy.",
@@ -124,38 +156,6 @@
             "id": "77b86639d1384ac68141803ec5db27c0",
             "name": "NBC News",
             "url": "https://www.nbcnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "dcb8d9aa1de5932f12774885b8bf2782",
-        "title": "For Silicon Valley, falling behind in AI is a bigger threat than tariffs",
-        "description": "If there's one thing the White House, Wall Street and Silicon Valley can agree on, it's that artificial intelligence is a top priority.",
-        "content": "New York (CNN) — If there’s one thing the White House, Wall Street and Silicon Valley can agree on, it’s that artificial intelligence is a top priority.\nTech giants are pouring billions into new data centers and infrastructure to support the technolo... [7160 chars]",
-        "url": "https://www.mercurynews.com/2025/08/18/silicon-valley-falling-behind-artificial-intelligence/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2025/08/8216An_existential_threat8217_For_Silicon_Valley_falling_behind_in_AI_is_a_bigger_threat_than_tariffs1-1.jpg?w=1024&h=682",
-        "publishedAt": "2025-08-18T16:47:55Z",
-        "lang": "en",
-        "source": {
-            "id": "17d7c2645f485578130862e0c8dd9480",
-            "name": "The Mercury News",
-            "url": "https://www.mercurynews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9b89c04c3be93df5cef27108f71dd846",
-        "title": "OpenAI CEO Sam Altman warns of AI bubble, says investors are 'overexcited': report",
-        "description": "OpenAI CEO Sam Altman said he thinks the artificial intelligence market is in a bubble – comparable to the dot-com crash of the early 2000s, according to a report.",
-        "content": "OpenAI CEO Sam Altman warned that the billions of dollars being plowed into the artificial intelligence arms race risks causing a bubble comparable to the dot-com crash of the early 2000s.\n“When bubbles happen, smart people get overexcited about a ke... [4236 chars]",
-        "url": "https://nypost.com/2025/08/18/business/openai-ceo-sam-altman-warns-of-ai-bubble-says-investors-are-overexcited-report/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-rlljrkcgy-1755535352731.jpg?quality=75&strip=all&1755521065&w=1024",
-        "publishedAt": "2025-08-18T16:45:59Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
             "country": "us"
         }
     }
