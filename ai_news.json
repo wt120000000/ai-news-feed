@@ -1,5 +1,37 @@
 [
     {
+        "id": "b47fd9ca30fef08760dc869c964e9adf",
+        "title": "Exclusive: Arm hires Amazon AI chip director to aid in-house effort",
+        "description": "Arm Holdings has hired former Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, according to a person familiar with the matter.",
+        "content": "Rami Sinno, Director of Engineering at Annapurna Labs, poses for a portrait in Austin, Texas, U.S., July 19, 2024. REUTERS/Sergio Flores Purchase Licensing Rights , opens new tab\nSAN FRANCISCO, Aug 18 (Reuters) - Arm Holdings has hired former Amazon.... [821 chars]",
+        "url": "https://www.reuters.com/business/retail-consumer/arm-hires-amazon-ai-chip-director-aid-in-house-effort-2025-08-18/",
+        "image": "https://www.reuters.com/resizer/v2/JTW4U3XT3RIWZBBV7Q46NCFTDE.jpg?auth=9c211c974056fecb24322e1f764c185ac071a14835e6a63ac995b0555946f91f&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-18T20:29:58Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "cebe5b6f44b9a1b0091a02faf5ef39a0",
+        "title": "Developers predict artificial intelligence will do most marketing work as reliance on automation grows deeper",
+        "description": "Can AI truly run nearly every marketing task as developers think?",
+        "content": "Report finds developers overwhelmingly believe AI can handle marketing tasks once thought secure from automation\nStroyblok finds 90% of developers use AI tools frequently or constantly in their coding\nHeavy AI adoption in coding shapes perceptions th... [3045 chars]",
+        "url": "https://www.techradar.com/pro/devs-believe-that-ai-is-going-to-kill-most-or-all-of-their-companys-marketing-department",
+        "image": "https://cdn.mos.cms.futurecdn.net/TAMQcoFqJhXuNYadhKdaJF.jpg",
+        "publishedAt": "2025-08-18T20:28:00Z",
+        "lang": "en",
+        "source": {
+            "id": "76684855c5d801b81fd06490668d04fe",
+            "name": "TechRadar",
+            "url": "https://www.techradar.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "f03ac2faa1ff3d412ab44e96b71dce8e",
         "title": "Researcher: We can build safer tunnels with artificial intelligence",
         "description": "Every day, new tunnels are being built through rock across the country. The completed tunnels are safe, but the construction phase presents challenges.",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "5b5c0e23f7648ae12608303451953259",
-        "title": "Private Credit-Powered AI Boom at Risk of Overheating, UBS Says",
-        "description": "Private credit lenders, and their deep pockets, are rapidly becoming an important source of capital for artificial intelligence development. That’s raising concerns at UBS Global Research.",
-        "content": "Private credit lenders, and their deep pockets, are rapidly becoming an important source of capital for artificial intelligence development. That’s raising concerns at UBS Global Research.\nAs private credit grows beyond its roots of lending to smalle... [461 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-18/private-credit-powered-ai-boom-at-risk-of-overheating-ubs-says",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3U5rM6UB8Mg/v1/1200x800.jpg",
-        "publishedAt": "2025-08-18T17:19:02Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "db8263b4c33a72ba39e96a81bac730cb",
-        "title": "OpenAI's Sam Altman sees AI bubble forming as industry spending surges",
-        "description": "OpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble, according to a report from The Verge published Friday.",
-        "content": "Create your free profile or log in to save this article\nCreate your free profile or log in to save this article\nOpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble, according to a report from The Verge published Friday.\n“Wh... [4123 chars]",
-        "url": "https://www.nbcnews.com/business/business-news/openais-sam-altman-sees-ai-bubble-forming-industry-spending-surges-rcna225652",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250729-sam-altman-ew-236p-3d394b.jpg",
-        "publishedAt": "2025-08-18T17:09:00Z",
-        "lang": "en",
-        "source": {
-            "id": "77b86639d1384ac68141803ec5db27c0",
-            "name": "NBC News",
-            "url": "https://www.nbcnews.com",
-            "country": "us"
         }
     }
 ]
