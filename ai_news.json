@@ -1,5 +1,53 @@
 [
     {
+        "id": "8f98cf42e3a7e3cc893b414e9a12ec15",
+        "title": "Trump’s Plans for A.I. Might Hit a Wall. Thank Europe.",
+        "description": "The president wants to unleash American artificial intelligence companies on the world, but Europe can still stand in his way.",
+        "content": "President Trump wants to unleash American A.I. companies on the world. For the United States to win the unfolding A.I. arms race, his logic goes, tech companies should be unfettered by regulations and free to develop artificial intelligence technolog... [2450 chars]",
+        "url": "https://www.nytimes.com/2025/08/18/opinion/trump-ai-europe.html",
+        "image": "https://static01.nyt.com/images/2025/08/18/opinion/18bradford/18bradford-facebookJumbo.jpg",
+        "publishedAt": "2025-08-18T05:00:05Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "f46a2f7236a7c35830d42757fd3ec974",
+        "title": "Self-evolving artificial intelligence could transform healthcare, industry and science",
+        "description": "At the multi-agent level, the framework specifies coordination mechanisms based on decentralized consensus updates and reliability-weighted influence. Over time, agents exhibiting stable collaboration patterns can form “meta-agents” with broader strategic capabilities. Learning processes integrate both global rewards and local credit assignment, with Shapley-value calculations estimating each agent’s contribution to outcomes.",
+        "content": "A team of AI researchers has introduced a theoretical blueprint for a new generation of artificial intelligence capable of continuously modifying and improving itself without human intervention. The work proposes a structured pathway to AI systems th... [4972 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3541598-self-evolving-artificial-intelligence-could-transform-healthcare-industry-and-science",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_08_2025_18_45_52_5539681.png?width=920&format=jpeg",
+        "publishedAt": "2025-08-18T04:58:26Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "6ce7aaaa6fa581b7f31627540418992d",
+        "title": "An Asian data center hub is quietly grappling with AI's massive costs",
+        "description": "Malaysia's state of Johor, a fast-growing data center hub, is coming up against the growing water and energy needs of the world's artificial intelligence boom.",
+        "content": "The artificial intelligence boom has brought with it hundreds of billions of dollars in investments and promises of economic growth . But the infrastructure required is demanding massive amounts of energy and resources. One lesser-known example of th... [6629 chars]",
+        "url": "https://www.cnbc.com/2025/08/18/an-asian-data-center-hub-is-quietly-grappling-with-ais-massive-costs.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108186902-1755337780907-gettyimages-2159544073-dsc_8121.jpeg?v=1755337791&w=1920&h=1080",
+        "publishedAt": "2025-08-18T04:34:21Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "5da716f76101b508c87c332e7ee4c49f",
         "title": "He sold his likeness. Now his avatar shills supplements on TikTok.",
         "description": "Welcome to a new era of commercial work fueled by generative artificial intelligence.",
@@ -109,54 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "30db9ec9dc9455221cf997f0c00ffe69",
-        "title": "Meta plans fourth restructuring of AI efforts in six months, The Information reports",
-        "description": "META is planning its fourth overhaul of artificial intelligence (AI) efforts in six months, The Information reported on Friday, citing three people familiar with the matter.",
-        "content": "META is planning its fourth overhaul of artificial intelligence (AI) efforts in six months, The Information reported on Friday, citing three people familiar with the matter.\nThe company is expected to divide its new AI unit, Superintelligence Labs, i... [1625 chars]",
-        "url": "https://www.manilatimes.net/2025/08/18/business/foreign-business/meta-plans-fourth-restructuring-of-ai-efforts-in-six-months-the-information-reports/2169176",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-08-17T16:06:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "1cb051d3048a52f21c3eea072e1804dd",
-        "title": "Waste collection in Madurai goes smart with AI-powered cameras",
-        "description": "Madurai: Madurai corporation plans to install 60 artificial intelligence (AI)-powered cameras in the first phase of a smart waste management project a.",
-        "content": "Madurai: Madurai corporation plans to install 60 artificial intelligence (AI)-powered cameras in the first phase of a smart waste management project aimed at monitoring overflowing garbage bins and curbing illegal dumping. The initiative, sanctioned ... [1438 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/madurai/waste-collection-in-madurai-goes-smart-with-ai-powered-cameras/articleshow/123347739.cms",
-        "image": "https://static.toiimg.com/thumb/msid-123347738,width-1070,height-580,imgsize-114150,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-08-17T15:45:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e66d4449bb9adfb50ca78e13a0ff4ea9",
-        "title": "AI Boom Seen Driving Next Decade Of Emerging Markets Performance",
-        "description": "Emerging-market funds are pivoting to capture the artificial intelligence craze, with some investors predicting that booming technology spending will drive returns for years to come. Encouraged by the success of Chinese AI developer DeepSeek and Asia’s powerhouse semiconductor firms, asset managers like AllSpring Global Investments and GIB Asset Management are concentrating more of their portfolio in AI stocks.",
-        "content": "While much of the AI investment frenzy has focused on a handful of Silicon Valley firms, EM companies that can harness the technology or supply crucial components are benefitting. AI servers, for example, have become the main growth driver for Taiwan... [1810 chars]",
-        "url": "https://www.ndtvprofit.com/technology/ai-boom-seen-driving-next-decade-of-emerging-markets-performance",
-        "image": "https://media.assettype.com/bloombergquint%2F2025-08-17%2Fcjuv7ecx%2F438163815.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-08-17T15:35:30Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
         }
     }
 ]
