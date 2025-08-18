@@ -1,5 +1,37 @@
 [
     {
+        "id": "d51d27327b4f6bde45952f4911eb4543",
+        "title": "‘An existential threat’: For Silicon Valley, falling behind in AI is a bigger threat than tariffs",
+        "description": "If there’s one thing the White House, Wall Street and Silicon Valley can agree on, it’s that artificial intelligence is a top priority.",
+        "content": "AI Tech giants Tariffs See all topics Follow\nNew York —\nIf there’s one thing the White House, Wall Street and Silicon Valley can agree on, it’s that artificial intelligence is a top priority.\nTech giants are pouring billions into new data centers and... [7515 chars]",
+        "url": "https://edition.cnn.com/2025/08/18/tech/ai-spending-tariffs",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2194528029.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-08-18T09:00:43Z",
+        "lang": "en",
+        "source": {
+            "id": "26269dbc42635df9af8c24f3cdab8e37",
+            "name": "Cable News Network",
+            "url": "https://edition.cnn.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "50216fc0619f1b10ae460aaf25fa08c8",
+        "title": "[Beat Beta] Is AI to blame for Meta’s supposed wrongful Facebook and Instagram bans?",
+        "description": "Meta's increasing reliance on artificial intelligence for content moderation raises concerns among Filipino users over wrongful bans and the challenges of appealing decisions made by automated systems",
+        "content": "Meta's increasing reliance on artificial intelligence for content moderation raises concerns among Filipino users over wrongful bans and the challenges of appealing decisions made by automated systems\nMANILA, Philippines – Meta has long used artifici... [792 chars]",
+        "url": "https://www.rappler.com/technology/beat-beta-ai-meta-supposed-wrongful-facebook-instagram-bans/",
+        "image": "https://www.rappler.com/tachyon/2025/06/meta-ai-lawsuit-scaled.jpg",
+        "publishedAt": "2025-08-18T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1290fbc1799ff6b270a6f8b7e9761c18",
+            "name": "Rappler",
+            "url": "https://www.rappler.com",
+            "country": "ph"
+        }
+    },
+    {
         "id": "fe26d8fef21c8636dac882197a239b36",
         "title": "World Youth Forum Concludes Dual Summits; Global Youth Explore New Global Issues in the AI Era",
         "description": "HONG KONG and MACAU, Aug. 18, 2025 /PRNewswire/ -- The World Youth Forum (WYF) - a global youth platform for challenge-based learning and growth, co-created by top cross-sector partners through multilateral collaboration - wrapped up its 2025 Future Economics Leadership Summit (WYF-FELS) in Hong Kong, China, and Future Liberal Arts Leadership Summit (WYF-FLALS) in Macau, China, between August 5 and 16. The event attracted nearly 1,000 youth representatives and diverse academic forces from 15 countries and regions, including China, India, Singapore, South Korea, and the United States, among others, who joined together to explore global issues in the era of artificial intelligence.",
@@ -125,38 +157,6 @@
             "name": "The Indian Express",
             "url": "https://indianexpress.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "052d0b9f2408c26b09cfbb58b4708c6b",
-        "title": "Former Twitter CEO Agrawal Launches New AI Startup: Insider Details",
-        "description": "Parag Agrawal, the former CEO of Twitter, has transitioned into a pioneering role in the rapidly evolving field of artificial intelligence (AI). After his",
-        "content": "Parag Agrawal, the former CEO of Twitter, has transitioned into a pioneering role in the rapidly evolving field of artificial intelligence (AI). After his high-profile departure from Twitter following Elon Musk’s acquisition, Agrawal has now become t... [2341 chars]",
-        "url": "https://www.cryptobreaking.com/former-twitter-ceo-agrawal-launches/",
-        "image": "https://www.cryptobreaking.com/wp-content/uploads/2025/08/1755496849.png",
-        "publishedAt": "2025-08-18T06:01:02Z",
-        "lang": "en",
-        "source": {
-            "id": "03f4f74aaa0a44ccbb846a1630123293",
-            "name": "Crypto Breaking News",
-            "url": "https://www.cryptobreaking.com",
-            "country": "ae"
-        }
-    },
-    {
-        "id": "b7d055d5fbca4f554f88ad6cde6d5d3f",
-        "title": "Singapore prioritises jobs amid fragmenting world, rise of AI",
-        "description": "Singapore’s Prime Minister Lawrence Wong said jobs for citizens will be the government’s top priority as the city-state faces risks from rising global trade barriers and artificial intelligence.",
-        "content": "Singapore prioritises jobs amid fragmenting world, rise of AI\nPrime Minister Lawrence Wong waves to citizens during his annual National Day Rally speech on Sunday marking Singapore’s 60th year. (Photo: @LawrenceWongST X account)\nSingapore’s Prime Min... [2420 chars]",
-        "url": "https://www.bangkokpost.com/world/3088782/singapore-prioritises-jobs-amid-fragmenting-world-rise-of-ai",
-        "image": "https://static.bangkokpost.com/media/content/20250818/c1_3088782_700.jpg",
-        "publishedAt": "2025-08-18T05:19:00Z",
-        "lang": "en",
-        "source": {
-            "id": "91120a92e0d24e24fbffb6d0affabfe6",
-            "name": "Bangkok Post",
-            "url": "https://www.bangkokpost.com",
-            "country": "th"
         }
     }
 ]
