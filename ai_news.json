@@ -1,5 +1,53 @@
 [
     {
+        "id": "64e14ab347de8ad75719719ba2253883",
+        "title": "Johns Hopkins team develops a more reliable AI for early cancer detection",
+        "description": "Two studies led by Johns Hopkins Kimmel Cancer Center, Ludwig Center, and Johns Hopkins Whiting School of Engineering researchers report on a powerful new method that significantly improves the reliability and accuracy of artificial intelligence (AI) for many applications. As an example, they apply the new method to early cancer detection from blood samples, known as liquid biopsy.",
+        "content": "Two studies led by Johns Hopkins Kimmel Cancer Center, Ludwig Center, and Johns Hopkins Whiting School of Engineering researchers report on a powerful new method that significantly improves the reliability and accuracy of artificial intelligence (AI)... [7714 chars]",
+        "url": "https://www.news-medical.net/news/20250819/Johns-Hopkins-team-develops-a-more-reliable-AI-for-early-cancer-detection.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+        "publishedAt": "2025-08-19T06:04:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "8396a5004b98a150e11db849287bbbbf",
+        "title": "OpenAI Rolls Out $5 ChatGPT Go Plan Exclusively for India",
+        "description": "OpenAI is launching an affordable new subscription plan in India, seeking to expand its artificial intelligence offerings in one of the world’s biggest internet service markets.",
+        "content": "OpenAI is launching an affordable new subscription plan in India, seeking to expand its artificial intelligence offerings in one of the world’s biggest internet service markets.\nThe new ChatGPT Go plan costs 399 rupees ($4.60) per month and allows cu... [272 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-19/openai-rolls-out-5-chatgpt-go-plan-exclusively-for-india",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKjLenBOuL1Q/v1/1200x800.jpg",
+        "publishedAt": "2025-08-19T05:53:02Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "f24eb0cb1e51adabbcc20bb2bc2e2ab0",
+        "title": "Salesforce Bets Big On 'Agentic AI,' Acquires Regrello To End Manual Work, Enable AI-Powered Automations",
+        "description": "Salesforce Inc. signed a definitive agreement to acquire Regrello, an artificial intelligence-native automation platform.",
+        "content": "Salesforce Inc. CRM signed a definitive agreement to acquire Regrello, an artificial intelligence-native automation platform, as the enterprise software giant accelerates its push into agentic process automation amid a $2.6 trillion global mergers an... [1588 chars]",
+        "url": "https://www.benzinga.com/markets/equities/25/08/47201298/salesforce-bets-big-on-agentic-ai-acquires-regrello-to-end-manual-work-enable-ai-powered-automations",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/08/19/Salesforce.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-08-19T05:34:24Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "a3b84d9b48f8b1ad8900861beae469cb",
         "title": "AI now a key feature of everyday life in Thailand",
         "description": "Some 91% of Thai internet users now use artificial intelligence (AI) in their daily lives, up from 77% in 2024, reflecting how AI has become an \"invisible\" part of everyday life.",
@@ -103,54 +151,6 @@
         "url": "https://www.reuters.com/business/palo-altos-forecasts-signals-ai-boost-cybersecurity-tools-2025-08-18/",
         "image": "https://www.reuters.com/resizer/v2/BSTCB23ZNNLZRCOGXAUYPR7OYI.jpg?auth=79738596597cdff64c01efdc9c9e26ecb37c637ec491baa9653256850a2b4596&height=1005&width=1920&quality=80&smart=true",
         "publishedAt": "2025-08-18T21:17:08Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "47eba6c1675edd760493dab419f6be6a",
-        "title": "Taiwan leader seeks cooperation with Japan for economic resilience",
-        "description": "Taiwan President Lai Ching-te on Monday called for stronger cooperation with Japan in semiconductors, artificial intelligence and the defense industry to boost economic resilience, as he met with members of the ruling Liberal Democratic Party's youth division. \"By doing so, we can enhance competitiveness, strengthen each other's economic resilience and…",
-        "content": "Taiwan President Lai Ching-te on Monday called for stronger cooperation with Japan in semiconductors, artificial intelligence and the defense industry to boost economic resilience, as he met with members of the ruling Liberal Democratic Party's youth... [936 chars]",
-        "url": "https://japantoday.com/category/politics/taiwan-leader-seeks-cooperation-with-japan-for-economic-resilience",
-        "image": "https://japantoday.com/images/japan-today-social.jpg",
-        "publishedAt": "2025-08-18T21:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "4ce729d8860b084fb3df96d44fab50b7",
-        "title": "Exclusive: Arm hires Amazon AI exec to boost plans to build its own chips",
-        "description": "Arm Holdings has hired Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, a person familiar with the matter said on Monday.",
-        "content": "Rami Sinno, Director of Engineering at Annapurna Labs, poses for a portrait in Austin, Texas, U.S., July 19, 2024. REUTERS/Sergio Flores Purchase Licensing Rights , opens new tab\nItem 1 of 2 Rami Sinno, Director of Engineering at Annapurna Labs, pose... [1998 chars]",
-        "url": "https://www.reuters.com/business/retail-consumer/arm-hires-amazon-ai-exec-boost-plans-build-its-own-chips-2025-08-18/",
-        "image": "https://www.reuters.com/resizer/v2/JTW4U3XT3RIWZBBV7Q46NCFTDE.jpg?auth=9c211c974056fecb24322e1f764c185ac071a14835e6a63ac995b0555946f91f&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-18T20:29:58Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b47fd9ca30fef08760dc869c964e9adf",
-        "title": "Exclusive: Arm hires Amazon AI chip director to aid in-house effort",
-        "description": "Arm Holdings has hired former Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, according to a person familiar with the matter.",
-        "content": "Rami Sinno, Director of Engineering at Annapurna Labs, poses for a portrait in Austin, Texas, U.S., July 19, 2024. REUTERS/Sergio Flores Purchase Licensing Rights , opens new tab\nSAN FRANCISCO, Aug 18 (Reuters) - Arm Holdings has hired former Amazon.... [821 chars]",
-        "url": "https://www.reuters.com/business/retail-consumer/arm-hires-amazon-ai-chip-director-aid-in-house-effort-2025-08-18/",
-        "image": "https://www.reuters.com/resizer/v2/JTW4U3XT3RIWZBBV7Q46NCFTDE.jpg?auth=9c211c974056fecb24322e1f764c185ac071a14835e6a63ac995b0555946f91f&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-18T20:29:58Z",
         "lang": "en",
         "source": {
             "id": "da5c26287bdd02563a2c32b55cb12051",
