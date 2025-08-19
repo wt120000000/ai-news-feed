@@ -1,5 +1,53 @@
 [
     {
+        "id": "d00e1640127a717945684b4d219d88da",
+        "title": "Americans fear AI permanently displacing workers, Reuters/Ipsos poll finds",
+        "description": "Americans are deeply concerned over the prospect that advances in artificial intelligence could put swaths of the country out of work permanently, according to a new Reuters/Ipsos poll.",
+        "content": "Technology leaders attend a generative AI (Artificial Intelligence) meeting in San Francisco, in California, U.S., June 29, 2023. REUTERS/Carlos Barria/File Photo Purchase Licensing Rights , opens new tab\nSummary\nCompanies Seventy-one percent fear AI... [2828 chars]",
+        "url": "https://www.reuters.com/world/us/americans-fear-ai-permanently-displacing-workers-reutersipsos-poll-finds-2025-08-19/",
+        "image": "https://www.reuters.com/resizer/v2/QIHE5TQNWNIE7IEG42QMEZP5N4.jpg?auth=2e8d8b9ed24602dfdd96652b1801e47a12675281020292b048c8a4fd5b70bf7f&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-19T10:03:38Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ebc76dddbe77cde6872b503cf5476c90",
+        "title": "The 1970s Gave Us Industrial Decline. A.I. Could Bring Something Worse.",
+        "description": "Just as manufacturing towns failed to recognize the looming threat of new technology, cities now risk underestimating the disruption of artificial intelligence.",
+        "content": "A silent recession has arrived for recent college graduates. Over the past two years, unemployment among 22‑ to 27‑year‑olds with bachelor’s degrees has climbed to levels seen during economic downturns. A college diploma used to be an ironclad job gu... [1444 chars]",
+        "url": "https://www.nytimes.com/2025/08/19/opinion/ai-job-loss-deindustrialization.html",
+        "image": "https://static01.nyt.com/images/2025/08/19/opinion/19Frey/19Frey-facebookJumbo.jpg",
+        "publishedAt": "2025-08-19T09:00:56Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "fc2ed0de056a50cb8e01ad791837a777",
+        "title": "Silicon Valley Needs to Stop Obsessing Over Superhuman A.I.",
+        "description": "Silicon Valley’s obsession with creating artificial intelligence that surpasses human abilities is going too far.",
+        "content": "Building a machine more intelligent than ourselves. It’s a centuries-old theme, inspiring equal amounts of awe and dread, from the agents in “The Matrix” to the operating system in “Her.”\nTo many in Silicon Valley, this compelling fictional motif is ... [1480 chars]",
+        "url": "https://www.nytimes.com/2025/08/19/opinion/artificial-general-intelligence-superintelligence.html",
+        "image": "https://static01.nyt.com/images/2025/08/04/opinion/04schmidt/04schmidt-facebookJumbo.jpg",
+        "publishedAt": "2025-08-19T09:00:07Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "c3639753b3b92824904f098fce300e01",
         "title": "Arm Taps Amazon AI Veteran To Drive In-House Chip Push, Challenge Nvidia And AMD: Report",
         "description": "In a strategic move, Arm Holdings has recruited Rami Sinno, a former Amazon.com Inc (NASDAQ: AMZN) artificial intelligence (AI) chip director, to enhance its in-house chip development plans.",
@@ -103,54 +151,6 @@
         "url": "https://www.benzinga.com/markets/large-cap/25/08/47201556/metas-billion-dollar-ai-super-team-could-end-up-like-the-metaverse-warns-venture-capitalist-dont-think-anyones-the-96-bulls",
         "image": "https://cdn.benzinga.com/files/images/story/2025/08/19/Menlo-Park--Usa--May-5--2023-Meta-Corpor.jpeg?width=1200&height=800&fit=crop",
         "publishedAt": "2025-08-19T06:24:13Z",
-        "lang": "en",
-        "source": {
-            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-            "name": "Benzinga",
-            "url": "https://www.benzinga.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "64e14ab347de8ad75719719ba2253883",
-        "title": "Johns Hopkins team develops a more reliable AI for early cancer detection",
-        "description": "Two studies led by Johns Hopkins Kimmel Cancer Center, Ludwig Center, and Johns Hopkins Whiting School of Engineering researchers report on a powerful new method that significantly improves the reliability and accuracy of artificial intelligence (AI) for many applications. As an example, they apply the new method to early cancer detection from blood samples, known as liquid biopsy.",
-        "content": "Two studies led by Johns Hopkins Kimmel Cancer Center, Ludwig Center, and Johns Hopkins Whiting School of Engineering researchers report on a powerful new method that significantly improves the reliability and accuracy of artificial intelligence (AI)... [7714 chars]",
-        "url": "https://www.news-medical.net/news/20250819/Johns-Hopkins-team-develops-a-more-reliable-AI-for-early-cancer-detection.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2025-08-19T06:04:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "8396a5004b98a150e11db849287bbbbf",
-        "title": "OpenAI Rolls Out $5 ChatGPT Go Plan Exclusively for India",
-        "description": "OpenAI is launching an affordable new subscription plan in India, seeking to expand its artificial intelligence offerings in one of the world’s biggest internet service markets.",
-        "content": "OpenAI is launching an affordable new subscription plan in India, seeking to expand its artificial intelligence offerings in one of the world’s biggest internet service markets.\nThe new ChatGPT Go plan costs 399 rupees ($4.60) per month and allows cu... [272 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-19/openai-rolls-out-5-chatgpt-go-plan-exclusively-for-india",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKjLenBOuL1Q/v1/1200x800.jpg",
-        "publishedAt": "2025-08-19T05:53:02Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f24eb0cb1e51adabbcc20bb2bc2e2ab0",
-        "title": "Salesforce Bets Big On 'Agentic AI,' Acquires Regrello To End Manual Work, Enable AI-Powered Automations",
-        "description": "Salesforce Inc. signed a definitive agreement to acquire Regrello, an artificial intelligence-native automation platform.",
-        "content": "Salesforce Inc. CRM signed a definitive agreement to acquire Regrello, an artificial intelligence-native automation platform, as the enterprise software giant accelerates its push into agentic process automation amid a $2.6 trillion global mergers an... [1588 chars]",
-        "url": "https://www.benzinga.com/markets/equities/25/08/47201298/salesforce-bets-big-on-agentic-ai-acquires-regrello-to-end-manual-work-enable-ai-powered-automations",
-        "image": "https://cdn.benzinga.com/files/images/story/2025/08/19/Salesforce.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2025-08-19T05:34:24Z",
         "lang": "en",
         "source": {
             "id": "d4e7f6a65e15620f4e4044691a99d0fd",
