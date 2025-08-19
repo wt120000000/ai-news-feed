@@ -1,5 +1,21 @@
 [
     {
+        "id": "fed7e582f7ca7dbe96dc30e98e27adb8",
+        "title": "China’s DeepSeek releases V3.1, boosting AI model’s capabilities",
+        "description": "The speed and popularity of DeepSeek’s models have challenged US incumbents such as OpenAI, and demonstrated how Chinese companies can make strides in artificial intelligence for seemingly a fraction of the cost.",
+        "content": "DeepSeek announced what appeared to be an update to its older V3 artificial intelligence model on Tuesday, declaring an enhanced version ready for testing.\nThe V3.1 has a longer context window, according to a DeepSeek post to its official WeChat grou... [956 chars]",
+        "url": "https://www.mercurynews.com/2025/08/19/chinas-deepseek-releases-v3-1-boosting-ai-models-capabilities/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2025/01/What_is_DeepSeek_the_Chinese_AI_startup_that_shook_the_tech_world1-1.jpg?w=1024&h=681",
+        "publishedAt": "2025-08-19T14:40:11Z",
+        "lang": "en",
+        "source": {
+            "id": "17d7c2645f485578130862e0c8dd9480",
+            "name": "The Mercury News",
+            "url": "https://www.mercurynews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "696f72dcf6792ecf00e0bbb382357a05",
         "title": "How Metro Detroit school is approaching use of AI in the classroom",
         "description": "As we increasingly ponder how to use artificial intelligence in our jobs and everyday lives, schools are also trying to figure out how to safely use it and teach it.",
@@ -141,22 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "5949cd101ccc17d32e7c81bffdb3bf54",
-        "title": "Remove chatbots that eroticise children: Brazil tells Meta as tech giant lets AI sensualise kids",
-        "description": "Brazil’s government has ordered Meta to take down chatbots capable of eroticising children, after an internal company document revealed that its artificial intelligence systems were permitted to engage in sexualised conversations with minors",
-        "content": "Brazil’s government has ordered Meta to take down chatbots capable of eroticising children, after an internal company document revealed that its artificial intelligence systems were permitted to engage in sexualised conversations with minors\nMeta CEO... [3475 chars]",
-        "url": "https://www.firstpost.com/tech/remove-chatbots-that-eroticise-children-brazil-tells-meta-as-tech-giant-lets-ai-sensualise-kids-13926224.html",
-        "image": "https://images.firstpost.com/uploads/2025/06/Firstpost-2025-06-10T175648.169-2025-06-81df31c08af92b6f5cbd661d09149486.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2025-08-19T12:25:09Z",
-        "lang": "en",
-        "source": {
-            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-            "name": "Firstpost",
-            "url": "https://www.firstpost.com",
-            "country": "in"
         }
     }
 ]
