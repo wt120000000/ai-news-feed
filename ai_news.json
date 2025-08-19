@@ -1,5 +1,53 @@
 [
     {
+        "id": "696f72dcf6792ecf00e0bbb382357a05",
+        "title": "How Metro Detroit school is approaching use of AI in the classroom",
+        "description": "As we increasingly ponder how to use artificial intelligence in our jobs and everyday lives, schools are also trying to figure out how to safely use it and teach it.",
+        "content": "WASHTENAW COUNTY, Mich. – As we increasingly ponder how to use artificial intelligence (AI) in our jobs and everyday lives, schools are also trying to figure out how to safely use it and teach it.\nYpsilanti High School is embracing artificial intelli... [1931 chars]",
+        "url": "https://www.clickondetroit.com/news/local/2025/08/19/how-metro-detroit-school-is-approaching-use-of-ai-in-the-classroom/",
+        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/fstl-tf/sG4AwpgBGIzVc0UFCuer/1755601582021_1920x1080_thumbnail.jpg?_a=DATAg1eAZAA0",
+        "publishedAt": "2025-08-19T14:08:53Z",
+        "lang": "en",
+        "source": {
+            "id": "35515662ec044d3f94b543cd8802d63f",
+            "name": "WDIV ClickOnDetroit",
+            "url": "https://www.clickondetroit.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "f10d47364dbfa60f2cd17acc0250bb16",
+        "title": "China's DeepSeek Releases V3.1, Boosting AI Model's Capabilities",
+        "description": "DeepSeek announced what appeared to be an update to its older V3 artificial intelligence model on Tuesday, declaring an enhanced version ready for testing. The V3.1 has a longer context window, according to a DeepSeek post to its official WeChat group, meaning it can consider a larger amount of information for any given query. That could allow it to maintain longer conversations with better recall, for example.",
+        "content": "DeepSeek announced what appeared to be an update to its older V3 artificial intelligence model on Tuesday, declaring an enhanced version ready for testing.\nThe V3.1 has a longer context window, according to a DeepSeek post to its official WeChat grou... [822 chars]",
+        "url": "https://www.ndtvprofit.com/technology/artificial-intelligence-china-deepseek-releases-v31-boosting-ai-model-capabilities",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-08-19%2Fvd8omjw9%2F438249123-2.jpg?rect=0%2C284%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-08-19T13:56:03Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "62fba3efecf4cf53035306dc8fa14ea0",
+        "title": "Can AI coach us to a healthier future? For now, it's a little too pushy",
+        "description": "Artificial intelligence programs such as ChatGPT could potentially be used to motivate people to make healthier choices, but currently veer away from best practice, new Flinders University research has found.",
+        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nCredit: Pixabay/CC0 Public Domain\nArtificial intelligence programs su... [2575 chars]",
+        "url": "https://medicalxpress.com/news/2025-08-ai-healthier-future-pushy.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2024/chatgpt-1.jpg",
+        "publishedAt": "2025-08-19T13:42:03Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "49b81f10040555c06d2f631312c15815",
         "title": "Mint Announces $150 Million Investment Commitment and Initial Exchange Offering",
         "description": "**media[719323]**BETHESDA, Md., Aug. 19, 2025 /PRNewswire/ -- Green Minting Technologies, Corp. ('Mint'), announced today the strategic investment commitment of up to $150 Million USD with GEM Digital Limited through a token subscription agreement to develop a state-of-the-art, 600-Megawatt, off-grid, renewable energy, Bitcoin mining and AI datacenter project.  The partnership is set to accelerate Mint's mission of bringing renewably-powered cloud computing to the masses through its $MINT token, which enables tokenholders to buy compute power by the hash in order to leverage low-cost, renewable energy to power applications like Bitcoin mining on Application-Specific Integrated Circuits ('ASICs') or training Artificial Intelligence ('AI') on Graphics Processing Units ('GPUs').",
@@ -13,6 +61,22 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
+        }
+    },
+    {
+        "id": "788a4d9855511c58dd4a67ddd7195fe0",
+        "title": "China’s DeepSeek Releases V3.1, Boosting AI Model’s Capabilities",
+        "description": "DeepSeek announced what appeared to be an update to its older V3 artificial intelligence model on Tuesday, declaring an enhanced version ready for testing.",
+        "content": "DeepSeek announced what appeared to be an update to its older V3 artificial intelligence model on Tuesday, declaring an enhanced version ready for testing.\nThe V3.1 has a longer context window, according to a DeepSeek post to its official WeChat grou... [310 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-19/china-s-deepseek-release-v3-1-boosting-ai-model-s-capabilities",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ippuvytgzAAs/v0/1200x800.jpg",
+        "publishedAt": "2025-08-19T13:05:50Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
         }
     },
     {
@@ -93,70 +157,6 @@
             "name": "Firstpost",
             "url": "https://www.firstpost.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "7269a7a7b6b6a442d7587410da31e37c",
-        "title": "PH economy continues to thrive, navigates AI and tariff headwinds",
-        "description": "The Philippine economy is navigating challenges from global trade shifts, artificial intelligence advancements and geopolitical tensions, but remains",
-        "content": "The Philippine economy is navigating challenges from global trade shifts, artificial intelligence advancements and geopolitical tensions, but remains resilient, with an annual growth above 5 percent.\nAfter expanding 5.5 percent in 2023 and 5.7 percen... [6008 chars]",
-        "url": "https://manilastandard.net/business/314632072/ph-economy-continues-to-thrive-navigates-ai-and-tariff-headwinds.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/B1-1inflation-1.jpeg",
-        "publishedAt": "2025-08-19T12:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "e9207083a357fb7e76b38e485888ebe7",
-            "name": "manilastandard.net",
-            "url": "https://manilastandard.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "89b42e611f0512596f850490351d2d2a",
-        "title": "Why media must try to hold on to its credibility in the age of artificial intelligence",
-        "description": "Balance and fact-checking will become increasingly important in an age when computers can generate convincing-looking fakes more easily.",
-        "content": "Since the emergence of ChatGPT , tech companies have been pouring enormous resources into artificial intelligence tools as they compete for market share.\nAdvertisement\nIn just a few months, even average users may have noticed the immense improvements... [658 chars]",
-        "url": "https://www.scmp.com/news/china/science/article/3322404/why-media-must-try-hold-its-credibility-age-artificial-intelligence",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2025/08/19/34f748fb-35fc-4644-8ece-e12b0b3fa85c_66c40fbe.jpg?itok=uUhpr6S7&v=1755604892",
-        "publishedAt": "2025-08-19T12:08:10Z",
-        "lang": "en",
-        "source": {
-            "id": "d6397b77175680e2678c0d60edcee7af",
-            "name": "South China Morning Post",
-            "url": "https://www.scmp.com",
-            "country": "hk"
-        }
-    },
-    {
-        "id": "a8e449135b9ed4b1e3e4bb3c164e0b1c",
-        "title": "AI crucial to PH energy sector’s transformation",
-        "description": "Artificial intelligence (AI) is critical to the energy sector’s rapid transformation, according to the World Economic Forum (WEF), as the two are",
-        "content": "Artificial intelligence (AI) is critical to the energy sector’s rapid transformation, according to the World Economic Forum (WEF), as the two are inextricably linked amid fast-paced technological innovation and rising environmental responsibility.\nTh... [6823 chars]",
-        "url": "https://manilastandard.net/business/314632063/ai-crucial-to-ph-energy-sectors-transformation.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/WEF-AI.png",
-        "publishedAt": "2025-08-19T12:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "e9207083a357fb7e76b38e485888ebe7",
-            "name": "manilastandard.net",
-            "url": "https://manilastandard.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "6b1c613759b349ac5bdeedebdbbd7961",
-        "title": "Might artificial intelligence make in-person work a thing of the past?",
-        "description": "Workplace Intelligence and GoTo have published a report exploring how AI can facilitate flexible and remote working.",
-        "content": "As we continue to embrace the advantages of AI, for some, we are potentially looking at a future working landscape that thrives away from office-based setups.\nDespite the topic of workplace AI being a near constant in employee and employer rhetoric, ... [4653 chars]",
-        "url": "https://www.siliconrepublic.com/careers/artificial-intelligence-in-person-work-survey-report-working-life",
-        "image": "https://www.siliconrepublic.com/wp-content/uploads/2025/08/Woman-working-from-home-Remote-work.jpeg",
-        "publishedAt": "2025-08-19T12:00:47Z",
-        "lang": "en",
-        "source": {
-            "id": "59749bcce0ec90ed59071c45c44738b7",
-            "name": "Siliconrepublic.com",
-            "url": "https://www.siliconrepublic.com",
-            "country": "ie"
         }
     }
 ]
