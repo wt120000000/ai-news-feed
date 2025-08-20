@@ -1,5 +1,37 @@
 [
     {
+        "id": "e26893cfa6d30f273900a28a61eaa38f",
+        "title": "Global shares are mixed",
+        "description": "Global shares were mostly lower on Wednesday, tracking a decline on Wall Street led by technology shares including Nvidia and other artificial-intelligence stars.",
+        "content": "Dealers talk near screens showing the Korea Composite Stock Price Index (KOSPI), left, and the foreign exchange rate between U.S. dollar and South Korean won at a dealing room of Hana Bank in Seoul, South Korea, Wednesday, Aug. 20, 2025. (AP Photo/Le... [3495 chars]",
+        "url": "https://www.cp24.com/news/money/2025/08/20/global-shares-are-mixed-while-labubu-maker-pop-mart-soars-125-in-hong-kong/",
+        "image": "https://www.cp24.com/resizer/v2/VEHWC7PSSV76BOLNZKSOAJN5FU.jpg?smart=true&auth=7d2462c91857e5b27c611487eee03d3c8da7c2fa48300af4e7a0dceeb31ed460&width=1200&height=630",
+        "publishedAt": "2025-08-20T09:41:36Z",
+        "lang": "en",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "1ab44738cccb153f87bcbdb2429b94bb",
+        "title": "Is an AI winter upon us? There seems a chill in the air",
+        "description": "The performance of OpenAI’s GPT-5, touted as a PhD level chatbot, left even diehard AI fans cold. Makers of artificial intelligence tools had better match AI hype with actual utility before disappointment worsens.",
+        "content": "I wrote at the beginning of the year that Wall Street investors should brace for an ‘AI winter’ in 2025; not necessarily a slowdown in investment, and certainly not in hype from AI companies, but in tangible progress. Patience would be tested. Some r... [4692 chars]",
+        "url": "https://www.livemint.com/opinion/online-views/ai-winter-gpt-5-sam-altman-openai-artificial-general-intelligence-chatgpt-coreweave-stock-mckinsey-microsoft-nvidia-11755586521729.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/08/19/1600x900/MICROSOFT-OPENAI--0_1755255223567_1755255234782_1755588871562.JPG",
+        "publishedAt": "2025-08-20T09:30:11Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "5da6c5ee4d758e99176e284aec976b33",
         "title": "Inspur Showcases at 2025 ASEAN AI Malaysia Summit",
         "description": "KUALA LUMPUR, Malaysia, Aug. 19, 2025 /PRNewswire/ -- August 12-13, the 2025 ASEAN Artificial Intelligence Summit grandly opened at the Malaysia International Trade and Exhibition Centre (MITEC), with Inspur as an invited participant. Inspur showcased its AI-related technologies, products, solutions, and application scenarios at the summit's exhibition, facilitating strategic partnerships during the event.",
@@ -124,38 +156,6 @@
             "id": "20ca9773b4c0563e26b4c2863bdf8c19",
             "name": "The Associated Press",
             "url": "https://apnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0f6159749712835f204f3ec4d0f36198",
-        "title": "Asian shares retreat, tracking tech losses on Wall Street",
-        "description": "Asian shares have retreated, tracking a decline on Wall Street led by technology shares including Nvidia and other stars that have been riding the mania surrounding artificial-intelligence",
-        "content": "TOKYO (AP) — Asian shares retreated on Wednesday, tracking a decline on Wall Street led by technology shares including Nvidia and other stars that have been riding the mania surrounding artificial-intelligence.\nBenchmarks fell in Japan, South Korea a... [4595 chars]",
-        "url": "https://www.marketbeat.com/articles/asian-shares-retreat-tracking-tech-losses-on-wall-street-2025-08-19/",
-        "image": "https://www.marketbeat.com/images/MarketBeat-icon-256x256.png",
-        "publishedAt": "2025-08-20T04:48:22Z",
-        "lang": "en",
-        "source": {
-            "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
-            "name": "MarketBeat",
-            "url": "https://www.marketbeat.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f4f47be6d736a576beccff4bad4b5841",
-        "title": "Asian shares retreat, tracking tech losses on Wall Street",
-        "description": "Asian shares have retreated, tracking a decline on Wall Street led by technology shares including Nvidia and other stars that have been riding the mania surrounding artificial-intelligence.",
-        "content": "Currency traders watch monitors near a screen showing the Korea Composite Stock Price Index (KOSPI), left, and the foreign exchange rate between U.S. dollar and South Korean won at the foreign exchange dealing room of the Hana Bank headquarters in Se... [4305 chars]",
-        "url": "https://www.clickondetroit.com/business/2025/08/20/asian-shares-retreat-tracking-tech-losses-on-wall-street/",
-        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/X4E23A6WEFC5RCSUWDRFC4M4EY.jpg?_a=DATAg1eAZAA0",
-        "publishedAt": "2025-08-20T04:48:22Z",
-        "lang": "en",
-        "source": {
-            "id": "35515662ec044d3f94b543cd8802d63f",
-            "name": "WDIV ClickOnDetroit",
-            "url": "https://www.clickondetroit.com",
             "country": "us"
         }
     }
