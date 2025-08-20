@@ -1,5 +1,85 @@
 [
     {
+        "id": "f5d67dd16b2689d7d4af19157f7334af",
+        "title": "AI platform uses 3D visualization to reveal disease biomarkers in multiomics data",
+        "description": "Researchers say the ability to visualize health data in three dimensions can unlock patterns and relationships among predictive biomarkers that conventional data visualization can't convey. That's why Zeeshan Ahmed and his team at Rutgers developed 3D IntelliGenes, an advanced artificial intelligence and machine-learning platform with the ability to visually analyze multiple types of biological and clinical data—known as multiomics.",
+        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\n3D IntelliGenes workflow. Credit: BMC Medical Research Methodology (2... [1872 chars]",
+        "url": "https://medicalxpress.com/news/2025-08-ai-platform-3d-visualization-reveal.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/aiml-application-using.jpg",
+        "publishedAt": "2025-08-20T18:06:24Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "81b77cbd76b110eec70ff326d88b9d07",
+        "title": "OpenAI CFO Sees Firm Selling AI Infrastructure Service in Future",
+        "description": "OpenAI is considering eventually helping other businesses tap into the data centers and physical infrastructure needed for artificial intelligence, potentially creating a new revenue line that could offset some of the ChatGPT maker’s immense costs.",
+        "content": "OpenAI is considering eventually helping other businesses tap into the data centers and physical infrastructure needed for artificial intelligence, potentially creating a new revenue line that could offset some of the ChatGPT maker’s immense costs.\nT... [429 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-20/openai-may-sell-infrastructure-services-to-other-firms-cfo-says",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN3.a.qrz8IA/v0/1200x800.jpg",
+        "publishedAt": "2025-08-20T18:03:09Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a2855dc44388889fe8a71ad2dab65aaa",
+        "title": "Warren Brodey, 101, Dies; a Visionary at the Dawn of the Information Age",
+        "description": "His work on complex systems and responsive technologies helped lay the groundwork for later work on artificial intelligence.",
+        "content": "Warren Brodey, who used his background as a psychiatrist to develop wide-ranging ideas about the liberating possibilities of technology at the dawn of the information age — ideas that helped lay the groundwork for revolutionary fields like artificial... [955 chars]",
+        "url": "https://www.nytimes.com/2025/08/20/technology/warren-brodey-dead.html",
+        "image": "https://static01.nyt.com/images/2025/08/20/multimedia/20Brodey--01-vcgj/20Brodey--01-vcgj-facebookJumbo.jpg",
+        "publishedAt": "2025-08-20T17:35:50Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6d182420fc8cbfc26a19093f8887dd4c",
+        "title": "AI is changing how people travel",
+        "description": "Travelers are using artificial intelligence to plan their trips. An expert says this shift is more than a trend. It’s the new normal.",
+        "content": "Share this\nArticle Facebook\nTwitter\nReddit\nEmail You are free to share this article under the Attribution 4.0 International license. University University of South Florida\nAn expert has answers for you about how AI is revolutionizing travel planning.... [2891 chars]",
+        "url": "https://www.futurity.org/artificial-intelligence-travel-3290812-2/",
+        "image": "https://www.futurity.org/wp/wp-content/uploads/2025/08/travelers-gut-bacteria-antibiotic-resistance-1600-1.jpg",
+        "publishedAt": "2025-08-20T17:19:53Z",
+        "lang": "en",
+        "source": {
+            "id": "e9ebd5ddfec64ee80f9cbd6ec0b9fdb0",
+            "name": "Futurity: Research News",
+            "url": "https://www.futurity.org",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3cb812546c8e283211d9a323b4939a49",
+        "title": "Google’s Pixel 10 phones raise the ante on AI",
+        "description": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence.",
+        "content": "This advertisement has not loaded yet, but your article continues below.\nAir Canada set to announce new expenses policy for passengers as restart continues\nGoogle’s Pixel 10 phones raise the ante on artificial intelligence Photo by Google LLC via AP ... [7673 chars]",
+        "url": "https://torontosun.com/technology/personal-tech/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence",
+        "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2025/08/68a5f184769e86f0690c463ejpeg.jpg",
+        "publishedAt": "2025-08-20T17:13:37Z",
+        "lang": "en",
+        "source": {
+            "id": "09dc1bda762f4f787cec10477a894d96",
+            "name": "Toronto Sun",
+            "url": "https://torontosun.com",
+            "country": "ca"
+        }
+    },
+    {
         "id": "2e3224033531a281393824ccd56ce7f0",
         "title": "US tech stocks plunge as investor scramble to understand new market realities",
         "description": "Nvidia, Palantir and other superstar stocks that had surged in the mania surrounding artificial-intelligence technology dragged Wall Street lower again on Wednesday. The S&P 500 dropped 1pc and the tech heavy Nasdaq share index was 1.8pc lower. Nvidia, whose chips are powering much of the world's move into AI, dropped 3.7pc following its 3.5pc fall on Tuesday. Controversial software giant Palantir Technologies, another AI darling, sank 9.3pc on Wednesday to add to its 9.4pc decline the day before.",
@@ -77,86 +157,6 @@
             "name": "New York Post",
             "url": "https://nypost.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "7d80058b0b2006388af1c7d367e67057",
-        "title": "Pixel 10 includes expanded AI",
-        "description": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
-        "content": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.\nT... [4238 chars]",
-        "url": "https://www.cp24.com/news/money/2025/08/20/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence/",
-        "image": "https://www.cp24.com/resizer/v2/JDLGY3YLW5GJ3E52KNCPLEKRYY.png?smart=true&auth=814120e221c445a4218b7b7c274ac43e1c0feb9a5578c69494dd7273207b52ae&width=1200&height=630",
-        "publishedAt": "2025-08-20T16:15:47Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "ea68b413e636ef934485c1e5024dea12",
-        "title": "Google unveils modest upgrades to Pixel smartphones, other gadgets",
-        "description": "Alphabet’s Google introduced on Wednesday a new lineup of Pixel smartphones and gadgets, intensifying its efforts to embed artificial intelligence across a wide ecosystem of products.",
-        "content": "The Google logo is seen outside the company's offices in London, Britain, June 24, 2025. REUTERS/Carlos Jasso/File Photo Purchase Licensing Rights , opens new tab\nSummary\nCompanies Google steps up integration of AI into its hardware devices\nPrices re... [3281 chars]",
-        "url": "https://www.reuters.com/world/china/google-unveils-modest-upgrades-pixel-smartphones-other-gadgets-2025-08-20/",
-        "image": "https://www.reuters.com/resizer/v2/5V6T7C6RQZLCRJXTAVEK3UQSQQ.jpg?auth=ae4e8fc153bebc5532428c777b57594b76a9ac0d9a74fc776944f48e185bf567&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-20T16:07:14Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "510df84abf0d0ae505f5001110bec5af",
-        "title": "AI now driving food security, sustainability",
-        "description": "DRONES, self-driving tractors, automated hydroponics, climate-simulated greenhouses, auto-crop planting robots, targeted pest-control and precise irrigation are all part of the new agricultural ecosystem run by the Internet of Things (IoT) and artificial intelligence (AI).",
-        "content": "DRONES, self-driving tractors, automated hydroponics, climate-simulated greenhouses, auto-crop planting robots, targeted pest-control and precise irrigation are all part of the new agricultural ecosystem run by the Internet of Things (IoT) and artifi... [6166 chars]",
-        "url": "https://www.manilatimes.net/2025/08/21/business/agribusiness/ai-now-driving-food-security-sustainability/2171082",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/20/720604.png",
-        "publishedAt": "2025-08-20T16:07:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "3dd58583f1b43cb6874a4a436cf68edf",
-        "title": "Google’s Pixel 10 phones raises the ante on artificial intelligence",
-        "description": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that's designed to do everything from…",
-        "content": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to…\nGoogle on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelli... [4469 chars]",
-        "url": "https://wtop.com/lifestyle/2025/08/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence/",
-        "image": "https://wtop.com/wp-content/uploads/2025/08/Google_Pixel_Phones_44740-scaled.jpg",
-        "publishedAt": "2025-08-20T16:02:54Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b41ce6e3dc0673460dcef7599ee0c2a5",
-        "title": "Google's Pixel 10 phones raises the ante on artificial intelligence",
-        "description": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that's designed to do everything from fetch vital information stored on the devices",
-        "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-        "url": "https://www.thestar.com/news/world/united-states/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence/article_713f75d6-5dfa-5260-821e-aa507879df8a.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/ff/9ff08a56-0ca1-53c0-9758-16bd22b164fc/68a5f35edca25.image.jpg?crop=1080%2C567%2C0%2C256",
-        "publishedAt": "2025-08-20T16:02:17Z",
-        "lang": "en",
-        "source": {
-            "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
-            "name": "Toronto Star",
-            "url": "https://www.thestar.com",
-            "country": "ca"
         }
     }
 ]
