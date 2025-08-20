@@ -1,5 +1,21 @@
 [
     {
+        "id": "cb45377810f8743e5a6ba7cc92e3821a",
+        "title": "Jack Neo uses AI to create SG60 song with AI image of Lee Kuan Yew",
+        "description": "Local film-maker Jack Neo has created a new music video in conjunction with the month of National Day, using artificial intelligence (AI) technology to recreate images such as the appearance of Singapore's founding prime minister Lee Kuan Yew and his voice.",
+        "content": "Local film-maker Jack Neo has created a new music video in conjunction with the month of National Day, using artificial intelligence (AI) technology to recreate images such as the appearance of Singapore's founding prime minister Lee Kuan Yew and his... [3446 chars]",
+        "url": "https://www.tnp.sg/lifestyle/jack-neo-uses-ai-create-sg60-song-ai-image-lee-kuan-yew",
+        "image": "https://cassette.sphdigital.com.sg/image/thenewpaper/524a412c5aab5fa1573f6baf2d25c1b216e6ef69157e231fefacc10c7c882e7e/kc-lky2008.jpg",
+        "publishedAt": "2025-08-20T07:25:58Z",
+        "lang": "en",
+        "source": {
+            "id": "a20567d6dba1eb61fe53af2865f90d74",
+            "name": "The New Paper",
+            "url": "https://www.tnp.sg",
+            "country": "sg"
+        }
+    },
+    {
         "id": "63b93ab6fcaf4e589c1349266e870e12",
         "title": "Asian shares retreat, tracking tech losses on Wall Street",
         "description": "Asian shares retreated on Wednesday, tracking a decline on Wall Street led by technology shares including Nvidia and other stars that have been riding the mania surrounding artificial-intelligence. Benchmarks fell in Japan, South Korea and Taiwan, pulled lower by selling of computer chip makers. Tokyo's benchmark Nikkei 225 declined 1.5% to…",
@@ -141,22 +157,6 @@
             "name": "Bangkok Post",
             "url": "https://www.bangkokpost.com",
             "country": "th"
-        }
-    },
-    {
-        "id": "a603cec48606c8b114acf1669fb79543",
-        "title": "Who Is Mary Ann Davidson? Oracle's Security Chief Quits After Nearly 40 Years Amid Company Reorganisation",
-        "description": "Mary Ann Davidson, Oracle’s longtime Chief Security Officer (CSO), is leaving the company after nearly four decades of service. According to Bloomberg, Davidson has been \"one of the highest-ranking women in the cybersecurity industry.\" Her exit comes as part of a wider reorganisation at Oracle, with the company reportedly cutting jobs to rein in costs amid heavy investment in artificial intelligence infrastructure, the Bloomberg report added, citing a person familiar with the matter.",
-        "content": "Davidson's official profile on Oracle's website highlights her role representing the company on the board of the Information Technology Information Sharing and Analysis Center. It also notes her service on the international board of the Information S... [1592 chars]",
-        "url": "https://www.ndtvprofit.com/technology/who-is-mary-ann-davidson-oracles-security-chief-quits-after-nearly-40-years-amid-company-reorganisation",
-        "image": "https://media.assettype.com/bloombergquint%2F2025-08-20%2Fnx0y7uu2%2Frc96-mary-anne-davidson.avif?w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-08-20T04:06:03Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
         }
     }
 ]
