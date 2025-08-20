@@ -1,5 +1,37 @@
 [
     {
+        "id": "b12b84bf96fa15e92241cdb99762e46c",
+        "title": "NASA employs AI to better predict solar activity",
+        "description": "NASA announced Wednesday that it is deciphering the sun's behavior with help from artificial intelligence.",
+        "content": "Aug. 20 (UPI) -- NASA announced Wednesday that it is deciphering the sun's behavior with help from artificial intelligence.\nIn a press release, the National Aeronautics and Space Administration said that, in conjunction with IBM among other partners,... [2521 chars]",
+        "url": "https://www.upi.com/Science_News/2025/08/20/NASA-Sun-Surya-IBM-solar-activity-flare-weather/6111755712133/",
+        "image": "https://cdnph.upi.com/ph/st/th/6111755712133/2025/upi/a17b9e6b491e790717335e1e2fa6a231/v1.5/NASA-employs-AI-to-better-predict-solar-activity.jpg?lg=5",
+        "publishedAt": "2025-08-20T18:45:00Z",
+        "lang": "en",
+        "source": {
+            "id": "79baacd62152cf257ee35e8c0bec19a2",
+            "name": "UPI News",
+            "url": "https://www.upi.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "0ddedf8117af70a5eb59e82c9db4352a",
+        "title": "In a boost to research, Goa varsity gets advanced AI lab",
+        "description": "Panaji: An advanced artificial intelligence (AAI) laboratory was established at the Goa University campus within its research park unit. Vice-chancell.",
+        "content": "Panaji:\nAn advanced artificial intelligence (AAI) laboratory was established at the Goa University campus within its research park unit. Vice-chancellor Harilal B Menon said the new facility will empower emerging scholars to advance in the field by t... [1708 chars]",
+        "url": "https://timesofindia.indiatimes.com/city/goa/in-a-boost-to-research-goa-varsity-gets-advanced-ai-lab/articleshow/123417501.cms",
+        "image": "https://static.toiimg.com/thumb/msid-123417681,width-1070,height-580,imgsize-1023224,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2025-08-20T18:43:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "f5d67dd16b2689d7d4af19157f7334af",
         "title": "AI platform uses 3D visualization to reveal disease biomarkers in multiomics data",
         "description": "Researchers say the ability to visualize health data in three dimensions can unlock patterns and relationships among predictive biomarkers that conventional data visualization can't convey. That's why Zeeshan Ahmed and his team at Rutgers developed 3D IntelliGenes, an advanced artificial intelligence and machine-learning platform with the ability to visually analyze multiple types of biological and clinical data—known as multiomics.",
@@ -13,6 +45,22 @@
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
             "country": "gb"
+        }
+    },
+    {
+        "id": "5c2ba7e68a519c0c4728f2a9e2722cde",
+        "title": "Google's Pixel 10 Phones Raise the Ante on Artificial Intelligence",
+        "description": "A new lineup of Google's Pixel smartphones is here and they come with a big dose of AI.",
+        "content": "A new lineup of Google’s Pixel smartphones is here and they come with a big dose of AI.\nGoogle on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch ... [3819 chars]",
+        "url": "https://www.inc.com/associated-press/googles-pixel-10-phones-raise-the-ante-on-artificial-intelligence/91229439",
+        "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/vip/2025/08/google-pixel-10-inc.jpg",
+        "publishedAt": "2025-08-20T18:03:16Z",
+        "lang": "en",
+        "source": {
+            "id": "602d1de710d66397a00201d8efdd36ee",
+            "name": "Inc. Magazine",
+            "url": "https://www.inc.com",
+            "country": "us"
         }
     },
     {
@@ -109,54 +157,6 @@
             "name": "Livemint",
             "url": "https://www.livemint.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "d5323f37863e9f3e977d83fb9eff2559",
-        "title": "India's AI Frontier: Navigating the Opportunities and Threats",
-        "description": "Maharashtra Chief Minister Devendra Fadnavis addressed the challenges and opportunities posed by Artificial Intelligence, emphasizing India's ability to withstand its impact. He highlighted concerns like AI-driven financial fraud and the need for best AI institutions. Fadnavis also compared the AI revolution to the dot-com boom, urging a balanced perspective.",
-        "content": "Maharashtra Chief Minister Devendra Fadnavis highlighted the dual challenges and opportunities posed by Artificial Intelligence (AI), asserting India's resilience against its potential disruptions. Speaking at the launch of Symbiosis Artificial Intel... [697 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3548337-indias-ai-frontier-navigating-the-opportunities-and-threats",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2025_14_05_19_8092855.png?width=920&format=jpeg",
-        "publishedAt": "2025-08-20T16:46:58Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "ac5fb42ccb4992704d4e7ae5c23628a0",
-        "title": "Google's Pixel 10 phones raises the ante on artificial intelligence",
-        "description": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
-        "content": "By MICHAEL LIEDTKE, AP Technology Writer\nGoogle on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help... [4239 chars]",
-        "url": "https://www.baltimoresun.com/2025/08/20/google-pixel-10-phones/",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2025/08/Google_Pixel_Phones_44740.jpg?w=1024&h=1024",
-        "publishedAt": "2025-08-20T16:36:13Z",
-        "lang": "en",
-        "source": {
-            "id": "3271eb2093cfa66b030a37cf84a8df5e",
-            "name": "Baltimore Sun",
-            "url": "https://www.baltimoresun.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0c834d4659a8546eb1b1300d7be454f5",
-        "title": "Mark Zuckerberg's pricey new AI hires are clashing with Meta's old guard",
-        "description": "Meta CEO Mark Zuckerberg reportedly blowing up his artificial intelligence empire, splitting the tech giant's AI division into four separate groups.",
-        "content": "Meta CEO Mark Zuckerberg’s recent acquisitions and hires in artificial intelligence have sparked major friction inside the social media giant — with new, mega-buck AI talent clashing with the company’s veteran researchers, according to a report.\nAlex... [4654 chars]",
-        "url": "https://nypost.com/2025/08/20/business/mark-zuckerbergs-pricey-new-ai-hires-are-clashing-with-metas-old-guard/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109837128.jpg?quality=75&strip=all&w=1024",
-        "publishedAt": "2025-08-20T16:20:48Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
-            "country": "us"
         }
     }
 ]
