@@ -1,5 +1,85 @@
 [
     {
+        "id": "98bb2b6d40a34fe247758617d965764d",
+        "title": "Google’s Pixel 10 phones raises the ante on artificial intelligence",
+        "description": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that's designed to do everything from fetch vital information stored on the devices to help improve photos as they're being taken.",
+        "content": "By MICHAEL LIEDTKE\nGoogle on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as the... [4730 chars]",
+        "url": "https://www.mercurynews.com/2025/08/20/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2025/08/Google_Pixel_Phones_44740.jpg?w=1024&h=1024",
+        "publishedAt": "2025-08-20T20:08:14Z",
+        "lang": "en",
+        "source": {
+            "id": "17d7c2645f485578130862e0c8dd9480",
+            "name": "The Mercury News",
+            "url": "https://www.mercurynews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ed113b71f9b9bab33021558eed74960e",
+        "title": "Google mocks Apple's AI struggles as it launches Pixel 10 smartphones",
+        "description": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
+        "content": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.\nT... [5644 chars]",
+        "url": "https://nypost.com/2025/08/20/business/google-mocks-apples-ai-struggles-as-it-launches-pixel-10-smartphones/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/google-pixel-10-ai.jpg?quality=75&strip=all&1755702772&w=1024",
+        "publishedAt": "2025-08-20T19:38:19Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "43ca5865cd9f3a69730d14ddfa93841f",
+        "title": "The AI Battle's Newest Warrior Strikes a Major Blow to Big Tech",
+        "description": "Could this transform the entire way we build artificial intelligence?",
+        "content": "The ongoing slugfest between tech players racing to get the most intuitive and powerful AI may have just gotten a brief knockout punch.\nThe slammer that landed?\nA new version of DeepSeek’s increasingly impressive V3.1, which has a whopping 685-billio... [3064 chars]",
+        "url": "https://gizmodo.com/deepseek-v-3-1-release-aider-score-china-ai-2000645531",
+        "image": "https://gizmodo.com/app/uploads/2025/08/Elon-Musk-and-Sam-Altman-1200x675.jpg",
+        "publishedAt": "2025-08-20T19:37:02Z",
+        "lang": "en",
+        "source": {
+            "id": "18c2a6429621fbedc49891aa7c847ec6",
+            "name": "Gizmodo",
+            "url": "https://gizmodo.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "f80a92b400d25a100ad858d6a7ffd007",
+        "title": "Experts highlight need for secure digital infrastructure",
+        "description": "The experts deliberated on pressing issues, ranging from cyber security and artificial intelligence to genome mapping, genealogical databases and forensic justice.",
+        "content": "AS A three-day seminar at the Uttar Pradesh Institute of Forensic Sciences (UPSIFS) in Lucknow concluded on Wednesday, cyber experts cautioned against “growing intrusions” from China and Pakistan, emphasising that India must rapidly build secure digi... [2424 chars]",
+        "url": "https://indianexpress.com/article/cities/lucknow/experts-highlight-need-for-secure-digital-infrastructure-10201596/",
+        "image": "https://images.indianexpress.com/2025/08/cyber1.jpg",
+        "publishedAt": "2025-08-20T19:16:36Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "dd12ca559b563fb7304fc351b2a73fce",
+        "title": "Opinion | A.I. Might Change the World Without Remaking It",
+        "description": "Artificial intelligence may change the world, but it probably won’t remake it.",
+        "content": "The A.I. future we were promised, in other words, is both farther off and already here. This is another pattern, familiar from the hype cycle of self-driving cars, which disappointed boosters and amused skeptics for years but are now spreading throug... [3284 chars]",
+        "url": "https://www.nytimes.com/2025/08/20/opinion/ai-technology-chatgpt.html",
+        "image": "https://static01.nyt.com/images/2025/08/31/magazine/31mag-normalai-02/31mag-normalai-02-facebookJumbo.jpg",
+        "publishedAt": "2025-08-20T19:01:07Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b12b84bf96fa15e92241cdb99762e46c",
         "title": "NASA employs AI to better predict solar activity",
         "description": "NASA announced Wednesday that it is deciphering the sun's behavior with help from artificial intelligence.",
@@ -77,86 +157,6 @@
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "a2855dc44388889fe8a71ad2dab65aaa",
-        "title": "Warren Brodey, 101, Dies; a Visionary at the Dawn of the Information Age",
-        "description": "His work on complex systems and responsive technologies helped lay the groundwork for later work on artificial intelligence.",
-        "content": "Warren Brodey, who used his background as a psychiatrist to develop wide-ranging ideas about the liberating possibilities of technology at the dawn of the information age — ideas that helped lay the groundwork for revolutionary fields like artificial... [955 chars]",
-        "url": "https://www.nytimes.com/2025/08/20/technology/warren-brodey-dead.html",
-        "image": "https://static01.nyt.com/images/2025/08/20/multimedia/20Brodey--01-vcgj/20Brodey--01-vcgj-facebookJumbo.jpg",
-        "publishedAt": "2025-08-20T17:35:50Z",
-        "lang": "en",
-        "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6d182420fc8cbfc26a19093f8887dd4c",
-        "title": "AI is changing how people travel",
-        "description": "Travelers are using artificial intelligence to plan their trips. An expert says this shift is more than a trend. It’s the new normal.",
-        "content": "Share this\nArticle Facebook\nTwitter\nReddit\nEmail You are free to share this article under the Attribution 4.0 International license. University University of South Florida\nAn expert has answers for you about how AI is revolutionizing travel planning.... [2891 chars]",
-        "url": "https://www.futurity.org/artificial-intelligence-travel-3290812-2/",
-        "image": "https://www.futurity.org/wp/wp-content/uploads/2025/08/travelers-gut-bacteria-antibiotic-resistance-1600-1.jpg",
-        "publishedAt": "2025-08-20T17:19:53Z",
-        "lang": "en",
-        "source": {
-            "id": "e9ebd5ddfec64ee80f9cbd6ec0b9fdb0",
-            "name": "Futurity: Research News",
-            "url": "https://www.futurity.org",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3cb812546c8e283211d9a323b4939a49",
-        "title": "Google’s Pixel 10 phones raise the ante on AI",
-        "description": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence.",
-        "content": "This advertisement has not loaded yet, but your article continues below.\nAir Canada set to announce new expenses policy for passengers as restart continues\nGoogle’s Pixel 10 phones raise the ante on artificial intelligence Photo by Google LLC via AP ... [7673 chars]",
-        "url": "https://torontosun.com/technology/personal-tech/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence",
-        "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2025/08/68a5f184769e86f0690c463ejpeg.jpg",
-        "publishedAt": "2025-08-20T17:13:37Z",
-        "lang": "en",
-        "source": {
-            "id": "09dc1bda762f4f787cec10477a894d96",
-            "name": "Toronto Sun",
-            "url": "https://torontosun.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "2e3224033531a281393824ccd56ce7f0",
-        "title": "US tech stocks plunge as investor scramble to understand new market realities",
-        "description": "Nvidia, Palantir and other superstar stocks that had surged in the mania surrounding artificial-intelligence technology dragged Wall Street lower again on Wednesday. The S&P 500 dropped 1pc and the tech heavy Nasdaq share index was 1.8pc lower. Nvidia, whose chips are powering much of the world's move into AI, dropped 3.7pc following its 3.5pc fall on Tuesday. Controversial software giant Palantir Technologies, another AI darling, sank 9.3pc on Wednesday to add to its 9.4pc decline the day before.",
-        "content": "Palantir, whose CEO is Alex Karp, has fallen over 9pc two days in a row. Photo: Getty\nNvidia, Palantir and other superstar stocks that had surged in the mania surrounding artificial-intelligence technology dragged Wall Street lower again on Wednesday... [2317 chars]",
-        "url": "https://www.independent.ie/business/technology/us-tech-stocks-plunge-as-investor-scramble-to-understand-new-market-realities/a1364270338.html",
-        "image": "https://focus.independent.ie/thumbor/h5bIBc0m-zNnFU_C4p7w0WDoe1o=/0x0:3238x2158/629x0/prod-mh-ireland/055222da-30cc-4dcc-a6f2-f2768b71fab8/d8ac9979-9aac-4ad4-8574-66a3f2dc0b63/055222da-30cc-4dcc-a6f2-f2768b71fab8.jpg",
-        "publishedAt": "2025-08-20T16:52:08Z",
-        "lang": "en",
-        "source": {
-            "id": "ead461b236347a41a0e3561761126583",
-            "name": "Independent.ie",
-            "url": "https://www.independent.ie",
-            "country": "ie"
-        }
-    },
-    {
-        "id": "5edf7d38353cc6cdfa3aad86d3c3c841",
-        "title": "AI Legislators’ Forum: An effort to bridge policy, innovation gap by training lawmakers",
-        "description": "The newly-launched Artificial Intelligence Legislators’ Forum aims to empower Indian lawmakers with the knowledge and tools necessary to shape effective tech policies.",
-        "content": "A group of lawmakers came together at a common platform on Wednesday to launch the Artificial Intelligence Legislators’ Forum, an initiative designed to equip Members of Parliament (MPs) and Members of Legislative Assemblies (MLAs) with the knowledge... [2016 chars]",
-        "url": "https://www.livemint.com/news/india/this-ai-legislators-forum-seeks-to-bridge-policy-innovation-gap-by-training-lawmakers-11755708031035.html",
-        "image": "https://www.livemint.com/lm-img/img/2025/08/20/1600x900/AI_1755708047843_1755708054443.jpg",
-        "publishedAt": "2025-08-20T16:49:14Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
         }
     }
 ]
