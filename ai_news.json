@@ -1,5 +1,37 @@
 [
     {
+        "id": "4711e5921210381d9527c7bde3a765bc",
+        "title": "Chinese startup DeepSeek releases upgraded AI model",
+        "description": "Chinese artificial intelligence startup DeepSeek on Thursday released DeepSeek-V3.1, an upgraded model with hybrid inference structure, faster thinking speed and stronger agent capability, the company said in a statement published on WeChat.",
+        "content": "The Deepseek logo is seen in this illustration taken on January 29, 2025. REUTERS/Dado Ruvic/Illustration Purchase Licensing Rights , opens new tab\nBEIJING, Aug 21 (Reuters) - Chinese artificial intelligence startup DeepSeek on Thursday released Deep... [515 chars]",
+        "url": "https://www.reuters.com/world/china/chinese-startup-deepseek-releases-upgraded-ai-model-2025-08-21/",
+        "image": "https://www.reuters.com/resizer/v2/Z5ONYB73MVMUXMBKTYCMQE5WKQ.jpg?auth=a2e8ffda0fc9b2052f4d9d4e9ffd1b558ccf98dbbea78adea1f40b42ea558034&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-21T07:10:40Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "8fb1d5b1b969719d1340a756e0c14949",
+        "title": "Indians Most Worried About AI Taking Over Jobs, Finds Survey",
+        "description": "India has emerged as the country with the highest number of employees who believe that artificial intelligence (AI) will replace their jobs in the next decade, according to a recent survey. The survey, conducted by Global Public Opinion on Artificial Intelligence (GPO-AI) across 21 nations, asked over 1,000 people in each country if they felt their work was likely to be automated by machines or computers in the next 10 years.",
+        "content": "India has emerged as the country with the highest number of employees who believe that artificial intelligence (AI) will replace their jobs in the next decade, according to a recent survey.\nThe survey, conducted by Global Public Opinion on Artificial... [1044 chars]",
+        "url": "https://www.ndtvprofit.com/technology/indians-most-worried-about-ai-taking-over-jobs-finds-survey",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-07-16%2Fhipk9iwl%2Frobots-working-with-laptop-2024-11-27-22-05-58-utc.jpg?rect=0%2C0%2C6000%2C3150&w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-08-21T06:48:28Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "a6bee58922a7d2e7c12d8381b1c89906",
         "title": "Barnaby Joyce warns Australians: AI is coming and it will wipe out…",
         "description": "Barnaby Joyce warns Australians about the impact of Artificial Intelligence. He says AI could transform the workforce. Remote work may accelerate the",
@@ -124,38 +156,6 @@
             "id": "3bd4bd306c42647825fa42989624c036",
             "name": "Livemint",
             "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "5e48dee886d26900f413a5350437a3c8",
-        "title": "Meta Platforms Puts the Brakes on AI Hiring",
-        "description": "Meta Platforms has temporarily halted hiring in its artificial intelligence division after recruiting over 50 researchers and engineers, according to a report from the Wall Street Journal. Reuters has been unable to independently confirm the details of this report.",
-        "content": "Meta Platforms has announced a temporary pause on hiring within its artificial intelligence division, just after expanding its team with more than 50 new researchers and engineers. This news was first reported by the Wall Street Journal.\nThis strateg... [403 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3548557-meta-platforms-puts-the-brakes-on-ai-hiring",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/14_07_2025_15_08_53_9156151.png?width=920&format=jpeg",
-        "publishedAt": "2025-08-21T01:08:01Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "87574a58f8ff91e95be459e1a6392112",
-        "title": "Meta’s AI Hiring Halt After Lavish Investments",
-        "description": "Meta, the tech giant, has halted its AI hiring following substantial investments, according to reports. This decision comes after the company went on a significant spending spree to bolster its artificial intelligence capabilities. The move reflects Meta's reassessment of resource allocation amidst its ambitious AI initiatives.",
-        "content": "Meta has reportedly put a freeze on its AI hiring following a period of exceptional expenditure aimed at bolstering its technological capabilities. The Wall Street Journal cited sources indicating the company's recent financial splurge had led to thi... [476 chars]",
-        "url": "https://www.devdiscourse.com/article/headlines/3548556-metas-ai-hiring-halt-after-lavish-investments",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/25_07_2025_08_06_06_2785816.png?width=920&format=jpeg",
-        "publishedAt": "2025-08-21T01:05:18Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
             "country": "in"
         }
     }
