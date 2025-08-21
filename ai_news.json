@@ -1,5 +1,53 @@
 [
     {
+        "id": "c1f5c5f5998459b2f04711a6c4140e56",
+        "title": "Google to provide Gemini AI tools to U.S. government",
+        "description": "Google will provide its Gemini artificial intelligence tools to U.S. federal agencies practically free, the government announced Thursday.",
+        "content": "The Google DeepMind website on a laptop computer arranged in New York, US, on Friday, Dec. 8, 2023. Alphabet's Google said Gemini is its largest, most capable and flexible AI model to date, replacing PaLM 2, released in May. Photographer: Gabby Jones... [1782 chars]",
+        "url": "https://www.cp24.com/news/world/2025/08/21/google-to-provide-gemini-ai-tools-to-us-government/",
+        "image": "https://www.cp24.com/resizer/v2/636TYLHE6SEKQBCDUHAG4YTLOQ.jpg?smart=true&auth=eacf4eb0d0e7ba3a47b7c64b4d1cea6d45c04b95a373fdfe43e1114a525066a8&width=1200&height=630",
+        "publishedAt": "2025-08-21T18:54:26Z",
+        "lang": "en",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "74e2c28e447b87c49050ce1044bac89a",
+        "title": "New AI tool tracks early signs of hurricane formation",
+        "description": "A research team has developed a new artificial intelligence (AI) tool that can automatically identify and track tropical easterly waves (TEWs)—clusters of clouds and wind that often develop into hurricanes—and separate them from two major tropical wind patterns: the Intertropical Convergence Zone (ITCZ) and the monsoon trough (MT).",
+        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nSatellite image shows three tropical waves in the Atlantic on June 28... [3333 chars]",
+        "url": "https://phys.org/news/2025-08-ai-tool-tracks-early-hurricane.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-ai-tool-tracks-ear.jpg",
+        "publishedAt": "2025-08-21T18:42:06Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "9d670a3659fc27835553e13a1f97bbe9",
+        "title": "DeepSeek unveils upgraded AI model powered by local chips",
+        "description": "Chinese artificial intelligence startup DeepSeek unveiled an upgrade to its flagship V3 model on Thursday for which the firm announced that it has a feature that can optimise it for Chinese-made...",
+        "content": "This photograph shows screens displaying the logo of DeepSeek, in Toulouse, southwestern France on January 29, 2025. — AFP\nChinese artificial intelligence startup DeepSeek unveiled an upgrade to its flagship V3 model on Thursday for which the firm an... [1665 chars]",
+        "url": "https://www.thenews.com.pk/latest/1337605-deepseek-unveils-upgraded-ai-model-powered-by-local-chips",
+        "image": "https://www.thenews.com.pk/assets/uploads/updates/2025-08-21/1337605_112504_updates.jpg",
+        "publishedAt": "2025-08-21T18:33:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
         "id": "c17ac7703b3b5537ee18526f8d0d722c",
         "title": "Chinese AI startup DeepSeek launches enhanced V3 AI model with China-made chip support and faster speeds",
         "description": "Chinese artificial intelligence startup DeepSeek has rolled out an upgraded version of its flagship model, underscoring the country’s broader effort to cut reliance on U.S. technology. The new release, called DeepSeek-V3.1, adds support for China-made chips and promises faster processing speeds. While DeepSeek’s upgrade, shared in a WeChat post that isn’t publicly accessible, Reuters confirmed",
@@ -109,54 +157,6 @@
             "name": "STAT",
             "url": "https://www.statnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "75c89229de2d0e57a04703e9e56a8884",
-        "title": "AI could stop hotels and restaurants wasting food, energy and talent-yet adoption remains low",
-        "description": "Artificial intelligence could slash waste, cut carbon emissions and ease staff burnout in the hospitality sector—yet many operators are barely scratching the surface, according to new research from the University of Surrey.",
-        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nCredit: Pixabay/CC0 Public Domain\nArtificial intelligence could slash... [2907 chars]",
-        "url": "https://phys.org/news/2025-08-ai-hotels-restaurants-food-energy.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/hotel-room.jpg",
-        "publishedAt": "2025-08-21T16:47:27Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "718d62d24212fecacc49e976a2e0f148",
-        "title": "Tech giants prepare to challenge state AI regulations",
-        "description": "Tech companies including OpenAI, Meta Platforms Inc. and Alphabet Inc.'s Google are revving up to block US states from regulating their fast-moving and lucrative artificial intelligence businesses.",
-        "content": "(Bloomberg/Emily Birnbaum) — Tech companies including OpenAI, Meta Platforms Inc. and Alphabet Inc.’s Google are revving up to block US states from regulating their fast-moving and lucrative artificial intelligence businesses.\nThe tech giants are pus... [6075 chars]",
-        "url": "https://www.mercurynews.com/2025/08/21/tech-giants-prepare-to-challenge-state-ai-regulations/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2025/01/US-NEWS-ALTMAN-ABUSE-LAWSUIT-GET.jpg?w=1024&h=682",
-        "publishedAt": "2025-08-21T16:46:05Z",
-        "lang": "en",
-        "source": {
-            "id": "17d7c2645f485578130862e0c8dd9480",
-            "name": "The Mercury News",
-            "url": "https://www.mercurynews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6c009d14fdfc8f65a9806ab9eb6ac573",
-        "title": "How AI will transform mental health support for patients with breast cancer",
-        "description": "From virtual counselors that can hear depression creeping into a person's voice to smart watches that can detect stress, artificial intelligence is poised to revolutionize mental health care for patients with breast cancer.",
-        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nCredit: Tima Miroshnichenko from Pexels\nFrom virtual counselors that ... [4455 chars]",
-        "url": "https://medicalxpress.com/news/2025-08-ai-mental-health-patients-breast.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/cancer.jpg",
-        "publishedAt": "2025-08-21T16:42:26Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
         }
     }
 ]
