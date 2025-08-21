@@ -1,5 +1,37 @@
 [
     {
+        "id": "c78bf947c4a5052cb9378a3243f1c960",
+        "title": "Opinion | As AI revolutionises work, get ready for the ‘great compression’",
+        "description": "Companies must harness innovations in artificial intelligence to ensure narrowed gaps in productivity don’t undermine quality.",
+        "content": "Discussions of artificial intelligence (AI) often dwell on the disappearance of entry-level jobs. This focus misses a more consequential structural shift: AI does not merely remove the bottom rung; it compresses the career ladder into a single floor.... [1626 chars]",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3322458/ai-revolutionises-work-get-ready-great-compression",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2025/08/20/c9174607-2844-4ec9-b3f6-17cf2ea995a6_87cedaf0.jpg?itok=CSX1yD8p&v=1755672737",
+        "publishedAt": "2025-08-21T08:30:06Z",
+        "lang": "en",
+        "source": {
+            "id": "d6397b77175680e2678c0d60edcee7af",
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com",
+            "country": "hk"
+        }
+    },
+    {
+        "id": "03633f8004f3dc0230f35791c14ba827",
+        "title": "India Launches Pioneering AI Legislators' Forum",
+        "description": "Future Shift Labs unveiled India's first Artificial Intelligence Legislators' Forum, aimed at educating lawmakers on AI policies. It bridges the gap between AI advancements and legislative readiness, fostering dialogue among MPs, technologists, and policy experts. Inspired by similar global platforms, this initiative underscores India's commitment to informed AI governance.",
+        "content": "Future Shift Labs has announced the inauguration of the Artificial Intelligence Legislators' Forum (AILF) in India, a pioneering effort designed to educate and empower Members of Parliament (MPs) and Members of Legislative Assemblies (MLAs) on AI pol... [1105 chars]",
+        "url": "https://www.devdiscourse.com/article/business/3548876-india-launches-pioneering-ai-legislators-forum",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_08_2025_13_31_11_4309285.jpg?width=920&format=jpeg",
+        "publishedAt": "2025-08-21T08:01:53Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "4711e5921210381d9527c7bde3a765bc",
         "title": "Chinese startup DeepSeek releases upgraded AI model",
         "description": "Chinese artificial intelligence startup DeepSeek on Thursday released DeepSeek-V3.1, an upgraded model with hybrid inference structure, faster thinking speed and stronger agent capability, the company said in a statement published on WeChat.",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "c8fec5bf49ac4e854d53f127d343fd94",
-        "title": "Meta Platforms Pauses AI Hiring Amid Strategic Restructuring",
-        "description": "Meta Platforms has halted hiring within its artificial intelligence division following the addition of over 50 researchers and engineers. This pause is part of a routine organizational and budgetary planning process aimed at establishing a robust structure for their superintelligence initiatives.",
-        "content": "Meta Platforms has announced a temporary pause on hiring within its artificial intelligence division. This decision follows the recruitment of over 50 researchers and engineers, as reported by The Wall Street Journal.\nThe company stated that the paus... [401 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3548563-meta-platforms-pauses-ai-hiring-amid-strategic-restructuring",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/14_07_2025_15_08_53_9156151.png?width=920&format=jpeg",
-        "publishedAt": "2025-08-21T01:49:43Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "94301ace769b6842bd579292f9472c02",
-        "title": "“Crypto x AI” Charting Coinbase Stock’s (NASDAQ:COIN) Future",
-        "description": "One of the great puzzles that employment market watchers have been wrangling with is: once artificial intelligence (AI) takes over most of the j...",
-        "content": "One of the great puzzles that employment market watchers have been wrangling with is: once artificial intelligence (AI) takes over most of the jobs, who will buy anything? Cryptocurrency exchange giant Coinbase (COIN) may have the answer to that, as ... [2654 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/crypto-x-ai-charting-coinbase-stock-s-nasdaq-coin-future-1035059209",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/Screenshot-2025-08-20-at-13-31-50-Coinbase-Global-COIN-Stock-Forecast-Price-Targets-and-Analysts-Predictions-1024x752.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2025-08-21T01:35:00Z",
-        "lang": "en",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Markets Insider",
-            "url": "https://markets.businessinsider.com",
-            "country": "us"
         }
     }
 ]
