@@ -1,5 +1,69 @@
 [
     {
+        "id": "9350c59687e7601cfa072e6dd9f6ec00",
+        "title": "The startups threatened by Epic's new AI",
+        "description": "All the artificial intelligence news out of Epic's big customer event in Wisconsin. Plus: Great stories about the impacts of CGMs and AI scribes.",
+        "content": "Mario Aguilar covers technology in health care, including artificial intelligence, virtual reality, wearable devices, telehealth, and digital therapeutics. His stories explore how tech is changing the practice of health care and the business and poli... [853 chars]",
+        "url": "https://www.statnews.com/2025/08/21/startups-threatened-epics-new-ai-health-tech-newsletter/",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/08/UGM-2025-Inside-1024x576.jpg",
+        "publishedAt": "2025-08-21T16:56:47Z",
+        "lang": "en",
+        "source": {
+            "id": "8867e8e7dcb6466620736bb48c455572",
+            "name": "STAT",
+            "url": "https://www.statnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "75c89229de2d0e57a04703e9e56a8884",
+        "title": "AI could stop hotels and restaurants wasting food, energy and talent-yet adoption remains low",
+        "description": "Artificial intelligence could slash waste, cut carbon emissions and ease staff burnout in the hospitality sector—yet many operators are barely scratching the surface, according to new research from the University of Surrey.",
+        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nCredit: Pixabay/CC0 Public Domain\nArtificial intelligence could slash... [2907 chars]",
+        "url": "https://phys.org/news/2025-08-ai-hotels-restaurants-food-energy.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/hotel-room.jpg",
+        "publishedAt": "2025-08-21T16:47:27Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "718d62d24212fecacc49e976a2e0f148",
+        "title": "Tech giants prepare to challenge state AI regulations",
+        "description": "Tech companies including OpenAI, Meta Platforms Inc. and Alphabet Inc.'s Google are revving up to block US states from regulating their fast-moving and lucrative artificial intelligence businesses.",
+        "content": "(Bloomberg/Emily Birnbaum) — Tech companies including OpenAI, Meta Platforms Inc. and Alphabet Inc.’s Google are revving up to block US states from regulating their fast-moving and lucrative artificial intelligence businesses.\nThe tech giants are pus... [6075 chars]",
+        "url": "https://www.mercurynews.com/2025/08/21/tech-giants-prepare-to-challenge-state-ai-regulations/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2025/01/US-NEWS-ALTMAN-ABUSE-LAWSUIT-GET.jpg?w=1024&h=682",
+        "publishedAt": "2025-08-21T16:46:05Z",
+        "lang": "en",
+        "source": {
+            "id": "17d7c2645f485578130862e0c8dd9480",
+            "name": "The Mercury News",
+            "url": "https://www.mercurynews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6c009d14fdfc8f65a9806ab9eb6ac573",
+        "title": "How AI will transform mental health support for patients with breast cancer",
+        "description": "From virtual counselors that can hear depression creeping into a person's voice to smart watches that can detect stress, artificial intelligence is poised to revolutionize mental health care for patients with breast cancer.",
+        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nCredit: Tima Miroshnichenko from Pexels\nFrom virtual counselors that ... [4455 chars]",
+        "url": "https://medicalxpress.com/news/2025-08-ai-mental-health-patients-breast.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/cancer.jpg",
+        "publishedAt": "2025-08-21T16:42:26Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "f2de6dae4ecba6dcba592de149dc2faa",
         "title": "Artificial intelligence set to transform mental health care for breast cancer patients",
         "description": "From virtual counselors that can hear depression creeping into a person's voice to smart watches that can detect stress, artificial intelligence is poised to revolutionize mental health care for patients with breast cancer.",
@@ -93,70 +157,6 @@
             "name": "Siliconrepublic.com",
             "url": "https://www.siliconrepublic.com",
             "country": "ie"
-        }
-    },
-    {
-        "id": "1ba29a07c0a699679c835d486e5344a2",
-        "title": "Ambient documentation technologies reduce physician burnout and restore 'joy' in medicine, study shows",
-        "description": "A study led by Mass General Brigham researchers reveals that ambient documentation technologies—generative artificial intelligence scribes that record patient visits and draft clinical notes for physician review before incorporating into electronic health records—led to significant reductions in physician burnout.",
-        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nCredit: Pixabay/CC0 Public Domain\nA study led by Mass General Brigham... [5331 chars]",
-        "url": "https://medicalxpress.com/news/2025-08-ambient-documentation-technologies-physician-burnout.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2024/physician.jpg",
-        "publishedAt": "2025-08-21T15:00:02Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "c20339ad61841991ac5f8bf534ed5b10",
-        "title": "Study finds AI tools may weaken physician skills to detect cancer",
-        "description": "Study finds that artificial intelligence exposure may reduce doctors' cancer detection rates during standard colonoscopies by 6%, raising concerns about AI dependency.",
-        "content": "NEW You can now listen to Fox News articles!\nThe benefits of artificial intelligence (AI) in the medical space are ever-growing, but evidence suggests it can also come with risks.\nA new study by European researchers investigated how AI can change the... [3094 chars]",
-        "url": "https://www.foxnews.com/health/ai-tools-could-weaken-doctors-skills-detecting-colon-cancer-study-suggests",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/doctor-colonoscopy-scope.jpg",
-        "publishedAt": "2025-08-21T14:52:53Z",
-        "lang": "en",
-        "source": {
-            "id": "8da923084554b2821233d6c5c5f02c97",
-            "name": "Fox News",
-            "url": "https://www.foxnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "48ced341d9397621030e4e9240155ea9",
-        "title": "GSA strikes Google AI deal for federal agencies",
-        "description": "The General Services Administration struck a deal with Google for artificial intelligence tools as part of the OneGov procurement initiative targeting federal government efficiency.",
-        "content": "The General Services Administration (GSA) on Thursday announced a new agreement with Google to deploy its suite of artificial intelligence (AI) and cloud services across the federal government.\nThe deal comes as part of the Trump administration's \"Am... [3641 chars]",
-        "url": "https://www.foxbusiness.com/technology/trump-administration-strikes-deal-google-use-ai-platform-across-federal-agencies",
-        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/Google.jpg?ve=1&tl=1",
-        "publishedAt": "2025-08-21T14:46:40Z",
-        "lang": "en",
-        "source": {
-            "id": "1b97b25c0ec482f85326378f82f7f815",
-            "name": "Fox Business",
-            "url": "https://www.foxbusiness.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "46cf8f709c46b74fb7574324101b118e",
-        "title": "Meta freezes AI hiring after $14B spending spree and costly talent poaching: Is the AI bubble bursting?",
-        "description": "Meta has slammed the brakes on hiring for its artificial intelligence division, a sudden pause that follows one of the most expensive talent grabs Silicon Valley has seen in years. The move, first reported by The Wall Street Journal, marks the end of a spending spree in which the company acquired more than 50 high-profile AI researchers and",
-        "content": "Meta has slammed the brakes on hiring for its artificial intelligence division, a sudden pause that follows one of the most expensive talent grabs Silicon Valley has seen in years.\nThe move, first reported by The Wall Street Journal, marks the end of... [3332 chars]",
-        "url": "https://techstartups.com/2025/08/21/meta-freezes-ai-hiring-after-14b-spending-spree-and-costly-talent-poaching-is-the-ai-bubble-bursting/",
-        "image": "https://techstartups.com/wp-content/uploads/2025/02/Meta.jpg",
-        "publishedAt": "2025-08-21T14:00:11Z",
-        "lang": "en",
-        "source": {
-            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-            "name": "TechStartups.com",
-            "url": "https://techstartups.com",
-            "country": "us"
         }
     }
 ]
