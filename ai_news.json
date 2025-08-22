@@ -1,5 +1,21 @@
 [
     {
+        "id": "6192d387ac4a3eb9a7e50e737992be23",
+        "title": "Meta freezes AI hiring, even as boom continues",
+        "description": "Meta halted all hiring for its artificial intelligence division, reportedly even pausing movement between teams within the company.",
+        "content": "The Meta logo marks the entrance of its corporate headquarters in Menlo Park, Calif., on Nov. 9, 2022. Facebook owner Meta plans to lay off more than 11,000 of its staff in “the most difficult changes we’ve made in Meta’s history,” CEO Mark Zuckerber... [2191 chars]",
+        "url": "https://www.sfgate.com/tech/article/meta-freezes-ai-hiring-20881530.php",
+        "image": "https://s.hdnux.com/photos/01/54/26/47/28404187/3/rawImage.jpg",
+        "publishedAt": "2025-08-22T19:43:23Z",
+        "lang": "en",
+        "source": {
+            "id": "384b3c633f1aa3e0a1bcb208f94d519d",
+            "name": "SFGATE",
+            "url": "https://www.sfgate.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "3a57ca7caba4e3482c7d25d6f3a830a0",
         "title": "Home Depot Hit with Lawsuit Over Allegations About Using Facial Recognition Technology",
         "description": "The lawsuit, filed in an Illinois court on Friday, Aug. 1, alleges the company uses a form of artificial intelligence called “computer vision” to help mitigate theft by collecting data about customers’ facial geometry in violation of the state's Biometric Information Privacy Act",
@@ -141,22 +157,6 @@
             "name": "The Province",
             "url": "https://theprovince.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "430e3a1474494f7f76b57ad4f98c40ba",
-        "title": "Zoom Stock Soars as Firm Tops Estimates, Raises Outlook on AI Boom",
-        "description": "Zoom Communications reported second-quarter results that topped estimates as the video conferencing software provider rode the artificial intelligence wave.",
-        "content": "Key Takeaways Zoom Communications reported second-quarter results that topped estimates as the video conferencing software provider rode the artificial intelligence wave.\nThe company increased the number of customers spending more than $100,000 on Zo... [1368 chars]",
-        "url": "https://www.investopedia.com/zoom-stock-soars-as-firm-tops-estimates-raises-outlook-on-ai-boom-11795788",
-        "image": "https://www.investopedia.com/thmb/11hIsoI8IHWaqstVs1kt-qWKNq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2230753568-4be7ace81b1442ddb76ba2f67e0b021a.jpg",
-        "publishedAt": "2025-08-22T13:53:07Z",
-        "lang": "en",
-        "source": {
-            "id": "c24832368cd2d9132598ad4bef08e0ab",
-            "name": "Investopedia",
-            "url": "https://www.investopedia.com",
-            "country": "us"
         }
     }
 ]
