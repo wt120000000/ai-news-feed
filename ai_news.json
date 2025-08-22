@@ -1,5 +1,21 @@
 [
     {
+        "id": "e32cd23f46f29b4a977ae58245c3f92a",
+        "title": "Pakistan introduce AI Immigration App to reduce long queues at airport",
+        "description": "ISLAMABAD: Interior Minister Mohsin Naqvi on Friday announced the launch of a new Artificial Intelligence (AI)-based application",
+        "content": "ISLAMABAD: Interior Minister Mohsin Naqvi on Friday announced the launch of a new Artificial Intelligence (AI)-based application developed by the Federal Investigation Agency (FIA) to make immigration faster and more secure.\nThe project will first be... [1542 chars]",
+        "url": "https://www.bolnews.com/pakistan/2025/08/pakistan-introduce-ai-immigration-app-to-reduce-long-queues-at-airport/",
+        "image": "https://www.bolnews.com/wp-content/uploads/2025/08/FotoJet-2025-08-22T220202.730.jpg",
+        "publishedAt": "2025-08-22T17:02:54Z",
+        "lang": "en",
+        "source": {
+            "id": "e98c4d2585c4c5661ffe60fed4d51930",
+            "name": "BOL News",
+            "url": "https://www.bolnews.com",
+            "country": "pk"
+        }
+    },
+    {
         "id": "ceafe06c54d6889d7ee38298ea2d4721",
         "title": "AI model maps building emissions to support fairer climate policies",
         "description": "An open-source artificial intelligence model to accurately map the carbon emissions of buildings across multiple cities could become a powerful new tool to help policymakers plan targeted and equitable decarbonization strategies.",
@@ -141,22 +157,6 @@
             "name": "WTOP",
             "url": "https://wtop.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "a117d0333aebfff420afa7d94656ead7",
-        "title": "Black Mirror's Charlie Brooker makes chilling cinema prediction over 'worrying' AI",
-        "description": "Charlie Brooker, who created the smash-hit Netflix series The Black Mirror, has shared his thoughts on the future of artificial intelligence as its use increases",
-        "content": "Black Mirror's Charlie Brooker makes chilling cinema prediction over 'worrying' AI\nCharlie Brooker, who created the smash-hit Netflix series The Black Mirror, has shared his thoughts on the future of artificial intelligence as its use increases\n(Imag... [3014 chars]",
-        "url": "https://www.mirror.co.uk/3am/celebrity-news/black-mirrors-charlie-brooker-makes-35777098",
-        "image": "https://i2-prod.mirror.co.uk/article31620667.ece/ALTERNATES/s1200/2_Black-Mirror-Season-6-Beyond-The-Sea-Special-Screening-at-BFI-London-UK-12-Jun-2023.jpg",
-        "publishedAt": "2025-08-22T13:01:12Z",
-        "lang": "en",
-        "source": {
-            "id": "105bb16685822879671e4bad332aeec9",
-            "name": "The Mirror",
-            "url": "https://www.mirror.co.uk",
-            "country": "gb"
         }
     }
 ]
