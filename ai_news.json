@@ -1,5 +1,21 @@
 [
     {
+        "id": "c20ad75468267b9da99d56966f041ee6",
+        "title": "How generative AI scribes are reducing physician burnout",
+        "description": "A new study led by Mass General Brigham researchers reveals that ambient documentation technologies – generative artificial intelligence scribes that record patient visits and draft clinical notes for physician review before incorporating them into electronic health records – led to significant reductions in physician burnout.",
+        "content": "A new study led by Mass General Brigham researchers reveals that ambient documentation technologies – generative artificial intelligence scribes that record patient visits and draft clinical notes for physician review before incorporating them into e... [4833 chars]",
+        "url": "https://www.news-medical.net/news/20250822/How-generative-AI-scribes-are-reducing-physician-burnout.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+        "publishedAt": "2025-08-22T05:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "64a04b8dd6b51850836febf491e49e51",
         "title": "South Korea makes AI investment a top policy priority to support flagging growth",
         "description": "SEOUL (Reuters) -South Korea vowed on Friday to make investment in artificial intelligence a top policy priority, as the government slashed its economic growth projection for this year due to trade headwinds caused by U.S. tariffs. In the first bi-annual economic policy plan under President Lee Jae Myung's new administration, the finance ministry said it would introduce from the second half of 2025 policy packages for 30 major AI and innovation projects. These include AI technologies for robots, cars, ships, home appliances, drones, factories and chips, as well as advanced materials and cultural products such as \"K-beauty\" and \"K-food\".",
@@ -141,22 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "1c6cb3149be9b54373e7b3695de0e03b",
-        "title": "Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race",
-        "description": "Meta Platforms Inc. has agreed to a deal worth at least $10 billion with Alphabet Inc.’s Google for cloud computing services, according to people familiar with the matter, part of the social media giant’s spending spree on artificial intelligence.",
-        "content": "Meta Platforms Inc. has agreed to a deal worth at least $10 billion with Alphabet Inc.’s Google for cloud computing services, according to people familiar with the matter, part of the social media giant’s spending spree on artificial intelligence.\nFa... [346 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-22/meta-signs-10-billion-google-cloud-computing-deal-amid-ai-race",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im_iPVnI4880/v0/1200x800.jpg",
-        "publishedAt": "2025-08-22T00:21:15Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
         }
     }
 ]
