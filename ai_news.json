@@ -1,5 +1,37 @@
 [
     {
+        "id": "64a04b8dd6b51850836febf491e49e51",
+        "title": "South Korea makes AI investment a top policy priority to support flagging growth",
+        "description": "SEOUL (Reuters) -South Korea vowed on Friday to make investment in artificial intelligence a top policy priority, as the government slashed its economic growth projection for this year due to trade headwinds caused by U.S. tariffs. In the first bi-annual economic policy plan under President Lee Jae Myung's new administration, the finance ministry said it would introduce from the second half of 2025 policy packages for 30 major AI and innovation projects. These include AI technologies for robots, cars, ships, home appliances, drones, factories and chips, as well as advanced materials and cultural products such as \"K-beauty\" and \"K-food\".",
+        "content": "By Jihoon Lee\nSEOUL (Reuters) -South Korea vowed on Friday to make investment in artificial intelligence a top policy priority, as the government slashed its economic growth projection for this year due to trade headwinds caused by U.S. tariffs.\nIn t... [2592 chars]",
+        "url": "https://sg.news.yahoo.com/south-korea-makes-ai-investment-050310082.html",
+        "image": "https://media.zenfs.com/en/reuters.com/76843e24f3fe6d3471f4166bc7171ce8",
+        "publishedAt": "2025-08-22T05:03:10Z",
+        "lang": "en",
+        "source": {
+            "id": "f6d6ee1134197fe1441d65a3e7915835",
+            "name": "Yahoo Singapore News",
+            "url": "https://sg.news.yahoo.com",
+            "country": "sg"
+        }
+    },
+    {
+        "id": "b760f7d73e8bf03a477eb5b0a8f85d16",
+        "title": "OpenAI’s chief people officer to depart, company says",
+        "description": "Villagra is leaving to pursue her personal passion of using art, music and storytelling to help people understand the transition to artificial general intelligence",
+        "content": "OpenAI’s chief people officer, Julia Villagra, is leaving the company on Friday, the company confirmed to Reuters.\nVillagra joined the San Francisco-based artificial intelligence maker in February 2024 as the head of human resources, according to her... [1468 chars]",
+        "url": "https://indianexpress.com/article/technology/openais-chief-people-officer-to-depart-company-says-10204213/",
+        "image": "https://images.indianexpress.com/2025/07/OpenAI-File-photo.jpg",
+        "publishedAt": "2025-08-22T04:56:31Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "c7671880e4d8ed76701d475a1be9ec5c",
         "title": "OpenAI To Expand In India With First Office And Hiring Drive",
         "description": "OpenAI is set to open a corporate office in the Indian capital of New Delhi in a few months, establishing a formal presence in a key growth market. The company, known for its artificial intelligence chatbot ChatGPT, has begun hiring to expand its local team, it said in a statement Friday. OpenAI currently has only one employee in India — Pragya Misra, who leads public policy and partnerships in the country after joining the firm last year.",
@@ -125,38 +157,6 @@
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "cefa1ca417ce9ed9ade71b510f16e4f7",
-        "title": "Google scores six-year Meta cloud deal worth over $10 billion",
-        "description": "Alphabet and Meta compete in online advertising, but Meta needs more data center infrastructure as it pursues artificial intelligence growth.",
-        "content": "Meta CEO Mark Zuckerberg makes a keynote speech at the Meta Connect annual event at the company's headquarters in Menlo Park, Calif., on Sept. 25, 2024.\nMeta has agreed to spend more than $10 billion on Google cloud services, according to two people ... [1472 chars]",
-        "url": "https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108189400-17558192742024-09-25t203922z_1336797993_rc2u7aalwc6k_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1755819335&w=1920&h=1080",
-        "publishedAt": "2025-08-22T00:03:52Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e72e78efed4577ef0e675eff7c897470",
-        "title": "White Peak launches MaximizeOS to help businesses win in the AI era.",
-        "description": "MaximizeOS™ is a fully managed ROI operating system from White Peak Marketing that transforms every click into a customer and every customer into a loyal advocate-without adding to your workload. Learn more: https://whitepeak.io/Reno, Nevada, Aug. 21, 2025 (GLOBE NEWSWIRE) -- White Peak Marketing today launched MaximizeOS™, a fully managed marketing service built to help businesses thrive as artificial intelligence transforms how customers search and buy online. With organic search engine traffic disappearing and paid channels becoming increasingly expensive, many marketers are struggling to protect revenue and growth.",
-        "content": "Get the latest news\ndelivered to your inbox Sign up for The Manila Times newsletters By signing up with an email address, I acknowledge that I have read and agree to the Terms of Service and Privacy Policy Advertisement MaximizeOS™ is a fully managed... [5004 chars]",
-        "url": "https://www.manilatimes.net/2025/08/22/tmt-newswire/globenewswire/white-peak-launches-maximizeos-to-help-businesses-win-in-the-ai-era/2172083",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/22/722442.png",
-        "publishedAt": "2025-08-21T22:15:33Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
