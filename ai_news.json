@@ -1,5 +1,21 @@
 [
     {
+        "id": "ec28b2d06b24aa97ac1c001ca963708b",
+        "title": "IBM pushes AI in Asia-Pacific",
+        "description": "SINGAPORE — IBM placed artificial intelligence (AI), hybrid cloud, and quantum computing at the center of its vision for business and technology transformation in Asia-Pacific as it hosted its Think Singapore 2025 conference this week.",
+        "content": "SINGAPORE — IBM placed artificial intelligence (AI), hybrid cloud, and quantum computing at the center of its vision for business and technology transformation in Asia-Pacific as it hosted its Think Singapore 2025 conference this week.\nThe event high... [7540 chars]",
+        "url": "https://www.manilatimes.net/2025/08/24/business/sunday-business-it/ibm-pushes-ai-in-asia-pacific/2172605",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/23/723575.jpg",
+        "publishedAt": "2025-08-23T16:10:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "c581f6f7a808854a199d87d49780920a",
         "title": "Trusting Social e xpands AI credit scoring in PH",
         "description": "TRUSTING Social Philippines is tapping artificial intelligence and big data to expand financial inclusion in the country, where millions of Filipinos remain outside the formal banking system.",
@@ -141,22 +157,6 @@
             "name": "NewsX",
             "url": "https://www.newsx.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "18a1876db15f3250cde24b28eb18eb57",
-        "title": "A beginner's guide to AI for Boomers, from technology writer Jonathan Margolis",
-        "description": "Artificial intelligence advice for beginners, by veteran technology writer Jonathan Margolis, 70",
-        "content": "For the past three years, since AI became available free (more or less) to everyone with a phone or a computer, it’s been hard to go an hour without it being mentioned in the news or everyday conversation. AI has been the fastest-developing technolog... [5780 chars]",
-        "url": "https://www.dailymail.co.uk/home/you/article-15011055/A-beginners-guide-AI-Boomers-technology-writer-Jonathan-Margolis.html",
-        "image": "https://i.dailymail.co.uk/1s/2025/08/18/15/101324207-0-image-m-63_1755528499639.jpg",
-        "publishedAt": "2025-08-23T07:01:08Z",
-        "lang": "en",
-        "source": {
-            "id": "0c9364fff53c0e5a3450947d9a54e795",
-            "name": "Daily Mail Online",
-            "url": "https://www.dailymail.co.uk",
-            "country": "gb"
         }
     }
 ]
