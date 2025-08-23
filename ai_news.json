@@ -1,5 +1,21 @@
 [
     {
+        "id": "502cf1eae316544c6220031e6c9c1f79",
+        "title": "HMRC spying on social media posts of UK households in tax crackdown",
+        "description": "G overnment's taxmanis using artificial intelligence to snoop on suspected tax cheats' social media accounts, it has emerged.",
+        "content": "HMRC spying on social media posts of UK households in tax crackdown\nG overnment's taxmanis using artificial intelligence to snoop on suspected tax cheats' social media accounts, it has emerged.\nHMRC spying on social media posts of UK households in ta... [2016 chars]",
+        "url": "https://www.birminghammail.co.uk/news/cost-of-living/hmrc-spying-social-media-posts-32273925",
+        "image": "https://i2-prod.birminghammail.co.uk/article32274641.ece/ALTERNATES/s1200/0_hmrc4.jpg",
+        "publishedAt": "2025-08-23T05:29:00Z",
+        "lang": "en",
+        "source": {
+            "id": "cc0de8416f75329df7c88d7524745d12",
+            "name": "Birmingham Live",
+            "url": "https://www.birminghammail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "37414c232380c4f776f7c95c205b0794",
         "title": "A 9-point checklist to improve AI-based image analysis in pathology",
         "description": "A new article in Veterinary Pathology introduces a 9-point checklist designed to improve the reporting quality of studies that use artificial intelligence (AI)-based automated image analysis (AIA). As AI tools become more widely used in pathology-based research, concerns have emerged about the reproducibility and transparency of published findings.",
@@ -141,22 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "797fd50e824a1041465d0a89c6b82bb2",
-        "title": "Apple Explores Using Google Gemini AI to Power Revamped Siri",
-        "description": "Apple Inc. is in early discussions about using Google Gemini to power a revamped version of the Siri voice assistant, marking a key potential step toward outsourcing more of its artificial intelligence technology.",
-        "content": "Apple Inc. is in early discussions about using Google Gemini to power a revamped version of the Siri voice assistant, marking a key potential step toward outsourcing more of its artificial intelligence technology.\nThe iPhone maker recently approached... [325 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-22/apple-explores-using-google-gemini-ai-to-power-revamped-siri",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYbHqF2IEpFs/v1/1200x800.jpg",
-        "publishedAt": "2025-08-22T17:12:17Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
         }
     }
 ]
