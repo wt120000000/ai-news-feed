@@ -1,5 +1,21 @@
 [
     {
+        "id": "c1b504f350dbda52bc82946ae0d9328e",
+        "title": "Behind the Story: Safety measures needed for AI therapy",
+        "description": "A leading expert on Artificial Intelligence has warned that safety measures need to be put in place to deal with the increasing use of AI for therapy and the Government needs to consider a ban on some AI therapy.",
+        "content": "A leading expert on Artificial Intelligence has warned that safety measures need to be put in place to deal with the increasing use of AI for therapy and the Government needs to consider a ban on some AI therapy.\nProfessor Barry O'Sullivan from the S... [2578 chars]",
+        "url": "https://www.rte.ie/news/ireland/2025/0823/1529802-behind-the-story-safety-measures-needed-for-ai-therapy/",
+        "image": "https://www.rte.ie/images/00230fc4-1600.jpg",
+        "publishedAt": "2025-08-23T13:04:18Z",
+        "lang": "en",
+        "source": {
+            "id": "4c8b69bf547b577f84acbba5157b439c",
+            "name": "RTE.ie",
+            "url": "https://www.rte.ie",
+            "country": "ie"
+        }
+    },
+    {
         "id": "5a14b547151c854b529b2bfeafd1e90f",
         "title": "Energy market realities poses hurdle for Trump’s coal revival",
         "description": "Some argue that coal is needed to meet growing energy demand, which is increasing due to the rise of databases and artificial intelligence.",
@@ -13,6 +29,22 @@
             "name": "Washington Examiner",
             "url": "https://www.washingtonexaminer.com",
             "country": "us"
+        }
+    },
+    {
+        "id": "9684aff946f595a556e28342bd351c99",
+        "title": "Elon Musk Takes On Bill Gates' Microsoft With 'Macrohard'. What It Is",
+        "description": "Elon Musk has launched a new artificial intelligence (AI) venture under his xAI initiative, taking on the mighty Microsoft. The project, Macrohard, was announced by Musk on X (formerly Twitter) on August 22.",
+        "content": "Elon Musk has launched a new artificial intelligence (AI) venture under his xAI initiative, taking on the mighty Microsoft. The project, Macrohard, was announced by Musk on X (formerly Twitter) on August 22. “It's a tongue-in-cheek name, but the proj... [3280 chars]",
+        "url": "https://www.ndtv.com/world-news/elon-musk-takes-on-bill-gates-microsoft-with-macrohard-what-it-is-9145022",
+        "image": "https://c.ndtvimg.com/2025-08/ar5cif98_elon-musk-bill-gates-_625x300_23_August_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2025-08-23T11:37:29Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
         }
     },
     {
@@ -124,38 +156,6 @@
             "id": "214d496d625fc657723cf4da80cff8ce",
             "name": "Deccan Chronicle",
             "url": "https://www.deccanchronicle.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1e70304b30d93f2f8355ac1cafa477b8",
-        "title": "Artificial intelligence helps British woman rediscover voice after 25 years",
-        "description": "LONDON: A British woman suffering from motor neurone disease who lost her ability to speak is once again talking in...",
-        "content": "LONDON: A British woman suffering from motor neurone disease who lost her ability to speak is once again talking in her own voice thanks to artificial intelligence and a barely audible eight-second clip from an old home video.\nSarah Ezekiel, an artis... [2997 chars]",
-        "url": "https://www.dawn.com/news/1934963/artificial-intelligence-helps-british-woman-rediscover-voice-after-25-years",
-        "image": "https://www.dawn.com/_img/social-default.jpg",
-        "publishedAt": "2025-08-23T02:10:02Z",
-        "lang": "en",
-        "source": {
-            "id": "6536182115f7e8188f38d864bab0e1c6",
-            "name": "DAWN.com",
-            "url": "https://www.dawn.com",
-            "country": "pk"
-        }
-    },
-    {
-        "id": "a8c2a77e1a59d4c848d88b84401e1f03",
-        "title": "Putin Sees Hope in Russia-US Relations Amid Arctic Cooperation Talks",
-        "description": "Russian President Vladimir Putin expressed optimism about improving Russia-US relations, citing potential cooperation in the Arctic and Alaska. Despite historically low ties, Putin praised the diplomatic efforts under President Trump. The collaboration touches on Arctic projects and the development of Artificial Intelligence technologies.",
-        "content": "Russian President Vladimir Putin on Friday signaled optimism about the future of Russia-US relations, as discussions on joint projects in the Arctic and Alaska provide a beacon of hope.\nSpeaking in Sarov to nuclear industry workers, Putin highlighted... [359 chars]",
-        "url": "https://www.devdiscourse.com/article/politics/3591245-putin-sees-hope-in-russia-us-relations-amid-arctic-cooperation-talks",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_08_2025_21_01_49_4690653.jpg?width=920&format=jpeg",
-        "publishedAt": "2025-08-22T22:23:24Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
             "country": "in"
         }
     }
