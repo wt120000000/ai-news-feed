@@ -1,5 +1,21 @@
 [
     {
+        "id": "6ff4ddbe4e1651805b28330b8c6ac9fb",
+        "title": "Goa Champions Digital Revolution: Unveiling AI-Driven Governance",
+        "description": "Goa is embracing a digital transformation by leveraging artificial intelligence and emerging technologies to foster inclusive and citizen-centric governance. Under the Goa AI Mission 2027, the state is building a future-ready environment aimed at enhancing efficiency through creativity and inclusivity within the governance framework.",
+        "content": "Goa is leading a digital transformation in India by using artificial intelligence and emerging technologies to foster more inclusive and citizen-focused governance, announced state Minister Rohan Khaunte.\nSpeaking at the 18th Digital Technology Concl... [344 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3601310-goa-champions-digital-revolution-unveiling-ai-driven-governance",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/21_08_2025_05_09_00_5078919.png?width=920&format=jpeg",
+        "publishedAt": "2025-08-23T04:21:04Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "9fa8f8663a0fa11dbedaa0062ae856af",
         "title": "OpenAI To Set Up First India Office This Year; CEO Altman To Visit Next Month",
         "description": "According to OpenAI, the establishment of the India office reflects its support for the IndiaAI Mission and commitment to partnering with the government to build Artificial Intelligence (AI) for India, with India",
@@ -141,22 +157,6 @@
             "name": "BOL News",
             "url": "https://www.bolnews.com",
             "country": "pk"
-        }
-    },
-    {
-        "id": "ceafe06c54d6889d7ee38298ea2d4721",
-        "title": "AI model maps building emissions to support fairer climate policies",
-        "description": "An open-source artificial intelligence model to accurately map the carbon emissions of buildings across multiple cities could become a powerful new tool to help policymakers plan targeted and equitable decarbonization strategies.",
-        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nSchematic illustration of the data and workflow. Credit: Nature Susta... [4225 chars]",
-        "url": "https://phys.org/news/2025-08-ai-emissions-fairer-climate-policies.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-model-maps-building-1.jpg",
-        "publishedAt": "2025-08-22T16:20:04Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
         }
     }
 ]
