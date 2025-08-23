@@ -1,5 +1,21 @@
 [
     {
+        "id": "37414c232380c4f776f7c95c205b0794",
+        "title": "A 9-point checklist to improve AI-based image analysis in pathology",
+        "description": "A new article in Veterinary Pathology introduces a 9-point checklist designed to improve the reporting quality of studies that use artificial intelligence (AI)-based automated image analysis (AIA). As AI tools become more widely used in pathology-based research, concerns have emerged about the reproducibility and transparency of published findings.",
+        "content": "A new article in Veterinary Pathology introduces a 9-point checklist designed to improve the reporting quality of studies that use artificial intelligence (AI)-based automated image analysis (AIA). As AI tools become more widely used in pathology-bas... [999 chars]",
+        "url": "https://www.news-medical.net/news/20250823/A-9-point-checklist-to-improve-AI-based-image-analysis-in-pathology.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2019/5/Female_veterinary_doctor_using_stethoscope_for_cute_kitten_-_Image_-_Maria_Sbytova_A1_87d2b43d99c4479d9866e299f000d075-620x480.jpg",
+        "publishedAt": "2025-08-23T04:24:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "6ff4ddbe4e1651805b28330b8c6ac9fb",
         "title": "Goa Champions Digital Revolution: Unveiling AI-Driven Governance",
         "description": "Goa is embracing a digital transformation by leveraging artificial intelligence and emerging technologies to foster inclusive and citizen-centric governance. Under the Goa AI Mission 2027, the state is building a future-ready environment aimed at enhancing efficiency through creativity and inclusivity within the governance framework.",
@@ -141,22 +157,6 @@
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "e32cd23f46f29b4a977ae58245c3f92a",
-        "title": "Pakistan introduce AI Immigration App to reduce long queues at airport",
-        "description": "ISLAMABAD: Interior Minister Mohsin Naqvi on Friday announced the launch of a new Artificial Intelligence (AI)-based application",
-        "content": "ISLAMABAD: Interior Minister Mohsin Naqvi on Friday announced the launch of a new Artificial Intelligence (AI)-based application developed by the Federal Investigation Agency (FIA) to make immigration faster and more secure.\nThe project will first be... [1542 chars]",
-        "url": "https://www.bolnews.com/pakistan/2025/08/pakistan-introduce-ai-immigration-app-to-reduce-long-queues-at-airport/",
-        "image": "https://www.bolnews.com/wp-content/uploads/2025/08/FotoJet-2025-08-22T220202.730.jpg",
-        "publishedAt": "2025-08-22T17:02:54Z",
-        "lang": "en",
-        "source": {
-            "id": "e98c4d2585c4c5661ffe60fed4d51930",
-            "name": "BOL News",
-            "url": "https://www.bolnews.com",
-            "country": "pk"
         }
     }
 ]
