@@ -1,5 +1,37 @@
 [
     {
+        "id": "d8c59fef69297184730f7aee3d4daabf",
+        "title": "AI has produced 2 new antibiotics to kill ‘superbugs’",
+        "description": "Researchers from the Massachusetts Institute of Technology (MIT) have used artificial intelligence (AI) to design two new antibiotics effective against antibiotic-resistant bacteria, or “superbugs”. This is a potentially exciting development, but it’s important to note there are several hurdles to overcome before we might see these antibiotics used in the real world. And if…",
+        "content": "By Thomas Jeffries\nResearchers from the Massachusetts Institute of Technology (MIT) have used artificial intelligence (AI) to design two new antibiotics effective against antibiotic-resistant bacteria, or “superbugs”.\nThis is a potentially exciting d... [5071 chars]",
+        "url": "https://japantoday.com/category/features/health/ai-has-produced-2-new-antibiotics-to-kill-%E2%80%98superbugs%E2%80%99",
+        "image": "https://media.japantoday.com/img/store/fc/49/524186742534e24af0dd132d71014a167cce/istock-2161238241/_w1700.jpeg",
+        "publishedAt": "2025-08-23T20:39:51Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "9c9ea9b4446501de9d4779e3f517a27a",
+        "title": "Indian students win 3 gold medals at int’l AI olympiad",
+        "description": "Chennai:As many as eight students from India won three gold medals at the second International Olympiad in Artificial Intelligence (IOAI) 2025, held i.",
+        "content": "Chennai:As many as eight students from India won three gold medals at the second International Olympiad in Artificial Intelligence (IOAI) 2025, held in Beijing, China, in the first week of August.The competition featured individual rounds in machine ... [1980 chars]",
+        "url": "https://timesofindia.indiatimes.com/city/chennai/indian-students-win-3-gold-medals-at-intl-ai-olympiad/articleshow/123474957.cms",
+        "image": "https://static.toiimg.com/thumb/msid-123474956,width-1070,height-580,imgsize-56820,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2025-08-23T20:39:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "068e5e4bb294651e5e286b52de623d8c",
         "title": "South Korea’s president highlights friendly ties in Japan before key summit with Trump",
         "description": "The two agreed to cooperate in areas that include clean energy, artificial intelligence, low births, the aging population and disaster prevention.",
@@ -125,38 +157,6 @@
             "name": "RTE.ie",
             "url": "https://www.rte.ie",
             "country": "ie"
-        }
-    },
-    {
-        "id": "5a14b547151c854b529b2bfeafd1e90f",
-        "title": "Energy market realities poses hurdle for Trump’s coal revival",
-        "description": "Some argue that coal is needed to meet growing energy demand, which is increasing due to the rise of databases and artificial intelligence.",
-        "content": "The realities of the energy market may jeopardize President Donald Trump’s push to renew what he calls “beautiful clean coal,” an industry that has declined for decades as it faces competition with other energy sources.\nThe Trump administration has m... [8900 chars]",
-        "url": "https://www.washingtonexaminer.com/news/3777474/energy-market-realities-poses-hurdle-trump-coal-revival/",
-        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/08/AP25098745996827.jpg",
-        "publishedAt": "2025-08-23T12:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
-            "name": "Washington Examiner",
-            "url": "https://www.washingtonexaminer.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9684aff946f595a556e28342bd351c99",
-        "title": "Elon Musk Takes On Bill Gates' Microsoft With 'Macrohard'. What It Is",
-        "description": "Elon Musk has launched a new artificial intelligence (AI) venture under his xAI initiative, taking on the mighty Microsoft. The project, Macrohard, was announced by Musk on X (formerly Twitter) on August 22.",
-        "content": "Elon Musk has launched a new artificial intelligence (AI) venture under his xAI initiative, taking on the mighty Microsoft. The project, Macrohard, was announced by Musk on X (formerly Twitter) on August 22. “It's a tongue-in-cheek name, but the proj... [3280 chars]",
-        "url": "https://www.ndtv.com/world-news/elon-musk-takes-on-bill-gates-microsoft-with-macrohard-what-it-is-9145022",
-        "image": "https://c.ndtvimg.com/2025-08/ar5cif98_elon-musk-bill-gates-_625x300_23_August_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2025-08-23T11:37:29Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
-            "country": "in"
         }
     }
 ]
