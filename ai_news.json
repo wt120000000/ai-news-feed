@@ -1,5 +1,21 @@
 [
     {
+        "id": "18a1876db15f3250cde24b28eb18eb57",
+        "title": "A beginner's guide to AI for Boomers, from technology writer Jonathan Margolis",
+        "description": "Artificial intelligence advice for beginners, by veteran technology writer Jonathan Margolis, 70",
+        "content": "For the past three years, since AI became available free (more or less) to everyone with a phone or a computer, it’s been hard to go an hour without it being mentioned in the news or everyday conversation. AI has been the fastest-developing technolog... [5780 chars]",
+        "url": "https://www.dailymail.co.uk/home/you/article-15011055/A-beginners-guide-AI-Boomers-technology-writer-Jonathan-Margolis.html",
+        "image": "https://i.dailymail.co.uk/1s/2025/08/18/15/101324207-0-image-m-63_1755528499639.jpg",
+        "publishedAt": "2025-08-23T07:01:08Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "502cf1eae316544c6220031e6c9c1f79",
         "title": "HMRC spying on social media posts of UK households in tax crackdown",
         "description": "G overnment's taxmanis using artificial intelligence to snoop on suspected tax cheats' social media accounts, it has emerged.",
@@ -140,22 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "7a5158448492e0745d9fac402b02012f",
-        "title": "UCAP Congress in Ghana Calls for Ethical AI to Protect Truth and Human Dignity",
-        "description": "The 2025 UCAP Congress focused on the theme: “Balancing Technological Progress and the Preservation of Human Values in the Age of Artificial Intelligence.”",
-        "content": "Artificial Intelligence (AI) must serve humanity, not enslave it. This was the central message delivered by Charles Ayetan of Togo, newly elected President of the African Catholic Union of the Press (UCAP), at the closing of the 2025 UCAP Congress in... [4057 chars]",
-        "url": "https://www.devdiscourse.com/article/business/3571023-ucap-congress-in-ghana-calls-for-ethical-ai-to-protect-truth-and-human-dignity",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_02_2025_21_12_00_0588603.webp?width=920&format=jpeg",
-        "publishedAt": "2025-08-22T17:18:59Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
             "country": "in"
         }
     }
