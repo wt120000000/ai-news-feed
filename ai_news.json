@@ -1,5 +1,21 @@
 [
     {
+        "id": "b2e13969958fcf924b17f719601c3459",
+        "title": "Blue-collar jobs gain appeal as AI disrupts office work, but it's not the easy way out you think it is",
+        "description": "It is practically impossible to predict how technology and artificial intelligence will disrupt work in the future. Experts say the best defence against being made obsolete is to deepen one's skills regardless of the path one chooses.",
+        "content": "Not too long ago, having a diploma or degree was a guarantee of a corporate job and a climb up the professional career ladder.\nBut these days, with generative artificial intelligence (AI) and other technologies disrupting and restructuring industries... [3594 chars]",
+        "url": "https://www.channelnewsasia.com/today/big-read/ai-disruption-jobs-blue-collar-white-collar-work-5306116",
+        "image": "https://dam.mediacorp.sg/image/upload/s--HyXFxkJ3--/c_crop,h_1080,w_1920,x_0,y_180/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/08/22/20250824-ns-tqbigread0824_0.jpg?itok=u9tRlqLB",
+        "publishedAt": "2025-08-23T13:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "09131c39169c9c96230862dc4c1fa727",
+            "name": "CNA",
+            "url": "https://www.channelnewsasia.com",
+            "country": "sg"
+        }
+    },
+    {
         "id": "c1b504f350dbda52bc82946ae0d9328e",
         "title": "Behind the Story: Safety measures needed for AI therapy",
         "description": "A leading expert on Artificial Intelligence has warned that safety measures need to be put in place to deal with the increasing use of AI for therapy and the Government needs to consider a ban on some AI therapy.",
@@ -64,6 +80,22 @@
         }
     },
     {
+        "id": "270acec7634afb37be9b30eba3ae36ae",
+        "title": "Elon Musk Launches 'Macrohard' To Fully Replicate Microsoft Using AI",
+        "description": "Elon Musk, Macrohard, Microsoft software rival, AI software company, xAI, artificial intelligence, new tech company, Elon Musk Macrohard, compete with Microsoft, AI replacing software companies",
+        "content": "Tesla CEO Elon Musk announced on Friday that he has started a new company called Macrohard. The goal of Macrohard is to compete with Microsoft’s software business by using artificial intelligence (AI).\nMusk shared this news in a post on X, where he c... [266 chars]",
+        "url": "https://www.newsx.com/business/elon-musk-launches-macrohard-to-fully-replicate-microsoft-using-ai-51438/",
+        "image": "https://www.newsx.com/wp-content/uploads/2025/08/live-2025-08-23t140137623.jpg",
+        "publishedAt": "2025-08-23T08:32:17Z",
+        "lang": "en",
+        "source": {
+            "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+            "name": "NewsX",
+            "url": "https://www.newsx.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "18a1876db15f3250cde24b28eb18eb57",
         "title": "A beginner's guide to AI for Boomers, from technology writer Jonathan Margolis",
         "description": "Artificial intelligence advice for beginners, by veteran technology writer Jonathan Margolis, 70",
@@ -124,38 +156,6 @@
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d24478b66a23bd4eae71bfe0fba3b9f7",
-        "title": "AMD Stock Jumps Alongside Investment in AI Startup Somite.ai",
-        "description": "Advanced Micro Devices (AMD) stock was up on Friday alongside news of an investment in artificial intelligence (AI) startup Somite.ai. AMD Ventu...",
-        "content": "Advanced Micro Devices (AMD) stock was up on Friday alongside news of an investment in artificial intelligence (AI) startup Somite.ai. AMD Ventures has made a strategic investment in the company following its $47 million Series A closing in May. This... [1973 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/amd-stock-jumps-alongside-investment-in-ai-startup-somite-ai-1035067037",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1615.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2025-08-23T02:39:00Z",
-        "lang": "en",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Markets Insider",
-            "url": "https://markets.businessinsider.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9fa8f8663a0fa11dbedaa0062ae856af",
-        "title": "OpenAI To Set Up First India Office This Year; CEO Altman To Visit Next Month",
-        "description": "According to OpenAI, the establishment of the India office reflects its support for the IndiaAI Mission and commitment to partnering with the government to build Artificial Intelligence (AI) for India, with India",
-        "content": "New Delhi: OpenAI on Friday said it will set up its first India office in New Delhi later this year, as its high-profile founder Sam Altman announced his plans to visit the country next month.In a post on X, Altman said AI adoption in India has been ... [5278 chars]",
-        "url": "https://www.deccanchronicle.com/technology/openai-to-set-up-first-india-office-this-year-ceo-altman-to-visit-next-month-1899188",
-        "image": "https://www.deccanchronicle.com/h-upload/2025/08/23/1950678-la-3148323.jpg",
-        "publishedAt": "2025-08-23T02:14:36Z",
-        "lang": "en",
-        "source": {
-            "id": "214d496d625fc657723cf4da80cff8ce",
-            "name": "Deccan Chronicle",
-            "url": "https://www.deccanchronicle.com",
             "country": "in"
         }
     }
