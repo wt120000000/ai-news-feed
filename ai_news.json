@@ -1,5 +1,21 @@
 [
     {
+        "id": "1e8b1ed17e4b855b345809373d86e995",
+        "title": "‘Never…’: World’s oldest living person turns 116, credits longevity to THIS rule she’s followed all her life",
+        "description": "Her life has spanned two world wars, six monarchs in the UK and 27 prime ministers. From the Edwardian era to the rise of artificial intelligence, Caterham has seen it all.",
+        "content": "Ethel Caterham, born August 21, 1909 in Hampshire, England, has been officially recognised by Guinness World Records as the world’s oldest living person at 116. This follows the passing of Brazilian nun Sister Inah Canabarro earlier this year.\nHer li... [1928 chars]",
+        "url": "https://www.financialexpress.com/trending/never-worlds-oldest-living-person-turns-116-credits-longevity-to-a-rule-shes-followed-all-her-life/3955455/",
+        "image": "https://www.financialexpress.com/wp-content/uploads/2025/08/Who-is-Ethel-Caterham.png",
+        "publishedAt": "2025-08-23T09:49:04Z",
+        "lang": "en",
+        "source": {
+            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+            "name": "The Financial Express",
+            "url": "https://www.financialexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "18a1876db15f3250cde24b28eb18eb57",
         "title": "A beginner's guide to AI for Boomers, from technology writer Jonathan Margolis",
         "description": "Artificial intelligence advice for beginners, by veteran technology writer Jonathan Margolis, 70",
@@ -140,22 +156,6 @@
             "id": "384b3c633f1aa3e0a1bcb208f94d519d",
             "name": "SFGATE",
             "url": "https://www.sfgate.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3a57ca7caba4e3482c7d25d6f3a830a0",
-        "title": "Home Depot Hit with Lawsuit Over Allegations About Using Facial Recognition Technology",
-        "description": "The lawsuit, filed in an Illinois court on Friday, Aug. 1, alleges the company uses a form of artificial intelligence called “computer vision” to help mitigate theft by collecting data about customers’ facial geometry in violation of the state's Biometric Information Privacy Act",
-        "content": "NEED TO KNOW The Home Depot is facing a class action lawsuit regarding allegations about implementing facial recognition technology in its stores\nThe lawsuit, filed in an Illinois court on Friday, Aug. 1, alleges the company uses a form of artificial... [2429 chars]",
-        "url": "https://people.com/the-home-depot-hit-with-lawsuit-over-allegations-facial-recognition-technology-11795671",
-        "image": "https://people.com/thmb/oS42WyIyQrjZG5Yqr1YnCv2Pkf4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/home-depot-101323-1-e7458772b4ba4549a67da7210d213dee.jpg",
-        "publishedAt": "2025-08-22T18:21:26Z",
-        "lang": "en",
-        "source": {
-            "id": "c837db3560dbe304554f10dddd97c3c8",
-            "name": "People.com",
-            "url": "https://people.com",
             "country": "us"
         }
     }
