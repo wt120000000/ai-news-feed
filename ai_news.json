@@ -1,5 +1,21 @@
 [
     {
+        "id": "3a44ae2c658f47a714e53c0c0cd1d85a",
+        "title": "AI Is a Mirror in Which We See Our Own Reflection",
+        "description": "Delve into the relationship between humans and Artificial Intelligence (AI) and the reflections of ourselves we may not want to see.",
+        "content": "AI is not so much a tool that everyone uses in more or less the same way, but a mirror in which we see our own reflection–if we care to look.\nAttention has been riveted on what AI can do for the three years since the unveiling of ChatGPT, but very li... [8029 chars]",
+        "url": "https://www.activistpost.com/ai-is-a-mirror-in-which-we-see-our-own-reflection/",
+        "image": "https://www.activistpost.com/wp-content/uploads/2025/08/robot-3010309_640.jpg",
+        "publishedAt": "2025-08-24T19:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "435d508bebcc8689d5c7711d44865b80",
+            "name": "Activist Post",
+            "url": "https://www.activistpost.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "bb492bb39f419334cc2992ffd30d62aa",
         "title": "Is AI a friend or a foe?",
         "description": "Artificial intelligence is rapidly transforming the consulting industry by automating routine tasks like data analysis and research.",
@@ -140,22 +156,6 @@
             "id": "9290338c23f31e3f547a2dbfa1c52c03",
             "name": "Scientific American",
             "url": "https://www.scientificamerican.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "043574121e73ca5655f205c53fe9f027",
-        "title": "A Better Way to Think About AI",
-        "description": "Artificial intelligence is ready to collaborate. Why fixate on automation?",
-        "content": "No one doubts that our future will feature more automation than our past or present. The question is how we get from here to there, and how we do so in a way that is good for humanity.\nSometimes it seems the most direct route is to automate wherever ... [23409 chars]",
-        "url": "https://www.theatlantic.com/technology/archive/2025/08/ai-job-loss-human-enhancement-google/683963/",
-        "image": "https://cdn.theatlantic.com/thumbor/Bjb1a4wlK4QJExN6FKseihoGyJ4=/5x394:2160x1516/1200x625/media/img/mt/2025/08/notext1/original.jpg",
-        "publishedAt": "2025-08-24T11:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a2e577ba2489a893201ce3c6c670f6de",
-            "name": "The Atlantic",
-            "url": "https://www.theatlantic.com",
             "country": "us"
         }
     }
