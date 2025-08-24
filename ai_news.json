@@ -1,5 +1,21 @@
 [
     {
+        "id": "5217e7527c0cfc1640669ae2f303f3af",
+        "title": "Editorial | First humanoid robot games are proof the future is already here",
+        "description": "From automation to athletics, the merging of artificial intelligence with robotics holds great promise, and peril.",
+        "content": "Babies are clumsy – and so are humanoid robots. That may be why so many of us were amused watching videos of the non-human competitors at the inaugural World Humanoid Robot Games in Beijing, and found them cute. While many managed to perform adequate... [1551 chars]",
+        "url": "https://www.scmp.com/opinion/comment/article/3322830/first-humanoid-robot-games-are-proof-future-already-here",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_editorial/public/d8/images/canvas/2025/08/22/209c46f4-83f6-4b57-804e-5d560b42e9ee_8f63b2a5.jpg?itok=SZ9PRDzp&v=1755858523",
+        "publishedAt": "2025-08-24T22:45:08Z",
+        "lang": "en",
+        "source": {
+            "id": "d6397b77175680e2678c0d60edcee7af",
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com",
+            "country": "hk"
+        }
+    },
+    {
         "id": "8200789e0f13d29e443b74f9feb1950b",
         "title": "Elon Musk’s AI Mothership Signals the Next Wave of Superintelligence?",
         "description": "In a newly surfaced presentation, James Altucher outlines Musk’s latest artificial intelligence push - and why its scale could reshape the future.",
@@ -141,22 +157,6 @@
             "name": "manilastandard.net",
             "url": "https://manilastandard.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "eef3494fc1d4f7fc450f3b19794e3615",
-        "title": "Kerala launches Information and Communications Technology textbooks for schools",
-        "description": "Earlier, KITE had introduced a curriculum incorporating Artificial Intelligence, Robotics, and Fact-Checking., Education, Times Now",
-        "content": "Kerala launches Information and Communications Technology textbooks for schools Photo : iStock\nKerala Infrastructure and Technology for Education (KITE), a wing under the Department of General Education, on Sunday launched its Information and Communi... [2957 chars]",
-        "url": "https://www.timesnownews.com/education/kerala-launches-information-and-communications-technology-textbooks-for-schools-article-152517442",
-        "image": "https://images.timesnownews.com/thumb/msid-152517456,thumbsize-87714,width-1280,height-720,resizemode-75/152517456.jpg",
-        "publishedAt": "2025-08-24T15:40:57Z",
-        "lang": "en",
-        "source": {
-            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-            "name": "Times Now",
-            "url": "https://www.timesnownews.com",
-            "country": "in"
         }
     }
 ]
