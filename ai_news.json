@@ -1,5 +1,37 @@
 [
     {
+        "id": "a5962090ec58311987ae7ab53758f491",
+        "title": "Scientists Are Using Earth's Shadow to Hunt For Alien Probes",
+        "description": "For decades, astronomers have searched for signs of extraterrestrial intelligence using radio telescopes and optical instruments, scanning the skies for artificial signals.",
+        "content": "For decades, astronomers have searched for signs of extraterrestrial intelligence using radio telescopes and optical instruments, scanning the skies for artificial signals. Now, researchers are taking a different approach, this time looking much clos... [2911 chars]",
+        "url": "https://www.sciencealert.com/scientists-are-using-earths-shadow-to-hunt-for-alien-probes",
+        "image": "https://www.sciencealert.com/images/2025/08/SunriseOverEarthsShadowedSide.jpg",
+        "publishedAt": "2025-08-24T15:00:03Z",
+        "lang": "en",
+        "source": {
+            "id": "5ef93dac613cd24454e0d42ebc372612",
+            "name": "ScienceAlert",
+            "url": "https://www.sciencealert.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "b400b5c3b2fd002f8c773c9a8382c0d1",
+        "title": "Kerala launches Information and Communications Technology textbooks for schools",
+        "description": "Earlier, KITE had introduced a curriculum incorporating Artificial Intelligence, Robotics, and Fact-Checking.",
+        "content": "Kerala Infrastructure and Technology for Education (KITE), a wing under the Department of General Education, on Sunday launched its Information and Communications Technology (ICT) textbooks for schools in the state. Kerala launches Information and Co... [3067 chars]",
+        "url": "https://www.hindustantimes.com/education/kerala-launches-information-and-communications-technology-textbooks-for-schools-101756043820783.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2025/08/24/1600x900/kerala_textbook_1756044330792_1756044331054.jpg",
+        "publishedAt": "2025-08-24T14:33:20Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "cb65491b4d998386198347109f740aa4",
         "title": "Nvidia Earnings Are the Stock Market Risk Event After Fed Rally",
         "description": "Traders are breathing easier heading into this week after Federal Reserve Chair Jerome Powell indicated that interest rate cuts are coming. The next test for the stock market will be a read on what’s been driving gains for the past few years: artificial intelligence euphoria.",
@@ -112,22 +144,6 @@
         }
     },
     {
-        "id": "1e7abf6abfaa37e45b5197fe69eac0dd",
-        "title": "Businesses put at risk when employees use unauthorized AI tools at work",
-        "description": "An artificial intelligence chatbot could help quickly clean up your presentation moments before an important board meeting. But those quick AI fixes can become a liability for the higher-ups you're trying to impress.",
-        "content": "An artificial intelligence chatbot could help quickly clean up your presentation moments before an important board meeting. But those quick AI fixes can become a liability for the higher-ups you're trying to impress.\nAn artificial intelligence chatbo... [6427 chars]",
-        "url": "https://www.vancouverisawesome.com/national-business/businesses-put-at-risk-when-employees-use-unauthorized-ai-tools-at-work-11118151",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/ae56a762f9b2b3740d86ff3306d91735dcfa2e2fa662d2f41b1998b4c55f0786.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-08-24T10:00:12Z",
-        "lang": "en",
-        "source": {
-            "id": "a626af07817344050e3336789e06a2f5",
-            "name": "Vancouver Is Awesome",
-            "url": "https://www.vancouverisawesome.com",
-            "country": "ca"
-        }
-    },
-    {
         "id": "5de478b43f4cb85321bbbe45f4241c94",
         "title": "Businesses put at risk when employees use unauthorized AI tools at work",
         "description": "An artificial intelligence chatbot could help quickly clean up your presentation moments before an important board meeting. But those quick AI fixes can become a liability for the higher-ups you're trying to impress.",
@@ -140,22 +156,6 @@
             "id": "ec12383a90942fd0ccc50c66266217a5",
             "name": "BradfordToday",
             "url": "https://www.bradfordtoday.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "445608d26dd984e079b40e5f47112760",
-        "title": "Businesses put at risk when employees use unauthorized AI tools at work",
-        "description": "An artificial intelligence chatbot could help quickly clean up your presentation moments before an important board meeting. But those quick AI fixes can become a liability for the higher-ups you're trying to impress.",
-        "content": "An artificial intelligence chatbot could help quickly clean up your presentation moments before an important board meeting. But those quick AI fixes can become a liability for the higher-ups you're trying to impress.\nMore employees are using AI tools... [6210 chars]",
-        "url": "https://www.guelphtoday.com/national-business/businesses-put-at-risk-when-employees-use-unauthorized-ai-tools-at-work-11118149",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/ae56a762f9b2b3740d86ff3306d91735dcfa2e2fa662d2f41b1998b4c55f0786.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-08-24T10:00:12Z",
-        "lang": "en",
-        "source": {
-            "id": "300a668ea1fb6b59c9da32db8e856d66",
-            "name": "GuelphToday",
-            "url": "https://www.guelphtoday.com",
             "country": "ca"
         }
     }
