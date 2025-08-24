@@ -1,5 +1,37 @@
 [
     {
+        "id": "bf36b0f5ca020e4130ec5218fff6303c",
+        "title": "Godfather of AI warns AI systems are turning into ‘alien beings’ that may one day take control of the world",
+        "description": "Geoffrey Hinton, known as the Godfather of AI, warns about the dangers of artificial intelligence, comparing them to alien entities. He calls for immediate research to address the existential threats posed by AI's.",
+        "content": "Geoffrey Hinton, the former Google researcher widely recognized as the Godfather of AI, has issued another warning about artificial intelligence systems. In his latest interaction, Hinton compared current AI systems to AI beings and said there is an ... [1792 chars]",
+        "url": "https://www.livemint.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-warns-ai-systems-are-alien-beings-that-may-one-day-take-control-chatgpt-ge-11756009817654.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/08/24/1600x900/Geoffrey_Hinton_1756011255059_1756011255223.jpg",
+        "publishedAt": "2025-08-24T04:56:57Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "96682a4310e3b0d471051e301771cbe4",
+        "title": "Amazon Web Services head Matt Garman: Laying off engineers for AI is the dumbest thing companies are doing because…",
+        "description": "Tech News : Amazon Web Services CEO, Matthew Garman, has strongly criticised companies for replacing junior staff with artificial intelligence. He calls it a bad",
+        "content": "Junior workers drive AI innovation while senior staff resist change\nGarman's AI stance evolved from earlier predictions about coding's future\nAmazon Web Services CEO Matt Garman has delivered a sharp rebuke to companies replacing junior employees wit... [2234 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-web-services-head-matt-garman-laying-off-engineers-for-ai-is-the-dumbest-thing-companies-are-doing-because/articleshow/123480530.cms",
+        "image": "https://static.toiimg.com/thumb/msid-123480529,width-1070,height-580,imgsize-968453,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2025-08-24T04:41:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "41e2446f25337ebf92397fff0479b574",
         "title": "Musk Says XAI Open Sources Grok 2.5",
         "description": "On a social media post, Elon Musk said his artificial intelligence startup xAI has open-sourced its Grok 2.5 model and plans to do the same for its Grok 3 model in roughly six months.",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "c581f6f7a808854a199d87d49780920a",
-        "title": "Trusting Social e xpands AI credit scoring in PH",
-        "description": "TRUSTING Social Philippines is tapping artificial intelligence and big data to expand financial inclusion in the country, where millions of Filipinos remain outside the formal banking system.",
-        "content": "TRUSTING Social Philippines is tapping artificial intelligence and big data to expand financial inclusion in the country, where millions of Filipinos remain outside the formal banking system.\nThe company, founded in the United States in 2013 and now ... [3060 chars]",
-        "url": "https://www.manilatimes.net/2025/08/24/business/sunday-business-it/trusting-social-e-xpands-ai-credit-scoring-in-ph/2172604",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/23/723574.jpg",
-        "publishedAt": "2025-08-23T16:08:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "2c6b0f7235a14db5b34cd294e9d79ffb",
-        "title": "Credit Fuels the AI Boom - and Fears of a Bubble",
-        "description": "Credit investors are pouring billions of dollars into artificial intelligence investments, just as industry executives and analysts are raising questions about whether the new technology is inflating another bubble.",
-        "content": "Credit investors are pouring billions of dollars into artificial intelligence investments, just as industry executives and analysts are raising questions about whether the new technology is inflating another bubble.\nJPMorgan Chase & Co. and Mitsubish... [413 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-23/credit-fuels-the-ai-boom-and-fears-of-a-bubble-credit-weekly",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_ebe8YohGLI/v0/1200x800.jpg",
-        "publishedAt": "2025-08-23T15:33:16Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
         }
     }
 ]
