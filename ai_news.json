@@ -1,5 +1,21 @@
 [
     {
+        "id": "41e2446f25337ebf92397fff0479b574",
+        "title": "Musk Says XAI Open Sources Grok 2.5",
+        "description": "On a social media post, Elon Musk said his artificial intelligence startup xAI has open-sourced its Grok 2.5 model and plans to do the same for its Grok 3 model in roughly six months.",
+        "content": "Elon Musk's artificial intelligence startup xAI has open-sourced its Grok 2.5 model and plans to do the same for its Grok 3 model in roughly six months, the billionaire said in a post on his social media platform X on Saturday.\n\"The @xAI Grok 2.5 mod... [1143 chars]",
+        "url": "https://www.newsmax.com/politics/elon-musk-grok-open-source/2025/08/23/id/1223690/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=1b0e323b-2177-4406-9fc6-c3b52bafd4bb&SiteName=Newsmax",
+        "publishedAt": "2025-08-24T02:39:40Z",
+        "lang": "en",
+        "source": {
+            "id": "a8984f03fe66dae9745793f6560aa444",
+            "name": "Newsmax",
+            "url": "https://www.newsmax.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "82fe8c7884f8283b915a3a9dc7ce3760",
         "title": "‘AI can’t write comedy’, Tina Fey tells Edinburgh TV Festival",
         "description": "EDINBURGH  -  Saturday Night Live star Tina Fey said she is not worried about artificial intelligence (AI) taking over from comedy writers. “AI can do",
@@ -141,22 +157,6 @@
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "9f29a239ca0bee32356ecc2add1546f4",
-        "title": "Zerodha CEO Nithin Kamath tells you how to become ‘irreplaceable’ amid rise of AI",
-        "description": "Zerodha CEO Nithin Kamath advised people on how to become ‘irreplaceable’ amid the rise of artificial intelligence in this modern world. Here's what he said…",
-        "content": "Online brokerage platform Zerodha's Founder and Chief Executive Officer (CEO), Nithin Kamath, advised people to develop the ability to remain curious in life in order to stand out in a world of artificial intelligence (AI), according to a social medi... [2024 chars]",
-        "url": "https://www.livemint.com/companies/people/zerodha-ceo-nithin-kamath-tells-you-how-to-become-irreplaceable-amid-rise-of-ai-11755956383480.html",
-        "image": "https://www.livemint.com/lm-img/img/2025/08/23/1600x900/nithin_kamath_1744297124364_1755960184387.JPG",
-        "publishedAt": "2025-08-23T14:49:30Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
         }
     }
 ]
