@@ -1,44 +1,76 @@
 [
     {
-        "id": "1894ba5ed61acc40f40b3de643dddd1e",
-        "title": "Elon Musk and xAI are suing Apple and OpenAI because Grok isn't topping the app charts",
-        "description": "Elon Musk's xAI startup has sued Apple and OpenAI. The suit accuses the pair of conspiring to thwart competition for artificial intelligence platforms.",
-        "content": "Elon Musk's artificial intelligence company xAI is suing Apple and OpenAI, as reported by Reuters . The suit accuses the companies of illegally conspiring to stop rival AI companies from getting a fair shot on the App Store, alleging they have \"locke... [1579 chars]",
-        "url": "https://www.engadget.com/ai/elon-musk-and-xai-are-suing-apple-and-openai-because-grok-isnt-topping-the-app-charts-170020376.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/A6HDKk6KRflO41leHT7Z8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/518bab90-6ed6-11f0-bff8-fa7161562c68",
-        "publishedAt": "2025-08-25T17:00:20Z",
+        "id": "a3dbd8ecadf8aa506c24c3a4a87f5532",
+        "title": "Statistical mechanics method helps machines better understand complex systems",
+        "description": "A study by University of Hawaiʻi researchers is advancing how we learn the laws that govern complex systems—from predator-prey relationships to traffic patterns in cities to how populations grow and shift—using artificial intelligence (AI) and physics.",
+        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nFree-energy trends in Z-SINDy inference. Credit: Physical Review Rese... [2653 chars]",
+        "url": "https://phys.org/news/2025-08-statistical-mechanics-method-machines-complex.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2025/statistical-mechanics.jpg",
+        "publishedAt": "2025-08-25T18:11:04Z",
         "lang": "en",
         "source": {
-            "id": "549a7a859b2345bbe231b00e7244ef99",
-            "name": "Engadget",
-            "url": "https://www.engadget.com",
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "e7948590c74120c07c5a4d8fe2bda5b6",
+        "title": "Elon Musk accuses of Apple and OpenAI of stifling AI competition in antitrust lawsuit",
+        "description": "Elon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that the iPhone maker and the ChatGPT maker are teaming up to thwart competition in artificial intelligence.",
+        "content": "FILE - Elon Musk attends a news conference with President Donald Trump in the Oval Office of the White House, May 30, 2025, in Washington. (AP Photo/Evan Vucci, file)\nElon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that... [3745 chars]",
+        "url": "https://www.clickondetroit.com/business/2025/08/25/elon-musk-accuses-of-apple-and-openai-of-stifling-ai-competition-in-antitrust-lawsuit/",
+        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/UB2NFD65YJE6BIVZMSPAIHYK3Q.jpg?_a=DATAg1eAZAA0",
+        "publishedAt": "2025-08-25T17:58:49Z",
+        "lang": "en",
+        "source": {
+            "id": "35515662ec044d3f94b543cd8802d63f",
+            "name": "WDIV ClickOnDetroit",
+            "url": "https://www.clickondetroit.com",
             "country": "us"
         }
     },
     {
-        "id": "241fb07f962b8446604e03104aedcd27",
-        "title": "Elon Musk’s xAI Sues Apple Over Claims It Favors OpenAI",
-        "description": "Mr. Musk’s artificial intelligence company, xAI, claimed that its Grok chatbot app was being artificially suppressed in Apple’s App Store.",
-        "content": "Elon Musk’s artificial intelligence firm, xAI, sued Apple on Monday, accusing the company of manipulating its App Store rankings to give preferential treatment to a top competitor, OpenAI.\nThe lawsuit, filed in U.S. District Court for the Northern Di... [533 chars]",
-        "url": "https://www.nytimes.com/2025/08/25/technology/xai-sues-apple.html",
-        "image": "https://static01.nyt.com/images/2025/08/25/multimedia/25biz-musk-suit-ftkj/25biz-musk-suit-ftkj-facebookJumbo.jpg",
-        "publishedAt": "2025-08-25T16:27:13Z",
+        "id": "815b8a29abff57eb284335b68f00067c",
+        "title": "Musk sues OpenAI and Apple over anticompetitive conduct",
+        "description": "Elon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that the iPhone maker and the ChatGPT maker are teaming up to thwart competition in artificial intelligence.",
+        "content": "Elon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that the iPhone maker and the ChatGPT maker are teaming up to thwart competition in artificial intelligence.\nThe 61-page complaint filed in Texas federal court follows thr... [3559 chars]",
+        "url": "https://apnews.com/article/elon-musk-apple-openai-chatgpt-8cc360bd419894ad8c6bfdd79eb5693f",
+        "image": "https://dims.apnews.com/dims4/default/fe72912/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcf%2F3b%2F1410b1203c4a227597cecaeb2789%2F674acea09a9b438e8479fe8a3ad8eb6d",
+        "publishedAt": "2025-08-25T17:58:49Z",
         "lang": "en",
         "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
+            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+            "name": "The Associated Press",
+            "url": "https://apnews.com",
             "country": "us"
         }
     },
     {
-        "id": "1b5b590405f526e0bbf9b9597ca0e9ab",
-        "title": "Musk Sues Apple, OpenAI, Saying They Hurt AI Competition",
-        "description": "Elon Musk accused Apple Inc. and OpenAI in a lawsuit of unfairly favoring the artificial intelligence company across iPhones and thwarting competition for other chatbot makers.",
-        "content": "Elon Musk accused Apple Inc. and OpenAI in a lawsuit of unfairly favoring the artificial intelligence company across iPhones and thwarting competition for other chatbot makers.\nMusk’s X and xAI filed the lawsuit Monday in federal court in Fort Worth,... [2042 chars]",
-        "url": "https://www.livemint.com/companies/news/musk-sues-apple-openai-saying-they-hurt-ai-competition-11756137683624.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_3_1733465099406_1733465108677.png",
-        "publishedAt": "2025-08-25T16:01:23Z",
+        "id": "92cb016dac5017dc76c40c62398d40f4",
+        "title": "Elon Musk Accuses of Apple and OpenAI of Stifling AI Competition in Antitrust Lawsuit",
+        "description": "Elon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that the iPhone maker and the ChatGPT maker are teaming up to thwart competition in artificial intelligence.",
+        "content": "Elon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that the iPhone maker and the ChatGPT maker are teaming up to thwart competition in artificial intelligence.\nThe 61-page complaint filed in Texas federal court follows thr... [3692 chars]",
+        "url": "https://www.usnews.com/news/best-states/texas/articles/2025-08-25/elon-musk-accuses-of-apple-and-openai-of-stifling-ai-competition-in-antitrust-lawsuit",
+        "image": "https://www.usnews.com/dims4/USNEWS/a131f73/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F69%2F9203cfa45f92b23feb6a60a15548ff%2F674acea09a9b438e8479fe8a3ad8eb6dMusk-Apple-OpenAI_28628.jpg",
+        "publishedAt": "2025-08-25T17:58:00Z",
+        "lang": "en",
+        "source": {
+            "id": "37128a060981dbbe79321f096e7d1108",
+            "name": "U.S. News & World Report",
+            "url": "https://www.usnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6c24b3c980d3c5d31b7eb384bb2f2f61",
+        "title": "Saudi’s Humain to Open Data Centers With US Chips in Early 2026",
+        "description": "Saudi Arabia’s new artificial intelligence company, Humain, has broken ground on its first data centers in the kingdom and plans to have them up and running in early 2026 with the use of semiconductors imported from the US.",
+        "content": "Saudi Arabia’s new artificial intelligence company, Humain, has broken ground on its first data centers in the kingdom and plans to have them up and running in early 2026 with the use of semiconductors imported from the US.\nLocations in the capital o... [1884 chars]",
+        "url": "https://www.livemint.com/companies/news/saudis-humain-to-open-data-centers-with-us-chips-in-early-2026-11756143936854.html",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_1_1733464951182_1733464958176.png",
+        "publishedAt": "2025-08-25T17:45:36Z",
         "lang": "en",
         "source": {
             "id": "3bd4bd306c42647825fa42989624c036",
@@ -48,115 +80,83 @@
         }
     },
     {
-        "id": "67078d9f7705d0760b263e781cfaa422",
-        "title": "Elon Musk’s xAI sues Apple and OpenAI over AI competition, App Store rankings",
-        "description": "Billionaire entrepreneur Elon Musk’s artificial intelligence startup xAI sued Apple (AAPL) and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.",
-        "content": "Tech giants AI Corporate news Tech news See all topics Follow\nReuters —\nBillionaire entrepreneur Elon Musk’s artificial intelligence startup xAI sued Apple (AAPL) and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of ill... [1660 chars]",
-        "url": "https://edition.cnn.com/2025/08/25/tech/elon-musk-xai-apple-openai-lawsuit-app-store-rankings",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2216312549-20250701190436976.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-08-25T16:00:49Z",
+        "id": "ac7a98afc6a7f64700bf67b33d852e66",
+        "title": "AI-powered tool that identifies human sperm with fertilization potential boasts 96% accuracy",
+        "description": "A research team from the Department of Obstetrics and Gynecology at the University of Hong Kong's LKS Faculty of Medicine (HKUMed) has developed the world's first artificial intelligence (AI) model that can accurately identify human sperm with fertilization potential. This breakthrough could reshape diagnosis and assisted reproductive treatments worldwide.",
+        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nImage processing and extraction of individual sperm heads from Diff-Q... [6771 chars]",
+        "url": "https://medicalxpress.com/news/2025-08-ai-powered-tool-human-sperm.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-powered-tool-that-i.jpg",
+        "publishedAt": "2025-08-25T17:45:08Z",
         "lang": "en",
         "source": {
-            "id": "26269dbc42635df9af8c24f3cdab8e37",
-            "name": "Cable News Network",
-            "url": "https://edition.cnn.com",
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "8a713bf1af94ada65207a44dbd048980",
+        "title": "Elon Musk sues Apple, OpenAI in Texas over competition, App Store rankings",
+        "description": "Elon Musk is accusing two tech giants of illegally conspiring to thwart competition for artificial intelligence.",
+        "content": "Billionaire entrepreneur Elon Musk’s artificial intelligence startup xAI sued Apple and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.\nApple and ... [1999 chars]",
+        "url": "https://www.dallasnews.com/business/technology/2025/08/25/elon-musk-sues-apple-openai-in-texas-over-competition-app-store-rankings/",
+        "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/LXHYTMKV25EEDJRKL4LWAWV4UA.jpg?auth=0f9d8b00df4825a5b344b3f79f0ccfcff7a013caa118846e938e5a7f6b2c85c3&quality=80&width=1200&height=630&smart=true",
+        "publishedAt": "2025-08-25T17:40:10Z",
+        "lang": "en",
+        "source": {
+            "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+            "name": "The Dallas Morning News",
+            "url": "https://www.dallasnews.com",
             "country": "us"
         }
     },
     {
-        "id": "9f3f02683f3e6974c99cceea815f9eb9",
-        "title": "Elon Musk vs big tech: xAI sues Apple, OpenAI; billionaire accuses rivals of monopoly deal",
-        "description": "International Business News: Billionaire Elon Musk’s artificial intelligence startup xAI has filed a lawsuit against Apple and OpenAI in a US federal court in Texas, accusing the .",
-        "content": "Billionaire Elon Musk’s artificial intelligence startup xAI has filed a lawsuit against Apple and OpenAI in a US federal court in Texas, accusing the two companies of conspiring to stifle competition in the fast-growing AI market, reported Reuters.Ac... [1658 chars]",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/elon-musk-vs-big-tech-xai-sues-apple-openai-billionaire-accuses-rivals-of-monopoly-deal/articleshow/123507219.cms",
-        "image": "https://static.toiimg.com/thumb/msid-123507225,width-1070,height-580,imgsize-39966,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-08-25T15:58:00Z",
+        "id": "e816b485adcbf5ef76c36b0b3e6afa22",
+        "title": "Deeply inappropriate rumor about Jeff Bezos' mother sparks PR crisis for Google",
+        "description": "Google's artificial intelligence promoted a fake story that rapper Eminem performed at Jeff Bezos's mother's funeral - and that Tesla CEO Elon Musk attended, Daily Mail can reveal.",
+        "content": "Google's artificial intelligence system is under fire after it promoted a fake story that rapper Eminem performed at Jeff Bezos's mother's funeral and that Tesla CEO Elon Musk attended, Daily Mail can reveal.\nThe false information was presented by Go... [7373 chars]",
+        "url": "https://www.dailymail.co.uk/news/article-15025713/google-overviews-blunder-eminem-elon-musk-jeff-bezos-mother-funeral.html",
+        "image": "https://i.dailymail.co.uk/1s/2025/08/25/17/101528559-0-image-m-27_1756140254914.jpg",
+        "publishedAt": "2025-08-25T17:36:42Z",
         "lang": "en",
         "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "dd76927e778de70b2fe63a65fa2b3b4e",
+        "title": "AI Can Reshape Half Of Roles In Indian Banking: Report",
+        "description": "Amid concerns over artificial intelligence's impact on jobs, a consultancy firm on Monday said the adoption of the technology can 'reshape' half of the roles in the Indian banking sector. In what may come as a concerning outcome for banks, Boston Consulting Group said that despite a nearly five-times increase in information technology spending of banks over the last decade, the gains in productivity are limited.",
+        "content": "Amid concerns over artificial intelligence's impact on jobs, a consultancy firm on Monday said the adoption of the technology can 'reshape' half of the roles in the Indian banking sector.\nIn what may come as a concerning outcome for banks, Boston Con... [2336 chars]",
+        "url": "https://www.ndtvprofit.com/technology/ai-can-reshape-half-of-roles-in-indian-banking-report",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-01-08%2Fg1evop0s%2FDALL%C2%B7E-2025-01-08-14.48.58-A-modern-office-environment-with-professionals-working-on-AI-robotics-and-semiconductors.-Some-workers-are-using-computers-with-AI-driven-software-.webp?w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-08-25T17:29:55Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
             "country": "in"
         }
     },
     {
-        "id": "752e8390dce31be1e2fda6a182f6516e",
-        "title": "Elon Musk sues Apple, Sam Altman's OpenAI for allegedly colluding to crush xAI",
-        "description": "Billionaire Elon Musk filed a bombshell lawsuit against Apple and Sam Altman’s OpenAI on Monday, accusing the two tech giants of illegally colluding to stifle xAI and other artificial intelligence rivals.",
-        "content": "Billionaire Elon Musk filed a bombshell lawsuit against Apple and Sam Altman’s OpenAI on Monday, accusing the two tech giants of illegally colluding to stifle xAI and other artificial intelligence rivals.\nFiled in Texas federal court, the antitrust l... [2264 chars]",
-        "url": "https://nypost.com/2025/08/25/business/elon-musk-sues-apple-sam-altmans-openai-for-allegedly-colluding-to-crush-xai/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/110062304.jpg?quality=75&strip=all&w=1024",
-        "publishedAt": "2025-08-25T15:51:53Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c9fa6487c6387220b257359b975969d8",
-        "title": "Elon Musk's xAI Sues Apple, OpenAI Over AI Competition, App Store Rankings",
-        "description": "Billionaire entrepreneur Elon Musk's artificial intelligence startup xAI sued Apple and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.",
-        "content": "Billionaire entrepreneur Elon Musk's artificial intelligence startup xAI sued Apple and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.\nApple and ... [1594 chars]",
-        "url": "https://www.newsmax.com/finance/streettalk/elon-musk-xai-apple/2025/08/25/id/1223826/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=7808256b-a029-4fb4-a5d4-66dba3c4a4ff&SiteName=Newsmax",
-        "publishedAt": "2025-08-25T15:40:52Z",
+        "id": "328da82e1a27ebd13a291ae37f3812d1",
+        "title": "Google AI Search Tools Threaten Websites' Traffic",
+        "description": "Financial Times reported that many website owners and publishers are concerned that Google's artificial intelligence search tools will lead to a dramatic decrease in traffic.",
+        "content": "Many website owners and publishers are concerned that Google's artificial intelligence search tools will lead to a dramatic decrease in traffic, Financial Times reported.\nGoogle's AI Overviews generates summaries that appear at the top of search resu... [2256 chars]",
+        "url": "https://www.newsmax.com/us/google-ai-search-tools/2025/08/25/id/1223844/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9b4b3902-88b8-4389-9573-4d1deade33b1&SiteName=Newsmax",
+        "publishedAt": "2025-08-25T17:14:49Z",
         "lang": "en",
         "source": {
             "id": "a8984f03fe66dae9745793f6560aa444",
             "name": "Newsmax",
             "url": "https://www.newsmax.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "de88696b9345e1573c553076af723cbf",
-        "title": "Musk’s xAI sues Apple and OpenAI over AI competition",
-        "description": "Billionaire entrepreneur Elon Musk’s artificial intelligence startup xAI sued Apple and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.",
-        "content": "Billionaire entrepreneur Elon Musk’s artificial intelligence startup xAI sued Apple and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.\nApple and ... [1649 chars]",
-        "url": "https://www.cp24.com/news/money/2025/08/25/elon-musks-xai-sues-apple-and-openai-over-ai-competition-app-store-rankings/",
-        "image": "https://www.cp24.com/resizer/v2/K72GQ6DXLNCJHHZ6VPOXSUN2HU.jpg?smart=true&auth=80dbb57fe5e2fec760be8568be69208a7aa52fcdb3a0baac417c1369d82f573c&width=1200&height=630",
-        "publishedAt": "2025-08-25T15:34:28Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "da62029d82ea6dfcd5b423bfc54f03e3",
-        "title": "Elon Musk’s xAI sues Apple and OpenAI, accuses them of conspiring to block AI competition",
-        "description": "Elon Musk has taken his fight with Apple and OpenAI into the courtroom. On Monday, Musk’s AI startup xAI filed a lawsuit in a U.S. federal court in Texas, accusing the two companies of illegally conspiring to shut out competition in artificial intelligence, Reuters reported. The lawsuit caps weeks of tension that Musk has been",
-        "content": "Elon Musk has taken his fight with Apple and OpenAI into the courtroom. On Monday, Musk’s AI startup xAI filed a lawsuit in a U.S. federal court in Texas, accusing the two companies of illegally conspiring to shut out competition in artificial intell... [3500 chars]",
-        "url": "https://techstartups.com/2025/08/25/elon-musks-xai-sues-apple-and-openai-accuses-them-of-conspiring-to-block-ai-competition/",
-        "image": "https://techstartups.com/wp-content/uploads/2025/08/Musk-Musk.jpg",
-        "publishedAt": "2025-08-25T15:22:41Z",
-        "lang": "en",
-        "source": {
-            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-            "name": "TechStartups.com",
-            "url": "https://techstartups.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "2f6e5807ef623861f331301bcb99fe30",
-        "title": "IIT Council Gears Up for AI Innovation with New Task Force",
-        "description": "The IIT Council has announced the establishment of a task force to develop a dynamic curriculum responsive to artificial intelligence innovations. Key discussions included research commercialization, PhD educational reforms, leveraging IIT alumni, enhancing mental wellbeing, and promoting regional languages, all aimed at fostering global competitiveness.",
-        "content": "The IIT Council has announced the formation of a task force dedicated to formulating an action plan to adapt curriculum and pedagogy in response to advancements in artificial intelligence. The meeting marked the first such gathering in two years, wit... [670 chars]",
-        "url": "https://www.devdiscourse.com/article/education/3602731-iit-council-gears-up-for-ai-innovation-with-new-task-force",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/25_08_2025_08_56_53_20849.png?width=920&format=jpeg",
-        "publishedAt": "2025-08-25T15:01:15Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
