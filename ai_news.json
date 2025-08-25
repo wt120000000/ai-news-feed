@@ -1,5 +1,37 @@
 [
     {
+        "id": "6e77b3e1aa3bbe14fe743f8a0c9e153c",
+        "title": "Reasoning AI: Cracking the IIT test is a giant leap for machine-kind",
+        "description": "Recently, Google’s Gemini 2.5 Pro topped India’s IIT Joint Entrance Examination. Artificial intelligence (AI) has clearly leapt beyond mimicking patterns and can now be used in fields where reasoning is crucial.",
+        "content": "When ChatGPT first appeared in late 2022, it could charm us with words but stumbled with numbers. It could draft a sonnet in the style of Shakespeare but might guess wildly if asked to multiply 17 by 24. Two years plus later, the tables have turned. ... [5367 chars]",
+        "url": "https://www.livemint.com/opinion/online-views/chatgpt-reasoning-model-ai-google-gemini-deep-think-google-gemini-2-5-pro-openai-iit-jee-healthcare-claude-perplexit-11755865881387.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/08/23/1600x900/g1f61aa13d86b76eaa0c5713a6dc1f6c52521183452cd02a5c_1748445469727_1755970996100.jpg",
+        "publishedAt": "2025-08-25T06:30:11Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "4d0ce79d53bb155ebcf1e67bd4b4a3bc",
+        "title": "Google Asks Employees To Use More AI: Adopt Or You Will Be Left Behind In The Tech Race",
+        "description": "Google is pushing its employees to integrate artificial intelligence into their daily tasks. The company's leadership, including CEO Sundar Pichai, has highlighted the importance of adopting AI., Technology & Science, Times Now",
+        "content": "Google Asking Employees To Adopt AI\nGoogle has been optimistic towards AI, and that's a major reason why we are getting to see some decent advancements by the company in the field. However, now the war has reached home as Google has asked its employe... [1634 chars]",
+        "url": "https://www.timesnownews.com/technology-science/google-asks-employees-to-use-more-ai-adopt-or-you-will-be-left-behind-in-the-tech-race-article-152519835",
+        "image": "https://images.timesnownews.com/thumb/msid-152519868,thumbsize-25784,width-1280,height-720,resizemode-75/152519868.jpg",
+        "publishedAt": "2025-08-25T05:13:34Z",
+        "lang": "en",
+        "source": {
+            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+            "name": "Times Now",
+            "url": "https://www.timesnownews.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "e980d9935c55627dd495a7f378a12476",
         "title": "From personalised tutoring to improved accessibility, why AI can democratise higher education",
         "description": "Artificial intelligence is to be embraced rather than feared, but educators and students cannot ignore its dark side",
@@ -125,38 +157,6 @@
             "name": "CNBC",
             "url": "https://www.cnbc.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "5217e7527c0cfc1640669ae2f303f3af",
-        "title": "Editorial | First humanoid robot games are proof the future is already here",
-        "description": "From automation to athletics, the merging of artificial intelligence with robotics holds great promise, and peril.",
-        "content": "Babies are clumsy – and so are humanoid robots. That may be why so many of us were amused watching videos of the non-human competitors at the inaugural World Humanoid Robot Games in Beijing, and found them cute. While many managed to perform adequate... [1551 chars]",
-        "url": "https://www.scmp.com/opinion/comment/article/3322830/first-humanoid-robot-games-are-proof-future-already-here",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_editorial/public/d8/images/canvas/2025/08/22/209c46f4-83f6-4b57-804e-5d560b42e9ee_8f63b2a5.jpg?itok=SZ9PRDzp&v=1755858523",
-        "publishedAt": "2025-08-24T22:45:08Z",
-        "lang": "en",
-        "source": {
-            "id": "d6397b77175680e2678c0d60edcee7af",
-            "name": "South China Morning Post",
-            "url": "https://www.scmp.com",
-            "country": "hk"
-        }
-    },
-    {
-        "id": "8200789e0f13d29e443b74f9feb1950b",
-        "title": "Elon Musk’s AI Mothership Signals the Next Wave of Superintelligence?",
-        "description": "In a newly surfaced presentation, James Altucher outlines Musk’s latest artificial intelligence push - and why its scale could reshape the future.",
-        "content": "In a newly surfaced presentation, James Altucher outlines Musk’s latest artificial intelligence push - and why its scale could reshape the future.\nBaltimore, MD, Aug. 24, 2025 (GLOBE NEWSWIRE) -- The document opens with a bold claim: \"THE WORLD’S TWO... [2027 chars]",
-        "url": "https://www.manilatimes.net/2025/08/25/tmt-newswire/globenewswire/elon-musks-ai-mothership-signals-the-next-wave-of-superintelligence/2172897",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-08-24T22:12:31Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
