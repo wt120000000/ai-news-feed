@@ -1,5 +1,21 @@
 [
     {
+        "id": "e980d9935c55627dd495a7f378a12476",
+        "title": "From personalised tutoring to improved accessibility, why AI can democratise higher education",
+        "description": "Artificial intelligence is to be embraced rather than feared, but educators and students cannot ignore its dark side",
+        "content": "Students who are not already using AI are the exception today, not the rule. Image: Getty\nAs we prepare to welcome a new cohort of students to colleges, concerns continue to swirl around the biggest change to hit education – and indeed the world – ar... [6405 chars]",
+        "url": "https://www.irishtimes.com/opinion/2025/08/25/from-personalised-tutoring-to-improved-accessibility-why-ai-can-democratise-higher-education/",
+        "image": "https://www.irishtimes.com/resizer/v2/YKCB77LPHBAADL4ZS5KXRC6HOY.jpg?smart=true&auth=97917032c0250b23e9be8e12ae253309895a41825c04ad22847ead02f65f7a70&width=1200&height=630",
+        "publishedAt": "2025-08-25T05:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "dd1d806725f45e4403e75c1bb23b447a",
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com",
+            "country": "ie"
+        }
+    },
+    {
         "id": "4e026cee105bd8d6a6904ee8e49f83cd",
         "title": "'New weapon of choice': Australians are reporting fewer scams - but losing more",
         "description": "Australians are being urged to remain alert to \"emerging\" scam threats powered by artificial intelligence — from voice cloning to deepfake videos.",
@@ -141,22 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "5996af1b20470fc24d50a2f446ee9cb7",
-        "title": "KBank offers unusual early retirement scheme",
-        "description": "Driven by the impact of artificial intelligence (AI) disruption, Kasikornbank (KBank) has introduced a special early retirement (ER) programme for employees aged 45 and older, with several other banks reportedly offering similar initiatives.",
-        "content": "KBank offers unusual early retirement scheme\nListen to this article\nThe amount of KBank branches is shrinking while its mobile app adds users. The bank is offering an early retirement scheme eligible for employees age 45-59.\nDriven by the impact of a... [3347 chars]",
-        "url": "https://www.bangkokpost.com/business/general/3092472/kbank-offers-unusual-early-retirement-scheme",
-        "image": "https://static.bangkokpost.com/media/content/dcx/2025/08/25/5753340_700.jpg",
-        "publishedAt": "2025-08-24T21:56:00Z",
-        "lang": "en",
-        "source": {
-            "id": "91120a92e0d24e24fbffb6d0affabfe6",
-            "name": "Bangkok Post",
-            "url": "https://www.bangkokpost.com",
-            "country": "th"
         }
     }
 ]
