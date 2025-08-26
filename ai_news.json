@@ -1,5 +1,37 @@
 [
     {
+        "id": "ea7b6187fb39b8c24beb2cd2aa30d2b8",
+        "title": "Agentic AI has companies excited and security experts freaked out",
+        "description": "Eight in 10 corporations now use artificial intelligence agents. But security researchers keep finding how easily they're manipulated.",
+        "content": "Agentic AI is being heralded as the future of the generative AI revolution by leaders in the field. From ChatGPT’s integration of agentic features to the rise of Comet (the agent-based web browser from Perplexity) and Chinese-born Manus, the trend of... [946 chars]",
+        "url": "https://www.fastcompany.com/91392109/everyones-rolling-out-ai-agents-security-researchers-just-broke-them-in-hours",
+        "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2025/08/p-91392109-how-to-avoid-AI-agents-getting-scammed.jpg",
+        "publishedAt": "2025-08-26T11:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5ac5f32ba74846cef441099f666f2d98",
+            "name": "Fast Company",
+            "url": "https://www.fastcompany.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "738221223b078db33baf4971289fb878",
+        "title": "Saudi startup launches world's first halal AI fluent in Arabic and Islamic culture",
+        "description": "Saudi Arabia has entered the global artificial intelligence race with the launch of Humain Chat, a new Arabic-first chatbot designed to show the culture, language and values of the region.",
+        "content": "Saudi Arabia has entered the global artificial intelligence race with the launch of Humain Chat, a new Arabic-first chatbot designed to show the culture, language and values of the region. Developed by Riyadh-based startup Humain, the app is being de... [2150 chars]",
+        "url": "https://www.indiatoday.in/technology/news/story/saudi-startup-launches-worlds-first-halal-ai-fluent-in-arabic-and-islamic-culture-2777047-2025-08-26",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202508/artificial-intelligence-10590163-16x9.jpeg?VersionId=.fPOSAvAennP.oS9QGt_L6Qq0b66.t3Z",
+        "publishedAt": "2025-08-26T10:46:02Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "ed10af0d73746b50880aaaf88aebf01d",
         "title": "Where Are the Moral Guardrails on Artificial Intelligence? | Opinion",
         "description": "Artificial intelligence has been caught doing all these illegal activities. Let's review the evidence.",
@@ -48,6 +80,22 @@
         }
     },
     {
+        "id": "eaf24f42c9b3e8efe5d06329b6ca9249",
+        "title": "It will be 'shield and sword', require colossal amount of system integration: CDS Anil Chauhan on Sudarshan Chakra",
+        "description": "The chief of defence staff said the missile shield project will also have applications of artificial intelligence, advanced computation, data analytics, big data and quantum technologies",
+        "content": "India's propose air defence system -- Sudarshan Chakra -- will entail a colossal amount of integration of sensors, missiles, surveillance apparatus and artificial intelligence tools, Chief of Defence Staff Gen Anil Chauhan said on Tuesday as he artic... [4958 chars]",
+        "url": "https://www.telegraphindia.com/india/it-will-be-shield-and-sword-require-colossal-amount-of-system-integration-cds-anil-chauhan-on-sudarshan-chakra/cid/2119830",
+        "image": "https://assets.telegraphindia.com/telegraph/2025/Aug/1756198771_anil.jpg",
+        "publishedAt": "2025-08-26T08:59:44Z",
+        "lang": "en",
+        "source": {
+            "id": "93a4f054e09bde095cda5265e575a952",
+            "name": "Telegraph India",
+            "url": "https://www.telegraphindia.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "8dee6bdef17fbe54fe0559377056fb2a",
         "title": "NASA, IBM Develop 'Surya': Here's How Advanced AI Model Can Protect From Solar Storms",
         "description": "NASA has launched an advanced artificial intelligence (AI) model in collaboration with IBM that excels in analysing solar observation data, paving the way for the prediction of solar storms with higher accuracy. Known as Surya, derived from the Sanskrit word for the Sun, this model marks a major leap in the use of AI for interpreting solar images and advancing space weather prediction.",
@@ -61,6 +109,22 @@
             "name": "NDTV Profit",
             "url": "https://www.ndtvprofit.com",
             "country": "in"
+        }
+    },
+    {
+        "id": "b34372509f2f3fd0bcf708a25cb6b3ac",
+        "title": "Customs clearance: AI-based risk management system to be activated soon",
+        "description": "Pakistan is set to roll out artificial intelligence (AI)-based risk management systems in its customs clearance...",
+        "content": "Pakistan is set to roll out artificial intelligence (AI)-based risk management systems in its customs clearance process, as part of the government’s wider reforms aimed at boosting revenue and facilitating trade.\nThe development came during a review ... [1908 chars]",
+        "url": "https://www.brecorder.com/news/40379722/customs-clearance-ai-based-risk-management-system-to-be-activated-soon",
+        "image": "https://i.brecorder.com/large/2025/08/261324507b828ef.webp",
+        "publishedAt": "2025-08-26T08:25:29Z",
+        "lang": "en",
+        "source": {
+            "id": "5c8d93bfca2d486f14a94e72edb17b6c",
+            "name": "Business Recorder",
+            "url": "https://www.brecorder.com",
+            "country": "pk"
         }
     },
     {
@@ -93,70 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "d91e213e554f670eaee702e2226d0dfd",
-        "title": "Study says AI chatbots inconsistent in handling suicide-related queries",
-        "description": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the…",
-        "content": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering…\nA study of how three popular artificial intelligence chatbots respond to queries about suicide found that they g... [6111 chars]",
-        "url": "https://wtop.com/national/2025/08/study-says-ai-chatbots-inconsistent-in-handling-suicide-related-queries/",
-        "image": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-        "publishedAt": "2025-08-26T08:06:21Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c7b5919f6bcd4f7a889b91b0932f80d5",
-        "title": "AI chatbots found to be inconsistent in answering questions about suicide",
-        "description": "Three widely used artificial intelligence chatbots generally do a good job responding to very-high-risk and very-low-risk questions about suicide, but they are inconsistent in answering questions about suicide that may pose intermediate risks, according to a new study appearing in Psychiatric Services.",
-        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nCredit: Unsplash/CC0 Public Domain\nThree widely used artificial intel... [3904 chars]",
-        "url": "https://medicalxpress.com/news/2025-08-ai-chatbots-inconsistent-suicide.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2024/chatgpt.jpg",
-        "publishedAt": "2025-08-26T08:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "d69a3e40d564def4f594c30ee2dc8f58",
-        "title": "End of the office? 51% of workers predict office exit: Survey",
-        "description": "AI is fast reshaping workplace models worldwide. A new survey shows that 51 per cent of employees believe artificial intelligence will eventually make physical offices redundant, pushing companies to rethink flexibility, productivity, and the future of work.",
-        "content": "Physical offices may soon lose their relevance, and employees are likely to have more remote jobs. A new GoTo study, The Pulse of Work in 2025: Trends, Truths, and the Practicality of AI, shows that 51% of employees believe artificial intelligence co... [2860 chars]",
-        "url": "https://www.indiatoday.in/education-today/latest-studies/story/end-of-the-office-51-of-workers-predict-office-exit-survey-2776908-2025-08-26",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202508/goto-survey-263132907-16x9_0.jpeg?VersionId=QID8T8aVhQaCA1v7NW56e4X0MGysXJYt",
-        "publishedAt": "2025-08-26T07:32:52Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "024d4352cef148e96d454f3d201a64ff",
-        "title": "PathAI Expands AISight® Dx Primary Diagnosis Clearance to Support VENTANA DP 200 and DP 600 Slide Scanners Through Predetermined Change Control Plan (PCCP)",
-        "description": "BOSTON, Aug. 26, 2025 (GLOBE NEWSWIRE) -- PathAI, a global leader in artificial intelligence (AI) and digital pathology solutions, today announced the expansion of the AISight® Dx digital pathology image management system 510(k) label (K243391) to include the VENTANA® DP 200 and DP 600 whole slide scanners cleared in 2024 as part of the Roche Digital Pathology Dx medical device (K232879 and K242783). This expansion demonstrates PathAI’s ongoing commitment to ensuring AISight® Dx supports the broadest range of whole slide imaging scanners used across pathology laboratories.",
-        "content": "BOSTON, Aug. 26, 2025 (GLOBE NEWSWIRE) -- PathAI, a global leader in artificial intelligence (AI) and digital pathology solutions, today announced the expansion of the AISight® Dx digital pathology image management system 510(k) label ( K243391 ) to ... [2725 chars]",
-        "url": "https://www.manilatimes.net/2025/08/26/tmt-newswire/globenewswire/pathai-expands-aisight-dx-primary-diagnosis-clearance-to-support-ventana-dp-200-and-dp-600-slide-scanners-through-predetermined-change-control-plan-pccp/2173627",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/26/725898.png",
-        "publishedAt": "2025-08-26T07:06:49Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
