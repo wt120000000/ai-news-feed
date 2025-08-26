@@ -1,5 +1,37 @@
 [
     {
+        "id": "697e6de30d3a706d8ac590f996c275d8",
+        "title": "US Attorneys General tell AI companies they 'will be held accountable' for child safety failures",
+        "description": "The US Attorneys General of 44 jurisdictions have signed a letter, urging AI companies to protect children \"from exploitation by predatory artificial intelligence products.\"",
+        "content": "The US Attorneys General of 44 jurisdictions have signed a letter [PDF] addressed to the Chief Executive Officers of multiple AI companies, urging them to protect children \"from exploitation by predatory artificial intelligence products.\" In the lett... [1917 chars]",
+        "url": "https://www.engadget.com/ai/us-attorneys-general-tell-ai-companies-they-will-be-held-accountable-for-child-safety-failures-035213253.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/Q3y6.ewFlBQY85RqKIaOaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/c8ebf7b0-821f-11f0-9fba-8c0b812e43df",
+        "publishedAt": "2025-08-26T03:52:13Z",
+        "lang": "en",
+        "source": {
+            "id": "549a7a859b2345bbe231b00e7244ef99",
+            "name": "Engadget",
+            "url": "https://www.engadget.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "5fa3727a41d133a89245c6750eef6071",
+        "title": "Musk's xAI sues Apple, OpenAI alleging antitrust violations",
+        "description": "WASHINGTON, D.C. — Elon Musk's companies xAI and X filed a sweeping US antitrust lawsuit Monday against Apple and OpenAI, alleging the tech giants formed an illegal partnership to stifle competition in artificial intelligence and smartphone markets.",
+        "content": "WASHINGTON, D.C. — Elon Musk's companies xAI and X filed a sweeping US antitrust lawsuit Monday against Apple and OpenAI, alleging the tech giants formed an illegal partnership to stifle competition in artificial intelligence and smartphone markets.\n... [2364 chars]",
+        "url": "https://www.manilatimes.net/2025/08/26/business/foreign-business/musks-xai-sues-apple-openai-alleging-antitrust-violations/2173551",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/26/725772.jpg",
+        "publishedAt": "2025-08-26T03:22:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "080bbbefdd83660b194667497a29ddbb",
         "title": "Generative AI model scans emergency notes to identify high-risk avian influenza exposures",
         "description": "Researchers from the University of Maryland School of Medicine developed a new and highly effective application of an artificial intelligence (AI) tool to quickly scan notes in electronic medical records and identify high-risk patients who may have been infected with H5N1 avian influenza or \"bird flu\", according to new findings published in the journal Clinical Infectious Diseases.",
@@ -124,38 +156,6 @@
             "id": "3a3847d645a619320aa3b3484581e395",
             "name": "CBS News",
             "url": "https://www.cbsnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9ab542b95625581a5f668f175314c83a",
-        "title": "Lens Technology accelerates Liquid Cooling Innovations for AI Systems",
-        "description": "HONG KONG SAR - Media OutReach Newswire - 18 August 2025 - The rapid advancement of artificial intelligence has significantly increased GPU power demands, leading to a substantial rise in power consumption across data centers, from individual GPU chips to entire server racks. This surge in power usage has resulted in heightened heat generation. Liquid cooling technology, utilizing direct or indirect liquid contact with heat-generating components, delivers superior thermal dissipation efficiency. This capability effectively addresses the rigorous thermal management needs of server racks and data centers, positioning liquid cooling as the essential solution for next-generation high-performance computing servers.",
-        "content": "HONG KONG SAR - Media OutReach Newswire - 18 August 2025 - The rapid advancement of artificial intelligence has significantly increased GPU power demands, leading to a substantial rise in power consumption across data centers, from individual GPU chi... [2866 chars]",
-        "url": "https://www.manilatimes.net/2025/08/26/tmt-newswire/media-outreach-newswire/lens-technology-accelerates-liquid-cooling-innovations-for-ai-systems/2173491",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/26/725651.png",
-        "publishedAt": "2025-08-25T22:18:46Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "70f3de16ea70efae575dcd3a0a8edf4c",
-        "title": "First lady Melania Trump will head effort to teach next generation about AI",
-        "description": "First lady Melania Trump will lead the Presidential Artificial Intelligence Challenge to inspire children and teachers to embrace AI technology and help accelerate innovation in the field.",
-        "content": "In an exclusive statement to the New York Post, first lady Melania Trump has revealed her next official project: leading the Presidential Artificial Intelligence Challenge to inspire children and teachers to embrace AI technology and help accelerate ... [4097 chars]",
-        "url": "https://nypost.com/2025/08/25/opinion/first-lady-melania-trump-will-head-effort-to-teach-next-generation-about-ai/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-yaeqf0kq9-1756158252282.jpg?quality=75&strip=all&1756143912&w=1024",
-        "publishedAt": "2025-08-25T22:01:09Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
             "country": "us"
         }
     }
