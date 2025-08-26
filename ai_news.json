@@ -1,5 +1,37 @@
 [
     {
+        "id": "ed10af0d73746b50880aaaf88aebf01d",
+        "title": "Where Are the Moral Guardrails on Artificial Intelligence? | Opinion",
+        "description": "Artificial intelligence has been caught doing all these illegal activities. Let's review the evidence.",
+        "content": "Advocates for ideas and draws conclusions based on the interpretation of facts and data.\nNewsweek AI is in beta. Translations may contain inaccuracies—please refer to the original content.\nI've spent years as a criminal prosecutor. But lately, I've b... [5005 chars]",
+        "url": "https://www.newsweek.com/where-are-moral-guardrails-artificial-intelligence-opinion-2117164",
+        "image": "https://d.newsweek.com/en/full/2709264/boy-using-phone.jpg",
+        "publishedAt": "2025-08-26T10:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+            "name": "Newsweek",
+            "url": "https://www.newsweek.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "8f36aad0e9e703522307b9fb6e5392b7",
+        "title": "2025 AI Fest highlights future growth prospects for PH",
+        "description": "THE country is poised to ride in the global artificial intelligence (AI) economy as the Department of Science and Technology (DOST) held its 2025 AI Fest to mark a significant milestone in its drive for inclusive growth and sustainable development.",
+        "content": "FUTURE-PROOFING COMMUNITIES Department of Science and Technology (DOST) Secretary Renato Solidum Jr. graces the first 2025 Artificial Intelligence Fest in the Philippines at Iloilo Convention Center on Aug. 11, 2025. PHOTO FROM DOST\nTHE country is po... [4420 chars]",
+        "url": "https://www.manilatimes.net/2025/08/26/tmt-newswire/2025-ai-fest-highlights-future-growth-prospects-for-ph/2173689",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/26/726067.jpg",
+        "publishedAt": "2025-08-26T09:27:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "b38029c57e628277bcf51e41c1037f9c",
         "title": "Hong Kong wealth fund, Beijing AI academy team up to hunt for global AI talent",
         "description": "Hong Kong’s US$8 billion start-up investment fund partners with the Beijing Academy of Artificial Intelligence in a new talent initiative.",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "3d1cc209c5df90a91860e389cf2b7d9e",
-        "title": "Brokerage Firms Bullish On RIL Shares Ahead Of AGM; Key Announcements To Watch On August 26",
-        "description": "Reliance AGM: Investors are looking forward to new updates on JioBrain, an advanced AI platform designed to embed artificial intelligence across both consumer and enterprise services., Industry, Times Now",
-        "content": "UBS has released this update just in time, ahead of Reliance Industries' highly anticipated Annual General Meeting.\nGlobal brokerage UBS has resumed coverage on Reliance Industries Ltd. (RIL) with a bullish stance, assigning a ‘Buy’ rating and a pric... [2597 chars]",
-        "url": "https://www.timesnownews.com/business-economy/industry/brokerage-firms-bullish-on-ril-shares-ahead-of-agm-key-announcements-to-watch-on-august-26-article-152526171",
-        "image": "https://images.timesnownews.com/thumb/msid-152526175,thumbsize-641252,width-1280,height-720,resizemode-75/152526175.jpg",
-        "publishedAt": "2025-08-26T07:06:02Z",
-        "lang": "en",
-        "source": {
-            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-            "name": "Times Now",
-            "url": "https://www.timesnownews.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d445373ab4719f8d1d41ac6253669153",
-        "title": "AI Makes It Harder for Entry-Level Coders to Find Jobs, Study Says",
-        "description": "Artificial intelligence is making it harder for entry-level workers in the US to find jobs in fields like software development and customer service, according to new research.",
-        "content": "Artificial intelligence is making it harder for entry-level workers in the US to find jobs in fields like software development and customer service, according to new research.\nIn a study released Tuesday, Stanford University researchers said they fou... [479 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-26/ai-makes-it-harder-for-entry-level-coders-to-find-jobs-study-says",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBMOzcX9ellI/v0/1200x759.jpg",
-        "publishedAt": "2025-08-26T07:01:18Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
         }
     }
 ]
