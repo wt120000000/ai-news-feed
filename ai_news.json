@@ -48,6 +48,22 @@
         }
     },
     {
+        "id": "3bb5f98efa33b791a0d133d97f2ecbab",
+        "title": "Book authors settle copyright lawsuit with AI company Anthropic",
+        "description": "SAN FRANCISCO (AP) — A group of book authors has reached a settlement agreement with artificial intelligence company Anthropic after suing the chatbot maker for…",
+        "content": "SAN FRANCISCO (AP) — A group of book authors has reached a settlement agreement with artificial intelligence company Anthropic after…\nSAN FRANCISCO (AP) — A group of book authors has reached a settlement agreement with artificial intelligence company... [1680 chars]",
+        "url": "https://wtop.com/national/2025/08/book-authors-settle-copyright-lawsuit-with-ai-company-anthropic/",
+        "image": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+        "publishedAt": "2025-08-26T21:44:26Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "499ca139b3426e24a2308ad508e0f849",
         "title": "Meta launches new California PAC to back pro-AI political candidates",
         "description": "Meta launched a new Super PAC in California to support political candidates who back pro-artificial intelligence policies and oppose strict regulation.",
@@ -141,22 +157,6 @@
             "name": "The Boston Globe",
             "url": "https://www.bostonglobe.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "5b3124cdfdbe29ede6ed3c058b1e971f",
-        "title": "Study says AI chatbots inconsistent in handling suicide-related queries",
-        "description": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance. But they are inconsistent in their replies to less extreme prompts that could still harm…",
-        "content": "By BARBARA ORTUTAY and MATT O'BRIEN\nA study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to... [6030 chars]",
-        "url": "https://japantoday.com/category/tech/study-says-ai-chatbots-inconsistent-in-handling-suicide-related-queries",
-        "image": "https://japantoday.com/images/japan-today-social.jpg",
-        "publishedAt": "2025-08-26T20:10:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
