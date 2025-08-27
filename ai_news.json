@@ -1,5 +1,37 @@
 [
     {
+        "id": "efa3660c1451dc3bc964cd32d0e08653",
+        "title": "OpenAI, Anthropic Team Up for Research on Hallucinations, Jailbreaking",
+        "description": "OpenAI and Anthropic, two of the biggest rivals in artificial intelligence, recently evaluated each others’ models in an effort to better understand issues that their own tests may have missed.",
+        "content": "OpenAI and Anthropic , two of the biggest rivals in artificial intelligence, recently evaluated each others’ models in an effort to better understand issues that their own tests may have missed.\nIn posts on both companies’ blogs on Wednesday, OpenAI ... [293 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-27/openai-anthropic-team-up-for-research-on-hallucinations-jailbreaking",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izB.RlJVelrM/v1/1200x800.jpg",
+        "publishedAt": "2025-08-27T17:06:06Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "27d1f61842b00940fedee744b74b25da",
+        "title": "AI speeding up cyberattacks",
+        "description": "ARTIFICIAL intelligence (AI) is dramatically stepping up the speed and scale of cyberattacks, allowing hackers to launch more complex and damaging operations in hours, or even minutes, according to cybersecurity firm Palo Alto Networks.",
+        "content": "ARTIFICIAL intelligence (AI) is dramatically stepping up the speed and scale of cyberattacks, allowing hackers to launch more complex and damaging operations in hours, or even minutes, according to cybersecurity firm Palo Alto Networks.\nIn a media br... [2795 chars]",
+        "url": "https://www.manilatimes.net/2025/08/28/business/top-business/ai-speeding-up-cyberattacks/2174742",
+        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2025-08-27T16:35:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "1e0ddbfdccad6725ad32b4ade7776fed",
         "title": "Global Study Flags Alarming Decline in Independent Tech Research",
         "description": "Independent researchers studying the effects of artificial intelligence, social media, and digital platforms say their work is being squeezed just as reliance on these systems grows. A new report from the Coalition for Independent Technology Research (CITR) warns that without stronger support, society risks losing its ability to scrutinize the technologies driving economic and political life.",
@@ -125,38 +157,6 @@
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "8fc65be305b018d04f7728d04d1d5882",
-        "title": "Too late to buy Nvidia stock? Pick these 2 alternatives instead",
-        "description": "Nvidia remains the clear leader in artificial intelligence (AI) chips, with record demand driving its valuation to historic highs.",
-        "content": "Nvidia (NASDAQ: NVDA) remains the clear leader in artificial intelligence (AI) chips, with record demand driving its valuation to historic highs. All eyes are now on the company’s August 27 earnings, where Wall Street expects another blockbuster repo... [2688 chars]",
-        "url": "https://finbold.com/too-late-to-buy-nvidia-stock-pick-these-2-alternatives-instead/",
-        "image": "https://assets.finbold.com/uploads/2025/08/Too-late-to-buy-Nvidia-stock-Pick-these-2-alternatives-instead.jpg",
-        "publishedAt": "2025-08-27T14:29:25Z",
-        "lang": "en",
-        "source": {
-            "id": "72ea416416ab0eec8fe687d6262961e8",
-            "name": "Finbold",
-            "url": "https://finbold.com",
-            "country": "bg"
-        }
-    },
-    {
-        "id": "64f7d980c692ee1f86fe85f6a2f2f237",
-        "title": "New Michigan laws ban AI-generated pornography",
-        "description": "It's now illegal in Michigan to create images via artificial intelligence that falsely portrays a specific person in sexual activity or situations.",
-        "content": "It's now illegal in Michigan to create images via artificial intelligence that falsely portray a specific person in sexual activity or situations.\nGov. Gretchen Whitmer signed the package of two bills Ton uesday that are meant to protect people from ... [1469 chars]",
-        "url": "https://www.cbsnews.com/detroit/news/michigan-laws-ban-ai-deep-fake-pornography/",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/27/f074f78c-475f-480d-a628-e178e4fe0b29/thumbnail/1200x630/b3a41cb8b36300a70d79a36ed82ceaf6/gettyimages-2162660796.jpg",
-        "publishedAt": "2025-08-27T14:28:47Z",
-        "lang": "en",
-        "source": {
-            "id": "3a3847d645a619320aa3b3484581e395",
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com",
-            "country": "us"
         }
     }
 ]
