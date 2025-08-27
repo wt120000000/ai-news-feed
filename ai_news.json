@@ -1,5 +1,21 @@
 [
     {
+        "id": "2164af16abcfb3f105fc592441bdf998",
+        "title": "Asian Tech Shares Rise Before Nvidia’s Earnings: Markets Wrap",
+        "description": "Technology shares advanced in Asia before Nvidia Corp.’s earnings as investors awaited its take on chip demand to gauge the sustainability of a global stock rally since April. The artificial intelligence theme remains a focus with Chinese AI linchpin Cambricon Technologies Corp. jumping as much as 8.2% to its highest ever after a record profit. Nikon Corp. shares jumped 21% in Japan. Nvidia will report after the bell Wednesday.",
+        "content": "Technology shares advanced in Asia before Nvidia Corp.’s earnings as investors awaited its take on chip demand to gauge the sustainability of a global stock rally since April.\nThe artificial intelligence theme remains a focus with Chinese AI linchpin... [1135 chars]",
+        "url": "https://www.ndtvprofit.com/markets/global-stock-market-news-august-27-dow-jones-nikkei-hang-send-s-and-p-500-nasdaq",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-08-27%2F8dhvej5y%2F438564394.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-08-27T03:51:11Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "0ba53fe03a97098b39111ba14d2bc2f5",
         "title": "Cake Named Vietnam's Best Digital Bank of the Year by International Banker",
         "description": "HO CHI MINH CITY, Vietnam, Aug. 27, 2025 /PRNewswire/ -- Cake Digital Bank (Cake), Vietnam's leading digital-only bank, has been named 'Best Digital Bank of the Year' by International Banker, a UK-based financial publication. This recognition highlights Cake's pioneering role in applying cutting-edge technology and artificial intelligence (AI) to banking operations, while showcasing the strength of a fully 'make in Vietnam' digital banking platform.",
@@ -141,22 +157,6 @@
             "name": "Reuters",
             "url": "https://www.reuters.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "11ad7346b29af2cc01544afe87473304",
-        "title": "Lens Technology accelerates Liquid Cooling Innovations for AI Systems",
-        "description": "HONG KONG SAR - Media OutReach Newswire - 18 August 2025 - The rapid advancement of artificial intelligence has significantly increased GPU power demands, leading to a substantial rise in power consumption across data centers, from individual GPU chips to entire server racks. This surge in power usage has resulted in heightened heat generation. Liquid cooling technology, utilizing direct or indirect liquid contact with heat-generating components, delivers superior thermal dissipation efficiency. This capability effectively addresses the rigorous thermal management needs of server racks and data centers, positioning liquid cooling as the essential solution for next-generation high-performance computing servers.",
-        "content": "HONG KONG SAR - Media OutReach Newswire - 18 August 2025 - The rapid advancement of artificial intelligence has significantly increased GPU power demands, leading to a substantial rise in power consumption across data centers, from individual GPU chi... [2866 chars]",
-        "url": "https://www.manilatimes.net/2025/08/27/tmt-newswire/media-outreach-newswire/lens-technology-accelerates-liquid-cooling-innovations-for-ai-systems/2174212",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/27/726963.png",
-        "publishedAt": "2025-08-26T22:01:28Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
