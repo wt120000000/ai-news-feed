@@ -1,5 +1,21 @@
 [
     {
+        "id": "846cba0b689b5cea402ac2090f06a723",
+        "title": "Readers sound off on labeling AI content, post-prison housing and Snoop Dogg",
+        "description": "Stamford, Conn.: I’m obviously not alone when I occasionally check my social media feeds. The quantity of content seems endless and is often entertaining and informative. However, as artificial intelligence becomes increasingly sophisticated, AI-generated clips, images and written content is making it impossible to distinguish fact from fiction.",
+        "content": "Make AI tell on itself, because we can’t tell\nStamford, Conn.: I’m obviously not alone when I occasionally check my social media feeds. The quantity of content seems endless and is often entertaining and informative. However, as artificial intelligen... [8181 chars]",
+        "url": "https://www.nydailynews.com/2025/08/27/readers-sound-off-on-labeling-ai-content-post-prison-housing-and-snoop-dogg/",
+        "image": "https://www.nydailynews.com/wp-content/uploads/2025/08/rgfgdfh.jpg?w=773&h=435",
+        "publishedAt": "2025-08-27T07:00:34Z",
+        "lang": "en",
+        "source": {
+            "id": "3fac65098bad206a4847f7fdbac9f170",
+            "name": "New York Daily News",
+            "url": "https://www.nydailynews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "dee580470eeea12acbb4b9d7882e7a0c",
         "title": "Digital twin technology with AI to boost efficiency and reliability in pharmaceutical manufacturing",
         "description": "Cambridge Advanced Research and Education in Singapore (CARES), the University of Cambridge's first overseas research centre, together with the A*STAR Institute for Infocomm Research (A*STAR I2R) has developed a digital twin platform that uses artificial intelligence (AI) and real-time plant data to enhance fault detection, system monitoring, and predictive maintenance in pharmaceutical manufacturing.The technology will be commercialised through Chemical Data Intelligence, a CARES spin-off, and will be made available to the Pharma Innovation Programme Singapore (PIPS) Consortium.SINGAPORE, Aug. 27, 2025 /PRNewswire/ -- Pharmaceutical manufacturing demands consistency, high precision, and continuous improvement to ensure the safety and quality of medicines. The new platform automates the development of digital twins, which are virtual replicas of production lines, to optimise plant operations, detect anomalies early, and support data-driven decision-making.   The technology has shown key advantages of an ontology-based digital twin to improve system understanding, refine predictions, and supports the addition of flexible, new workflow agents for future digital development and manufacturing.",
@@ -141,22 +157,6 @@
             "name": "Telegraph India",
             "url": "https://www.telegraphindia.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "62c525e8a40e9a9c6a6024ddea285dd8",
-        "title": "OpenAI agrees to change ChatGPT after teenager’s suicide",
-        "description": "The artificial intelligence company said that it will update its popular chatbot to better respond to people with mental distress following a lawsuit.",
-        "content": "San Francisco | OpenAI is making changes to its popular chatbot following a lawsuit alleging that a teenager who died by suicide this year relied on ChatGPT as a coach.\nIn a blog post on Tuesday (Wednesday AEST), the artificial intelligence company s... [298 chars]",
-        "url": "https://www.afr.com/world/north-america/openai-agrees-to-update-chatgpt-after-teenager-s-suicide-20250827-p5mq7x",
-        "image": "https://static.ffx.io/images/$zoom_0.2327%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_15/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6ca2b0b4fb9ffe8b24183c01ebc89f05f0eeb5bc",
-        "publishedAt": "2025-08-27T00:34:38Z",
-        "lang": "en",
-        "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "The Australian Financial Review",
-            "url": "https://www.afr.com",
-            "country": "au"
         }
     }
 ]
