@@ -1,5 +1,21 @@
 [
     {
+        "id": "dee580470eeea12acbb4b9d7882e7a0c",
+        "title": "Digital twin technology with AI to boost efficiency and reliability in pharmaceutical manufacturing",
+        "description": "Cambridge Advanced Research and Education in Singapore (CARES), the University of Cambridge's first overseas research centre, together with the A*STAR Institute for Infocomm Research (A*STAR I2R) has developed a digital twin platform that uses artificial intelligence (AI) and real-time plant data to enhance fault detection, system monitoring, and predictive maintenance in pharmaceutical manufacturing.The technology will be commercialised through Chemical Data Intelligence, a CARES spin-off, and will be made available to the Pharma Innovation Programme Singapore (PIPS) Consortium.SINGAPORE, Aug. 27, 2025 /PRNewswire/ -- Pharmaceutical manufacturing demands consistency, high precision, and continuous improvement to ensure the safety and quality of medicines. The new platform automates the development of digital twins, which are virtual replicas of production lines, to optimise plant operations, detect anomalies early, and support data-driven decision-making.   The technology has shown key advantages of an ontology-based digital twin to improve system understanding, refine predictions, and supports the addition of flexible, new workflow agents for future digital development and manufacturing.",
+        "content": "Cambridge Advanced Research and Education in Singapore (CARES), the University of Cambridge's first overseas research centre, together with the A*STAR Institute for Infocomm Research (A*STAR I2R) has developed a digital twin platform that uses artifi... [4860 chars]",
+        "url": "https://www.manilatimes.net/2025/08/27/tmt-newswire/pr-newswire/digital-twin-technology-with-ai-to-boost-efficiency-and-reliability-in-pharmaceutical-manufacturing/2174304",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/27/727155.jpg",
+        "publishedAt": "2025-08-27T05:20:27Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "3d4bff87bb0dd8d96572c8fede757ac3",
         "title": "Nvidia to report quarterly earnings",
         "description": "Artificial intelligence bellwether Nvidia is poised to release a quarterly report that’s expected provide a better sense about whether the stock market has been riding on an overhyped bubble or whether it’s being propelled by a technological boom that’s still gathering momentum.",
@@ -141,22 +157,6 @@
             "name": "The Australian Financial Review",
             "url": "https://www.afr.com",
             "country": "au"
-        }
-    },
-    {
-        "id": "3a2589d73484d2de8d27cf12688d20ec",
-        "title": "Nvidia's quarterly report will gauge the temperature of the AI craze",
-        "description": "Artificial intelligence bellwether Nvidia is poised to release a quarterly report that’s expected provide a better sense about whether the stock market has been riding on an overhyped bubble or whether it’s being propelled by a technological boom that’s still gathering momentum",
-        "content": "SAN FRANCISCO (AP) — Artificial intelligence bellwether Nvidia is poised to release a quarterly report that's expected provide a better sense about whether the stock market has been riding on an overhyped bubble or whether it's being propelled by a t... [4367 chars]",
-        "url": "https://www.marketbeat.com/articles/nvidias-quarterly-report-will-gauge-the-temperature-of-the-ai-craze-2025-08-27/",
-        "image": "https://www.marketbeat.com/images/MarketBeat-icon-256x256.png",
-        "publishedAt": "2025-08-27T00:32:38Z",
-        "lang": "en",
-        "source": {
-            "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
-            "name": "MarketBeat",
-            "url": "https://www.marketbeat.com",
-            "country": "us"
         }
     }
 ]
