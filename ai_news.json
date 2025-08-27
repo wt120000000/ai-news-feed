@@ -1,5 +1,21 @@
 [
     {
+        "id": "b2d1acdcddd0a8522ae1d085cebd4fec",
+        "title": "Man tests ChatGPT by asking it to count to 1 million, gets unexpected reply",
+        "description": "A viral video shows a man asking ChatGPT to count to one million. The AI declined, calling it impractical and time-consuming, sparking online debate about the limits and usefulness of artificial intelligence.",
+        "content": "A video of a man testing the limits of generative AI by asking ChatGPT to count to one million has gone viral online. The chatbot declined the request, saying the task was impractical, sparking conversations about the boundaries of artificial intelli... [1332 chars]",
+        "url": "https://www.livemint.com/news/trends/man-tests-chatgpt-by-asking-it-to-count-to-1-million-gets-unexpected-reply-11756283543509.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/08/27/1600x900/pexels-photo-16094040_1756283856294_1756283884969.jpeg",
+        "publishedAt": "2025-08-27T08:43:03Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "c0ba52d312776791077b5c55af1a5057",
         "title": "National AI fund proposed to boost artificial intelligence research, innovation",
         "description": "ISLAMABAD  -  A National Artificial Intelligence Fund (NAIF) has been proposed under the National AI Policy to support research, development, and",
@@ -64,6 +80,22 @@
         }
     },
     {
+        "id": "821469ee7660a35ca4df52b6715a8a33",
+        "title": "Nvidia’s quarterly report will gauge the temperature of the AI craze",
+        "description": "SAN FRANCISCO (AP) — Artificial intelligence bellwether Nvidia is poised to release a quarterly report that's expected provide a better sense about whether the…",
+        "content": "SAN FRANCISCO (AP) — Artificial intelligence bellwether Nvidia is poised to release a quarterly report that’s expected provide a better…\nSAN FRANCISCO (AP) — Artificial intelligence bellwether Nvidia is poised to release a quarterly report that’s exp... [4056 chars]",
+        "url": "https://wtop.com/national/2025/08/nvidias-quarterly-report-will-gauge-the-temperature-of-the-ai-craze/",
+        "image": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+        "publishedAt": "2025-08-27T05:01:16Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "3d4bff87bb0dd8d96572c8fede757ac3",
         "title": "Nvidia to report quarterly earnings",
         "description": "Artificial intelligence bellwether Nvidia is poised to release a quarterly report that’s expected provide a better sense about whether the stock market has been riding on an overhyped bubble or whether it’s being propelled by a technological boom that’s still gathering momentum.",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "c24ed60da7f28f0a3d31896de924b44b",
-        "title": "Melania Trump launches Presidential AI challenge for students: What pupils, parents and teachers need to know",
-        "description": "News News: First Lady Melania Trump has launched the Presidential AI Challenge, inviting US pupils in grades K-12 to use artificial intelligence to solve local c",
-        "content": "Melania Trump invites K-12 students to participate in nationwide AI challenge contest. (AP File Photo)\nChallenge invites pupils to address community issues using AI\nA focus on teamwork and real-world application\nTimeline and competition structure\nMel... [3124 chars]",
-        "url": "https://timesofindia.indiatimes.com/education/news/melania-trump-launches-presidential-ai-challenge-for-students-what-pupils-parents-and-teachers-need-to-know/articleshow/123535496.cms",
-        "image": "https://static.toiimg.com/thumb/msid-123535509,width-1070,height-580,imgsize-108798,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-08-27T01:29:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c35abeed2cecc29d303a8b4ad911253a",
-        "title": "Alibaba results likely to show limited AI payoff for China tech",
-        "description": "China's Alibaba is likely to highlight its artificial intelligence strategy with its quarterly results on Friday, but in line with its peers Tencent and Baidu , may struggle to show that its big AI investments are paying off.",
-        "content": "People visit an Alibaba booth during the World Artificial Intelligence Conference in Shanghai, China July 26, 2025. REUTERS/Go Nakamura/File Photo Purchase Licensing Rights , opens new tab\nItem 1 of 2 People visit an Alibaba booth during the World Ar... [4007 chars]",
-        "url": "https://www.reuters.com/business/media-telecom/alibaba-results-likely-show-limited-ai-payoff-china-tech-2025-08-27/",
-        "image": "https://www.reuters.com/resizer/v2/ANDR75I7GFOOLDNZNYJOGDHC2A.jpg?auth=5a601263f9b4dcc4720f80d2b0e7a3b7c09be444b8475efd8877464efc761fd0&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-08-27T01:18:03Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
         }
     }
 ]
