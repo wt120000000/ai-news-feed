@@ -1,5 +1,53 @@
 [
     {
+        "id": "e85eb3c2e4a6d61f9a3471f5f8a4faf4",
+        "title": "Nvidia Reports Earnings Today. What You Need To Know",
+        "description": "Nvidia, the AI chipmaker at the heart of the artificial intelligence boom, is set to release its latest quarterly results after markets close later today, in what could prove to be a market-moving event.",
+        "content": "Key Takeaways Nvidia is scheduled to release its second-quarter results after markets close later today.\nAnalysts expect the AI chipmaker to post record sales, despite an anticipated hit from export curbs.\nAs the world's most valuable company, a big ... [1659 chars]",
+        "url": "https://www.investopedia.com/nvidia-reports-earnings-today-what-you-need-to-know-11798794",
+        "image": "https://www.investopedia.com/thmb/4MyjFTISboA983GZXgga1ooysjA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2225215236-258017bf4cdc400aafc72814af37b867.jpg",
+        "publishedAt": "2025-08-27T17:35:36Z",
+        "lang": "en",
+        "source": {
+            "id": "c24832368cd2d9132598ad4bef08e0ab",
+            "name": "Investopedia",
+            "url": "https://www.investopedia.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "79d333922494acc19716541af773e7b9",
+        "title": "FINQ Files for Two AI-Managed U.S. Large Cap ETFs",
+        "description": "Artificial intelligence continues to reshape investing, and FINQ AI LLC is the latest next-generation fintech firm pushing the trend forward",
+        "content": "Artificial intelligence continues to reshape investing, and FINQ AI LLC is the latest next-generation fintech firm pushing the trend forward. The company, in partnership with Tidal Investments LLC, has filed a preliminary prospectus with the U.S. Sec... [3627 chars]",
+        "url": "https://techbullion.com/finq-files-for-two-ai-managed-u-s-large-cap-etfs/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/08/year-ender-2024-14-large-cap-mutual-funds-offer-over-20-return-in-2024-1000x600.webp",
+        "publishedAt": "2025-08-27T17:25:11Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "e5270c246c04ee83d8167052762038a5",
+        "title": "Latam GPT will process more than 1 billion documents ahead of debut",
+        "description": "Latam GPT, the first open-source artificial intelligence model developed in Latin America, has begun training and is processing more than 1 billion documents.",
+        "content": "In Chile, we are convinced that innovation and technology are the key tools to build a more inclusive, sustainable and competitive future,” Chilean President Gabriel Boric said when announcing the artificial intelligence project. file Photo by Elvis ... [3809 chars]",
+        "url": "https://www.upi.com/Top_News/World-News/2025/08/27/chile-chile-latamGPT-regional-languages-launch/9291756313867/",
+        "image": "https://cdnph.upi.com/sv/ph/og/i/9291756313867/2025/1/17563144001524/v1.5/Latam-GPT-will-process-more-than-1-billion-documents-ahead-of-debut.jpg",
+        "publishedAt": "2025-08-27T17:11:50Z",
+        "lang": "en",
+        "source": {
+            "id": "79baacd62152cf257ee35e8c0bec19a2",
+            "name": "UPI News",
+            "url": "https://www.upi.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "efa3660c1451dc3bc964cd32d0e08653",
         "title": "OpenAI, Anthropic Team Up for Research on Hallucinations, Jailbreaking",
         "description": "OpenAI and Anthropic, two of the biggest rivals in artificial intelligence, recently evaluated each others’ models in an effort to better understand issues that their own tests may have missed.",
@@ -109,54 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "32a2f7eb66147700d205f87d69a542cb",
-        "title": "Anthropic Says Attacker Used AI Tool in Widespread Hacks",
-        "description": "A hacker leveraged technology from Anthropic PBC as part of a vast cybercrime scheme that’s impacted at least 17 organizations, the company said, marking an “unprecedented” instance of attackers weaponizing a commercial artificial intelligence tool on a widespread basis.",
-        "content": "A hacker leveraged technology from Anthropic PBC as part of a vast cybercrime scheme that’s impacted at least 17 organizations, the company said, marking an “unprecedented” instance of attackers weaponizing a commercial artificial intelligence tool o... [519 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-27/anthropic-says-attacker-used-ai-tool-in-widespread-hacks",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix.kyjK_BeVc/v1/1200x800.jpg",
-        "publishedAt": "2025-08-27T16:07:07Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1d5cd95c9363c5c349008da714efc70a",
-        "title": "ESET discovers PromptLock, the first AI-powered ransomware",
-        "description": "ESET Research discovers PromptLock, a new type of ransomware using GenAI to execute attacks.The malware runs a locally accessible AI language model to generate malicious Lua scripts in real time, which are compatible across Windows, Linux, and macOS.PromptLock uses a freely available language model accessed via an API, meaning the generated malicious scripts are served directly to the infected device.Based on predefined text prompts, PromptLock autonomously determines whether to exfiltrate or encrypt data.While ESET considers PromptLock a proof of concept, the threat it represents is very real. BRATISLAVA, Slovakia, Aug. 27, 2025 (GLOBE NEWSWIRE) -- ESET researchers have uncovered a new type of ransomware that leverages generative artificial intelligence (GenAI) to execute attacks. Named PromptLock, the malware runs a locally accessible AI language model to generate malicious scripts in real time. During infection, the AI autonomously decides which files to search, copy, or encrypt - marking a potential turning point in how cybercriminals operate.",
-        "content": "ESET Research discovers PromptLock, a new type of ransomware using GenAI to execute attacks.\nThe malware runs a locally accessible AI language model to generate malicious Lua scripts in real time, which are compatible across Windows, Linux, and macOS... [3847 chars]",
-        "url": "https://www.manilatimes.net/2025/08/27/tmt-newswire/globenewswire/eset-discovers-promptlock-the-first-ai-powered-ransomware/2174803",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/27/728106.png",
-        "publishedAt": "2025-08-27T15:34:06Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "a41b2deb1a2e2cc12d14470c174076ff",
-        "title": "New editorial explores double-edged sword of AI scribes in health care",
-        "description": "A new editorial published in JMIR Medical Informatics examines the rapid rise of ambient artificial intelligence (AI) scribes—technologies designed to automate clinical documentation and ease the administrative burden on health care practitioners. While these tools show great promise in reducing burnout and freeing up time for patient care, the editorial highlights significant concerns that warrant further investigation.",
-        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nTerminology used for artificial intelligence (AI)–based documentation... [2260 chars]",
-        "url": "https://medicalxpress.com/news/2025-08-editorial-explores-edged-sword-ai.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2025/new-editorial-explores-1.jpg",
-        "publishedAt": "2025-08-27T14:50:04Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
         }
     }
 ]
