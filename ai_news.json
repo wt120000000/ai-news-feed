@@ -1,5 +1,21 @@
 [
     {
+        "id": "c22e2f1587ab6cb901f63f44b27c99d3",
+        "title": "Nvidia forecasts decelerating growth after two-year AI boom",
+        "description": "Nvidia Corp., the world’s most valuable company, gave a tepid revenue forecast for the current period, signaling that growth is decelerating after a staggering two-year boom in artificial intelligence spending.",
+        "content": "Nvidia Corp., the world’s most valuable company, gave a tepid revenue forecast for the current period, signaling that growth is decelerating after a staggering two-year boom in artificial intelligence spending.\nSales for the Santa Clara, Calif., comp... [7284 chars]",
+        "url": "https://www.latimes.com/business/story/2025-08-28/nvidia-forecasts-decelerating-growth-after-two-year-ai-boom",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/35a66d8/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F09%2F3f%2F11ecd47321cd47d7f84ea939dd4d%2F1x-1.jpg",
+        "publishedAt": "2025-08-28T17:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "492abf277b7277432148b61b21ddc836",
+            "name": "Los Angeles Times",
+            "url": "https://www.latimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "14146d5302910adb2a9bfee48e1e3998",
         "title": "PH accountants seen ready to level up in AI era",
         "description": "MORE than 600 accountants and business leaders gathered at JuanUp 2025 in Whitespace Manila with one clear message — the profession is ready to thrive in the age of artificial intelligence (AI). Organized by Juan by JuanTax, the event spotlighted how technology is transforming, not replacing, the accounting workforce.",
@@ -141,22 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "1ee7ef95d01c61bd5d88e144d32ebf51",
-        "title": "Nvidia CEO says AI boom far from over after tepid sales forecast",
-        "description": "SAN FRANCISCO: Nvidia CEO Jensen Huang on Wednesday (Aug 27) dismissed concern about an end to a spending boom on artificial intelligence chips and said opportunities will expand into a multi-trillion-dollar market over the next five years. Despite Huang's upbeat view on AI demand, shares of the chip desig",
-        "content": "Pushing up the chipmaker's shares are expectations of demand from Big Tech, data centre owners known as hyperscalers and China.\n\"The mega caps are the ones propelling a lot of the capex that Nvidia is benefiting from. But obviously Nvidia still is gr... [2091 chars]",
-        "url": "https://www.channelnewsasia.com/business/nvidia-jensen-huang-ai-boom-sales-forecast-chips-5318996",
-        "image": "https://dam.mediacorp.sg/image/upload/s--sSKOJ47V--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/france_vivatech_93460.jpg?itok=dH0WtLN2",
-        "publishedAt": "2025-08-28T14:36:00Z",
-        "lang": "en",
-        "source": {
-            "id": "09131c39169c9c96230862dc4c1fa727",
-            "name": "CNA",
-            "url": "https://www.channelnewsasia.com",
-            "country": "sg"
         }
     }
 ]
