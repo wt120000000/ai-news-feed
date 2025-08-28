@@ -1,5 +1,37 @@
 [
     {
+        "id": "031297bb654b604eed060c071787fcc7",
+        "title": "Stocks hit all-time highs as US economy grows faster than expected",
+        "description": "Stocks hit all-time highs after the US economy grew faster than expected during the latest quarter, boosted by strong consumer spending and big investments in artificial intelligence that eased concerns about the effects of Trump's tariffs.",
+        "content": "Stocks hit all-time highs after data revealed the US economy grew faster than expected during the latest quarter, boosted by strong consumer spending and big investments in artificial intelligence that eased concerns about the effects of Trump’s tari... [3479 chars]",
+        "url": "https://nypost.com/2025/08/28/business/stocks-hit-all-time-highs-as-us-economy-grows-faster-than-expected/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-011o3ohyj-1756411718189.jpg?quality=75&strip=all&1756397329&w=1024",
+        "publishedAt": "2025-08-28T20:46:22Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c36f6881f7fb9a0843fed515a0fa0290",
+        "title": "Is AI making doctors lazy? Study reveals overreliance may be undermining their critical skills",
+        "description": "AI in healthcare: A recent study reveals that doctors' reliance on AI tools in healthcare may be diminishing their critical skills, leading to a significant drop in diagnostic abilities, especially in colonoscopy procedures. The findings suggest a potential 'Google Maps effect' in medical practice as physicians lean more on artificial intelligence for decision-making.",
+        "content": "How AI Is Changing Medical Practice\nTIL Creatives Doctors’ skills\nLive Events\nStudy Reveals Significant Drop in Abnormality Detection Without AI Support\nWhy Relying on AI May Be Dulling Doctors’ Diagnostic Abilities\nAI in healthcare\nAI’s Impact on Cr... [4947 chars]",
+        "url": "https://economictimes.indiatimes.com/news/international/us/is-ai-making-doctors-lazy-study-reveals-overreliance-may-be-undermining-their-critical-skills/articleshow/123572334.cms",
+        "image": "https://img.etimg.com/thumb/msid-123572387,width-1200,height-630,imgsize-129525,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-08-28T20:33:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "e33172ac1d1a7ce22058ddfbbc59f5cf",
         "title": "Elon Musk’s xAI launches Grok-Code-Fast-1, a free agentic coding model to rival OpenAI and Microsoft",
         "description": "Elon Musk’s artificial intelligence startup xAI is moving into the coding space. On Thursday, the company released a new agentic coding model called grok-code-fast-1, a tool it describes as “speedy and economical.” The release marks xAI’s push into one of the most competitive frontiers in AI: building assistants that can write and manage code. The",
@@ -12,6 +44,22 @@
             "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
             "name": "TechStartups.com",
             "url": "https://techstartups.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "1f975ede52b72c360ca03e70ecd52f67",
+        "title": "Dell lifts annual forecasts on AI server sales boom",
+        "description": "Dell Technologies raised annual revenue and profit forecasts on Thursday, buoyed by demand for its artificial intelligence-optimized servers that are powered by Nvidia's advanced chips.",
+        "content": "Dell logo is seen in this illustration taken August 19, 2025. REUTERS/Dado Ruvic/Illustration/File Photo Purchase Licensing Rights , opens new tab\nShares fell more than 4% in extended trading as Dell's third-quarter profit outlook was below analysts'... [1956 chars]",
+        "url": "https://www.reuters.com/business/dell-lifts-annual-forecasts-ai-server-sales-boom-2025-08-28/",
+        "image": "https://www.reuters.com/resizer/v2/OODO332KGFKFPLA2G2VEKHYN7A.jpg?auth=e00942053b04ca84a5db9044d5766f40f9bb576b3e327847d3302e3e03053530&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-28T20:09:31Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
             "country": "us"
         }
     },
@@ -109,54 +157,6 @@
             "name": "Phys.org",
             "url": "https://phys.org",
             "country": "gb"
-        }
-    },
-    {
-        "id": "e9509345d9d4dfeb606015dfc54c9ac2",
-        "title": "Aussie firms want clear AI laws to meet tech challenge",
-        "description": "Australian businesses are adopting artificial intelligence technology but a lack of skilled workers and clear guidelines is holding others back.",
-        "content": "Amazon Web Services' Michelle Hardie says more small and nimble companies are turning to AI. (PR IMAGE PHOTO)\nAmazon Web Services' Michelle Hardie says more small and nimble companies are turning to AI. (PR IMAGE PHOTO) Credit: AAP\nLarge Australian b... [3009 chars]",
-        "url": "https://www.perthnow.com.au/news/business/aussie-firms-want-clear-ai-laws-to-meet-tech-challenge-c-19840397",
-        "image": "https://images.perthnow.com.au/publication/C-19840397/de0027d43f36514a8e4f1ecb4e304e5230ff04de-16x9-x0y0w1280h720.jpg?imwidth=1200",
-        "publishedAt": "2025-08-28T19:02:25Z",
-        "lang": "en",
-        "source": {
-            "id": "7f6e8514e9d8f8376aaa9a7229861518",
-            "name": "PerthNow",
-            "url": "https://www.perthnow.com.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "32666e7f2105e3abe43c9e99aeb7d77e",
-        "title": "Microsoft tests MAI-1-preview AI model boost to Copilot, rival OpenAI",
-        "description": "Microsoft wants to depend more on its own internally built artificial intelligence models for Copilot, which is available in Bing and Windows 11.",
-        "content": "Mustafa Suleyman, CEO of Microsoft AI, speaks at an event commemorating the 50th anniversary of the company at Microsoft headquarters in Redmond, Washington, on April 4, 2025.\nMicrosoft has largely relied on OpenAI's artificial intelligence models to... [2646 chars]",
-        "url": "https://www.cnbc.com/2025/08/28/microsoft-tests-mai-1-preview-ai-model-boost-to-copilot-rival-openai.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108192018-1756403834043-gettyimages-2207890426-MICROSOFT_COPILOT.jpeg?v=1756403916&w=1920&h=1080",
-        "publishedAt": "2025-08-28T18:32:54Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "00b73a2567ea90975d36f3bca2066dd9",
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Nvidia's AI Momentum Propels Wall Street's Record Highs",
-        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
-        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
-        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2025-08-28T18:30:22Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
