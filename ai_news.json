@@ -1,5 +1,37 @@
 [
     {
+        "id": "adf450e8fddba9584989f268e2459f3f",
+        "title": "Did Nvidia Just Pop an AI Bubble? Here's What the Market Says",
+        "description": "Lukewarm results from artificial intelligence giant Nvidia have the entire market asking if the AI boom is heading for the exits.",
+        "content": "Lukewarm second quarter results from AI powerhouse Nvidia (NVDA) Wednesday have Wall Street bros and the analysts that love them catching all kinds of feelings.\nLong a bellwether for how the market views AI in general, the largest company in the worl... [4568 chars]",
+        "url": "https://gizmodo.com/did-nvidia-just-pop-an-ai-bubble-heres-what-the-market-says-2000649432",
+        "image": "https://gizmodo.com/app/uploads/2024/11/Jensen-Huang-Nvidia-1.jpg",
+        "publishedAt": "2025-08-28T10:46:19Z",
+        "lang": "en",
+        "source": {
+            "id": "18c2a6429621fbedc49891aa7c847ec6",
+            "name": "Gizmodo",
+            "url": "https://gizmodo.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ceb0fadd4c4c2dc4e2b0733d1adf96cb",
+        "title": "This Is What Sundar Pichai Said On Google Removing Managers Of Small Teams In Recent Layoffs",
+        "description": "Recent layoffs at Google have led to a significant reduction in managerial roles, with the company cutting about one-third of its managers overseeing small teams to streamline operations. This decision comes amidst pressure to manage costs due to heavy investments in artificial intelligence. , Technology & Science, Times Now",
+        "content": "Sundar Pichai On Google Layoffs\nThe investments and focus on AI advancement by tech giants has claimed a lot of jobs in the past. And the recent layoffs have occurred at Google. The company is removing around one-third of its managers looking after s... [1723 chars]",
+        "url": "https://www.timesnownews.com/technology-science/this-is-what-sundar-pichai-said-on-google-removing-managers-of-small-teams-in-recent-layoffs-article-152538641",
+        "image": "https://images.timesnownews.com/thumb/msid-152538659,thumbsize-79606,width-1280,height-720,resizemode-75/152538659.jpg",
+        "publishedAt": "2025-08-28T10:15:38Z",
+        "lang": "en",
+        "source": {
+            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+            "name": "Times Now",
+            "url": "https://www.timesnownews.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "35746c03e044473cee724a3bea4840a2",
         "title": "Snowflake shares surge as AI boom fuels demand for data platforms",
         "description": "Snowflake shares jumped about 14% on Thursday riding a wave of demand for its artificial intelligence database products, as companies race to modernize their data infrastructure and simplify AI adoption.",
@@ -125,38 +157,6 @@
             "name": "NDTV Profit",
             "url": "https://www.ndtvprofit.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "4321c7b01bbeed3636f8e603a893ddcf",
-        "title": "Nvidia’s AI chip sales surge again in latest quarter",
-        "description": "Nvidia’s sales of its artificial intelligence chipsets remained a hot commodity during the company’s latest quarter, but the demand wasn’t quite feverish enough to ease recent worries that the AI craze may be fading.",
-        "content": "Nvidia’s sales of its artificial intelligence chipsets remained a hot commodity during the company’s latest quarter, but the demand wasn’t quite feverish enough to ease recent worries that the AI craze may be fading.\nThe results announced on Wednesda... [274 chars]",
-        "url": "https://www.belfasttelegraph.co.uk/business/uk-world/nvidias-ai-chip-sales-surge-again-in-latest-quarter/a1355345085.html",
-        "image": "https://focus.belfasttelegraph.co.uk/thumbor/0HU0fMcfcJa3VJYeKZRK72eEi48=/0x0:5444x3629/629x0/prod-mh-ireland/a0f0c0f1-8ec2-461f-9946-386cf3f50916/0b05038f-0755-45d5-803b-99f53ecca238/f87e7ce0d1e647638e206e993ce3c85a.jpg",
-        "publishedAt": "2025-08-28T08:35:12Z",
-        "lang": "en",
-        "source": {
-            "id": "a1dd1cfddd85ce2d4ada87bc9f6a9d43",
-            "name": "Belfast Telegraph",
-            "url": "https://www.belfasttelegraph.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "766159bb1281fef6178ee538fec1bbfe",
-        "title": "Professor debuts AI sidekick in trailblazing course",
-        "description": "A new Simon Fraser University course this fall marks a world first: a university professor teaching alongside a live, fully expressive 3D artificial intelligence collaborator on stage. This pioneering course introduces a new model for human-AI interaction in an academic setting, positioning SFU at the forefront of educational innovation.",
-        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nSimon Fraser University professor Steve DiPaola stands alongside his ... [3338 chars]",
-        "url": "https://phys.org/news/2025-08-professor-debuts-ai-sidekick-trailblazing.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2025/new-class-of-teacher-s.jpg",
-        "publishedAt": "2025-08-28T08:26:56Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
         }
     }
 ]
