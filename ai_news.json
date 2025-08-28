@@ -1,5 +1,21 @@
 [
     {
+        "id": "3f6f93ea93de16e399dbfda6b7772f65",
+        "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+        "description": "Investors are largely seeing Nvidia earnings as a validation that the artificial intelligence boom has legs. Fueled with fresh optimism, the S&P 500 reached new heights Thursday.",
+        "content": "Stocks @ Night is a daily newsletter delivered after hours, giving you a first look at tomorrow and last look at today. Sign up for free to receive it directly in your inbox. Here's what CNBC TV's producers were watching on Thursday and what's on the... [3196 chars]",
+        "url": "https://www.cnbc.com/2025/08/28/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108185308-1755092580555-gettyimages-2229791361-anotherday100697787_3kk7d3kl.jpeg?v=1756407859&w=1920&h=1080",
+        "publishedAt": "2025-08-28T23:12:26Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "65e229c8eece240db24a697246f54b2e",
         "title": "S&P 500, Dow score record high closes as Nvidia results buttress AI rally",
         "description": "The S&P 500 and Dow Jones Industrial Average notched record high closes on Thursday after Nvidia’s quarterly report fell short of investors’ high expectations but confirmed that spending related to artificial intelligence infrastructure remains strong",
@@ -141,22 +157,6 @@
             "name": "The Irish Times",
             "url": "https://www.irishtimes.com",
             "country": "ie"
-        }
-    },
-    {
-        "id": "c51f35c7ac0791410ae8030770a3cb1d",
-        "title": "Universities could bolster democracy by fostering students' AI literacy",
-        "description": "The fears are familiar: Artificial intelligence is going to eat our jobs, make our students weak and lazy and possibly destroy democracy for good measure.",
-        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nCredit: AI-generated image\nThe fears are familiar: Artificial intelli... [6440 chars]",
-        "url": "https://phys.org/news/2025-08-universities-bolster-democracy-fostering-students.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-literacy.jpg",
-        "publishedAt": "2025-08-28T19:48:04Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
         }
     }
 ]
