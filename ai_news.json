@@ -1,5 +1,37 @@
 [
     {
+        "id": "e1917a05d119af94fa59ba84754aa2b0",
+        "title": "UN creates artificial intelligence advisory panel",
+        "description": "The UN General Assembly on Aug 26 created an artificial intelligence advisory body to help countries make decisions about the technology. Read more at straitstimes.com.",
+        "content": "Sign up now: Get ST's newsletters delivered to your inbox\nThe General Assembly created what is called the Independent International Scientific Panel on Artificial Intelligence.\nUNITED NATIONS, United States - The UN General Assembly on Aug 26 created... [1763 chars]",
+        "url": "https://www.straitstimes.com/world/united-states/un-creates-artificial-intelligence-advisory-panel",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/287818c6a988375133a69fcb7b15351c5483ea8e5368d01ea0de8f6fad52cf09",
+        "publishedAt": "2025-08-28T03:45:00Z",
+        "lang": "en",
+        "source": {
+            "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+            "name": "The Straits Times",
+            "url": "https://www.straitstimes.com",
+            "country": "sg"
+        }
+    },
+    {
+        "id": "71931082af2c922df4ea7fbd7d076972",
+        "title": "Nvidia CEO says AI boom far from over",
+        "description": "Jensen Huang dismissed concern about an end to a spending boom on artificial intelligence chips, projecting opportunities will expand into a multi-trillion-dollar market over the next five years.",
+        "content": "Nvidia CEO Jensen Huang attends the \"Winning the AI Race\" Summit in Washington D.C., U.S., July 23, 2025. REUTERS/Kent Nishimura/File Photo Purchase Licensing Rights , opens new tab\nItem 1 of 2 Nvidia CEO Jensen Huang attends the \"Winning the AI Race... [3690 chars]",
+        "url": "https://www.reuters.com/business/nvidia-ceo-says-ai-boom-far-over-2025-08-28/",
+        "image": "https://www.reuters.com/resizer/v2/2E6VRBMDCFJWRKJQEM3AU5X35M.jpg?auth=3f4e961d91973da550be7cdeda0d5038933f5d26e0728c16c279bccff2ace52f&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-28T03:03:06Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "c24e6917bdea86cd7a25aabefe9af664",
         "title": "Jensen Huang Declares 'A New Industrial Revolution Has Started': Sees 100x To 1000x Compute Demand Surge - $3-$4 Trillion 'Opportunity' For Nvidia",
         "description": "Chipmaker NVIDIA Corp.'s (NASDAQ: NVDA) CEO, Jensen Huang, just announced an optimistic vision for the future of artificial intelligence during the company's second-quarter earnings call on Wednesday.",
@@ -125,38 +157,6 @@
             "name": "Live 5 News WCSC",
             "url": "https://www.live5news.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "3d2e87d0ea76cab90319a2ba50fc4798",
-        "title": "‘Real possibility’ Nvidia brings Blackwell AI chip to China",
-        "description": "Huang predicted the artificial intelligence market in the world's second-biggest economy will grow 50% next year.",
-        "content": "Nvidia CEO Jensen Huang waves to a crowd as he leaves the China International Supply Chain Expo (CISCE) in Beijing on July 17, 2025.\nNvidia CEO Jensen Huang said there's a \"real possibility\" the company brings its advanced Blackwell processor to Chin... [3677 chars]",
-        "url": "https://www.cnbc.com/2025/08/27/nvidia-jensen-huang-real-possibility-blackwell-ai-chip-to-china.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108174923-1753172600849-gettyimages-2224782286-AFP_66Z86KE.jpeg?v=1753172679&w=1920&h=1080",
-        "publishedAt": "2025-08-27T23:22:31Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1c66a9cf2efacb5bc865647916563a7e",
-        "title": "Lens Technology accelerates Liquid Cooling Innovations for AI Systems",
-        "description": "HONG KONG SAR - Media OutReach Newswire - 18 August 2025 - The rapid advancement of artificial intelligence has significantly increased GPU power demands, leading to a substantial rise in power consumption across data centers, from individual GPU chips to entire server racks. This surge in power usage has resulted in heightened heat generation. Liquid cooling technology, utilizing direct or indirect liquid contact with heat-generating components, delivers superior thermal dissipation efficiency. This capability effectively addresses the rigorous thermal management needs of server racks and data centers, positioning liquid cooling as the essential solution for next-generation high-performance computing servers.",
-        "content": "HONG KONG SAR - Media OutReach Newswire - 18 August 2025 - The rapid advancement of artificial intelligence has significantly increased GPU power demands, leading to a substantial rise in power consumption across data centers, from individual GPU chi... [2866 chars]",
-        "url": "https://www.manilatimes.net/2025/08/28/tmt-newswire/media-outreach-newswire/lens-technology-accelerates-liquid-cooling-innovations-for-ai-systems/2174950",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/28/728389.png",
-        "publishedAt": "2025-08-27T22:04:42Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
