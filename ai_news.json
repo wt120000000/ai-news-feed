@@ -1,5 +1,37 @@
 [
     {
+        "id": "9ea9dc5ba0982eb6eb9774b422bd7602",
+        "title": "Frequent use of AI may hinder students' academic performance",
+        "description": "Marina Lepp, associate professor of informatics at the University of Tartu Institute of Computer Science, together with co-author Joosep Kaimre, a recently graduated master's student, examined in a research article the impact of artificial intelligence tools on students' academic outcomes. A total of 231 students took part in the study.",
+        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nCredit: Unsplash/CC0 Public Domain\nMarina Lepp, associate professor o... [2788 chars]",
+        "url": "https://phys.org/news/2025-08-frequent-ai-hinder-students-academic.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/student-at-computer.jpg",
+        "publishedAt": "2025-08-28T19:13:55Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "32666e7f2105e3abe43c9e99aeb7d77e",
+        "title": "Microsoft tests MAI-1-preview AI model boost to Copilot, rival OpenAI",
+        "description": "Microsoft wants to depend more on its own internally built artificial intelligence models for Copilot, which is available in Bing and Windows 11.",
+        "content": "Mustafa Suleyman, CEO of Microsoft AI, speaks at an event commemorating the 50th anniversary of the company at Microsoft headquarters in Redmond, Washington, on April 4, 2025.\nMicrosoft has largely relied on OpenAI's artificial intelligence models to... [2646 chars]",
+        "url": "https://www.cnbc.com/2025/08/28/microsoft-tests-mai-1-preview-ai-model-boost-to-copilot-rival-openai.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108192018-1756403834043-gettyimages-2207890426-MICROSOFT_COPILOT.jpeg?v=1756403916&w=1920&h=1080",
+        "publishedAt": "2025-08-28T18:32:54Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "99954ecf0d95bdf27651202f00562d72",
         "title": "Modesto school district launches committee to focus on how AI should be used in classrooms",
         "description": "Modesto City Schools has launched a 20-member committee focused on how artificial intelligence should be used in classrooms.",
@@ -125,38 +157,6 @@
             "name": "Los Angeles Times",
             "url": "https://www.latimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "c2b531712d5f132be707ae9a9739df94",
-        "title": "Study reveals which jobs are most at risk of being replaced with AI",
-        "description": "Young people are more at risk from AI as artificial intelligence can more easily replicate their ‘book learning’ experience, the study suggests",
-        "content": "The latest headlines from our reporters across the US sent straight to your inbox each weekday Your briefing on the latest headlines from across the US Your briefing on the latest headlines from across the US Email * SIGN UP I would like to be emaile... [3224 chars]",
-        "url": "https://www.independent.co.uk/news/world/americas/artificial-intelligence-jobs-risk-b2815932.html",
-        "image": "https://static.independent.co.uk/2025/08/13/14/07/GettyImages-1258475588.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-        "publishedAt": "2025-08-28T16:40:34Z",
-        "lang": "en",
-        "source": {
-            "id": "97497c18f5cb431f5f324b3d8643c24f",
-            "name": "The Independent",
-            "url": "https://www.independent.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "14146d5302910adb2a9bfee48e1e3998",
-        "title": "PH accountants seen ready to level up in AI era",
-        "description": "MORE than 600 accountants and business leaders gathered at JuanUp 2025 in Whitespace Manila with one clear message — the profession is ready to thrive in the age of artificial intelligence (AI). Organized by Juan by JuanTax, the event spotlighted how technology is transforming, not replacing, the accounting workforce.",
-        "content": "MORE than 600 accountants and business leaders gathered at JuanUp 2025 in Whitespace Manila with one clear message — the profession is ready to thrive in the age of artificial intelligence (AI). Organized by Juan by JuanTax, the event spotlighted how... [1609 chars]",
-        "url": "https://www.manilatimes.net/2025/08/29/tmt-newswire/ph-accountants-seen-ready-to-level-up-in-ai-era/2175356",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/28/729127.png",
-        "publishedAt": "2025-08-28T16:09:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
