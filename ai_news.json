@@ -1,5 +1,21 @@
 [
     {
+        "id": "c9feb678ea83a6021a42bc3713822d4a",
+        "title": "Beijing Sets Ambitious Targets for Nationwide AI Integration Over 10 Years",
+        "description": "Beijing has unveiled its most aggressive artificial intelligence targets yet, aiming for near-universal adoption within a decade.",
+        "content": "In brief China has set targets for AI adoption, seeking 70% penetration by 2027 and 90% by 2030.\nThe policy mandates integration of AI across industry, governance, and public services.\nThe move underscores Beijing’s bid to outpace Western rivals in a... [3750 chars]",
+        "url": "https://decrypt.co/337286/beijing-ambitious-targets-nationwide-ai-integration",
+        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
+        "publishedAt": "2025-08-28T23:34:04Z",
+        "lang": "en",
+        "source": {
+            "id": "6956007add5fc13a6721202ec906b1c4",
+            "name": "Decrypt",
+            "url": "https://decrypt.co",
+            "country": "us"
+        }
+    },
+    {
         "id": "3f6f93ea93de16e399dbfda6b7772f65",
         "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
         "description": "Investors are largely seeing Nvidia earnings as a validation that the artificial intelligence boom has legs. Fueled with fresh optimism, the S&P 500 reached new heights Thursday.",
@@ -112,6 +128,22 @@
         }
     },
     {
+        "id": "5dc2d6f646eee2b82176bf620704515a",
+        "title": "Chipmaker Marvell's weak data center forecast prompts AI investors to dump its stock",
+        "description": "Chipmaker Marvell Technology forecast quarterly revenue below market estimates on Thursday, disappointing investors who are accustomed to strong results from artificial intelligence-facing firms and sending its shares down 12% after hours.",
+        "content": "Semiconductor chips are seen on a circuit board of a computer in this illustration picture created on February 25, 2022. REUTERS/Florence Lo/Illustration/File Photo Purchase Licensing Rights , opens new tab\nSummary\nCompanies Outlook points to decline... [2968 chars]",
+        "url": "https://www.reuters.com/technology/chipmaker-marvells-weak-data-center-forecast-prompts-ai-investors-dump-its-stock-2025-08-28/",
+        "image": "https://www.reuters.com/resizer/v2/BZRIJZN545O3NMM4PJ5VUPL5C4.jpg?auth=81e8fdaf6b9f3d4e76a0008acd5e739b38e6d46120fe7f211bcea625bab36798&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-28T20:13:22Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "1f975ede52b72c360ca03e70ecd52f67",
         "title": "Dell lifts annual forecasts on AI server sales boom",
         "description": "Dell Technologies raised annual revenue and profit forecasts on Thursday, buoyed by demand for its artificial intelligence-optimized servers that are powered by Nvidia's advanced chips.",
@@ -125,38 +157,6 @@
             "name": "Reuters",
             "url": "https://www.reuters.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "9eb8a52eaf4d6b31017b1c821b097d3b",
-        "title": "Dell Raises Annual Forecasts on Strong Demand for AI Servers",
-        "description": "Dell Technologies Inc. boosted its annual outlook and posted quarterly sales and profit that topped analysts’ estimates, building on continued strong demand for artificial intelligence servers that power an expanding fleet of data centers.",
-        "content": "Dell Technologies Inc. boosted its annual outlook and posted quarterly sales and profit that topped analysts’ estimates, building on continued strong demand for artificial intelligence servers that power an expanding fleet of data centers.\nEarnings, ... [367 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-28/dell-raises-annual-forecasts-on-strong-demand-for-ai-servers",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNTgW_Fn3GRQ/v1/1200x799.jpg",
-        "publishedAt": "2025-08-28T20:06:32Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "888e860357c9a2e4ec3e7b7a0380444c",
-        "title": "The Irish Times view on AI: is this a stock market bubble which could burst?",
-        "description": "Investors has a seemingly insatiable demand for stock with exposure to artificial intelligence",
-        "content": "Jensen Huang, the chief executive of Nvidia, which is now valued on the markets at more than $4.4 trillion. (Photo: Loren Elliott/The New York Times)\nThere are a number of reasons to be nervous about the global economy. Since Donald Trump became the ... [1951 chars]",
-        "url": "https://www.irishtimes.com/opinion/editorials/2025/08/28/the-irish-times-view-on-ai-is-this-a-bubble-which-could-burst/",
-        "image": "https://www.irishtimes.com/resizer/v2/HIDAQ33Z43JC26QNRBJSIJ7NLU.jpg?smart=true&auth=3228518d2c831fca491925789f0252078d2e0f2a3b078672c07d97398767676b&width=1200&height=630",
-        "publishedAt": "2025-08-28T20:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "dd1d806725f45e4403e75c1bb23b447a",
-            "name": "The Irish Times",
-            "url": "https://www.irishtimes.com",
-            "country": "ie"
         }
     }
 ]
