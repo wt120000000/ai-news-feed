@@ -1,5 +1,37 @@
 [
     {
+        "id": "b87519966275f9c0039c319314dbd013",
+        "title": "Anthropic to start training AI models from users' chat conversations",
+        "description": "Anthropic will start training artificial intelligence models with user data, a day after announcing a hacker used Claude to find companies vulnerable to attack.",
+        "content": "Aug. 29 (UPI) -- Anthropic plans to start training its artificial intelligence models with user data, one day after announcing a hacker used Claude to identify 17 companies vulnerable to attack and obtained sensitive information.\nThe company is askin... [4898 chars]",
+        "url": "https://www.upi.com/Top_News/US/2025/08/29/Anthropic-training-AI-models-user-data-optout-avilable/5071756494461/",
+        "image": "https://cdnph.upi.com/ph/st/th/5071756494461/2025/upi_com/d993e07a42f4cfae108bd16cfe5ae613/v1.5/Anthropic-to-start-training-AI-models-from-users-chat-conversations.jpg?lg=5",
+        "publishedAt": "2025-08-29T20:49:42Z",
+        "lang": "en",
+        "source": {
+            "id": "79baacd62152cf257ee35e8c0bec19a2",
+            "name": "UPI News",
+            "url": "https://www.upi.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "f943742e126a7fb78d411e77d754e80d",
+        "title": "AI To Sustainable Fuel Initiative, These Are The 10 Imporant Takeways From PM Modi's Two-Day Visit To Japan",
+        "description": "Important agreements related to Defence, artificial intelligence, goal investment of 10 trillion yen and other aspects have taken place between India and Japan during Prime Minister Narendra Modi's two-day visit to Japan.",
+        "content": "Prime Minister Narendra Modi is currently dominating the news headlines due to his arrival in Tokyo, Japan on Friday (August 29, 2025) as a part of his two-day visit. In this visit, PM Modi will hold summit talks with his Japanese counterpart Shigeru... [3487 chars]",
+        "url": "https://www.newsx.com/india/pm-modis-japan-visit-ai-to-sustainable-fuel-initiative-these-are-the-10-imporant-takeways-from-pm-modis-two-day-visit-to-japan-55170/",
+        "image": "https://www.newsx.com/wp-content/uploads/2025/08/newsx-2_1.jpg",
+        "publishedAt": "2025-08-29T20:02:39Z",
+        "lang": "en",
+        "source": {
+            "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+            "name": "NewsX",
+            "url": "https://www.newsx.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "609f6e87e7bb31d0aaac1765432e8a1d",
         "title": "Meta to add new AI safeguards after Reuters report raises teen safety concerns",
         "description": "Meta is adding new teenager safeguards to its artificial intelligence products by training systems to avoid flirty conversations and discussions of self-harm or suicide with minors, and by temporarily limiting their access to certain AI characters.",
@@ -124,38 +156,6 @@
             "id": "da5c26287bdd02563a2c32b55cb12051",
             "name": "Reuters",
             "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f1ef2f5654c60630f9f4b9a2026b511f",
-        "title": "Love & Hate' Gets Three-Studio Team",
-        "description": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
-        "content": "Singapore studios HIP Studios and FizzDragon have partnered with Philippine indie publisher 8Letters in a memorandum of understanding to co-produce “AI: Love & Hate,” an animated anthology feature exploring humanity’s relationship with artificial int... [3054 chars]",
-        "url": "https://variety.com/2025/digital/global/ai-themed-animated-anthology-ai-love-hate-1236502159/",
-        "image": "https://variety.com/wp-content/uploads/2025/08/AI-Love-and-Hate.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-08-29T16:24:14Z",
-        "lang": "en",
-        "source": {
-            "id": "e6688d6db992f469baa7352aac100378",
-            "name": "Variety",
-            "url": "https://variety.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6b7fb1068199c241a6b76154448e6b43",
-        "title": "Love & Hate' Gets Three-Studio Team",
-        "description": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
-        "content": "Singapore studios HIP Studios and FizzDragon have partnered with Philippine indie publisher 8Letters in a memorandum of understanding to co-produce “AI: Love & Hate,” an animated anthology feature exploring humanity’s relationship with artificial int... [3054 chars]",
-        "url": "https://variety.com/2025/digital/asia/ai-themed-animated-anthology-ai-love-hate-1236502159/",
-        "image": "https://variety.com/wp-content/uploads/2025/08/AI-Love-and-Hate.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-08-29T16:24:14Z",
-        "lang": "en",
-        "source": {
-            "id": "e6688d6db992f469baa7352aac100378",
-            "name": "Variety",
-            "url": "https://variety.com",
             "country": "us"
         }
     }
