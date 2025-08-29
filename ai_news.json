@@ -1,5 +1,37 @@
 [
     {
+        "id": "34c9565ab46e860285bcec9e2c4da496",
+        "title": "Elon Musk's xAI forays into agentic coding with new model",
+        "description": "Elon Musk’s artificial intelligence startup, xAI, on Thursday released a new “speedy and economical” agentic coding model.",
+        "content": "Elon Musk's artificial intelligence startup, xAI, on Thursday released a new \"speedy and economical\" agentic coding model, marking its entry into a key focus area for AI companies.\nAn agentic coding tool is an AI-powered software application that can... [958 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-xai-forays-into-agentic-coding-with-new-model/article69987514.ece",
+        "image": "https://th-i.thgim.com/public/incoming/t0qjpk/article69987522.ece/alternates/LANDSCAPE_1200/2025-08-25T160108Z_519237363_RC2FEGA7EPOV_RTRMADP_3_TECH-ANTITRUST-XAI-APPLE.JPG",
+        "publishedAt": "2025-08-29T03:48:36Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "cfc0c7bca0665367193c41233daa3df7",
+        "title": "Bain Is Said to Draw Chinese Bidders for $4 Billion Data Centers",
+        "description": "The China data center business owned by Bain Capital’s Chindata Group Holdings Ltd. has drawn interest from local bidders seeking to expand in the sector to tap a boom in artificial intelligence, according to people familiar with the matter.",
+        "content": "The China data center business owned by Bain Capital’s Chindata Group Holdings Ltd. has drawn interest from local bidders seeking to expand in the sector to tap a boom in artificial intelligence, according to people familiar with the matter.\nRange In... [288 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-29/bain-is-said-to-draw-chinese-bidders-for-4-billion-data-centers",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLBjB248JpHE/v0/1200x800.jpg",
+        "publishedAt": "2025-08-29T03:02:18Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "6444deab9e0a75a7aee0e45888dd874a",
         "title": "UP study uses AI model to predict tropical cyclone rainfall",
         "description": "Researchers at the University of the Philippines-Diliman (UPD) have developed an artificial intelligence (AI) model that can predict tropical cyclone",
@@ -125,38 +157,6 @@
             "name": "NBC News",
             "url": "https://www.nbcnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "46e5feb8d5c31bcf7506df005c846b4a",
-        "title": "YouTube’s Third Act Stars AI and TikTok",
-        "description": "The once-scrappy US startup is now a 20-year-old giant. In its third decade, it faces the promise and peril of artificial intelligence—and the rise of a Chinese rival.",
-        "content": "When it started, YouTube was considered a fun internet distraction. These days it’s seen as an irresistible force. The video-sharing platform’s importance to the revenue and roadmap of its parent has never been more significant. In 2024, ad sales hit... [817 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-28/video-tiktok-and-ai-are-the-stars-of-youtube-s-third-act",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFeFLQLGYbkk/v0/1200x675.jpg",
-        "publishedAt": "2025-08-28T21:14:02Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0cc61166f43fdbaadeb1991d9a0a6e9e",
-        "title": "Data centers consume massive amounts of water - companies rarely tell the public exactly how much",
-        "description": "As demand for artificial intelligence technology boosts construction and proposed construction of data centers around the world, those computers require not just electricity and land, but also a significant amount of water. Data centers use water directly, with cooling water pumped through pipes in and around the computer equipment. They…",
-        "content": "By Peyton McCauley and Melissa Scanlan\nAs demand for artificial intelligence technology boosts construction and proposed construction of data centers around the world, those computers require not just electricity and land, but also a significant amou... [7832 chars]",
-        "url": "https://japantoday.com/category/features/environment/data-centers-consume-massive-amounts-of-water-%E2%80%93-companies-rarely-tell-the-public-exactly-how-much",
-        "image": "https://media.japantoday.com/img/store/fa/ae/8173521d480eef0ce97f0d0e4b7b5ddc154a/istock-2228352797/_w1700.jpeg",
-        "publishedAt": "2025-08-28T21:11:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
