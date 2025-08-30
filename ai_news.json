@@ -1,5 +1,37 @@
 [
     {
+        "id": "46b375daf9057cdbea5709fc2bd24cc2",
+        "title": "The Best Tips and Tricks To Spot AI",
+        "description": "Artificial intelligence image generators are getting better and better. Here are a few ways to stay ahead of them… for now.",
+        "content": "For tens of millions of people on TikTok, the realization that AI might be getting better wasn’t a press release or an article — it was a video of a dozen bunnies jumping on a trampoline.\nThe clip, first posted by an unknown TikTok account @rachelthe... [7305 chars]",
+        "url": "https://www.rollingstone.com/culture/culture-features/artificial-intelligence-how-to-tell-1235416668/",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2025/08/AI-tips-and-tricks.jpg?crop=0px%2C102px%2C1798px%2C1014px&resize=1600%2C900",
+        "publishedAt": "2025-08-30T13:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "90a3acff66edeb0244b1d0b26b580755",
+            "name": "Rolling Stone",
+            "url": "https://www.rollingstone.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "b7e635ff51f2f139868bc5bcf2fc9d6e",
+        "title": "Nvidia CEO predicts AI-driven four-day work week: Career boost or burnout for tomorrow’s professionals?",
+        "description": "News News: India is at a turning point with artificial intelligence. The nation is debating work culture. Some leaders want 70-hour weeks for economic growth. Ot",
+        "content": "AI as a productivity multiplier\nIndia’s contrasting reality: The 70-hour debate\nFour-day week vs. Indian hustle culture\nThe legal angle: Longer days on the horizon?\nCareer boost or burnout?\nThe global conversation around artificial intelligence (AI) ... [3588 chars]",
+        "url": "https://timesofindia.indiatimes.com/education/news/the-new-work-equation-ai-long-hours-and-gen-zs-fight-for-balance-in-indian-workplace/articleshow/123602358.cms",
+        "image": "https://static.toiimg.com/thumb/msid-123602661,width-1070,height-580,imgsize-30156,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2025-08-30T12:31:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "bb84291bc343d0393d4fd2f502b7d1dd",
         "title": "Hidden hacker threat costs businesses millions",
         "description": "As businesses race to adopt artificial intelligence, writes Daina Proctor, hackers are weaponizing corporate vulnerabilities, with shadow AI becoming a golden opportunity for cybercriminals.",
@@ -125,38 +157,6 @@
             "name": "CNBC",
             "url": "https://www.cnbc.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "ae3b11b46c270aa3618ecb2e13bb8b0f",
-        "title": "Meta introduces new AI safeguards to protect teens after safety concerns",
-        "description": "Meta has announced new safeguards for teenagers using its artificial intelligence products, training systems to prevent flirty conversations and discussions about self-harm or suicide with minors,...",
-        "content": "People walk behind a logo of Meta Platforms company, during a conference in Mumbai, India, September 20, 2023. — Reuters\nMeta has announced new safeguards for teenagers using its artificial intelligence products, training systems to prevent flirty co... [1495 chars]",
-        "url": "https://www.thenews.com.pk/latest/1340100-meta-introduces-new-ai-safeguards-to-protect-teens-after-safety-concerns",
-        "image": "https://www.thenews.com.pk/assets/uploads/updates/2025-08-30/1340100_120725_updates.jpg",
-        "publishedAt": "2025-08-30T07:29:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-            "name": "The News International",
-            "url": "https://www.thenews.com.pk",
-            "country": "pk"
-        }
-    },
-    {
-        "id": "78228ff5e67755e8687ad3bbb0d6a371",
-        "title": "Salesforce CEO Marc Benioff says he's 'extremely suspect' of anyone using these three-letter initials",
-        "description": "Tech News : Salesforce CEO Marc Benioff expresses skepticism about artificial general intelligence (AGI), deeming the term suspect and warning against the hype su",
-        "content": "AGI: Promise or illusion\nAI enthusiast, AGI realist\nSalesforce CEO Marc Benioff has once again voiced his opinion on artificial general intelligence. As reported by Business Insider, Benioff shared a similar sentiment as the other tech leaders and sh... [2237 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-says-hes-extremely-suspect-of-anyone-using-these-three-letter-initials/articleshow/123598318.cms",
-        "image": "https://static.toiimg.com/thumb/msid-123598315,width-1070,height-580,imgsize-66660,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-08-30T07:19:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
