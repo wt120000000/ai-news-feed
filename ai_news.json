@@ -1,5 +1,21 @@
 [
     {
+        "id": "7eeb5c437de1276e4a21065f0cc3e210",
+        "title": "Elon Musk's xAI sues engineer for allegedly taking secrets to OpenAI",
+        "description": "Elon Musk’s artificial intelligence startup xAI has sued a former engineer at the company for allegedly stealing trade secrets.",
+        "content": "Elon Musk's artificial intelligence startup xAI has sued a former engineer at the company for allegedly stealing trade secrets related to its Grok chatbot and taking them to rival OpenAI.\nMusk's company said in the complaint filed on Thursday in Cali... [1580 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-xai-sues-engineer-for-allegedly-taking-secrets-to-openai/article69992024.ece",
+        "image": "https://th-i.thgim.com/public/incoming/ups2h0/article69992028.ece/alternates/LANDSCAPE_1200/2025-08-29T171057Z_2043208326_RC24HGAH6UV4_RTRMADP_3_XAI-OPENAI-TRADE-SECRETS-LAWSUIT.JPG",
+        "publishedAt": "2025-08-30T04:41:07Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "1cec89138e509406ae4249f405fbe874",
         "title": "CollabRx Leads Global Shift as Digital Healthcare Market Set to Reach $3.7 Billion by 2028 with Blockchain and AI",
         "description": "SAN FRANCISCO, Aug. 29, 2025 (GLOBE NEWSWIRE) -- CollabRx, Inc., a U.S.-based healthcare technology pioneer, is taking the lead in the global digital healthcare transformation. The industry is projected to grow from USD 1.3 billion in 2023 to USD 3.7 billion by 2028, at a compound annual growth rate (CAGR) of 23.2%, according to MarketsandMarkets. At the center of this growth are two breakthrough technologies - Blockchain and Artificial Intelligence (AI) - setting new global standards for security, transparency, and patient-first care.",
@@ -141,22 +157,6 @@
             "name": "CNBC",
             "url": "https://www.cnbc.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "56163a25280155f4858287cd55d36ca4",
-        "title": "Brain-inspired model outperforms ChatGPT, Claude, and DeepSeek - is it the future of AI?",
-        "description": "Brain-inspired AI model 2025: A new brain-inspired AI model by Singapore's Sapient outperforms major competitors like ChatGPT, Claude, and DeepSeek in critical AGI tests, promising a bright future for artificial intelligence.",
-        "content": "New Hierarchical Reasoning Model Inspired by Human Brain Structure\nLive Events\niStock New brain-inspired AI model 2025\nHow HRM Mimics Brain Functions with Two Specialized Modules\nTIL Creatives Human brain\nHRM Outperforms Rivals on ARC-AGI Benchmark T... [4056 chars]",
-        "url": "https://economictimes.indiatimes.com/news/international/us/brain-inspired-model-outperforms-chatgpt-claude-and-deepseek-is-it-the-future-of-ai/articleshow/123592443.cms",
-        "image": "https://img.etimg.com/thumb/msid-123592536,width-1200,height-630,imgsize-101222,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2025-08-29T21:12:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
