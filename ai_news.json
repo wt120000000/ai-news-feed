@@ -1,5 +1,21 @@
 [
     {
+        "id": "9ffcba247db8f6e2aeec5004ba75bc12",
+        "title": "AI saved me £500 when I asked these questions",
+        "description": "One Express writer surrendered control of her life for a week to discover just how helpful artificial AI intelligence really is. Prepare to be surprised by her findings...",
+        "content": "Express writer Jane Warren with the specific light AI suggested she buy for her DIY shepherd's hut\nAncient civilisations dreamed of beings that could act without human control – including golden handmaidens in Greek mythology, described as having hum... [9060 chars]",
+        "url": "https://www.express.co.uk/life-style/life/2102098/ai-saved-me-500-when-i-asked-these-questions",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/130/1200x630/6394379.jpg",
+        "publishedAt": "2025-08-30T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c97ef3cad273a1993c998ca7ddcc5212",
+            "name": "Daily Express",
+            "url": "https://www.express.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "bf537d472d52a830a33a4790c8b63683",
         "title": "Meta's AI leaders discuss using Google, OpenAI models in apps, The Information says",
         "description": "(Adds details and background throughout) Aug 29 (Reuters) - Meta Platforms is considering partnerships with rivals Google or OpenAI to enhance artificial intelligence features in its applications, The",
@@ -112,6 +128,22 @@
         }
     },
     {
+        "id": "37bfa5711fbdd8cce19ab0209fd2e9fa",
+        "title": "Microsoft Rolls Out In-House AI Models to Take on OpenAI",
+        "description": "Tech giant Microsoft (MSFT) has begun testing its in-house artificial intelligence (AI) models that will compete directly with partner OpenAI wh...",
+        "content": "Tech giant Microsoft (MSFT) has begun testing its in-house artificial intelligence (AI) models that will compete directly with partner OpenAI while also reducing reliance on the ChatGPT maker. The company has launched two customer-focused AI models u... [2296 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/microsoft-rolls-out-in-house-ai-models-to-take-on-openai-1035096541",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-2141.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2025-08-29T21:01:00Z",
+        "lang": "en",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Markets Insider",
+            "url": "https://markets.businessinsider.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "a05c4b55fd3d83715c08efe743c82276",
         "title": "Time magazine names Japan artist, SoftBank CEO among most impactful in AI",
         "description": "Time magazine has picked Japanese artist Ryoji Ikeda and SoftBank Group Corp CEO Masayoshi Son as among the 100 most influential people in artificial intelligence. The list included well-known figures in information technology, such as billionaire and Tesla Inc CEO Elon Musk, who also founded xAI, and Sam Altman, chief…",
@@ -125,38 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "b87519966275f9c0039c319314dbd013",
-        "title": "Anthropic to start training AI models from users' chat conversations",
-        "description": "Anthropic will start training artificial intelligence models with user data, a day after announcing a hacker used Claude to find companies vulnerable to attack.",
-        "content": "Aug. 29 (UPI) -- Anthropic plans to start training its artificial intelligence models with user data, one day after announcing a hacker used Claude to identify 17 companies vulnerable to attack and obtained sensitive information.\nThe company is askin... [4898 chars]",
-        "url": "https://www.upi.com/Top_News/US/2025/08/29/Anthropic-training-AI-models-user-data-optout-avilable/5071756494461/",
-        "image": "https://cdnph.upi.com/ph/st/th/5071756494461/2025/upi_com/d993e07a42f4cfae108bd16cfe5ae613/v1.5/Anthropic-to-start-training-AI-models-from-users-chat-conversations.jpg?lg=5",
-        "publishedAt": "2025-08-29T20:49:42Z",
-        "lang": "en",
-        "source": {
-            "id": "79baacd62152cf257ee35e8c0bec19a2",
-            "name": "UPI News",
-            "url": "https://www.upi.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "eec9da33d72512ab02d38bdad8ff63bd",
-        "title": "AI Operations Management Tested by US Military Pilots",
-        "description": "U.S. Air Force and Navy fighter pilots have tested an artificial intelligence battlefield coordination management system.",
-        "content": "U.S. Air Force and Navy fighter pilots recently tested an artificial intelligence battlefield coordination management system.\nThis month's exercise is one of the earliest full-scale U.S. military tests of AI in a battlefield scenario.\nRAFT, a defense... [1252 chars]",
-        "url": "https://www.newsmax.com/newsfront/ai-coordination-agentic/2025/08/29/id/1224473/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=cd14e7ec-b6fa-4b95-b178-2e3c8ad5b1b0&SiteName=Newsmax",
-        "publishedAt": "2025-08-29T20:45:34Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
         }
     }
 ]
