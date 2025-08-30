@@ -1,5 +1,37 @@
 [
     {
+        "id": "c5d58e80183859daac764d85feb38eb0",
+        "title": "Artificial intelligence’s next home: your eyes",
+        "description": "AI is ready to share your world view and whisper in your ear. But are you ready to wear an always-on companion?",
+        "content": "It was way back in the 1960’s that the foundational idea of smart glasses first came up. Pioneering computer scientist Ivan Sutherland experimented with a head-mounted display that looks bizarre by today’s standards. In recent years, Google had a go ... [5123 chars]",
+        "url": "https://www.livemint.com/opinion/columns/ai-glasses-smart-glasses-meta-ray-ban-glasses-wearable-ai-augmented-reality-eyewear-qualcomm-ar1-chip-11756461090942.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/08/29/1600x900/shila_1756462783409_1756462794615.jpg",
+        "publishedAt": "2025-08-30T01:30:10Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "073f9f2e69dc3bee4adef4df9b3e9bef",
+        "title": "Meta's AI leaders discuss using Google, OpenAI models in apps, The Information says",
+        "description": "Meta Platforms is considering partnerships with rivals Google or OpenAI to enhance artificial intelligence features in its applications, The Information reported on Friday, citing people familiar with the conversations.",
+        "content": "The logo of Meta is seen at Porte de Versailles exhibition center in Paris, France, June 11, 2025. REUTERS/Gonzalo Fuentes/File Photo Purchase Licensing Rights , opens new tab\nLeaders at Meta's new AI organization, Meta Superintelligence Labs, have e... [366 chars]",
+        "url": "https://www.reuters.com/business/metas-ai-leaders-discuss-using-google-openai-models-apps-information-says-2025-08-30/",
+        "image": "https://www.reuters.com/resizer/v2/NI5EFS4D5ZNV3LCVSABZKSLQTA.jpg?auth=44cd52a68f6539d40a316703b6ed0e31be49cce89b2606448762fe212cd9343d&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-08-30T00:03:43Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "a6a3d9b26455a33707555f1f6c59058d",
         "title": "AI Helps Identify Man Months After Partially Decomposed Remains Found",
         "description": "Authorities in Arizona used artificial intelligence to help identify a man whose remains were found late last year.",
@@ -125,38 +157,6 @@
             "name": "Reuters",
             "url": "https://www.reuters.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "48d6744986f9ef64819f510421dc70c6",
-        "title": "Agentic AI project Eliza Labs sues Elon Musk's xAI",
-        "description": "Eliza Labs, an open-source AI platform for launching agentic artificial intelligence bots, has filed a lawsuit against Elon Musk's xAI company.",
-        "content": "Agentic AI project Eliza Labs has filed a lawsuit against Elon Musk’s xAI, claiming that the AI company engaged in monopolistic practices meant to “deplatform” agentic AI launchpads.\nThe lawsuit claims that xAI attempted to “extract” valuable informa... [2674 chars]",
-        "url": "https://cointelegraph.com/news/eliza-labs-sues-elon-musk-xai",
-        "image": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-01/019483aa-f60f-73f1-bc35-fc55eed43667",
-        "publishedAt": "2025-08-29T19:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "89726dd24a4d78041c65af3b4a364b31",
-            "name": "Cointelegraph",
-            "url": "https://cointelegraph.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ba1be113ca29a96dfa6f4f7243e991c7",
-        "title": "Elon Musk’s xAI sues engineer OpenAI",
-        "description": "Elon Musk‘s artificial intelligence startup xAI has sued a former engineer at the company for allegedly stealing trade secrets related to its Grok chatbot and taking them to rival OpenAI.",
-        "content": "Elon Musk‘s artificial intelligence startup xAI has sued a former engineer at the company for allegedly stealing trade secrets related to its Grok chatbot and taking them to rival OpenAI.. (Andrew Harnik/Getty Images via CNN Newsource)\nElon Musk‘s ar... [1891 chars]",
-        "url": "https://www.cp24.com/news/money/2025/08/29/musks-xai-sues-engineer-for-allegedly-taking-secrets-to-openai/",
-        "image": "https://www.cp24.com/resizer/v2/LPKIBKMNZ5BUDCNENIIZMNJQDQ.JPG?smart=true&auth=eda027eaf075c201f46bb8f1ad23736aef1f5682d5ca3443ae17a3b2efe4caf7&width=1200&height=630",
-        "publishedAt": "2025-08-29T18:27:53Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
         }
     }
 ]
