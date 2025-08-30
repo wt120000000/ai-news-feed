@@ -32,6 +32,22 @@
         }
     },
     {
+        "id": "b8f1e94dd047fdf6dad8c9106a997399",
+        "title": "SFU prof debuts 3D artificial intelligence teaching sidekick",
+        "description": "The newest course assistant at Simon Fraser University has zero academic credentials and has never set foot in a classroom.",
+        "content": "The newest course assistant at Simon Fraser University in Burnaby, B.C., has zero experience, no academic credentials and has never set foot in a classroom.\nNevertheless, Kia, an expressive, 3-D digital persona, will be in attendance as a sidekick to... [2414 chars]",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/sfu-prof-s-ai-sidekick-1.7620141",
+        "image": "https://i.cbc.ca/1.7620272.1756408102!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/steve-dipaola-and-his-ai-kia.jpg?im=Resize%3D620",
+        "publishedAt": "2025-08-30T12:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+            "name": "CBC.ca",
+            "url": "https://www.cbc.ca",
+            "country": "ca"
+        }
+    },
+    {
         "id": "bb84291bc343d0393d4fd2f502b7d1dd",
         "title": "Hidden hacker threat costs businesses millions",
         "description": "As businesses race to adopt artificial intelligence, writes Daina Proctor, hackers are weaponizing corporate vulnerabilities, with shadow AI becoming a golden opportunity for cybercriminals.",
@@ -141,22 +157,6 @@
             "name": "Finbold",
             "url": "https://finbold.com",
             "country": "bg"
-        }
-    },
-    {
-        "id": "e44f8f9d52481dba8371d63d3fc97912",
-        "title": "Global movement to protect kids online fuels a wave of AI safety tech",
-        "description": "Companies developing artificial intelligence systems to prevent kids from being exposed to inappropriate content are flourishing.",
-        "content": "Spotify, Reddit and X have all implemented age assurance systems to prevent children from being exposed to inappropriate content.\nThe global online safety movement has paved the way for a number of artificial intelligence-powered products designed to... [1330 chars]",
-        "url": "https://www.cnbc.com/2025/08/30/global-movement-to-protect-kids-online-fuels-a-wave-of-ai-safety-tech.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108191273-1756300942198-gettyimages-1244386242-arriens-privacyg221101_npzUm.jpeg?v=1756301029&w=1920&h=1080",
-        "publishedAt": "2025-08-30T07:35:45Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
         }
     }
 ]
