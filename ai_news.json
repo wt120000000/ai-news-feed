@@ -1,5 +1,37 @@
 [
     {
+        "id": "bb84291bc343d0393d4fd2f502b7d1dd",
+        "title": "Hidden hacker threat costs businesses millions",
+        "description": "As businesses race to adopt artificial intelligence, writes Daina Proctor, hackers are weaponizing corporate vulnerabilities, with shadow AI becoming a golden opportunity for cybercriminals.",
+        "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+        "url": "https://www.thestar.com/business/opinion/shadow-ai-how-your-employees-may-have-opened-the-door-to-the-newest-cybercrime/article_9dec4d70-c1c8-4b57-9e9d-0538991c1c57.html",
+        "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/32/b325e7bc-0aa9-596a-a364-4ff1d73246e0/68af342e4dd90.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+        "publishedAt": "2025-08-30T11:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
+            "name": "Toronto Star",
+            "url": "https://www.thestar.com",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "c548f1a8cfb6a0caab55e6abbb7e439c",
+        "title": "Want The Pixel 10’s Entire 12GB RAM To Yourself? Here Is An Easy Fix, If You Do Not Mind Slower AI Operations",
+        "description": "Google decided to allocate some of the Pixel 10’s 12GB RAM to be used for AI tasks, but there is a simple way on how you can utilize all of that memory, assuming you do not mind a trade-off for slower artificial intelligence tasks",
+        "content": "Google’s RAM count for the Pixel 9 and Pixel 10 did not change, but to claim its supremacy in the AI race and for its relevant features to open up faster, the company decided to allocate 3GB of RAM to the Tensor TPU. Unfortunately, that meant you wou... [2146 chars]",
+        "url": "https://wccftech.com/pixel-10-how-to-claim-the-entire-12gb-ram/",
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2025/08/Pixel-10-1.jpg",
+        "publishedAt": "2025-08-30T10:16:08Z",
+        "lang": "en",
+        "source": {
+            "id": "9a68172fefded1b86fc9a95d43faf501",
+            "name": "Wccftech",
+            "url": "https://wccftech.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "622dd69d58dc7f279ffd4f640baa4646",
         "title": "Cutting-edge AI was supposed to get cheaper. It’s more expensive than ever.",
         "description": "With models “thinking” more than ever, the small companies that buy artificial intelligence from the giants to create apps and services are feeling the pinch.",
@@ -29,6 +61,22 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
+        }
+    },
+    {
+        "id": "8c58941bf27ed3c5b3fcc8c0e042f9d9",
+        "title": "NHS doctors get new AI powered stethoscopes to instantly detect heart failure",
+        "description": "The stethoscope - used by doctors since 1816 - has been upgraded to include artificial intelligence which can detect tiny differences in heartbeat",
+        "content": "NHS doctors get new AI powered stethoscopes to instantly detect heart failure\nThe stethoscope - used by doctors since 1816 - has been upgraded to include artificial intelligence which can detect tiny differences in heartbeat\nThe classic stethoscope h... [5269 chars]",
+        "url": "https://www.mirror.co.uk/news/uk-news/nhs-doctors-new-ai-powered-35816647",
+        "image": "https://i2-prod.mirror.co.uk/article35815764.ece/ALTERNATES/s1200/0_Close-up-of-doctor-holding-stethoscope.jpg",
+        "publishedAt": "2025-08-30T09:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "105bb16685822879671e4bad332aeec9",
+            "name": "The Mirror",
+            "url": "https://www.mirror.co.uk",
+            "country": "gb"
         }
     },
     {
@@ -108,54 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "7bc90df3e426a9c1dcd5c199af990f58",
-        "title": "Future forward: Palo Alto Networks champions AI-driven cyber defense at Ignite on Tour Philippines 2025",
-        "description": "With the surging artificial intelligence (AI) adoption and rising cybersecurity risks, Palo Alto Networks, the global cybersecurity leader, hosted its",
-        "content": "With the surging artificial intelligence (AI) adoption and rising cybersecurity risks, Palo Alto Networks, the global cybersecurity leader, hosted its flagship event, Ignite on Tour Philippines 2025, at New World Makati in Manila, bringing together g... [3127 chars]",
-        "url": "https://manilastandard.net/tech/314636479/future-forward-palo-alto-networks-champions-ai-driven-cyber-defense-at-ignite-on-tour-philippines-2025.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/Simon-Green-Photo-1.jpg",
-        "publishedAt": "2025-08-30T05:58:18Z",
-        "lang": "en",
-        "source": {
-            "id": "e9207083a357fb7e76b38e485888ebe7",
-            "name": "manilastandard.net",
-            "url": "https://manilastandard.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "00b73a2567ea90975d36f3bca2066dd9",
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - AI Meets Classics: Immersive 'Wizard of Oz' Turns Heads in Las Vegas",
-        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
-        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
-        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2025-08-30T04:57:44Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "7eeb5c437de1276e4a21065f0cc3e210",
-        "title": "Elon Musk's xAI sues engineer for allegedly taking secrets to OpenAI",
-        "description": "Elon Musk’s artificial intelligence startup xAI has sued a former engineer at the company for allegedly stealing trade secrets.",
-        "content": "Elon Musk's artificial intelligence startup xAI has sued a former engineer at the company for allegedly stealing trade secrets related to its Grok chatbot and taking them to rival OpenAI.\nMusk's company said in the complaint filed on Thursday in Cali... [1580 chars]",
-        "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-xai-sues-engineer-for-allegedly-taking-secrets-to-openai/article69992024.ece",
-        "image": "https://th-i.thgim.com/public/incoming/ups2h0/article69992028.ece/alternates/LANDSCAPE_1200/2025-08-29T171057Z_2043208326_RC24HGAH6UV4_RTRMADP_3_XAI-OPENAI-TRADE-SECRETS-LAWSUIT.JPG",
-        "publishedAt": "2025-08-30T04:41:07Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
             "country": "in"
         }
     }
