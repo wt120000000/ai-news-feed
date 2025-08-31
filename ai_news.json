@@ -1,5 +1,21 @@
 [
     {
+        "id": "2987c6910565816163f767b60498832f",
+        "title": "Researchers pioneer optical generative models, ushering in a new era of sustainable generative AI",
+        "description": "In a major leap for artificial intelligence (AI) and photonics, researchers at the University of California, Los Angeles (UCLA) have created optical generative models capable of producing novel images using the physics of light instead of conventional electronic computation.",
+        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nOptical Generative Models. Credit: Ozcan Lab / UCLA.\nIn a major leap ... [6165 chars]",
+        "url": "https://phys.org/news/2025-08-optical-generative-ushering-era-sustainable.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2025/ucla-researchers-pione.jpg",
+        "publishedAt": "2025-08-31T13:20:01Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
         "id": "c00479cb5cc5f083a79f59720dc50da5",
         "title": "How is artificial intelligence affecting job searches?",
         "description": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
@@ -141,22 +157,6 @@
             "name": "The New York Times",
             "url": "https://www.nytimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "d57c1ed6cfb5615375ccf3db42f61f2f",
-        "title": "House bill seeks to regulate AI use",
-        "description": "MANILA, Philippines — A bill that aims to regulate the use of artificial intelligence (AI) in the country has been filed in the House of Representatives.",
-        "content": "MANILA, Philippines — A bill that aims to regulate the use of artificial intelligence (AI) in the country has been filed in the House of Representatives.\n\"AI is not just a buzzword—it's a powerful force reshaping our world. We must embrace innovation... [1804 chars]",
-        "url": "https://www.manilatimes.net/2025/08/31/news/house-bill-seeks-to-regulate-ai-use/2176486",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/31/731445.jpg",
-        "publishedAt": "2025-08-31T07:53:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
