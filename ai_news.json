@@ -1,5 +1,37 @@
 [
     {
+        "id": "83f911ed74d70de84acfdc63d3c60aab",
+        "title": "As AI and Crypto Mining Converge, Energy Pressures Spark Global Shift In Hashrate and Regulation",
+        "description": "The rapid convergence of artificial intelligence and cryptocurrency mining is intensifying global energy pressures, forcing miners to adapt through renewables, AI optimization, and shifting regional strategies.",
+        "content": "The rapid convergence of artificial intelligence and cryptocurrency mining is intensifying global energy pressures, forcing miners to adapt through renewables, AI optimization, and shifting regional strategies.\nCrypto mining revenues are projected to... [2618 chars]",
+        "url": "https://www.benzinga.com/crypto/cryptocurrency/25/08/47432632/as-ai-and-crypto-mining-converge-energy-pressures-spark-global-shift-in-hashrate-and-regulation",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/08/31/Coin-Bitcoin--Eth-And-Xrp-On-Background-.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-08-31T19:55:47Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3cd03a8651ca419476295b2808be1265",
+        "title": "Meet the Top 10 AI-Proof Jobs That Everyone Wants",
+        "description": "\"Artificial intelligence is going to replace literally half of all white-collar workers in the U.S.,\" one CEO says. But not these.",
+        "content": "AI is rapidly scaling in the workforce and creating fears of an employment crisis, as workers and people entering the workforce try to figure out if their career is on the chopping block.\nThat quick pace is backed by emerging data. As a result, peopl... [5432 chars]",
+        "url": "https://gizmodo.com/ai-proof-jobs-a-robot-cant-do-2000651426",
+        "image": "https://gizmodo.com/app/uploads/2025/08/doctor-1200x675.jpg",
+        "publishedAt": "2025-08-31T19:25:08Z",
+        "lang": "en",
+        "source": {
+            "id": "18c2a6429621fbedc49891aa7c847ec6",
+            "name": "Gizmodo",
+            "url": "https://gizmodo.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "5b43e8fa22a135a150c280de880ba71b",
         "title": "7 AI-powered tricks to make studying less stressful for students",
         "description": "News News: Academic stress is a common problem for students. Artificial Intelligence offers solutions. AI tools create personalized study plans. They also help w",
@@ -125,38 +157,6 @@
             "name": "The Financial Express",
             "url": "https://www.financialexpress.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "2987c6910565816163f767b60498832f",
-        "title": "Researchers pioneer optical generative models, ushering in a new era of sustainable generative AI",
-        "description": "In a major leap for artificial intelligence (AI) and photonics, researchers at the University of California, Los Angeles (UCLA) have created optical generative models capable of producing novel images using the physics of light instead of conventional electronic computation.",
-        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nOptical Generative Models. Credit: Ozcan Lab / UCLA.\nIn a major leap ... [6165 chars]",
-        "url": "https://phys.org/news/2025-08-optical-generative-ushering-era-sustainable.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2025/ucla-researchers-pione.jpg",
-        "publishedAt": "2025-08-31T13:20:01Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "c00479cb5cc5f083a79f59720dc50da5",
-        "title": "How is artificial intelligence affecting job searches?",
-        "description": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
-        "content": "Artificial intelligence programs like ChatGPT use AI to do thinking or writing or creating for you. Pretty amazing, but also a little terrifying. What happens to the people who used to do those jobs?\nOlivia Fair graduated four years ago. \"I've applie... [5699 chars]",
-        "url": "https://www.cbsnews.com/news/how-is-artificial-intelligence-affecting-job-searches/",
-        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/31/65e510d6-9db7-460e-b0d8-21d0ad4993ef/thumbnail/1200x630/ff77aeab8a31b673c16c28b170959b00/ai-jobs-1280.jpg",
-        "publishedAt": "2025-08-31T13:15:22Z",
-        "lang": "en",
-        "source": {
-            "id": "3a3847d645a619320aa3b3484581e395",
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com",
-            "country": "us"
         }
     }
 ]
