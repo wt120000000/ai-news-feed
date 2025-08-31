@@ -1,5 +1,21 @@
 [
     {
+        "id": "5b43e8fa22a135a150c280de880ba71b",
+        "title": "7 AI-powered tricks to make studying less stressful for students",
+        "description": "News News: Academic stress is a common problem for students. Artificial Intelligence offers solutions. AI tools create personalized study plans. They also help w",
+        "content": "Create personalised study plans\nTake smarter notes\nGet instant homework help\nMake revision less overwhelming\nManage your time effectively\nImprove writing and assignments\nReduce stress with personalised insights\nAcademic stress has become a constant c... [3192 chars]",
+        "url": "https://timesofindia.indiatimes.com/education/news/7-ai-powered-tricks-to-make-studying-less-stressful-for-students/articleshow/123619643.cms",
+        "image": "https://static.toiimg.com/thumb/msid-123619622,width-1070,height-580,imgsize-1581511,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2025-08-31T17:55:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "8fb01c6e3cb733c747159594d476b1e0",
         "title": "AI can't solve these puzzles that take humans only seconds",
         "description": "Discover why some puzzles stump supersmart AIs but are easy for humans, what this reveals about the quest for true artificial general intelligence — and why video games are the next frontier.",
@@ -12,6 +28,22 @@
             "id": "6534c1541b974602cc2ed040c2e4038f",
             "name": "Livescience.com",
             "url": "https://www.livescience.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "5946f6cdf5da0a58c145aefce1ca3b15",
+        "title": "How can a middle power compete in artificial intelligence?",
+        "description": "A tour of Britain’s newest supercomputer | Britain",
+        "content": "I N A CAR PARK on the outskirts of Bristol in south-west England, security is unusually tight. Anti-crash barriers block the entrance to a fenced compound bristling with cameras and barbed wire. At night two dog units patrol beneath a pair of large b... [267 chars]",
+        "url": "https://www.economist.com/britain/2025/08/31/how-can-a-middle-power-compete-in-artificial-intelligence",
+        "image": "https://www.economist.com/content-assets/images/20250830_BRD501.jpg",
+        "publishedAt": "2025-08-31T16:30:23Z",
+        "lang": "en",
+        "source": {
+            "id": "09b0f2a67f91c79490242d295233127e",
+            "name": "The Economist",
+            "url": "https://www.economist.com",
             "country": "gb"
         }
     },
@@ -125,38 +157,6 @@
             "name": "CBS News",
             "url": "https://www.cbsnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "2ffac7eeb24da9ccbf9069389bcaf2d4",
-        "title": "ITR Filing 2025: Common mistakes to avoid during income tax filing this year",
-        "description": "With the department’s increasing reliance on technology and artificial intelligence to track discrepancies, filing carelessly may prove costly.",
-        "content": "The deadline to file income tax returns (ITR) for the financial year 2024–25 (AY 2025–26) is closing in fast. The government had extended the due date from July 31 to September 15. But it is wise to not wait until the last minute to avoid both techni... [2559 chars]",
-        "url": "https://www.financialexpress.com/money/itr-filing-2025-common-mistakes-to-avoid-during-income-tax-filing-this-year-3962742/",
-        "image": "https://www.financialexpress.com/wp-content/uploads/2025/08/Tax-Filing-Freepik.jpg",
-        "publishedAt": "2025-08-31T11:32:26Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c66b9411565dd6c12c773ede5e9e1799",
-        "title": "Google chief scientist Jeff Dean says that there are certain things in AI he always avoids talking about as, 'lots of people have very different ...'",
-        "description": "Tech News : Google's Chief Scientist Jeff Dean avoids discussing Artificial General Intelligence (AGI) due to its varying definitions. He believes current AI mode",
-        "content": "Google's Jeff Dean on definition of AGI\nThere is one conversation related to AI that Google 's Chief Scientist Jeff Dean says he always tries to avoid. In a recent interview, Google's Jeff Dean, shared his reason for avoiding a popular topic in the A... [1824 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-chief-scientist-jeff-dean-says-that-there-are-certain-things-in-ai-he-always-avoids-talking-about-as-lots-of-people-have-very-different-/articleshow/123615153.cms",
-        "image": "https://static.toiimg.com/thumb/msid-123615148,width-1070,height-580,imgsize-1881816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-08-31T11:31:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
