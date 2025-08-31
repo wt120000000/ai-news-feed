@@ -1,5 +1,21 @@
 [
     {
+        "id": "c00479cb5cc5f083a79f59720dc50da5",
+        "title": "How is artificial intelligence affecting job searches?",
+        "description": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
+        "content": "Artificial intelligence programs like ChatGPT use AI to do thinking or writing or creating for you. Pretty amazing, but also a little terrifying. What happens to the people who used to do those jobs?\nOlivia Fair graduated four years ago. \"I've applie... [5699 chars]",
+        "url": "https://www.cbsnews.com/news/how-is-artificial-intelligence-affecting-job-searches/",
+        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/31/65e510d6-9db7-460e-b0d8-21d0ad4993ef/thumbnail/1200x630/ff77aeab8a31b673c16c28b170959b00/ai-jobs-1280.jpg",
+        "publishedAt": "2025-08-31T13:15:22Z",
+        "lang": "en",
+        "source": {
+            "id": "3a3847d645a619320aa3b3484581e395",
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "2ffac7eeb24da9ccbf9069389bcaf2d4",
         "title": "ITR Filing 2025: Common mistakes to avoid during income tax filing this year",
         "description": "With the department’s increasing reliance on technology and artificial intelligence to track discrepancies, filing carelessly may prove costly.",
@@ -141,22 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "70504303e9507f171c2d182b56fad41f",
-        "title": "Global movement to protect kids online fuels a wave of AI safety tech",
-        "description": "The global online safety movement has paved the way for a number of artificial intelligence-powered products designed to keep kids away from potentially harmful things on the internet",
-        "content": "The global online safety movement has paved the way for a number of artificial intelligence-powered products designed to keep kids away from potentially harmful things on the internet.\nIn the U.K., a new piece of legislation called the Online Safety ... [4622 chars]",
-        "url": "https://www.nbcnews.com/tech/tech-news/global-movement-protect-kids-online-fuels-wave-ai-safety-tech-rcna228250",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250830-phone-cc-1025p-1b2825.jpg",
-        "publishedAt": "2025-08-31T02:29:22Z",
-        "lang": "en",
-        "source": {
-            "id": "77b86639d1384ac68141803ec5db27c0",
-            "name": "NBC News",
-            "url": "https://www.nbcnews.com",
-            "country": "us"
         }
     }
 ]
