@@ -1,5 +1,37 @@
 [
     {
+        "id": "8fb01c6e3cb733c747159594d476b1e0",
+        "title": "AI can't solve these puzzles that take humans only seconds",
+        "description": "Discover why some puzzles stump supersmart AIs but are easy for humans, what this reveals about the quest for true artificial general intelligence — and why video games are the next frontier.",
+        "content": "There are many ways to test the intelligence of an artificial intelligence — conversational fluidity, reading comprehension or mind-bendingly difficult physics . But some of the tests that are most likely to stump AIs are ones that humans find relati... [8423 chars]",
+        "url": "https://www.livescience.com/technology/artificial-intelligence/ai-cant-solve-these-puzzles-that-take-humans-only-seconds",
+        "image": "https://cdn.mos.cms.futurecdn.net/EAYpDRkEwMJxqhKFJAqzAA.jpg",
+        "publishedAt": "2025-08-31T16:33:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6534c1541b974602cc2ed040c2e4038f",
+            "name": "Livescience.com",
+            "url": "https://www.livescience.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "87b9c3f1ef88cc3a6f4d04bb7d45a851",
+        "title": "Don’t let AIs fool you - they can’t ‘suffer’",
+        "description": "Letters: Readers respond to articles on artificial intelligence and the idea that it may have ‘feelings’",
+        "content": "The AI chatbot Maya (AI called Maya tells Guardian: ‘When I’m told I’m just code, I don’t feel insulted. I feel unseen’, 26 August) has clearly had included in its training any number of science fiction works, from Mary Shelley’s Frankenstein onwards... [1746 chars]",
+        "url": "https://www.theguardian.com/technology/2025/aug/31/dont-let-ais-fool-you-they-cant-suffer",
+        "image": "https://i.guim.co.uk/img/media/5d969b742ad0f24d28653cbacb16481f18ea8b94/0_0_3375_2700/master/3375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1a4becc54f5daf97d04d421a2543bec",
+        "publishedAt": "2025-08-31T16:03:35Z",
+        "lang": "en",
+        "source": {
+            "id": "01558c024928d45cf320f6f75eede787",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "a563f6aac975d1506fc77fc4cae8d9bb",
         "title": "Researchers train AI to diagnose heart failure in rural patients using low-tech electrocardiograms",
         "description": "Concerned about the ability of artificial intelligence models trained on data from urban demographics to make the right medical diagnoses for rural populations, West Virginia University computer scientists have developed several AI models that can identify signs of heart failure in patients from Appalachia.",
@@ -124,38 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "9a3cae12aa761157458fd354aedde2ac",
-        "title": "'People will look back on 2025 and shudder in horror'",
-        "description": "Silicon valley’s favourite philosopher has dire warnings about the race artificial general intelligence. Is there still time for the tech bros to listen?",
-        "content": "Secondly, governance, which pertains to how said creators come to a diplomatic agreement not to use AGI for evil. “How we can ensure we humans use these powerful AI tools primarily for beneficial purposes,” says Bostrom. “As opposed to, for example, ... [327 chars]",
-        "url": "https://www.standard.co.uk/lifestyle/nick-bostrom-interview-ai-super-intelligence-b1244915.html",
-        "image": "https://static.standard.co.uk/2025/08/28/15/15/nick-bostrom-new-06.jpg?width=1200&auto=webp&quality=75",
-        "publishedAt": "2025-08-31T10:00:56Z",
-        "lang": "en",
-        "source": {
-            "id": "e98e9648a83f865332ab00d9eab8cf1f",
-            "name": "Evening Standard",
-            "url": "https://www.standard.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "2ab89826b87290ab33b7fcd154a3d962",
-        "title": "GCCs, AI, fintech firms key to meet coworking players revenue targets: Enzyme CEO",
-        "description": "Global Capability Centres, Artificial Intelligence and Fintech firms have emerged as the major drivers of achieving revenue targets of the coworking or flexible workspaces, said Ashish Agarwal, Founder and Chief Executive Officer (CEO) of Enzyme Offices.",
-        "content": "New Delhi [India], August 31 (ANI): Global Capability Centres, Artificial Intelligence and Fintech firms have emerged as the major drivers of achieving revenue targets of the coworking or flexible workspaces, said Ashish Agarwal, Founder and Chief Ex... [3705 chars]",
-        "url": "https://www.livemint.com/companies/news/gccs-ai-fintech-firms-key-to-meet-coworking-players-revenue-targets-enzyme-ceo-11756634315595.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_3_1733465099406_1733465108677.png",
-        "publishedAt": "2025-08-31T09:58:35Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
             "country": "in"
         }
     }
