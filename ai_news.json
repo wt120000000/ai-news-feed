@@ -1,5 +1,21 @@
 [
     {
+        "id": "b49ec260cd5b5dd4bc64ee23e49e12b5",
+        "title": "How ‘Clanker’ Became an Anti-A.I. Rallying Cry",
+        "description": "The term, which was popularized by a “Star Wars” show and is rooted in real frustrations with technology, has become a go-to slur against artificial intelligence and robots.",
+        "content": "In the television show “Battlestar Galactica,” they were called toasters. In the film “Blade Runner,” skinjobs. Now in the culture war against robots and artificial intelligence chatbots, a new slur has emerged.\n“Clanker.”\n“Get this dirty clanker out... [522 chars]",
+        "url": "https://www.nytimes.com/2025/08/31/technology/clanker-anti-ai.html",
+        "image": "https://static01.nyt.com/images/2025/08/30/business/00clanker/00clanker-facebookJumbo.jpg",
+        "publishedAt": "2025-08-31T09:00:46Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d57c1ed6cfb5615375ccf3db42f61f2f",
         "title": "House bill seeks to regulate AI use",
         "description": "MANILA, Philippines — A bill that aims to regulate the use of artificial intelligence (AI) in the country has been filed in the House of Representatives.",
@@ -141,22 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "f3e7bcaeda7217e5ad74beb0f8acf20f",
-        "title": "Trade Vector AI: How Trade Vector Artificial Intelligence Platform Is Transforming Automated Trading Systems",
-        "description": "Trade Vector AI-powered platform introduces cutting-edge automation, enhanced security protocols, and real-time market performance tools designed to reshape the future of digital trading",
-        "content": "Trade Vector AI-powered platform introduces cutting-edge automation, enhanced security protocols, and real-time market performance tools designed to reshape the future of digital trading\nTrade Vector AI Get the latest news\ndelivered to your inbox Sig... [26421 chars]",
-        "url": "https://www.manilatimes.net/2025/08/31/tmt-newswire/globenewswire/trade-vector-ai-how-trade-vector-artificial-intelligence-platform-is-transforming-automated-trading-systems/2176446",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/31/731349.png",
-        "publishedAt": "2025-08-30T19:08:05Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
