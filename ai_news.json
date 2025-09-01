@@ -1,5 +1,85 @@
 [
     {
+        "id": "05f9df0223f46f58e06a17cac49aa12f",
+        "title": "‘I have reduced staff from 9,000 to 5,000 because…’: Salesforce CEO Marc Benioff justifies why his company cut 4,000 jobs",
+        "description": "Salesforce has laid off 4,000 customer support employees as artificial intelligence takes on a growing share of its service operations.",
+        "content": "Artificial Intelligence strikes again! Yep you heard that right AI has now led to layoffs in yet another company. Tech Industry is reeling from mass layoffs after layoffs as AI is increasingly being used by companies to automate jobs. Salesforce has ... [2524 chars]",
+        "url": "https://www.financialexpress.com/life/technology-i-have-reduced-staff-from-9000-to-5000-because-salesforce-ceo-marc-benioff-justifies-why-his-company-cut-4000-jobs-3963675/",
+        "image": "https://www.financialexpress.com/wp-content/uploads/2025/09/Untitled-design-2025-09-01T172903.862.jpg",
+        "publishedAt": "2025-09-01T12:02:49Z",
+        "lang": "en",
+        "source": {
+            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+            "name": "The Financial Express",
+            "url": "https://www.financialexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "1eb18d8609e60c8b6c2aef87e30988ea",
+        "title": "How can a middle power compete in artificial intelligence?",
+        "description": "A tour of Britain’s newest supercomputer | World News",
+        "content": "IN A CAR PARK on the outskirts of Bristol in south-west England, security is unusually tight. Anti-crash barriers block the entrance to a fenced compound bristling with cameras and barbed wire. At night two dog units patrol beneath a pair of large bl... [4708 chars]",
+        "url": "https://www.hindustantimes.com/world-news/how-can-a-middle-power-compete-in-artificial-intelligence-101756718677349.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2025/09/01/1600x900/Isambard_AI_1756718684048_1756718696993.jpg",
+        "publishedAt": "2025-09-01T11:30:07Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "c42bd2df46b0dd237748bb37b93bbd48",
+        "title": "AI Euphoria to Fuel 20% S&P Rally by End-2026, Evercore ISI Says",
+        "description": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
+        "content": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.\nThe S&P 500 is forecast to reach 7,750 points by the end of next year, with “a technological revolut... [265 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-09-01/ai-euphoria-to-fuel-20-s-p-rally-by-end-2026-evercore-isi-says",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifiB2tPla8F0/v1/1200x800.jpg",
+        "publishedAt": "2025-09-01T11:15:16Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2f811d9b92b1c13a7e0780fdb1d44333",
+        "title": "PH urged to adopt ‘active governance’ to mitigate AI risks",
+        "description": "Governing the risks of advanced artificial intelligence (AI) requires a multi-step, “whole-of-organization” approach to avoid the Philippines from being",
+        "content": "Governing the risks of advanced artificial intelligence (AI) requires a multi-step, “whole-of-organization” approach to avoid the Philippines from being overwhelmed by external, AI-related threats, according to a legal expert.\nThe Philippines ranks 6... [2249 chars]",
+        "url": "https://manilastandard.net/business/314637279/ph-urged-to-adopt-active-governance-to-mitigate-ai-risks.html",
+        "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/04/Untitled-design.jpg",
+        "publishedAt": "2025-09-01T11:10:00Z",
+        "lang": "en",
+        "source": {
+            "id": "e9207083a357fb7e76b38e485888ebe7",
+            "name": "manilastandard.net",
+            "url": "https://manilastandard.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "6f53ddce020951801d1d712624861d6b",
+        "title": "Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America",
+        "description": "WIRED talks to the director of the Chilean National Center for Artificial Intelligence about Latam-GPT, the large-language model that aims to address the region’s specific needs and change the current technological dynamic.",
+        "content": "The supercomputing infrastructure at the University of Tarapacá (UTA) in Arica, Chile, is a fundamental pillar for Latam-GPT. With a projected investment of $10 million, the new center has a cluster of 12 nodes, each equipped with eight state-of-the-... [3004 chars]",
+        "url": "https://www.wired.com/story/latam-gpt-the-free-open-source-and-collaborative-ai-of-latin-america/",
+        "image": "https://media.wired.com/photos/68b1f8e975376e91d567cb26/191:100/w_1280,c_limit/WIRED-IT-LLM-Latin-America-2182163226.jpg",
+        "publishedAt": "2025-09-01T11:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "b683218c3952d77a76b7bda7512f2f6e",
+            "name": "WIRED",
+            "url": "https://www.wired.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "e28e16020baa0435a988364eefbed3e9",
         "title": "Siddharth Pai: OpenAI’s India launch will steepen its learning curve",
         "description": "ChatGPT’s low-cost service here gives it a vast test market of diverse and argumentative chatbot users. For the evolution of artificial intelligence (AI), the gains from such mass interactivity are worth more to its developer OpenAI than the revenues raised.",
@@ -76,86 +156,6 @@
             "id": "b33a42ef1c098421f66aad47a76d6a3c",
             "name": "The Hindu",
             "url": "https://www.thehindu.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "9e90ba6de9cb6b3e5800fff79ddbfab3",
-        "title": "AIM Webinar with HCLTech: Redefining Engineering Careers in the Age of AI & GenAI",
-        "description": "Artificial intelligence (AI) and generative AI (GenAI) are no longer buzzwords. They are transforming the very core of engineering. From reshaping traditional roles to unlocking new pathways for growth, these technologies are redefining how engineering talent will contribute to the industries of tomorrow.",
-        "content": "AIM Webinar with HCLTech: Redefining Engineering Careers in the Age of AI & GenAI\nJoin AIM Innovator Sessions Webinar to Explore How AI & GenAI Are Disrupting Traditional Engineering Roles and Creating New Opportunities.\nArtificial intelligence (AI) ... [3601 chars]",
-        "url": "https://analyticsindiamag.com/ai-highlights/aim-webinar-with-hcltech-redefining-engineering-careers-in-the-age-of-ai-genai/",
-        "image": "https://analyticsindiamag.com/wp-content/uploads/2025/09/HCL-Zoom-Webinar-4-1300x731.png",
-        "publishedAt": "2025-09-01T09:35:07Z",
-        "lang": "en",
-        "source": {
-            "id": "628299239469ffa8b7dbb809aabbcc2e",
-            "name": "Analytics India Magazine",
-            "url": "https://analyticsindiamag.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "9cdc5fbd574ff864e230c2e513864e43",
-        "title": "AIIMS doctor quips ChatGPT could have prevented his breakup with his girlfriend as he shares AI lessons",
-        "description": "An AIIMS Delhi doctor's heartbreak became his gateway to artificial intelligence. His girlfriend ended their relationship because he failed to learn from his mistakes. He realized AI systems learn and adapt, unlike his past behavior. This inspired him to explore machine learning. His journey with AI began after his love story ended outside a canteen.",
-        "content": "as a Reliable and Trusted News Source Addas a Reliable and Trusted News Source Add Now!\nBreakups are never easy, but for one AIIMS Delhi doctor, it became the unexpected turning point that introduced him to artificial intelligence. Dr Datta recently ... [1568 chars]",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/aiims-doctor-quips-chatgpt-could-have-prevented-his-breakup-with-his-girlfriend-as-he-shares-ai-lessons/articleshow/123631335.cms",
-        "image": "https://img.etimg.com/thumb/msid-123631393,width-1200,height-630,imgsize-45726,overlay-etpanache/articleshow.jpg",
-        "publishedAt": "2025-09-01T09:02:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "0a65f493517a8f273a7de49b57d67b9b",
-        "title": "AI bringing dinosaurs to life: How scientists are turning Jurassic Park into reality",
-        "description": "Science News: Artificial intelligence is changing how we study dinosaurs. Scientists use AI to rebuild fossils and create realistic images. AI helps in understandin",
-        "content": "Representative image\nDinosaur reconstruction with AI\nAI-generated visuals and immersive experiences\nJurassic Park: reality vs fiction\nTimeline and future prospects\nFor decades, the idea of bringing dinosaurs back from extinction was confined to the r... [3231 chars]",
-        "url": "https://timesofindia.indiatimes.com/science/ai-bringing-dinosaurs-to-life-how-scientists-are-turning-jurassic-park-into-reality/articleshow/123631270.cms",
-        "image": "https://static.toiimg.com/thumb/msid-123631250,width-1070,height-580,imgsize-118254,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-09-01T08:57:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e9bda05d55821c591289bb8bbba1f220",
-        "title": "AI shame grips the present generation: What’s driving Gen Z’s anxiety over artificial intelligence",
-        "description": "Careers News: Gen Z professionals are facing a unique paradox: expected to harness AI instantly yet often left without proper guidance, leading to widespread “AI sh",
-        "content": "The roots of Gen Z anxiety\nTurning anxiety into opportunity: Practical strategies for Gen Z\nProactive skill-building: Seek structured learning opportunities—online courses, internal workshops, or mentorship programs—to gain confidence and reduce reli... [3831 chars]",
-        "url": "https://timesofindia.indiatimes.com/education/careers/news/ai-shame-grips-the-present-generation-whats-driving-gen-zs-anxiety-over-artificial-intelligence/articleshow/123631086.cms",
-        "image": "https://static.toiimg.com/thumb/msid-123631134,width-1070,height-580,imgsize-182220,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-09-01T08:49:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "858d4789b63aecea0dcf78b3e343175d",
-        "title": "Raghuram Rajan: It’s game open on AI rules as an ideal balance is yet to be struck",
-        "description": "Right now, it’s US laissez faire versus the EU’s innovation-stifling caution over the risks of artificial intelligence (AI). Symbiotic interaction between the two—with wild ventures from one side tamed by the other—may yield positive outcomes. But this is far from assured.",
-        "content": "The problem with European regulators, a German businessman recently told me, is that they are too scared of downside risks. “In any innovative new business sector, they overregulate and stifle any upside potential.\" In contrast, he argued, Americans ... [6216 chars]",
-        "url": "https://www.livemint.com/opinion/online-views/european-ai-regulation-eu-law-2024-genai-openai-anthropic-google-donald-trump-action-plan-ai-sandbox-chatbot-china-us-11756490037273.html",
-        "image": "https://www.livemint.com/lm-img/img/2025/08/31/1600x900/5SGY6Y3N_1756631536850_1756631545006.jpg",
-        "publishedAt": "2025-09-01T08:30:16Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
             "country": "in"
         }
     }
