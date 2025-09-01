@@ -1,5 +1,37 @@
 [
     {
+        "id": "115efdca37581714636e3f98002738ae",
+        "title": "AI may be brought under new digital competition law",
+        "description": "Govt may bring artificial intelligence under the upcoming Digital Competition Bill. The move would extend ex-ante antitrust rules to AI, addressing risks of data monopolisation, algorithmic collusion and market dominance by Big Tech, as regulators worldwide tighten AI oversight.",
+        "content": "As the government is re-drafting the Digital Competition Bill (DCB) with a view to making it more in tune with the market realities, it may explicitly extend the proposed special antitrust regime for the digital economy to the emerging area of artifi... [5560 chars]",
+        "url": "https://www.financialexpress.com/artificial-intelligence/ai-may-be-brought-under-new-digital-competition-law/3962791/",
+        "image": "https://www.financialexpress.com/wp-content/uploads/2025/08/aii.freepik.jpg",
+        "publishedAt": "2025-09-01T02:56:14Z",
+        "lang": "en",
+        "source": {
+            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+            "name": "The Financial Express",
+            "url": "https://www.financialexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "4fdb5ee0f3ecdd727e0cb504bd8d9492",
+        "title": "Apple ‘Awe Dropping’ Event on 9 September: iPhone 17 Pro Max, 17 Air and 17 Pro pricing tipped",
+        "description": "On September 9, 2025, Apple will present its 'Awe Dropping' keynote at the Steve Jobs Theatre, focusing on the iPhone 17 series and updates to other products, along with advancements in artificial intelligence technology.",
+        "content": "Apple is all geared up to host its autumn keynote for 9 September 2025, with the event to be staged at the Steve Jobs Theatre in Apple Park, Cupertino. Branded “Awe Dropping”, the presentation is being billed as one of the company’s most consequentia... [1604 chars]",
+        "url": "https://www.livemint.com/technology/gadgets/apple-awe-dropping-event-on-9-september-iphone-17-pro-max-17-air-and-17-pro-pricing-tipped-11756694956048.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/09/01/1600x900/iPhone_17_Pro_Max_1754881382357_1754881382573_1756695081963.jpg",
+        "publishedAt": "2025-09-01T02:56:02Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "bbb1cd9dad37e52c748194183c8225f8",
         "title": "HESTA demands boards act on cybersecurity, AI risks",
         "description": "HESTA has put boards on notice that it wants to see directors with experience in cybersecurity and artificial intelligence to boost companies’ “global resilience”.",
@@ -124,38 +156,6 @@
             "id": "6534c1541b974602cc2ed040c2e4038f",
             "name": "Livescience.com",
             "url": "https://www.livescience.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "5946f6cdf5da0a58c145aefce1ca3b15",
-        "title": "How can a middle power compete in artificial intelligence?",
-        "description": "A tour of Britain’s newest supercomputer | Britain",
-        "content": "I N A CAR PARK on the outskirts of Bristol in south-west England, security is unusually tight. Anti-crash barriers block the entrance to a fenced compound bristling with cameras and barbed wire. At night two dog units patrol beneath a pair of large b... [267 chars]",
-        "url": "https://www.economist.com/britain/2025/08/31/how-can-a-middle-power-compete-in-artificial-intelligence",
-        "image": "https://www.economist.com/content-assets/images/20250830_BRD501.jpg",
-        "publishedAt": "2025-08-31T16:30:23Z",
-        "lang": "en",
-        "source": {
-            "id": "09b0f2a67f91c79490242d295233127e",
-            "name": "The Economist",
-            "url": "https://www.economist.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "87b9c3f1ef88cc3a6f4d04bb7d45a851",
-        "title": "Don’t let AIs fool you - they can’t ‘suffer’",
-        "description": "Letters: Readers respond to articles on artificial intelligence and the idea that it may have ‘feelings’",
-        "content": "The AI chatbot Maya (AI called Maya tells Guardian: ‘When I’m told I’m just code, I don’t feel insulted. I feel unseen’, 26 August) has clearly had included in its training any number of science fiction works, from Mary Shelley’s Frankenstein onwards... [1746 chars]",
-        "url": "https://www.theguardian.com/technology/2025/aug/31/dont-let-ais-fool-you-they-cant-suffer",
-        "image": "https://i.guim.co.uk/img/media/5d969b742ad0f24d28653cbacb16481f18ea8b94/0_0_3375_2700/master/3375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1a4becc54f5daf97d04d421a2543bec",
-        "publishedAt": "2025-08-31T16:03:35Z",
-        "lang": "en",
-        "source": {
-            "id": "01558c024928d45cf320f6f75eede787",
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com",
             "country": "gb"
         }
     }
