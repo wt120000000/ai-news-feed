@@ -1,5 +1,53 @@
 [
     {
+        "id": "b98a03ff92d76084b62cd14b341cc456",
+        "title": "AI Revolution: Job Creator Not Job Destroyer",
+        "description": "Commerce and Industry Minister Piyush Goyal emphasized that Artificial Intelligence (AI) holds significant potential for job creation in India. He instructed officials to utilize AI tools, like ChatGPT, responsibly. Despite concerns about automation affecting jobs, Goyal assures AI will boost employment and technological advancement, advocating for its ethical use.",
+        "content": "Artificial Intelligence (AI) is poised to revolutionize the job market in India, according to Commerce and Industry Minister Piyush Goyal. Speaking at an industry event, Goyal stated that AI will not reduce employment, but rather increase job opportu... [653 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3612109-ai-revolution-job-creator-not-job-destroyer",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/29_08_2025_11_22_13_2847886.png?width=920&format=jpeg",
+        "publishedAt": "2025-09-02T09:08:07Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "19e61fce226e0751c41a9c477fc84931",
+        "title": "Social Security Praises Its New Chatbot. Ex-Officials Say It Was Tested But Shelved Under Biden.",
+        "description": "Social Security, under the leadership of a tech enthusiast, rolled out an artificial intelligence-powered chatbot to answer calls. But as beneficiaries complain about glitches, lawmakers and former officials ask whether it’s a preview of a less human agency at which rushed-out AI takes the place of pushed-out government workers.",
+        "content": "John McGing couldn’t reach a human. That might be business-as-usual in this economy, but it wasn’t business; he had called the Social Security Administration, where the questions often aren’t generic and the callers tend to be older, disabled, or oth... [8871 chars]",
+        "url": "https://kffhealthnews.org/news/article/social-security-chatbot-customer-complaints-glitches/",
+        "image": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/08/Bisignano.jpg",
+        "publishedAt": "2025-09-02T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "2c8545196b0294859cd11b7b020d53bc",
+            "name": "KFF Health News",
+            "url": "https://kffhealthnews.org",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6a4933bff6499b979f11f0c4e31c149c",
+        "title": "Career crossroads: Will AI replace or reinvent publishing jobs?",
+        "description": "Artificial intelligence is changing the school publishing industry by blending human creativity with machine efficiency. This shift raises ethical questions and redefines the roles of authors and editors in educational content creation.",
+        "content": "Artificial Intelligence is no longer just a buzzword-it's rewriting the rules of publishing. From drafting manuscripts and editing text to designing covers and marketing books, AI is stepping into roles once reserved for humans. In a conversation wit... [3253 chars]",
+        "url": "https://www.indiatoday.in/education-today/jobs-and-careers/story/ai-school-publishing-human-ai-hybrid-creativity-author-roles-dachepalli-publishers-2780658-2025-09-02",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/ncert-books-controversy-281757232-16x9.jpg?VersionId=50zV5m651KaV9MPgezcx6DDw29XsLNbt",
+        "publishedAt": "2025-09-02T08:55:27Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "770c6b058882b1633c1bf9d586bea1ac",
         "title": "Solow Paradox: The productivity puzzle of AI can be cracked",
         "description": "The adoption of artificial intelligence (AI) seems to have let adopters down on productivity. But then, as seen in banking, it depends on what AI is adopted for: to improve decisions, for example, or automate suboptimal processes?",
@@ -109,54 +157,6 @@
             "name": "NDTV.com",
             "url": "https://www.ndtv.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "b8097804b28538feabfa9b3a33a53d18",
-        "title": "30-year-old woman dropped out of US university, now has a net worth of around ₹10,800 crore…",
-        "description": "Lucy Guo, with a net worth of $1.3 billion, co-founded Scale AI, an artificial intelligence data-labelling firm that was acquired by Meta for $25 billion.",
-        "content": "Lucy Guo, recently named Forbes’ youngest self-made woman billionaire at 30, has opened up about her unconventional path to success. With a net worth of $1.3 billion (around ₹10,800 crore in INR), Guo co-founded Scale AI, an artificial intelligence d... [2980 chars]",
-        "url": "https://www.hindustantimes.com/technology/30yearold-woman-dropped-out-of-us-university-now-has-a-net-worth-of-around-rs-10-800-crore-101756782786069.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2025/09/02/1600x900/photo-1487017159836-4e23ece2e4cf_1755421731507_1755421742500_1756782930376.jpg",
-        "publishedAt": "2025-09-02T03:30:45Z",
-        "lang": "en",
-        "source": {
-            "id": "21468bec836de1ebb209ff6f78fbfe3e",
-            "name": "Hindustan Times",
-            "url": "https://www.hindustantimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "0c5c1989a88bac2e61079ff8f2d82c5c",
-        "title": "Healthtech startups bet on AI to build electronic health records but adoption in India remains slow",
-        "description": "Indian healthtech startups are racing to digitize medical records using artificial intelligence, targeting both urban hospitals and rural clinics.",
-        "content": "India’s healthtech startups are zeroing in on a critical gap in the healthcare system: the lack of robust, interoperable electronic health records (EHRs). With artificial intelligence as their backbone, companies like Qure.ai, Jivi.ai, Tulu Health, H... [8050 chars]",
-        "url": "https://www.livemint.com/ai/healthtech-startups-ai-electronic-health-records-urban-hospitals-rural-clinics-qure-ai-jivi-ai-tulu-health-healthplix-11746890149900.html",
-        "image": "https://www.livemint.com/lm-img/img/2025/09/01/1600x900/img_pre_1698070809757_1756744653033.jpg",
-        "publishedAt": "2025-09-02T03:30:02Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "428a2b62539cd9bced137315734be824",
-        "title": "Artificial intelligence offers individualized anticoagulation decisions for atrial fibrillation",
-        "description": "Mount Sinai researchers developed an AI model to make individualized treatment recommendations for atrial fibrillation (AF) patients-helping clinicians accurately decide whether or not to treat them with anticoagulants (blood thinner medications) to prevent stroke, which is currently the standard treatment course in this patient population.",
-        "content": "Bottom Line: Mount Sinai researchers developed an AI model to make individualized treatment recommendations for atrial fibrillation (AF) patients-helping clinicians accurately decide whether or not to treat them with anticoagulants (blood thinner med... [6282 chars]",
-        "url": "https://www.news-medical.net/news/20250901/Artificial-intelligence-offers-individualized-anticoagulation-decisions-for-atrial-fibrillation.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2025-09-02T03:12:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
         }
     }
 ]
