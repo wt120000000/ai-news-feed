@@ -16,6 +16,22 @@
         }
     },
     {
+        "id": "7d63cdd05cb33f19f55264a6d4a3d720",
+        "title": "Fairfax Co. pilots AI for nonemergency 911 calls",
+        "description": "Fairfax County is testing the use of artificial intelligence to triage nonemergency 911 calls, with hopes of getting residents and visitors help faster.",
+        "content": "Fairfax County, Virginia, is testing the use of artificial intelligence to triage nonemergency 911 calls, with the hope of getting residents and visitors experiencing an urgent situation help faster.\nFairfax County, Virginia, is testing the use of ar... [2887 chars]",
+        "url": "https://wtop.com/fairfax-county/2025/09/fairfax-co-piloting-ai-for-non-emergency-911-calls/",
+        "image": "https://wtop.com/wp-content/uploads/2025/07/US_Emergency_Dispatch_Technology_40880-scaled.jpg",
+        "publishedAt": "2025-09-02T19:58:16Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "633c856c170692f732cf633fb3f930f8",
         "title": "AI minister insists ‘there’s no capitulation’ in U.S. trade talks",
         "description": "Artificial Intelligence and Digital Innovation Minister Evan Solomon says Canada’s decision to remove the bulk of its counter-tariffs on U.S. goods — amid the protracted trade war between the two countries — was not a capitulation.",
@@ -141,22 +157,6 @@
             "name": "India.com",
             "url": "https://www.india.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "de3649b31903d9567b29eac0973cdc91",
-        "title": "How AI Firms Like OpenAI and Meta Are Stealing Music: Investigation",
-        "description": "How AI firms like OpenAI and Meta steal music by scraping copyrighted works to train generative artificial intelligence systems, according to ICMP.",
-        "content": "LONDON — Some of the world’s biggest technology companies, including Google, Microsoft, Meta, OpenAI and X, scraped copyright-protected music from millions of songwriters, composers and artists to train generative artificial intelligence systems, say... [12809 chars]",
-        "url": "https://www.billboard.com/pro/ai-firms-steal-music-scrape-copyright-icmp-investigation/",
-        "image": "https://www.billboard.com/wp-content/uploads/2025/08/glennharvey_2025_08_28_billboard_f1-1800.jpg?w=1024",
-        "publishedAt": "2025-09-02T18:01:39Z",
-        "lang": "en",
-        "source": {
-            "id": "5cfd646fbad1ee4fa352342ad739c263",
-            "name": "Billboard",
-            "url": "https://www.billboard.com",
-            "country": "us"
         }
     }
 ]
