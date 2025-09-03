@@ -1,5 +1,37 @@
 [
     {
+        "id": "a5bf1ab6dbb8347a2cea38c2fa584c82",
+        "title": "China's latest AI gadget is credit card-sized recorder",
+        "description": "BEIJING — The latest artificial intelligence (AI) gadget in China is a credit-card sized note-taking recorder from Alibaba Group Holding's DingTalk unit, as Chinese firms introduce rival products to Plaud, the popular AI note-taker developed by a US start-up.",
+        "content": "BEIJING — The latest artificial intelligence (AI) gadget in China is a credit-card sized note-taking recorder from Alibaba Group Holding's DingTalk unit, as Chinese firms introduce rival products to Plaud, the popular AI note-taker developed by a US ... [2846 chars]",
+        "url": "https://www.bangkokpost.com/life/tech/3097988/chinas-latest-ai-gadget-is-credit-cardsized-recorder-as-alibabas-dingtalk-takes-on-plaud",
+        "image": "https://static.bangkokpost.com/media/content/20250903/c1_3097988_700.jpg",
+        "publishedAt": "2025-09-03T04:34:00Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
+        "id": "10c580b47100df58d68b2cf15e354ce4",
+        "title": "OpenAI Scoops Up Statsig In $1.1 Billion Deal, CEO Vijaye Raji Joins Applications Unit",
+        "description": "OpenAI announced on Tuesday that it acquired Statsig, a product experimentation platform, as the artificial intelligence company continues its aggressive acquisition strategy. Statsig CEO Vijaye Raji will join OpenAI as Chief Technology Officer of Applications, reporting to former Instacart CEO Fidji Simo.",
+        "content": "OpenAI announced on Tuesday that it acquired Statsig, a product experimentation platform, as the artificial intelligence company continues its aggressive acquisition strategy. Statsig CEO Vijaye Raji will join OpenAI as Chief Technology Officer of Ap... [1945 chars]",
+        "url": "https://www.benzinga.com/markets/tech/25/09/47465113/openai-scoops-up-statsig-in-1-1-billion-deal-ceo-vijaye-raji-joins-applications-unit",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/09/03/OpenAI.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-09-03T04:33:01Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "5e6cbe9b738fb0a49314cef2c0af36af",
         "title": "Croc-detection system using sonar and AI to be trialed in Far North Queensland",
         "description": "Boat ramp users could soon be alerted to nearby saltwater crocodiles, with the state government backing the development of a warning system using sonar and artificial intelligence technologies.",
@@ -124,38 +156,6 @@
             "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
             "name": "The Dallas Morning News",
             "url": "https://www.dallasnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c52925836614d39832a3abf9226e5690",
-        "title": "Trump says White House window video is AI. His team indicated it's real",
-        "description": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
-        "content": "By MICHELLE L. PRICE, Associated Press\nWASHINGTON (AP) — President Donald Trump said Tuesday that a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite... [2749 chars]",
-        "url": "https://www.bostonherald.com/2025/09/02/trump-white-house-window/",
-        "image": "https://www.bostonherald.com/wp-content/uploads/2025/09/Trump_88859-1.jpg?w=1024&h=682",
-        "publishedAt": "2025-09-02T22:46:19Z",
-        "lang": "en",
-        "source": {
-            "id": "bc49d994b41ac710f5c89f6e6adeece4",
-            "name": "The Boston Herald",
-            "url": "https://www.bostonherald.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f5fef5ad285eb545995cb887f84a6d02",
-        "title": "Trump says White House window video is AI. His team indicated it's real",
-        "description": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
-        "content": "By MICHELLE L. PRICE, Associated Press\nWASHINGTON (AP) — President Donald Trump said Tuesday that a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite... [2749 chars]",
-        "url": "https://www.baltimoresun.com/2025/09/02/trump-white-house-window/",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2025/09/Trump_88859-1.jpg?w=1024&h=682",
-        "publishedAt": "2025-09-02T22:46:19Z",
-        "lang": "en",
-        "source": {
-            "id": "3271eb2093cfa66b030a37cf84a8df5e",
-            "name": "Baltimore Sun",
-            "url": "https://www.baltimoresun.com",
             "country": "us"
         }
     }
