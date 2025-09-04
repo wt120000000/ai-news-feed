@@ -1,5 +1,37 @@
 [
     {
+        "id": "5974f6e8832b77b5522ccc8b49161c1c",
+        "title": "Uncertainty hits IT, hiring demand falls 10% in August",
+        "description": "Hiring at India's IT services companies has slowed since the start of the second quarter and the trend is likely to continue, according to staffing firms. In the current quarter that ends on September 30, there has so far been a 2-3% decline in demand for legacy tech jobs, but hiring has been strong for specialised roles involving artificial intelligence (AI), machine learning (ML), cloud, data and cybersecurity.",
+        "content": "ETtech\nHiring at India's IT services companies has slowed since the start of the second quarter and the trend is likely to continue, according to staffing firms. They attribute the slowdown to global economic uncertainties, increase in US tariffs and... [4469 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/information-tech/uncertainty-hits-it-hiring-demand-falls-10-in-august/articleshow/123682924.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-193220,resizemode-75,msid-123682924/tech/information-tech/uncertainty-hits-it-hiring-demand-falls-10-in-august.jpg",
+        "publishedAt": "2025-09-04T00:31:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "de03c9df7a8304c202363983521d3e93",
+        "title": "HPE Says It’s Weathering Profit Squeeze at Start of New AI Era",
+        "description": "Hewlett Packard Enterprise Co. Chief Executive Officer Antonio Neri said the company expects to weather a slimming of profit margins as it enters a new era of artificial intelligence-driven demand.",
+        "content": "(Bloomberg) -- Hewlett Packard Enterprise Co. Chief Executive Officer Antonio Neri said the company expects to weather a slimming of profit margins as it enters a new era of artificial intelligence-driven demand.\nThough the operating margin in HPE’s ... [2262 chars]",
+        "url": "https://www.livemint.com/companies/news/hpe-says-it-s-weathering-profit-squeeze-at-start-of-new-ai-era-11756942892697.html",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_1_1733464951182_1733464958176.png",
+        "publishedAt": "2025-09-03T23:41:32Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "02d0b90b24a50774c2d16af1dc0c3f17",
         "title": "Salesforce lays off thousands despite strong earnings report",
         "description": "The job cuts come as the cloud computing giant doubles down on artificial intelligence.",
@@ -124,38 +156,6 @@
             "id": "da5c26287bdd02563a2c32b55cb12051",
             "name": "Reuters",
             "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a6d14300e81402823169ec6fb509bc48",
-        "title": "A new scale of biology: Massive datasets are aiding in the fight against superbugs",
-        "description": "Artificial intelligence relies on machine learning algorithms trained on massive datasets to make predictions—think of how ChatGPT learned language by gorging on the internet. In biology, however, scientists face a frustrating challenge—the high-quality datasets needed to train powerful artificial intelligence models are rare. Without these datasets, we can't harness machine learning to tackle our most pressing health challenges.",
-        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nEach reaction using DropSynth can happen in a tiny test tube, like th... [9568 chars]",
-        "url": "https://phys.org/news/2025-09-scale-biology-massive-datasets-aiding.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/a-new-scale-of-biology.jpg",
-        "publishedAt": "2025-09-03T20:00:04Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "db6ddea51a1f22aca233e24659c60822",
-        "title": "Apple Plans AI-Powered Web Search Tool for Siri to Rival OpenAI, Perplexity",
-        "description": "Apple Inc. is planning to launch its own artificial intelligence-powered web search tool next year, stepping up competition with OpenAI and Perplexity AI Inc.",
-        "content": "Apple Inc. is planning to launch its own artificial intelligence-powered web search tool next year, stepping up competition with OpenAI and Perplexity AI Inc.\nThe company is working on a new system — dubbed internally as World Knowledge Answers — tha... [253 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-09-03/apple-plans-ai-search-engine-for-siri-to-rival-openai-google-siri-talks-advance",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGA7en9dX6vU/v1/1200x800.jpg",
-        "publishedAt": "2025-09-03T19:56:24Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
             "country": "us"
         }
     }
