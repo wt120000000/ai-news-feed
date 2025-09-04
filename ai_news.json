@@ -1,5 +1,21 @@
 [
     {
+        "id": "c827a5b3f3b89b509169441de9239266",
+        "title": "Warner Bros. Discovery Sues Midjourney for Copyright Infringement",
+        "description": "The lawsuit against Midjourney was filed as a growing contingent of Hollywood steps into the fight over generative artificial intelligence.",
+        "content": "Warner Bros. Discovery is suing a prominent artificial intelligence image generator for copyright infringement, escalating a high-stakes battle involving the use of movies and TV shows owned by major studios to teach AI systems.\nThe lawsuit accuses M... [5258 chars]",
+        "url": "https://www.hollywoodreporter.com/business/business-news/warner-bros-discovery-sues-ai-company-copyright-infringement-1236361610/",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Blank-2000-x-1127.jpg?w=1440&h=810&crop=1",
+        "publishedAt": "2025-09-04T20:02:29Z",
+        "lang": "en",
+        "source": {
+            "id": "e83df266d4bbd78d7528c3ee4fc0fc5f",
+            "name": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f80265a1b170d36952b993bb84ef532a",
         "title": "White House cuts to science funding threaten AI weather forecasting institute",
         "description": "The Trump administration is halting funding for a $20 million artificial intelligence (AI) institute designed to improve weather forecasting, a move that could sever a pipeline of scientists from receiving training while also hampering the country’s ability to assess the impacts of hurricanes and other weather disasters.",
@@ -141,22 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "4b1df21ca09f4a0a04cedc8438348ad1",
-        "title": "OpenAI Plans Jobs Platform, Certification Program for AI Roles",
-        "description": "OpenAI plans to launch a new AI-powered jobs platform next year to help match employers with candidates who have artificial intelligence skills in a bid to accelerate the technology’s deployment across businesses and government agencies.",
-        "content": "OpenAI plans to launch a new AI-powered jobs platform next year to help match employers with candidates who have artificial intelligence skills in a bid to accelerate the technology’s deployment across businesses and government agencies.\nThe ChatGPT ... [320 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-09-04/openai-unveils-jobs-platform-certification-program-for-ai-roles",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUA4aClxCM80/v1/1200x800.jpg",
-        "publishedAt": "2025-09-04T18:19:08Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
         }
     }
 ]
