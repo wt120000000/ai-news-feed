@@ -1,5 +1,69 @@
 [
     {
+        "id": "e044fbf3f547d4a417433cd7e1f50eda",
+        "title": "Tech Titans Dinner: Trump Hosts AI and Tech Leaders at the White House",
+        "description": "President Donald Trump will host a dinner at the White House inviting top tech CEOs, such as Apple’s Tim Cook and Meta’s Mark Zuckerberg. Notably absent is Elon Musk due to a public fallout with Trump. The gathering follows a meeting of the new Artificial Intelligence Education task force.",
+        "content": "The White House is set to host a distinguished dinner on Thursday, bringing together top technology CEOs for an evening with President Donald Trump. The exclusive event, held in the newly renovated Rose Garden, aims to foster discussions with leaders... [585 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3614640-tech-titans-dinner-trump-hosts-ai-and-tech-leaders-at-the-white-house",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/04_09_2025_02_02_34_8652111.png?width=920&format=jpeg",
+        "publishedAt": "2025-09-04T03:14:06Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "c5c9398e3e7210bf788444353d9ca50e",
+        "title": "Trump to host top tech CEOs - except Musk - at White House dinner Thursday",
+        "description": "The guest list is set to include Microsoft cofounder Bill Gates, Apple CEO Tim Cook, Meta CEO Mark Zuckerberg, and a dozen other executives from the biggest artificial intelligence and tech firms, according to the White House.",
+        "content": "One notable absence from the guest list is Elon Musk, once a close ally of Trump, whom the president tasked with running the government-slashing Department of Government Efficiency. Musk had a public break with Trump earlier this year.\nThe guest list... [2133 chars]",
+        "url": "https://www.bostonglobe.com/2025/09/03/nation/trump-administration-tech-ceos-white-house-dinner/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/BKDY7QN6CV7V3GUA2DTK4TPMKY.jpg?auth=975dad3241e875ccbfdc7de22b5b02ce775f1f6e8056fb885cb1fc3eb923a63b&width=1440",
+        "publishedAt": "2025-09-04T03:10:06Z",
+        "lang": "en",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "0e83e4403b79f1f8965b311c2285f7da",
+        "title": "Trump to Host Meta’s Zuckerberg, Tech CEOs in Redone Rose Garden",
+        "description": "Tech industry leaders including Meta Platforms Inc.’s Mark Zuckerberg, Apple Inc.’s Tim Cook, and Microsoft Corp.’s Satya Nadella are expected to attend an artificial intelligence event hosted by First Lady Melania Trump on Thursday and then join President Donald Trump for an evening reception in the newly renovated Rose Garden.",
+        "content": "Tech industry leaders including Meta Platforms Inc.’s Mark Zuckerberg , Apple Inc.’s Tim Cook , and Microsoft Corp.’s Satya Nadella are expected to attend an artificial intelligence event hosted by First Lady Melania Trump on Thursday and then join P... [346 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-09-04/trump-to-host-meta-s-zuckerberg-tech-ceos-in-redone-rose-garden",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBLsFa1MkJnk/v0/1200x800.jpg",
+        "publishedAt": "2025-09-04T03:03:39Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "8931fef8813cd39226db458f1bac6617",
+        "title": "NSW government establishes Office for Artificial Intelligence amid productivity crisis",
+        "description": "An Australian state has made a landmark move in a bid to boost the safe adoption of the controversial technology in the public sector.",
+        "content": "The NSW government has established a new Office for Artificial Intelligence.\nThe NSW government has established a new Office for Artificial Intelligence. Credit: istock\nThe NSW government has established a new Office for Artificial Intelligence to dr... [3013 chars]",
+        "url": "https://www.perthnow.com.au/news/nsw-government-establishes-office-for-artificial-intelligence-amid-productivity-crisis-c-19907655",
+        "image": "https://images.perthnow.com.au/publication/C-19907655/d752d4dda5043d6266f8f26cc38e4933b9dc1847-16x9-x0y474w1229h691.jpg?imwidth=1200",
+        "publishedAt": "2025-09-04T03:02:29Z",
+        "lang": "en",
+        "source": {
+            "id": "7f6e8514e9d8f8376aaa9a7229861518",
+            "name": "PerthNow",
+            "url": "https://www.perthnow.com.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "3d68f0e3bb17673846e919a481235f4d",
         "title": "Why agentic AI will redefine the future of finance",
         "description": "GUEST OPINION:  Artificial intelligence (AI) has come a long way, from basic automation to today’s large language models (LLMs), capable of...",
@@ -93,70 +157,6 @@
             "name": "WDIV ClickOnDetroit",
             "url": "https://www.clickondetroit.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "f57977bf9dcdd9a6b73859a4735309bd",
-        "title": "Oakland Ballers to Use Artificial Intelligence to Manage Saturday Home Game Against Great Falls",
-        "description": "OAKLAND, Calif. (AP) — Oakland Ballers manager Aaron Miles will leave it to artificial intelligence to decide when to pinch hit or replace his pitcher.",
-        "content": "OAKLAND, Calif. (AP) — Oakland Ballers manager Aaron Miles will leave it to artificial intelligence to decide when to pinch hit or replace his pitcher.\nThe playoff-bound Ballers of the independent Pioneer League are turning to AI to manage most aspec... [3745 chars]",
-        "url": "https://www.usnews.com/news/sports/articles/2025-09-03/oakland-ballers-to-use-artificial-intelligence-to-manage-saturday-home-game-against-great-falls",
-        "image": "https://www.usnews.com/dims4/USNEWS/989be3f/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ff9%2F281df44612fb0407f8d9a3828c1783%2F7a1b986769694f67be317a84ffec0c3cBallers_AI_Game_Baseball_49495.jpg",
-        "publishedAt": "2025-09-04T01:45:00Z",
-        "lang": "en",
-        "source": {
-            "id": "37128a060981dbbe79321f096e7d1108",
-            "name": "U.S. News & World Report",
-            "url": "https://www.usnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5974f6e8832b77b5522ccc8b49161c1c",
-        "title": "Uncertainty hits IT, hiring demand falls 10% in August",
-        "description": "Hiring at India's IT services companies has slowed since the start of the second quarter and the trend is likely to continue, according to staffing firms. In the current quarter that ends on September 30, there has so far been a 2-3% decline in demand for legacy tech jobs, but hiring has been strong for specialised roles involving artificial intelligence (AI), machine learning (ML), cloud, data and cybersecurity.",
-        "content": "ETtech\nHiring at India's IT services companies has slowed since the start of the second quarter and the trend is likely to continue, according to staffing firms. They attribute the slowdown to global economic uncertainties, increase in US tariffs and... [4469 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/information-tech/uncertainty-hits-it-hiring-demand-falls-10-in-august/articleshow/123682924.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-193220,resizemode-75,msid-123682924/tech/information-tech/uncertainty-hits-it-hiring-demand-falls-10-in-august.jpg",
-        "publishedAt": "2025-09-04T00:31:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "de03c9df7a8304c202363983521d3e93",
-        "title": "HPE Says It’s Weathering Profit Squeeze at Start of New AI Era",
-        "description": "Hewlett Packard Enterprise Co. Chief Executive Officer Antonio Neri said the company expects to weather a slimming of profit margins as it enters a new era of artificial intelligence-driven demand.",
-        "content": "(Bloomberg) -- Hewlett Packard Enterprise Co. Chief Executive Officer Antonio Neri said the company expects to weather a slimming of profit margins as it enters a new era of artificial intelligence-driven demand.\nThough the operating margin in HPE’s ... [2262 chars]",
-        "url": "https://www.livemint.com/companies/news/hpe-says-it-s-weathering-profit-squeeze-at-start-of-new-ai-era-11756942892697.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_1_1733464951182_1733464958176.png",
-        "publishedAt": "2025-09-03T23:41:32Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "02d0b90b24a50774c2d16af1dc0c3f17",
-        "title": "Salesforce lays off thousands despite strong earnings report",
-        "description": "The job cuts come as the cloud computing giant doubles down on artificial intelligence.",
-        "content": "The job cuts come as the cloud computing giant doubles down on artificial intelligence.\nSalesforce has slashed another 4,000 jobs from its customer support workforce as the tech giant doubles down on artificial intelligence, even as the company repor... [4315 chars]",
-        "url": "https://www.aljazeera.com/economy/2025/9/3/salesforce-lays-off-thousands-despite-strong-earnings-report",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2025/09/2019-03-07T213910Z_210658855_RC1BACDC5F60_RTRMADP_3_USA-SALESFORCE-COM-1756931031.jpg?resize=1920%2C1440",
-        "publishedAt": "2025-09-03T22:27:10Z",
-        "lang": "en",
-        "source": {
-            "id": "8ed6c6b6dec4f35a4963354fb78b9754",
-            "name": "Al Jazeera",
-            "url": "https://www.aljazeera.com",
-            "country": "qa"
         }
     }
 ]
