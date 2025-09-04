@@ -1,5 +1,21 @@
 [
     {
+        "id": "f80265a1b170d36952b993bb84ef532a",
+        "title": "White House cuts to science funding threaten AI weather forecasting institute",
+        "description": "The Trump administration is halting funding for a $20 million artificial intelligence (AI) institute designed to improve weather forecasting, a move that could sever a pipeline of scientists from receiving training while also hampering the country’s ability to assess the impacts of hurricanes and other weather disasters.",
+        "content": "The Trump administration is halting funding for a $20 million artificial intelligence (AI) institute designed to improve weather forecasting, a move that could sever a pipeline of scientists from receiving training while also hampering the country’s ... [4842 chars]",
+        "url": "https://www.nbcnews.com/science/science-news/white-house-cuts-science-funding-threaten-ai-weather-forecasting-insti-rcna228934",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250807-national-weather-service-vl-1257p-f3ae03.jpg",
+        "publishedAt": "2025-09-04T19:50:36Z",
+        "lang": "en",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "665c82f5e1568a683ee4c5db2750b3c9",
         "title": "OpenAI Plans Jobs Platform, Certification Program For AI Roles",
         "description": "OpenAI plans to launch a new AI-powered jobs platform next year to help match employers with candidates who have artificial intelligence skills in a bid to accelerate the technology’s deployment across businesses and government agencies. The ChatGPT maker will also introduce a new certification program in the coming months that will teach workers how to better use AI on the job. OpenAI is working with multiple organizations on the program, including Walmart Inc.",
@@ -112,6 +128,22 @@
         }
     },
     {
+        "id": "00b73a2567ea90975d36f3bca2066dd9",
+        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Microsoft's Bold Commitment to AI Education at the White House",
+        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
+        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
+        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
+        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
+        "publishedAt": "2025-09-04T18:22:49Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "4b1df21ca09f4a0a04cedc8438348ad1",
         "title": "OpenAI Plans Jobs Platform, Certification Program for AI Roles",
         "description": "OpenAI plans to launch a new AI-powered jobs platform next year to help match employers with candidates who have artificial intelligence skills in a bid to accelerate the technology’s deployment across businesses and government agencies.",
@@ -125,38 +157,6 @@
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "a1a34bbd35834fd6f54b0d937d89aa8f",
-        "title": "Melania Trump reemerges to highlight responsible AI: ‘The robots are here’",
-        "description": "First lady Melania Trump made rare public remarks on Thursday, calling on private and public sector leaders to prepare children for the growth of artificial intelligence, at a Thursday event at the White House.",
-        "content": "AI Trump family See all topics Follow\nFirst lady Melania Trump made rare public remarks on Thursday, calling on private and public sector leaders to prepare children for the growth of artificial intelligence, at a Thursday event at the White House.\n“... [2420 chars]",
-        "url": "https://edition.cnn.com/2025/09/04/politics/melania-trump-white-house-appearance-ai",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-04t173418z-1338221866-rc25lgal3nde-rtrmadp-3-usa-trump-melania.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-09-04T18:02:01Z",
-        "lang": "en",
-        "source": {
-            "id": "26269dbc42635df9af8c24f3cdab8e37",
-            "name": "Cable News Network",
-            "url": "https://edition.cnn.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d9a7e2c6ba18b4d62f7bb23c25e15be0",
-        "title": "AI model reveals hidden earthquake swarms and faults in Italy's Campi Flegrei",
-        "description": "Scientists are using artificial intelligence to understand escalating unrest in Italy's Campi Flegrei, a volcanic area that is home to hundreds of thousands of people.",
-        "content": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\nEarthquakes that occurred in the Pozzuoli-Campi Flegrei region about ... [5337 chars]",
-        "url": "https://phys.org/news/2025-09-ai-reveals-hidden-earthquake-swarms.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-model-reveals-hidde.jpg",
-        "publishedAt": "2025-09-04T18:00:26Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
         }
     }
 ]
