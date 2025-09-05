@@ -1,5 +1,21 @@
 [
     {
+        "id": "c78b1d076b30269335ecbe8842977adf",
+        "title": "FDA will convene Digital Health Advisory Committee in November",
+        "description": "In the past, DHAC meetings have focused on artificial intelligence and medical devices.",
+        "content": "The Food and Drug Administration will convene a meeting of external digital health advisors on Nov. 6, according to an email reviewed by STAT. The gathering comes as the agency wrestles with myriad issues related to regulating artificial intelligence... [470 chars]",
+        "url": "https://www.statnews.com/2025/09/05/fda-digital-health-advisory-committee-november-meeting/",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/09/GettyImages-1227710420-1024x576.jpg",
+        "publishedAt": "2025-09-05T22:17:09Z",
+        "lang": "en",
+        "source": {
+            "id": "8867e8e7dcb6466620736bb48c455572",
+            "name": "STAT",
+            "url": "https://www.statnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b57a971b3acc2d3df49aa400bb6b11b8",
         "title": "Apple sued by authors over use of books in AI training",
         "description": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
@@ -140,22 +156,6 @@
             "id": "17d7c2645f485578130862e0c8dd9480",
             "name": "The Mercury News",
             "url": "https://www.mercurynews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "181fc4b2fa291cfafa403553f6295195",
-        "title": "Amazon-backed Anthropic agrees to pay authors $1.5B to settle AI copyright lawsuit",
-        "description": "Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using their books to train its AI chatbot Claude without permission.",
-        "content": "Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using their books to train its AI chatbot Claude... [2507 chars]",
-        "url": "https://nypost.com/2025/09/05/business/amazon-backed-anthropic-agrees-to-pay-authors-1-5b-to-settle-ai-copyright-lawsuit/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/09/anthropic-ai-authors.jpg?quality=75&strip=all&1757086976&w=1024",
-        "publishedAt": "2025-09-05T20:01:03Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
             "country": "us"
         }
     }
