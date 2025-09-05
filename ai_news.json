@@ -1,5 +1,37 @@
 [
     {
+        "id": "b57a971b3acc2d3df49aa400bb6b11b8",
+        "title": "Apple sued by authors over use of books in AI training",
+        "description": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
+        "content": "Sign up here.\n“Apple has not attempted to pay these authors for their contributions to this potentially lucrative venture,” according to the lawsuit, filed by authors Grady Hendrix and Jennifer Roberson.\nApple and lawyers for the plaintiffs did not i... [968 chars]",
+        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/apple-sued-by-authors-over-use-books-ai-training-2025-09-05/",
+        "image": "https://www.reuters.com/resizer/v2/G2WQVHRTFZLMNOKE4CYXBFGO3I.jpg?auth=ab28cb39f95f0de38faf2c14377e2817f2266cb4028b9b6feeb1e2e1f4cd47e9&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-09-05T22:05:51Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "0f00040f8410f7d8bacf8adcb888c4a4",
+        "title": "Anthropic agrees to pay $1.5B US to settle author class action over AI training",
+        "description": "Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using pirated copies of their books to train its AI chatbot, Claude, without permission.",
+        "content": "Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion US to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using pirated copies of their books to train ... [3594 chars]",
+        "url": "https://www.cbc.ca/news/business/anthropic-ai-copyright-settlement-1.7626707",
+        "image": "https://i.cbc.ca/1.7626736.1757106523!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/anthropic-ai-copyright-lawsuit.JPG?im=Resize%3D620",
+        "publishedAt": "2025-09-05T21:55:50Z",
+        "lang": "en",
+        "source": {
+            "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+            "name": "CBC.ca",
+            "url": "https://www.cbc.ca",
+            "country": "ca"
+        }
+    },
+    {
         "id": "2db3078bcb1b69ee487f573a73ef94d3",
         "title": "Melania Trump Says Children Must Be Prepared For Artificial Intelligence",
         "description": "The first lady said Thursday during a White House event that \"it is our duty to treat AI as we would our own children.\"",
@@ -124,38 +156,6 @@
             "id": "95a96a1867c4dac6f720e9d08d4c1b96",
             "name": "New York Post",
             "url": "https://nypost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ea7cd50c3f63c8461875f7c19282633c",
-        "title": "Anthropic tells US judge it will pay $1.5 billion to settle author class action",
-        "description": "By Reuters (CNN) — Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using their books to train its AI chatbot Claude without permission. Anthropic and the plaintiffs in a",
-        "content": "By Reuters\n(CNN) — Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using their books to train it... [2026 chars]",
-        "url": "https://abc17news.com/money/cnn-business-consumer/2025/09/05/anthropic-tells-us-judge-it-will-pay-1-5-billion-to-settle-author-class-action/",
-        "image": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
-        "publishedAt": "2025-09-05T20:01:01Z",
-        "lang": "en",
-        "source": {
-            "id": "d5a02d07558c5563d72576efc406e608",
-            "name": "ABC17News.com",
-            "url": "https://abc17news.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "7b37073f652a960f61ebf05314d5cfa0",
-        "title": "Anthropic tells US judge it will pay $1.5 billion to settle author class action",
-        "description": "Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using their books to train its AI chatbot Claude without permission.",
-        "content": "Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using their books to train its AI chatbot Claude... [1711 chars]",
-        "url": "https://edition.cnn.com/2025/09/05/business/anthropic-ai-settlement-authors-claude",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1570465904.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-09-05T20:01:01Z",
-        "lang": "en",
-        "source": {
-            "id": "26269dbc42635df9af8c24f3cdab8e37",
-            "name": "Cable News Network",
-            "url": "https://edition.cnn.com",
             "country": "us"
         }
     }
