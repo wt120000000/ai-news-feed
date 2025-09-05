@@ -1,5 +1,69 @@
 [
     {
+        "id": "abfeb9de385e31c99c5aacc1c3dbc50e",
+        "title": "Anthropic to pay $1.5 billion to settle lawsuit over pirated chatbot training material",
+        "description": "Artificial intelligence company Anthropic has agreed to pay $1.5 billion to settle a class-action lawsuit by book authors who say the company took pirated copies of their works to train its chatbot.",
+        "content": "NEW YORK (AP) — Artificial intelligence company Anthropic has agreed to pay $1.5 billion to settle a class-action lawsuit by book authors who say the company took pirated copies of their works to train its chatbot.\nThe landmark settlement, if approve... [480 chars]",
+        "url": "https://apnews.com/article/anthropic-copyright-authors-settlement-training-f294266bc79a16ec90d2ddccdf435164",
+        "image": "https://dims.apnews.com/dims4/default/7507e71/2147483647/strip/true/crop/7105x3997+0+539/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd3%2F3b%2F536cdb89ec724b42e29d9ba4405a%2F6ca20751c12c4dcdb6eb45e47ecbe8bf",
+        "publishedAt": "2025-09-05T19:12:56Z",
+        "lang": "en",
+        "source": {
+            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+            "name": "The Associated Press",
+            "url": "https://apnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "abecec74bae5662e47ddf7e43f291ca4",
+        "title": "Anthropic tells US judge it will pay $1.5 billion to settle author class action",
+        "description": "Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using their books to train its AI chatbot Claude without permission.",
+        "content": "Sept 5 (Reuters) - Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using their books to train it... [1953 chars]",
+        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/anthropic-tells-us-judge-it-will-pay-15-billion-settle-author-class-action-2025-09-05/",
+        "image": "https://www.reuters.com/resizer/v2/44VJHOJKNRNB3F6CN5KCCU4HNA.jpg?auth=9ee39acd7b8495f1558cfafed26233723343f84cc6ee9b1afec6d9bfcbed3fb6&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-09-05T19:05:00Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "8bb3b92b91f31a39fb5df502b0e87551",
+        "title": "Duke University pilot project examining pros and cons of using artificial intelligence in college",
+        "description": "Duke University in North Carolina has launched an initiative to examine the opportunities and challenges that artificial intelligence brings to student life.",
+        "content": "DURHAM, N.C. (AP) — As generative artificial intelligence tools like ChatGPT have become increasingly prevalent in academic settings, faculty and students have been forced to adapt.\nThe debut of OpenAI’s ChatGPT in 2022 spread uncertainty across the ... [8021 chars]",
+        "url": "https://apnews.com/article/artificial-intelligence-colleges-and-universities-alice-mary-baldwin-general-news-e0037fe9d6731010894bb6d4b52f9665",
+        "image": "https://dims.apnews.com/dims4/default/69cd54e/2147483647/strip/true/crop/2532x1424+0+107/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe7%2F09%2F476dbdce9e0833dddf242887f4f9%2F4bf2a0b822334a74bcf701afd42dadea",
+        "publishedAt": "2025-09-05T18:59:02Z",
+        "lang": "en",
+        "source": {
+            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+            "name": "The Associated Press",
+            "url": "https://apnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "4d74142d9f0c490365b37332d288eef1",
+        "title": "Duke University Pilot Project Examining Pros and Cons of Using Artificial Intelligence in College",
+        "description": "DURHAM, N.C. (AP) — As generative artificial intelligence tools like ChatGPT have become increasingly prevalent in academic settings, faculty and students have been forced to adapt.",
+        "content": "DURHAM, N.C. (AP) — As generative artificial intelligence tools like ChatGPT have become increasingly prevalent in academic settings, faculty and students have been forced to adapt.\nThe debut of OpenAI’s ChatGPT in 2022 spread uncertainty across the ... [8021 chars]",
+        "url": "https://www.usnews.com/news/best-states/north-carolina/articles/2025-09-05/duke-university-pilot-project-examining-pros-and-cons-of-using-artificial-intelligence-in-college",
+        "image": "https://www.usnews.com/dims4/USNEWS/72d6c4c/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F5e%2Fc67ef4056b0835a17a4dc4c6374c0c%2F4bf2a0b822334a74bcf701afd42dadeaDuke_University_AI_30180.jpg",
+        "publishedAt": "2025-09-05T18:59:00Z",
+        "lang": "en",
+        "source": {
+            "id": "37128a060981dbbe79321f096e7d1108",
+            "name": "U.S. News & World Report",
+            "url": "https://www.usnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "dd70cdc976348e58ec20e508e9959e22",
         "title": "Is the world getting ready for an AI Cold War?",
         "description": "As the US and China tighten controls and build rival AI blocs, fears grow that artificial intelligence is steering the world into a new Cold War.",
@@ -93,70 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "96172a54b09ee8070846405e2b841c6d",
-        "title": "Evolution expert compares AI to students copying answers from a library, calls it ‘fake intelligent'",
-        "description": "Artificial intelligence may appear transformative, but evolutionary biologist David Krakauer warns it is “fake intelligent.” Speaking on Neil deGrasse Tysons StarTalk podcast, the Santa Fe Institute president likened AI to a student copying answers from a library—capable but lacking true understanding. While Silicon Valley markets AI as “intelligent,” Krakauer stresses it remains a powerful tool, not a reasoning entity, raising crucial ethical questions about overstating its intelligence.",
-        "content": "Synopsis\nArtificial intelligence may appear transformative, but evolutionary biologist David Krakauer warns it is “fake intelligent.” Speaking on Neil deGrasse Tyson’s StarTalk podcast, the Santa Fe Institute president likened AI to a student copying... [3749 chars]",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/evolution-expert-compares-ai-to-students-copying-answers-from-a-library-calls-it-fake-intelligent/articleshow/123723354.cms",
-        "image": "https://img.etimg.com/thumb/msid-123723384,width-1200,height-630,imgsize-454844,overlay-etpanache/articleshow.jpg",
-        "publishedAt": "2025-09-05T16:50:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "b2403439f83e6f1448237dbd8baf2a7d",
-        "title": "US tech titans pay homage to Trump at White House dinner",
-        "description": "WASHINGTON, D.C. — Tech world executives showered Donald Trump with praise on Thursday during a rare dinner that saw the US president host some of the most important players in artificial intelligence (AI) at the White House.",
-        "content": "WASHINGTON, D.C. — Tech world executives showered Donald Trump with praise on Thursday during a rare dinner that saw the US president host some of the most important players in artificial intelligence (AI) at the White House.\n“This is quite a group t... [2401 chars]",
-        "url": "https://www.manilatimes.net/2025/09/06/business/foreign-business/us-tech-titans-pay-homage-to-trump-at-white-house-dinner/2179724",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/05/737726.jpg",
-        "publishedAt": "2025-09-05T16:20:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "c73a59400e95c8c06a0100822a5ccbd1",
-        "title": "Warner Bros sues Midjourney for copyright infringement",
-        "description": "WARNER Bros. Discovery sued the artificial intelligence (AI) photo generation company Midjourney on Thursday, saying it brazenly stole the studio’s works to generate images of Batman, Superman, Wonder Woman, Bugs Bunny, Scooby-Doo and other copyrighted characters.",
-        "content": "WARNER Bros. Discovery sued the artificial intelligence (AI) photo generation company Midjourney on Thursday, saying it brazenly stole the studio’s works to generate images of Batman, Superman, Wonder Woman, Bugs Bunny, Scooby-Doo and other copyright... [2202 chars]",
-        "url": "https://www.manilatimes.net/2025/09/06/business/foreign-business/warner-bros-sues-midjourney-for-copyright-infringement/2179705",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-09-05T16:17:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "433eb218ce2efe8ab400245976d33713",
-        "title": "OpenAI to launch its first AI chip in 2026 with Broadcom",
-        "description": "OPENAI is set to produce its first artificial intelligence (AI) chip next year in partnership with US semiconductor giant Broadcom, the Financial Times (FT) reported on Thursday, citing people familiar with the matter.",
-        "content": "OPENAI is set to produce its first artificial intelligence (AI) chip next year in partnership with US semiconductor giant Broadcom, the Financial Times (FT) reported on Thursday, citing people familiar with the matter.\nOpenAI plans to put the chip to... [1943 chars]",
-        "url": "https://www.manilatimes.net/2025/09/06/business/foreign-business/openai-to-launch-its-first-ai-chip-in-2026-with-broadcom/2179704",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-09-05T16:16:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
