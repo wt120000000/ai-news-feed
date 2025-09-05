@@ -1,5 +1,37 @@
 [
     {
+        "id": "37dc4f117c74475a75035ce5582c34b1",
+        "title": "Trump vows 'fairly substantial' chip tariffs soon",
+        "description": "The United States and China are locked in a high-stakes race to develop the high-end semiconductors used to power artificial intelligence systems.",
+        "content": "U.S. President Donald Trump said Thursday the United States will soon put a \"fairly substantial tariff\" on semiconductors coming into the country, after previously threatening a 100-percent levy on the chips.\n\"We will be putting a tariff very shortly... [1374 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/trump-vows-fairly-substantial-chip-tariffs-soon/article70014877.ece",
+        "image": "https://th-i.thgim.com/public/incoming/v47y4m/article70014885.ece/alternates/LANDSCAPE_1200/2025-09-03T162547Z_1702605182_RC2FKGAEX0NR_RTRMADP_3_USA-TRUMP-POLAND.JPG",
+        "publishedAt": "2025-09-05T03:48:30Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "a295ea8e6c0524dbe023d31f2ec60cb1",
+        "title": "OpenAI To Mass-Produce 1st Proprietary AI Chip With Broadcom, Secures $10 Billion Deal: Report",
+        "description": "OpenAI is set to begin mass production of its first proprietary artificial intelligence chip next year through a partnership with Broadcom.",
+        "content": "OpenAI is set to begin mass production of its first proprietary artificial intelligence chip next year through a partnership with Broadcom Inc. AVGO, marking a strategic shift away from its reliance on Nvidia Corp. NVDA amid surging demand for artifi... [2432 chars]",
+        "url": "https://www.benzinga.com/markets/equities/25/09/47514481/openai-to-mass-produce-1st-proprietary-ai-chip-with-broadcom-secures-10-billion-deal-report",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/09/04/Brooklyn--Ny--Usa--11-22-20-Sam-Altman-A.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-09-05T03:45:35Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b7c2d3264e01ff04e27b56c2d66f79c7",
         "title": "U.S. FTC prepares to grill AI companies over impact on children: Report",
         "description": "The U.S. Federal Trade Commission plans to study the impact of artificial intelligence chatbots on children’s mental health.",
@@ -125,38 +157,6 @@
             "name": "NDTV.com",
             "url": "https://www.ndtv.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "31ede461cb60292174cd692d59472c88",
-        "title": "OpenAI To Design Its Own AI Chip With Broadcom For 2026, FT Says",
-        "description": "OpenAI is preparing to design and produce its own AI chip with help from Broadcom Inc. in 2026, the Financial Times reported, citing unidentified people familiar with that tie-up. The US artificial intelligence startup intends to ship the first chips next year, which would compete with accelerators from Nvidia Corp., the newspaper said. OpenAI would start by using the chip internally, the FT reported.",
-        "content": "OpenAI is preparing to design and produce its own AI chip with help from Broadcom Inc. in 2026, the Financial Times reported, citing unidentified people familiar with that tie-up.\nThe US artificial intelligence startup intends to ship the first chips... [578 chars]",
-        "url": "https://www.ndtvprofit.com/technology/openai-to-design-its-own-ai-chip-with-broadcom-for-2026-ft-says",
-        "image": "https://media.assettype.com/bloombergquint%2F2025-09-02%2Fae93kbdm%2F439149646.jpg?rect=0%2C281%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-09-05T01:25:14Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "30acfb06b896f8ee301f612cbbd6d661",
-        "title": "AI Investment Frenzy Leaves Tokyo Electron a Market Laggard",
-        "description": "The global artificial intelligence investment frenzy is fast rewriting the fortunes of companies in the semiconductor industry. One notable laggard is Tokyo Electron Ltd.",
-        "content": "The global artificial intelligence investment frenzy is fast rewriting the fortunes of companies in the semiconductor industry. One notable laggard is Tokyo Electron Ltd.\nThe Japanese company is one of the linchpins of the global chipmaking supply ch... [274 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-09-05/ai-investment-frenzy-leaves-tokyo-electron-a-market-laggard",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVTPNcDPwtT0/v1/1200x800.jpg",
-        "publishedAt": "2025-09-05T01:13:33Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
         }
     }
 ]
