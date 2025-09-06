@@ -1,5 +1,37 @@
 [
     {
+        "id": "7fafdbe5c23ed9bcd6985a12acaee8cd",
+        "title": "Nvidia says GAIN AI Act would restrict competition, likens it to AI Diffusion Rule",
+        "description": "Short for Guaranteeing Access and Innovation for National Artificial Intelligence Act, the GAIN AI Act was introduced as part of the National Defense Authorization Act and stipulates that AI chipmakers prioritize domestic orders for advanced processors before supplying them to foreign customers.",
+        "content": "Synopsis\nShort for Guaranteeing Access and Innovation for National Artificial Intelligence Act, the GAIN AI Act was introduced as part of the National Defense Authorization Act and stipulates that AI chipmakers prioritize domestic orders for advanced... [2171 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-says-gain-ai-act-would-restrict-competition-likens-it-to-ai-diffusion-rule/articleshow/123729643.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-87680,resizemode-75,msid-123729643/tech/technology/nvidia-says-gain-ai-act-would-restrict-competition-likens-it-to-ai-diffusion-rule.jpg",
+        "publishedAt": "2025-09-06T03:59:23Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "641a74184ad6379c150f3776381c5407",
+        "title": "Apple sued by authors over use of books in AI training",
+        "description": "Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems.",
+        "content": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI e... [1624 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/apple-sued-by-authors-over-use-of-books-in-ai-training/article70018449.ece",
+        "image": "https://th-i.thgim.com/public/incoming/b6kc6a/article70018450.ece/alternates/LANDSCAPE_1200/2025-09-02T141822Z_1700702750_RC2KJGAHRHIH_RTRMADP_3_APPLE-INDIA-RETAIL-STORE.JPG",
+        "publishedAt": "2025-09-06T03:38:19Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "f375eeac7247c68ff2a4d420b23179cc",
         "title": "OpenAI Faces Surging Costs: A Billion-Dollar Bet on AI",
         "description": "OpenAI projects a cash burn of $115 billion through 2029 as it increases spending on artificial intelligence development. The new estimate significantly exceeds previous projections. To manage costs, OpenAI plans to develop its own chips and deepen partnerships with Broadcom and Oracle. Costs are set to rise sharply in upcoming years.",
@@ -124,38 +156,6 @@
             "id": "b98becfda029f124cf65538c8af36d20",
             "name": "BGR",
             "url": "https://www.bgr.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c5af556f1ea0c2bbac4e1091dfbfcbaa",
-        "title": "Apple sued by authors over use of books in AI training",
-        "description": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
-        "content": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI e... [1624 chars]",
-        "url": "https://www.cnbc.com/2025/09/05/apple-sued-by-authors-over-use-of-books-in-ai-training.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108150098-1748021082935-gettyimages-2194365320-TRUMP_INAUGURATION_2025.jpeg?v=1757115907&w=1920&h=1080",
-        "publishedAt": "2025-09-05T23:47:57Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "271169a723d4911e8e5d02ebaaca112d",
-        "title": "Apple Sued by Authors Over Use of Books in AI Training",
-        "description": "Apple was accused by authors in a lawsuit Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
-        "content": "Apple was accused by authors in a lawsuit Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.\nThe proposed cla... [1599 chars]",
-        "url": "https://www.newsmax.com/newsfront/apple-artificial-intelligence-authors/2025/09/05/id/1225326/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=091ea074-c8ac-4988-8d21-ccf747ebdc9e&SiteName=Newsmax",
-        "publishedAt": "2025-09-05T22:51:50Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
             "country": "us"
         }
     }
