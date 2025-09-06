@@ -32,6 +32,38 @@
         }
     },
     {
+        "id": "e20baebde42800e3fb4bd596d3723d1b",
+        "title": "OpenAI expects business to burn $115 billion through 2029",
+        "description": "OPENAI has sharply raised its projected cash burn through 2029 to $115 billion as it ramps up spending to power the artificial intelligence behind its popular ChatGPT chatbot, The Information reported on Friday.",
+        "content": "OPENAI has sharply raised its projected cash burn through 2029 to $115 billion as it ramps up spending to power the artificial intelligence behind its popular ChatGPT chatbot, The Information reported on Friday.\nThe new forecast is $80 billion higher... [1350 chars]",
+        "url": "https://www.manilatimes.net/2025/09/07/business/openai-expects-business-to-burn-115-billion-through-2029/2180211",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/07/738916.jpg",
+        "publishedAt": "2025-09-06T16:11:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "0f61c3bcbd065d78284856594da51eb4",
+        "title": "Apple sued by authors over use of books in AI training",
+        "description": "TECHNOLOGY giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
+        "content": "TECHNOLOGY giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI e... [1624 chars]",
+        "url": "https://www.manilatimes.net/2025/09/07/business/apple-sued-by-authors-over-use-of-books-in-ai-training/2180210",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/07/738915.jpg",
+        "publishedAt": "2025-09-06T16:10:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "9fa2f935f0ccb84e67ac670cb7bb3052",
         "title": "Laptops with AI power lead back-to-school choices",
         "description": "AS students return to classrooms this school year, laptops are once again proving to be a critical tool for learning, productivity, and creative work. With artificial intelligence now shaping study habits, performance requirements have shifted, making AI-ready machines the new standard.",
@@ -125,38 +157,6 @@
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "79c4638bf7ef14fbda62e74cdc4145df",
-        "title": "VMC adopts AI tech to crack down on illegal ads",
-        "description": "Varanasi: The Varanasi Municipal Corporation (VMC) has introduced artificial intelligence (AI) technology to detect and act against illegal and unauth.",
-        "content": "Varanasi: The Varanasi Municipal Corporation (VMC) has introduced artificial intelligence (AI) technology to detect and act against illegal and unauthorised advertisements across the city. Officials said the move is aimed at streamlining surveillance... [947 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/varanasi/vmc-adopts-ai-tech-to-crack-down-on-illegal-ads/articleshow/123737449.cms",
-        "image": "https://static.toiimg.com/thumb/msid-123737446,width-1070,height-580,imgsize-60912,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-09-06T15:42:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e213b4c905b9803a0424434934949455",
-        "title": "From robots to cat toilets - AI was in absolutely everything at IFA this year",
-        "description": "Artificial intelligence is useful in so many more ways than just chatbots.",
-        "content": "As I walked the show floors of IFA 2025 this year, there wasn’t a single booth that didn’t include AI. Whether it was in their products themselves, or they were demonstrating an upcoming prototype, AI has become one of the leading drivers of the tech... [2585 chars]",
-        "url": "https://www.digitaltrends.com/computing/from-robots-to-cat-toilets-ai-was-in-absolutely-everything-at-ifa-this-year/",
-        "image": "https://www.digitaltrends.com/wp-content/uploads/2025/09/IMG_6121.jpg?resize=1200%2C630&p=1",
-        "publishedAt": "2025-09-06T14:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a11116890ae17f53bebab1bc67660326",
-            "name": "Digital Trends",
-            "url": "https://www.digitaltrends.com",
-            "country": "us"
         }
     }
 ]
