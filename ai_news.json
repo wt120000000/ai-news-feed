@@ -1,5 +1,21 @@
 [
     {
+        "id": "ebee4c0cbb92797f02c5d8f543a18814",
+        "title": "Quality data, not the model",
+        "description": "The next time you hear about a new frontier in artificial intelligence, don’t ask who built the model. Ask who trained it, and where the data came from.",
+        "content": "AI might be the next trillion-dollar industry, but it’s quietly approaching a massive bottleneck. While everyone is racing to build bigger and more powerful models, a looming problem is going largely unaddressed: we might run out of usable training d... [4042 chars]",
+        "url": "https://crypto.news/ai-billion-dollar-bottleneck-quality-data-not-model/",
+        "image": "https://media.crypto.news/2025/09/crypto-news-AIs-billion-dollar-bottleneck-option01.webp",
+        "publishedAt": "2025-09-06T18:03:10Z",
+        "lang": "en",
+        "source": {
+            "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+            "name": "Crypto News",
+            "url": "https://crypto.news",
+            "country": "lt"
+        }
+    },
+    {
         "id": "d80ae5e5a202a0163c496e664d18f642",
         "title": "AI could one day replace tutors, but its reliability still lags",
         "description": "Artificial intelligence has become an integral part of many people's everyday lives. Large language models (LLMs) such as ChatGPT, Gemini or Copilot write letters and term papers for them, give tips for excursions on holiday or answer questions on every conceivable topic.",
@@ -141,22 +157,6 @@
             "name": "Digital Trends",
             "url": "https://www.digitaltrends.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "bfe3fa83125cbae43666e8f1bc34636a",
-        "title": "Will humans survive the AI era? Computer scientist warns superintelligence could be the 'last invention we ever make'",
-        "description": "Dr. Roman V. Yampolskiy, a leading AI safety expert, warned on the Diary of a CEO podcast that artificial intelligence could become the last invention humans ever need to make. Unlike previous tools, AI may automate all jobs and conduct scientific discovery independently. Yampolskiy highlighted existential risks, proposed safeguards, and joined calls to pause high-risk AI experiments, urging society to reconsider humanitys role in a future dominated by superintelligent AI.",
-        "content": "Synopsis\nDr. Roman V. Yampolskiy, a leading AI safety expert, warned on the Diary of a CEO podcast that artificial intelligence could become the last invention humans ever need to make. Unlike previous tools, AI may automate all jobs and conduct scie... [3513 chars]",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/will-humans-survive-the-ai-era-computer-scientist-dr-roman-v-yampolskiy-warns-superintelligence-could-be-the-last-invention-we-ever-make/articleshow/123736214.cms",
-        "image": "https://img.etimg.com/thumb/msid-123736288,width-1200,height-630,imgsize-2292052,overlay-etpanache/articleshow.jpg",
-        "publishedAt": "2025-09-06T13:54:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
