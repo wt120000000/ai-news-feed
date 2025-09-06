@@ -1,5 +1,21 @@
 [
     {
+        "id": "d80ae5e5a202a0163c496e664d18f642",
+        "title": "AI could one day replace tutors, but its reliability still lags",
+        "description": "Artificial intelligence has become an integral part of many people's everyday lives. Large language models (LLMs) such as ChatGPT, Gemini or Copilot write letters and term papers for them, give tips for excursions on holiday or answer questions on every conceivable topic.",
+        "content": "Artificial intelligence has become an integral part of many people's everyday lives. Large language models (LLMs) such as ChatGPT, Gemini or Copilot write letters and term papers for them, give tips for excursions on holiday or answer questions on ev... [4937 chars]",
+        "url": "https://phys.org/news/2025-09-ai-day-reliability-lags.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
+        "publishedAt": "2025-09-06T16:30:01Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
         "id": "9fa2f935f0ccb84e67ac670cb7bb3052",
         "title": "Laptops with AI power lead back-to-school choices",
         "description": "AS students return to classrooms this school year, laptops are once again proving to be a critical tool for learning, productivity, and creative work. With artificial intelligence now shaping study habits, performance requirements have shifted, making AI-ready machines the new standard.",
@@ -45,6 +61,22 @@
             "name": "Engadget",
             "url": "https://www.engadget.com",
             "country": "us"
+        }
+    },
+    {
+        "id": "9582b9ef7d72b3cb77f4823a15949fc6",
+        "title": "The human cost of Artificial Intelligence",
+        "description": "Technology has brought people closer together, but with the rise of AI, online gaming, and viral challenges, new vulnerabilities have emerged. Chatbots, AI companions, and gaming platforms have been linked to mental health issues and even deaths. Regulators are struggling to keep up, but companies must take responsibility for the potential harm their products can […] | financialexpress.com",
+        "content": "Life 17 min ago\nThis is an AI assisted summary.\nTechnology has brought people closer together, but with the rise of AI, online gaming, and viral challenges, new vulnerabilities have emerged. Chatbots, AI companions, and gaming platforms have been lin... [21545 chars]",
+        "url": "https://www.financialexpress.com/shorts/life/the-human-cost-of-artificial-intelligence-3969132/",
+        "image": "https://www.financialexpress.com/wp-content/uploads/2025/09/yhg.jpg",
+        "publishedAt": "2025-09-06T15:53:44Z",
+        "lang": "en",
+        "source": {
+            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+            "name": "The Financial Express",
+            "url": "https://www.financialexpress.com",
+            "country": "in"
         }
     },
     {
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "fb5a26eabde3a2ddbdf3f29969d510b5",
-        "title": "Book Review | When the machines rise",
-        "description": "In “Human Edge in the AI Age,” Nitin Seth delves into the ever-changing landscape of artificial intelligence and emphasizes the role of humans in harnessing its potential. He presents the POSSIBLE framework, consisting of eight timeless capabilities, as a guide for individuals and organizations to thrive in the AI era. | financialexpress.com",
-        "content": "Lifestyle 7 min ago\nThis is an AI assisted summary.\nIn \"Human Edge in the AI Age,\" Nitin Seth delves into the ever-changing landscape of artificial intelligence and emphasizes the role of humans in harnessing its potential. He presents the POSSIBLE f... [21611 chars]",
-        "url": "https://www.financialexpress.com/shorts/life/book-review-when-the-machines-rise-3969035/",
-        "image": "https://www.financialexpress.com/wp-content/uploads/2025/09/gh1.jpg",
-        "publishedAt": "2025-09-06T13:40:53Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "7b18339b15584d21eef0b0e549af6c9e",
-        "title": "Melania Trump puts AI front and center at White House meeting",
-        "description": "First lady Melania Trump hosted an artificial intelligence meeting with top industry leaders, including Google CEO Sundar Pichai Thursday.",
-        "content": "NEWYou can now listen to Fox News articles!\nWelcome to Fox News’ Artificial Intelligence newsletter with the latest AI technology advancements.\nIN TODAY’S NEWSLETTER:\n- Google CEO, major tech leaders join first lady Melania Trump at White House AI me... [2682 chars]",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-melania-trump-puts-ai-front-center",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/melania-trump-artificial-intelligence-ai-event.jpg",
-        "publishedAt": "2025-09-06T12:30:11Z",
-        "lang": "en",
-        "source": {
-            "id": "8da923084554b2821233d6c5c5f02c97",
-            "name": "Fox News",
-            "url": "https://www.foxnews.com",
-            "country": "us"
         }
     }
 ]
