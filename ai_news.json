@@ -1,5 +1,21 @@
 [
     {
+        "id": "f375eeac7247c68ff2a4d420b23179cc",
+        "title": "OpenAI Faces Surging Costs: A Billion-Dollar Bet on AI",
+        "description": "OpenAI projects a cash burn of $115 billion through 2029 as it increases spending on artificial intelligence development. The new estimate significantly exceeds previous projections. To manage costs, OpenAI plans to develop its own chips and deepen partnerships with Broadcom and Oracle. Costs are set to rise sharply in upcoming years.",
+        "content": "OpenAI is poised to spend $115 billion by 2029, significantly more than the initially anticipated $35 billion, as it escalates investment to enhance its artificial intelligence capabilities, as reported by The Information on Friday.\nThe tech powerhou... [812 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3617395-openai-faces-surging-costs-a-billion-dollar-bet-on-ai",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/06_09_2025_01_55_08_8598806.png?width=920&format=jpeg",
+        "publishedAt": "2025-09-06T03:10:16Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "38b58e9a61c5a330d9e3c37209f88ec9",
         "title": "Apple sued by authors over use of books in AI training",
         "description": "The lawsuit is the latest in a wave of cases from authors, news outlets and others accusing major technology companies of violating legal protections for their works. Artificial intelligence startup Anthropic on Friday disclosed in a court filing in California that it agreed to pay $1.5 billion to settle a class action from a group of authors who accused the company of using their books to train its AI chatbot Claude without permission.",
@@ -140,22 +156,6 @@
             "id": "a8984f03fe66dae9745793f6560aa444",
             "name": "Newsmax",
             "url": "https://www.newsmax.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c78b1d076b30269335ecbe8842977adf",
-        "title": "FDA will convene Digital Health Advisory Committee in November",
-        "description": "In the past, DHAC meetings have focused on artificial intelligence and medical devices.",
-        "content": "The Food and Drug Administration will convene a meeting of external digital health advisors on Nov. 6, according to an email reviewed by STAT. The gathering comes as the agency wrestles with myriad issues related to regulating artificial intelligence... [470 chars]",
-        "url": "https://www.statnews.com/2025/09/05/fda-digital-health-advisory-committee-november-meeting/",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/09/GettyImages-1227710420-1024x576.jpg",
-        "publishedAt": "2025-09-05T22:17:09Z",
-        "lang": "en",
-        "source": {
-            "id": "8867e8e7dcb6466620736bb48c455572",
-            "name": "STAT",
-            "url": "https://www.statnews.com",
             "country": "us"
         }
     }
