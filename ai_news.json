@@ -1,5 +1,21 @@
 [
     {
+        "id": "7b18339b15584d21eef0b0e549af6c9e",
+        "title": "Melania Trump puts AI front and center at White House meeting",
+        "description": "First lady Melania Trump hosted an artificial intelligence meeting with top industry leaders, including Google CEO Sundar Pichai Thursday.",
+        "content": "NEWYou can now listen to Fox News articles!\nWelcome to Fox News’ Artificial Intelligence newsletter with the latest AI technology advancements.\nIN TODAY’S NEWSLETTER:\n- Google CEO, major tech leaders join first lady Melania Trump at White House AI me... [2682 chars]",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-melania-trump-puts-ai-front-center",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/melania-trump-artificial-intelligence-ai-event.jpg",
+        "publishedAt": "2025-09-06T12:30:11Z",
+        "lang": "en",
+        "source": {
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f30c9d30e53792019a3568060c468076",
         "title": "AI ‘Future of Humanity,’ Can Accelerate Development of Many Countries - UN ESCAP",
         "description": "Artificial intelligence is the \"future of humanity\" because it can accelerate the development of many countries, Executive Secretary of the United Nations Economic and Social Commission for Asia and the Pacific (ESCAP) Armida Salsiah Alisjahbana told RIA Novosti on the sidelines of the Eastern Economic Forum.",
@@ -141,22 +157,6 @@
             "name": "The Indian Express",
             "url": "https://indianexpress.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "2978ebec96666879396231964aa2781a",
-        "title": "Investor Appetite for Pre-IPO AI Firms Is Pushing Valuations Sky-High",
-        "description": "Investor appetite for companies linked to AI is high—and not just their stocks. Valuations for America’s hottest private artificial intelligence startups are soaring as investors clamor for exposure ahead of possible market debuts.",
-        "content": "Investor appetite for companies linked to AI is high—and not just for their stocks. Valuations for America’s hottest private artificial intelligence startups are soaring as investors clamor for exposure ahead of possible market debuts.\nAmong the late... [3047 chars]",
-        "url": "https://www.investopedia.com/investor-appetite-for-pre-ipo-ai-firms-is-pushing-valuations-sky-high-openai-xai-anthropic-11803509",
-        "image": "https://www.investopedia.com/thmb/teOnTP3Q5v_I7jRAnXpC3dEfaPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2185275106-d58e2259c4c245ce924d6cbe7957969f.jpg",
-        "publishedAt": "2025-09-06T09:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c24832368cd2d9132598ad4bef08e0ab",
-            "name": "Investopedia",
-            "url": "https://www.investopedia.com",
-            "country": "us"
         }
     }
 ]
