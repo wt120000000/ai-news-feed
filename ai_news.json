@@ -1,5 +1,37 @@
 [
     {
+        "id": "3a6acdd643ddd8394bbed7a63e326898",
+        "title": "AI-Powered Phishing Attack Targets Microsoft 365 Accounts, Experts Warn",
+        "description": "Cybersecurity researchers uncovered a sophisticated phishing campaign that exploited a legitimate artificial intelligence platform to steal corporate...",
+        "content": "Cybersecurity researchers uncovered a sophisticated phishing campaign that exploited a legitimate artificial intelligence platform to steal corporate Microsoft 365 credentials. The attack, detailed by Cato Networks and reported by Cyber Security News... [2464 chars]",
+        "url": "https://www.ubergizmo.com/2025/09/phishing-attack-microsoft-365/",
+        "image": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2017/11/phishing.jpg",
+        "publishedAt": "2025-09-06T22:43:23Z",
+        "lang": "en",
+        "source": {
+            "id": "6bc94426ae0cbbdb312f14c0f86b4708",
+            "name": "Ubergizmo",
+            "url": "https://www.ubergizmo.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "159da3e01bfd084bc418c873b9e0b693",
+        "title": "Globevisa CEO Unveils its AI Strategy, Transforming Traditional Services Into a Tech-Driven Powerhouse",
+        "description": "HongKong, China, August 31, 2025 -- In a decisive move set to redefine the future of service industries, Globevisa Group CEO and co-founder Henry Fan has launched a groundbreaking artificial intelligence (AI) transformation strategy that embeds AI at the core of the company’s operations. This bold initiative is not only improving efficiency and customer service but also positioning Globevisa as a global innovator in tech-driven business leadership.",
+        "content": "-- In a decisive move set to redefine the future of service industries, Globevisa Group CEO and co-founder Henry Fan has launched a groundbreaking artificial intelligence (AI) transformation strategy that embeds AI at the core of the company’s operat... [6888 chars]",
+        "url": "https://www.manilatimes.net/2025/09/07/tmt-newswire/plentisoft/globevisa-ceo-unveils-its-ai-strategy-transforming-traditional-services-into-a-tech-driven-powerhouse/2180223",
+        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2025-09-06T22:13:47Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "ebee4c0cbb92797f02c5d8f543a18814",
         "title": "Quality data, not the model",
         "description": "The next time you hear about a new frontier in artificial intelligence, don’t ask who built the model. Ask who trained it, and where the data came from.",
@@ -125,38 +157,6 @@
             "name": "The Financial Express",
             "url": "https://www.financialexpress.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "cc5f49d34a418e9d6575379bd74fab47",
-        "title": "The human cost of Artificial Intelligence",
-        "description": "Digital platforms becoming more companion-like, but sans regulation, can have tragic consequences.",
-        "content": "It is not a new phenomenon that technology has drawn people closer by transforming how they communicate and entertain themselves. From the days of SMS to team chat platforms, people have built new modes of conversation over the past two decades. But ... [4974 chars]",
-        "url": "https://www.financialexpress.com/life/the-human-cost-of-artificial-intelligence-3969132/",
-        "image": "https://www.financialexpress.com/wp-content/uploads/2025/09/yhg.jpg",
-        "publishedAt": "2025-09-06T15:52:48Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "097e301cbf106184ab2aed7023240245",
-        "title": "AI lung cancer risk model validated in predominantly Black population at hospital",
-        "description": "A new study presented at the International Association for the Study of Lung Cancer 2025 World Conference on Lung Cancer (WCLC) validates the use of Sybil, a deep learning artificial intelligence model, for predicting future lung cancer risk in a predominantly Black population.",
-        "content": "A new study presented at the International Association for the Study of Lung Cancer 2025 World Conference on Lung Cancer (WCLC) validates the use of Sybil, a deep learning artificial intelligence model, for predicting future lung cancer risk in a pre... [2590 chars]",
-        "url": "https://medicalxpress.com/news/2025-09-ai-lung-cancer-validated-predominantly.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/black-patient.jpg",
-        "publishedAt": "2025-09-06T15:50:08Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
         }
     }
 ]
