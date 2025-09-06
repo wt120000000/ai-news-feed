@@ -1,5 +1,69 @@
 [
     {
+        "id": "7cc15ffa8db06adb127cdbba0d23dd26",
+        "title": "How this Durga Puja in Kolkata ignites debate on two sides of Artificial Intelligence",
+        "description": "The Jagat Mukherjee Park puja committee said that the aim of their pandal is to highlight that AI is not just about robots or science fiction anymore.",
+        "content": "The committee said that the aim of the pandal is to highlight that AI is not just about robots or science fiction anymore. “It is now part of our daily lives. It can make life easier, but if not used carefully, it can become dangerous,” said Subal Pa... [795 chars]",
+        "url": "https://indianexpress.com/article/cities/kolkata/durga-puja-ignites-debate-ai-two-sides-10233806/",
+        "image": "https://images.indianexpress.com/2025/09/sept6-4.jpg",
+        "publishedAt": "2025-09-06T09:05:03Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "2978ebec96666879396231964aa2781a",
+        "title": "Investor Appetite for Pre-IPO AI Firms Is Pushing Valuations Sky-High",
+        "description": "Investor appetite for companies linked to AI is high—and not just their stocks. Valuations for America’s hottest private artificial intelligence startups are soaring as investors clamor for exposure ahead of possible market debuts.",
+        "content": "Investor appetite for companies linked to AI is high—and not just for their stocks. Valuations for America’s hottest private artificial intelligence startups are soaring as investors clamor for exposure ahead of possible market debuts.\nAmong the late... [3047 chars]",
+        "url": "https://www.investopedia.com/investor-appetite-for-pre-ipo-ai-firms-is-pushing-valuations-sky-high-openai-xai-anthropic-11803509",
+        "image": "https://www.investopedia.com/thmb/teOnTP3Q5v_I7jRAnXpC3dEfaPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2185275106-d58e2259c4c245ce924d6cbe7957969f.jpg",
+        "publishedAt": "2025-09-06T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c24832368cd2d9132598ad4bef08e0ab",
+            "name": "Investopedia",
+            "url": "https://www.investopedia.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "783f0faaa977d9971521728d28dc599c",
+        "title": "Can AI Really Be Used To Predict Outcomes When Game",
+        "description": "Artificial Intelligence (AI) is reshaping industries worldwide, from healthcare to finance. Naturally, gamblers and betting enthusiasts wonder: can AI be used to predict gambling outcomes? After all, if machines can forecast stock prices or detect patterns in massive datasets, could they also crack the code behind online slots, lotteries, live casino games, or even sports […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial Intelligence (AI) is reshaping industries worldwide, from healthcare to finance. Naturally, gamblers and betting enthusiasts wonder: can AI be used to predict gambling outcomes?\nAfter all, if machines can fore... [3828 chars]",
+        "url": "https://techbullion.com/can-ai-really-be-used-to-predict-outcomes-when-game/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/09/Screenshot-2025-09-06-135513.jpg",
+        "publishedAt": "2025-09-06T08:55:59Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "b95ddd16f3c2b8918c6e5d42d353cf91",
+        "title": "Anthropic CEO Dario Amodei warns AI could wipe out entry-level office jobs in 1-5 years",
+        "description": "Anthropic CEO Dario Amodei has reiterated his warning about artificial intelligence taking over human jobs. This time, he stated that AI could replace all entry-level jobs within the next few years.",
+        "content": "Anthropic CEO Dario Amodei is once again warning that artificial intelligence could decimate white-collar jobs far sooner than most expect. Speaking on BBC Radical with Amol Rajan, Amodei predicted that repetitive but variable tasks across law, consu... [3140 chars]",
+        "url": "https://www.indiatoday.in/technology/news/story/anthropic-ceo-dario-amodei-warns-ai-could-wipe-out-entry-level-office-jobs-in-1-5-years-2782958-2025-09-06",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/anthropic-ceo-dario-amodei-265246891-16x9.jpg?VersionId=EXOHtdTtj14zXiwoDJIOpb0IWyoUsUl2",
+        "publishedAt": "2025-09-06T08:27:34Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "6419ea32dae7dee439c6e657b9dea5b2",
         "title": "Anthropic Reaches $1.5 Billion Author Copyright Settlement",
         "description": "Anthropic PBC will pay at least $1.5 billion plus interest to resolve an authors’ copyright lawsuit over the AI company’s downloading of millions of pirated books, one of the largest settlements over artificial intelligence and intellectual property to date.",
@@ -93,70 +157,6 @@
             "name": "Benzinga",
             "url": "https://www.benzinga.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "9da5a35c2612fe6acbd2a660ff462802",
-        "title": "Digital Teachers, Smarter States: Greece Partners with OpenAI to Lead in Artificial Intelligence",
-        "description": "Ειδησεις - From gov.gr to ChatGPT Edu — Mitsotakis and Altman open a new chapter in education and innovation policy",
-        "content": "From gov.gr to ChatGPT Edu — Mitsotakis and Altman open a new chapter in education and innovation policy\nGreece is changing — and it’s doing so through technology.\nThat was the clear message sent by the Greek government following the announcement of ... [3780 chars]",
-        "url": "https://www.pagenews.gr/2025/09/06/english-edition/digital-teachers-smarter-states-greece-partners-with-openai-to-lead-in-artificial-intelligence/",
-        "image": "https://www.pagenews.gr/wp-content/uploads/2025/09/6647464-1-1198x630.jpg",
-        "publishedAt": "2025-09-06T04:31:43Z",
-        "lang": "en",
-        "source": {
-            "id": "f8a6832b0baf1b65435fdffa15b36068",
-            "name": "Pagenews.gr",
-            "url": "https://www.pagenews.gr",
-            "country": "gr"
-        }
-    },
-    {
-        "id": "7fafdbe5c23ed9bcd6985a12acaee8cd",
-        "title": "Nvidia says GAIN AI Act would restrict competition, likens it to AI Diffusion Rule",
-        "description": "Short for Guaranteeing Access and Innovation for National Artificial Intelligence Act, the GAIN AI Act was introduced as part of the National Defense Authorization Act and stipulates that AI chipmakers prioritize domestic orders for advanced processors before supplying them to foreign customers.",
-        "content": "Synopsis\nShort for Guaranteeing Access and Innovation for National Artificial Intelligence Act, the GAIN AI Act was introduced as part of the National Defense Authorization Act and stipulates that AI chipmakers prioritize domestic orders for advanced... [2171 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-says-gain-ai-act-would-restrict-competition-likens-it-to-ai-diffusion-rule/articleshow/123729643.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-87680,resizemode-75,msid-123729643/tech/technology/nvidia-says-gain-ai-act-would-restrict-competition-likens-it-to-ai-diffusion-rule.jpg",
-        "publishedAt": "2025-09-06T03:59:23Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "641a74184ad6379c150f3776381c5407",
-        "title": "Apple sued by authors over use of books in AI training",
-        "description": "Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems.",
-        "content": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI e... [1624 chars]",
-        "url": "https://www.thehindu.com/sci-tech/technology/apple-sued-by-authors-over-use-of-books-in-ai-training/article70018449.ece",
-        "image": "https://th-i.thgim.com/public/incoming/b6kc6a/article70018450.ece/alternates/LANDSCAPE_1200/2025-09-02T141822Z_1700702750_RC2KJGAHRHIH_RTRMADP_3_APPLE-INDIA-RETAIL-STORE.JPG",
-        "publishedAt": "2025-09-06T03:38:19Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "f375eeac7247c68ff2a4d420b23179cc",
-        "title": "OpenAI Faces Surging Costs: A Billion-Dollar Bet on AI",
-        "description": "OpenAI projects a cash burn of $115 billion through 2029 as it increases spending on artificial intelligence development. The new estimate significantly exceeds previous projections. To manage costs, OpenAI plans to develop its own chips and deepen partnerships with Broadcom and Oracle. Costs are set to rise sharply in upcoming years.",
-        "content": "OpenAI is poised to spend $115 billion by 2029, significantly more than the initially anticipated $35 billion, as it escalates investment to enhance its artificial intelligence capabilities, as reported by The Information on Friday.\nThe tech powerhou... [812 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3617395-openai-faces-surging-costs-a-billion-dollar-bet-on-ai",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/06_09_2025_01_55_08_8598806.png?width=920&format=jpeg",
-        "publishedAt": "2025-09-06T03:10:16Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
