@@ -1,5 +1,21 @@
 [
     {
+        "id": "38b58e9a61c5a330d9e3c37209f88ec9",
+        "title": "Apple sued by authors over use of books in AI training",
+        "description": "The lawsuit is the latest in a wave of cases from authors, news outlets and others accusing major technology companies of violating legal protections for their works. Artificial intelligence startup Anthropic on Friday disclosed in a court filing in California that it agreed to pay $1.5 billion to settle a class action from a group of authors who accused the company of using their books to train its AI chatbot Claude without permission.",
+        "content": "Synopsis\nThe lawsuit is the latest in a wave of cases from authors, news outlets and others accusing major technology companies of violating legal protections for their works. Artificial intelligence startup Anthropic on Friday disclosed in a court f... [2180 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/apple-sued-by-authors-over-use-of-books-in-ai-training/articleshow/123728849.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-12690,resizemode-75,msid-123728849/tech/technology/apple-sued-by-authors-over-use-of-books-in-ai-training.jpg",
+        "publishedAt": "2025-09-06T02:03:40Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "7d82b47fd7af02ff5ccd82a49bcda003",
         "title": "Different organisations celebrate Teachers’ Day, pay rich tribute to Dr Radhakrishnan",
         "description": "Excelsior Correspondent SRINAGAR, Sept 5: Different organisations here today celebrated Teachers’ Day and paid glowing tribute to Dr. Sarvepalli Radhakrishnan. Teachers’ Day was celebrated by the Centre for Comparative Religion and Civilizations (CCRC) at Central University of Jammu under the leadership of Prof. Sanjeev Jain, Vice Chancellor. Faculty members as well as students discussed the roles of teachers in the era of Artificial Intelligence. Speaking on the occasion, Prof. Niranjna Bhandari, Director CCRC said that teachers help in the development […]",
@@ -140,22 +156,6 @@
             "id": "8867e8e7dcb6466620736bb48c455572",
             "name": "STAT",
             "url": "https://www.statnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b57a971b3acc2d3df49aa400bb6b11b8",
-        "title": "Apple sued by authors over use of books in AI training",
-        "description": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
-        "content": "Sign up here.\n“Apple has not attempted to pay these authors for their contributions to this potentially lucrative venture,” according to the lawsuit, filed by authors Grady Hendrix and Jennifer Roberson.\nApple and lawyers for the plaintiffs did not i... [968 chars]",
-        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/apple-sued-by-authors-over-use-books-ai-training-2025-09-05/",
-        "image": "https://www.reuters.com/resizer/v2/G2WQVHRTFZLMNOKE4CYXBFGO3I.jpg?auth=ab28cb39f95f0de38faf2c14377e2817f2266cb4028b9b6feeb1e2e1f4cd47e9&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-09-05T22:05:51Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
             "country": "us"
         }
     }
