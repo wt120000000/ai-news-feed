@@ -1,5 +1,21 @@
 [
     {
+        "id": "0fab4024aec91f97923e689c300f404f",
+        "title": "AI: False Savior of a Hollowed-Out Economy",
+        "description": "Learn how Artificial Intelligence (AI) is perceived as a last hope for an economy burdened by years of financial mismanagement.",
+        "content": "What nobody seems to notice is all the incentives for deploying AI are perverse.\nThe real story of the US economy isn’t about AI, it’s about an economy that’s run out of rope. AI is being hyped not just by promoters reaping billions of dollars in sto... [8195 chars]",
+        "url": "https://www.activistpost.com/ai-false-savior-of-a-hollowed-out-economy/",
+        "image": "https://www.activistpost.com/wp-content/uploads/2025/08/robot-7768527_640.jpg",
+        "publishedAt": "2025-09-07T10:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "435d508bebcc8689d5c7711d44865b80",
+            "name": "Activist Post",
+            "url": "https://www.activistpost.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "fda6a06af67df31e34dd911a4916ff03",
         "title": "old computer whiz, known as God’s influencer, a saint",
         "description": "Like Francis before him, Leo has expressed concern about the risks of technology, particularly artificial intelligence, and about online relationships replacing human ones.",
@@ -12,6 +28,22 @@
             "id": "0d429ea54fdbe8e34c582aa31bc81aba",
             "name": "The Boston Globe",
             "url": "https://www.bostonglobe.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "fd712b5957dddbd8e5fb699b39b69d62",
+        "title": "Top Artificial Intelligence Stocks To Keep An Eye On - September 5th",
+        "description": "Read Top Artificial Intelligence Stocks To Keep An Eye On – September 5th at ETF Daily News",
+        "content": "Salesforce, Arista Networks, Snowflake, ServiceNow, Super Micro Computer, Accenture, and QUALCOMM are the seven Artificial Intelligence stocks to watch today, according to MarketBeat’s stock screener tool. Artificial intelligence stocks are shares of... [4440 chars]",
+        "url": "https://www.etfdailynews.com/2025/09/07/top-artificial-intelligence-stocks-to-keep-an-eye-on-september-5th/",
+        "image": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/salesforcecom-inc-logo-1200x675.png&w=240&h=240&zc=2",
+        "publishedAt": "2025-09-07T06:02:58Z",
+        "lang": "en",
+        "source": {
+            "id": "1b40b878c09151e8cf44a095bc8569a5",
+            "name": "ETF Daily News",
+            "url": "https://www.etfdailynews.com",
             "country": "us"
         }
     },
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "ebee4c0cbb92797f02c5d8f543a18814",
-        "title": "Quality data, not the model",
-        "description": "The next time you hear about a new frontier in artificial intelligence, don’t ask who built the model. Ask who trained it, and where the data came from.",
-        "content": "AI might be the next trillion-dollar industry, but it’s quietly approaching a massive bottleneck. While everyone is racing to build bigger and more powerful models, a looming problem is going largely unaddressed: we might run out of usable training d... [4042 chars]",
-        "url": "https://crypto.news/ai-billion-dollar-bottleneck-quality-data-not-model/",
-        "image": "https://media.crypto.news/2025/09/crypto-news-AIs-billion-dollar-bottleneck-option01.webp",
-        "publishedAt": "2025-09-06T18:03:10Z",
-        "lang": "en",
-        "source": {
-            "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
-            "name": "Crypto News",
-            "url": "https://crypto.news",
-            "country": "lt"
-        }
-    },
-    {
-        "id": "d80ae5e5a202a0163c496e664d18f642",
-        "title": "AI could one day replace tutors, but its reliability still lags",
-        "description": "Artificial intelligence has become an integral part of many people's everyday lives. Large language models (LLMs) such as ChatGPT, Gemini or Copilot write letters and term papers for them, give tips for excursions on holiday or answer questions on every conceivable topic.",
-        "content": "Artificial intelligence has become an integral part of many people's everyday lives. Large language models (LLMs) such as ChatGPT, Gemini or Copilot write letters and term papers for them, give tips for excursions on holiday or answer questions on ev... [4937 chars]",
-        "url": "https://phys.org/news/2025-09-ai-day-reliability-lags.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
-        "publishedAt": "2025-09-06T16:30:01Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
         }
     }
 ]
