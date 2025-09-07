@@ -1,5 +1,21 @@
 [
     {
+        "id": "73a2db1d8633f4c0dfb4533f4f0a15c3",
+        "title": "CA, Delaware attorneys general concerned about OpenAI",
+        "description": "Bonta’s office said the attorney general is looking into the San Francisco artificial intelligence company’s financial and governance restructuring.",
+        "content": "In addition, Bonta and Delaware Attorney General Kathleen Jennings met with OpenAI’s legal team and wrote a joint letter to the company about a growing number of reports about how OpenAI’s products interact with children. While its headquarters is in... [2300 chars]",
+        "url": "https://www.washingtonexaminer.com/news/3796528/california-delaware-attorneys-general-concerned-openai/",
+        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/01/AP25028395434149.webp",
+        "publishedAt": "2025-09-07T19:07:50Z",
+        "lang": "en",
+        "source": {
+            "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+            "name": "Washington Examiner",
+            "url": "https://www.washingtonexaminer.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "7831b1966c061f80401904195eef0d13",
         "title": "BitHarvest - Investor Briefing Document for a better idea",
         "description": "Executive Summary BitHarvest is a fast-growing Web3 infrastructure and AI technology company founded in 2023, with operations in Malaysia. We’re pioneering a next-generation blockchain and mining ecosystem that integrates artificial intelligence, decentralized finance, and real-world crypto utility. Our flagship offerings—including BitBooster, HarvestAI Chain, and the $BTH token—enable high-performance crypto mining, AI monetization, and scalable dApp development. With over 100,000 users, […]",
@@ -141,22 +157,6 @@
             "name": "WDIV ClickOnDetroit",
             "url": "https://www.clickondetroit.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "d341ad8b0ec533f3e475bd34e4a7d3fc",
-        "title": "‘Godfather of AI’ Geoffrey Hinton warns AI will trigger mass unemployment: ‘It will make most people poorer’",
-        "description": "Geoffrey Hinton has repeatedly voiced concerns about the unchecked growth of artificial intelligence.",
-        "content": "Awarded the Nobel Prize last year for his pioneering work in AI, Hinton has increasingly raised alarm over the risks of unchecked technological progress. He warned that without proper oversight, AI could destabilise global labour markets.\nStory conti... [1049 chars]",
-        "url": "https://indianexpress.com/article/trending/trending-globally/godfather-of-ai-geoffrey-hinton-warns-ai-unemployment-economic-risk-10235690/",
-        "image": "https://images.indianexpress.com/2025/09/Godfather-of-AI.jpg",
-        "publishedAt": "2025-09-07T11:41:50Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
         }
     }
 ]
