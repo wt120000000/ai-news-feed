@@ -1,5 +1,21 @@
 [
     {
+        "id": "c453b7b7df9306d6bc04a0a13841ce86",
+        "title": "Who really benefits from AI?",
+        "description": "Artificial intelligence must be not only efficient but just, writes Shahin Hossain.",
+        "content": "Not long ago, a man in Detroit, Robert Williams, was wrongfully arrested for a crime he did not commit. The Detroit police had relied on facial recognition software that misidentified him. The algorithm was efficient, but it was wrong, and the innoce... [4421 chars]",
+        "url": "https://www.baltimoresun.com/2025/09/07/who-benefits-from-ai/",
+        "image": "https://www.baltimoresun.com/wp-content/uploads/2025/06/Education-Artificial_Intelligence_04728-1.jpg?w=1024&h=682",
+        "publishedAt": "2025-09-07T15:08:35Z",
+        "lang": "en",
+        "source": {
+            "id": "3271eb2093cfa66b030a37cf84a8df5e",
+            "name": "Baltimore Sun",
+            "url": "https://www.baltimoresun.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "6d1a3c7026eef1c1161b113e9e7c6838",
         "title": "AI've Got A Co-Author",
         "description": "From ChatGPT drafts to short stories and even poetry, many writers are using Artificial Intelligence (AI) tools for creative works",
@@ -141,22 +157,6 @@
             "name": "Outlook Business",
             "url": "https://www.outlookbusiness.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "cb6a0383fcd63b91b89a5b14a91aa904",
-        "title": "Survey Results Show People Prefer More Human Involvement in AI-driven Art",
-        "description": "We surveyed people in the U.S. about artificial-intelligence-generated art. Their answers told us a lot about how we value human creativity",
-        "content": "Think of your favorite piece of art—a painting, a song, a novel, a movie or even a video game—and try to remember why it made such a strong impression on you. Was it the color, the cadence of notes, the way the writer made you feel understood, the de... [9099 chars]",
-        "url": "https://www.scientificamerican.com/article/survey-results-show-people-prefer-more-human-involvement-in-ai-driven-art/",
-        "image": "https://static.scientificamerican.com/dam/m/61d622023a433fb/original/robot_artist_scultping_the_thinker.jpg?m=1756934112.019&w=1200",
-        "publishedAt": "2025-09-07T11:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9290338c23f31e3f547a2dbfa1c52c03",
-            "name": "Scientific American",
-            "url": "https://www.scientificamerican.com",
-            "country": "us"
         }
     }
 ]
