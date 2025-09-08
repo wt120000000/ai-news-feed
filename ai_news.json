@@ -1,5 +1,69 @@
 [
     {
+        "id": "284aa2b51fc4a061f50228b22b6794e1",
+        "title": "Anthropic backs California's SB 53 AI bill",
+        "description": "Artificial intelligence developer Anthropic became the first major tech company to endorse a California bill that would regulate the most advanced AI models.",
+        "content": "Artificial intelligence developer Anthropic became the first major tech company on Monday to endorse a California bill that would regulate the most advanced AI models.\nProposed by state Sen. Scott Wiener, if passed, S.B. 53 would create the first bro... [7078 chars]",
+        "url": "https://www.nbcnews.com/tech/tech-news/anthropic-backs-californias-sb-53-ai-bill-rcna229908",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240304-Anthropic-aa-221p-6c6a84.jpg",
+        "publishedAt": "2025-09-08T22:06:15Z",
+        "lang": "en",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7839566079b9a5fa2324d3e891efe90e",
+        "title": "World AI race faces hurdle as effective altruism movement opposes Trump",
+        "description": "The effective altruism movement, led by RAND CEO Jason Matheny, may challenge Trump's plans for American artificial intelligence dominance through regulatory advocacy.",
+        "content": "FIRST ON FOX: President Donald Trump’s push to establish \"America’s global AI dominance\" could run into friction from an unlikely source: the \"effective altruism\" movement, a small but influential group that has a darker outlook on artificial intelli... [7093 chars]",
+        "url": "https://www.foxnews.com/politics/meet-ex-biden-appointee-who-could-be-major-force-against-trumps-ai-agenda-doomsayer",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/trump-ai-race.jpg",
+        "publishedAt": "2025-09-08T21:44:13Z",
+        "lang": "en",
+        "source": {
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "441d6422a7f01cd704b5d1e5c927d6a5",
+        "title": "Nebius stock soars on AI infrastructure deal with Microsoft",
+        "description": "Nebius said it signed a multibillion-dollar agreement to provide Microsoft with artificial intelligence infrastructure.",
+        "content": "Shares of Nebius Group soared more than 60% in extended trading on Monday after the provider of Nvidia graphics chips for training artificial intelligence models said it's signed an agreement with Microsoft worth billions of dollars over multiple yea... [1444 chars]",
+        "url": "https://www.cnbc.com/2025/09/08/nebius-stock-soars-on-ai-infrastructure-deal-with-microsoft-.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108195794-1757366109302-gettyimages-2202932465-TFSPI_05032025-5194.jpeg?v=1757366150&w=1920&h=1080",
+        "publishedAt": "2025-09-08T21:36:16Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "424e0909712c53ce62ed0b083573f3b6",
+        "title": "Why Analysts Call Broadcom a 'Magnificent Eight' Stock That Can Challenge Nvidia",
+        "description": "Artificial intelligence chip heavyweight Nvidia could have more competition to contend with after Broadcom's strong quarterly results, according to one Wall Street bull.",
+        "content": "Strong quarterly results from Broadcom could signal strong competition for AI heavyweight Nvidia.\nBroadcom (AVGO) last week reported record quarterly sales that showed strong demand for its AI offerings and introduced a big new mystery customer repor... [1953 chars]",
+        "url": "https://www.investopedia.com/why-analysts-call-broadcom-a-magnificent-eight-stock-that-can-challenge-nvidia-11805620",
+        "image": "https://www.investopedia.com/thmb/QcgWnMuPLFa8__l7135yb7fVxns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Nvidia-Broadcom-bd863beb92a74c26afa5cfac467658a1.jpg",
+        "publishedAt": "2025-09-08T20:57:33Z",
+        "lang": "en",
+        "source": {
+            "id": "c24832368cd2d9132598ad4bef08e0ab",
+            "name": "Investopedia",
+            "url": "https://www.investopedia.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "460e84f8f52652fdd9c8e9c63ee3d222",
         "title": "AI assessment indicates stress levels in farmed Amazonian fish",
         "description": "In Brazil, a group led by researchers from São Paulo State University (UNESP) in Jaboticabal, in collaboration with the Brazilian Agricultural Research Corporation (EMBRAPA), has developed an artificial intelligence (AI) tool to assess the stress levels of tambaqui (Colossoma macropomum), the most widely produced native fish in Brazil. The study is published in the journal Aquaculture.",
@@ -93,70 +157,6 @@
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "6b0304f2b566887c608f1f8e5c6c2c7d",
-        "title": "Judge reviews $1.5B Anthropic settlement proposal with authors over pirated books for AI training",
-        "description": "SAN FRANCISCO (AP) — A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and…",
-        "content": "SAN FRANCISCO (AP) — A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.\n... [1289 chars]",
-        "url": "https://wtop.com/business-finance/2025/09/judge-reviews-1-5b-anthropic-settlement-proposal-with-authors-over-pirated-books-for-ai-training/",
-        "image": "https://wtop.com/wp-content/uploads/2025/08/Anthropic_Authors_Copywrite_99564-scaled.jpg",
-        "publishedAt": "2025-09-08T18:50:19Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c134a80c9ccf4dc5cde5ba8882653e20",
-        "title": "Judge reviews $1.5B Anthropic settlement proposal with authors",
-        "description": "A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.",
-        "content": "SAN FRANCISCO (AP) — A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.\n... [1156 chars]",
-        "url": "https://www.bostonherald.com/2025/09/08/anthropic-settlement-authors/",
-        "image": "https://www.bostonherald.com/wp-content/uploads/2025/09/Anthropic_Authors_Copywrite_99564_954574-1.jpg?w=1024&h=583",
-        "publishedAt": "2025-09-08T18:49:01Z",
-        "lang": "en",
-        "source": {
-            "id": "bc49d994b41ac710f5c89f6e6adeece4",
-            "name": "The Boston Herald",
-            "url": "https://www.bostonherald.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "808788539641668d388ded2235378b4d",
-        "title": "Judge reviews $1.5B Anthropic settlement proposal with authors",
-        "description": "A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.",
-        "content": "SAN FRANCISCO (AP) — A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.\n... [1156 chars]",
-        "url": "https://www.baltimoresun.com/2025/09/08/anthropic-settlement-authors/",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2025/09/Anthropic_Authors_Copywrite_99564_954574-1.jpg?w=1024&h=583",
-        "publishedAt": "2025-09-08T18:49:01Z",
-        "lang": "en",
-        "source": {
-            "id": "3271eb2093cfa66b030a37cf84a8df5e",
-            "name": "Baltimore Sun",
-            "url": "https://www.baltimoresun.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "31aefca4d7d65bdaadfbd9d14084ab4c",
-        "title": "Judge Reviews $1.5B Anthropic Settlement Proposal With Authors Over Pirated Books for AI Training",
-        "description": "SAN FRANCISCO (AP) — A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.",
-        "content": "SAN FRANCISCO (AP) — A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.\n... [1289 chars]",
-        "url": "https://www.usnews.com/news/business/articles/2025-09-08/judge-reviews-1-5b-anthropic-settlement-proposal-with-authors-over-pirated-books-for-ai-training",
-        "image": "https://www.usnews.com/dims4/USNEWS/a6d959c/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F3f%2F5f3061266a666a99fca53fd9220449%2F275efa35532f4733ad0b98acac8d2fceAnthropic_Authors_Copywrite_99564.jpg",
-        "publishedAt": "2025-09-08T18:46:00Z",
-        "lang": "en",
-        "source": {
-            "id": "37128a060981dbbe79321f096e7d1108",
-            "name": "U.S. News & World Report",
-            "url": "https://www.usnews.com",
-            "country": "us"
         }
     }
 ]
