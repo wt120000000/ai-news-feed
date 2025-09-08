@@ -1,5 +1,69 @@
 [
     {
+        "id": "e289ee5b1dd88bdfb1fefbc0f0770868",
+        "title": "A new tool can predict the infection risks oral mucositis poses to stem cell transplant patients",
+        "description": "University at Buffalo researchers and collaborators have completed a series of studies that reveal how much painful mouth sores known as oral mucositis increase infection risks in stem cell transplant patients and how artificial intelligence can be used to more accurately predict those risks.",
+        "content": "University at Buffalo researchers and collaborators have completed a series of studies that reveal how much painful mouth sores known as oral mucositis increase infection risks in stem cell transplant patients and how artificial intelligence can be u... [3965 chars]",
+        "url": "https://medicalxpress.com/news/2025-09-tool-infection-oral-mucositis-poses.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/mouth-sore.jpg",
+        "publishedAt": "2025-09-08T20:09:04Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "90334196a3c9b6fd04714684f514bb18",
+        "title": "Businesses incorporate AI to boost growth",
+        "description": "Finestrat will host the Business Consolidation Programme with a new focus this year on the use of artificial intelligence.",
+        "content": "Finestrat will once again host the Business Consolidation Programme organised by the Alicante Chamber of Commerce, with a new focus this year on the use of artificial intelligence.\nThe training will take place from Monday September 15 to Friday Octob... [1690 chars]",
+        "url": "https://euroweeklynews.com/2025/09/08/businesses-incorporate-ai-to-boost-growth/",
+        "image": "https://cdn.euroweeklynews.com/wp-content/uploads/2025/09/Nati-Algado-Vivero-Finestrat-Ext-copia-1024x683-1.jpg",
+        "publishedAt": "2025-09-08T19:53:32Z",
+        "lang": "en",
+        "source": {
+            "id": "49a7f1ba9210f605feb836064eb8351e",
+            "name": "Euro Weekly News",
+            "url": "https://euroweeklynews.com",
+            "country": "es"
+        }
+    },
+    {
+        "id": "69fabc8587fa89a75ba08c59cc1d3f5e",
+        "title": "Anthropic to pay authors $1.5 billion to settle lawsuit over pirated chatbot training material",
+        "description": "Artificial intelligence company Anthropic has agreed to pay $1.5 billion to settle a class-action lawsuit by book authors who say the company took pirated copies of their works to train its chatbot. The landmark settlement, if approved by a judge as soon as this week, could mark a turning point…",
+        "content": "Artificial intelligence company Anthropic has agreed to pay $1.5 billion to settle a class-action lawsuit by book authors who say the company took pirated copies of their works to train its chatbot.\nThe landmark settlement, if approved by a judge as ... [6331 chars]",
+        "url": "https://japantoday.com/category/tech/anthropic-to-pay-1.5-billion-to-settle-lawsuit-over-pirated-chatbot-training-material",
+        "image": "https://media.japantoday.com/img/store/0f/33/ecc6be646d3b75e85c0f54db0d7ba3b17be8/download/_w1700.jpeg",
+        "publishedAt": "2025-09-08T19:25:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "66f74c1ef0efc7fc6ece66a0664f493b",
+        "title": "Raymond James Hires David Solganik as Head of AI Strategy",
+        "description": "St. Petersburg, Fla., Sept. 08, 2025 (GLOBE NEWSWIRE) -- Raymond James announced today the appointment of David Solganik as head of AI strategy. This newly created role underscores the firm’s commitment to strategically integrating artificial intelligence (AI) across its businesses - augmenting the human touch, rather than replacing it.",
+        "content": "St. Petersburg, Fla., Sept. 08, 2025 (GLOBE NEWSWIRE) -- Raymond James announced today the appointment of David Solganik as head of AI strategy. This newly created role underscores the firm’s commitment to strategically integrating artificial intelli... [4012 chars]",
+        "url": "https://www.manilatimes.net/2025/09/09/tmt-newswire/globenewswire/raymond-james-hires-david-solganik-as-head-of-ai-strategy/2180966",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/09/740721.jpg",
+        "publishedAt": "2025-09-08T19:17:06Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "5f0028e45507b24438ef9ea437618b21",
         "title": "AI approach paves way for smarter T-cell immunotherapy and vaccine development",
         "description": "Researchers have harnessed the power of artificial intelligence to tackle one of the most complex challenges in immunology: predicting how T cells recognize and respond to specific peptide antigens. Using AlphaFold 3 (AF3), an AI/ML model, designed for protein structure prediction, the team demonstrated a novel approach to model T cell receptor–peptide/major histocompatibility complex (TCR-pMHC) interactions with growing accuracy. The paper is published in the journal Frontiers in Immunology.",
@@ -92,70 +156,6 @@
             "id": "c45dc51281d68ce51bff0cc4fe959bbf",
             "name": "TechBullion",
             "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "5a40f7ab7c9bd1fe08fb7f4b8a4c10e5",
-        "title": "Anthropic supports California's AI safety bill despite pushback from many in tech world",
-        "description": "Amazon-backed Anthropic has signaled its support for California's SB 53, which calls for strict rules regarding the release of artificial intelligence models, despite pushback against the measure from most big tech companies and the Trump Administration.",
-        "content": "Anthropic supports California's AI safety bill despite pushback from many in tech world\nComments\nAmazon-backed (NASDAQ:AMZN) Anthropic has signaled its support for California's Senate Bill 53, which calls for strict rules regarding the release of art... [340 chars]",
-        "url": "https://seekingalpha.com/news/4493099-anthropic-supports-californias-ai-safety-bill-despite-pushback-from-many-in-tech-world",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1081844806/image_1081844806.jpg?io=getty-c-w750",
-        "publishedAt": "2025-09-08T17:21:18Z",
-        "lang": "en",
-        "source": {
-            "id": "a6d401909ca644c4ffb332486c9cfaea",
-            "name": "Seeking Alpha",
-            "url": "https://seekingalpha.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "291d429ba5a48e19b6d3f78ed5b39494",
-        "title": "Fat Joe Says Lawyer Used AI to Write Legal Briefs In Extortion Lawsuit",
-        "description": "Fat Joe accused lawyers for hypeman Terrance “T.A.” Dixon of sloppily using artificial intelligence to write legal briefs in their ongoing lawsuit.",
-        "content": "Fat Joe is accusing lawyers for his former hypeman Terrance “T.A.” Dixon of sloppily using artificial intelligence to write legal briefs in their ongoing courtroom battle – including by citing “hallucinations” of legal cases that “simply don’t exist.... [3066 chars]",
-        "url": "https://www.billboard.com/pro/fat-joe-lawyer-used-ai-write-legal-briefs-extortion-lawsuit/",
-        "image": "https://www.billboard.com/wp-content/uploads/2025/09/fat-joe-nye-2024-billboard-1800.jpg?w=1024",
-        "publishedAt": "2025-09-08T17:15:18Z",
-        "lang": "en",
-        "source": {
-            "id": "5cfd646fbad1ee4fa352342ad739c263",
-            "name": "Billboard",
-            "url": "https://www.billboard.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c6d85cbedc7e66e43519e4a14e46043a",
-        "title": "China Unveils Plan To Accelerate Integration Of AI With Energy Sector",
-        "description": "China on Monday unveiled a new plan to accelerate the integration of artificial intelligence with the energy sector to achieve breakthroughs in key technologies such as data, computing power and algorithms.",
-        "content": "The plan was announced even as the new data shows the numbers of AI firms in the country surged to 5,000 from 1,400 in the past five years.\nThe plan emphasizes breakthroughs in key technologies such as data, computing power and algorithms, outlining ... [495 chars]",
-        "url": "https://www.ndtvprofit.com/technology/china-unveils-plan-to-accelerate-integration-of-ai-with-energy-sector",
-        "image": "https://media.assettype.com/bloombergquint%2F2025-02-27%2Fthvisfry%2FAI-hallucinations.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-09-08T17:10:18Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "780714e42a7572e739e9f6928fa7e3bf",
-        "title": "AI tool built for learners supports learning better than ChatGPT",
-        "description": "Artificial intelligence is here to stay. Most people probably recognize that by now. But there is still skepticism about the use of AI in many areas. One of them is education.",
-        "content": "Artificial intelligence is here to stay. Most people probably recognize that by now. But there is still skepticism about the use of AI in many areas. One of them is education.\nThis may bring to mind students using generative AI tools that can answer ... [4578 chars]",
-        "url": "https://phys.org/news/2025-09-ai-tool-built-learners-chatgpt.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-tool-built-for-lear.jpg",
-        "publishedAt": "2025-09-08T17:10:04Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
             "country": "gb"
         }
     }
