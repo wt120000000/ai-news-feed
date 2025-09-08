@@ -1,5 +1,69 @@
 [
     {
+        "id": "33d14911f92ad53d93cfbbff65c708ef",
+        "title": "Responsible AI in Finance: Moving From Conversation to Implementation",
+        "description": "The global discussion around artificial intelligence has entered a new phase. What began as an arms race to launch the fastest and most powerful systems has now shifted toward a more sober question: how do we use these tools responsibly? In financial services, where accuracy and compliance are non-negotiable, the stakes are uniquely high. Why […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nThe global discussion around artificial intelligence has entered a new phase. What began as an arms race to launch the fastest and most powerful systems has now shifted toward a more sober question: how do we use these t... [6839 chars]",
+        "url": "https://techbullion.com/responsible-ai-in-finance-moving-from-conversation-to-implementation/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/09/Picture1-3-6-1000x600.jpg",
+        "publishedAt": "2025-09-08T13:11:05Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "0a4fe103264ea61d163e32de1c572436",
+        "title": "The teenager taking on AI tech bros",
+        "description": "President Trump wined and dined top AI tech executives last week, leaving little hope that Congress will regulate the emerging technology in meaningful ways. That leaves California — and a college activist — as the best hopes for putting guardrails on the coming artificial intelligence revolution.",
+        "content": "Sneha Revanur has been called the “Greta Thunberg of AI,” which depending on your politics, is an insult or, as the youngs would say, means she’s eating.\nThat’s good.\nEither way, Revanur, a 20-year-old Stanford University senior who grew up in Silico... [8024 chars]",
+        "url": "https://www.latimes.com/politics/newsletter/2025-09-08/chabria-monday-politics-newsletter-ai-artificial-intelligence-sb-53",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/4728010/2147483647/strip/true/crop/1352x710+0+126/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1d%2F0a%2F9bdf98854c2db3840467e46a31e3%2Fla-me-chabria-swetha-revanur.jpg",
+        "publishedAt": "2025-09-08T13:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "492abf277b7277432148b61b21ddc836",
+            "name": "Los Angeles Times",
+            "url": "https://www.latimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "1ba1d52701ee85b823c50edd591c9c9c",
+        "title": "Data center builder Fermi files for US IPO as new listings accelerate",
+        "description": "Fermi in June announced plans to build the world's largest energy and data complex, powered by nuclear along with natural gas and solar, to meet the rising energy demands of artificial intelligence.",
+        "content": "Synopsis\nFermi in June announced plans to build the world's largest energy and data complex, powered by nuclear along with natural gas and solar, to meet the rising energy demands of artificial intelligence.\nFermi, a Texas company co-founded by forme... [1780 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/data-center-builder-fermi-files-for-us-ipo-as-new-listings-accelerate/articleshow/123766657.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-213746,resizemode-75,msid-123766657/tech/technology/data-center-builder-fermi-files-for-us-ipo-as-new-listings-accelerate.jpg",
+        "publishedAt": "2025-09-08T12:41:42Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "fe338645578f4aae7d52b29739284724",
+        "title": "AI workflow could help biofuel crops grow on infertile soil and protect plants from infectious diseases",
+        "description": "Biologists and computational scientists at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory recently refined two artificial intelligence (AI) programs originally built by Meta, the company that owns Facebook, to predict protein shapes. Their new combined model, called ESMBind, can predict the 3D structure of proteins to reveal how they bind to nutrient metals like zinc and iron, which are essential for life.",
+        "content": "Biologists and computational scientists at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory recently refined two artificial intelligence (AI) programs originally built by Meta, the company that owns Facebook, to predict protein sh... [4872 chars]",
+        "url": "https://phys.org/news/2025-09-ai-workflow-biofuel-crops-infertile.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/scientists-use-ai-to-p.jpg",
+        "publishedAt": "2025-09-08T12:38:05Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
         "id": "4fa786854adecbfecc2c6b2866928678",
         "title": "iExec launches its privacy framework on Arbitrum",
         "description": "iExec, a decentralized physical infrastructure networks and artificial intelligence layer, has rolled out its privacy framework on Arbitrum.",
@@ -92,70 +156,6 @@
             "id": "ca0ac0e9c1dc28f0363e86d46cc022aa",
             "name": "Kiplinger",
             "url": "https://www.kiplinger.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "7645cf10288e3ee92018d86d045026f5",
-        "title": "USC Viterbi School of Engineering & School of Advanced Computing introduce UG course in Artificial Intelligence",
-        "description": "It is available on the common application; the programme’s first cohort will begin at USC’s University Park Campus in Fall 2026.",
-        "content": "It is available on the common application; the programme’s first cohort will begin at USC’s University Park Campus in Fall 2026.\nFree Data Science courses you can apply\nStudents in the new BSAI degree will learn about the mathematical and statistical... [1741 chars]",
-        "url": "https://indianexpress.com/article/education/study-abroad/usc-viterbi-school-of-engineering-school-of-advanced-computing-introduce-ug-course-in-artificial-intelligence-10237492/",
-        "image": "https://images.indianexpress.com/2025/08/Untitled-design-8.jpg",
-        "publishedAt": "2025-09-08T11:09:55Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e5c3af36c7972e059e060274c7e6435a",
-        "title": "Deakin University and Government of Telangana Announce Intent to Advance AI Innovation in India",
-        "description": "Hyderabad (Telangana) [India], September 8: In a significant step towards strengthening Australia-India cooperation in the field of Artificial Intelligence (AI), Deakin University, Australia, and the Department of Information Technology, Electronics and Communications (ITE&C), Government of Telangana, have signed a Letter of Intent to collaborate on mission-driven AI innovation aligned with public good and digital economy goals.",
-        "content": "PRNewswire\nHyderabad (Telangana) [India], September 8: In a significant step towards strengthening Australia-India cooperation in the field of Artificial Intelligence (AI), Deakin University, Australia, and the Department of Information Technology, E... [6323 chars]",
-        "url": "https://www.tribuneindia.com/news/business/deakin-university-and-government-of-telangana-announce-intent-to-advance-ai-innovation-in-india/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM0YzRiOGYwLThjYTMtMTFmMC04NDliLWQxMWMzZjNiMjVlNy5qcGc=",
-        "publishedAt": "2025-09-08T11:05:39Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "21d97886da8bfd3e42bc96a5f4a2c393",
-        "title": "Apple iPhone event may lack sparkle, but rumored iPhone Air likely to spur upgrades",
-        "description": "When Apple debuts new iPhones on Tuesday, analysts say its biggest challenge will be to ride out another ho-hum launch as rivals have skated past it in embedding artificial intelligence into their products and services.",
-        "content": "The biggest draw this year could be a rumored \"iPhone Air\", a phone slimmer than what Apple has sold before and taking its name from the company's slender laptop MacBook Air.\nSign up here.\nApple would need to iron out how to pack batteries and camera... [3182 chars]",
-        "url": "https://www.reuters.com/business/apple-iphone-event-may-lack-sparkle-rumored-iphone-air-likely-spur-upgrades-2025-09-08/",
-        "image": "https://www.reuters.com/resizer/v2/G2WQVHRTFZLMNOKE4CYXBFGO3I.jpg?auth=ab28cb39f95f0de38faf2c14377e2817f2266cb4028b9b6feeb1e2e1f4cd47e9&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-09-08T11:04:03Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4f44d45845b6d3bc4a7db41a93a91f60",
-        "title": "Tesla Investors Debate Whether to Throw a Lifeline to xAI",
-        "description": "Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg’s journalists around the world. Today, Ed Ludlow looks at the interlocking relationship between Elon Musk’s artificial intelligence firm, xAI, and his carmaker, Tesla.",
-        "content": "Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg’s journalists around the world. Today, Ed Ludlow looks at the interlocking relationship between Elon Musk’s artificial intelligence firm, xAI, and his carmaker, ... [292 chars]",
-        "url": "https://www.bloomberg.com/news/newsletters/2025-09-08/tesla-investors-debate-whether-to-throw-a-lifeline-to-xai",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYsmcG.RzRtY/v1/1200x780.jpg",
-        "publishedAt": "2025-09-08T11:02:18Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
             "country": "us"
         }
     }
