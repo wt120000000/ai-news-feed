@@ -1,5 +1,37 @@
 [
     {
+        "id": "733b7481420ce165d0663dd1ac6baf22",
+        "title": "US Authors Sue Apple For Alleged Use Of Their Books To Train AI Models",
+        "description": "Tech giant Apple has been sued by two authors for alleged copyright violation over use of books to train AI models. Authors Grady Hendrix and Jennifer Roberson have filed a lawsuit in a federal court in Northern California, claiming that the company illegally used their copyrighted books to train its artificial intelligence models. The authors have requested the court to turn their complaint into a class action suit and block the company from further infringement of similar kind.",
+        "content": "Tech giant Apple has been sued by two authors for alleged copyright violation over use of books to train AI models. Authors Grady Hendrix and Jennifer Roberson have filed a lawsuit in a federal court in Northern California, claiming that the company ... [1989 chars]",
+        "url": "https://www.ndtvprofit.com/technology/us-authors-sue-apple-for-alleged-use-of-their-books-to-train-ai-models",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-08-26%2Flbmc70j8%2Flaurenz-heymann-VkfhJLz5SMQ-unsplash.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-09-08T14:03:37Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "9935b669823bb5452f5d240ac6ac006d",
+        "title": "Study validates deep learning model for predicting future lung cancer risk in Black population",
+        "description": "A new study presented at the International Association for the Study of Lung Cancer 2025 World Conference on Lung Cancer (WCLC) validates the use of Sybil, a deep learning artificial intelligence model, for predicting future lung cancer risk in a predominantly Black population.",
+        "content": "A new study presented at the International Association for the Study of Lung Cancer 2025 World Conference on Lung Cancer (WCLC) validates the use of Sybil, a deep learning artificial intelligence model, for predicting future lung cancer risk in a pre... [2533 chars]",
+        "url": "https://www.news-medical.net/news/20250908/Study-validates-deep-learning-model-for-predicting-future-lung-cancer-risk-in-Black-population.aspx",
+        "image": "https://www.news-medical.net/images/tags/TagImage-1295-45841047278807879412-620x480.jpg",
+        "publishedAt": "2025-09-08T13:55:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "33d14911f92ad53d93cfbbff65c708ef",
         "title": "Responsible AI in Finance: Moving From Conversation to Implementation",
         "description": "The global discussion around artificial intelligence has entered a new phase. What began as an arms race to launch the fastest and most powerful systems has now shifted toward a more sober question: how do we use these tools responsibly? In financial services, where accuracy and compliance are non-negotiable, the stakes are uniquely high. Why […]",
@@ -125,38 +157,6 @@
             "name": "Free Press Journal",
             "url": "https://www.freepressjournal.in",
             "country": "in"
-        }
-    },
-    {
-        "id": "c260a092f59c71e74732cc6932089c70",
-        "title": "Deakin University and Government of Telangana Announce Intent to Advance AI Innovation in India",
-        "description": "HYDERABAD, India, Sept. 8, 2025 /PRNewswire/ -- In a significant step towards strengthening Australia–India cooperation in the field of Artificial Intelligence (AI), Deakin University, Australia, and the Department of Information Technology, Electronics and Communications (ITE&C), Government of Telangana, have signed...",
-        "content": "HYDERABAD, India, Sept. 8, 2025 /PRNewswire/ -- In a significant step towards strengthening Australia–India cooperation in the field of Artificial Intelligence (AI), Deakin University, Australia, and the Department of Information Technology, Electron... [6316 chars]",
-        "url": "https://www.tribuneindia.com/news/business/deakin-university-and-government-of-telangana-announce-intent-to-advance-ai-innovation-in-india-2/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWExYzk2YmYwLThjYTUtMTFmMC04NDliLWQxMWMzZjNiMjVlNy5qcGc=",
-        "publishedAt": "2025-09-08T11:14:57Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6aeabb0aba3f1451d451f80cea0d070d",
-        "title": "How AI Puts Company Data at Risk",
-        "description": "Artificial intelligence helps defend against data breaches of all types. But AI is also increasing cyber threats in a growing arms race.",
-        "content": "To help you understand the trends surrounding AI and other new technologies and what we expect to happen in the future, our highly experienced Kiplinger Letter team will keep you abreast of the latest developments and forecasts. (Get a free issue of ... [3898 chars]",
-        "url": "https://www.kiplinger.com/business/how-ai-puts-company-data-at-risk",
-        "image": "https://cdn.mos.cms.futurecdn.net/GGDPiQpCoTnbsPfXmwXit.jpg",
-        "publishedAt": "2025-09-08T11:13:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ca0ac0e9c1dc28f0363e86d46cc022aa",
-            "name": "Kiplinger",
-            "url": "https://www.kiplinger.com",
-            "country": "us"
         }
     }
 ]
