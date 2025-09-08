@@ -1,5 +1,21 @@
 [
     {
+        "id": "460e84f8f52652fdd9c8e9c63ee3d222",
+        "title": "AI assessment indicates stress levels in farmed Amazonian fish",
+        "description": "In Brazil, a group led by researchers from São Paulo State University (UNESP) in Jaboticabal, in collaboration with the Brazilian Agricultural Research Corporation (EMBRAPA), has developed an artificial intelligence (AI) tool to assess the stress levels of tambaqui (Colossoma macropomum), the most widely produced native fish in Brazil. The study is published in the journal Aquaculture.",
+        "content": "In Brazil, a group led by researchers from São Paulo State University (UNESP) in Jaboticabal, in collaboration with the Brazilian Agricultural Research Corporation (EMBRAPA), has developed an artificial intelligence (AI) tool to assess the stress lev... [3873 chars]",
+        "url": "https://phys.org/news/2025-09-ai-stress-farmed-amazonian-fish.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2025/artificial-intelligenc-26.jpg",
+        "publishedAt": "2025-09-08T20:51:03Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
         "id": "e289ee5b1dd88bdfb1fefbc0f0770868",
         "title": "A new tool can predict the infection risks oral mucositis poses to stem cell transplant patients",
         "description": "University at Buffalo researchers and collaborators have completed a series of studies that reveal how much painful mouth sores known as oral mucositis increase infection risks in stem cell transplant patients and how artificial intelligence can be used to more accurately predict those risks.",
@@ -80,6 +96,22 @@
         }
     },
     {
+        "id": "6b0304f2b566887c608f1f8e5c6c2c7d",
+        "title": "Judge reviews $1.5B Anthropic settlement proposal with authors over pirated books for AI training",
+        "description": "SAN FRANCISCO (AP) — A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and…",
+        "content": "SAN FRANCISCO (AP) — A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.\n... [1289 chars]",
+        "url": "https://wtop.com/business-finance/2025/09/judge-reviews-1-5b-anthropic-settlement-proposal-with-authors-over-pirated-books-for-ai-training/",
+        "image": "https://wtop.com/wp-content/uploads/2025/08/Anthropic_Authors_Copywrite_99564-scaled.jpg",
+        "publishedAt": "2025-09-08T18:50:19Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "c134a80c9ccf4dc5cde5ba8882653e20",
         "title": "Judge reviews $1.5B Anthropic settlement proposal with authors",
         "description": "A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.",
@@ -125,38 +157,6 @@
             "name": "U.S. News & World Report",
             "url": "https://www.usnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "ac0fd1e435d5bf6d022970e7ec0514b3",
-        "title": "Hassan Taher Examines MIT's Alarming Discovery About AI's Effect on Human Cognition",
-        "description": "Artificial intelligence has become ubiquitous across educational institutions and professional environments, with millions relying on tools like ChatGPT for daily tasks. Yet a groundbreaking MIT study released in June 2025 reveals concerning implications for human cognitive function that demand immediate attention. The research, conducted by Nataliya Kos’myna and her team monitored brain activity in real-time […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence has become ubiquitous across educational institutions and professional environments, with millions relying on tools like ChatGPT for daily tasks. Yet a groundbreaking MIT study released in June 20... [6430 chars]",
-        "url": "https://techbullion.com/hassan-taher-examines-mits-alarming-discovery-about-ais-effect-on-human-cognition/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/09/IMG_2009.jpeg",
-        "publishedAt": "2025-09-08T17:32:18Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "c10e54f659067cb4169b178a7e8b126f",
-        "title": "How to Develop an AI Avatar Generator App Like Lensa AI?",
-        "description": "Having an AI Avatar Generator App is now a popular and cutting-edge startup and development project. An AI Avatar Generator App uses advanced artificial intelligence and machine learning algorithms to transform user pictures into an original, individualized avatar using style-transfer neural networks. The avatars created by Avatars that are rendered by Lensa AI are highly […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nHaving an AI Avatar Generator App is now a popular and cutting-edge startup and development project. An AI Avatar Generator App uses advanced artificial intelligence and machine learning algorithms to transform user pict... [11437 chars]",
-        "url": "https://techbullion.com/how-to-develop-an-ai-avatar-generator-app-like-lensa-ai/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/09/IMG_2008.png",
-        "publishedAt": "2025-09-08T17:26:12Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
         }
     }
 ]
