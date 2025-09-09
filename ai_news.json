@@ -1,5 +1,21 @@
 [
     {
+        "id": "d192110e64747a9401efc5f224d1d339",
+        "title": "Solomon AI Limited Forms Strategic Partnership with VR Solutions LLC to Drive Agentic AI Adoption Across Central Asia",
+        "description": "/PRNewswire/ -- Solomon AI Limited, a leading innovator in advanced artificial intelligence, and VR Solutions LLC, a prominent technology provider in...",
+        "content": "HONG KONG and BAKU, Azerbaijan, Sept. 9, 2025 /PRNewswire/ -- Solomon AI Limited, a leading innovator in advanced artificial intelligence, and VR Solutions LLC, a prominent technology provider in Azerbaijan, today announced a strategic partnership ai... [2834 chars]",
+        "url": "https://www.prnewswire.co.uk/news-releases/solomon-ai-limited-forms-strategic-partnership-with-vr-solutions-llc-to-drive-agentic-ai-adoption-across-central-asia-302549939.html",
+        "image": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
+        "publishedAt": "2025-09-09T01:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "f4d035ae0463df22c36ae97972a33ba6",
+            "name": "PR Newswire UK",
+            "url": "https://www.prnewswire.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "e1a174deaa65c4d1d95f7bfefab9c8d3",
         "title": "Judge skewers $1.5 billion Anthropic settlement with authors in pirated books case over AI training",
         "description": "A federal judge on Monday skewered a $1.5 billion settlement between artificial intelligence company Anthropic and authors who allege nearly half million books had been illegally pirated to train chatbots, raising the specter that the case could still end up going to trial.",
@@ -45,6 +61,22 @@
             "name": "Markets Insider",
             "url": "https://markets.businessinsider.com",
             "country": "us"
+        }
+    },
+    {
+        "id": "8a025b0646b9ede402f3b32af5bc2d1a",
+        "title": "Ottawa drafts a public registry of AI projects as tech spreads through government",
+        "description": "The federal government says it plans to launch a public registry to keep Canadians in the loop on its growing use of artificial intelligence.",
+        "content": "The federal government says it plans to launch a public registry to keep Canadians in the loop on its growing use of artificial intelligence.\n\"We are seeing a lot more activity across departments and agencies,\" Stephen Burt, the government’s chief da... [5052 chars]",
+        "url": "https://www.nationalobserver.com/2025/09/09/news/ottawa-drafts-public-registry-ai-projects-tech-spreads-through-government",
+        "image": "https://www.nationalobserver.com/sites/default/files/img/2025/09/09/dd6e94012f46422d871ec407cde5733c189eac4e291cf84d379bba9556ce15f4.jpg",
+        "publishedAt": "2025-09-09T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "bde73c871b6272fa96a37829f5dc59fd",
+            "name": "Canada’s National Observer",
+            "url": "https://www.nationalobserver.com",
+            "country": "ca"
         }
     },
     {
@@ -125,38 +157,6 @@
             "name": "Bangkok Post",
             "url": "https://www.bangkokpost.com",
             "country": "th"
-        }
-    },
-    {
-        "id": "1afb433b49f005cb62613a9b5652e1ae",
-        "title": "Anthropic backs California bill that mandates AI transparency measures",
-        "description": "Artificial intelligence developer Anthropic became the first major tech company on Monday to endorse a California bill that would regulate the most advanced AI...",
-        "content": "Artificial intelligence developer Anthropic became the first major tech company on Monday to endorse a California bill that would regulate the most advanced AI models.\nProposed by state Sen. Scott Wiener, if passed, S.B. 53 would create the first bro... [7083 chars]",
-        "url": "https://www.nbcboston.com/news/tech/anthropic-backs-california-bill-mandates-ai-transparency-measures/3805131/",
-        "image": "https://media.nbcboston.com/2025/09/GettyImages-1690054181.jpg?quality=85&strip=all&resize=1200%2C675",
-        "publishedAt": "2025-09-08T22:37:05Z",
-        "lang": "en",
-        "source": {
-            "id": "8749653ef849c3df2e467a8e0f0c6672",
-            "name": "NBC10 Boston",
-            "url": "https://www.nbcboston.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f477148ae827c2386552dc0f54e48a7d",
-        "title": "Anthropic backs California bill that mandates AI transparency measures",
-        "description": "Artificial intelligence developer Anthropic became the first major tech company on Monday to endorse a California bill that would regulate the most advanced AI...",
-        "content": "Artificial intelligence developer Anthropic became the first major tech company on Monday to endorse a California bill that would regulate the most advanced AI models.\nProposed by state Sen. Scott Wiener, if passed, S.B. 53 would create the first bro... [7083 chars]",
-        "url": "https://www.nbcchicago.com/news/tech/anthropic-backs-california-bill-mandates-ai-transparency-measures/3821251/",
-        "image": "https://media.nbcchicago.com/2025/09/GettyImages-1690054181.jpg?quality=85&strip=all&resize=1200%2C675",
-        "publishedAt": "2025-09-08T22:37:05Z",
-        "lang": "en",
-        "source": {
-            "id": "046a50607901bb9bca25f6624dc87f76",
-            "name": "NBC 5 Chicago",
-            "url": "https://www.nbcchicago.com",
-            "country": "us"
         }
     }
 ]
