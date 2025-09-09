@@ -1,5 +1,69 @@
 [
     {
+        "id": "bd261a9adc727cf6487a4be063991a3b",
+        "title": "Microsoft signs $20 bn AI cloud power deal with Nebius, the firm that spun out from Russian internet giant",
+        "description": "Microsoft has signed a deal to the tune of nearly $20 billion with Nebius, the firm that spun out of Russian internet giant Yandex, for cloud infrastructure to run artificial intelligence (AI) applications.",
+        "content": "Microsoft has signed a deal with Nebius, the firm that spun out of Russian internet giant Yandex last year, to get artificial intelligence (AI) cloud computing power for the next seven years that could be worth nearly $20 billion.\nThe Microsoft-Nebiu... [1724 chars]",
+        "url": "https://www.firstpost.com/tech/microsoft-signs-20-billion-ai-cloud-power-deal-with-nebius-the-firm-that-spun-out-from-russian-internet-giant-13932038.html",
+        "image": "https://images.firstpost.com/uploads/2025/02/Microsoft-prepares-itself-to-host-OpenAIs-GPT-5-and-other-models-increasing-server-capacity-2025-02-5efe3c6d7bc7902237607247bd3dfafd-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2025-09-09T05:09:47Z",
+        "lang": "en",
+        "source": {
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "674263bb49613bca9d23108f7da2cd95",
+        "title": "ASML becomes biggest Mistral investor in boost to Europe's AI ambitions",
+        "description": "Dutch chip equipment maker ASML has invested 1.3 billion euros ($1.5 billion) to become the biggest investor in French artificial intelligence startup Mistral AI in a significant boost to Europe's AI ambitions.",
+        "content": "AMSTERDAM, Sept 9 (Reuters) - Dutch chip equipment maker ASML has invested 1.3 billion euros ($1.5 billion) to become the biggest investor in French artificial intelligence startup Mistral AI in a significant boost to Europe's AI ambitions.\nMistral A... [2220 chars]",
+        "url": "https://www.reuters.com/technology/asml-becomes-biggest-mistral-investor-boost-europes-ai-ambitions-2025-09-09/",
+        "image": "https://www.reuters.com/resizer/v2/D25CQTGQ6FLN3MIMZL26FVURHE.jpg?auth=226cac452c6ea27b66aa1afff6f16ba85e14e1910c4921f106183e0f4a90db18&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-09-09T05:08:04Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "898a76b9c875541220d81debdb4828ef",
+        "title": "Mistral AI raises 1.7 billion euros as ASML becomes its top shareholder",
+        "description": "French artificial intelligence startup Mistral AI has raised 1.7 billion euros ($2 billion) in its latest funding round led by Dutch chip equipment maker ASML , the companies said on Tuesday, confirming a Reuters report from Sunday.",
+        "content": "ASML is investing 1.3 billion euros in Mistral AI as part of a series C funding round, making it Mistral's main shareholder as it will hold a stake of about 11%.\nSign up here.\nThe latest funding round gives Mistral an 11.7 billion-euro post-money val... [574 chars]",
+        "url": "https://www.reuters.com/technology/mistral-ai-raises-17-billion-euros-asml-becomes-its-top-shareholder-2025-09-09/",
+        "image": "https://www.reuters.com/resizer/v2/D25CQTGQ6FLN3MIMZL26FVURHE.jpg?auth=226cac452c6ea27b66aa1afff6f16ba85e14e1910c4921f106183e0f4a90db18&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-09-09T05:08:04Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ae27e387c054f1a759138bcd07e26853",
+        "title": "ASML Pumps €1.3 Billion Into Mistral in Boost for European AI",
+        "description": "ASML Holding NV is investing €1.3 billion ($1.5 billion) in France’s Mistral AI as part of a strategic partnership, an unusual move for the Dutch chipmaking equipment company that shores up Europe’s most important artificial intelligence startup.",
+        "content": "ASML Holding NV is investing €1.3 billion ($1.5 billion) in France’s Mistral AI as part of a strategic partnership, an unusual move for the Dutch chipmaking equipment company that shores up Europe’s most important artificial intelligence startup.\nWit... [345 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-09-09/asml-pumps-1-3-billion-into-mistral-in-boost-for-european-ai",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLf2b.ZNoFzw/v0/1200x800.jpg",
+        "publishedAt": "2025-09-09T05:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "64bebc5be51f4ef1406cbb753e4fa9da",
         "title": "OpenAI backs AI-animated film for Cannes debut",
         "description": "NEW YORK — ChatGPT-maker OpenAI is backing the production of a feature-length animated film created largely with artificial intelligence tools, aiming to prove the technology can revolutionize Hollywood filmmaking with faster timelines and lower costs.",
@@ -93,70 +157,6 @@
             "name": "The Hindu",
             "url": "https://www.thehindu.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "774911fab20698c099bb711c01cddd3a",
-        "title": "Apple iPhone 17 Launch: Planning To Replace Your iPhone 16 With The Latest Model? Check This Out",
-        "description": "As Apple's long awaited launch event approaches, a new story is emerging for the iPhone 17.The real fight for your upgrade isn't about screen size or camera pixels any longer, however, its about the application of artificial intelligence.This new AI focus is particularly notable for its emphasis on privacy.",
-        "content": "14\nAs Apple’s long awaited launch event approaches, a new story is emerging for the iPhone 17. The real fight for your upgrade isn’t about screen size or camera pixels any longer, however, its about the application of artificial intelligence.\nAlthoug... [1903 chars]",
-        "url": "https://www.newsx.com/business/apple-iphone-17-launch-planning-to-replace-your-iphone-16-with-the-latest-model-check-this-out-62766/",
-        "image": "https://www.newsx.com/wp-content/uploads/2025/09/apple-new-coo_2.png",
-        "publishedAt": "2025-09-09T02:05:39Z",
-        "lang": "en",
-        "source": {
-            "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-            "name": "NewsX",
-            "url": "https://www.newsx.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "18cd64ebc6651268b866d8aa2b51a4ed",
-        "title": "DJB to use AI, drones for mapping drains in city and plugging sewage leaks",
-        "description": "The board plans to deploy artificial intelligence and drone surveys to map unsewered pockets, drains and outfalls.",
-        "content": "NEW DELHI: With the Yamuna still choking from decades of untreated waste, the Delhi Jal Board has unveiled a far-reaching Sewerage Improvement Scheme (SIS) to overhaul the city’s ageing sewage systems and plug pollution pathways into the river, offic... [1891 chars]",
-        "url": "https://www.newindianexpress.com/cities/delhi/2025/Sep/09/djb-to-use-ai-drones-for-mapping-drains-in-city-and-plugging-sewage-leaks",
-        "image": "https://media.newindianexpress.com/newindianexpress%2F2025-09-09%2F2yc2ltw4%2Fdrain04112157.jpg?rect=0%2C444%2C6048%2C3175&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2025-09-09T02:03:29Z",
-        "lang": "en",
-        "source": {
-            "id": "448094ed3f9461bb87a99a218cdaecfe",
-            "name": "The New Indian Express",
-            "url": "https://www.newindianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "cb3e1cf50c7dc253424bc1ee8b1ce730",
-        "title": "animated film for Cannes debut",
-        "description": "ChatGPT-maker OpenAI is backing the production of a feature-length animated film created largely with artificial intelligence tools, aiming to prove the technology can revolutionize Hollywood filmmaking with faster timelines and lower costs. The project has a budget of under $30 million and a production timeline of just nine months -- a fraction of the typical $100-200 million cost and three-year development cycle for major animated features.",
-        "content": "Synopsis\nChatGPT-maker OpenAI is backing the production of a feature-length animated film created largely with artificial intelligence tools, aiming to prove the technology can revolutionize Hollywood filmmaking with faster timelines and lower costs.... [2828 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-backs-ai-animated-film-for-cannes-debut/articleshow/123776417.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70246,resizemode-75,msid-123776417/tech/artificial-intelligence/openai-backs-ai-animated-film-for-cannes-debut.jpg",
-        "publishedAt": "2025-09-09T02:00:55Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "321314b383bd6a630a33fb0ff1da996d",
-        "title": "OpenAI backs AI-animated film for Cannes debut",
-        "description": "NEW YORK - ChatGPT-maker OpenAI is backing the production of a feature-length animated film created largely with artificial intelligence tools, aiming to prove the technology can revolutionize Hollywood filmmaking with faster timelines and lower costs.",
-        "content": "NEW YORK - ChatGPT-maker OpenAI is backing the production of a feature-length animated film created largely with artificial intelligence tools, aiming to prove the technology can revolutionize Hollywood filmmaking with faster timelines and lower cost... [2287 chars]",
-        "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3101310/openai-backs-aianimated-film-for-cannes-debut",
-        "image": "https://static.bangkokpost.com/media/content/20250909/c1_5772702_700.jpg",
-        "publishedAt": "2025-09-09T01:53:00Z",
-        "lang": "en",
-        "source": {
-            "id": "91120a92e0d24e24fbffb6d0affabfe6",
-            "name": "Bangkok Post",
-            "url": "https://www.bangkokpost.com",
-            "country": "th"
         }
     }
 ]
