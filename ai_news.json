@@ -1,5 +1,69 @@
 [
     {
+        "id": "284aa2b51fc4a061f50228b22b6794e1",
+        "title": "Anthropic backs California's SB 53 AI bill",
+        "description": "Artificial intelligence developer Anthropic became the first major tech company to endorse a California bill that would regulate the most advanced AI models.",
+        "content": "Artificial intelligence developer Anthropic became the first major tech company on Monday to endorse a California bill that would regulate the most advanced AI models.\nProposed by state Sen. Scott Wiener, if passed, S.B. 53 would create the first bro... [7078 chars]",
+        "url": "https://www.nbcnews.com/tech/tech-news/anthropic-backs-californias-sb-53-ai-bill-rcna229908",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240304-Anthropic-aa-221p-6c6a84.jpg",
+        "publishedAt": "2025-09-08T22:06:15Z",
+        "lang": "en",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7839566079b9a5fa2324d3e891efe90e",
+        "title": "World AI race faces hurdle as effective altruism movement opposes Trump",
+        "description": "The effective altruism movement, led by RAND CEO Jason Matheny, may challenge Trump's plans for American artificial intelligence dominance through regulatory advocacy.",
+        "content": "FIRST ON FOX: President Donald Trump’s push to establish \"America’s global AI dominance\" could run into friction from an unlikely source: the \"effective altruism\" movement, a small but influential group that has a darker outlook on artificial intelli... [7093 chars]",
+        "url": "https://www.foxnews.com/politics/meet-ex-biden-appointee-who-could-be-major-force-against-trumps-ai-agenda-doomsayer",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/trump-ai-race.jpg",
+        "publishedAt": "2025-09-08T21:44:13Z",
+        "lang": "en",
+        "source": {
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "441d6422a7f01cd704b5d1e5c927d6a5",
+        "title": "Nebius stock soars on AI infrastructure deal with Microsoft",
+        "description": "Nebius said it signed a multibillion-dollar agreement to provide Microsoft with artificial intelligence infrastructure.",
+        "content": "Shares of Nebius Group soared more than 60% in extended trading on Monday after the provider of Nvidia graphics chips for training artificial intelligence models said it's signed an agreement with Microsoft worth billions of dollars over multiple yea... [1444 chars]",
+        "url": "https://www.cnbc.com/2025/09/08/nebius-stock-soars-on-ai-infrastructure-deal-with-microsoft-.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108195794-1757366109302-gettyimages-2202932465-TFSPI_05032025-5194.jpeg?v=1757366150&w=1920&h=1080",
+        "publishedAt": "2025-09-08T21:36:16Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "edb641a95f1dbaeec6ea3bd3d13f0c2e",
+        "title": "Opening Stargate to India: Altman Co in Tieup Talks",
+        "description": "OpenAI is holding preliminary discussions with Indian data centre companies Sify Technologies, Yotta Data Services, E2E Networks and CtrlS Datacenters, as the artificial intelligence giant firms up plans to bring its $500-billion global joint venture supercomputing project, Stargate, to India, said people in the know.",
+        "content": "Synopsis\nOpenAI is holding preliminary discussions with Indian data centre companies Sify Technologies, Yotta Data Services, E2E Networks and CtrlS Datacenters, as the artificial intelligence giant firms up plans to bring its $500-billion global join... [6489 chars]",
+        "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/sep/09/et-front/opening-stargate-to-india-altman-co-in-tieup-talks/articleshow/123773429.cms",
+        "image": "https://img.etimg.com/thumb/msid-123773800,width-1200,height-630,imgsize-129382,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-09-08T21:35:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "424e0909712c53ce62ed0b083573f3b6",
         "title": "Why Analysts Call Broadcom a 'Magnificent Eight' Stock That Can Challenge Nvidia",
         "description": "Artificial intelligence chip heavyweight Nvidia could have more competition to contend with after Broadcom's strong quarterly results, according to one Wall Street bull.",
@@ -93,70 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "5f0028e45507b24438ef9ea437618b21",
-        "title": "AI approach paves way for smarter T-cell immunotherapy and vaccine development",
-        "description": "Researchers have harnessed the power of artificial intelligence to tackle one of the most complex challenges in immunology: predicting how T cells recognize and respond to specific peptide antigens. Using AlphaFold 3 (AF3), an AI/ML model, designed for protein structure prediction, the team demonstrated a novel approach to model T cell receptor–peptide/major histocompatibility complex (TCR-pMHC) interactions with growing accuracy. The paper is published in the journal Frontiers in Immunology.",
-        "content": "Researchers have harnessed the power of artificial intelligence to tackle one of the most complex challenges in immunology: predicting how T cells recognize and respond to specific peptide antigens. Using AlphaFold 3 (AF3), an AI/ML model, designed f... [2289 chars]",
-        "url": "https://medicalxpress.com/news/2025-09-ai-approach-paves-smarter-cell.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-ai-approach-paves.jpg",
-        "publishedAt": "2025-09-08T19:04:04Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "6b0304f2b566887c608f1f8e5c6c2c7d",
-        "title": "Judge reviews $1.5B Anthropic settlement proposal with authors over pirated books for AI training",
-        "description": "SAN FRANCISCO (AP) — A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and…",
-        "content": "SAN FRANCISCO (AP) — A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.\n... [1289 chars]",
-        "url": "https://wtop.com/business-finance/2025/09/judge-reviews-1-5b-anthropic-settlement-proposal-with-authors-over-pirated-books-for-ai-training/",
-        "image": "https://wtop.com/wp-content/uploads/2025/08/Anthropic_Authors_Copywrite_99564-scaled.jpg",
-        "publishedAt": "2025-09-08T18:50:19Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c134a80c9ccf4dc5cde5ba8882653e20",
-        "title": "Judge reviews $1.5B Anthropic settlement proposal with authors",
-        "description": "A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.",
-        "content": "SAN FRANCISCO (AP) — A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.\n... [1156 chars]",
-        "url": "https://www.bostonherald.com/2025/09/08/anthropic-settlement-authors/",
-        "image": "https://www.bostonherald.com/wp-content/uploads/2025/09/Anthropic_Authors_Copywrite_99564_954574-1.jpg?w=1024&h=583",
-        "publishedAt": "2025-09-08T18:49:01Z",
-        "lang": "en",
-        "source": {
-            "id": "bc49d994b41ac710f5c89f6e6adeece4",
-            "name": "The Boston Herald",
-            "url": "https://www.bostonherald.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "808788539641668d388ded2235378b4d",
-        "title": "Judge reviews $1.5B Anthropic settlement proposal with authors",
-        "description": "A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.",
-        "content": "SAN FRANCISCO (AP) — A federal judge has begun reviewing a landmark class-action settlement agreement between the artificial intelligence company Anthropic and book authors who say the company took pirated copies of their works to train its chatbot.\n... [1156 chars]",
-        "url": "https://www.baltimoresun.com/2025/09/08/anthropic-settlement-authors/",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2025/09/Anthropic_Authors_Copywrite_99564_954574-1.jpg?w=1024&h=583",
-        "publishedAt": "2025-09-08T18:49:01Z",
-        "lang": "en",
-        "source": {
-            "id": "3271eb2093cfa66b030a37cf84a8df5e",
-            "name": "Baltimore Sun",
-            "url": "https://www.baltimoresun.com",
-            "country": "us"
         }
     }
 ]
