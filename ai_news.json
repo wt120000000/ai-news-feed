@@ -1,5 +1,21 @@
 [
     {
+        "id": "c02a48ab1b7b25b0371f5f8688b54894",
+        "title": "Agency blueprint seeks to develop regional AI hub",
+        "description": "The Electronic Transactions Development Agency (Etda) has set a goal to push Thailand to become regional hub for artificial intelligence (AI) by strengthening trust in digital infrastructure, promoting advanced AI tech operations, and expanding collaborative regulatory mechanisms for platform services.",
+        "content": "The Electronic Transactions Development Agency (Etda) has set a goal to push Thailand to become regional hub for artificial intelligence (AI) by strengthening trust in digital infrastructure, promoting advanced AI tech operations, and expanding colla... [2948 chars]",
+        "url": "https://www.bangkokpost.com/business/general/3101752/agency-blueprint-seeks-to-develop-regional-ai-hub",
+        "image": "https://static.bangkokpost.com/media/content/20250910/c1_3101752_250910081625_700.jpg",
+        "publishedAt": "2025-09-10T01:06:00Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
         "id": "3778b75c8d39456e53d418117307b92a",
         "title": "'We're all kind of in shock.' Oracle projections analysts slackjawed",
         "description": "Oracle's earnings report included numbers that suggest the company's growth rate due to artificial intelligence is about to pop.",
@@ -141,22 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "8de1442b6b9cd2743a3346fdefb4d446",
-        "title": "Hitachi opens new $100 million railcar plant near Washington",
-        "description": "Japanese conglomerate Hitachi Ltd on Monday formally opened a $100 million factory in the eastern U.S. state of Maryland, with the new facility capable of turning out 20 railcars per month. Hitachi said the plant in Hagerstown, near Washington, utilizes artificial intelligence and other advanced technologies, including a dog-like robot…",
-        "content": "Japanese conglomerate Hitachi Ltd on Monday formally opened a $100 million factory in the eastern U.S. state of Maryland, with the new facility capable of turning out 20 railcars per month.\nHitachi said the plant in Hagerstown, near Washington, utili... [1285 chars]",
-        "url": "https://japantoday.com/category/business/update1-hitachi-opens-new-100-million-railcar-plant-near-washington",
-        "image": "https://japantoday.com/images/japan-today-social.jpg",
-        "publishedAt": "2025-09-09T20:45:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
