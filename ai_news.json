@@ -1,5 +1,37 @@
 [
     {
+        "id": "abe5115d077490a3d3c26f1ea2c9b9a1",
+        "title": "Arm launches new generation of mobile chip designs geared for AI",
+        "description": "Arm Holdings said on Tuesday it was launching its next-generation set of chip designs called Lumex that it has optimized for artificial intelligence to run on mobile devices such as smartphones and watches without accessing the internet.",
+        "content": "SAN FRANCISCO, Sept 9 (Reuters) - Arm Holdings said on Tuesday it was launching its next-generation set of chip designs called Lumex that it has optimized for artificial intelligence to run on mobile devices such as smartphones and watches without ac... [1775 chars]",
+        "url": "https://www.reuters.com/business/arm-launches-new-generation-mobile-chip-designs-geared-ai-2025-09-10/",
+        "image": "https://www.reuters.com/resizer/v2/ANJ7ZDVWORMBVFP4M5YFYIOZDE.jpg?auth=fadd76c82ee8d776f55fc1c688278c2bb87250940ecf19b84e66e48fc27aee49&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-09-10T02:05:17Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3fb81b1a394a2ea2951b242ccdc42062",
+        "title": "Wall Street indexes notch record high closes, investors bet rate cut",
+        "description": "Wall Street's major indexes achieved record closing highs, propelled by UnitedHealth's strong performance and revised payroll data fueling expectations of Federal Reserve interest rate cuts. Optimism surrounding artificial intelligence and anticipated lower borrowing costs continued to drive the market rally. However, Apple shares declined after the unveiling of new iPhones failed to impress investors.",
+        "content": "Synopsis\nWall Street's major indexes achieved record closing highs, propelled by UnitedHealth's strong performance and revised payroll data fueling expectations of Federal Reserve interest rate cuts. Optimism surrounding artificial intelligence and a... [4567 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-indexes-notch-record-high-closes-investors-bet-rate-cut/articleshow/123797708.cms",
+        "image": "https://img.etimg.com/thumb/msid-123797711,width-1200,height-630,imgsize-114698,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2025-09-10T01:54:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "c02a48ab1b7b25b0371f5f8688b54894",
         "title": "Agency blueprint seeks to develop regional AI hub",
         "description": "The Electronic Transactions Development Agency (Etda) has set a goal to push Thailand to become regional hub for artificial intelligence (AI) by strengthening trust in digital infrastructure, promoting advanced AI tech operations, and expanding collaborative regulatory mechanisms for platform services.",
@@ -125,38 +157,6 @@
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "0bfe8ffb3b9a28d83a0234f644e286a3",
-        "title": "OpenAI CFO says companies must embrace AI or 'get left behind'",
-        "description": "People need to adopt artificial intelligence if they want their businesses to keep an edge, said OpenAI's finance chief",
-        "content": "OpenAI finance chief Sarah Friar is sending a warning signal for companies and professionals to adopt artificial intelligence if they want to keep an edge.\n\"The people who will get left behind are not embracing AI fast enough,\" she said during an app... [1146 chars]",
-        "url": "https://www.cnbc.com/2025/09/09/openai-ai-companies-cfo-friar.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108188498-1755694394560-SG-Friar-03.jpg?v=1755694558&w=1920&h=1080",
-        "publishedAt": "2025-09-09T21:22:17Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "7a641ff5b308ad1eae529fef473cf16f",
-        "title": "Privacy and Safety Concerns with Integrating AI into Your App",
-        "description": "Artificial intelligence is quickly becoming the heartbeat of modern apps. From personalized recommendations to real-time chat assistants, AI promises convenience, speed, and a smarter user experience. Yet beneath the promise lies a pressing challenge that too many companies overlook: integrating AI into an application can open the door to privacy and safety risks that are far more serious than a temporary glitch or a poorly tuned model.",
-        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence is quickly becoming the heartbeat of modern apps. From personalized recommendations to real-time chat assistants, AI promises convenience, speed, and a smarter user experience. Yet beneath the pro... [4682 chars]",
-        "url": "https://techbullion.com/privacy-and-safety-concerns-with-integrating-ai-into-your-app/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/09/Integrating-AI-into-Your-App-1000x600.png",
-        "publishedAt": "2025-09-09T20:46:06Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
         }
     }
 ]
