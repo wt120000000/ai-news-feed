@@ -1,140 +1,92 @@
 [
     {
-        "id": "6ca8f731ff31c434a68e46ae175dcda1",
-        "title": "Senator claims Meta ignored warnings about teens using AI chatbots",
-        "description": "Lawmakers are continuing to pile pressure on Meta to overhaul its safety procedures and rules for kids using its artificial intelligence products.",
-        "content": "Lawmakers are continuing to pile pressure on Meta to overhaul its safety procedures and rules for kids using its artificial intelligence products as the industry faces blowback from Congress over the impact it’s having on the nation’s youth.\nSen. Ed ... [5077 chars]",
-        "url": "https://foxbaltimore.com/news/nation-world/senator-claims-meta-ignored-warnings-about-teens-using-ai-chatbots-ed-markey-mark-zuckerberg-artificial-intelligence-child-protections-regulation",
-        "image": "https://foxbaltimore.com/resources/media2/16x9/5075/986/0x265/90/a86d9365-0e64-4541-a974-810f60058f8f-AP25024521312669.jpg",
-        "publishedAt": "2025-09-09T16:23:06Z",
+        "id": "b9aab4fe4af6b6dc69dca6b261fe7128",
+        "title": "First global medical AI foundation model drives 100-country research collaboration",
+        "description": "A global research consortium of over 100 study groups in more than 65 countries has launched the Global RETFound initiative, a collaborative effort to develop the first globally representative Artificial Intelligence (AI) foundation model in medicine, using 100 million eye images.",
+        "content": "A global research consortium of over 100 study groups in more than 65 countries has launched the Global RETFound initiative, a collaborative effort to develop the first globally representative Artificial Intelligence (AI) foundation model in medicine... [3861 chars]",
+        "url": "https://medicalxpress.com/news/2025-09-global-medical-ai-foundation-country.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/nus-co-leads-push-to-b.jpg",
+        "publishedAt": "2025-09-09T17:16:04Z",
         "lang": "en",
         "source": {
-            "id": "9f53afb019d44feb16bcc7da150e679a",
-            "name": "Baltimore News",
-            "url": "https://foxbaltimore.com",
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "7f571e20421b9f5fcf7491fdc56e73ab",
+        "title": "Nvidia Unveils New Chip System For AI Video, Software Creation",
+        "description": "Nvidia Corp., whose chips and systems are at the heart of the artificial intelligence computing boom, said it plans to offer a new product designed to handle demanding tasks such as video generation and software creation.",
+        "content": "Nvidia Corp., whose chips and systems are at the heart of the artificial intelligence computing boom, said it plans to offer a new product designed to handle demanding tasks such as video generation and software creation.\nThe product, Rubin CPX, will... [2189 chars]",
+        "url": "https://www.ndtvprofit.com/technology/nvidia-unveils-new-chip-system-for-ai-video-software-creation",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-09-09%2Fisde0ypf%2F439498162.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-09-09T17:15:01Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "823bb58436f34ea65a0d563ba9528b08",
+        "title": "Anthropic's $1.5 billion copyright settlement faces judge's scrutiny",
+        "description": "A federal judge in San Francisco has declined, for now, to approve a landmark $1.5 billion settlement announced Friday between artificial intelligence company Anthropic and a class of authors suing it for copyright infringement.",
+        "content": "Sept 9 (Reuters) - A federal judge in San Francisco has declined, for now, to approve a landmark $1.5 billion settlement announced Friday between artificial intelligence company Anthropic and a class of authors suing it for copyright infringement.\nSi... [2155 chars]",
+        "url": "https://www.reuters.com/legal/government/anthropics-15-billion-copyright-settlement-faces-judges-scrutiny-2025-09-09/",
+        "image": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-09-09T17:06:05Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
             "country": "us"
         }
     },
     {
-        "id": "773ed90c8b93154544945c0541d9524c",
-        "title": "Senator claims Meta ignored warnings about teens using AI chatbots",
-        "description": "Lawmakers are continuing to pile pressure on Meta to overhaul its safety procedures and rules for kids using its artificial intelligence products.",
-        "content": "Lawmakers are continuing to pile pressure on Meta to overhaul its safety procedures and rules for kids using its artificial intelligence products as the industry faces blowback from Congress over the impact it’s having on the nation’s youth.\nSen. Ed ... [5077 chars]",
-        "url": "https://wjla.com/news/connect-to-congress/senator-claims-meta-ignored-warnings-about-teens-using-ai-chatbots-ed-markey-mark-zuckerberg-artificial-intelligence-child-protections-regulation",
-        "image": "https://wjla.com/resources/media2/16x9/5075/986/0x265/90/a86d9365-0e64-4541-a974-810f60058f8f-AP25024521312669.jpg",
-        "publishedAt": "2025-09-09T16:23:06Z",
+        "id": "53e51abbd1c91285f126182a68cea934",
+        "title": "Nvidia unveils AI chips for video, software generation",
+        "description": "Nvidia said on Tuesday it would launch a new artificial intelligence chip by the end of next year, designed to handle complex functions such as creating videos and software.",
+        "content": "The chips, dubbed \"Rubin CPX\", will be built on Nvidia's next-generation Rubin architecture — the successor to its latest \"Blackwell\" technology that marked the company's foray into providing larger processing systems.\nSign up here.\nAs AI systems gro... [1066 chars]",
+        "url": "https://www.reuters.com/business/nvidia-unveils-ai-chips-video-software-generation-2025-09-09/",
+        "image": "https://www.reuters.com/resizer/v2/U3U6ETLDEZJUPMDXHRSTMSLTLE.jpg?auth=72de864ac0aaa254564cfa5a706d433608d6d52c81655f69bc6aa30621af4f62&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-09-09T16:58:34Z",
         "lang": "en",
         "source": {
-            "id": "2f5884e252590f739df55c0e7db375df",
-            "name": "WJLA",
-            "url": "https://wjla.com",
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
             "country": "us"
         }
     },
     {
-        "id": "7799d15eb8ce639fda01910d6905b8b0",
-        "title": "Dutch tech giant ASML becomes top investor in French AI maker Mistral",
-        "description": "PARIS ― France’s artificial intelligence (AI) developer Mistral has been valued at 11.7 billion euros following its latest fundraising round, which saw Dutch tech giant ASML become the top shareholder, the firm said in a statement on Tuesday.",
-        "content": "PARIS ― France’s artificial intelligence (AI) developer Mistral has been valued at 11.7 billion euros following its latest fundraising round, which saw Dutch tech giant ASML become the top shareholder, the firm said in a statement on Tuesday.\nMistral... [2523 chars]",
-        "url": "https://www.manilatimes.net/2025/09/10/business/foreign-business/dutch-tech-giant-asml-becomes-top-investor-in-french-ai-maker-mistral/2181363",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-09-09T16:18:00Z",
+        "id": "2c234b3c10cc3c63c1c1d0580ec17976",
+        "title": "Exercise Forging Sabre: Advanced digital tools, drones to feature in SAF military drill in US",
+        "description": "The Singapore Armed Forces is using digital tools, such as artificial intelligence, to tackle increasingly complex battle scenarios during Exercise Forging Sabre. The ongoing military drill in the US state of Idaho will also use more drones. With an airspace spanning more than 20 times the size of Singapore, the vast s",
+        "content": "02:08 Min\nThe Singapore Armed Forces is using digital tools, such as artificial intelligence, to tackle increasingly complex battle scenarios during Exercise Forging Sabre. The ongoing military drill in the US state of Idaho will also use more drones... [1382 chars]",
+        "url": "https://www.channelnewsasia.com/watch/exercise-forging-sabre-advanced-digital-tools-drones-feature-in-saf-military-drill-in-us-5340421",
+        "image": "https://dam.mediacorp.sg/image/upload/s--Tu9_LkjK--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/09/09/1757430133-image.jpg?itok=nsX6AOY5",
+        "publishedAt": "2025-09-09T16:50:57Z",
         "lang": "en",
         "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
+            "id": "09131c39169c9c96230862dc4c1fa727",
+            "name": "CNA",
+            "url": "https://www.channelnewsasia.com",
+            "country": "sg"
         }
     },
     {
-        "id": "0cf51a344c918f21e738815f7bdd011e",
-        "title": "AI, thinner iPhones likely stars of Apple 'Awe Dropping' event",
-        "description": "(UPDATE) SAN FRANCISCO — Apple is set to unveil its iPhone 17 lineup on Tuesday (Wednesday in Manila), with enhanced artificial intelligence (AI) features expected to take center stage.",
-        "content": "(UPDATE) SAN FRANCISCO — Apple is set to unveil its iPhone 17 lineup on Tuesday (Wednesday in Manila), with enhanced artificial intelligence (AI) features expected to take center stage.\nThe Silicon Valley powerhouse has remained tight-lipped about wh... [2623 chars]",
-        "url": "https://www.manilatimes.net/2025/09/10/business/foreign-business/ai-thinner-iphones-likely-stars-of-apple-awe-dropping-event/2181232",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/09/741217.jpg",
-        "publishedAt": "2025-09-09T16:14:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "e4b8e609c1eed5d8e710546f50ebc7c5",
-        "title": "China home to over 5,000 AI companies",
-        "description": "CHONGQING — The number of Chinese artificial intelligence (AI) companies has surged from just over 1,400 to more than 5,000 in the past five years, according to data released by the Ministry of Industry and Information Technology at the World Smart Industry Expo currently under way in southwest China’s Chongqing Municipality.",
-        "content": "CHONGQING — The number of Chinese artificial intelligence (AI) companies has surged from just over 1,400 to more than 5,000 in the past five years, according to data released by the Ministry of Industry and Information Technology at the World Smart I... [1457 chars]",
-        "url": "https://www.manilatimes.net/2025/09/10/business/foreign-business/china-home-to-over-5000-ai-companies/2181347",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-09-09T16:14:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "c00d03eebe1f2d23d40ea7f171c11282",
-        "title": "AI, thinner iPhones likely stars of Apple 'Awe Dropping' event",
-        "description": "(UPDATE) SAN FRANCISCO — Apple is set to unveil its iPhone 17 lineup on Tuesday (Wednesday in Manila), with enhanced artificial intelligence (AI) features expected to take center stage.",
-        "content": "(UPDATE) SAN FRANCISCO — Apple is set to unveil its iPhone 17 lineup on Tuesday (Wednesday in Manila), with enhanced artificial intelligence (AI) features expected to take center stage.\nThe Silicon Valley powerhouse has remained tight-lipped about wh... [2623 chars]",
-        "url": "https://www.manilatimes.net/2025/09/10/news/national/ai-thinner-iphones-likely-stars-of-apple-awe-dropping-event/2181232",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/09/741217.jpg",
-        "publishedAt": "2025-09-09T16:14:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "cf2a196540b77bd7c29d784dac18cb85",
-        "title": "AI in retail: Aussies are adopting fast, but trust remains a missing ingredient",
-        "description": "Artificial intelligence has been touted as the big differentiator for retailers, a tool that can help Aussie businesses compete with global giants and...",
-        "content": "The Retail AI Agent Report, released this week, surveyed 500 retail leaders in Australia and New Zealand in partnership with independent research firm CensusWide. The study also gathered insights from a further 1,350 retailers globally, spanning mark... [5629 chars]",
-        "url": "https://itwire.com/business-it-news/business-software/ai-in-retail-aussies-are-adopting-fast-but-trust-remains-a-missing-ingredient.html",
-        "image": "https://itwire.com/media/k2/items/cache/ae2134208d509c75c0d13ca181395f19_XS.jpg",
-        "publishedAt": "2025-09-09T16:08:35Z",
-        "lang": "en",
-        "source": {
-            "id": "10cbfb3760cfcdeb78c733c527f0e814",
-            "name": "iTWire",
-            "url": "https://itwire.com",
-            "country": "au"
-        }
-    },
-    {
-        "id": "1c152fca18a47a9a743bd91388dd1bab",
-        "title": "Ron Chan brings his nuclear-powered dream home",
-        "description": "It isn’t every day that a dream born from the comfort of watching action flicks during downtime ends up on the big screen — much less one wrapped in explosions, espionage, and a bold use of artificial intelligence in an industry just beginning to explore the technology. But that’s exactly what longtime United Arab Emirates-based Cebuano Ron Chan has done with “Nuclear Winter,” his first-ever movie as lead actor, writer, and executive producer.",
-        "content": "It isn’t every day that a dream born from the comfort of watching action flicks during downtime ends up on the big screen — much less one wrapped in explosions, espionage, and a bold use of artificial intelligence in an industry just beginning to exp... [5266 chars]",
-        "url": "https://www.manilatimes.net/2025/09/10/entertainment-lifestyle/show-times/ron-chan-brings-his-nuclear-powered-dream-home/2181463",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/09/741692.jpg",
-        "publishedAt": "2025-09-09T16:04:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "5f64b279189e6bf7de245a219b1eeeeb",
-        "title": "ChatGPT and Gemini Daily Workflow Bake-Off: Code Reviews, Tests, and Rollbacks",
-        "description": "ChatGPT and Gemini Compete to Automate Developer Workflows In U.S. tech teams, Gemini and ChatGPT are no longer optional — they’re rivals. From code reviews to automated testing and rollback safety, these ChatBots redefine what developers expect from Artificial Intelligence in Software. When the Deploy Pipeline Became the Bottleneck Arjun, a backend developer at a […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nChatGPT and Gemini Compete to Automate Developer Workflows\nIn U.S. tech teams, Gemini and ChatGPT are no longer optional — they’re rivals. From code reviews to automated testing and rollback safety, these ChatBots redefi... [4549 chars]",
-        "url": "https://techbullion.com/chatgpt-and-gemini-daily-workflow-bake-off-code-reviews-tests-and-rollbacks/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/09/unnamed-37.png",
-        "publishedAt": "2025-09-09T15:53:15Z",
+        "id": "ace3e11d54f24004e00163bf0384ac7a",
+        "title": "Umesh Kumar: AI in Clinical Development - Transforming Research with Intelligence",
+        "description": "In fast-paced evolving clinical development, the synergy between Artificial Intelligence (AI) and Machine Learning (ML) has become the benchmark. Spearheading this movement is Umesh Kumar, Associate Statistical Programming Director at IQVIA RDS (India) Private Limited, whose foresighted vision and insight keep redefining the horizon in health. Having over 17 years of global experience, Umesh is […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nIn fast-paced evolving clinical development, the synergy between Artificial Intelligence (AI) and Machine Learning (ML) has become the benchmark. Spearheading this movement is Umesh Kumar, Associate Statistical Programmi... [5842 chars]",
+        "url": "https://techbullion.com/umesh-kumar-ai-in-clinical-development-transforming-research-with-intelligence/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/09/IMG_2021-1000x600.jpeg",
+        "publishedAt": "2025-09-09T16:46:28Z",
         "lang": "en",
         "source": {
             "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -144,18 +96,66 @@
         }
     },
     {
-        "id": "02445a67cd2f49b2f33bb33a5e551f95",
-        "title": "Trump EPA seeks to speed up permitting for AI infrastructure",
-        "description": "The Environmental Protection Agency on Tuesday proposed new measures aimed at speeding construction of infrastructure needed for the rapid buildup of data centers for artificial intelligence that would enable companies to start building before obtaining air permits.",
-        "content": "WASHINGTON, Sept 9 (Reuters) - The Environmental Protection Agency on Tuesday proposed new measures aimed at speeding construction of infrastructure needed for the rapid buildup of data centers for artificial intelligence that would enable companies ... [1739 chars]",
-        "url": "https://www.reuters.com/legal/litigation/trump-epa-seeks-speed-up-permitting-ai-infrastructure-2025-09-09/",
-        "image": "https://www.reuters.com/resizer/v2/QBTCUT2C5BMLXIV33JD6VNFQBY.jpg?auth=86e31f2d02b13c38307bccab6b8eb644907b58ef6ca696619a0ee7cb8ba68329&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-09-09T15:49:46Z",
+        "id": "9c7f1f9e51b63c57dfa9828b77549ea5",
+        "title": "Differences in hugs determine relationship status, study",
+        "description": "Researchers from Germany found that friends hug for less than three seconds, while romantic partners embrace for over seven seconds, according to artificial intelligence data in their September 2025 report.",
+        "content": "It’s the snuggle struggle.\nKissing, licking, tickling and biting are cool — but the most telltale sign that a person sees you as either a buddy or a main squeeze is in their hug, per new AI-powered data.\n“Hugs are an important nonverbal social-affect... [2062 chars]",
+        "url": "https://nypost.com/2025/09/09/lifestyle/differences-in-hugs-determine-relationship-status-study/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/09/111029044.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2025-09-09T16:39:53Z",
         "lang": "en",
         "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "184ef716602fb1c3dca0f705df2a0276",
+        "title": "Anthropic Says This AI Tool Can Now Create and Edit Documents",
+        "description": "Thanks to Claude, artificial intelligence can make a Google or Word doc for you. Here's how.",
+        "content": "Anthropic made their announcement on their blog, explaining that the new features live on its consumer-facing platform, Claude.ai. Until now, the platform could analyze files, but couldn’t create or manipulate them. (Claude.ai is basically Anthropic’... [1745 chars]",
+        "url": "https://www.inc.com/ben-sherry/anthropic-says-this-ai-tool-can-now-create-and-edit-documents/91237278",
+        "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/09/anthropic-claude-create-files-inc-2170267413.jpg",
+        "publishedAt": "2025-09-09T16:38:59Z",
+        "lang": "en",
+        "source": {
+            "id": "602d1de710d66397a00201d8efdd36ee",
+            "name": "Inc. Magazine",
+            "url": "https://www.inc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "f49465725b3fab86dffaee59522ebc68",
+        "title": "AI tool pinpoints genes and drug combos to restore health in diseased cells",
+        "description": "In a move that could reshape drug discovery, researchers at Harvard Medical School have designed an artificial intelligence model capable of identifying treatments that reverse disease states in cells.",
+        "content": "In a move that could reshape drug discovery, researchers at Harvard Medical School have designed an artificial intelligence model capable of identifying treatments that reverse disease states in cells.\nUnlike traditional approaches that typically tes... [6175 chars]",
+        "url": "https://medicalxpress.com/news/2025-09-ai-tool-genes-drug-combos.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2025/new-ai-tool-pinpoints-1.jpg",
+        "publishedAt": "2025-09-09T16:30:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "e1a5dc27367af8db00215d906b41da5e",
+        "title": "Oracle needs to keep sales growth humming after $200 billion run",
+        "description": "The pressure is on for Oracle Corp. to deliver another quarter of accelerating revenue growth driven by spending on artificial intelligence after a run-up in its shares this year.",
+        "content": "(Bloomberg/Carmen Reinicke and Ryan Vlastelica) — The pressure is on for Oracle Corp. to deliver another quarter of accelerating revenue growth driven by spending on artificial intelligence after a run-up in its shares this year.\nWhile the software m... [4653 chars]",
+        "url": "https://www.mercurynews.com/2025/09/09/oracle-needs-to-keep-sales-growth-humming-after-200-billion-run/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2022/10/GettyImages-460559814.jpg?w=1024&h=683",
+        "publishedAt": "2025-09-09T16:26:39Z",
+        "lang": "en",
+        "source": {
+            "id": "17d7c2645f485578130862e0c8dd9480",
+            "name": "The Mercury News",
+            "url": "https://www.mercurynews.com",
             "country": "us"
         }
     }
