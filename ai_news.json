@@ -1,5 +1,69 @@
 [
     {
+        "id": "3778b75c8d39456e53d418117307b92a",
+        "title": "'We're all kind of in shock.' Oracle projections analysts slackjawed",
+        "description": "Oracle's earnings report included numbers that suggest the company's growth rate due to artificial intelligence is about to pop.",
+        "content": "John DiFucci from Guggenheim Securities said he was \"blown away.\" TD Cowen's Derrick Wood called it a \"momentous quarter.\" And Brad Zelnick of Deutsche Bank said, \"We're all kind of in shock, in a very good way.\"\nThat's how the analysts opened their ... [3432 chars]",
+        "url": "https://www.cnbc.com/2025/09/09/were-all-kind-of-in-shock-oracle-projections-analysts-slackjawed.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108031077-1725900073732-gettyimages-1175129162-img_6550_2019091665104569.jpeg?v=1735066603&w=1920&h=1080",
+        "publishedAt": "2025-09-10T00:30:15Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "984fcf60531aa9b339401a9ec72ddcb7",
+        "title": "PwC launches gen AI 'colleague' for tax functions",
+        "description": "MUMBAI, Sep 9 : PwC India on Tuesday introduced a generative artificial intelligence platform to help clients with tax and regulatory functions. Billed as ‘GenAI colleague’ for tax function, the platform christened ‘Navigate Tax Hub’ leverages advanced AI, PwC’s tax expertise, and secure document integration to drive efficiency, accuracy, and value for tax teams, according to a statement. It is aimed at driving efficiencies in the tax function and also helps the tax teams become much more effective and value-adding […]",
+        "content": "MUMBAI, Sep 9 : PwC India on Tuesday introduced a generative artificial intelligence platform to help clients with tax and regulatory functions.\nBilled as ‘GenAI colleague’ for tax function, the platform christened ‘Navigate Tax Hub’ leverages advanc... [747 chars]",
+        "url": "https://www.dailyexcelsior.com/pwc-launches-gen-ai-colleague-for-tax-functions/",
+        "image": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/09/pwc.jpg",
+        "publishedAt": "2025-09-10T00:18:49Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "371ce047921a697ba2fc8efeb341cd0d",
+        "title": "The Debate On Whether Artificial General Intelligence Should Inevitably Be Declared A Worldwide Public Good With Free Access For All",
+        "description": "When AI reaches AGI (artificial general intelligence), should everyone have free access? If not, we will be AGI haves and AGI have-nots. Here's the inside scoop.",
+        "content": "In today’s column, I examine an ongoing debate about who will have access to artificial general intelligence (AGI). AGI is purportedly on the horizon and will be AI so advanced that it acts intellectually on par with humans. The question arises as to... [9837 chars]",
+        "url": "https://www.forbes.com/sites/lanceeliot/2025/09/10/the-debate-on-whether-artificial-general-intelligence-should-inevitably-be-declared-a-worldwide-public-good-with-free-access-for-all/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683bc1dbc15a7e60f6ba32a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-09-10T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "a0300bc9a6e9d5b317bd6f614767231f",
+            "name": "Forbes",
+            "url": "https://www.forbes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "172a1d7a47adc270b1028ad75aa11510",
+        "title": "Democracy Vs. Technocracy: Why AI Needs A Moral Operating System",
+        "description": "Pope Leo XIV warns that artificial intelligence represents a new industrial revolution, one that must be guided by social justice to protect human dignity.",
+        "content": "Artificial intelligence, the fastest-growing force of change in society today, has captured the imagination and concern of leaders in fields such as education, economics, defense—and even religion.\nPope Leo XIV, the leader of 1.4 billion Catholics gl... [5987 chars]",
+        "url": "https://www.forbes.com/sites/jamiemerisotis/2025/09/10/democracy-vs-technocracy-why-ai-needs-a-moral-operating-system/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c0962ac493adda8ec16843/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-09-10T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "a0300bc9a6e9d5b317bd6f614767231f",
+            "name": "Forbes",
+            "url": "https://www.forbes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "a91d47a5e80ed864b229e0a9a6b6278c",
         "title": "Broadcom CEO Poised for Payout If He Reaches 2030 AI Sales Goal",
         "description": "Broadcom Inc. Chief Executive Officer Hock Tan has a clause in his contract extension that would bring hundreds of millions of dollars in stock compensation if the company reaches $120 billion in artificial intelligence product sales by 2030.",
@@ -93,70 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "96297474215dd6279fbc9810bb2f92b2",
-        "title": "IIT-M launches free AI course for school teachers",
-        "description": "Chennai: To provide knowledge on artificial intelligence (AI) to school teachers, the Indian Institute of Technology (IIT) Madras has launched a new o.",
-        "content": "Chennai: To provide knowledge on artificial intelligence (AI) to school teachers, the Indian Institute of Technology (IIT) Madras has launched a new online course, AI for Educators. Teachers who enrol in this course will also learn practical tools to... [1955 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/chennai/iit-m-launches-free-ai-course-for-school-teachers/articleshow/123793634.cms",
-        "image": "https://static.toiimg.com/thumb/msid-123793633,width-1070,height-580,imgsize-145748,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-09-09T20:32:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "fb1733b8d804117b9e96667443ccb47d",
-        "title": "Apple AirPods Pro 3 price, new features, release date",
-        "description": "Apple's AirPods Pro 3 offer improved noise cancellation, longer battery life and new artificial intelligence features.",
-        "content": "During its highly-anticipated annual event, Apple announced a variety of new products, including a range of new iPhones, three Apple Watch models and a new set of AirPods.\nThe AirPods Pro 3 offer improved noise cancellation, longer battery life and n... [2228 chars]",
-        "url": "https://www.usatoday.com/story/tech/2025/09/09/apple-airpods-pro-3/86062802007/",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/09/USAT/86062854007-apple-air-pods-pro-3-lifestyle-01250909.jpg?crop=3837,2156,x0,y0&width=3200&height=1799&format=pjpg&auto=webp",
-        "publishedAt": "2025-09-09T20:25:14Z",
-        "lang": "en",
-        "source": {
-            "id": "eaeed30dacd1269c1893de860c94a7e7",
-            "name": "USA TODAY",
-            "url": "https://www.usatoday.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c538a9d153c559a915e8f3f965960b2c",
-        "title": "Apple AirPods Pro 3 price, new features, release date",
-        "description": "Apple's AirPods Pro 3 offer improved noise cancellation, longer battery life and new artificial intelligence features.",
-        "content": "During its highly-anticipated annual event, Apple announced a variety of new products, including a range of new iPhones, three Apple Watch models and a new set of AirPods.\nThe AirPods Pro 3 offer improved noise cancellation, longer battery life and n... [2228 chars]",
-        "url": "https://www.telegram.com/story/tech/2025/09/09/apple-airpods-pro-3/86062802007/",
-        "image": "https://www.telegram.com/gcdn/authoring/authoring-images/2025/09/09/USAT/86062854007-apple-air-pods-pro-3-lifestyle-01250909.jpg?crop=3837,2156,x0,y0&width=3200&height=1799&format=pjpg&auto=webp",
-        "publishedAt": "2025-09-09T20:25:14Z",
-        "lang": "en",
-        "source": {
-            "id": "f31c8f1c503eb3b1106c842bcbe5a3b5",
-            "name": "Worcester Telegram & Gazette",
-            "url": "https://www.telegram.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e1e43503be851c9f27722c766fbb06d7",
-        "title": "Apple AirPods Pro 3 price, new features, release date",
-        "description": "Apple's AirPods Pro 3 offer improved noise cancellation, longer battery life and new artificial intelligence features.",
-        "content": "During its highly-anticipated annual event, Apple announced a variety of new products, including a range of new iPhones, three Apple Watch models and a new set of AirPods.\nThe AirPods Pro 3 offer improved noise cancellation, longer battery life and n... [2228 chars]",
-        "url": "https://www.freep.com/story/tech/2025/09/09/apple-airpods-pro-3/86062802007/",
-        "image": "https://www.freep.com/gcdn/authoring/authoring-images/2025/09/09/USAT/86062854007-apple-air-pods-pro-3-lifestyle-01250909.jpg?crop=3837,2156,x0,y0&width=3200&height=1799&format=pjpg&auto=webp",
-        "publishedAt": "2025-09-09T20:25:14Z",
-        "lang": "en",
-        "source": {
-            "id": "d450a3b06d0af449e32342c47df2baf4",
-            "name": "Detroit Free Press",
-            "url": "https://www.freep.com",
-            "country": "us"
         }
     }
 ]
