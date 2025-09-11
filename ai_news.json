@@ -1,5 +1,37 @@
 [
     {
+        "id": "ff24dfa4f6aa4ba0308fba3f149109d5",
+        "title": "‘Morning Show’ cast, crew talks about Artificial Intelligence",
+        "description": "The Morning Show cast and creative team of gathered at New York’s Museum of Modern Art on Tuesday night to celebrate the premiere of the Apple TV+ drama’s fourth season. While...",
+        "content": "The Morning Show cast and creative team of gathered at New York’s Museum of Modern Art on Tuesday night to celebrate the premiere of the Apple TV+ drama’s fourth season.\nWhile walking the red carpet, they reflected on one of the show’s newest themes,... [1460 chars]",
+        "url": "https://www.thenews.com.pk/latest/1342773-morning-show-cast-crew-talks-about-artificial-intelligence",
+        "image": "https://www.thenews.com.pk/assets/uploads/updates/2025-09-11/1342773_040507_updates.jpg",
+        "publishedAt": "2025-09-10T23:04:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "2d84139cf66093a371bcd78ee0ffa3b4",
+        "title": "Study sheds light on hurdles faced in transforming NHS health care with AI",
+        "description": "Implementing artificial intelligence (AI) into NHS hospitals is far harder than initially anticipated, with complications around governance, contracts, data collection, harmonization with old IT systems, finding the right AI tools and staff training, finds a major new UK study led by UCL researchers.",
+        "content": "Implementing artificial intelligence (AI) into NHS hospitals is far harder than initially anticipated, with complications around governance, contracts, data collection, harmonization with old IT systems, finding the right AI tools and staff training,... [6774 chars]",
+        "url": "https://medicalxpress.com/news/2025-09-hurdles-nhs-health-ai.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2018/2-hospital.jpg",
+        "publishedAt": "2025-09-10T23:00:04Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "a663820b99f405ea50166528cfe6e6b5",
         "title": "Lawmakers weigh AI regulation as White House tries to propel industry forward",
         "description": "The Trump administration is trying to persuade lawmakers against implementing regulations on artificial intelligence as it tries to supercharge its development",
@@ -124,38 +156,6 @@
             "id": "263578fdccd92a76494cd34055806fcc",
             "name": "Phys.org",
             "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "a57276b0c4227853519bc18174e8858b",
-        "title": "271 foreign students take admission to professional courses in state, institutions from Pune most popular",
-        "description": "While the majority of students have chosen engineering branches, especially those related to computer science, artificial intelligence, and information technology, some of the foreign students have also taken admission to management and law courses.",
-        "content": "However, eventually 271 students confirmed their admission into different programs across 17 institutions.\nStory continues below this ad\nWhile the majority of students have chosen engineering branches, especially those related to computer science, ar... [697 chars]",
-        "url": "https://indianexpress.com/article/cities/mumbai/271-foreign-students-take-admission-to-professional-courses-in-state-institutions-from-pune-most-popular-10242597/",
-        "image": "https://images.indianexpress.com/2025/09/Exam-1.jpg",
-        "publishedAt": "2025-09-10T18:31:52Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "29a793c266fbda8d0da759b07964842d",
-        "title": "ALL4 Mining Launches AI-Powered Mobile XRP Cloud Mining Platform Powered by Renewable Energy",
-        "description": "ALL4 Mining has announced the launch of a free mobile XRP cloud mining app, designed to provide users with greater accessibility and efficiency in digital asset mining. ALL4 Mining, one of the world’s established cloud mining platforms, has introduced this new application to make cryptocurrency mining more convenient. The platform integrates advanced artificial intelligence computing […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nALL4 Mining has announced the launch of a free mobile XRP cloud mining app, designed to provide users with greater accessibility and efficiency in digital asset mining.\nALL4 Mining, one of the world’s established cloud m... [3447 chars]",
-        "url": "https://techbullion.com/all4-mining-launches-ai-powered-mobile-xrp-cloud-mining-platform-powered-by-renewable-energy/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/09/e18d83afd6c517d4c43675b19ff6b5fdf2d73ce8-1000x600.jpg",
-        "publishedAt": "2025-09-10T18:24:37Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
             "country": "gb"
         }
     }
