@@ -1,5 +1,37 @@
 [
     {
+        "id": "a663820b99f405ea50166528cfe6e6b5",
+        "title": "Lawmakers weigh AI regulation as White House tries to propel industry forward",
+        "description": "The Trump administration is trying to persuade lawmakers against implementing regulations on artificial intelligence as it tries to supercharge its development",
+        "content": "The Trump administration is trying to persuade lawmakers against implementing regulations on artificial intelligence as it tries to supercharge its development in a push it hopes will supercharge America’s economy and maintain an advantage in a race ... [4835 chars]",
+        "url": "https://wjla.com/news/connect-to-congress/lawmakers-weigh-ai-regulation-as-white-house-tries-to-propel-industry-forward-artificial-intelligence-data-privacy-ai-action-plan",
+        "image": "https://wjla.com/resources/media2/16x9/3840/986/0x200/90/a1381abe-c07e-471f-9ebf-9d19de2dc00c-AP25204775894895.jpg",
+        "publishedAt": "2025-09-10T20:55:07Z",
+        "lang": "en",
+        "source": {
+            "id": "2f5884e252590f739df55c0e7db375df",
+            "name": "WJLA",
+            "url": "https://wjla.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d2401dab1cc42b352f1ea2d3437a3184",
+        "title": "AI model helps identify therapeutic antibodies to boost pandemic preparedness",
+        "description": "Scientists at Scripps Research have developed a novel method that uses artificial intelligence (AI) and advanced imaging techniques to more accurately and efficiently identify therapeutic antibodies to treat infectious diseases.",
+        "content": "Scientists at Scripps Research have developed a novel method that uses artificial intelligence (AI) and advanced imaging techniques to more accurately and efficiently identify therapeutic antibodies to treat infectious diseases.\nThe new method, publi... [4667 chars]",
+        "url": "https://medicalxpress.com/news/2025-09-ai-therapeutic-antibodies-boost-pandemic.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-model-helps-boost-p-1.jpg",
+        "publishedAt": "2025-09-10T20:46:04Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "8af2b0e4599428ef283a461b959a1a07",
         "title": "6 Things About Artificial Intelligence People Get Wrong",
         "description": "Artificial Intelligence has become one of the most talked-about technologies of our time — and for good reason. Calling it a disruptive game-changer is far from an exaggeration. It’s the truth. From headlines to boardrooms, everyone has an opinion about AI and where it is headed. But while all this fuss is being made, there […]",
@@ -125,38 +157,6 @@
             "name": "The Globe and Mail",
             "url": "https://www.theglobeandmail.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "aa2ddc56f7886f1578df1e67d6728ad8",
-        "title": "Elon Musk’s title of richest person challenged by Oracle’s Larry Ellison",
-        "description": "Software giant Oracle has forecast massive revenue growth amid the artificial intelligence investment boom. Read more at straitstimes.com.",
-        "content": "NEW YORK - Billionaire Elon Musk is at risk of losing his title of world’s wealthiest person to Oracle co-founder Larry Ellison, whose software giant stands poised for massive AI riches.\nMr Ellison, 81, amassed more than US$100 billion (S$130 billion... [1698 chars]",
-        "url": "https://www.straitstimes.com/world/united-states/elon-musks-title-of-richest-person-challenged-by-oracles-larry-ellison",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b5024eeb1cd83134495867b01b9354dad805d1a53c233d5ee190503d11a65a1b",
-        "publishedAt": "2025-09-10T17:45:38Z",
-        "lang": "en",
-        "source": {
-            "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-            "name": "The Straits Times",
-            "url": "https://www.straitstimes.com",
-            "country": "sg"
-        }
-    },
-    {
-        "id": "81144859c6d78a587bc793276a7a0f10",
-        "title": "AI Stocks Rally, Oracle Rockets On Best Day Since 1992",
-        "description": "AI-linked stocks rallied Wednesday, fueled by investor optimism that artificial intelligence will power earnings growth after Oracle Corp. (NYSE:ORCL) revealed a massive backlog of AI-related orders.",
-        "content": "AI-linked stocks rallied Wednesday, fueled by investor optimism that artificial intelligence will power earnings growth after Oracle Corp. ORCL revealed a massive backlog of AI-related orders.\nOracle shares skyrocketed more than 40% – the company’s s... [2305 chars]",
-        "url": "https://www.benzinga.com/markets/equities/25/09/47604457/markets-wednesday-wall-street-today-oracle-larry-ellison-wealth-elon-musk",
-        "image": "https://cdn.benzinga.com/files/images/story/2025/09/10/Prokidney--Soundhound-AI--Quantumscape--.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2025-09-10T17:34:07Z",
-        "lang": "en",
-        "source": {
-            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-            "name": "Benzinga",
-            "url": "https://www.benzinga.com",
-            "country": "us"
         }
     }
 ]
