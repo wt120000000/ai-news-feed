@@ -1,5 +1,21 @@
 [
     {
+        "id": "ee6034bb0407da42f3f9df06477a83ee",
+        "title": "AI rollout in NHS hospitals faces major challenges",
+        "description": "Implementing artificial intelligence (AI) into NHS hospitals is far harder than initially anticipated, with complications around governance, contracts, data collection, harmonisation with old IT systems, finding the right AI tools and staff training, finds a major new UK study led by UCL researchers.",
+        "content": "Implementing artificial intelligence (AI) into NHS hospitals is far harder than initially anticipated, with complications around governance, contracts, data collection, harmonisation with old IT systems, finding the right AI tools and staff training,... [6901 chars]",
+        "url": "https://www.news-medical.net/news/20250910/AI-rollout-in-NHS-hospitals-faces-major-challenges.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
+        "publishedAt": "2025-09-11T03:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "8b3baef314ef770664a725c934c5df66",
         "title": "Alibaba to raise $3.2 billion via convertible bond to fund cloud growth",
         "description": "Alibaba, among China's most aggressive adopters of artificial intelligence, said it would use nearly 80% of the proceeds to expand data centres, upgrade technology and improve services to meet rising demand for cloud computing solutions.",
@@ -141,22 +157,6 @@
             "name": "Mash Viral",
             "url": "https://mashviral.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "ff24dfa4f6aa4ba0308fba3f149109d5",
-        "title": "‘Morning Show’ cast, crew talks about Artificial Intelligence",
-        "description": "The Morning Show cast and creative team of gathered at New York’s Museum of Modern Art on Tuesday night to celebrate the premiere of the Apple TV+ drama’s fourth season. While...",
-        "content": "The Morning Show cast and creative team of gathered at New York’s Museum of Modern Art on Tuesday night to celebrate the premiere of the Apple TV+ drama’s fourth season.\nWhile walking the red carpet, they reflected on one of the show’s newest themes,... [1460 chars]",
-        "url": "https://www.thenews.com.pk/latest/1342773-morning-show-cast-crew-talks-about-artificial-intelligence",
-        "image": "https://www.thenews.com.pk/assets/uploads/updates/2025-09-11/1342773_040507_updates.jpg",
-        "publishedAt": "2025-09-10T23:04:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-            "name": "The News International",
-            "url": "https://www.thenews.com.pk",
-            "country": "pk"
         }
     }
 ]
