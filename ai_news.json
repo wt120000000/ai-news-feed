@@ -1,5 +1,53 @@
 [
     {
+        "id": "befe0f1169188773b32ae0ba3ccb7dbc",
+        "title": "Oracle share price jumps 36%, posts biggest one-day gain since 1992, adds $244 billion in market value",
+        "description": "Oracle's share price surged 36%, reaching $328.33, its largest single-day gain since 1992. The market capitalization rose to $922 billion, outperforming Eli Lilly, JPMorgan Chase, and Walmart, driven by optimism for its cloud business and artificial intelligence demand.",
+        "content": "Oracle share price surged 36% after the company projected strong revenue growth in the coming years. The shares jumped 35.95% to $328.33 per share, marking its biggest single-day gain since 1992. With this rally, Oracle’s market capitalisation rose t... [318 chars]",
+        "url": "https://www.livemint.com/market/stock-market-news/oracle-share-price-jumps-36-posts-biggest-one-day-gain-since-1992-adds-244-billion-in-market-value-11757552250532.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/09/11/1600x900/im-00049113_1726482216473_1757552295735.jpg",
+        "publishedAt": "2025-09-11T01:00:51Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "99b157ef38f5cb053c39c499fad7a8f1",
+        "title": "Australian AI model reaches key milestone in national Defence tech push",
+        "description": "Australian cybersecurity firm Bluerydge has “successfully demonstrated its sovereign artificial intelligence chatbot” in a collaborative project with...",
+        "content": "Designed for use in secure and disconnected environments, SierraBlue is a custom large language model (LLM) purpose-built to support Defence and other sensitive sectors with mission-ready AI capability.\nTrailblazer-Funded Acceleration of Sovereign Ca... [3744 chars]",
+        "url": "https://itwire.com/it-industry-news/market/australian-ai-model-reaches-key-milestone-in-national-defence-tech-push.html",
+        "image": "https://itwire.com/media/k2/items/cache/8a462a3681d7edf46d52e62cafdc0254_XS.jpg",
+        "publishedAt": "2025-09-11T00:54:33Z",
+        "lang": "en",
+        "source": {
+            "id": "10cbfb3760cfcdeb78c733c527f0e814",
+            "name": "iTWire",
+            "url": "https://itwire.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "fdd53541515ffe2f0ad75f082e1ef8c3",
+        "title": "Oracle's Ellison Challenges Musk's 'Richest Person' Title",
+        "description": "Billionaire Elon Musk could lose his title as the world's wealthiest person to Oracle co-founder Larry Ellison, whose software giant appears poised for massive riches from artificial intelligence through a major deal with OpenAI.",
+        "content": "Billionaire Elon Musk is at risk of losing his title as the world's wealthiest person to Oracle co-founder Larry Ellison, whose software giant appears poised for massive riches from artificial intelligence through a major deal with OpenAI.\nEllison, 8... [3686 chars]",
+        "url": "https://www.newsmax.com/newsfront/larry-ellison-oracle-elon-musk/2025/09/10/id/1225945/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=e8de4ed5-aa4e-4f64-b791-21130b79181e&SiteName=Newsmax",
+        "publishedAt": "2025-09-11T00:52:29Z",
+        "lang": "en",
+        "source": {
+            "id": "a8984f03fe66dae9745793f6560aa444",
+            "name": "Newsmax",
+            "url": "https://www.newsmax.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "1ac7a33a4a8a3619f8aaf82885696655",
         "title": "Formulating An Artificial General Intelligence Ethics Checklist For The Upcoming Rise Of Advanced AI",
         "description": "There are conventional AI Ethics checklists, and now the latest trend is AGI Ethics checklists. We need to anticipate attainment of AGI and ensure it comes out well.",
@@ -96,67 +144,19 @@
         }
     },
     {
-        "id": "a663820b99f405ea50166528cfe6e6b5",
-        "title": "Lawmakers weigh AI regulation as White House tries to propel industry forward",
-        "description": "The Trump administration is trying to persuade lawmakers against implementing regulations on artificial intelligence as it tries to supercharge its development",
-        "content": "The Trump administration is trying to persuade lawmakers against implementing regulations on artificial intelligence as it tries to supercharge its development in a push it hopes will supercharge America’s economy and maintain an advantage in a race ... [4835 chars]",
-        "url": "https://wjla.com/news/connect-to-congress/lawmakers-weigh-ai-regulation-as-white-house-tries-to-propel-industry-forward-artificial-intelligence-data-privacy-ai-action-plan",
-        "image": "https://wjla.com/resources/media2/16x9/3840/986/0x200/90/a1381abe-c07e-471f-9ebf-9d19de2dc00c-AP25204775894895.jpg",
-        "publishedAt": "2025-09-10T20:55:07Z",
+        "id": "39d4b084e72296059fb1c67e34cd9246",
+        "title": "US stocks inch to more records as inflation slows and Oracle soars",
+        "description": "Wall Street inched to more records on Wednesday following a surprisingly encouraging report on inflation and a stunning forecast for growth from Oracle because of the artificial-intelligence boom.",
+        "content": "NEW YORK — Wall Street inched to more records on Wednesday following a surprisingly encouraging report on inflation and a stunning forecast for growth from Oracle because of the artificial-intelligence boom.\nThe S&P 500 rose 0.3% and set an all-time ... [3976 chars]",
+        "url": "https://www.startribune.com/asian-shares-mostly-rise-cheered-by-wall-street-rally-to-more-records/601471232",
+        "image": "https://arc.stimg.co/startribunemedia/3K7UQA4XRBFZLHN7ZWSEXD5ATU.jpg?&w=1200&ar=1.91:1&fit=crop",
+        "publishedAt": "2025-09-10T21:30:08Z",
         "lang": "en",
         "source": {
-            "id": "2f5884e252590f739df55c0e7db375df",
-            "name": "WJLA",
-            "url": "https://wjla.com",
+            "id": "fca9664a9e215efa308045911cfc7fc3",
+            "name": "Star Tribune",
+            "url": "https://www.startribune.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "d2401dab1cc42b352f1ea2d3437a3184",
-        "title": "AI model helps identify therapeutic antibodies to boost pandemic preparedness",
-        "description": "Scientists at Scripps Research have developed a novel method that uses artificial intelligence (AI) and advanced imaging techniques to more accurately and efficiently identify therapeutic antibodies to treat infectious diseases.",
-        "content": "Scientists at Scripps Research have developed a novel method that uses artificial intelligence (AI) and advanced imaging techniques to more accurately and efficiently identify therapeutic antibodies to treat infectious diseases.\nThe new method, publi... [4667 chars]",
-        "url": "https://medicalxpress.com/news/2025-09-ai-therapeutic-antibodies-boost-pandemic.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-model-helps-boost-p-1.jpg",
-        "publishedAt": "2025-09-10T20:46:04Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "2373da00191796a009d42e57c5aa8891",
-        "title": "U.S. stocks inch to more records as inflation slows",
-        "description": "Wall Street inched to more records after encouraging report on inflation and a forecast for growth from Oracle because of the artificial-intelligence boom.",
-        "content": "NEW YORK — Wall Street inched to more records on Wednesday following a surprisingly encouraging report on inflation and a stunning forecast for growth from Oracle because of the artificial-intelligence boom.\nThe S&P 500 rose 0.3 per cent and set an a... [4193 chars]",
-        "url": "https://www.bnnbloomberg.ca/investing/2025/09/10/stocks-head-for-more-records-after-an-encouraging-report-on-inflation/",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/BXWHPASBPFCJJFZ5BPV5P2B55E.jpg?smart=true&auth=70ec8d0630feb0c1ef8b2e1c40f30e72bfeb4365e65bc6aadc76da0a869757a9&width=1200&height=630",
-        "publishedAt": "2025-09-10T20:26:42Z",
-        "lang": "en",
-        "source": {
-            "id": "1b697445987e8a33f6c82842e17d60d9",
-            "name": "Bnn Bloomberg",
-            "url": "https://www.bnnbloomberg.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "8af2b0e4599428ef283a461b959a1a07",
-        "title": "6 Things About Artificial Intelligence People Get Wrong",
-        "description": "Artificial Intelligence has become one of the most talked-about technologies of our time — and for good reason. Calling it a disruptive game-changer is far from an exaggeration. It’s the truth. From headlines to boardrooms, everyone has an opinion about AI and where it is headed. But while all this fuss is being made, there […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial Intelligence has become one of the most talked-about technologies of our time — and for good reason. Calling it a disruptive game-changer is far from an exaggeration. It’s the truth.\nFrom headlines to boardroo... [5245 chars]",
-        "url": "https://techbullion.com/6-things-about-artificial-intelligence-people-get-wrong/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/09/pexels-tara-winstead-8849295.jpg",
-        "publishedAt": "2025-09-10T20:01:10Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
         }
     }
 ]
