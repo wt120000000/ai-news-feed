@@ -1,5 +1,21 @@
 [
     {
+        "id": "f01c590981ff49465bbd69b43b41fc5a",
+        "title": "In AI-simulated Fed meeting, political pressure polarises board",
+        "description": "A simulated Federal Reserve meeting that used artificial intelligence agents modeled on real-life policymakers showed political pressure polarised members of the board in their rate-setting deliberations.",
+        "content": "TOKYO, Sept 11 (Reuters) - A simulated Federal Reserve meeting that used artificial intelligence agents modeled on real-life policymakers showed political pressure polarised members of the board in their rate-setting deliberations.\nIn the study relea... [2186 chars]",
+        "url": "https://www.reuters.com/world/us/ai-simulated-fed-meeting-political-pressure-polarises-board-2025-09-11/",
+        "image": "https://www.reuters.com/resizer/v2/ZAA2JBC5RZPNRJPCZPDQRC4AHQ.jpg?auth=a696f71f4c67ff3d8d8acaa82f3213bfee75af6e462e4adff5c34ff9cc6cc099&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-09-11T04:37:40Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "ee6034bb0407da42f3f9df06477a83ee",
         "title": "AI rollout in NHS hospitals faces major challenges",
         "description": "Implementing artificial intelligence (AI) into NHS hospitals is far harder than initially anticipated, with complications around governance, contracts, data collection, harmonisation with old IT systems, finding the right AI tools and staff training, finds a major new UK study led by UCL researchers.",
@@ -96,6 +112,22 @@
         }
     },
     {
+        "id": "ea1a740eb1ab8f00b0b756e05792b16d",
+        "title": "FTC Probes OpenAI, Meta, xAI Over AI Chatbot Safety For Kids",
+        "description": "Regulators warned artificial intelligence can “effectively mimic” human characteristics, prompting younger users to “trust and form relationships” with chatbots.",
+        "content": "Topline\nThe Federal Trade Commission on Thursday launched an investigation into Alphabet, Meta, Elon Musk’s xAI, OpenAI and other firms over how they safeguard children and teens from potentially negative impacts of their artificial intelligence chat... [1487 chars]",
+        "url": "https://www.forbes.com/sites/tylerroush/2025/09/11/ftc-launches-investigation-into-big-tech-over-ai-chatbot-safety-for-children-meta-openai-musks-xai-among-targets/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c2ff5bb75e301d9c1e5274/0x0.jpg?format=jpg&crop=2044,1150,x0,y0,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-09-11T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "a0300bc9a6e9d5b317bd6f614767231f",
+            "name": "Forbes",
+            "url": "https://www.forbes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "1ac7a33a4a8a3619f8aaf82885696655",
         "title": "Formulating An Artificial General Intelligence Ethics Checklist For The Upcoming Rise Of Advanced AI",
         "description": "There are conventional AI Ethics checklists, and now the latest trend is AGI Ethics checklists. We need to anticipate attainment of AGI and ensure it comes out well.",
@@ -124,38 +156,6 @@
             "id": "8e9ab8327c5f7903cc1b50470411d165",
             "name": "GlobeNewswire",
             "url": "https://www.globenewswire.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d01d86f2ac66f4c418c44eda8d62f9c4",
-        "title": "Why Alibaba (BABA) Stock Got a Price Target Boost from Jefferies’ Top Analyst",
-        "description": "Shares of Chinese e-commerce giant Alibaba (BABA) have surged 73% year-to-date, fueled by strong progress in artificial intelligence, cloud, and...",
-        "content": "Shares of Chinese e-commerce giant Alibaba (BABA) have surged 73% year-to-date, fueled by strong progress in artificial intelligence, cloud, and online retail. In a new report, Jefferies analyst Thomas Chong reiterated a Buy rating on the stock and r... [2229 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/why-alibaba-baba-stock-got-a-price-target-boost-from-jefferies-top-analyst-1035135086",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2025/09/alibaba-analyst.jpg?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2025-09-10T23:27:23Z",
-        "lang": "en",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Markets Insider",
-            "url": "https://markets.businessinsider.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4bfbdb5ec332b2bd8ceb4f9a43fee7af",
-        "title": "How AI is Shaping New Economic Opportunities",
-        "description": "Artificial intelligence (AI) is no longer a futuristic concept—it is actively transforming the global economy. From automating routine tasks to creating",
-        "content": "Artificial intelligence (AI) is no longer a futuristic concept—it is actively transforming the global economy. From automating routine tasks to creating entirely new industries, AI is reshaping how businesses operate and how people work. Experts sugg... [4202 chars]",
-        "url": "https://mashviral.com/how-ai-is-shaping-new-economic-opportunities/",
-        "image": "https://mashviral.com/wp-content/uploads/2025/09/sleek-futuristic-robot-showcasing-financial-chart-with-rising-revenue-scaled.jpg",
-        "publishedAt": "2025-09-10T23:17:37Z",
-        "lang": "en",
-        "source": {
-            "id": "736870a2b1a320473f05d8f8015bf089",
-            "name": "Mash Viral",
-            "url": "https://mashviral.com",
             "country": "us"
         }
     }
