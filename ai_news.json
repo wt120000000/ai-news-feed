@@ -1,5 +1,37 @@
 [
     {
+        "id": "8b3baef314ef770664a725c934c5df66",
+        "title": "Alibaba to raise $3.2 billion via convertible bond to fund cloud growth",
+        "description": "Alibaba, among China's most aggressive adopters of artificial intelligence, said it would use nearly 80% of the proceeds to expand data centres, upgrade technology and improve services to meet rising demand for cloud computing solutions.",
+        "content": "Synopsis\nAlibaba, among China's most aggressive adopters of artificial intelligence, said it would use nearly 80% of the proceeds to expand data centres, upgrade technology and improve services to meet rising demand for cloud computing solutions.\nChi... [2081 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/alibaba-to-raise-3-2-billion-via-convertible-bond-to-fund-cloud-growth/articleshow/123820324.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-43154,resizemode-75,msid-123820324/tech/technology/alibaba-to-raise-3-2-billion-via-convertible-bond-to-fund-cloud-growth.jpg",
+        "publishedAt": "2025-09-11T02:43:42Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b71469d02a31db18c599fbbb0dcad382",
+        "title": "Novel method accurately identifies therapeutic antibodies to treat infectious diseases",
+        "description": "Scientists at Scripps Research have developed a novel method that uses artificial intelligence (AI) and advanced imaging techniques to more accurately and efficiently identify therapeutic antibodies to treat infectious diseases.",
+        "content": "Scientists at Scripps Research have developed a novel method that uses artificial intelligence (AI) and advanced imaging techniques to more accurately and efficiently identify therapeutic antibodies to treat infectious diseases.\nThe breakthrough meth... [4680 chars]",
+        "url": "https://www.news-medical.net/news/20250910/Novel-method-accurately-identifies-therapeutic-antibodies-to-treat-infectious-diseases.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/Pandemic-620x480.jpg",
+        "publishedAt": "2025-09-11T02:37:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "befe0f1169188773b32ae0ba3ccb7dbc",
         "title": "Oracle share price jumps 36%, posts biggest one-day gain since 1992, adds $244 billion in market value",
         "description": "Oracle's share price surged 36%, reaching $328.33, its largest single-day gain since 1992. The market capitalization rose to $922 billion, outperforming Eli Lilly, JPMorgan Chase, and Walmart, driven by optimism for its cloud business and artificial intelligence demand.",
@@ -125,38 +157,6 @@
             "name": "The News International",
             "url": "https://www.thenews.com.pk",
             "country": "pk"
-        }
-    },
-    {
-        "id": "2d84139cf66093a371bcd78ee0ffa3b4",
-        "title": "Study sheds light on hurdles faced in transforming NHS health care with AI",
-        "description": "Implementing artificial intelligence (AI) into NHS hospitals is far harder than initially anticipated, with complications around governance, contracts, data collection, harmonization with old IT systems, finding the right AI tools and staff training, finds a major new UK study led by UCL researchers.",
-        "content": "Implementing artificial intelligence (AI) into NHS hospitals is far harder than initially anticipated, with complications around governance, contracts, data collection, harmonization with old IT systems, finding the right AI tools and staff training,... [6774 chars]",
-        "url": "https://medicalxpress.com/news/2025-09-hurdles-nhs-health-ai.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2018/2-hospital.jpg",
-        "publishedAt": "2025-09-10T23:00:04Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "39d4b084e72296059fb1c67e34cd9246",
-        "title": "US stocks inch to more records as inflation slows and Oracle soars",
-        "description": "Wall Street inched to more records on Wednesday following a surprisingly encouraging report on inflation and a stunning forecast for growth from Oracle because of the artificial-intelligence boom.",
-        "content": "NEW YORK — Wall Street inched to more records on Wednesday following a surprisingly encouraging report on inflation and a stunning forecast for growth from Oracle because of the artificial-intelligence boom.\nThe S&P 500 rose 0.3% and set an all-time ... [3976 chars]",
-        "url": "https://www.startribune.com/asian-shares-mostly-rise-cheered-by-wall-street-rally-to-more-records/601471232",
-        "image": "https://arc.stimg.co/startribunemedia/3K7UQA4XRBFZLHN7ZWSEXD5ATU.jpg?&w=1200&ar=1.91:1&fit=crop",
-        "publishedAt": "2025-09-10T21:30:08Z",
-        "lang": "en",
-        "source": {
-            "id": "fca9664a9e215efa308045911cfc7fc3",
-            "name": "Star Tribune",
-            "url": "https://www.startribune.com",
-            "country": "us"
         }
     }
 ]
