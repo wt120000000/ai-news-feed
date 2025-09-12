@@ -1,5 +1,37 @@
 [
     {
+        "id": "d69f9d7363941586addf48c28baf329a",
+        "title": "Tesla Says XAI Stands for \"EXploratory AI.\" Does It?",
+        "description": "In a recent proxy statement about Elon Musk's compensation package, Tesla said xAI's name stood for \"eXploratory Artificial Intelligence.\" Huh?",
+        "content": "Last week, Tesla unveiled a ten-year compensation plan for Elon Musk that could turn him into a trillionaire. Perhaps by accident, it may have also invented an alter ego for one of Musk's other major holdings, xAI.\nAcross 16 pages of its September 5 ... [3062 chars]",
+        "url": "https://www.businessinsider.com/tesla-xai-exploratory-ai-grok-2025-9",
+        "image": "https://i.insider.com/67b4fc0beb4be2fff9a4f100?width=1200&format=jpeg",
+        "publishedAt": "2025-09-12T09:10:01Z",
+        "lang": "en",
+        "source": {
+            "id": "458ddf355ab77631d3eb3dd84a0351b4",
+            "name": "Business Insider",
+            "url": "https://www.businessinsider.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "578bf6b2ce67679a6af238974424c124",
+        "title": "How to create AI Avatars online for free using Grok: Step-by-step guide with prompts and tips",
+        "description": "Tech Tips News: AI Avatars are now easy to create using artificial intelligence. Users can design unique digital characters for social media, gaming, and professional",
+        "content": "AI Avatars are now easy to create using artificial intelligence. Users can design unique digital characters for social media, gaming, and professional use. A step-by-step guide helps users craft detailed prompts for AI generation. Experiment with sty... [4998 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-tips/how-to-create-ai-avatars-online-for-free-using-grok-step-by-step-guide-with-prompts-and-tips/articleshow/123847728.cms",
+        "image": "https://static.toiimg.com/thumb/msid-123847727,width-1070,height-580,imgsize-38890,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2025-09-12T08:40:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "363e7cdad659e3a7cc0313dfce5f0dd9",
         "title": "AI-powered digital inspections: How connected worker platforms transform compliance in manufacturing",
         "description": "Inspections once carried the weight of routine drudgery:stacks of forms, signatures collected like stamps, and processes that slowed down precisely when they needed to be sharp. The shift underway is far more than an upgrade in tools. By weaving artificial intelligence into connected worker platforms, inspections are becoming less an episodic event and more a […]",
@@ -124,38 +156,6 @@
             "id": "c5725557f39c24c8b029ee39900a8406",
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c2ccb69f9e80c3bfc032ae3d4d8a2691",
-        "title": "Bio leaders highlight Korea's opportunities in cell therapy, digital health",
-        "description": "Seoul [South Korea], September 12 (ANI): Global pharmaceutical leaders said on Thursday that cell therapy, artificial intelligence (AI)-driven drug development and diagnostics, digital healthcare, and aesthetic medicine are…",
-        "content": "3\nSeoul [South Korea], September 12 (ANI): Global pharmaceutical leaders said on Thursday that cell therapy, artificial intelligence (AI)-driven drug development and diagnostics, digital healthcare, and aesthetic medicine are four frontiers that will... [2911 chars]",
-        "url": "https://www.newsx.com/business/bio-leaders-highlight-koreas-opportunities-in-cell-therapy-digital-health20250912122821-66347/",
-        "image": "https://www.newsx.com/wp-content/uploads/2025/09/Bio-leaders-highlight-Korea039s-opportunities-in-cell-therapy-digital-health.avif",
-        "publishedAt": "2025-09-12T07:00:03Z",
-        "lang": "en",
-        "source": {
-            "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-            "name": "NewsX",
-            "url": "https://www.newsx.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "5afe3325d7790c432cae51fd97da1f6a",
-        "title": "Bio leaders highlight Korea's opportunities in cell therapy, digital health",
-        "description": "Bio leaders highlight Korea's opportunities in cell therapy, digital health - Seoul [South Korea], September 12 : Global pharmaceutical leaders said on Thursday that cell therapy, artificial intelligence (AI)-driven drug ... Get Latest News on Business only on lokmattimes.com",
-        "content": "Seoul [South Korea], September 12 : Global pharmaceutical leaders said on Thursday that cell therapy, artificial intelligence (AI)-driven drug development and diagnostics, digital healthcare, and aesthetic medicine are four frontiers that will lead S... [2887 chars]",
-        "url": "https://www.lokmattimes.com/business/bio-leaders-highlight-koreas-opportunities-in-cell-therapy-digital-health/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20250912065757_202509.jpg",
-        "publishedAt": "2025-09-12T06:58:21Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
             "country": "in"
         }
     }
