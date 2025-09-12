@@ -1,5 +1,53 @@
 [
     {
+        "id": "bf29be31373a2eb44c48666513176eb6",
+        "title": "Albania appoints AI-generated minister to avoid corruption",
+        "description": "TIRANA, Albania: Albanian Prime Minister Edi Rama said Thursday he had appointed the world’s first AI-generated government minister to oversee public tenders, promising its artificial intelligence would make it “corruption-free.” Presenting his new cabinet at a meeting of his Socialist Party following a big May election victory, Rama introduced the new “member,” named “Diella”",
+        "content": "BRASILIA: Former Brazilian president Jair Bolsonaro was convicted by a Supreme Court majority on Thursday of plotting a coup to remain in power after losing the 2022 election, a powerful blow to the populist far-right movement he created.\nThe presump... [12537 chars]",
+        "url": "https://www.arabnews.com/node/2614980/world",
+        "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2025/09/11/4638711-2082480002.jpg?itok=kDraPhIL",
+        "publishedAt": "2025-09-11T19:13:12Z",
+        "lang": "en",
+        "source": {
+            "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+            "name": "Arab News",
+            "url": "https://www.arabnews.com",
+            "country": "ar"
+        }
+    },
+    {
+        "id": "196ce38502e860eb57156de234e908c3",
+        "title": "AI-powered eye scan predicts risk of cognitive decline and dementia",
+        "description": "A new study led by researchers from the Yong Loo Lin School of Medicine at the National University of Singapore (NUS Medicine) has demonstrated that artificial intelligence (AI) analysis of retinal photographs can predict an individual's risk of cognitive decline and dementia. Published in Alzheimer's & Dementia, this first-of-its-kind study in Singapore highlights the potential of retinal aging biomarkers as a novel tool for brain health management.",
+        "content": "A new study led by researchers from the Yong Loo Lin School of Medicine at the National University of Singapore (NUS Medicine) has demonstrated that artificial intelligence (AI) analysis of retinal photographs can predict an individual's risk of cogn... [4325 chars]",
+        "url": "https://medicalxpress.com/news/2025-09-ai-powered-eye-scan-cognitive.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/novel-ai-powered-eye-s.jpg",
+        "publishedAt": "2025-09-11T19:01:04Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "3e651583267f0bc4bd66a7dbc4c77f97",
+        "title": "Turbolearn AI: The Future of AI Study Tools for Smarter Learning",
+        "description": "Artificial Intelligence (AI) is reshaping the way we live, work, and learn. In education, AI-powered platforms are transforming traditional study methods into smart, personalized learning experiences. Among these innovations, Turbolearn stands out as a powerful AI study tool designed to help students, educators, and lifelong learners study smarter, not harder. What is Turbolearn AI? Turbolearn […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial Intelligence (AI) is reshaping the way we live, work, and learn. In education, AI-powered platforms are transforming traditional study methods into smart, personalized learning experiences. Among these innovat... [2319 chars]",
+        "url": "https://techbullion.com/turbolearn-ai-the-future-of-ai-study-tools-for-smarter-learning/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/09/Picture2-6-e1757617092352.png",
+        "publishedAt": "2025-09-11T18:58:57Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "f88e381b9562756f0367d409c427cd2d",
         "title": "Micron Stock, Memory Storage Group Boosted By AI Demand",
         "description": "Micron stock, along with the memory storage industry group, are being boosted by soaring artificial intelligence demand.",
@@ -96,22 +144,6 @@
         }
     },
     {
-        "id": "771632d007902f6baeeb806ab2af5a4b",
-        "title": "FTC launches inquiry into AI ‘companion’ chatbots from seven tech companies",
-        "description": "The Federal Trade Commission has launched an investigation into seven tech companies around the potential negative implications of their artificial intelligence chatbots for children and teenagers.",
-        "content": "EDITOR’S NOTE: Help is available if you or someone you know is struggling with suicidal thoughts or mental health matters. In the US: Call or text 988, the Suicide & Crisis Lifeline. Globally: The International Association for Suicide Prevention and ... [4139 chars]",
-        "url": "https://edition.cnn.com/2025/09/11/tech/ftc-investigating-ai-companion-chatbots-kids-safety",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1490292580.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-09-11T17:53:35Z",
-        "lang": "en",
-        "source": {
-            "id": "26269dbc42635df9af8c24f3cdab8e37",
-            "name": "Cable News Network",
-            "url": "https://edition.cnn.com",
-            "country": "us"
-        }
-    },
-    {
         "id": "51a48cf4b9bcd3df85d03c05a9dbf9fe",
         "title": "FTC investigating AI ‘companion’ chatbots amid growing concern about harm to kids",
         "description": "By Clare Duffy, CNN New York (CNN) — The Federal Trade Commission has launched an investigation into seven tech companies around potential harms their artificial intelligence chatbots could cause to children and teenagers. The inquiry focuses on AI chatbots that can serve as companions, which “effectively mimic human characteristics, emotions, and intentions, and generally are",
@@ -125,38 +157,6 @@
             "name": "ABC17News.com",
             "url": "https://abc17news.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "8ed89f2fd7f348be5e035e77bf1778db",
-        "title": "Artificial intelligence defense startups get compute power they need to complete their software",
-        "description": "One chipmaker is sharing its advanced AI processors and accelerators with promising startups serving national security.",
-        "content": "A handful of select startup companies have the opportunity to work with Intel’s most advanced chips, processors, and accelerators to supercharge software development in artificial intelligence, machine learning, and analytics. Access to these Intel a... [6673 chars]",
-        "url": "https://breakingdefense.com/2025/09/artificial-intelligence-defense-startups-get-compute-power-they-need-to-complete-their-software/",
-        "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/Intel-art-Hero-for-Article-1.png",
-        "publishedAt": "2025-09-11T17:23:34Z",
-        "lang": "en",
-        "source": {
-            "id": "391302f06b19835f4e0d9f8b4aa57091",
-            "name": "Breaking Defense",
-            "url": "https://breakingdefense.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "bda087978a26e33aac33f92407452256",
-        "title": "Opendoor stock is on fire; pops 65% after new CEO from Shopify and $40 Million boost - can Open Stock momentum really last?",
-        "description": "Opendoor stock has surged over 65%, capturing investor attention after the company appointed Shopifys former COO, Kaz Nejatian, as its new CEO and welcomed co-founders Keith Rabois and Eric Wu back to the board. The leadership shakeup comes as Opendoor pushes forward with artificial intelligence to streamline home pricing and repairs, aiming to turn around its business and improve margins.",
-        "content": "Synopsis\nOpendoor stock has surged over 65%, capturing investor attention after the company appointed Shopify’s former COO, Kaz Nejatian, as its new CEO and welcomed co-founders Keith Rabois and Eric Wu back to the board. The leadership shakeup comes... [8854 chars]",
-        "url": "https://economictimes.indiatimes.com/news/international/us/opendoor-stock-is-on-fire-pops-65-after-new-ceo-from-shopify-and-40-million-boost-can-open-stock-momentum-really-last/articleshow/123834838.cms",
-        "image": "https://img.etimg.com/thumb/msid-123834841,width-1200,height-630,imgsize-8982,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2025-09-11T16:59:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
