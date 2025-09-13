@@ -1,5 +1,37 @@
 [
     {
+        "id": "7ccf3de97b652224150a23af1b9455a2",
+        "title": "Apple's AI and search executive Robby Walker to leave, Bloomberg News reports",
+        "description": "Robby Walker, one of Apple's most senior artificial intelligence executives, is leaving the company, Bloomberg News reported on Friday, citing people with knowledge of the matter.",
+        "content": "Walker's exit comes as Apple's cautious approach to AI has fueled concerns it is sitting out what could be the industry's biggest growth wave in decades.\nSign up here.\nThe company was slow to roll out its Apple Intelligence suite, including a ChatGPT... [1239 chars]",
+        "url": "https://www.reuters.com/business/apples-ai-search-executive-robby-walker-leave-bloomberg-news-reports-2025-09-12/",
+        "image": "https://www.reuters.com/resizer/v2/GL74QVE3SFPIJHXXKIKYQ67MW4.jpg?auth=32ed3b334bf1827cd020d91502e5734e0b86a2bf4f3020a7814337c4cddb66b1&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-09-12T19:53:55Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2445e2964485d59c1265b8bb38db794f",
+        "title": "Some public service jobs will be cut as Ottawa adopts AI: chief data officer",
+        "description": "Ottawa's chief data officer says he thinks the introduction of artificial intelligence to federal government operations will lead to \"some\" job cuts in the public service.",
+        "content": "Ottawa’s chief data officer says he thinks the introduction of artificial intelligence to federal government operations will lead to “some” job cuts in the public service.\nIn a recent interview with The Canadian Press, Stephen Burt said he thinks the... [4718 chars]",
+        "url": "https://cheknews.ca/some-public-service-jobs-will-be-cut-as-ottawa-adopts-ai-chief-data-officer-1277884/",
+        "image": "https://cheknews.ca/wp-content/uploads/2025/09/f5ad5166-f1d9-4ad0-8482-abd74da9e11f-scaled-e1757705161288.jpg",
+        "publishedAt": "2025-09-12T19:27:37Z",
+        "lang": "en",
+        "source": {
+            "id": "010284b7a4ddb4771793c29b39893951",
+            "name": "CHEK News",
+            "url": "https://cheknews.ca",
+            "country": "ca"
+        }
+    },
+    {
         "id": "445f40a7abf30b70390987fdba6dd41c",
         "title": "Big lenders are building AI agents to do the work of business bankers",
         "description": "Business banking is emerging as a key battleground in the race among the big four to build artificial intelligence tools to drive efficiency gains.",
@@ -125,38 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "723bec98247ea4bfd86c9eab0f003b2d",
-        "title": "Tencent poaches OpenAI researcher Yao Shunyu with reported $14M deal amid AI talent war",
-        "description": "The global race for artificial intelligence talent just got a lot more dramatic. Tencent Holdings has reportedly hired Yao Shunyu, a 27-year-old researcher from OpenAI known for pushing the boundaries of AI agents, according to Bloomberg. If confirmed, the move would rank among the most high-profile defections of U.S.-trained talent to China—and it comes with",
-        "content": "The global race for artificial intelligence talent just got a lot more dramatic. Tencent Holdings has reportedly hired Yao Shunyu, a 27-year-old researcher from OpenAI known for pushing the boundaries of AI agents, according to Bloomberg. If confirme... [4164 chars]",
-        "url": "https://techstartups.com/2025/09/12/tencent-poaches-openai-researcher-yao-shunyu-with-reported-14m-deal-amid-ai-talent-war/",
-        "image": "https://techstartups.com/wp-content/uploads/2025/09/Tencent-Hires-OpenAI-Researcher-as-China-Courts-AI-Talent.jpg",
-        "publishedAt": "2025-09-12T17:02:57Z",
-        "lang": "en",
-        "source": {
-            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-            "name": "TechStartups.com",
-            "url": "https://techstartups.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d9635899b1cfe2ae5af7354cc742bac6",
-        "title": "How AI is helping some small-scale farmers weather a changing climate",
-        "description": "Artificial intelligence has the potential to boost productivity in African agriculture, which is lagging behind.",
-        "content": "By GREGORY GONDWE\nMULANJE, Malawi (AP) — Alex Maere survived the destruction of Cyclone Freddy when it tore through southern Malawi in 2023. His farm didn’t.\nThe 59-year-old saw decades of work disappear with the precious soil that the floods strippe... [5439 chars]",
-        "url": "https://www.nydailynews.com/2025/09/12/malawi-ai-farmers/",
-        "image": "https://www.nydailynews.com/wp-content/uploads/2025/09/Malawi_AI_Farmers_51870-1.jpg?w=1024&h=682",
-        "publishedAt": "2025-09-12T16:46:34Z",
-        "lang": "en",
-        "source": {
-            "id": "3fac65098bad206a4847f7fdbac9f170",
-            "name": "New York Daily News",
-            "url": "https://www.nydailynews.com",
-            "country": "us"
         }
     }
 ]
