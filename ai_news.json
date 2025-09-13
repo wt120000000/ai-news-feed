@@ -1,5 +1,37 @@
 [
     {
+        "id": "448070fc4a9f9102eeff3648ce4aac39",
+        "title": "‘What’s this?’ AI in Malawi helps farmers weather changing climate",
+        "description": "Malawi’s food crisis is a huge concern, but artificial intelligence is helping farmers identify crop diseases and forecast drought.",
+        "content": "Alex Maere survived the destruction of Cyclone Freddy when it tore through southern Malawi in 2023. His farm did not.\nThe 59-year-old saw decades of work disappear with the precious soil that the floods stripped from his small-scale farm in the footh... [615 chars]",
+        "url": "https://www.scmp.com/news/world/africa/article/3325394/whats-ai-malawi-helps-farmers-weather-changing-climate",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/09/12/60e5bad4-ef43-4ab0-ac4a-2c545457092b_bb38fd4a.jpg?itok=EEDZXCEk&v=1757690071",
+        "publishedAt": "2025-09-12T15:14:33Z",
+        "lang": "en",
+        "source": {
+            "id": "d6397b77175680e2678c0d60edcee7af",
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com",
+            "country": "hk"
+        }
+    },
+    {
+        "id": "09ea343a4dbf9a531198579b2182f17c",
+        "title": "Tencent Hires OpenAI Researcher as China Steps Up Talent Search",
+        "description": "Tencent Holdings Ltd. has recruited a prominent artificial intelligence researcher from OpenAI in one of the most high-profile defections from the US AI sector to China, according to people familiar with the matter.",
+        "content": "Tencent Holdings Ltd. has recruited a prominent artificial intelligence researcher from OpenAI in one of the most high-profile defections from the US AI sector to China, according to people familiar with the matter.\nThe Shenzhen-based gaming and mess... [1643 chars]",
+        "url": "https://www.livemint.com/technology/tech-news/tencent-hires-openai-researcher-as-china-steps-up-talent-search-11757689035858.html",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/tech3_1734536499109_1734536513984.jpg",
+        "publishedAt": "2025-09-12T14:57:15Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "3244595d539e14fc7f661c2c18626a22",
         "title": "Supermicro Stock Rises on News of Product Shipments Using Nvidia Blackwell Chips",
         "description": "Super Micro Computer said it was now shipping products that use Nvidia's high-speed Blackwell semiconductor for use in artificial intelligence applications.",
@@ -125,38 +157,6 @@
             "name": "The New York Times",
             "url": "https://www.nytimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "41bc19b484048633506df6d94dad89fe",
-        "title": "Not just AI: 200-year-old middle-market trap can threaten Indian IT jobs, AI founder flags hidden warning signs",
-        "description": "Amid the rise of artificial intelligence, Indias IT industry faces potential job losses if it continues relying on low-cost outsourcing. Tej Pandya, founder of Groweasy.ai, warns that the sector risks repeating history, drawing parallels with the decline of Indias textile industry, which lost global dominance by failing to embrace technology, branding, and innovation.",
-        "content": "Synopsis\nAmid the rise of artificial intelligence, India’s IT industry faces potential job losses if it continues relying on low-cost outsourcing. Tej Pandya, founder of Groweasy.ai, warns that the sector risks repeating history, drawing parallels wi... [3560 chars]",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/not-just-ai-200-year-old-middle-market-trap-can-threaten-indian-it-jobs-ai-founder-flags-hidden-warning-signs/articleshow/123850531.cms",
-        "image": "https://img.etimg.com/thumb/msid-123852770,width-1200,height-630,imgsize-49558,overlay-etpanache/articleshow.jpg",
-        "publishedAt": "2025-09-12T12:41:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d82b49ae2792ee6df8d333757cf58d7f",
-        "title": "Albania's leader says his new Cabinet includes AI 'minister' to fight corruption",
-        "description": "TIRANA (Albania), Sept 12: Albania’s leader said Friday his new cabinet will include an artificial intelligence “minister” that will be in charge of running public funding projects and fighting corruption in public tenders.   Prime Minister Edi Rama said Diella, whose name means “Sun” in Albanian, is a “member of the Cabinet who is not present physically but has been created virtually from artificial intelligence”. Rama said Diella would help ensure that “public tenders will be 100% free of corruption”. […]",
-        "content": "By\nDaily Excelsior\n-\nTIRANA (Albania), Sept 12: Albania’s leader said Friday his new cabinet will include an artificial intelligence “minister” that will be in charge of running public funding projects and fighting corruption in public tenders.\nPrime... [1667 chars]",
-        "url": "https://www.dailyexcelsior.com/albanias-leader-says-his-new-cabinet-includes-ai-minister-to-fight-corruption/",
-        "image": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/09/Minister-1.jpg",
-        "publishedAt": "2025-09-12T12:24:36Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
         }
     }
 ]
