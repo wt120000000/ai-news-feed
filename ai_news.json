@@ -1,5 +1,37 @@
 [
     {
+        "id": "1ac8533f3516a1903de236adc9789b98",
+        "title": "Adobe raises annual revenue and profit forecasts on strong design software demand",
+        "description": "ADOBE raised its fiscal 2025 revenue and profit forecasts on Thursday, signaling strong demand for its design software and increased monetization of artificial intelligence (AI) tools.",
+        "content": "ADOBE raised its fiscal 2025 revenue and profit forecasts on Thursday, signaling strong demand for its design software and increased monetization of artificial intelligence (AI) tools.\nShares of the San Jose, California-based company rose around 3 pe... [1740 chars]",
+        "url": "https://www.manilatimes.net/2025/09/13/business/foreign-business/adobe-raises-annual-revenue-and-profit-forecasts-on-strong-design-software-demand/2183524",
+        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2025-09-12T16:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "b0cf3360fd1579ecbd0154c37d8e0564",
+        "title": "Fashion embraces artificial intelligence at NYFW",
+        "description": "Designers are finally embracing artificial intelligence at New York Fashion Week, with brands including Ralph Lauren and Alexander Wang debuting high-tech new innovations.",
+        "content": "Designers are finally embracing artificial intelligence at New York Fashion Week, with brands including Ralph Lauren and Alexander Wang debuting high-tech new innovations.\nRalph Lauren, which was one of the first major fashion brands to begin selling... [2061 chars]",
+        "url": "https://nypost.com/2025/09/12/business/fashion-embraces-artificial-intelligence-at-nyfw/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/09/On-Site-Short-Video-22.png?w=1024",
+        "publishedAt": "2025-09-12T15:59:35Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "448070fc4a9f9102eeff3648ce4aac39",
         "title": "‘What’s this?’ AI in Malawi helps farmers weather changing climate",
         "description": "Malawi’s food crisis is a huge concern, but artificial intelligence is helping farmers identify crop diseases and forecast drought.",
@@ -125,38 +157,6 @@
             "name": "Bnn Bloomberg",
             "url": "https://www.bnnbloomberg.ca",
             "country": "ca"
-        }
-    },
-    {
-        "id": "4832c4d89469b4ce83b1f45c391f5479",
-        "title": "Atom-thin crystals provide new way to power the future of computer memory",
-        "description": "Picture the smartphone in your pocket, the data centers powering artificial intelligence, or the wearable health monitors that track your heartbeat. All of them rely on energy-hungry memory chips to store and process information. As demand for computing resources continues to soar, so does the need for memory devices that are smaller, faster, and far more efficient.",
-        "content": "Picture the smartphone in your pocket, the data centers powering artificial intelligence, or the wearable health monitors that track your heartbeat. All of them rely on energy-hungry memory chips to store and process information. As demand for comput... [3303 chars]",
-        "url": "https://phys.org/news/2025-09-atom-thin-crystals-power-future.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/atom-thin-crystals-sho.jpg",
-        "publishedAt": "2025-09-12T13:14:04Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "2e8b035fa4be1f03c6d9c9ee6b6fdd1a",
-        "title": "Believe in A.I.? Buy Beaten-Down Value Stocks.",
-        "description": "If artificial intelligence is really revolutionary, its benefits will spread to mundane companies and spawn new fields, Vanguard’s global chief economist says.",
-        "content": "If you don’t like the neighborhood, wait 10 minutes.\nThat’s an old saying about New York City, but it applies these days to the bewildering financial markets, too. You may not like what you’re experiencing but everything is changing so rapidly that i... [7973 chars]",
-        "url": "https://www.nytimes.com/2025/09/12/business/ai-investing-value-stocks.html",
-        "image": "https://static01.nyt.com/images/2025/09/14/business/14strategies-illo/14strategies-illo-facebookJumbo.jpg",
-        "publishedAt": "2025-09-12T13:00:06Z",
-        "lang": "en",
-        "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
-            "country": "us"
         }
     }
 ]
