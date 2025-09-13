@@ -1,5 +1,21 @@
 [
     {
+        "id": "232faaacd815cf4cf81e1d7dd622d6c4",
+        "title": "Albania's prime minister appoints an AI-generated 'minister' to tackle corruption",
+        "description": "TIRANA, Albania — Albania’s prime minister on Friday tapped an Artificial Intelligence-generated “minister” to tackle corruption and promote transparency and innovation in his new Cabinet",
+        "content": "TIRANA, Albania — Albania’s prime minister on Friday tapped an Artificial Intelligence-generated “minister” to tackle corruption and promote transparency and innovation in his new Cabinet.\nOfficially named Diella — the female form of the word for sun... [3019 chars]",
+        "url": "https://www.nbcnews.com/world/europe/albanias-prime-minister-appoints-ai-generated-minister-rcna230963",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250912-albania-enio-kaso-diella-ai-minister-tech-ac-936p-4777ec.jpg",
+        "publishedAt": "2025-09-13T01:50:27Z",
+        "lang": "en",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "69308d3ead5c9d5e1f3a5472318d5232",
         "title": "India aims for two PSBs on world top 20 list by 2047",
         "description": "Strengthening corporate governance in PSBs, improving customer experience, and making them globally competitive through modernisation — including use of artificial intelligence — are among key issues being deliberated at the two-day PSB Manthan conclave that began on Friday, an official said.",
@@ -140,22 +156,6 @@
             "id": "20ca9773b4c0563e26b4c2863bdf8c19",
             "name": "The Associated Press",
             "url": "https://apnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5a1189f410ffd605ad451c31b6475825",
-        "title": "AI scientist says ‘learning how to learn’ will be next generation's most needed skill",
-        "description": "Google's DeepMind CEO Demis Hassabis says the most valuable human skill for the future will be “learning how to learn” as artificial intelligence transforms education, careers and daily life",
-        "content": "ATHENS, Greece -- A top Google scientist and 2024 Nobel laureate said Friday that the most important skill for the next generation will be “learning how to learn” to keep pace with change as Artificial Intelligence transforms education and the workpl... [2210 chars]",
-        "url": "https://abcnews.go.com/Business/wireStory/googles-top-ai-scientist-learning-learn-generations-needed-125526617",
-        "image": "https://i.abcnewsfe.com/a/1d4a9639-7dde-4ec2-866c-db63306fe74b/wirestory_85bff114c30cbea4b951ab93dcc1e6d1_16x9.jpg?w=1600",
-        "publishedAt": "2025-09-12T20:50:37Z",
-        "lang": "en",
-        "source": {
-            "id": "c792dadf7373fad5b316a63a77688de1",
-            "name": "ABC News",
-            "url": "https://abcnews.go.com",
             "country": "us"
         }
     }
