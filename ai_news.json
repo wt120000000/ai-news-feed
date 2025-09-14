@@ -1,5 +1,37 @@
 [
     {
+        "id": "78cb09d1dc1b38f0a434947c771cca9d",
+        "title": "ASML invests $1.5 billion in French startup Mistral AI to strengthen artificial intelligence use in chip development",
+        "description": "ASML plans to apply advanced AI to its chip research",
+        "content": "ASML invests €1.3 billion in French startup Mistral AI, securing an 11 percent stake\nPartnership will apply AI to ASML’s research development and lithography system operations\nMistral AI gains funding and a European partner as valuation rises to €11.... [2483 chars]",
+        "url": "https://www.techradar.com/pro/asml-invests-usd1-5-billion-in-openais-european-rival-mistral-ai-to-accelerate-future-chip-design",
+        "image": "https://cdn.mos.cms.futurecdn.net/dqr8ZLorxU7QQWv8765JTQ.jpg",
+        "publishedAt": "2025-09-13T18:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "76684855c5d801b81fd06490668d04fe",
+            "name": "TechRadar",
+            "url": "https://www.techradar.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "d3df39f784e68b0715de2fbb3ed71037",
+        "title": "Language, Science, Technology, and Innovation: The Living Breathing Combination for Yingrui (Jessie) He",
+        "description": "On the rise today are fields of study that were previously unknown. Scientific research and studies have highlighted the need for expansion, leading to the emergence of new disciplines. For example, a degree in Artificial Intelligence was unfamiliar and alienating a decade ago, but it has now become one of the most sought-after options. Likewise, […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nOn the rise today are fields of study that were previously unknown. Scientific research and studies have highlighted the need for expansion, leading to the emergence of new disciplines. For example, a degree in Artificia... [5930 chars]",
+        "url": "https://techbullion.com/language-science-technology-and-innovation-the-living-breathing-combination-for-yingrui-jessie-he/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-13-at-10.39.13-AM-453x600.jpeg",
+        "publishedAt": "2025-09-13T17:49:36Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "b2399b09c9fb5fc55e5f58f1fac5b5a9",
         "title": "Proposals for AI solutions invited under Kerala AI initiative",
         "description": "The Kerala State IT Mission, in collaboration with the Kerala Startup Mission (KSUM), has invited artificial intelligence (AI) solutions that address real-world governance challenges identified by various departments under the ‘K-AI Initiative: AI for Governance’ programme.",
@@ -125,38 +157,6 @@
             "name": "India TV News",
             "url": "https://www.indiatvnews.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "9e4a1fbb1977f3e936bca08be449de40",
-        "title": "Mystery company's Wisconsin data center draws backlash",
-        "description": "Fox News AI newsletter covers OpenAI's $100B restructuring, Wisconsin's controversial data center proposal, and Trump administration artificial intelligence policies.",
-        "content": "NEWYou can now listen to Fox News articles!\nWelcome to Fox News’ Artificial Intelligence newsletter with the latest AI technology advancements.\nIN TODAY'S NEWSLETTER:\n- Mystery company's $1.6B data center proposed for Wisconsin farmland draws residen... [2792 chars]",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-backlash-over-mystery-companys-data-center",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/data-center-ashburn-virginia.jpg",
-        "publishedAt": "2025-09-13T12:30:15Z",
-        "lang": "en",
-        "source": {
-            "id": "8da923084554b2821233d6c5c5f02c97",
-            "name": "Fox News",
-            "url": "https://www.foxnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "dfeedbeb9f55240be17d47743119413a",
-        "title": "‘It’s going to be a life skill’: educators discuss the impact of AI on university education",
-        "description": "Artificial intelligence is changing how students learn and the world they’ll graduate into. Experts reveal how applicants can get ahead",
-        "content": "OpenAI CEO Sam Altman recently told a US podcast that if he was graduating today, “I would feel like the luckiest kid in all of history.”\nAltman, whose company developed and released ChatGPT in November 2022, believes the transformative power of AI o... [5731 chars]",
-        "url": "https://www.theguardian.com/education/2025/sep/13/its-going-to-be-a-life-skill-educators-discuss-the-impact-of-ai-on-university-education",
-        "image": "https://i.guim.co.uk/img/media/1a4dadba361b8d8cdacd142af1599f6747d11439/1469_144_7321_5857/master/7321.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb05853f7267f0ba18478bb55fd79da0",
-        "publishedAt": "2025-09-13T12:00:05Z",
-        "lang": "en",
-        "source": {
-            "id": "01558c024928d45cf320f6f75eede787",
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com",
-            "country": "gb"
         }
     }
 ]
