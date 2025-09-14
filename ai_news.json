@@ -1,5 +1,37 @@
 [
     {
+        "id": "e1459b80a22d2c0d1d7a23bcf4eadb13",
+        "title": "Nvidia researchers call SLMs the future of AI: Here's why",
+        "description": "Experts at Nvidia claim that Small Language Models (SLMs) are key to the future of the artificial intelligence (AI) sector.",
+        "content": "Experts at Nvidia claim that Small Language Models (SLMs) are key to the future of the artificial intelligence (AI) sector.\nHowever, most investments are still being made into Large Language Models (LLMs). If this situation persists, the industry may... [3931 chars]",
+        "url": "https://crypto.news/nvidia-researchers-call-slms-future-ai-heres-why/",
+        "image": "https://crypto.news/app/uploads/2022/08/Nvidia.jpg",
+        "publishedAt": "2025-09-13T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+            "name": "Crypto News",
+            "url": "https://crypto.news",
+            "country": "lt"
+        }
+    },
+    {
+        "id": "99fd5f4d36cc6dbdcda63485df1f3697",
+        "title": "AI shakes up call center industry, but some tasks are still better left to the humans",
+        "description": "Armen Kirakosian remembers the frustrations of his first job as a call center agent nearly 10 years ago: the aggravated customers, the constant searching through menus for information and the notes he had to physically write for each call he handled. Thanks to artificial intelligence, the 29-year-old from Athens, Greece,…",
+        "content": "Armen Kirakosian remembers the frustrations of his first job as a call center agent nearly 10 years ago: the aggravated customers, the constant searching through menus for information and the notes he had to physically write for each call he handled.... [5949 chars]",
+        "url": "https://japantoday.com/category/tech/ai-shakes-up-the-call-center-industry-but-some-tasks-are-still-better-left-to-the-humans",
+        "image": "https://media.japantoday.com/img/store/f2/be/4b941e4a366e3046f1be556509d34e68b230/download/_w1700.jpeg",
+        "publishedAt": "2025-09-13T20:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "5da744d178b77e52144dcf006f8e9302",
         "title": "AI is opening a MAGA-Trump split",
         "description": "Trump's White House is all-in on building powerful American artificial intelligence. The populist base is starting to push back.",
@@ -125,38 +157,6 @@
             "name": "PR Newswire UK",
             "url": "https://www.prnewswire.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "b2bf075969d41fff49e7659fe51b7753",
-        "title": "CREEPY: Albania Appoints AI ‘Minister’ as Part of Government Cabinet",
-        "description": "Albania has added an artificial intelligence (AI) bot to its cabinet in the government claims will promote transparency and reform.",
-        "content": "Albania has added an artificial intelligence (AI) bot to its cabinet in the government claims will promote transparency and reform.\nPrime Minister Edi Rama announced Friday that a virtual “minister” named Diella will join his new government, with a m... [1953 chars]",
-        "url": "https://www.thegatewaypundit.com/2025/09/creepy-albania-appoints-ai-minister-as-part-government/",
-        "image": "https://www.thegatewaypundit.com/wp-content/uploads/2025/09/img_0526.jpeg",
-        "publishedAt": "2025-09-13T14:30:21Z",
-        "lang": "en",
-        "source": {
-            "id": "c7b3fd167c575deb5133f19df6ed778f",
-            "name": "The Gateway Pundit",
-            "url": "https://www.thegatewaypundit.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "347084cadecd49b64199a9e93066eb32",
-        "title": "AI hits engineers hard: 67% say jobs are changing, 85% turn to upskilling",
-        "description": "News News: With artificial intelligence rapidly reshaping industries, Indian engineers are confronting unprecedented disruption. A Great Learning survey reveals",
-        "content": "With artificial intelligence rapidly reshaping industries, Indian engineers are confronting unprecedented disruption. A Great Learning survey reveals 67% feel AI is already altering their roles, while 85% see upskilling as essential. Engineers are pr... [4097 chars]",
-        "url": "https://timesofindia.indiatimes.com/education/news/ai-hits-engineers-hard-67-say-jobs-are-changing-85-turn-to-upskilling/articleshow/123870921.cms",
-        "image": "https://static.toiimg.com/thumb/msid-123870959,width-1070,height-580,imgsize-14490,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-09-13T14:29:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
