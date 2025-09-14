@@ -1,5 +1,37 @@
 [
     {
+        "id": "cdbb242fc030d04e518261ac5b8b63c7",
+        "title": "How ChatGPT is becoming everyone’s BFF and why that’s dangerous",
+        "description": "Artificial Intelligence is changing the way we work, and it’s also changing the way we socialise. An increasing number of people are choosing AI-powered chatbots such as ChatGPT as their companions. This comes amid the growing loneliness pandemic and social media being flooded with influencers advocating the benefits of bot besties. But experts don’t agree",
+        "content": "Imagine if you had a friend who never disagreed with you. A friend who never told you that you are wrong. Who is available to talk to you at any given time of the day. And even lets you dominate the conversation.\nWhile this may sound impossible, tech... [5460 chars]",
+        "url": "https://www.firstpost.com/explainers/chatgpt-friendship-dangers-human-interaction-chatbots-explained-ws-e-13930202.html",
+        "image": "https://images.firstpost.com/uploads/2025/09/image-2025-09-aa55943a2b1a6762dc81aa9fbe09ecc0-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2025-09-14T08:01:04Z",
+        "lang": "en",
+        "source": {
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "78abdc67a7f6837d43c532974e593e9b",
+        "title": "AI in healthcare education: The future of learning explained",
+        "description": "Artificial Intelligence is revolutionising healthcare education by making training more immersive and personalised. This transformation promises better-prepared clinicians with improved skills and empathetic patient care.",
+        "content": "Artificial Intelligence (AI) is no longer just a tool for diagnostics; it is transforming the way healthcare professionals learn, train, and prepare for real-world practice. From medical students to practicing clinicians, AI-powered platforms are red... [3088 chars]",
+        "url": "https://www.indiatoday.in/information/story/ai-in-healthcare-education-the-future-of-learning-explained-2787064-2025-09-14",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/li-144647187-16x9_0.png?VersionId=J33YKWahfsbXRvDed6IFT_LXzQayixJT",
+        "publishedAt": "2025-09-14T07:51:42Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "74b9db09e18df7f34f3b51d169744a4d",
         "title": "TN launches pilot AI, robotics programme in govt schools",
         "description": "TN launches pilot AI, robotics programme in govt schools - Chennai, Sep 14 Exposure to Artificial Intelligence (AI), robotics and digital tools is no longer confined to private ... Get Latest News on National only on lokmattimes.com",
@@ -125,38 +157,6 @@
             "name": "/FILM",
             "url": "https://www.slashfilm.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "444428c2b30890f0bd3b7a296873cf89",
-        "title": "AI can spot which patients need treatment to prevent vision loss in young adults",
-        "description": "Researchers have successfully used artificial intelligence (AI) to predict which patients need treatment to stabilize their corneas and preserve their eyesight, in a study presented at the 43rd Congress of the European Society of Cataract and Refractive Surgeons (ESCRS).",
-        "content": "Researchers have successfully used artificial intelligence (AI) to predict which patients need treatment to stabilize their corneas and preserve their eyesight, in a study presented at the 43rd Congress of the European Society of Cataract and Refract... [4912 chars]",
-        "url": "https://medicalxpress.com/news/2025-09-ai-patients-treatment-vision-loss.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2025/ai-can-spot-which-pati.jpg",
-        "publishedAt": "2025-09-13T22:00:06Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "e1459b80a22d2c0d1d7a23bcf4eadb13",
-        "title": "Nvidia researchers call SLMs the future of AI: Here's why",
-        "description": "Experts at Nvidia claim that Small Language Models (SLMs) are key to the future of the artificial intelligence (AI) sector.",
-        "content": "Experts at Nvidia claim that Small Language Models (SLMs) are key to the future of the artificial intelligence (AI) sector.\nHowever, most investments are still being made into Large Language Models (LLMs). If this situation persists, the industry may... [3931 chars]",
-        "url": "https://crypto.news/nvidia-researchers-call-slms-future-ai-heres-why/",
-        "image": "https://crypto.news/app/uploads/2022/08/Nvidia.jpg",
-        "publishedAt": "2025-09-13T21:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
-            "name": "Crypto News",
-            "url": "https://crypto.news",
-            "country": "lt"
         }
     }
 ]
