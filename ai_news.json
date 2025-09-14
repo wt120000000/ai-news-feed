@@ -1,5 +1,21 @@
 [
     {
+        "id": "5da744d178b77e52144dcf006f8e9302",
+        "title": "AI is opening a MAGA-Trump split",
+        "description": "Trump's White House is all-in on building powerful American artificial intelligence. The populist base is starting to push back.",
+        "content": "Rep. Marjorie Taylor Greene (R-Ga.) fired off a tirade on X, complaining that AI could create mass poverty by replacing human jobs, and giant AI data centers could have potentially devastating effects on the environment and water supply.\nIn the days ... [6369 chars]",
+        "url": "https://www.politico.com/news/2025/09/13/ai-is-opening-a-maga-trump-split-00534925",
+        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F11%2F28%2F558f6f714a0baa3dfd0342eabb6e%2Fmain-chatterjee-maga-ai-fight.jpg",
+        "publishedAt": "2025-09-13T20:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c477009a98f37b19212d8ae20ce8c018",
+            "name": "POLITICO",
+            "url": "https://www.politico.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "78cb09d1dc1b38f0a434947c771cca9d",
         "title": "ASML invests $1.5 billion in French startup Mistral AI to strengthen artificial intelligence use in chip development",
         "description": "ASML plans to apply advanced AI to its chip research",
@@ -140,22 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "2b35d32fb2ef2beadcecffe8738400d2",
-        "title": "Tesla accidentally reveals xAI's meaning: Exploratory Artificial Intelligence",
-        "description": "Tesla's filing may have accidentally revealed that xAI stands for ‘exploratory artificial intelligence'. However, neither Musk nor the company has officially confirmed this. For now, xAI's mission to build advanced artificial general intelligence (AGI) remains its defining purpose.",
-        "content": "New Delhi:\nTesla has recently filed a 10-year compensation plan that could potentially make Elon Musk the world’s first trillionaire. However, hidden in the 16-page proxy statement dated 5 September 2025 was an unexpected detail about Musk’s artifici... [2135 chars]",
-        "url": "https://www.indiatvnews.com/technology/news/tesla-accidentally-reveals-xai-s-meaning-exploratory-artificial-intelligence-2025-09-13-1008046",
-        "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/09/tesla-not-interested-in-manufacturing-evs-in-india-1757770402.jpg",
-        "publishedAt": "2025-09-13T14:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "143b993b193f72147f3de29ebcfbf505",
-            "name": "India TV News",
-            "url": "https://www.indiatvnews.com",
             "country": "in"
         }
     }
