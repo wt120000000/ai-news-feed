@@ -1,5 +1,21 @@
 [
     {
+        "id": "454e0bcabbc093196b76fab29845356f",
+        "title": "North Korean hackers used ChatGPT to help forge deepfake ID",
+        "description": "Attackers used the artificial intelligence tool to craft a fake draft of a South Korean military identification card.",
+        "content": "Attackers used the artificial intelligence tool to craft a fake draft of a South Korean military identification card in order to create a realistic-looking image meant to make a phishing attempt seem more credible, according to research published Sun... [2082 chars]",
+        "url": "https://fortune.com/2025/09/14/north-korean-hackers-openai-chatgpt-deepfake-id-south-korea-military/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2234092483-e1757880790575.jpg?resize=1200,600",
+        "publishedAt": "2025-09-14T20:19:50Z",
+        "lang": "en",
+        "source": {
+            "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+            "name": "Fortune",
+            "url": "https://fortune.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "487d1430d3616ce088ec93e6c6472166",
         "title": "The US government vetting paradox",
         "description": "There is no doubt that if you give an artificial intelligence tool a job, it will execute it with outstanding speed and efficiency, often far quicker and better than a human can, and exactly as requested. Now that we are increasingly trying to make AI in government work, such tools can make good processes much better — but can they also make a bad process far worse? Let me be",
@@ -141,22 +157,6 @@
             "name": "The New York Times",
             "url": "https://www.nytimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "00b73a2567ea90975d36f3bca2066dd9",
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Strategic Moves by AI Engineering Services to Overhaul India's MRO Sector",
-        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
-        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
-        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2025-09-14T12:51:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
