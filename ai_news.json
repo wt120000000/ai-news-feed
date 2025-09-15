@@ -1,5 +1,85 @@
 [
     {
+        "id": "1dc916e5acba4a5baccaab127b72ec35",
+        "title": "UPDATE 3-China says preliminary probe shows Nvidia violated anti-monopoly law",
+        "description": "China's market regulator on Monday said that a preliminary investigation had found that Nvidia had violated the country's anti-monopoly law, marking the latest hit for the U.S. chip giant.\nThe brief statement from the State Administration for Market Regulation did not elaborate on how the U.S. company, known for its artificial intelligence and gaming chips, might have violated China's anti-monopoly laws.",
+        "content": "China's market regulator on Monday said that a preliminary investigation had found that Nvidia had violated the country's anti-monopoly law, marking the latest hit for the U.S. chip giant. The brief statement from the State Administration for Market ... [2388 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3628241-update-3-china-says-preliminary-probe-shows-nvidia-violated-anti-monopoly-law",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg?width=920&format=jpeg",
+        "publishedAt": "2025-09-15T09:14:06Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "a1dc2ac2b408eaba4ad02ec39998a3ce",
+        "title": "The Boots Bandits: How 'points thieves' are stealing loyalty card rewards from British shoppers in £300million black market",
+        "description": "One in 20 Brits are said to have been affected by 'points bandits' who use artificial intelligence to generate random card numbers to eventually find a valid one.",
+        "content": "Loyalty card points are being stolen by cyber criminals in a £300million black market - with the Boots Advantage and Nectar card schemes among those being targeted.\nOne in 20 Brits are said to have been affected by 'points bandits' who use artificial... [3381 chars]",
+        "url": "https://www.dailymail.co.uk/news/article-15099379/Loyalty-card-points-bandits-stealing-rewards-Nectar-Boots-Advantage.html",
+        "image": "https://i.dailymail.co.uk/1s/2025/09/15/10/102144885-0-image-a-16_1757926824121.jpg",
+        "publishedAt": "2025-09-15T09:14:03Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "973b322a40c8b3aab8fa130fa64f6528",
+        "title": "AI Can Lead to Over 8% Growth in India, Says NITI Aayog",
+        "description": "NITI Aayog CEO BVR Subrahmanyam said Artificial Intelligence can be the decisive lever for an 8 per cent plus growth rate.",
+        "content": "India has the opportunity to harness Artificial Intelligence (AI) as a decisive lever to achieve accelerated economic growth and realise the vision of 'Viksit Bharat', according to the roadmap released by NITI Aayog and Niti Frontier Tech Hub on Mond... [2657 chars]",
+        "url": "https://www.republicworld.com/tech/ai-can-lead-to-over-8-growth-in-india-says-niti-aayog",
+        "image": "https://img.republicworld.com/all_images/navigating-the-web-of-real-bias-in-artificial-intelligence-1739447751794-16_9.webp",
+        "publishedAt": "2025-09-15T09:10:08Z",
+        "lang": "en",
+        "source": {
+            "id": "e479ce8332aab31d8bac6ba9584cedbb",
+            "name": "Republic World",
+            "url": "https://www.republicworld.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "19cf56aada2161c725644b52744a0c86",
+        "title": "Anthropic Finds Businesses Are Mainly Using AI to Automate Work",
+        "description": "Businesses are overwhelmingly relying on Anthropic’s artificial intelligence software to automate rather than collaborate on work, according to a new report from the OpenAI rival, adding to the risk that AI will upend livelihoods.",
+        "content": "Businesses are overwhelmingly relying on Anthropic’s artificial intelligence software to automate rather than collaborate on work, according to a new report from the OpenAI rival, adding to the risk that AI will upend livelihoods.\nMore than three qua... [342 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-09-15/anthropic-finds-businesses-are-mainly-using-ai-to-automate-work",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXzDNMP.Mhbo/v1/1200x800.jpg",
+        "publishedAt": "2025-09-15T09:00:18Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "4f843ffe7731e79a8d0b321189446340",
+        "title": "Artificial intelligence in life sciences: The dawn of scientific AI",
+        "description": "This White Paper explores how biopharma organisations can use the power of scientific AI to revolutionise R&D operations and accelerate the delivery of life-changing medicines to patients",
+        "content": "In today's biopharmaceutical landscape, companies face a huge amount of pressure to accelerate drug discovery timelines, reduce development costs, and improve clinical success rates. While artificial intelligence (AI) promises revolutionary transform... [2254 chars]",
+        "url": "https://www.scientific-computing.com/white-paper/artificial-intelligence-life-sciences-dawn-scientific-ai",
+        "image": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
+        "publishedAt": "2025-09-15T08:59:22Z",
+        "lang": "en",
+        "source": {
+            "id": "63fec970d50112ee9b8bc1418d9c5872",
+            "name": "Scientific Computing World",
+            "url": "https://www.scientific-computing.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d902da8b38f36ca9b1002e186112356d",
         "title": "AI not static, regulation must match pace of tech advancement: Nirmala Sitharaman",
         "description": "Finance Minister Nirmala Sitharaman on Monday highlighted the urgent need for regulations in Artificial Intelligence (AI) to keep pace with the rapid technological advancements, stressing that rules must evolve as fast as innovations.",
@@ -77,86 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "56818c0f87cf93c7cf583ee0ab435928",
-        "title": "Regulations should foster innovations, not wipe them out: Sitharaman",
-        "description": "NEW DELHI, Sept 15:  Finance Minister Nirmala Sitharaman on Monday emphasised the need for regulations that foster technology innovation in a responsible manner, particularly in artificial intelligence (AI), rather than stifling it.   The Government is determined to not only adopt AI technologies but also ensure their responsible application across various sectors, she said while releasing the report ‘AI for Viksit Bharat: The Opportunity for Accelerated Economic Growth’. “We do not want regulation that literally wipe out technology itself. We […]",
-        "content": "By\nDaily Excelsior\n-\nNEW DELHI, Sept 15: Finance Minister Nirmala Sitharaman on Monday emphasised the need for regulations that foster technology innovation in a responsible manner, particularly in artificial intelligence (AI), rather than stifling i... [1833 chars]",
-        "url": "https://www.dailyexcelsior.com/regulations-should-foster-innovations-not-wipe-them-out-sitharaman/",
-        "image": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/09/Sita-raman-1.jpg",
-        "publishedAt": "2025-09-15T07:53:05Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6651878bbb3f7d1ba44d30c14c74aabc",
-        "title": "Regulations Should Foster Innovations, Not Wipe Them Out: N Sitharaman",
-        "description": "Finance Minister Nirmala Sitharaman on Monday emphasised the need for regulations that foster technology innovation in a responsible manner, particularly in artificial intelligence (AI), rather than stifling it.",
-        "content": "New Delhi:\nFinance Minister Nirmala Sitharaman on Monday emphasised the need for regulations that foster technology innovation in a responsible manner, particularly in artificial intelligence (AI), rather than stifling it.\nThe government is determine... [1798 chars]",
-        "url": "https://www.ndtv.com/india-news/nirmala-sitharaman-says-regulations-should-foster-innovations-not-wipe-them-out-9279003",
-        "image": "https://c.ndtvimg.com/2025-09/e8n1aq5s_nirmala-sitharaman_625x300_04_September_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2025-09-15T07:44:25Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "cf697496f5c745268c9a283ebe350c2a",
-        "title": "Kardvin Unveils a New Era for E-commerce by Bridging the Real World and the Metaverse",
-        "description": "Kardvin is a new e-commerce platform with a bold vision: to create a centralized hub that seamlessly connects offline and online retail. By leveraging blockchain technology and artificial intelligence, the company aims to merge the physical and virtual worlds, allowing real-world assets to be transferred directly into a digital metaverse. The platform’s core offering is […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nKardvin is a new e-commerce platform with a bold vision: to create a centralized hub that seamlessly connects offline and online retail. By leveraging blockchain technology and artificial intelligence, the company aims t... [1841 chars]",
-        "url": "https://techbullion.com/kardvin-unveils-a-new-era-for-e-commerce-by-bridging-the-real-world-and-the-metaverse/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/09/IMAGE-1-1000x474.jpg",
-        "publishedAt": "2025-09-15T07:43:28Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "c2ed2f44f8a929cc3682a351aaa49f11",
-        "title": "AI to change the way we live and work so we have to become frontrunners in AI tech: Ashwini Vaishnaw",
-        "description": "Union Minister Ashwini Vaishnaw on Monday said that Artificial Intelligence (AI) is going to fundamentally change every aspect of life, stressing the importance for India to be among the frontrunners in developing and adopting AI technologies.",
-        "content": "New Delhi [India], September 15 (ANI): Union Minister Ashwini Vaishnaw on Monday said that Artificial Intelligence (AI) is going to fundamentally change every aspect of life, stressing the importance for India to be among the frontrunners in developi... [2702 chars]",
-        "url": "https://www.livemint.com/technology/tech-news/ai-to-change-the-way-we-live-and-work-so-we-have-to-become-frontrunners-in-ai-tech-ashwini-vaishnaw-11757918741058.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/tech3_1734536499109_1734536513984.jpg",
-        "publishedAt": "2025-09-15T06:45:40Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "de9b5ae3e2b4b5fcf0250bff7a163c13",
-        "title": "AI to change the way we live and work so we have to become frontrunners in AI tech: Ashwini Vaishnaw",
-        "description": "Union Minister Ashwini Vaishnaw on Monday said that Artificial Intelligence (AI) is going to fundamentally change every aspect of life, stressing the importance for India to be among the frontrunners in developing and adopting AI technologies.",
-        "content": "New Delhi [India], September 15 (ANI): Union Minister Ashwini Vaishnaw on Monday said that Artificial Intelligence (AI) is going to fundamentally change every aspect of life, stressing the importance for India to be among the frontrunners in developi... [2876 chars]",
-        "url": "https://www.tribuneindia.com/news/business/ai-to-change-the-way-we-live-and-work-so-we-have-to-become-frontrunners-in-ai-tech-ashwini-vaishnaw/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkyMDUzYzMwLTkxZmYtMTFmMC04NDliLWQxMWMzZjNiMjVlNy5qcGc=",
-        "publishedAt": "2025-09-15T06:45:18Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
         }
     }
 ]
