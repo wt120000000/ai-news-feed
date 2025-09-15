@@ -1,5 +1,21 @@
 [
     {
+        "id": "92bea01df500f9c51344c4ea52c61620",
+        "title": "AI could use online images as a backdoor into your computer, alarming new study suggests",
+        "description": "Artificial-intelligence agents — touted as AI's next wave — could be vulnerable to malicious code hidden in innocent-looking images on your computer screen",
+        "content": "A website announces, \"Free celebrity wallpaper!\" You browse the images. There's Selena Gomez, Rihanna and Timothée Chalamet — but you settle on Taylor Swift. Her hair is doing that wind-machine thing that suggests both destiny and good conditioner. Y... [7580 chars]",
+        "url": "https://www.livescience.com/technology/artificial-intelligence/ai-could-use-online-images-as-a-backdoor-into-your-computer-alarming-new-study-suggests",
+        "image": "https://cdn.mos.cms.futurecdn.net/hb89B7aMthcdUR3mfh89FX.jpg",
+        "publishedAt": "2025-09-14T18:33:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6534c1541b974602cc2ed040c2e4038f",
+            "name": "Livescience.com",
+            "url": "https://www.livescience.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "7046dc36cc1ff3cbf7c29c90c6c1d6bd",
         "title": "Fi Box Office Hit About Artificial Intelligence",
         "description": "Denzel Washington was once offered the lead role in this sci-fi box office hit about artificial intelligence, but turned it down for a valid reason.",
@@ -140,22 +156,6 @@
             "id": "93a4f054e09bde095cda5265e575a952",
             "name": "Telegraph India",
             "url": "https://www.telegraphindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "80fea7a60dbaea94111b1cc4857fc40e",
-        "title": "Par Panel Urges Govt To Develop Legal, Tech Solutions To Act Against Those Behind AI-Based Fake News",
-        "description": "NEW DELHI, Sept 14:  A parliamentary committee has asked the Government to develop concrete legal and technological solutions for identifying and prosecuting individuals and entities responsible for spreading Artificial Intelligence-generated fake news.   The Standing Committee on Communications and Information Technology, in its draft report, called for a balanced approach for deploying AI to curb fake news, noting that the technology is being used to detect misinformation but can be a source of misinformation as well. The draft report of […]",
-        "content": "By\nDaily Excelsior\n-\nNEW DELHI, Sept 14: A parliamentary committee has asked the Government to develop concrete legal and technological solutions for identifying and prosecuting individuals and entities responsible for spreading Artificial Intelligen... [3157 chars]",
-        "url": "https://www.dailyexcelsior.com/par-panel-urges-govt-to-develop-legal-tech-solutions-to-act-against-those-behind-ai-based-fake-news/",
-        "image": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2021/10/FAKE-NEWS.jpg",
-        "publishedAt": "2025-09-14T12:16:06Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
             "country": "in"
         }
     }
