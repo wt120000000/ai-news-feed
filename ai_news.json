@@ -1,5 +1,37 @@
 [
     {
+        "id": "b99a3010ae92fbfa23e515c6bffc4c57",
+        "title": "Semiconductor, AI infra to get big chunk of new tech fund",
+        "description": "The IDTA was launched on September 2, at Semicon India 2025, to mobilise private capital and expertise for deep tech companies in India and foster US-India collaboration in sectors such as semiconductors, artificial intelligence (AI) and space. Founded by venture capital and private equity firms from both countries, it aims to spur investment with an initial capital commitment of $1 billion.",
+        "content": "Synopsis\nThe IDTA was launched on September 2, at Semicon India 2025, to mobilise private capital and expertise for deep tech companies in India and foster US-India collaboration in sectors such as semiconductors, artificial intelligence (AI) and spa... [4698 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/semiconductors-ai-infra-likely-to-get-big-chunk-of-1-billion-idta-fund-celestas-sriram-viswanathan/articleshow/123884513.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-58246,resizemode-75,msid-123884513/tech/technology/semiconductors-ai-infra-likely-to-get-big-chunk-of-1-billion-idta-fund-celestas-sriram-viswanathan.jpg",
+        "publishedAt": "2025-09-15T00:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "73da1ef37f9f295d6ba0da6353d775b1",
+        "title": "Parl Panel for action in AI-based fake news",
+        "description": "NEW DELHI, Sept 14: A Parliamentary Committee has asked the Government to develop concrete legal and technological solutions for identifying and prosecuting individuals and entities responsible for spreading Artificial Intelligence-generated fake news. Follow the Daily Excelsior channel on WhatsApp   The Standing Committee on Communications and Information Technology, in its draft report, called for a balanced approach for deploying AI to curb fake news, noting that the technology is being used to detect misinformation but can be a source of misinformation […]",
+        "content": "NEW DELHI, Sept 14:\nA Parliamentary Committee has asked the Government to develop concrete legal and technological solutions for identifying and prosecuting individuals and entities responsible for spreading Artificial Intelligence-generated fake new... [1353 chars]",
+        "url": "https://www.dailyexcelsior.com/parl-panel-for-action-in-ai-based-fake-news/",
+        "image": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/09/fake-newsss.jpg",
+        "publishedAt": "2025-09-14T23:37:00Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "414e9d0b55a6a84e013f6cf67b32f38d",
         "title": "Zheng Yongnian on why China must look beyond the West to build a better AI",
         "description": "Political analyst says strong narrative based on factual Chinese framework must be included in artificial intelligence knowledge feed.",
@@ -125,38 +157,6 @@
             "name": "/FILM",
             "url": "https://www.slashfilm.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "1218550c59a25f92bbacc12dd04c6bbe",
-        "title": "I Tried the New Gemini 2.5-Powered AI Image Generator: Is Nano Banana Worth the Hype?",
-        "description": "The world of artificial intelligence is moving at a breakneck pace, and nowhere is this more visually apparent than in the realm of AI image generation. We’ve all seen the hyper-realistic portraits and fantastical landscapes conjured from simple text prompts by giants like Midjourney and DALL-E. But the market is far from settled. A new […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nThe world of artificial intelligence is moving at a breakneck pace, and nowhere is this more visually apparent than in the realm of AI image generation. We’ve all seen the hyper-realistic portraits and fantastical landsc... [7252 chars]",
-        "url": "https://techbullion.com/i-tried-the-new-gemini-2-5-powered-ai-image-generator-is-nano-banana-worth-the-hype/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/09/Screenshot-2025-09-14-211534.png",
-        "publishedAt": "2025-09-14T16:16:47Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "aff5c43fa59c33b5165fdbeb1b293554",
-        "title": "HMRC is spying on UK households' social media accounts for 'inconsistencies'",
-        "description": "HMRC may be able to target fraudsters using artificial intelligence to scan social media profiles for 'inconsistencies', experts are warning.",
-        "content": "HMRC may be able to target fraudsters using artificial intelligence to scan social media profiles for 'inconsistencies', experts are warning.\nHMRC is using AI to spot tax cheats by picking out social media \"inconsistencies\". HMRC may be able to targe... [2120 chars]",
-        "url": "https://www.birminghammail.co.uk/news/cost-of-living/hmrc-spying-uk-households-social-32406638",
-        "image": "https://i2-prod.birminghammail.co.uk/article32406688.ece/ALTERNATES/s1200/0_hmrc3.jpg",
-        "publishedAt": "2025-09-14T14:51:00Z",
-        "lang": "en",
-        "source": {
-            "id": "cc0de8416f75329df7c88d7524745d12",
-            "name": "Birmingham Live",
-            "url": "https://www.birminghammail.co.uk",
-            "country": "gb"
         }
     }
 ]
