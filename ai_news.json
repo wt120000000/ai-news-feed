@@ -1,5 +1,37 @@
 [
     {
+        "id": "9ba9e7a8c545b641b7c7e6af9311b239",
+        "title": "AI startup Krutrim faces reality check",
+        "description": "India Business News: BENGALURU: What was once billed as India's challenger to global giants in artificial intelligence and semiconductors has quietly dwindled into a shado.",
+        "content": "BENGALURU: What was once billed as India's challenger to global giants in artificial intelligence and semiconductors has quietly dwindled into a shadow of those ambitions. Krutrim, the AI venture founded by Ola's Bhavish Aggarwal, is now largely sust... [3778 chars]",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/ai-startup-krutrim-faces-reality-check/articleshow/123908669.cms",
+        "image": "https://static.toiimg.com/thumb/msid-123908678,width-1070,height-580,imgsize-5736,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2025-09-15T21:16:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b31904c45b85d779fe608246767be463",
+        "title": "Analysts See over 20% Upside in These 3 Quantum Computing Stocks - 9/15/2025",
+        "description": "Quantum computing, though still in its early stages, is expected to be the next big revolution after artificial intelligence. This emerging tech...",
+        "content": "Quantum computing, though still in its early stages, is expected to be the next big revolution after artificial intelligence. This emerging technology can tackle complex problems more quickly than traditional computers due to its ability to process i... [2647 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/analysts-see-over-20-upside-in-these-3-quantum-computing-stocks-9-15-2025-1035150056",
+        "image": "https://markets.businessinsider.com/favicon-32x32.png",
+        "publishedAt": "2025-09-15T21:07:56Z",
+        "lang": "en",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Markets Insider",
+            "url": "https://markets.businessinsider.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f65b8fdaf49d968d135c191ec02eb7fd",
         "title": "Regulation has to keep pace with AI adoption: Sitharaman",
         "description": "India Business News: NEW DELHI: Finance minister Nirmala Sitharaman said on Monday that regulation has to keep pace with the adoption of AI. \\\"Artificial intelligence is no.",
@@ -125,38 +157,6 @@
             "name": "Salon",
             "url": "https://www.salon.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "1e11b3a459a3e1a6912c5d3fd0805d5d",
-        "title": "How Artificial Intelligence Is Revolutionizing Emergency Medicine",
-        "description": "From triage algorithms to digital twins, artificial intelligence is reshaping emergency care, delivering faster decisions, smarter workflows, and raising vital questions about trust, transparency, and regulation.",
-        "content": "Introduction\nApplications of AI in emergency medicine\nBenefits of AI in emergency care\nChallenges and limitations\nConclusions\nReferences\nFurther reading\nArtificial intelligence is transforming emergency medicine by enhancing triage, diagnosis, and re... [11831 chars]",
-        "url": "https://www.news-medical.net/health/How-Artificial-Intelligence-Is-Revolutionizing-Emergency-Medicine.aspx",
-        "image": "https://www.news-medical.net/images/Article_Images/ImageForArticle_26563_17577801986219753.jpg",
-        "publishedAt": "2025-09-15T16:07:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "f160bd99c3a9a8c964fb7b1d957d6da5",
-        "title": "OpenAI makes $300 billion gamble on Oracle computing power to expand artificial intelligence capacity",
-        "description": "ChatGPT maker will owe Oracle an average of $60 billion annually",
-        "content": "OpenAI signs $300 billion Oracle contract starting in 2027 to expand AI capacity\nOracle shares jump over 40 percent after reporting $317 billion in future revenue\nDeal raises risks as OpenAI loses money and Oracle takes on heavy debt\nOpenAI has signe... [2123 chars]",
-        "url": "https://www.techradar.com/pro/openai-bets-usd300-billion-on-oracle-contract-to-power-artificial-intelligence-expansion-despite-ongoing-losses",
-        "image": "https://cdn.mos.cms.futurecdn.net/mM83Xkwt7BYgfzSHfSX755.jpg",
-        "publishedAt": "2025-09-15T16:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "76684855c5d801b81fd06490668d04fe",
-            "name": "TechRadar",
-            "url": "https://www.techradar.com",
-            "country": "au"
         }
     }
 ]
