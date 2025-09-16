@@ -1,5 +1,21 @@
 [
     {
+        "id": "bcf0834cb85469bdb43c55b929f1f05f",
+        "title": "Writing by hand!?: Teachers are going old-school in the fight against AI",
+        "description": "Educators are turning back to blue books to battle the threat of artificial intelligence eroding creativity",
+        "content": "I’m waiting on a call back from someone at the Roaring Spring paper company in Roaring Spring, Pennsylvania that probably isn’t coming. I get it; they’re busy. As the school year begins, the biggest manufacturer of blue books in the United States is ... [10396 chars]",
+        "url": "https://www.salon.com/2025/09/15/writing-by-hand-teachers-are-going-old-school-in-the-fight-against-ai/",
+        "image": "https://www.salon.com/app/uploads/2025/09/college-writing-by-hand-1470097245.jpg",
+        "publishedAt": "2025-09-15T16:30:30Z",
+        "lang": "en",
+        "source": {
+            "id": "d64c9f761b22764bd19004c3945d6428",
+            "name": "Salon",
+            "url": "https://www.salon.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "1e11b3a459a3e1a6912c5d3fd0805d5d",
         "title": "How Artificial Intelligence Is Revolutionizing Emergency Medicine",
         "description": "From triage algorithms to digital twins, artificial intelligence is reshaping emergency care, delivering faster decisions, smarter workflows, and raising vital questions about trust, transparency, and regulation.",
@@ -140,22 +156,6 @@
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d2ed773e0e4fec1bab7107868a9499a1",
-        "title": "Alphabet market cap crosses $3 trillion! Shares hit record highs; cloud growth and AI bets lift sentiment",
-        "description": "International Business News: Alphabet's market value has surpassed $3 trillion. This milestone follows gains in share value. Optimism surrounding artificial intelligence is a fact",
-        "content": "Alphabet's market value has surpassed $3 trillion. This milestone follows gains in share value. Optimism surrounding artificial intelligence is a factor. A US judge allowed Alphabet to retain control of Chrome and Android. This is a pivotal ruling. C... [1102 chars]",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/alphabet-market-cap-crosses-3-trillion-shares-hit-record-highs-cloud-growth-and-ai-bets-lift-sentiment/articleshow/123903867.cms",
-        "image": "https://static.toiimg.com/thumb/msid-123903865,width-1070,height-580,imgsize-1379897,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-09-15T14:47:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     }
