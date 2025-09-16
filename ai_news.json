@@ -1,5 +1,37 @@
 [
     {
+        "id": "a55ace75fd788323da2a2f25a13be0c6",
+        "title": "UK smartphone company Nothing valued at $1.3bn after fundraising",
+        "description": "The company’s co-founder Carl Pei plans to increase investment in artificial intelligence products",
+        "content": "Pei said that the fundraising would allow Nothing to accelerate product innovation and deepen investment into AI-native products.\nThe Series C funding round was led by Tiger Global, with support from existing shareholders such as Google’s venture cap... [1602 chars]",
+        "url": "https://www.thetimes.com/business-money/technology/article/uk-smartphone-company-nothing-valued-at-13bn-after-fundraising-s9nftx8km",
+        "image": "https://www.thetimes.com/imageserver/image/%2Fd4ffc19d-22ae-45c3-9d74-3d662c8269b1.jpg?crop=7900%2C4444%2C81%2C0&resize=1200",
+        "publishedAt": "2025-09-16T04:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "b419a989918b3665a34559f5047546b6",
+            "name": "The Sunday Times",
+            "url": "https://www.thetimes.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "d8dcc4bbfec78c550b594e5eac56984b",
+        "title": "Elon Goes All in For a Billion. What Does it Mean for Robotaxi?",
+        "description": "Brian WangBrian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a ... Read more",
+        "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial I... [540 chars]",
+        "url": "https://www.nextbigfuture.com/2025/09/elon-goes-all-in-for-a-billion-what-does-it-mean-for-robotaxi.html",
+        "image": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/09/Screenshot-2025-09-15-at-8.21.34-PM.jpg",
+        "publishedAt": "2025-09-16T03:23:33Z",
+        "lang": "en",
+        "source": {
+            "id": "21cef40ac6c3ef9110c7f509a6f6e7f6",
+            "name": "NextBigFuture.com",
+            "url": "https://www.nextbigfuture.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "cdbe72649aa6ce46642e20d2ba85d51f",
         "title": "Australia wants 'minimally invasive' age checks under teen social media ban",
         "description": "SYDNEY - Australia urged social media platforms on Tuesday to employ \\\"minimally invasive\\\" methods to check the age of users covered by its world-first teen social media ban, which take into account artificial intelligence (AI) and behavioural data. Read more at straitstimes.com.",
@@ -124,38 +156,6 @@
             "id": "c8c865ed042eb14694b8d596e22efe99",
             "name": "Spokane Spokesman-Review",
             "url": "https://www.spokesman.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "cf00c455a6707ce4c60acf7eca26fbfa",
-        "title": "Lazaro to engage in dialogues on key issues at UN General Assembly",
-        "description": "Foreign Affairs Secretary Theresa Lazaro will participate in high-level discussions on critical issues, including artificial intelligence, climate",
-        "content": "Foreign Affairs Secretary Theresa Lazaro will participate in high-level discussions on critical issues, including artificial intelligence, climate financing, migration, biodiversity, and maritime security at the upcoming United Nations General Assemb... [1744 chars]",
-        "url": "https://manilastandard.net/news/314643441/lazaro-to-engage-in-dialogues-on-key-issues-at-un-general-assembly.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/09/un-general-assembly-new-york.jpg",
-        "publishedAt": "2025-09-16T02:19:48Z",
-        "lang": "en",
-        "source": {
-            "id": "e9207083a357fb7e76b38e485888ebe7",
-            "name": "manilastandard.net",
-            "url": "https://manilastandard.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "6fb2b5389cc3baf96589493c5778c34c",
-        "title": "CNBC Daily Open: Surge in most tech lifts the S&P 500 beyond 6,600 level",
-        "description": "Alphabet has artificial intelligence to thank for its inclusion in the $3 trillion valuation club. But it's not because Alphabet is excelling in AI.",
-        "content": "Congratulations are due to Alphabet for joining the $3 trillion club, to which only Apple , Microsoft and Nvidia have memberships. The Google parent has artificial intelligence —what else? — to thank for its inclusion in that rarefied space.\nIronical... [2155 chars]",
-        "url": "https://www.cnbc.com/2025/09/16/cnbc-daily-open-surge-in-most-tech-lifts-the-sp-500-beyond-6600-level.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108198799-17579466992025-02-11t084316z_788639167_rc28sca9ziz6_rtrmadp_0_ai-summit.jpeg?v=1757946732&w=1920&h=1080",
-        "publishedAt": "2025-09-16T01:15:26Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
             "country": "us"
         }
     }
