@@ -1,5 +1,37 @@
 [
     {
+        "id": "b282f916850f7518c72d9a475d7d11dc",
+        "title": "New initiative targets nationwide AI adoption",
+        "description": "Three state agencies have launched a project to bring artificial intelligence (AI) access to small and medium-sized enterprises (SMEs), micro-retailers, street vendors and farmers, initially targeting 15,600 businesses and individuals by 2026.",
+        "content": "Three state agencies have launched a project to bring artificial intelligence (AI) access to small and medium-sized enterprises (SMEs), micro-retailers, street vendors and farmers, initially targeting 15,600 businesses and individuals by 2026.\nThe \"O... [3474 chars]",
+        "url": "https://www.bangkokpost.com/business/general/3105138/new-initiative-targets-nationwide-ai-adoption",
+        "image": "https://static.bangkokpost.com/media/content/20250916/c1_3105138_250916054812_700.jpg",
+        "publishedAt": "2025-09-15T22:14:00Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
+        "id": "6aa148dbb4c74f419de21dc4da71a0d7",
+        "title": "How AI Is Upending Politics, Tech, the Media, and More",
+        "description": "At WIRED's AI Power Summit Monday, industry executives and officials discussed the impact artificial intelligence is having on every corner of society—and where it goes from here.",
+        "content": "Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America\nWIRED talks to the director of the Chilean National Center for Artificial Intelligence about Latam-GPT, the large-language model that aims to address the region’s specific needs ... [1785 chars]",
+        "url": "https://www.wired.com/story/wired-ai-summit-tech-politics-media/",
+        "image": "https://media.wired.com/photos/68c86db22eb1f38f93ca5ecb/191:100/w_1280,c_limit/WIRED-AI-Summit-Roundup-Business-2235586965.jpg",
+        "publishedAt": "2025-09-15T21:54:25Z",
+        "lang": "en",
+        "source": {
+            "id": "b683218c3952d77a76b7bda7512f2f6e",
+            "name": "WIRED",
+            "url": "https://www.wired.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "9ba9e7a8c545b641b7c7e6af9311b239",
         "title": "AI startup Krutrim faces reality check",
         "description": "India Business News: BENGALURU: What was once billed as India's challenger to global giants in artificial intelligence and semiconductors has quietly dwindled into a shado.",
@@ -124,38 +156,6 @@
             "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
             "name": "TechStartups.com",
             "url": "https://techstartups.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "28c1ca02fd653dd90e63ece767b310b0",
-        "title": "Finding your perfect match: The HP AI PC lineup made simple for consumers",
-        "description": "Artificial intelligence has officially passed “buzzword” status as it continues transforming the way we work and create. Now, the rise of AI PCs marks a turning point in personal computing to meet people where they are – whether they’re learning, creating, hustling, streaming, coding, or gaming. Consumers today are students, entrepreneurs, freelancers, and small business […]",
-        "content": "Artificial intelligence has officially passed “buzzword” status as it continues transforming the way we work and create. Now, the rise of AI PCs marks a turning point in personal computing to meet people where they are – whether they’re learning, cre... [4036 chars]",
-        "url": "https://www.digitaltrends.com/brc/finding-your-perfect-match-the-hp-ai-pc-lineup-made-simple-for-consumers/",
-        "image": "https://www.digitaltrends.com/wp-content/uploads/2025/09/HP1.jpg?resize=1200%2C630&p=1",
-        "publishedAt": "2025-09-15T17:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a11116890ae17f53bebab1bc67660326",
-            "name": "Digital Trends",
-            "url": "https://www.digitaltrends.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "bcf0834cb85469bdb43c55b929f1f05f",
-        "title": "Writing by hand!?: Teachers are going old-school in the fight against AI",
-        "description": "Educators are turning back to blue books to battle the threat of artificial intelligence eroding creativity",
-        "content": "I’m waiting on a call back from someone at the Roaring Spring paper company in Roaring Spring, Pennsylvania that probably isn’t coming. I get it; they’re busy. As the school year begins, the biggest manufacturer of blue books in the United States is ... [10396 chars]",
-        "url": "https://www.salon.com/2025/09/15/writing-by-hand-teachers-are-going-old-school-in-the-fight-against-ai/",
-        "image": "https://www.salon.com/app/uploads/2025/09/college-writing-by-hand-1470097245.jpg",
-        "publishedAt": "2025-09-15T16:30:30Z",
-        "lang": "en",
-        "source": {
-            "id": "d64c9f761b22764bd19004c3945d6428",
-            "name": "Salon",
-            "url": "https://www.salon.com",
             "country": "us"
         }
     }
