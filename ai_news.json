@@ -1,5 +1,37 @@
 [
     {
+        "id": "ba1b66c1b7bf4fc6ec7aab65771d1110",
+        "title": "Lila Sciences secures $235m Series A to advance autonomous science platform",
+        "description": "Lila Sciences has raised $235 million in a Series A funding round co-led by Braidwell and Collective Global to build an artificial intelligence-driven platform designed to automate the scientific method",
+        "content": "Credit: Gorodenkoff/Shutterstock\nLila Sciences has raised $235 million in a Series A funding round co-led by Braidwell and Collective Global to build an artificial intelligence-driven platform designed to automate the scientific method\nRegister for F... [503 chars]",
+        "url": "https://www.scientific-computing.com/article/lila-sciences-secures-235m-series-advance-autonomous-science-platform",
+        "image": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
+        "publishedAt": "2025-09-16T07:11:49Z",
+        "lang": "en",
+        "source": {
+            "id": "63fec970d50112ee9b8bc1418d9c5872",
+            "name": "Scientific Computing World",
+            "url": "https://www.scientific-computing.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "0f51320374b17f1737629a875632b38a",
+        "title": "CNBC Daily Open: Falling behind in AI is still good for Google",
+        "description": "Alphabet has artificial intelligence to thank for its inclusion in the $3 trillion valuation club. But it's not because Alphabet is excelling in AI.",
+        "content": "Congratulations are due to Alphabet for joining the $3 trillion valuation club, to which only Apple , Microsoft and Nvidia have memberships. The Google parent has artificial intelligence —what else? — to thank for its inclusion in that rarefied space... [2925 chars]",
+        "url": "https://www.cnbc.com/2025/09/16/cnbc-daily-open-falling-behind-in-ai-is-still-good-for-google-.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108198796-1757946596020-gettyimages-2218001209-BLOOMBERG_TECH.jpeg?v=1757946638&w=1920&h=1080",
+        "publishedAt": "2025-09-16T06:30:01Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "44639b2cd3a6765f54984ad17c1fbe38",
         "title": "Unlocking AI Creativity with Seedream 4.0: ByteDance’s Next-Gen Image Editor",
         "description": "Artificial Intelligence is no longer just a supporting tool for creativity—it has become a central force in shaping how we design, communicate, and visualize ideas. From marketing teams looking to streamline workflows to independent artists searching for fresh inspiration, AI-driven tools are quickly becoming essential. Among the latest innovations, Seedream 4.0 stands out as a […]",
@@ -125,38 +157,6 @@
             "name": "Malayala Manorama",
             "url": "https://www.onmanorama.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "8a5e682bf77542912708540e180e4e61",
-        "title": "OpenAI hires former xAI CFO Mike Liberatore as business finance officer",
-        "description": "OpenAI has hired Mike Liberatore, former finance chief at Elon Musk's xAI, to be the artificial intelligence startup's business finance officer, responsible for overseeing its AI infrastructure, a company spokesperson told Reuters on Tuesday.",
-        "content": "Sept 16 (Reuters) - OpenAI has hired Mike Liberatore, former finance chief at Elon Musk's xAI, to be the artificial intelligence startup's business finance officer, responsible for overseeing its AI infrastructure, a company spokesperson told Reuters... [779 chars]",
-        "url": "https://www.reuters.com/business/openai-hires-former-xai-cfo-mike-liberatore-business-finance-officer-2025-09-16/",
-        "image": "https://www.reuters.com/resizer/v2/FCBALBQAUNPOVCY2QVEJL4F5VY.jpg?auth=052e7d60a1a5bc76390a519895894e45d0df735823c1616a8149080d2c0f08e6&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-09-16T04:48:36Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "07b5d5d31858eb1d859f4fd7a1c25a14",
-        "title": "Google to Invest £5 Billion to Boost AI Development in UK",
-        "description": "Alphabet Inc.’s Google said it will invest £5 billion ($6.8 billion) over two years in the UK to help build an artificial intelligence economy in the country.",
-        "content": "Alphabet Inc.’s Google said it will invest £5 billion ($6.8 billion) over two years in the UK to help build an artificial intelligence economy in the country.\nThe tech giant disclosed the plan just as US President Donald Trump is set to announce econ... [284 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-09-16/google-to-invest-5-billion-to-boost-ai-development-in-uk",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLrsQcTlT3ME/v0/1200x800.jpg",
-        "publishedAt": "2025-09-16T04:44:19Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
         }
     }
 ]
