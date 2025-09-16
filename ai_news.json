@@ -1,5 +1,53 @@
 [
     {
+        "id": "9525e486e69d9d5b2a4f21fb3bf94802",
+        "title": "A cognitive psychologist explains how AI affects the way we learn",
+        "description": "Early research is beginning to reveal how artificial intelligence will impact learning and cognition over time.",
+        "content": "When OpenAI released “study mode” in July 2025, the company touted ChatGPT’s educational benefits. “When ChatGPT is prompted to teach or tutor, it can significantly improve academic performance,” the company’s vice president of education told reporte... [7596 chars]",
+        "url": "https://www.fastcompany.com/91401800/cognitive-psychologist-explains-how-ai-affects-way-we-learn",
+        "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2025/09/p-91401800-how-AI-affects-how-we-learn.jpg",
+        "publishedAt": "2025-09-15T15:04:09Z",
+        "lang": "en",
+        "source": {
+            "id": "5ac5f32ba74846cef441099f666f2d98",
+            "name": "Fast Company",
+            "url": "https://www.fastcompany.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "93e8c4f9aec3454c9f4c49c1a04e233f",
+        "title": "Blackstone to buy Pennsylvania power plant",
+        "description": "Blackstone said on Monday it has agreed to buy a natural gas plant in Western Pennsylvania for nearly $1 billion, as the investment firm bets on rising U.S. electricity demand to power artificial intelligence technologies.",
+        "content": "Blackstone said on Monday it has agreed to buy a natural gas plant in Western Pennsylvania for nearly $1 billion, as the investment firm bets on rising U.S. electricity demand to power artificial intelligence technologies.\nU.S. power demand is projec... [1003 chars]",
+        "url": "https://www.cp24.com/news/money/2025/09/15/blackstone-to-buy-pennsylvania-power-plant-for-about-us1-billion/",
+        "image": "https://www.cp24.com/resizer/v2/6MICAUFFBJHWHOPYOC6QROCEA4.jpg?smart=true&auth=5ab172a4be6435f17c753f71f663e83bec70bcd3c6a54329a69046594a65b933&width=1200&height=630",
+        "publishedAt": "2025-09-15T15:02:15Z",
+        "lang": "en",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "443bbbc0e4a2472612cbcd0f7e415b32",
+        "title": "Blackstone to buy Pennsylvania power plant",
+        "description": "Blackstone said on Monday it has agreed to buy a natural gas plant in Western Pennsylvania for nearly $1 billion, as the investment firm bets on rising U.S. electricity demand to power artificial intelligence technologies.",
+        "content": "Blackstone said on Monday it has agreed to buy a natural gas plant in Western Pennsylvania for nearly $1 billion, as the investment firm bets on rising U.S. electricity demand to power artificial intelligence technologies.\nU.S. power demand is projec... [1003 chars]",
+        "url": "https://www.bnnbloomberg.ca/business/company-news/2025/09/15/blackstone-to-buy-pennsylvania-power-plant-for-about-us1-billion/",
+        "image": "https://www.bnnbloomberg.ca/resizer/v2/6MICAUFFBJHWHOPYOC6QROCEA4.jpg?smart=true&auth=5ab172a4be6435f17c753f71f663e83bec70bcd3c6a54329a69046594a65b933&width=1200&height=630",
+        "publishedAt": "2025-09-15T15:02:15Z",
+        "lang": "en",
+        "source": {
+            "id": "1b697445987e8a33f6c82842e17d60d9",
+            "name": "Bnn Bloomberg",
+            "url": "https://www.bnnbloomberg.ca",
+            "country": "ca"
+        }
+    },
+    {
         "id": "df0f0f769d814a1f61ec1d9d0c9f19dd",
         "title": "Google-parent Alphabet hits US$3 trillion in market capitalization",
         "description": "Google-parent Alphabet hit a market capitalization of $3 trillion for the first time on Monday, riding on renewed optimism around artificial intelligence and a favorable antitrust ruling.",
@@ -96,22 +144,6 @@
         }
     },
     {
-        "id": "cdf782cba4c8223bdf1e5a37db5cb7b1",
-        "title": "AI could add $1.9 trillion to Indian economy by 2035: NITI Aayog",
-        "description": "AI could add $1.9 trillion to Indian economy by 2035: NITI Aayog - New Delhi, Sep 15 Artificial Intelligence has the power to transform India’s economic growth in the coming decade ... Get Latest News on National only on lokmattimes.com",
-        "content": "New Delhi, Sep 15 Artificial Intelligence has the power to transform India’s economic growth in the coming decade as it could add up to $1.9 trillion to the country’s economy by 2035, according to a new report by NITI Aayog on Monday.\nGlobally, AI ad... [2449 chars]",
-        "url": "https://www.lokmattimes.com/national/ai-could-add-19-trillion-to-indian-economy-by-2035-niti-aayog/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202509153511205_202509.jpg",
-        "publishedAt": "2025-09-15T13:55:58Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
-            "country": "in"
-        }
-    },
-    {
         "id": "012e5197eddd7d48733f53dcb1bc3128",
         "title": "AI could add $1.9 trillion to Indian economy by 2035: NITI Aayog",
         "description": "AI could add $1.9 trillion to Indian economy by 2035: NITI Aayog - New Delhi, Sep 15 Artificial Intelligence has the power to transform India’s economic growth in the coming decade ... Get Latest News on Business only on lokmattimes.com",
@@ -124,38 +156,6 @@
             "id": "f2ddccedc9e60d844e7a1045928cad48",
             "name": "Lokmat Times",
             "url": "https://www.lokmattimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "bf2042fde8f827fac84749b6c9812943",
-        "title": "Remote monitoring and artificial intelligence in treating patients with heart failure",
-        "description": "An artificial intelligence (AI) program created by Cedars-Sinai may reduce hospitalizations in people diagnosed with heart failure, a new study reports.",
-        "content": "An artificial intelligence (AI) program created by Cedars-Sinai may reduce hospitalizations in people diagnosed with heart failure, a new study reports.\nThe study, published in JACC: Heart Failure, included 50 people who had been diagnosed with a con... [1195 chars]",
-        "url": "https://medicalxpress.com/news/2025-09-remote-artificial-intelligence-patients-heart.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/home-blood-pressure-ch-1.jpg",
-        "publishedAt": "2025-09-15T13:30:08Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "134497096fa1fca42856fcd1065af4e2",
-        "title": "FinMin Stresses On Fostering Use of AI with Regulation",
-        "description": "She released Niti Aayog’s report on artificial intelligence titled AI for Viksit Bharat",
-        "content": "New Delhi: Union finance minister Nirmala Sitharaman on Monday emphasised the need for regulations that foster technology innovation in a responsible manner, particularly in artificial intelligence (AI), rather than stifling it. “We do not want regul... [3936 chars]",
-        "url": "https://www.deccanchronicle.com/nation/current-affairs/finmin-stresses-on-fostering-use-of-ai-with-regulation-1903880",
-        "image": "https://www.deccanchronicle.com/h-upload/2024/04/29/1086780-nirmalasitharaman.jpg",
-        "publishedAt": "2025-09-15T13:27:17Z",
-        "lang": "en",
-        "source": {
-            "id": "214d496d625fc657723cf4da80cff8ce",
-            "name": "Deccan Chronicle",
-            "url": "https://www.deccanchronicle.com",
             "country": "in"
         }
     }
