@@ -1,5 +1,21 @@
 [
     {
+        "id": "9c3a932eb07b919357be1fced6296bc5",
+        "title": "Some judges move beyond fines to keep lawyers' AI errors in check",
+        "description": "As more and more phony case citations and other artificial intelligence errors show up in legal filings, some judges are experimenting with alternatives to traditional court sanctions to deter lawyers from relying on chatbots and other AI tools without checking their work.",
+        "content": "Sept 16 (Reuters) - As more and more phony case citations and other artificial intelligence errors show up in legal filings, some judges are experimenting with alternatives to traditional court sanctions to deter lawyers from relying on chatbots and ... [2967 chars]",
+        "url": "https://www.reuters.com/legal/government/some-judges-move-beyond-fines-keep-lawyers-ai-errors-check-2025-09-16/",
+        "image": "https://www.reuters.com/resizer/v2/PQYIATF5UZPSXNAVJN2WJ566YU.jpg?auth=3d8629660ffaba233494fe5a6e55925fb47f96766714eb989a001f90b6453459&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-09-16T16:32:02Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "4d5b9d3251c8b57c02b5c909b10e9d22",
         "title": "How AI is undermining learning and teaching in universities",
         "description": "Letter: Prof Leo McCann and Prof Simon Sweeney say student misuse of generative artificial intelligence is widespread and we must be sceptical of its usefulness",
@@ -141,22 +157,6 @@
             "name": "Belfast Telegraph",
             "url": "https://www.belfasttelegraph.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "5312b8ff61d6889dbf534464d7096ae5",
-        "title": "Abu Dhabi’s MGX Joins Silver Lake in Deal for Intel’s Altera",
-        "description": "MGX, an Abu Dhabi-backed investment company focused on artificial intelligence, joined private equity firm Silver Lake Management LLC in a 51% acquisition of Intel Corp.’s Altera, which makes programmable chips.",
-        "content": "MGX, an Abu Dhabi-backed investment company focused on artificial intelligence, joined private equity firm Silver Lake Management LLC in a 51% acquisition of Intel Corp.’s Altera, which makes programmable chips.\nMGX announced its involvement Tuesday ... [267 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-09-16/abu-dhabi-s-mgx-joins-silver-lake-in-deal-for-intel-s-altera",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inreRyIlrKoU/v0/1200x799.jpg",
-        "publishedAt": "2025-09-16T15:41:30Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
         }
     }
 ]
