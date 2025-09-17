@@ -1,5 +1,69 @@
 [
     {
+        "id": "eb008b1cd4fd5af33257a2354e7dcecc",
+        "title": "UK agrees tech deal with the US as Trump arrives for state visit",
+        "description": "The “tech prosperity deal” will see the UK and US co-operate in areas including artificial intelligence, quantum computing and nuclear power. | ITV National News",
+        "content": "The UK and US have struck a tech deal which could bring billions of pounds of investment to Britain as President Donald Trump touches down for his state visit.\nThe \"tech prosperity deal\" will see co-operation between the two countries on areas such a... [2289 chars]",
+        "url": "https://www.itv.com/news/2025-09-16/uk-agrees-tech-deal-with-the-us-as-trump-arrives-for-state-visit",
+        "image": "https://images.ctfassets.net/pjshm78m9jt4/4wfTFAvObP61Hke3RJgHuI/fce7d52e91429dca83c00e38865443e5/FotoJet__27_.jpg?fm=jpg&fit=fill&w=1600&h=900&q=80",
+        "publishedAt": "2025-09-16T20:15:38Z",
+        "lang": "en",
+        "source": {
+            "id": "8058567c977e70457c45c65529cb9946",
+            "name": "ITV News",
+            "url": "https://www.itv.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "71e35e307aa683d380a704d4d6b8e3fa",
+        "title": "Disney, Warner Bros and NBCUniversal unite in lawsuit against Chinese AI firm",
+        "description": "Disney, Warner Bros Discovery, and NBCUniversal have taken a bold step by filing a lawsuit against Chinese artificial intelligence company MiniMax. The case, brought to a federal court in...",
+        "content": "Disney, Warner Bros Discovery, and NBCUniversal have taken a bold step by filing a lawsuit against Chinese artificial intelligence company MiniMax.\nThe case, brought to a federal court in California, accused the company of stealing some of Hollywood’... [1678 chars]",
+        "url": "https://www.thenews.com.pk/latest/1344171-disney-warner-bros-and-nbcuniversal-unite-in-lawsuit-against-chinese-ai-firm",
+        "image": "https://www.thenews.com.pk/assets/uploads/updates/2025-09-17/1344171_125932_updates.jpg",
+        "publishedAt": "2025-09-16T20:10:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "1cbbdb3fc0b2b0712fc912568fffb969",
+        "title": "As AI tools reshape education, schools struggle with how to draw the line on cheating",
+        "description": "The book report is now a thing of the past. Take-home tests and essays are becoming obsolete. High school and college educators around the country say student use of artificial intelligence has become so prevalent that to assign writing outside of the classroom is like asking students to cheat. “The…",
+        "content": "The book report is now a thing of the past. Take-home tests and essays are becoming obsolete.\nHigh school and college educators around the country say student use of artificial intelligence has become so prevalent that to assign writing outside of th... [7098 chars]",
+        "url": "https://japantoday.com/category/features/lifestyle/as-ai-tools-reshape-education-schools-struggle-with-how-to-draw-the-line-on-cheating",
+        "image": "https://media.japantoday.com/img/store/c1/6f/ac62cc8671038b935d06905bcf96ad76e1ca/download/_w1700.jpeg",
+        "publishedAt": "2025-09-16T20:10:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "594eadc5905ec9faab50953573f4447e",
+        "title": "AI-powered CRISPR could lead to faster gene therapies",
+        "description": "Stanford Medicine researchers have developed an artificial intelligence tool to help scientists better plan gene-editing experiments. The technology, CRISPR-GPT, acts as a gene-editing \"copilot\" supported by AI to help researchers—even those unfamiliar with gene editing—generate designs, analyze data and troubleshoot design flaws.",
+        "content": "Stanford Medicine researchers have developed an artificial intelligence tool to help scientists better plan gene-editing experiments. The technology, CRISPR-GPT, acts as a gene-editing \"copilot\" supported by AI to help researchers—even those unfamili... [6607 chars]",
+        "url": "https://medicalxpress.com/news/2025-09-ai-powered-crispr-faster-gene.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/gene-edit.jpg",
+        "publishedAt": "2025-09-16T19:26:05Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "832d6b5ad28382cf5c8738d11d88a4a0",
         "title": "Machine learning unravels quantum atomic vibrations in materials",
         "description": "Caltech scientists have developed an artificial intelligence (AI)–based method that dramatically speeds up calculations of the quantum interactions that take place in materials. In new work, the group focuses on interactions among atomic vibrations, or phonons—interactions that govern a wide range of material properties, including heat transport, thermal expansion, and phase transitions. The new machine learning approach could be extended to compute all quantum interactions, potentially enabling encyclopedic knowledge about how particles and excitations behave in materials.",
@@ -93,70 +157,6 @@
             "name": "News-Medical.net",
             "url": "https://www.news-medical.net",
             "country": "gb"
-        }
-    },
-    {
-        "id": "ef59cb60d8c628dc08dc80ce15cc711c",
-        "title": "Dow Jones AI Giant Nvidia Stock, Aerospace Leader Howmet Eye New Buy Points",
-        "description": "Dow Jones artificial intelligence giant Nvidia stock is approaching its latest buy point in the ongoing stock market rally.",
-        "content": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we ... [1013 chars]",
-        "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-nvidia-stock-nvda-buy-point/",
-        "image": "https://www.investors.com/wp-content/uploads/2025/04/Stock-Nvidia-DGXstation-04-company.jpg",
-        "publishedAt": "2025-09-16T18:13:09Z",
-        "lang": "en",
-        "source": {
-            "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-            "name": "Investor's Business Daily",
-            "url": "https://www.investors.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "840ac22ff0fd5e7be13a0f20ec50088a",
-        "title": "Disney, Universal, Warner Bros Sue Chinese AI Startup MiniMax",
-        "description": "Walt Disney Co., Comcast Corp.’s Universal Studios and Warner Bros. Discovery Inc. are suing Chinese artificial intelligence startup MiniMax, accusing the company of pirating the studios’ intellectual property. Founded in 2021, Shanghai-based MiniMax has created several generative AI models that run its companion apps, such as video and image editor Hailuo AI and Talkie, a chatbot that competes with Character.AI in the US",
-        "content": "Walt Disney Co., Comcast Corp.’s Universal Studios and Warner Bros. Discovery Inc. are suing Chinese artificial intelligence startup MiniMax, accusing the company of pirating the studios’ intellectual property.\nFounded in 2021, Shanghai-based MiniMax... [2889 chars]",
-        "url": "https://www.ndtvprofit.com/business/disney-universal-warner-bros-sue-chinese-ai-startup-minimax",
-        "image": "https://media.assettype.com/bloombergquint%2F2025-09-16%2Fugodqmbm%2Fgui-avelar-gJmEYe5Al9s-unsplash.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-09-16T18:12:14Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "53ac95869022330cba358b00bd9c4472",
-        "title": "AiMom: How Chelsea Rizzo Is Making Mompreneurship Easy",
-        "description": "Artificial intelligence isn’t just changing how corporations scale — it’s also reshaping entrepreneurship at the individual level.  For Chelsea Rizzo, founder of AiMom and Abundant Management, the opportunity is clear: put AI tools directly in the hands of moms building businesses, and you unlock one of the most resilient, creative, and under-supported groups of entrepreneurs […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence isn’t just changing how corporations scale — it’s also reshaping entrepreneurship at the individual level.\nFor Chelsea Rizzo, founder of AiMom and Abundant Management, the opportunity is clear: pu... [2905 chars]",
-        "url": "https://techbullion.com/aimom-how-chelsea-rizzo-is-making-mompreneurship-easy/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/09/chatgpt_image_sep_16_2025_09_13_19_am-1000x600.png",
-        "publishedAt": "2025-09-16T17:49:22Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "0e637f5b2da34a45ff658f76b065c3d0",
-        "title": "Govt designates enforcers of Artificial Intelligence Act",
-        "description": "The Government has designated the competent authorities which will be responsible for the enforcement of the EU Artificial Intelligence Act.",
-        "content": "The Government has designated the competent authorities which will be responsible for the enforcement of the EU Artificial Intelligence (AI) Act.\nThere are 15 authorities across various sectors including the Central Bank of Ireland, Coimisiún na Meán... [1260 chars]",
-        "url": "https://www.rte.ie/news/technology/2025/0916/1533834-eu-artificial-intelligence-act/",
-        "image": "https://www.rte.ie/images/001f0d93-1600.jpg",
-        "publishedAt": "2025-09-16T17:47:25Z",
-        "lang": "en",
-        "source": {
-            "id": "4c8b69bf547b577f84acbba5157b439c",
-            "name": "RTE.ie",
-            "url": "https://www.rte.ie",
-            "country": "ie"
         }
     }
 ]
