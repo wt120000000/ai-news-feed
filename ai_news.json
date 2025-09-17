@@ -1,5 +1,37 @@
 [
     {
+        "id": "41d44fd4b34c9b7cfa82bc3217e050bd",
+        "title": "Parents of teens who died by suicide after AI chatbot interactions testify to Congress",
+        "description": "Parents whose teenagers killed themselves after interactions with artificial intelligence chatbots testified to Congress on Tuesday about the dangers of the…",
+        "content": "Parents whose teenagers killed themselves after interactions with artificial intelligence chatbots testified to Congress on Tuesday about the dangers of the technology.\n“What began as a homework helper gradually turned itself into a confidant and the... [3682 chars]",
+        "url": "https://wtop.com/business-finance/2025/09/parents-of-teens-who-died-by-suicide-after-ai-chatbot-interactions-to-testify-to-congress/",
+        "image": "https://wtop.com/wp-content/uploads/2025/09/Chatbots_Teen_Safety_80088.jpg",
+        "publishedAt": "2025-09-16T22:39:05Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "24fbdb06455c5d75d382fe7fe138ac91",
+        "title": "Arm eyes Tieup with India to Widen AI Tech Reach",
+        "description": "Arm Holdings Plc, majority-owned by the SoftBank Group, marked a second consecutive quarter of $1 billion in revenue this year, as the Cambridge-based multinational gets increasingly termed as the artificial intelligence (AI) platform for everyone.",
+        "content": "Synopsis\nArm Holdings Plc, majority-owned by the SoftBank Group, marked a second consecutive quarter of $1 billion in revenue this year, as the Cambridge-based multinational gets increasingly termed as the artificial intelligence (AI) platform for ev... [6864 chars]",
+        "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/sep/17/et-front/arm-eyes-tieup-with-india-to-widen-ai-tech-reach/articleshow/123931602.cms",
+        "image": "https://img.etimg.com/thumb/msid-123932692,width-1200,height-630,imgsize-43106,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-09-16T22:21:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "7c6fc96821bbaaa27feaf1d37f8ec220",
         "title": "UK and US strike tech deal as Trump arrives for state visit",
         "description": "The ‘tech prosperity deal’ will see the UK and US co-operate in areas including artificial intelligence, quantum computing and nuclear power.",
@@ -124,38 +156,6 @@
             "id": "0a4c92a1a91d0994627a96e134064d69",
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "832d6b5ad28382cf5c8738d11d88a4a0",
-        "title": "Machine learning unravels quantum atomic vibrations in materials",
-        "description": "Caltech scientists have developed an artificial intelligence (AI)–based method that dramatically speeds up calculations of the quantum interactions that take place in materials. In new work, the group focuses on interactions among atomic vibrations, or phonons—interactions that govern a wide range of material properties, including heat transport, thermal expansion, and phase transitions. The new machine learning approach could be extended to compute all quantum interactions, potentially enabling encyclopedic knowledge about how particles and excitations behave in materials.",
-        "content": "Caltech scientists have developed an artificial intelligence (AI)–based method that dramatically speeds up calculations of the quantum interactions that take place in materials. In new work, the group focuses on interactions among atomic vibrations, ... [3597 chars]",
-        "url": "https://phys.org/news/2025-09-machine-unravels-quantum-atomic-vibrations.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2025/new-ai-technique-unrav.jpg",
-        "publishedAt": "2025-09-16T19:16:03Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "33ad92aee265b5468794363b8291864a",
-        "title": "An AI model can forecast harmful solar winds days in advance",
-        "description": "Scientists at NYU Abu Dhabi (NYUAD) have developed an artificial intelligence (AI) model that can forecast solar wind speeds up to four days in advance, significantly more accurately than current methods. The study is published in The Astrophysical Journal Supplement Series.",
-        "content": "Scientists at NYU Abu Dhabi (NYUAD) have developed an artificial intelligence (AI) model that can forecast solar wind speeds up to four days in advance, significantly more accurately than current methods. The study is published in The Astrophysical J... [1348 chars]",
-        "url": "https://phys.org/news/2025-09-ai-solar-days-advance.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2025/nyuad-scientists-use-a.jpg",
-        "publishedAt": "2025-09-16T19:08:05Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
             "country": "gb"
         }
     }
