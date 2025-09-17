@@ -1,5 +1,21 @@
 [
     {
+        "id": "7c6fc96821bbaaa27feaf1d37f8ec220",
+        "title": "UK and US strike tech deal as Trump arrives for state visit",
+        "description": "The ‘tech prosperity deal’ will see the UK and US co-operate in areas including artificial intelligence, quantum computing and nuclear power.",
+        "content": "The ‘tech prosperity deal’ will see the UK and US co-operate in areas including artificial intelligence, quantum computing and nuclear power.\nUS President Donald Trump and Prime Minister Sir Keir Starmer in the East Room at the White House in Februar... [6393 chars]",
+        "url": "https://www.standard.co.uk/news/tech/donald-trump-keir-starmer-labour-liz-kendall-government-b1248094.html",
+        "image": "https://static.standard.co.uk/2025/09/16/22/d100a4e47a96d09a0c09be7aee346b00Y29udGVudHNlYXJjaGFwaSwxNzU4MTExNjgx-2.79211246.jpg?width=1200&auto=webp&quality=75",
+        "publishedAt": "2025-09-16T21:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "e98e9648a83f865332ab00d9eab8cf1f",
+            "name": "Evening Standard",
+            "url": "https://www.standard.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "21d86e9bfac459586b62f543ac04cc02",
         "title": "Microsoft (MSFT) Announces Massive $30B AI Infrastructure Investment in the UK",
         "description": "Tech giant Microsoft (MSFT) announced a massive $30 billion investment in artificial intelligence infrastructure in the United Kingdom by 2028. ...",
@@ -141,22 +157,6 @@
             "name": "Phys.org",
             "url": "https://phys.org",
             "country": "gb"
-        }
-    },
-    {
-        "id": "994270478dea14d30b1a8662e5d5eb51",
-        "title": "Aussie businesses are risking data in race to use AI",
-        "description": "Small businesses are increasingly adopting artificial intelligence technology but many are exposing their own confidential information in free tools.",
-        "content": "One in three Australian businesses are using free artificial intelligence tools to boost their productivity, a report has found, and most are sharing confidential company data with the software despite the risks.\nHP and Microsoft revealed the trend i... [2520 chars]",
-        "url": "https://www.perthnow.com.au/news/business/aussie-businesses-are-risking-data-in-race-to-use-ai-c-20043736",
-        "image": "https://images.perthnow.com.au/publication/C-20043736/fc06a05a750e94425dfeb87b802a3f436e985f68-16x9-x0y0w1280h720.jpg?imwidth=1200",
-        "publishedAt": "2025-09-16T19:01:23Z",
-        "lang": "en",
-        "source": {
-            "id": "7f6e8514e9d8f8376aaa9a7229861518",
-            "name": "PerthNow",
-            "url": "https://www.perthnow.com.au",
-            "country": "au"
         }
     }
 ]
