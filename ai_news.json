@@ -1,5 +1,69 @@
 [
     {
+        "id": "e6711edb0d11516a5d106f54569918d4",
+        "title": "Artificial intelligence is not your friend",
+        "description": "But despite the industry’s bold claims, today’s data-based systems lack the capacity for moral reasoning required to guide real-world decision-making.",
+        "content": "Meta CEO Mark Zuckerberg and OpenAI’s Sam Altman have been aggressively promoting the idea that everyone — children included — should form relationships with AI “friends” or “companions.” Meanwhile, multinational tech companies are pushing the concep... [659 chars]",
+        "url": "https://www.japantimes.co.jp/commentary/2025/09/17/world/ai-is-not-your-friend/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/09/17/484751.jpg?v=3.1",
+        "publishedAt": "2025-09-17T07:01:49Z",
+        "lang": "en",
+        "source": {
+            "id": "4b9101ef61d45607a32072a7504f5fb0",
+            "name": "The Japan Times ",
+            "url": "https://www.japantimes.co.jp",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "c977315f9034c0a6dff6e4a2902381bf",
+        "title": "AI can predict complications from surgery better than doctors",
+        "description": "A new artificial intelligence model found previously undetected signals in routine heart tests that strongly predict which patients will suffer potentially deadly complications after surgery. The model significantly outperformed risk scores currently relied upon by doctors.",
+        "content": "A new artificial intelligence model found previously undetected signals in routine heart tests that strongly predict which patients will suffer potentially deadly complications after surgery. The model significantly outperformed risk scores currently... [3563 chars]",
+        "url": "https://medicalxpress.com/news/2025-09-ai-complications-surgery-doctors.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-predicts-complicati.jpg",
+        "publishedAt": "2025-09-17T07:00:02Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "77b72d0a230c0d8fcd4a870268230803",
+        "title": "Hong Kong's Ambitious Northern Metropolis Plan Boosts AI and Education Futures",
+        "description": "Amidst pressure to redefine itself, Hong Kong announces plans to expedite the Northern Metropolis project aimed at enhancing artificial intelligence and education sectors. The initiative seeks to bolster economic growth and maintain global competitiveness by creating jobs and housing, and diversifying its industrial strengths.",
+        "content": "Hong Kong is set to accelerate plans to develop its Northern Metropolis as a key economic hub close to mainland China. The city's leader, John Lee, aims to invigorate its economy with new industries such as artificial intelligence, and education, piv... [800 chars]",
+        "url": "https://www.devdiscourse.com/article/science-environment/3630925-hong-kongs-ambitious-northern-metropolis-plan-boosts-ai-and-education-futures",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/17_09_2025_06_51_23_2367217.png?width=920&format=jpeg",
+        "publishedAt": "2025-09-17T06:51:25Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "38c903fe00c0dc24fd4b7aecf2f280ac",
+        "title": "Meta expected to unveil new smart glasses at Connect event",
+        "description": "Meta is expected to unveil updated, artificial intelligence-powered smart glasses at its Connect developer conference kicking off on Wednesday as CEO Mark",
+        "content": "Meta is expected to unveil updated, artificial intelligence-powered smart glasses at its Connect developer conference kicking off on Wednesday as CEO Mark Zuckerberg continues to evangelize the glasses as the next step in human-computer interactions\n... [3015 chars]",
+        "url": "https://www.breitbart.com/news/meta-expected-to-unveil-new-smart-glasses-at-connect-event/",
+        "image": "https://media.breitbart.com/media/2025/09/wi/ap/meta-connect-40901-meta-connect-mark-zuckerberg-wears-pair-of-orion-ar-glasses-meta-connect-conference-640x335.jpg",
+        "publishedAt": "2025-09-17T06:40:39Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "7cfffa0e485602e940c1ae44c68411d8",
         "title": "China spotlights major data centre project using domestic chips",
         "description": "China Unicom has built a massive data centre powered by domestically developed artificial intelligence chips from Alibaba and other companies, state broadcaster CCTV said, as Beijing seeks to wean itself off foreign technologies.",
@@ -92,70 +156,6 @@
             "id": "c5725557f39c24c8b029ee39900a8406",
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "b8672e64557555393c96df1a812e77d4",
-        "title": "Most small businesses use AI tools such as ChatGPT daily, new survey reveals",
-        "description": "Nearly two-thirds of small enterprises view advances in artificial intelligence (AI) as an essential component to their business, according to research commissioned by LeanBPI.",
-        "content": "A survey of Irish firms found 62pc are now using AI chatbots such as ChatGPT and Gemini for multiple tasks on a daily basis, while 14pc do not use them at all and a further 13pc say they are not relevant to their business.\nLeanBPI is an Irish digital... [2003 chars]",
-        "url": "https://www.independent.ie/business/most-small-businesses-use-ai-tools-such-as-chatgpt-daily-new-survey-reveals/a1294335329.html",
-        "image": "https://focus.independent.ie/thumbor/WhcKJ4gUwhQtywTXIvoa2iND7YI=/629x460/smart/prod-mh-ireland/9976ba9a-a877-4ffd-8cdd-c53870812bd1/374059cb-1685-4728-829f-e08b7517f764/20O%27Shanahan%2C%20Managing%20Director%2C%20LeanBPI.jpg",
-        "publishedAt": "2025-09-17T04:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ead461b236347a41a0e3561761126583",
-            "name": "Independent.ie",
-            "url": "https://www.independent.ie",
-            "country": "ie"
-        }
-    },
-    {
-        "id": "49982a913f438d2cfa373266a81cb335",
-        "title": "Hong Kong Market Soars Amid AI Gains and TikTok Deal",
-        "description": "Hong Kong shares reached their highest point in four years, driven by optimism in China's artificial intelligence sector and progress in a TikTok deal. Significant growth in technology stocks was observed, including a surge in Baidu and Alibaba. Consumer shares remained unresponsive to new economic measures.",
-        "content": "Hong Kong's stock market surged to a four-year high on Tuesday, buoyed by significant gains in technology stocks. This upward trend was fueled by growing confidence in China's advancing artificial intelligence capabilities and encouraging development... [652 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3630726-hong-kong-market-soars-amid-ai-gains-and-tiktok-deal",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/26_06_2025_08_27_38_1863335.png?width=920&format=jpeg",
-        "publishedAt": "2025-09-17T04:25:58Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "caea101740e99bd65ae69adb9a7250c3",
-        "title": "2025 China-Asean Expo opens in Guangxi with focus on AI and free trade deal",
-        "description": "The 22nd China-Asean Expo (CAEXPO) commenced on Wednesday, highlighting regional cooperation in artificial intelligence (AI) and efforts to advance the Free Trade Agreement 3.0.",
-        "content": "The 22nd China-Asean Expo (CAEXPO) commenced on Wednesday, highlighting regional cooperation in artificial intelligence (AI) and efforts to advance the Free Trade Agreement 3.0.\nHeld under the theme “Digital Intelligence and Innovation Empower Develo... [1984 chars]",
-        "url": "https://www.bangkokpost.com/business/general/3106086/2025-chinaasean-expo-opens-in-guangxi-with-focus-on-ai-and-free-trade-deal",
-        "image": "https://static.bangkokpost.com/media/content/20250917/c1_3106086_250917110318_700.jpg",
-        "publishedAt": "2025-09-17T04:24:00Z",
-        "lang": "en",
-        "source": {
-            "id": "91120a92e0d24e24fbffb6d0affabfe6",
-            "name": "Bangkok Post",
-            "url": "https://www.bangkokpost.com",
-            "country": "th"
-        }
-    },
-    {
-        "id": "f177ef0590c81256c87f6efa3b2bee2c",
-        "title": "Cloudflare CEO warns AI could turn internet into a Black Mirror world run by big tech",
-        "description": "Cloudflare CEO Matthew Prince has warned that artificial intelligence could push the internet into a Black Mirror-like future, where a few tech giants control the flow of information.",
-        "content": "The internet that billions rely on today may not look the same tomorrow. Cloudflare CEO Matthew Prince believes that artificial intelligence is changing the way people access information in ways that could be worrying for creators, publishers, and or... [4122 chars]",
-        "url": "https://www.indiatoday.in/technology/news/story/cloudflare-ceo-warns-ai-could-turn-internet-into-a-black-mirror-world-run-by-big-tech-2788550-2025-09-17",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/cloudflare-ceo-matthew-prince-2454479-16x9.jpg?VersionId=FhpozaBC8zj0pD.SqrB6W7VrtdN91wNB",
-        "publishedAt": "2025-09-17T04:20:23Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
             "country": "in"
         }
     }
