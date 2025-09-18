@@ -1,5 +1,85 @@
 [
     {
+        "id": "efb9d31e065b845aba1d7f4c01b6b884",
+        "title": "How AI could detect signs of mental illness",
+        "description": "Researchers in Japan used artificial intelligence to analyse people’s face movements and detect subtle signs of depression",
+        "content": "Artificial intelligence could be used to analyse people’s facial expressions and detect signs of depression, new research suggests.\nThe study, published in the journal of Scientific Reports, found that the technology was able to track micro-movements... [3032 chars]",
+        "url": "https://www.independent.co.uk/news/health/ai-depression-mental-illness-research-b2828460.html",
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/01/16/14/deepmind-artificial-intelligence-brain.jpg?width=1200&height=800&crop=1200:800",
+        "publishedAt": "2025-09-17T22:18:19Z",
+        "lang": "en",
+        "source": {
+            "id": "97497c18f5cb431f5f324b3d8643c24f",
+            "name": "The Independent",
+            "url": "https://www.independent.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "86965543813db307789c8854c46d7e6c",
+        "title": "AI CEO says technology ‘moving very quickly,’ could soon replace more jobs",
+        "description": "Anthropic CEO Dario Amodei doubled down on his warning that artificial intelligence could soon cause mass unemployment, even as the technology’s current capabilities lag behind many predictions.",
+        "content": "Anthropic CEO Dario Amodei doubled down on his warning that artificial intelligence could soon cause mass unemployment, even as the technology’s current capabilities lag behind many predictions.\nAmodei, who runs one of the world’s leading AI labs, wa... [2059 chars]",
+        "url": "https://edition.cnn.com/2025/09/17/business/anthropic-warns-ai-could-soon-replace-jobs",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235057491.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-09-17T22:11:14Z",
+        "lang": "en",
+        "source": {
+            "id": "26269dbc42635df9af8c24f3cdab8e37",
+            "name": "Cable News Network",
+            "url": "https://edition.cnn.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6f2e67bf7293d543cc06f18e50f830aa",
+        "title": "AI CEO says technology ‘moving very quickly,’ could soon replace more jobs",
+        "description": "By Samantha Delouya, CNN (CNN) — Anthropic CEO Dario Amodei doubled down on his warning that artificial intelligence could soon cause mass unemployment, even as the technology’s current capabilities lag behind many predictions. Amodei, who runs one of the world’s leading AI labs, warned that the technology is advancing “very quickly” and has already begun",
+        "content": "By Samantha Delouya, CNN\n(CNN) — Anthropic CEO Dario Amodei doubled down on his warning that artificial intelligence could soon cause mass unemployment, even as the technology’s current capabilities lag behind many predictions.\nAmodei, who runs one o... [2092 chars]",
+        "url": "https://abc17news.com/money/cnn-business-consumer/2025/09/17/ai-ceo-says-technology-moving-very-quickly-could-soon-replace-more-jobs/",
+        "image": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
+        "publishedAt": "2025-09-17T22:11:14Z",
+        "lang": "en",
+        "source": {
+            "id": "d5a02d07558c5563d72576efc406e608",
+            "name": "ABC17News.com",
+            "url": "https://abc17news.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2b2cf712bdc89a45dbc15e0c2f43a4a7",
+        "title": "AI Rush Prompts More Investors to Increase Focus",
+        "description": "India is seeing an increasing number of artificial intelligence-focused venture capital funds. They are betting on Indian founders building in AI and include areas such as consumer-facing apps, tooling, infrastructure and enterprise technology.",
+        "content": "Synopsis\nIndia is seeing an increasing number of artificial intelligence-focused venture capital funds. They are betting on Indian founders building in AI and include areas such as consumer-facing apps, tooling, infrastructure and enterprise technolo... [4786 chars]",
+        "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/sep/18/et-front/ai-rush-prompts-more-investors-to-increase-focus/articleshow/123956230.cms",
+        "image": "https://img.etimg.com/thumb/msid-123956945,width-1200,height-630,imgsize-15656,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-09-17T21:35:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "385a60d580f8417642766ee72cdaf4c8",
+        "title": "Phuket forges ahead with AI City plan",
+        "description": "Phuket's Artificial Intelligence (AI) City project is gaining momentum as various aspects of city management will be automated using AI.",
+        "content": "Phuket's Artificial Intelligence (AI) City project is gaining momentum as various aspects of city management will be automated using AI.\nA Memorandum of Understanding (MoU) on Phuket AI City development was signed between the Phuket Provincial Admini... [1713 chars]",
+        "url": "https://www.bangkokpost.com/thailand/general/3106432/phuket-forges-ahead-with-ai-city-plan",
+        "image": "https://static.bangkokpost.com/media/content/20250918/c1_3106432_250918044625_700.jpg",
+        "publishedAt": "2025-09-17T21:26:00Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
         "id": "8427a2e3bc2fb08b445eff888e854930",
         "title": "Top emerging AI tools that are redefining digital life",
         "description": "GUEST OPINION: Over the past few years, artificial intelligence has quietly threaded its way into every corner of our online lives. But lately, someth...",
@@ -76,86 +156,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "455ebfbfe8166948930cff3366d1b4ac",
-        "title": "What's Going On With Alibaba Shares Wednesday?",
-        "description": "Alibaba shares are trading higher Wednesday after reports indicating the company secured China Unicom as a major client for its artificial intelligence (AI) chips.",
-        "content": "Alibaba Group Holding Limited BABA shares are trading higher Wednesday after reports indicating the company secured China Unicom as a major client for its artificial intelligence (AI) chips.\nWhat To Know: According to Bloomberg, Alibaba has signed a ... [910 chars]",
-        "url": "https://www.benzinga.com/trading-ideas/movers/25/09/47725581/whats-going-on-with-alibaba-shares-wednesday-2",
-        "image": "https://cdn.benzinga.com/files/images/story/2025/09/17/Alibaba-Group-Holding-Ltd-.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2025-09-17T19:37:05Z",
-        "lang": "en",
-        "source": {
-            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-            "name": "Benzinga",
-            "url": "https://www.benzinga.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "be435684d8edca0403cc7ded513235d2",
-        "title": "More than 1,000 MCAS essays scored incorrectly due to AI mishap",
-        "description": "Approximately 1,400 MCAS essays were incorrectly scored after an artificial intelligence grading mishap, according to DESE.",
-        "content": "The temporary technical issue impacted an average of one or two students' scores in each of the 145 affected districts.\nApproximately 1,400 MCAS essays were scored incorrectly due to an AI-grading mishap, according to the state Department of Elementa... [2092 chars]",
-        "url": "https://www.boston.com/news/education/2025/09/17/mcas-essays-scored-incorrectly-ai-mishap/",
-        "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2011_09_25_BostonGlobe.com_Regional_Images_25wemcas-68cac9dd7ff0b-768x432.jpg",
-        "publishedAt": "2025-09-17T19:14:34Z",
-        "lang": "en",
-        "source": {
-            "id": "70a0fed2567e1f81584197893e1068f9",
-            "name": "Boston.com",
-            "url": "https://www.boston.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ef9064a7d241b37e0cfe2baa64d31a6d",
-        "title": "Nokia Hires Intel Executive To Lead Push Into AI Data Centers",
-        "description": "Nokia Oyj has created a new artificial intelligence department and hired a former Intel Corp. executive to lead a push into the technology, as part of a strategic shift under new Chief Executive Officer Justin Hotard.",
-        "content": "Nokia Oyj has created a new artificial intelligence department and hired a former Intel Corp. executive to lead a push into the technology, as part of a strategic shift under new Chief Executive Officer Justin Hotard.\nPallavi Mahajan will lead Nokia’... [1222 chars]",
-        "url": "https://www.ndtvprofit.com/business/nokia-hires-intel-executive-to-lead-push-into-ai-data-centers",
-        "image": "https://media.assettype.com/bloombergquint%2F2024-08-29%2Fcuszw49n%2F_1x_1.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-09-17T19:01:47Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "dbe11480209ba911263c0eafdef48576",
-        "title": "Nvidia Shares Are Slipping Wednesday: What's Going On?",
-        "description": "Nvidia shares are trading lower Wednesday after China banned its leading technology companies from procuring the company's artificial intelligence (AI) chips.",
-        "content": "NVIDIA Corporation NVDA shares are trading lower Wednesday after China reportedly banned its leading technology companies from procuring the company’s artificial intelligence (AI) chips.\nWhat To Know: The Cyberspace Administration of China has direct... [940 chars]",
-        "url": "https://www.benzinga.com/trading-ideas/movers/25/09/47724145/nvidia-shares-are-slipping-wednesday-whats-going-on",
-        "image": "https://cdn.benzinga.com/files/images/story/2025/09/17/Nvidias-China-Challenge.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2025-09-17T18:42:47Z",
-        "lang": "en",
-        "source": {
-            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-            "name": "Benzinga",
-            "url": "https://www.benzinga.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "efc1f26520e8f26c913ed2bb30e370d4",
-        "title": "Is the internet’s next chapter making us lonelier?",
-        "description": "The Ethical Life podcast: Artificial intelligence now helps mediate many of our daily choices. The hosts weigh benefits against spirals of self-harm content, weak oversight and profit incentives that reward engagement over human well-being.",
-        "content": "Episode 212: Artificial intelligence has quickly moved from science fiction to everyday life, embedded in chatbots, search engines and social media feeds that billions of people use daily. Tech companies tout these tools as helpful assistants — capab... [2968 chars]",
-        "url": "https://siouxcityjournal.com/opinion/column/article_a4b25daa-04b9-5716-ab8d-efefe50e34c4.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/a/4b/a4b25daa-04b9-5716-ab8d-efefe50e34c4/68cac5e95e5bc.preview.png?crop=1196%2C628%2C1%2C0",
-        "publishedAt": "2025-09-17T18:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "e625db5625a6afdc9503f3777a0f9c15",
-            "name": "Sioux City Journal",
-            "url": "https://siouxcityjournal.com",
             "country": "us"
         }
     }
