@@ -1,5 +1,21 @@
 [
     {
+        "id": "9dd654e03d695343ca588c513df1f5be",
+        "title": "Artificial Intelligence Taking Over Natural Intelligence",
+        "description": "The twenty-first century should be the century of invention and creativity, yet humanity seems to be losing its natural abilities for creation and innovation. The human",
+        "content": "The twenty-first century should be the century of invention and creativity, yet humanity seems to be losing its natural abilities for creation and innovation. The human mind, which once possessed extraordinary potential, is now increasingly dependent... [1901 chars]",
+        "url": "https://www.nation.com.pk/18-Sep-2025/artificial-intelligence-taking-over-natural-intelligence",
+        "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+        "publishedAt": "2025-09-18T02:12:42Z",
+        "lang": "en",
+        "source": {
+            "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+            "name": "The Nation",
+            "url": "https://www.nation.com.pk",
+            "country": "pk"
+        }
+    },
+    {
         "id": "f868a7c6eba34bd8c8fdd181988b37e0",
         "title": "Meta Unveils Smart Glasses With Apps and an Artificial Intelligence Assistant",
         "description": "At its annual developer conference on Wednesday, Meta showed several new smart glasses, which have been a surprise hit for the company.",
@@ -96,6 +112,22 @@
         }
     },
     {
+        "id": "6e020e701b5babc20f9e30d80baec76c",
+        "title": "REALTORS® Embrace AI, Digital Tools to Enhance Client",
+        "description": "Washington, D.C., Sept. 18, 2025 (GLOBE NEWSWIRE) -- Agents who are REALTORS® are leaning into artificial intelligence while continuing to rely on...",
+        "content": "Washington, D.C., Sept. 18, 2025 (GLOBE NEWSWIRE) -- Agents who are REALTORS® are leaning into artificial intelligence while continuing to rely on digital tools such as eSignature, social media, and drone photography to serve their clients, according... [3042 chars]",
+        "url": "https://www.globenewswire.com/news-release/2025/09/18/3152556/0/en/REALTORS-Embrace-AI-Digital-Tools-to-Enhance-Client-Service-NAR-Survey-Finds.html",
+        "image": "https://ml.globenewswire.com/Resource/Download/8a0d04e5-70aa-4d95-b2fd-de8481addefd",
+        "publishedAt": "2025-09-18T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "8e9ab8327c5f7903cc1b50470411d165",
+            "name": "GlobeNewswire",
+            "url": "https://www.globenewswire.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "17bae9cdd6e7f363e1bd8a20faa4eaf2",
         "title": "Why Barriers To Entry Matter",
         "description": "Artificial intelligence is experienced through AI wrappers today. But it might not remain like that for long.",
@@ -124,38 +156,6 @@
             "id": "bce8b9fcd331f3552e3dcf603b83b80e",
             "name": "Markets Insider",
             "url": "https://markets.businessinsider.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d452c226fa3f09f1dcfab6c531d5341d",
-        "title": "Meta launches smart glasses with built-in display, reaching for 'superintelligence'",
-        "description": "Meta Platforms on Wednesday launched its first consumer-ready smart glasses with a built-in display, seeking to extend the momentum of its Ray-Ban line, one of the early consumer hits of the artificial intelligence era.",
-        "content": "CEO Mark Zuckerberg showed off what he called Meta Ray-Ban Display, although some demos of the new technology did not go as planned, with a call to the glasses failing to go through, for instance.\nSign up here.\n\"I don't know what to tell you guys,\" Z... [3440 chars]",
-        "url": "https://www.reuters.com/business/media-telecom/meta-launches-smart-glasses-with-built-in-display-reaching-superintelligence-2025-09-18/",
-        "image": "https://www.reuters.com/resizer/v2/NFI6BOYALRPRXN4Y2FKME25KS4.jpg?auth=1528a5339ad3a5d3fa728f3ead322d11d8d5426cd778df85c16d1baeeee18cef&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-09-17T23:34:47Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "578c1fb2e6fad1a8f9dc69b53702b23b",
-        "title": "Meta's new $800 smart glasses with display likely to take center stage at Connect event",
-        "description": "Meta is expected to launch on Wednesday its first consumer-ready smart glasses with a built-in display, seeking to extend the momentum of its Ray-Ban line, an early consumer hit of the artificial intelligence era.",
-        "content": "Summary\nCompanies\nMeta's new glasses may feature Prada branding, $800 price may deter buyers\nMeta faces scrutiny over child safety on social media platforms\nMeta lags rivals in AI models, but is ahead in smart glasses\nMENLO PARK, California, Sept 17 ... [3765 chars]",
-        "url": "https://www.reuters.com/business/media-telecom/metas-new-800-smart-glasses-with-display-likely-take-center-stage-connect-event-2025-09-17/",
-        "image": "https://www.reuters.com/resizer/v2/EM27RBBHDFO7RET3GPVONTF3F4.jpg?auth=180effa699b053043b4043c26b830b52c3941f05c8f0396cad919625b7e51302&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-09-17T23:34:47Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
             "country": "us"
         }
     }
