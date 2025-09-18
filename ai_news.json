@@ -1,5 +1,37 @@
 [
     {
+        "id": "f868a7c6eba34bd8c8fdd181988b37e0",
+        "title": "Meta Unveils Smart Glasses With Apps and an Artificial Intelligence Assistant",
+        "description": "At its annual developer conference on Wednesday, Meta showed several new smart glasses, which have been a surprise hit for the company.",
+        "content": "Four years ago, when Meta released smart glasses that could take photos and videos, the product became a surprise hit. Since then, millions have snapped them up.\nNow the company is raising its bets on eyewear.\nOn Wednesday, at its annual developer co... [2176 chars]",
+        "url": "https://www.nytimes.com/2025/09/17/technology/personaltech/meta-smart-glasses-ai.html",
+        "image": "https://static01.nyt.com/images/2025/09/17/multimedia/17biz-meta-connect-02-lcfw/17biz-meta-connect-02-lcfw-facebookJumbo.jpg",
+        "publishedAt": "2025-09-18T01:01:20Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "151d244fd7221333ef8ac91535447078",
+        "title": "Artificial Intelligence Stocks To Consider - September 16th",
+        "description": "Read Artificial Intelligence Stocks To Consider – September 16th at ETF Daily News",
+        "content": "Salesforce, Snowflake, and BigBear.ai are the three Artificial Intelligence stocks to watch today, according to MarketBeat’s stock screener tool. Artificial intelligence stocks are shares of publicly traded companies that develop, implement, or benef... [1807 chars]",
+        "url": "https://www.etfdailynews.com/2025/09/18/artificial-intelligence-stocks-to-consider-september-16th/",
+        "image": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/salesforcecom-inc-logo-1200x675.png&w=240&h=240&zc=2",
+        "publishedAt": "2025-09-18T01:00:42Z",
+        "lang": "en",
+        "source": {
+            "id": "1b40b878c09151e8cf44a095bc8569a5",
+            "name": "ETF Daily News",
+            "url": "https://www.etfdailynews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b57586ae1595efc5d2817016ee8b0022",
         "title": "Meta expected to unveil new smart glasses at Connect event",
         "description": "WASHINGTON, Sep 17: Meta is expected to show off artificial intelligence-powered smart glasses at its Connect developer conference Wednesday as CEO Mark Zuckerberg continues to evangelise the glasses as the next step in human-computer interactions.   “Last year’s Meta Connect was far less metaverse and far more AI. Expect this year’s event to be virtually dominated by AI, specifically AI glasses and superintelligence,” said Forrester research director Mike Proulx. “While Meta has the head start on AI glasses, competition […]",
@@ -124,38 +156,6 @@
             "id": "da5c26287bdd02563a2c32b55cb12051",
             "name": "Reuters",
             "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "8a0a1aa612f710c1ee2d57e5a1f2285a",
-        "title": "Meta launches new smart glasses with built-in display",
-        "description": "Meta Platforms on Wednesday launched its first consumer-ready smart glasses with a built-in display, seeking to extend the momentum of its Ray-Ban line, one of the early consumer hits of the artificial intelligence era.",
-        "content": "Chief Executive Mark Zuckerberg showed off what he called Meta Ray-Ban Display, although some demos of the new technology did not go as planned, with a call to the glasses failing to go through, for instance.\nSign up here.\n\"I don't know what to tell ... [3116 chars]",
-        "url": "https://www.reuters.com/business/media-telecom/meta-launches-new-smart-glasses-with-built-in-display-2025-09-18/",
-        "image": "https://www.reuters.com/resizer/v2/EUXZOROAXRKJNDXNJP6NWJNFPE.jpg?auth=33833d8143a93ee53e64b9730751e6096b1a17817ed3570192d12c8882031305&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-09-17T23:34:47Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "45fbfd85abc10580794fbe0055c18fa0",
-        "title": "Workday CEO says AI is a 'tailwind' for the enterprise software company",
-        "description": "Workday CEO Carl Eschenbach told CNBC's Jim Cramer on Wednesday that the rise of artificial intelligence is positive for his company.",
-        "content": "Workday CEO Carl Eschenbach told CNBC's Jim Cramer on Wednesday that the rise of artificial intelligence is positive for his company, pushing back against what he called a \"narrative out there that AI is eating the software world.\"\n\"For some people, ... [1707 chars]",
-        "url": "https://www.cnbc.com/2025/09/17/workday-ceo-says-ai-is-a-tailwind-for-the-enterprise-software-company.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108091485-1737654200650-1U8A2341.JPG?v=1740523310&w=1920&h=1080",
-        "publishedAt": "2025-09-17T23:14:02Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
             "country": "us"
         }
     }
