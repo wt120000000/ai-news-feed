@@ -1,5 +1,85 @@
 [
     {
+        "id": "29677f733d44f2b417cda86d46be5507",
+        "title": "Could it surpass Jeopardy host Ken Jennings?",
+        "description": "Artificial intelligence is getting smarter by the day.",
+        "content": "Not enough to worry about these days? Imagine AI achieving singularity.\nWith artificial intelligence ever more ubiquitous, some worry about it going rogue and achieving what’s known as singularity: A point at which it surpasses human intelligence and... [6705 chars]",
+        "url": "https://www.baltimoresun.com/2025/09/18/can-ai-surpass-human-intelligence-achieving-singularity/",
+        "image": "https://www.baltimoresun.com/wp-content/uploads/2025/09/TBS-L-JORDANBOYDGRABER-01.jpg?w=1024&h=739",
+        "publishedAt": "2025-09-18T09:06:27Z",
+        "lang": "en",
+        "source": {
+            "id": "3271eb2093cfa66b030a37cf84a8df5e",
+            "name": "Baltimore Sun",
+            "url": "https://www.baltimoresun.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d0b7d9b357d05a9f3b3cb33fa8ae3345",
+        "title": "Apple’s New AirPods Offer Impressive Language Translation",
+        "description": "The technology is one of the strongest examples yet of how artificial intelligence can be used in a seamless, practical way to improve people’s lives.",
+        "content": "This week, I saw an old friend, and he caught me up on what he’d been up to over the summer. He and his girlfriend had visited family in Arizona. His niece dragged him to a screening of “Lilo and Stitch.” He was working hard at a new start-up. He sai... [5860 chars]",
+        "url": "https://www.nytimes.com/2025/09/18/technology/personaltech/new-airpods-language-translation-feature.html",
+        "image": "https://static01.nyt.com/images/2025/09/20/business/17techfix/17techfix-facebookJumbo.jpg",
+        "publishedAt": "2025-09-18T09:04:35Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "f409ab890dbc668d0c653195303c0758",
+        "title": "What does the Google antitrust ruling mean for the future of AI?",
+        "description": "A federal judge's mild ruling in the Justice Department's suit over Google's search engine monopoly has critics worried that the tech giant can now monopolize artificial intelligence.",
+        "content": "When the government launched an antitrust lawsuit against Google five years ago, it was all about whether the tech giant had a monopoly on internet search. But by the time the judge ruled on punishments for the company this month, the future of artif... [4660 chars]",
+        "url": "https://www.npr.org/2025/09/18/nx-s1-5539869/google-antitrust-ruling-future-of-ai",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3240+0+300/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2F8d%2F66281a7b45b8984c265907fe86e2%2Fap23286617961998.jpg",
+        "publishedAt": "2025-09-18T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "b41851fb2662ea502db29f71ec4d1583",
+            "name": "NPR",
+            "url": "https://www.npr.org",
+            "country": "us"
+        }
+    },
+    {
+        "id": "63c3fb17794a2f48c3e5d322c13f3b8d",
+        "title": "'There's no shoving that genie back in the bottle': Readers believe it's too late to stop the progression of AI",
+        "description": "Over 1,700 readers responded to a Live Science poll, and 30% of them believe it is too late to halt the development of artificial intelligence (AI).",
+        "content": "Should humanity pull the brakes on artificial intelligence (AI) before it endangers our very survival? As the technology continues to transform industries and daily life, public opinion is sharply divided over its future, especially as the prospect o... [3763 chars]",
+        "url": "https://www.livescience.com/technology/artificial-intelligence/theres-no-shoving-that-genie-back-in-the-bottle-readers-believe-its-too-late-to-stop-the-progression-of-ai",
+        "image": "https://cdn.mos.cms.futurecdn.net/cGyrxr945AG4dYvBNqZaNm.jpg",
+        "publishedAt": "2025-09-18T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6534c1541b974602cc2ed040c2e4038f",
+            "name": "Livescience.com",
+            "url": "https://www.livescience.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "636f2773bfc0b234baa6d9e311047271",
+        "title": "Govt to establish AI R&D hubs across key sectors: Sitharaman",
+        "description": "Union Finance Minister Nirmala Sitharaman on Thursday said the government has identified several Institutes of Excellence to host artificial intelligence (AI)-focused research and development (R&D) and training programmes, targeting four priority sectors—agriculture, education, health, and urban living.",
+        "content": "Union Finance Minister Nirmala Sitharaman on Thursday said the government has identified several Institutes of Excellence to host artificial intelligence (AI)-focused research and development (R&D) and training programmes, targeting four priority sec... [2337 chars]",
+        "url": "https://www.thestatesman.com/business/govt-to-establish-ai-rd-hubs-across-key-sectors-sitharaman-1503488022.html",
+        "image": "https://www.thestatesman.com/wp-content/uploads/2025/09/Blue-Yellow-Modern-Business-YouTube-Thumbnail-1200-x-675-px-1200-x-675-px-50.webp",
+        "publishedAt": "2025-09-18T08:55:18Z",
+        "lang": "en",
+        "source": {
+            "id": "23ca80edba9c670741bdbfc4acd3e991",
+            "name": "The Statesman",
+            "url": "https://www.thestatesman.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "508f753f0ba4413a7263175052662c85",
         "title": "Social media users warned over AI scam using your pictures and videos",
         "description": "A tech expert has shared a warning to social media users over an artificial intelligence scam that could see crooks take advantage of images and videos you have uploaded online",
@@ -77,86 +157,6 @@
             "name": "RTE.ie",
             "url": "https://www.rte.ie",
             "country": "ie"
-        }
-    },
-    {
-        "id": "43854833ebe98d5ce548455f9830ef69",
-        "title": "AI could affect 90% of jobs but also boost market value by USD 16 Trillion: Morgan Stanley",
-        "description": "Artificial intelligence is fast emerging as one of the most transformative forces in global business, with the potential to reshape labour markets and significantly increase corporate valuations.",
-        "content": "New Delhi [India], September 18 (ANI): Artificial intelligence is fast emerging as one of the most transformative forces in global business, with the potential to reshape labour markets and significantly increase corporate valuations.\nAccording to a ... [2756 chars]",
-        "url": "https://www.tribuneindia.com/news/business/ai-could-affect-90-of-jobs-but-also-boost-market-value-by-usd-16-trillion-morgan-stanley/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ0ZWQ3ZjEwLTk0NWQtMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
-        "publishedAt": "2025-09-18T07:01:07Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "b6cfbd020e8b4bf6f30e39815d5ed5c5",
-        "title": "AI could affect 90% of jobs but also boost market value by USD 16 Trillion: Morgan Stanley",
-        "description": "AI could affect 90% of jobs but also boost market value by USD 16 Trillion: Morgan Stanley - New Delhi [India], September 18 : Artificial intelligence is fast emerging as one of the most transformative forces in ... Get Latest News on Business only on lokmattimes.com",
-        "content": "New Delhi [India], September 18 : Artificial intelligence is fast emerging as one of the most transformative forces in global business, with the potential to reshape labour markets and significantly increase corporate valuations.\nAccording to a new M... [2724 chars]",
-        "url": "https://www.lokmattimes.com/business/ai-could-affect-90-of-jobs-but-also-boost-market-value-by-usd-16-trillion-morgan-stanley/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20250918065512_202509.jpg",
-        "publishedAt": "2025-09-18T07:00:09Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "b3394f1da76ed92b3493e92e0ad2f9dc",
-        "title": "American Made: Nvidia Bets Big on Intel with $5 Billion Investment to Drive AI and PC Innovation",
-        "description": "AI powerhouse Nvidia has announced a $5 billion investment in Intel, marking a strategic partnership aimed at accelerating advancements in artificial intelligence and personal computing. Intel shares have surged almost 24 percent at market open in response.",
-        "content": "AI powerhouse Nvidia has announced a $5 billion investment in Intel, marking a strategic partnership aimed at accelerating advancements in artificial intelligence and personal computing. Intel shares have surged almost 24 percent at market open in re... [3433 chars]",
-        "url": "https://www.breitbart.com/tech/2025/09/18/american-made-nvidia-bets-big-on-intel-with-5-billion-investment-to-drive-ai-and-pc-innovation/",
-        "image": "https://media.breitbart.com/media/2025/09/Nvidia-CEO-Jensen-Huang-holds-his-AI-chips-640x335.jpg",
-        "publishedAt": "2025-09-18T06:51:38Z",
-        "lang": "en",
-        "source": {
-            "id": "85b540771682043e2a9f294068f5345b",
-            "name": "Breitbart News Network",
-            "url": "https://www.breitbart.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5cec3e22cd37b5282ba936ccfe62576a",
-        "title": "American Made: Nvidia Bets Big on Intel with $5 Billion Investment to Drive AI and PC Innovation",
-        "description": "AI powerhouse Nvidia has announced a $5 billion investment in Intel, marking a strategic partnership aimed at accelerating advancements in artificial intelligence and personal computing. Intel shares have surged almost 24 percent at market open in response.",
-        "content": "AI powerhouse Nvidia has announced a $5 billion investment in Intel, marking a strategic partnership aimed at accelerating advancements in artificial intelligence and personal computing. Intel shares have surged almost 24 percent at market open in re... [3433 chars]",
-        "url": "https://www.breitbart.com/politics/2025/09/18/american-made-nvidia-bets-big-on-intel-with-5-billion-investment-to-drive-ai-and-pc-innovation/",
-        "image": "https://media.breitbart.com/media/2025/09/Nvidia-CEO-Jensen-Huang-holds-his-AI-chips-640x335.jpg",
-        "publishedAt": "2025-09-18T06:51:38Z",
-        "lang": "en",
-        "source": {
-            "id": "85b540771682043e2a9f294068f5345b",
-            "name": "Breitbart News Network",
-            "url": "https://www.breitbart.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "cdce696c22419ec7e9f5861bb6fddc5a",
-        "title": "AI in Hindi, Marathi, Malayalam? IIM Udaipur partners with National Language Translation Mission to lift artificial intelligence, machine learning capabilities",
-        "description": "IIM Udaipur announced that it forged significant partnerships with Bhashini, MoSPI, and NITI Aayog to drive advancements in artificial intelligence for Indian languages, data innovation, and policy evaluation.",
-        "content": "IIM Udaipur partnered with Bhashini, the National Language Translation Mission, to advance artificial intelligence (AI) and machine learning (ML) for Indian languages.\nThe overall initiative of the institution is to create regional hubs and improve d... [1941 chars]",
-        "url": "https://www.theweek.in/news/sci-tech/2025/09/18/iim-udaipur-bhashini-ai-languages-mospi-niti-aayog-partnerships.html",
-        "image": "https://www.theweek.in/content/dam/week/week/news/sci-tech/images/2025/9/18/iim-udaipur-lecture.jpg",
-        "publishedAt": "2025-09-18T06:51:27Z",
-        "lang": "en",
-        "source": {
-            "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
-            "name": "THE WEEK",
-            "url": "https://www.theweek.in",
-            "country": "in"
         }
     }
 ]
