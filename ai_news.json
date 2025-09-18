@@ -1,5 +1,69 @@
 [
     {
+        "id": "45fbfd85abc10580794fbe0055c18fa0",
+        "title": "Workday CEO says AI is a 'tailwind' for the enterprise software company",
+        "description": "Workday CEO Carl Eschenbach told CNBC's Jim Cramer on Wednesday that the rise of artificial intelligence is positive for his company.",
+        "content": "Workday CEO Carl Eschenbach told CNBC's Jim Cramer on Wednesday that the rise of artificial intelligence is positive for his company, pushing back against what he called a \"narrative out there that AI is eating the software world.\"\n\"For some people, ... [1707 chars]",
+        "url": "https://www.cnbc.com/2025/09/17/workday-ceo-says-ai-is-a-tailwind-for-the-enterprise-software-company.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108091485-1737654200650-1U8A2341.JPG?v=1740523310&w=1920&h=1080",
+        "publishedAt": "2025-09-17T23:14:02Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "83ab25405b41c2871d82750f1360bdfe",
+        "title": "ChatGPT appears to improvise when put through ancient Greek math puzzle",
+        "description": "The Artificial Intelligence chatbot, ChatGPT, appeared to improvise ideas and make mistakes like a student in a study that rebooted a 2,400-year-old mathematical challenge.",
+        "content": "The Artificial Intelligence chatbot, ChatGPT, appeared to improvise ideas and make mistakes like a student in a study that rebooted a 2,400-year-old mathematical challenge.\nThe experiment, by two education researchers, asked the chatbot to solve a ve... [5745 chars]",
+        "url": "https://phys.org/news/2025-09-chatgpt-ancient-greek-math-puzzle.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/chatgpt-appears-to-imp.jpg",
+        "publishedAt": "2025-09-17T23:10:01Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "437245b0b692cb73ffafb5a8d6f97049",
+        "title": "AI Doomsday Fears Reflect Beliefs, Not Just Arguments",
+        "description": "Debates about artificial intelligence often spark extreme predictions, with some insisting that AI could endanger all of humanity. This fear-driven narrative,",
+        "content": "Debates about artificial intelligence often spark extreme predictions, with some insisting that AI could endanger all of humanity. This fear-driven narrative, captured in the phrase “AI will kill everyone,” has become more than just a cautionary argu... [4733 chars]",
+        "url": "https://mashviral.com/ai-doomsday-fears-reflect-beliefs-not-just-arguments/",
+        "image": "https://mashviral.com/wp-content/uploads/2025/09/portrait-person-ai-robot1-scaled.jpg",
+        "publishedAt": "2025-09-17T23:00:45Z",
+        "lang": "en",
+        "source": {
+            "id": "736870a2b1a320473f05d8f8015bf089",
+            "name": "Mash Viral",
+            "url": "https://mashviral.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "bec0c17718652eb54034219c03220ee9",
+        "title": "Moody's flags risk in Oracle's $300 billion of recently signed AI contracts",
+        "description": "U.S. credit rating agency Moody's Ratings flagged several potential risks in Oracle Corp's $300 billion of recently signed artificial intelligence contracts, but stopped short of taking ratings action against the software giant.",
+        "content": "Sign up here.\nThe Wall Street Journal then reported that OpenAI had signed a contract to purchase $300 billion in computing power from Oracle over roughly five years, marking one of the biggest cloud contracts ever signed. A majority of the new reven... [1933 chars]",
+        "url": "https://www.reuters.com/business/moodys-flags-risk-oracles-300-billion-recently-signed-ai-contracts-2025-09-17/",
+        "image": "https://www.reuters.com/resizer/v2/OXUDQMKDHFMRRLPCPNGA3NBIOI.jpg?auth=bd31356fc5d70f809b8a109c93249fe59649a5f300d3a2b7105d9736c3539f3d&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-09-17T22:36:02Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "efb9d31e065b845aba1d7f4c01b6b884",
         "title": "How AI could detect signs of mental illness",
         "description": "Researchers in Japan used artificial intelligence to analyse people’s face movements and detect subtle signs of depression",
@@ -93,70 +157,6 @@
             "name": "iTWire",
             "url": "https://itwire.com",
             "country": "au"
-        }
-    },
-    {
-        "id": "fcba9fbced89fdd4a3d370fbe7e56526",
-        "title": "China Tells Companies to Stop Buying Nvidia’s Repurposed AI Chip",
-        "description": "China’s cyberspace regulator has instructed companies including Alibaba Group Holding Ltd. to halt orders for Nvidia Corp.’s RTX Pro 6000D, a semiconductor for workstations that can be repurposed for artificial-intelligence applications.",
-        "content": "China’s cyberspace regulator has instructed companies including Alibaba Group Holding Ltd. to halt orders for Nvidia Corp.’s RTX Pro 6000D, a semiconductor for workstations that can be repurposed for artificial-intelligence applications.\nThe Cyberspa... [483 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-09-17/china-tells-companies-to-stop-buying-nvidia-s-repurposed-ai-chip",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iylI0_eYxwo8/v0/1200x800.jpg",
-        "publishedAt": "2025-09-17T20:37:11Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4279071516f684a69a0e74d419347d03",
-        "title": "AI may boost global trade by nearly 40 per cent",
-        "description": "Artificial intelligence could boost the value of global trade by almost 40 per cent by 2040 thanks to cost reductions and productivity gains, the World Trade Organization said Wednesday.",
-        "content": "Artificial intelligence could boost the value of global trade by almost 40 per cent by 2040 thanks to cost reductions and productivity gains, the World Trade Organization said Wednesday.\nIn its latest annual World Trade Report, the WTO identified AI ... [1521 chars]",
-        "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/09/17/ai-may-boost-global-trade-value-by-nearly-40-per-cent-wto/",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/VF3YPJTTO6VDOIZ2XQA5KP22O4.jpg?smart=true&auth=ab64b987cec19d34058db187401eb8be7ca97e9da3d1fb6c2ec2147f2cdcdfb9&width=1200&height=630",
-        "publishedAt": "2025-09-17T19:41:54Z",
-        "lang": "en",
-        "source": {
-            "id": "1b697445987e8a33f6c82842e17d60d9",
-            "name": "Bnn Bloomberg",
-            "url": "https://www.bnnbloomberg.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "a3fc1d0d3570932b69a6c7eaa7ac6443",
-        "title": "AI may boost global trade by nearly 40 per cent",
-        "description": "Artificial intelligence could boost the value of global trade by almost 40 per cent by 2040 thanks to cost reductions and productivity gains, the World Trade Organization said Wednesday.",
-        "content": "Artificial intelligence could boost the value of global trade by almost 40 per cent by 2040 thanks to cost reductions and productivity gains, the World Trade Organization said Wednesday.\nIn its latest annual World Trade Report, the WTO identified AI ... [1521 chars]",
-        "url": "https://www.cp24.com/news/world/2025/09/17/ai-may-boost-global-trade-value-by-nearly-40-per-cent-wto/",
-        "image": "https://www.cp24.com/resizer/v2/VF3YPJTTO6VDOIZ2XQA5KP22O4.jpg?smart=true&auth=ab64b987cec19d34058db187401eb8be7ca97e9da3d1fb6c2ec2147f2cdcdfb9&width=1200&height=630",
-        "publishedAt": "2025-09-17T19:41:54Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "77ef01410f0faa61af8eecbabf8ecdd3",
-        "title": "Nvidia’s UK Partner Is a 16-Month-Old Crypto Mining Spinout",
-        "description": "Nscale, a little known British data center company that spun out of a crypto miner last year, has found itself at the forefront of a massive artificial intelligence-fueled data center boom.",
-        "content": "Nscale , a little known British data center company that spun out of a crypto miner last year, has found itself at the forefront of a massive artificial intelligence-fueled data center boom.\nNvidia Corp. is investing £500 million ($683 million) in Ns... [422 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-09-17/nvidia-s-uk-partner-is-a-16-month-old-crypto-mining-spinout",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaM_WywYjaDE/v1/1200x800.jpg",
-        "publishedAt": "2025-09-17T19:39:19Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
         }
     }
 ]
