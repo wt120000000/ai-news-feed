@@ -1,5 +1,37 @@
 [
     {
+        "id": "d39414b90adda9d64658e6bab205f6a3",
+        "title": "ChatGPT was used ‘to help scammers do their thing’ at Asia fraud compound",
+        "description": "Scammers used the artificial intelligence tool to craft convincing messages designed to trick people into parting with their money.",
+        "content": "Duncan Okindo says he was lured to Southeast Asia last year by the promise of a customer service job in Thailand. Instead, he ended up spending four months in a scam compound on the lawless Myanmar-Thai border, where he saw first-hand how criminal gr... [984 chars]",
+        "url": "https://www.japantimes.co.jp/news/2025/09/19/asia-pacific/crime-legal/chatgpt-thailand-scammers/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/09/19/494727.jpg?v=3.1",
+        "publishedAt": "2025-09-19T02:02:16Z",
+        "lang": "en",
+        "source": {
+            "id": "4b9101ef61d45607a32072a7504f5fb0",
+            "name": "The Japan Times ",
+            "url": "https://www.japantimes.co.jp",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "660629fa186133362ac8421a1573f03e",
+        "title": "Nvidia To Invest £2 Billion In UK Firms Including Wayve, Revolut",
+        "description": "Nvidia Corp. plans to invest £2 billion ($2.7 billion) to support the UK’s artificial intelligence industry in partnership with several venture capital firms. The chipmaker will deploy the new capital to help “empower the UK to compete in the AI market globally” and will work with venture capital firms Accel, Air Street Capital, Balderton Capital, Hoxton Ventures and Phoenix Court, according to an Nvidia statement Thursday.",
+        "content": "Nvidia Corp. plans to invest £2 billion ($2.7 billion) to support the UK’s artificial intelligence industry in partnership with several venture capital firms.\nThe chipmaker will deploy the new capital to help “empower the UK to compete in the AI mark... [3263 chars]",
+        "url": "https://www.ndtvprofit.com/technology/nvidia-to-invest-2-billion-in-uk-firms-including-wayve-revolut",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-09-05%2F9h6zu91v%2FNvidia-GPUandpassivecooledVRAM.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-09-19T01:53:54Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "4111cbf188e1892c366358bdf06b174c",
         "title": "Personalized Menus with AI: Custom Catering for Every Team Member",
         "description": "In today’s fast-paced corporate world, catering has moved far beyond generic menus and cookie-cutter food options. Thanks to artificial intelligence (AI), companies can now create personalized menus that satisfy every dietary preference, cultural background, and nutritional need within their teams. Whether your organization is hosting a large conference, an intimate board meeting, or an employee […]",
@@ -125,38 +157,6 @@
             "name": "RTE.ie",
             "url": "https://www.rte.ie",
             "country": "ie"
-        }
-    },
-    {
-        "id": "7fcf38bb6ed5b187150d4644ff87e1cb",
-        "title": "BABA vs. MSFT: Which ‘Strong Buy’ AI Stock Has More Upside, According to Wall Street Analysts?",
-        "description": "Artificial intelligence has become a key growth driver for big tech, especially in cloud computing. Alibaba (BABA) and Microsoft (MSFT) are both...",
-        "content": "Artificial intelligence has become a key growth driver for big tech, especially in cloud computing. Alibaba (BABA) and Microsoft (MSFT) are both ramping up AI investments, earning Strong Buy ratings from Wall Street. But while both show solid growth ... [4115 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/baba-vs-msft-which-strong-buy-ai-stock-has-more-upside-according-to-wall-street-analysts-1035162945",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2025/09/image-1497.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2025-09-18T22:57:49Z",
-        "lang": "en",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Markets Insider",
-            "url": "https://markets.businessinsider.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5648ed9d3f3cd0a4c8ff72d057084205",
-        "title": "8 more firms added to India AI Mission: Vaishnaw",
-        "description": "The announcement comes as the government ramps up its artificial intelligence capabilities, | Latest News India",
-        "content": "Speaking at a pre-event for the AI Impact Summit scheduled for February 2026, Vaishnaw revealed that IIT Bombay Consortium-BharatGen, Fractal Analytics, Tech Mahindra, Avataar AI, Zeinteiq Aitech Innovations, Genloop Intelligence, NeuroDX (Intellihea... [3070 chars]",
-        "url": "https://www.hindustantimes.com/india-news/8-more-firms-added-to-india-ai-missionvaishnaw-101758222069678.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2025/09/18/1600x900/Union-IT-minister-Ashwini-Vaishnaw-announced-that-_1758222059538.jpg",
-        "publishedAt": "2025-09-18T22:52:21Z",
-        "lang": "en",
-        "source": {
-            "id": "21468bec836de1ebb209ff6f78fbfe3e",
-            "name": "Hindustan Times",
-            "url": "https://www.hindustantimes.com",
-            "country": "in"
         }
     }
 ]
