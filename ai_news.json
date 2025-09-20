@@ -1,5 +1,53 @@
 [
     {
+        "id": "f16368cf946fa5a0dd74247eec43c749",
+        "title": "AMD open to acquisition of firms in India as part of expansion plan",
+        "description": "AMD has been a key global player in powering personal computers working on artificial intelligence",
+        "content": "AMD, a global tech giant headquartered in Santa Clara, United States, and in the business of designing high-performance computing hardware, is open to investing or acquiring chip-design and software-development companies in the country.\nSpeaking to B... [337 chars]",
+        "url": "https://www.business-standard.com/companies/news/amd-open-to-acquisition-of-firms-in-india-as-part-of-expansion-plan-125091901037_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/15/thumb/fitandfill/1200X630/1744710519-977.JPG",
+        "publishedAt": "2025-09-19T18:08:18Z",
+        "lang": "en",
+        "source": {
+            "id": "44d394a4e765f82b49b452e4302a72b0",
+            "name": "Business Standard",
+            "url": "https://www.business-standard.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "a6e13db909d8adffa19afd18135eeb43",
+        "title": "AI systems reinforce ageism, excluding older adults from digital futures",
+        "description": "The study reveals that ageism manifests in artificial intelligence through biased datasets, flawed design practices, and structural exclusion. While issues of gender and racial bias in AI have attracted global attention, age-based bias has been largely overlooked despite its far-reaching implications.",
+        "content": "Artificial intelligence is transforming healthcare, employment, and digital services, but new research warns it may also be reinforcing one of society’s most pervasive prejudices: ageism.\nA study titled Breaking Bias: Addressing Ageism in Artificial ... [4817 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3632169-ai-systems-reinforce-ageism-excluding-older-adults-from-digital-futures",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_09_2025_18_35_06_5118593.png?width=920&format=jpeg",
+        "publishedAt": "2025-09-19T17:38:04Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "c64ecda230cf63077a10ef944f6a8b9c",
+        "title": "Artificial intelligence in medicine may reshape trust, autonomy and care",
+        "description": "The research suggests that the promise of improved efficiency must be weighed against the possibility that AI could transform doctors into passive overseers of machine-led decisions. For the doctor–patient relationship, this shift threatens to redefine the core role of the physician—from trusted guide to algorithm interpreter.",
+        "content": "The growing role of artificial intelligence in healthcare may reshape one of medicine’s most fundamental relationships: the bond between doctors and patients. A new study warns that while AI promises faster diagnoses, personalized therapies, and stre... [4474 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3631408-artificial-intelligence-in-medicine-may-reshape-trust-autonomy-and-care",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_09_2025_10_08_56_6759598.png?width=920&format=jpeg",
+        "publishedAt": "2025-09-19T17:26:26Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "cc9ac11eaa706ee4ece372dabd8dde3d",
         "title": "CRA says it's hiring more call centre staff, using AI to improve services",
         "description": "OTTAWA — The Canada Revenue Agency says it's hiring more staff at its call centres and expanding its use of artificial intelligence as part of a 100-day plan to improve its services.",
@@ -108,54 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "9af25fcb6d4920aec194afb5b5a5421f",
-        "title": "Pet Smart Collar Provides Real-Time Health Data",
-        "description": "A new smart collar, called the PetPace V3.0, uses artificial intelligence to track vital signs of dogs and cats and relay them directly to licensed veterinarians.",
-        "content": "A new smart collar is giving pet parents a powerful way to monitor their pets’ health — and even consult veterinarians through telehealth. The PetPace V3.0 collar uses artificial intelligence to track vital signs and relay them directly to licensed v... [1649 chars]",
-        "url": "https://www.newsmax.com/health/health-news/collar-smart-pets/2025/09/19/id/1227058/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=bf847919-a443-4160-b1a2-91c9b3f38ff7&SiteName=Newsmax",
-        "publishedAt": "2025-09-19T14:59:01Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0f2f280a1d69fb3524ed49d5fffe9f3f",
-        "title": "Turning materials data into AI-powered lab assistants",
-        "description": "As the volume of scientific literature continues to grow, researchers are turning to artificial intelligence to sift through millions of research papers and uncover insights that can accelerate the discovery of new materials.",
-        "content": "As the volume of scientific literature continues to grow, researchers are turning to artificial intelligence to sift through millions of research papers and uncover insights that can accelerate the discovery of new materials.\nWith support from superc... [6349 chars]",
-        "url": "https://phys.org/news/2025-09-materials-ai-powered-lab.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2025/turning-materials-data.jpg",
-        "publishedAt": "2025-09-19T14:52:52Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "86b9b0d226032fbb5f4471e5d75c0d83",
-        "title": "OpenAI taps Apple supplier to make AI device: report",
-        "description": "The device is currently a prototype under development and is expected to be pocket-sized and aware of context, designed to work closely with the ChatGPT parent's artificial intelligence models.",
-        "content": "Synopsis\nThe device is currently a prototype under development and is expected to be pocket-sized and aware of context, designed to work closely with the ChatGPT parent's artificial intelligence models.\nOpenAI has signed a deal with Apple device asse... [1715 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/openai-taps-apple-supplier-to-make-ai-device-report/articleshow/124000881.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70246,resizemode-75,msid-124000881/tech/technology/openai-taps-apple-supplier-to-make-ai-device-report.jpg",
-        "publishedAt": "2025-09-19T14:40:46Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
