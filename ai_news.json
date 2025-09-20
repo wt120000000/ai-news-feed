@@ -1,5 +1,85 @@
 [
     {
+        "id": "0f2f280a1d69fb3524ed49d5fffe9f3f",
+        "title": "Turning materials data into AI-powered lab assistants",
+        "description": "As the volume of scientific literature continues to grow, researchers are turning to artificial intelligence to sift through millions of research papers and uncover insights that can accelerate the discovery of new materials.",
+        "content": "As the volume of scientific literature continues to grow, researchers are turning to artificial intelligence to sift through millions of research papers and uncover insights that can accelerate the discovery of new materials.\nWith support from superc... [6349 chars]",
+        "url": "https://phys.org/news/2025-09-materials-ai-powered-lab.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2025/turning-materials-data.jpg",
+        "publishedAt": "2025-09-19T14:52:52Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "86b9b0d226032fbb5f4471e5d75c0d83",
+        "title": "OpenAI taps Apple supplier to make AI device: report",
+        "description": "The device is currently a prototype under development and is expected to be pocket-sized and aware of context, designed to work closely with the ChatGPT parent's artificial intelligence models.",
+        "content": "Synopsis\nThe device is currently a prototype under development and is expected to be pocket-sized and aware of context, designed to work closely with the ChatGPT parent's artificial intelligence models.\nOpenAI has signed a deal with Apple device asse... [1715 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/openai-taps-apple-supplier-to-make-ai-device-report/articleshow/124000881.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70246,resizemode-75,msid-124000881/tech/technology/openai-taps-apple-supplier-to-make-ai-device-report.jpg",
+        "publishedAt": "2025-09-19T14:40:46Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "24de68a14413bf98853e173760e32201",
+        "title": "Italy Passes Groundbreaking AI Law Targeting Criminals Who Make Deepfakes",
+        "description": "Italy has enacted the European Union’s first national law specifically regulating artificial intelligence, setting penalties and safeguards.",
+        "content": "Italy has enacted the European Union’s first national law specifically regulating artificial intelligence, setting penalties and safeguards intended to curb misuse while encouraging innovation.\nThe legislation, championed by Prime Minister Giorgia Me... [2147 chars]",
+        "url": "https://petapixel.com/2025/09/19/italy-passes-groundbreaking-ai-law-targeting-criminals-who-make-deepfakes/",
+        "image": "https://petapixel.com/assets/uploads/2025/09/AI.jpg",
+        "publishedAt": "2025-09-19T14:19:38Z",
+        "lang": "en",
+        "source": {
+            "id": "62c14ad4f80bd5e90cbba873513fe4b9",
+            "name": "PetaPixel",
+            "url": "https://petapixel.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d231a36eb1ef6261aed4bc337e0e391a",
+        "title": "Coral Protocol’s Remote Agents Is A Powerful Tool For Agent-To-Agent Collaboration",
+        "description": "Autonomous agents have emerged as the new battleground in the artificial intelligence industry, and they could well jumpstart a mass migration of developers to decentralized models, if Coral Protocol gets its way.    Coral has emerged at the forefront of a decentralized AI movement that aims to provide an alternative to the proprietary AI models […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nAutonomous agents have emerged as the new battleground in the artificial intelligence industry, and they could well jumpstart a mass migration of developers to decentralized models, if Coral Protocol gets its way.\nCoral ... [4391 chars]",
+        "url": "https://techbullion.com/coral-protocols-remote-agents-is-a-powerful-tool-for-agent-to-agent-collaboration-2/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/09/Screenshot-2025-09-19-190823.png",
+        "publishedAt": "2025-09-19T14:10:17Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "c89c6cef2db50b11d78d1b6a5902400b",
+        "title": "bomb era offers lessons for the AI bubble",
+        "description": "Is the rise of artificial intelligence a bubble? The short answer is yes — and no. But in the end, it may not matter. AI is here to stay. To understand why…",
+        "content": "Is the rise of artificial intelligence a bubble? The short answer is yes — and no. But in the end, it may not matter. AI is here to stay. To understand why, it helps to compare today’s AI boom to the internet bubble of the late 1990s, something many ... [802 chars]",
+        "url": "https://wtop.com/news/2025/09/viewpoint-the-dot-bomb-era-offers-lessons-for-the-ai-bubble/",
+        "image": "https://media.bizj.us/view/img/12514848/aichat*100xx3373-3373-1396-0.jpg",
+        "publishedAt": "2025-09-19T13:57:25Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "7d1f8044baad0d98407a99d631f284ed",
         "title": "Flint Bishop Airport to launch AI-powered parking system",
         "description": "In partnership with Metropolis, the artificial intelligence company whose computer vision platform enables checkout-free payment experiences, new services will include seamless drive-in, drive-out parking.",
@@ -77,86 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "1bdf70f837593f9e571094152e88bd3f",
-        "title": "Political party wants chatbot penguin to be its leader",
-        "description": "After years of threatening to upend industries around the world, artificial intelligence could soon enter the corridors of power, if a fringe political party in Japan gets its way.",
-        "content": "Tokyo — After years of threatening to upend industries around the world, artificial intelligence could soon enter the corridors of power, if a fringe political party in Japan gets its way.\nUpstart party Path to Rebirth unveiled plans earlier this wee... [5419 chars]",
-        "url": "https://www.cp24.com/news/world/2025/09/19/ai-have-a-dream-a-fringe-party-in-japan-wants-a-chatbot-penguin-to-be-its-leader/",
-        "image": "https://www.cp24.com/resizer/v2/PMDRJP5S4RB6XF7BHFYQM7VNGE.JPG?smart=true&auth=636f1d1939bfda54e9da46b8ae72659e1eb6d832e34baf2a4edafa7ee1e7bb6e&width=1200&height=630",
-        "publishedAt": "2025-09-19T12:06:46Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "8fc156ae4b90fc9dbad51285babdad86",
-        "title": "TSMC, Amkor partner with venture capital firm on startup accelerator",
-        "description": "Amkor, TSMC and a venture capital firm are creating a hub for companies driving innovations in chip manufacturing and artificial intelligence.",
-        "content": "A new Phoenix-based startup hub is being launched to support companies driving new technologies in chip manufacturing and AI.\nThe initiative is a partnership between Tesoro Venture Capital, TSMC, Amkor Technology, Cadence Design Systems, Phoenix and ... [4377 chars]",
-        "url": "https://www.azcentral.com/story/money/business/tech/2025/09/19/tsmc-amkor-partner-on-phoenix-chip-ai-startup-accelerator/86203477007/",
-        "image": "https://www.azcentral.com/gcdn/authoring/authoring-images/2025/08/07/USAT/85565166007-20250724-t-052954-z-1008121757-rc-2-xqs-9-lv-7-w-7-rtrmadp-3-besemiconductorresults.JPG?crop=6213,3495,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2025-09-19T12:01:38Z",
-        "lang": "en",
-        "source": {
-            "id": "1d8030dfae0e614f9c9b475b8c5d08e3",
-            "name": "The Arizona Republic",
-            "url": "https://www.azcentral.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6650a68fef0811173135ce21fc0ee0a5",
-        "title": "China's Huawei co-develops DeepSeek model, improves censoring",
-        "description": "Chinese tech giant Huawei has co-developed a safety-focused version of artificial intelligence model DeepSeek that it said is \"nearly 100% successful\" in preventing discussion of politically sensitive topics.",
-        "content": "BEIJING, Sept 19 (Reuters) - Chinese tech giant Huawei has co-developed a safety-focused version of artificial intelligence model DeepSeek that it said is \"nearly 100% successful\" in preventing discussion of politically sensitive topics.\nChinese regu... [1790 chars]",
-        "url": "https://www.reuters.com/business/media-telecom/chinas-huawei-co-develops-deepseek-model-improves-censoring-2025-09-19/",
-        "image": "https://www.reuters.com/resizer/v2/UBBJ6SDQRZM5XCP2FDYA67MQVQ.jpg?auth=0a67de105338b6c28512e9b2bd4a4f1706cd92d3caeeb9147ef965e49475da56&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-09-19T11:48:36Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "379dbc824e46c8822ebd4ebd39c64428",
-        "title": "World’s first AI-Generated Minister addresses Albanian parliament",
-        "description": "TIRANA:  For the first time in history, an artificial intelligence (AI)-generated minister addressed a national parliament, marking a unique",
-        "content": "TIRANA: For the first time in history, an artificial intelligence (AI)-generated minister addressed a national parliament, marking a unique milestone for Albania.\nThe AI minister, presented in traditional Albanian attire and named Delia—meaning “Sun”... [455 chars]",
-        "url": "https://www.bolnews.com/latest/2025/09/worlds-first-ai-generated-minister-addresses-albanian-parliament/",
-        "image": "https://www.bolnews.com/wp-content/uploads/2025/09/FotoJet-41-2.jpg",
-        "publishedAt": "2025-09-19T11:31:39Z",
-        "lang": "en",
-        "source": {
-            "id": "e98c4d2585c4c5661ffe60fed4d51930",
-            "name": "BOL News",
-            "url": "https://www.bolnews.com",
-            "country": "pk"
-        }
-    },
-    {
-        "id": "8ce194346bcf25b54fceab07290776c4",
-        "title": "Telford & Wrekin Council launches free AI support programme for small businesses",
-        "description": "A free 'AI Launchpad' programme in Telford is set to offer workshops, expert support and case studies to help local SMEs integrate artificial intelligence into everyday business operations.",
-        "content": "Telford & Wrekin Council says a free Artificial Intelligence(AI) Launchpad programme launched this week will support a \"targeted number\" of small and medium sized businesses that are ready to integrate artificial intelligence into their systems and p... [1595 chars]",
-        "url": "https://www.shropshirestar.com/news/business/2025/09/19/telford-wrekin-council-launches-free-ai-support-programme-for-small-businesses/",
-        "image": "https://resizer.nationalworld.com/4dec153f-8440-4e85-b20c-ee3d3c4ca15b.jpg?tr=w-1200",
-        "publishedAt": "2025-09-19T11:16:32Z",
-        "lang": "en",
-        "source": {
-            "id": "cb11e875cf217650190c9a8a49a98ec7",
-            "name": "Shropshire Star",
-            "url": "https://www.shropshirestar.com",
-            "country": "gb"
         }
     }
 ]
