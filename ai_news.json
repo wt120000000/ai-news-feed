@@ -1,5 +1,37 @@
 [
     {
+        "id": "1d10174626eab99f151e472f25208488",
+        "title": "NTUC Health deploys new AI software to predict fall risk of seniors",
+        "description": "A new artificial intelligence (AI) software deployed by NTUC Health aims to predict the fall risk of seniors, allowing early intervention and prevention of actual falls.",
+        "content": "A new artificial intelligence (AI) software deployed by NTUC Health aims to predict the fall risk of seniors, allowing early intervention and prevention of actual falls.\nUnder CaptureProof Fall Screening, seniors have to do two tasks - stand up from ... [3841 chars]",
+        "url": "https://www.tnp.sg/news/ntuc-health-deploys-new-ai-software-predict-fall-risk-seniors",
+        "image": "https://cassette.sphdigital.com.sg/image/thenewpaper/1567875ec613eb7ced2c550990d8ece77e06c3deb932c2a89cad944fd18df027/NSL1062.jpg",
+        "publishedAt": "2025-09-20T03:05:09Z",
+        "lang": "en",
+        "source": {
+            "id": "a20567d6dba1eb61fe53af2865f90d74",
+            "name": "The New Paper",
+            "url": "https://www.tnp.sg",
+            "country": "sg"
+        }
+    },
+    {
+        "id": "2589a922c92ed9dc015b1a9374dd42c9",
+        "title": "How to Use AI for Interior Renovation Success",
+        "description": "Technology has surrounded all walks of life, and interior design is not left behind. What was once a task that included sleepless nights with contractors, architects, and designers can now be dreamt up and implemented with the assistance of artificial intelligence. AI remodeling is changing the way people think about their house, workplace, and business […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nTechnology has surrounded all walks of life, and interior design is not left behind. What was once a task that included sleepless nights with contractors, architects, and designers can now be dreamt up and implemented wi... [6584 chars]",
+        "url": "https://techbullion.com/how-to-use-ai-for-interior-renovation-success/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/09/IMG_2113-1000x600.png",
+        "publishedAt": "2025-09-20T02:40:11Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "9e56f7726a18c2a09399aeed71bd6152",
         "title": "Education, skills key to social progress: Himachal governor",
         "description": "Shukla said that ideas hold immense power, and artificial intelligence (AI) is a vital part of this evolving landscape",
@@ -125,38 +157,6 @@
             "name": "The Sunday Times",
             "url": "https://www.thetimes.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "910f4a26c1b0528cecd2a88345abd75d",
-        "title": "Is Artificial Intelligence Worth the Investment?",
-        "description": "Tech firms will spend trillions on AI in the coming years.",
-        "content": "U.S. technology firms have spent an estimated $400 billion this year on AI infrastructure. That spending is estimated to increase to $3 trillion worldwide by 2028—raising questions about whether such investments can possibly pay off and about the nat... [15099 chars]",
-        "url": "https://foreignpolicy.com/2025/09/19/is-artificial-intelligence-worth-the-investment/",
-        "image": "https://foreignpolicy.com/wp-content/uploads/2025/09/artificial-intelligence-investment-GettyImages-2202548643.jpg?w=1000",
-        "publishedAt": "2025-09-19T20:31:47Z",
-        "lang": "en",
-        "source": {
-            "id": "389cd8acc16a300e4e2cb4618509de02",
-            "name": "Foreign Policy",
-            "url": "https://foreignpolicy.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0a7c93478b11d82877ae5e7426b253ec",
-        "title": "Chips will drive the AI infrastructure America needs to keep pace with China",
-        "description": "The artificial intelligence arms race will require the U.S. to invest heavily in compute power.",
-        "content": "As artificial intelligence (AI) continues to grow in importance for modern military operations, the US must build the necessary infrastructure needed to keep pace with adversarial AI capabilities.\nAn aging power grid and lack of on-shore manufacturin... [6235 chars]",
-        "url": "https://breakingdefense.com/2025/09/chips-will-drive-the-ai-infrastructure-america-needs-to-keep-pace-with-china/",
-        "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/Intel-1-1024x683.png",
-        "publishedAt": "2025-09-19T20:23:13Z",
-        "lang": "en",
-        "source": {
-            "id": "391302f06b19835f4e0d9f8b4aa57091",
-            "name": "Breaking Defense",
-            "url": "https://breakingdefense.com",
-            "country": "us"
         }
     }
 ]
