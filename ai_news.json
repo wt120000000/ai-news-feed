@@ -1,5 +1,21 @@
 [
     {
+        "id": "cc9ac11eaa706ee4ece372dabd8dde3d",
+        "title": "CRA says it's hiring more call centre staff, using AI to improve services",
+        "description": "OTTAWA — The Canada Revenue Agency says it's hiring more staff at its call centres and expanding its use of artificial intelligence as part of a 100-day plan to improve its services.",
+        "content": "OTTAWA — The Canada Revenue Agency says it's hiring more staff at its call centres and expanding its use of artificial intelligence as part of a 100-day plan to improve its services.\nEarlier this month, Finance Minister François-Philippe Champagne se... [814 chars]",
+        "url": "https://www.baytoday.ca/national-news/cra-says-its-hiring-more-call-centre-staff-using-ai-to-improve-services-11236751",
+        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/09/168ca48fa1f9d3dfc04c6ef4a36e6c4b551d58fc512945a584758cebed50c3d7.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2025-09-19T17:17:25Z",
+        "lang": "en",
+        "source": {
+            "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+            "name": "BayToday",
+            "url": "https://www.baytoday.ca",
+            "country": "ca"
+        }
+    },
+    {
         "id": "2c8271030721cfc40713e8946b73955e",
         "title": "SoftBank Vision Fund restructures, lays off 20% to double down on AI",
         "description": "Tech News News: Softbank's Vision Fund is set to reduce its workforce by 20% as it pivots towards artificial intelligence investments. This restructuring follows a st",
@@ -141,22 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "24de68a14413bf98853e173760e32201",
-        "title": "Italy Passes Groundbreaking AI Law Targeting Criminals Who Make Deepfakes",
-        "description": "Italy has enacted the European Union’s first national law specifically regulating artificial intelligence, setting penalties and safeguards.",
-        "content": "Italy has enacted the European Union’s first national law specifically regulating artificial intelligence, setting penalties and safeguards intended to curb misuse while encouraging innovation.\nThe legislation, championed by Prime Minister Giorgia Me... [2147 chars]",
-        "url": "https://petapixel.com/2025/09/19/italy-passes-groundbreaking-ai-law-targeting-criminals-who-make-deepfakes/",
-        "image": "https://petapixel.com/assets/uploads/2025/09/AI.jpg",
-        "publishedAt": "2025-09-19T14:19:38Z",
-        "lang": "en",
-        "source": {
-            "id": "62c14ad4f80bd5e90cbba873513fe4b9",
-            "name": "PetaPixel",
-            "url": "https://petapixel.com",
-            "country": "us"
         }
     }
 ]
