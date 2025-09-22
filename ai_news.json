@@ -1,5 +1,37 @@
 [
     {
+        "id": "e839775d184398497476230f5b0e655b",
+        "title": "British firms ‘falling behind global rivals’ in adopting AI",
+        "description": "Matt Clifford, who wrote the UK’s artificial intelligence action plan, warns of a dangerous complacency",
+        "content": "A government review of technology adoption published this year found that AI could add £47 billion a year to the UK economy for the next decade, boosting productivity by 1.5 per cent a year, if the country adopted it fully and safely.\nHowever, only 8... [1380 chars]",
+        "url": "https://www.thetimes.com/business-money/technology/article/british-firms-fall-behind-global-rivals-adopt-ai-lr872ccjb",
+        "image": "https://www.thetimes.com/imageserver/image/%2F2e10b0f5-ce2b-4090-8ac3-3a0b6f1299a8.jpg?crop=2368%2C1332%2C0%2C139&resize=1200",
+        "publishedAt": "2025-09-21T19:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "b419a989918b3665a34559f5047546b6",
+            "name": "The Sunday Times",
+            "url": "https://www.thetimes.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "26daac2bce5f986abcbf545a3ec82df2",
+        "title": "Is artificial intelligence overhyped or is AI the 'fourth industrial revolution'?",
+        "description": "It's estimated 30,000 people are working in the AI industry in Australia, and fanfare is growing with start-ups tapping into billions of dollars of venture capital. Yet there are concerns about hype and a lack of regulation.",
+        "content": "Artificial intelligence has prompted a supercharged tech boom, with valuations of the world's biggest companies soaring on the Nasdaq amid talk about a new era of human-like algorithms.\nHere in Australia, a microcosm of Silicon Valley is happening, w... [7542 chars]",
+        "url": "https://www.abc.net.au/news/2025-09-22/is-ai-the-fourth-industrial-revolution/105790912",
+        "image": "https://live-production.wcms.abc-cdn.net.au/fd75bd3f54690d82bc7e5b675bc5d175?impolicy=wcms_watermark_news&cropH=1756&cropW=3122&xPos=0&yPos=306&width=862&height=485&imformat=generic",
+        "publishedAt": "2025-09-21T18:39:03Z",
+        "lang": "en",
+        "source": {
+            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+            "name": "ABC (Australian Broadcasting Corporation)",
+            "url": "https://www.abc.net.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "c7eafa54f7331109ff62654307b110ea",
         "title": "The first AI government minister",
         "description": "When Albanian Prime Minister Edi Rama this month announced his new Cabinet, it was not his choice of finance minister or foreign minister that gained the most attention. The biggest news was Rama’s appointment of an artificial intelligence-powered bot as the new minister of public procurement. “Diella” will oversee and allocate all public tenders that the government assigns to",
@@ -124,38 +156,6 @@
             "id": "e479ce8332aab31d8bac6ba9584cedbb",
             "name": "Republic World",
             "url": "https://www.republicworld.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "699ed9eed79d898eae4b1cd60acc7dd3",
-        "title": "Success Story: Building AI’s backbone in Mohali",
-        "description": "Artificial intelligence may be the future, but its backbone, high-quality labelled data, is being quietly built in Mohali. Labellerr, founded in 2020 by Puneet Jindal, is one of India’s emerging deep-tech startups enabling companies worldwide to train their AI systems.",
-        "content": "Growth with a lean team\nOperating with a team of 15, Labellerr is set to cross $1 million in revenue this year and targets $3–4 million by next year, with most of its business coming from the U.S. The startup follows a selective hiring model, drawing... [1737 chars]",
-        "url": "https://indianexpress.com/article/cities/chandigarh/success-story-building-ais-backbone-in-mohali-10262912/",
-        "image": "https://images.indianexpress.com/2025/09/Untitled-design-9.png",
-        "publishedAt": "2025-09-21T11:00:33Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "09a322ad7eafb002da202e8ccb23b89f",
-        "title": "Indo-Australian Delegation Meets LG Manoj Sinha, Proposes Major CSR Initiatives",
-        "description": "SRINAGAR, Sept 21: An Indo-Australian delegation led by Chairman of Bharat CSR Network, Sajid N Saiyed, called on Jammu and Kashmir Lieutenant Governor Manoj Sinha on Sunday in Srinagar and presented a series of proposed Corporate Social Responsibility (CSR) initiatives aimed at sustainable development in the region. During the meeting, the delegation proposed several impactful projects for Jammu and Kashmir, including the establishment of ten Smart Villages, the setting up of Artificial Intelligence (AI) Labs, a Waste-to-Wealth programme to promote […]",
-        "content": "SRINAGAR, Sept 21: An Indo-Australian delegation led by Chairman of Bharat CSR Network, Sajid N Saiyed, called on Jammu and Kashmir Lieutenant Governor Manoj Sinha on Sunday in Srinagar and presented a series of proposed Corporate Social Responsibili... [1093 chars]",
-        "url": "https://www.dailyexcelsior.com/indo-australian-delegation-meets-lg-manoj-sinha-proposes-major-csr-initiatives/",
-        "image": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/09/fc176663-02e0-4036-a788-8cb700bea211.jpg",
-        "publishedAt": "2025-09-21T10:54:23Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
             "country": "in"
         }
     }
