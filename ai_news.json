@@ -1,5 +1,85 @@
 [
     {
+        "id": "7fd244f4227303f8453ffe1072889858",
+        "title": "Magnum ice cream company to use NotCo AI for new products",
+        "description": "Unilever's Magnum ice cream business, set to publicly list in November, plans to use Chilean start-up NotCo's artificial intelligence to reformulate products and create new ones.",
+        "content": "Magnum plans to use NotCo's AI to look at the calories in ice cream, make new plant-based products and help manage rising commodity costs, said Zbigniew Lewicki, chief research, design and innovation officer at the Magnum Ice Cream Company, in a stat... [1185 chars]",
+        "url": "https://www.reuters.com/business/magnum-ice-cream-company-use-notco-ai-new-products-2025-09-22/",
+        "image": "https://www.reuters.com/resizer/v2/2PWIHPIQNBP6DFKXW2GQLVK57A.jpg?auth=1b9582403bf61293a321ad0cb69e86845e4ca52d60f4a51acd597a23322186ac&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-09-22T16:15:44Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a88ee65abd784fcbcd14088020ed03a6",
+        "title": "Nvidia and Abu Dhabi institute launch joint AI and robotics lab in the UAE",
+        "description": "DUBAI — Abu Dhabi’s Technology Innovation Institute (TII) and Nvidia have launched a joint research lab in the United Arab Emirates (UAE) that will focus on developing next-generation artificial intelligence (AI) models and robotics platforms, TII said on Monday.",
+        "content": "DUBAI — Abu Dhabi’s Technology Innovation Institute (TII) and Nvidia have launched a joint research lab in the United Arab Emirates (UAE) that will focus on developing next-generation artificial intelligence (AI) models and robotics platforms, TII sa... [1729 chars]",
+        "url": "https://www.manilatimes.net/2025/09/23/business/foreign-business/nvidia-and-abu-dhabi-institute-launch-joint-ai-and-robotics-lab-in-the-uae/2188404",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/22/756620.png",
+        "publishedAt": "2025-09-22T16:06:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "65e69a34e3d3091cacac1b5c00fc564c",
+        "title": "We Don’t Need No Stinkin’ Ethics",
+        "description": "Explore the critical importance of ethics in a world dominated by technology and artificial intelligence. Are we neglecting our morality?",
+        "content": "Artificial Intelligence, transhumanism and technology will easily take over the world because people never think about ethics while doing whatever job they have that supports all this insanity. Ethics? Are you kidding? Who gives a crap about ethics? ... [7354 chars]",
+        "url": "https://www.activistpost.com/we-dont-need-no-stinkin-ethics/",
+        "image": "https://www.activistpost.com/wp-content/uploads/2025/09/adobestock-don-quixote-scaled-1.jpeg",
+        "publishedAt": "2025-09-22T16:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "435d508bebcc8689d5c7711d44865b80",
+            "name": "Activist Post",
+            "url": "https://www.activistpost.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "5660ba59cf5ac69bc1c0a093437c991d",
+        "title": "driven disinformation from Russia",
+        "description": "CHISINAU, Moldova (AP) — Moldovans are facing a flood of disinformation driven by artificial intelligence ahead of a critical parliamentary election…",
+        "content": "CHISINAU, Moldova (AP) — Moldovans are facing a flood of disinformation driven by artificial intelligence ahead of a critical parliamentary election, which will determine whether the small country can stay on its path toward the European Union or is ... [8395 chars]",
+        "url": "https://wtop.com/europe/2025/09/moldovas-election-faces-ai-driven-disinformation-from-russia/",
+        "image": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+        "publishedAt": "2025-09-22T15:44:46Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d5a4d6a354cefdb0a9de88b4e6232c2e",
+        "title": "European lawmakers join Nobel laureates and tech leaders in call for global AI ‘red lines’",
+        "description": "European lawmakers have joined Nobel Prize winners, former heads of state and leading AI researchers in calling for binding international rules to fight against the most dangerous applications of artificial intelligence.",
+        "content": "The initiative, launched this Monday at the United Nations’ 80th General Assembly in New York, urges governments to agree by 2026 on a set of “red lines” on the uses of AI considered too harmful to be permitted under any circumstances.\nAmong the sign... [3321 chars]",
+        "url": "https://www.euronews.com/next/2025/09/22/european-lawmakers-join-nobel-laureates-and-tech-leaders-in-call-for-global-ai-red-lines",
+        "image": "https://static.euronews.com/articles/stories/09/47/76/93/1200x675_cmsv2_eaba83a6-4898-50db-9b66-72647966e17a-9477693.jpg",
+        "publishedAt": "2025-09-22T15:35:52Z",
+        "lang": "en",
+        "source": {
+            "id": "3d24c816061d69b2e23b8583aed9b447",
+            "name": "Euronews",
+            "url": "https://www.euronews.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "6f2648bad5edf775aaf2fe9b02b73560",
         "title": "Meet the new recruit: Artificial intelligence in college football",
         "description": "From recruiting to revenue, college sports is figuring out how to embrace AI.",
@@ -77,86 +157,6 @@
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "486fe31e3b7800ad3dca9bad546eb3e8",
-        "title": "Is AI a renaissance or recession for programming?",
-        "description": "The president of Constellation Software Inc. says it’s proving difficult to determine whether artificial intelligence is causing a renaissance or a recession in programming.",
-        "content": "TORONTO — The president of Constellation Software Inc. says it’s proving difficult to determine whether artificial intelligence is causing a renaissance or a recession in programming.\nMark Leonard says it’s possible AI will lead to a surge in demand ... [879 chars]",
-        "url": "https://www.cp24.com/news/money/2025/09/22/constellation-software-unsure-if-ai-is-a-renaissance-or-recession-for-programming/",
-        "image": "https://www.cp24.com/resizer/v2/ZCHMMIZJ7JPSQHIIT4K7DIVVDE.jpg?smart=true&auth=638b58b57d4ce0273c16996d8685ba8c149f3ad13b6c6bee9aca631a4287240b&width=1200&height=630",
-        "publishedAt": "2025-09-22T14:25:55Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "e0134731c67d315a2bfa5a7eb841c4a3",
-        "title": "Is AI a renaissance or recession for programming?",
-        "description": "The president of Constellation Software Inc. says it’s proving difficult to determine whether artificial intelligence is causing a renaissance or a recession in programming.",
-        "content": "TORONTO — The president of Constellation Software Inc. says it’s proving difficult to determine whether artificial intelligence is causing a renaissance or a recession in programming.\nMark Leonard says it’s possible AI will lead to a surge in demand ... [879 chars]",
-        "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/09/22/constellation-software-unsure-if-ai-is-a-renaissance-or-recession-for-programming/",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/ZCHMMIZJ7JPSQHIIT4K7DIVVDE.jpg?smart=true&auth=638b58b57d4ce0273c16996d8685ba8c149f3ad13b6c6bee9aca631a4287240b&width=1200&height=630",
-        "publishedAt": "2025-09-22T14:25:55Z",
-        "lang": "en",
-        "source": {
-            "id": "1b697445987e8a33f6c82842e17d60d9",
-            "name": "Bnn Bloomberg",
-            "url": "https://www.bnnbloomberg.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "b3beb0cfd25717e01c3b71274066ca68",
-        "title": "AI is coming for these jobs next, but experts say others are surprisingly safe - is yours's protected",
-        "description": "Artificial Intelligence is rapidly reshaping the job market. Some jobs requiring empathy, judgment, and physical skills are safe. Roles involving repetitive tasks face automation risks. Healthcare, law, and skilled trades remain secure. However, transcription and scheduling jobs are vulnerable. The future workforce will see humans partnering with AI. Companies must strategically invest in their workforce.",
-        "content": "Synopsis\nArtificial Intelligence is rapidly reshaping the job market. Some jobs requiring empathy, judgment, and physical skills are safe. Roles involving repetitive tasks face automation risks. Healthcare, law, and skilled trades remain secure. Howe... [8069 chars]",
-        "url": "https://economictimes.indiatimes.com/news/international/us/ai-is-coming-for-these-jobs-next-but-experts-say-others-are-surprisingly-safe-is-yourss-protected/articleshow/124048454.cms",
-        "image": "https://img.etimg.com/thumb/msid-124048360,width-1200,height-630,imgsize-28612,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2025-09-22T13:22:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "ef30da5e3e573dffcd622c94aaea32b9",
-        "title": "Hollywood star 'terrified' by AI and warns of 'very chilling things'",
-        "description": "David Tennant has revealed he is “terrified” about the impact artificial intelligence will have on the television industry and said it feels 'horribly inevitable' that it'll lead to job losses",
-        "content": "David Tennant has revealed he is “terrified” about the impact artificial intelligence will have on the television industry and said it feels 'horribly inevitable' that it'll lead to job losses\nDavid Tennant is “terrified” about the impact artificial ... [2165 chars]",
-        "url": "https://www.dailystar.co.uk/showbiz/hollywood-star-terrified-ai-warns-35944369",
-        "image": "https://i2-prod.dailystar.co.uk/article35795574.ece/ALTERNATES/s1200/2_Humanoid-Robot-Hint.jpg",
-        "publishedAt": "2025-09-22T13:05:59Z",
-        "lang": "en",
-        "source": {
-            "id": "4300aa22a5f803b09a37ff0632b44685",
-            "name": "The daily Star",
-            "url": "https://www.dailystar.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "cebb03002d5d3afe298f78dcfcd54f38",
-        "title": "Cybercrime explained: Fortinet talks about billions of threats a day",
-        "description": "Artificial intelligence has made cybercrime a growth business, on an exponential scale, and the Burnaby office of Fortinet is on front-line.",
-        "content": "Article content\nThe “threat map” that greets you at reception of cybersecurity firm Fortinet’s Metro Vancouver hub is the easiest illustration for the layperson of cybercrime’s explosive growth.\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\nSubscribe... [3932 chars]",
-        "url": "https://vancouversun.com/news/cybercrime-fortinet-billions-of-threats-ai",
-        "image": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2025/09/0920-fortinet-w.jpg",
-        "publishedAt": "2025-09-22T13:00:57Z",
-        "lang": "en",
-        "source": {
-            "id": "38b40ff4fcdaca70654e132d33d3cb7a",
-            "name": "Vancouver Sun",
-            "url": "https://vancouversun.com",
-            "country": "ca"
         }
     }
 ]
