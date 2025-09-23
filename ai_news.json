@@ -1,5 +1,37 @@
 [
     {
+        "id": "6f2648bad5edf775aaf2fe9b02b73560",
+        "title": "Meet the new recruit: Artificial intelligence in college football",
+        "description": "From recruiting to revenue, college sports is figuring out how to embrace AI.",
+        "content": "Artificial intelligence (AI) is the hottest -- and most unsettling -- topic shaping the future of business, and college sports is no exception. Decision makers, staffers and coaches know it's changing the world, even if no one fully understands how. ... [14761 chars]",
+        "url": "https://www.cbssports.com/college-football/news/meet-the-new-recruit-artificial-intelligence-in-college-football/",
+        "image": "https://sportshub.cbsistatic.com/i/r/2025/09/22/4d81b604-2650-4978-be4d-2444fa3be5b8/thumbnail/1200x675/8fd05a7abeb9c5cb0c4027d76bcef225/chatgpt.png",
+        "publishedAt": "2025-09-22T15:13:00Z",
+        "lang": "en",
+        "source": {
+            "id": "3989f52bbec2d3be8442e2851b59e79e",
+            "name": "CBS Sports",
+            "url": "https://www.cbssports.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c4d85361ee47043883f70c95714ec1d2",
+        "title": "University-Police Partnership: A New Era for Tech-Savvy Policing",
+        "description": "Himachal Pradesh University and the state police signed a memorandum of understanding to collaborate on advancing policing through academic and technical support. The partnership will focus on areas such as Artificial Intelligence, cybersecurity, and crime trend analysis, offering training and internship opportunities to students while enhancing police capabilities.",
+        "content": "Himachal Pradesh University has inked a strategic memorandum of understanding with the state police to enhance policing with cutting-edge academic and technical insights. Positioned at the forefront of innovation, the university will bolster the forc... [812 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3636806-university-police-partnership-a-new-era-for-tech-savvy-policing",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2024_08_56_02_6135565.png?width=920&format=jpeg",
+        "publishedAt": "2025-09-22T15:02:41Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "d4cee29ba6da88d9df728d38a6b33312",
         "title": "AI Revolutionizes Education in India's Multilingual Landscape",
         "description": "Union Education Minister Dharmendra Pradhan highlighted artificial intelligence's potential to revolutionize learning in Indian languages, during a ceremony for Swadhyay Bhawan's opening in East Delhi. The new centre, part of Delhi University's School of Open Learning, combines modern infrastructure with state-of-the-art technology, creating vast educational opportunities for students nationwide.",
@@ -112,22 +144,6 @@
         }
     },
     {
-        "id": "5636f0dab54b569cf6adb2c41361151d",
-        "title": "Cybercrime explained: Fortinet talks about billions of threats a day, amped by AI",
-        "description": "Artificial intelligence has made cybercrime a growth business, on an exponential scale, and the Burnaby office of Fortinet is on front-line.",
-        "content": "Article content\nThe “threat map” that greets you at reception of cybersecurity firm Fortinet’s Metro Vancouver hub is the easiest illustration for the layperson of cybercrime’s explosive growth.\nAdvertisement 2\nStory continues below\nThis advertisemen... [8177 chars]",
-        "url": "https://theprovince.com/news/cybercrime-fortinet-billions-of-threats-ai/wcm/d598bc73-e3de-425e-b899-160e8fff100d",
-        "image": "https://smartcdn.gprod.postmedia.digital/theprovince/wp-content/uploads/2025/09/0920-fortinet-w.jpg",
-        "publishedAt": "2025-09-22T13:00:57Z",
-        "lang": "en",
-        "source": {
-            "id": "151e16058f3cb39651c31018593e2a50",
-            "name": "The Province",
-            "url": "https://theprovince.com",
-            "country": "ca"
-        }
-    },
-    {
         "id": "cebb03002d5d3afe298f78dcfcd54f38",
         "title": "Cybercrime explained: Fortinet talks about billions of threats a day",
         "description": "Artificial intelligence has made cybercrime a growth business, on an exponential scale, and the Burnaby office of Fortinet is on front-line.",
@@ -140,22 +156,6 @@
             "id": "38b40ff4fcdaca70654e132d33d3cb7a",
             "name": "Vancouver Sun",
             "url": "https://vancouversun.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "7a85629282e8b70d2bcbce93b16a7b98",
-        "title": "Cybercrime explained: Fortinet talks about billions of threats a day",
-        "description": "Artificial intelligence has made cybercrime a growth business, on an exponential scale, and the Burnaby office of Fortinet is on front-line.",
-        "content": "Article content\nThe “threat map” that greets you at reception of cybersecurity firm Fortinet’s Metro Vancouver hub is the easiest illustration for the layperson of cybercrime’s explosive growth.\nAdvertisement 2\nStory continues below\nThis advertisemen... [8177 chars]",
-        "url": "https://theprovince.com/news/cybercrime-fortinet-billions-of-threats-ai",
-        "image": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2025/09/0920-fortinet-w.jpg",
-        "publishedAt": "2025-09-22T13:00:57Z",
-        "lang": "en",
-        "source": {
-            "id": "151e16058f3cb39651c31018593e2a50",
-            "name": "The Province",
-            "url": "https://theprovince.com",
             "country": "ca"
         }
     }
