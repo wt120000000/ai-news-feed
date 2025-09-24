@@ -1,5 +1,37 @@
 [
     {
+        "id": "ce689cd6dd2509107af63f59a43307a2",
+        "title": "Will a win-win for Nvidia and OpenAI end up as a lose-lose for the rest of us?",
+        "description": "AI chip major Nvidia’s pact with ChatGPT’s maker may look like a business masterstroke, but an emerging web of big-money alliances should make the world’s AI users sit up. Nobody should get to dominate the market for artificial intelligence. It’s way too important.",
+        "content": "On Monday, news broke of Nvidia’s deal with OpenAI that could see the world’s top AI chip company invest up to $100 billion in the firm behind ChatGPT, one tenth at a time.\nNvidia is the world’s most valuable company, with a monopolistic hold on its ... [2985 chars]",
+        "url": "https://www.livemint.com/opinion/online-views/nvidia-openai-deal-ai-investment-bubble-market-competition-chatgpt-sam-altman-corporate-monopoly-china-silicon-valley-11758635905615.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/09/23/1600x900/logo/NVIDIA-OPENAI-FINANCE-0_1758636605114_1758636628392.JPG",
+        "publishedAt": "2025-09-24T02:00:09Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "04d694bf5e9cf17f2d8827a8f8894565",
+        "title": "Sylvester part of major national study on AI use in breast cancer screening",
+        "description": "Sylvester Comprehensive Cancer Center, part of University of Miami Miller School of Medicine, will co-lead a newly funded, multi-institutional clinical trial to evaluate whether artificial intelligence (AI) can help support radiologists in interpreting mammograms more accurately, with the goal of improving breast cancer screening and reducing unnecessary callbacks and anxiety for patients.",
+        "content": "Sylvester Comprehensive Cancer Center, part of University of Miami Miller School of Medicine, will co-lead a newly funded, multi-institutional clinical trial to evaluate whether artificial intelligence (AI) can help support radiologists in interpreti... [4332 chars]",
+        "url": "https://www.news-medical.net/news/20250923/Sylvester-part-of-major-national-study-on-AI-use-in-breast-cancer-screening.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+        "publishedAt": "2025-09-24T01:37:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "ef8ee5c70a9cfd4ffd32bb42f5416ff5",
         "title": "quarters of companies now consider ‘AI essential to operations’",
         "description": "Agentic AI goes mainstream as majority of companies report leveraging multiple AI Agents Leaders are adopting artificial intelligence so widely that t...",
@@ -124,38 +156,6 @@
             "id": "85b540771682043e2a9f294068f5345b",
             "name": "Breitbart News Network",
             "url": "https://www.breitbart.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "81bec40637ff3553bba31f9fd3ea0bb6",
-        "title": "Boeing, Palantir collaborate on AI for defense, space and security",
-        "description": "U.S. defense, space and security will benefit from Boeing's use of Palantir's artificial intelligence-based Foundry platform to streamline its major production lines, officials said Tuesday.",
-        "content": "Sept. 23 (UPI) -- U.S. defense, space and security will benefit from Boeing's use of Palantir's artificial intelligence-based Foundry platform to streamline its major production lines, officials said Tuesday.\nBoeing and Palantir announced the collabo... [1679 chars]",
-        "url": "https://www.upi.com/Top_News/US/2025/09/23/boeing-palantir-artificial-intelligence/3861758664174/",
-        "image": "https://cdnph.upi.com/sv/ph/og/upi/3861758664174/2025/1/b219de231e2fd08aec9ae316ec079c74/v1.5/Boeing-Palantir-collaborate-on-AI-for-defense-space-and-security.jpg",
-        "publishedAt": "2025-09-23T22:16:01Z",
-        "lang": "en",
-        "source": {
-            "id": "79baacd62152cf257ee35e8c0bec19a2",
-            "name": "UPI News",
-            "url": "https://www.upi.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "cf9d48f4d9f7efb2ecd738ff5ee91b16",
-        "title": "Meta's Llama to be made available to US allies in Europe, Asia",
-        "description": "Allies of the United States in Europe and Asia will now have access to Meta Platforms' artificial intelligence system Llama, the company said on Tuesday, a day after the U.S. approved its use for government agencies.",
-        "content": "Llama is a large language model capable of processing data, including text, video, images and audio.\nSign up here.\nThe social media giant is now expanding access to a number of U.S. democratic allies in Europe and Asia: France, Germany, Italy, Japan ... [621 chars]",
-        "url": "https://www.reuters.com/business/retail-consumer/metas-llama-be-made-available-us-allies-europe-asia-2025-09-23/",
-        "image": "https://www.reuters.com/resizer/v2/UJZVMR3ZHJJZTEOAUZ36YMDUJ4.jpg?auth=ec1e822bd8900ce50b05ac1b2cd87a5f212b06dad0a5c0b24594081cf85a4bb5&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-09-23T22:10:07Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
             "country": "us"
         }
     }
