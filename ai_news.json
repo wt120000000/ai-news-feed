@@ -1,5 +1,21 @@
 [
     {
+        "id": "65965ad7499a87781826797ea6d4dd4b",
+        "title": "Asian Stock Surge: AI Drives China's Market Revival",
+        "description": "Asian stocks rebounded on Wednesday, driven by enthusiasm for artificial intelligence and semiconductors. Chinese stocks led this surge, with Alibaba announcing its largest AI model. U.S. stock futures also rose. Meanwhile, the Federal Reserve's recent remarks on policy and inflation influenced global markets, also affecting commodity prices.",
+        "content": "In a remarkable turn of events on Wednesday, Asian stock markets rebounded strongly, buoyed by fresh enthusiasm for artificial intelligence and semiconductors. This surge was predominantly led by Chinese stocks, as a significant tech rally ensued fol... [799 chars]",
+        "url": "https://www.devdiscourse.com/article/business/3639012-asian-stock-surge-ai-drives-chinas-market-revival",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/21_09_2025_16_21_47_086749.png?width=920&format=jpeg",
+        "publishedAt": "2025-09-24T07:00:23Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "a41bd133c5e8985525444df9febccb6d",
         "title": "UN Tackles AI Governance Amid Global Challenges",
         "description": "The United Nations is addressing artificial intelligence as a major challenge during its annual high-level meet-up. A new governance structure, including a global forum and an independent panel, is set up to guide AI regulation. Experts call for internationally binding agreements to ensure AI safety and compliance.",
@@ -141,22 +157,6 @@
             "name": "Swissinfo (EN)",
             "url": "https://www.swissinfo.ch",
             "country": "ch"
-        }
-    },
-    {
-        "id": "801457161b66096966376bb3a0bd0a06",
-        "title": "Alibaba shares rise over 6% after CEO unveils plans to boost AI spending",
-        "description": "Alibaba shares surged to their highest point since 2021 after it announced plans to boost spending on artificial intelligence and unveiled new AI products.",
-        "content": "Alibaba 's Hong Kong-listed shares surged on Wednesday to reach their highest point since 2021 after the company said it will invest more in artificial intelligence and rolled out new AI products and updates.\nShares of the company jumped over 6%, whi... [1410 chars]",
-        "url": "https://www.cnbc.com/2025/09/24/alibaba-shares-rise-over-6percent-after-ceo-unveils-new-ai-products-and-spending-plans.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108192458-1756477930128-gettyimages-2232147544-img_4819.jpeg?v=1758686534&w=1920&h=1080",
-        "publishedAt": "2025-09-24T04:44:11Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
         }
     }
 ]
