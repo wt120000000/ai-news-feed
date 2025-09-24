@@ -1,5 +1,37 @@
 [
     {
+        "id": "d05f1bd86167f29db9c39ab0917227ed",
+        "title": "First Lady unveils 'Fostering the Future Together' to protect kids online",
+        "description": "First lady Melania Trump unveiled a new international initiative focused on protecting children from artificial intelligence risks while promoting innovation and safety.",
+        "content": "First lady Melania Trump used the United Nations General Assembly (UNGA) stage Tuesday to deliver a warning and a call to action: children must be protected as technology races ahead.\nTrump unveiled her new initiative \"Fostering the Future Together\" ... [2212 chars]",
+        "url": "https://www.foxnews.com/politics/melania-trump-declares-the-moment-now-new-global-childrens-initiative-un",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/flotus-speaking-fox-news-002.png",
+        "publishedAt": "2025-09-23T22:57:40Z",
+        "lang": "en",
+        "source": {
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "9818261d13745718fe4b8e50424a80bf",
+        "title": "cloning of Lara Croft's voice has 'Tomb Raider' fans and actors up in arms",
+        "description": "In France, the apparent use of artificial intelligence to clone an actor's voice for video game character Lara Croft has fans and actors up in arms",
+        "content": "In France, the apparent use of artificial intelligence to clone an actor’s voice for video game character Lara Croft has fans and actors up in arms\nAI-cloning of Lara Croft’s voice has ‘Tomb Raider’ fans and actors up in armsBy JOHN LEICESTER and NIC... [4629 chars]",
+        "url": "https://www.breitbart.com/news/ai-cloning-of-lara-crofts-voice-has-tomb-raider-fans-and-actors-up-in-arms/",
+        "image": "https://media.breitbart.com/media/2025/09/wi/ap/france-ai-actors-silenced-25856-france-ai-actors-silenced-francoise-cadol-poses-dubbing-studio-640x335.jpg",
+        "publishedAt": "2025-09-23T22:41:03Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "81bec40637ff3553bba31f9fd3ea0bb6",
         "title": "Boeing, Palantir collaborate on AI for defense, space and security",
         "description": "U.S. defense, space and security will benefit from Boeing's use of Palantir's artificial intelligence-based Foundry platform to streamline its major production lines, officials said Tuesday.",
@@ -124,38 +156,6 @@
             "id": "37128a060981dbbe79321f096e7d1108",
             "name": "U.S. News & World Report",
             "url": "https://www.usnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1a9d2f5bf9aa6d6a09fc0170413d2cd1",
-        "title": "OpenAI, Oracle, SoftBank plan five new AI data centers for $500 billion Stargate project",
-        "description": "OpenAI, Oracle and SoftBank on Tuesday announced plans for five new artificial intelligence data centers in the United States to build out their ambitious Stargate project.",
-        "content": "U.S. President Donald Trump in January hosted top tech CEOs to launch Stargate, a private-sector initiative that plans to spend up to $500 billion to build AI infrastructure.\nSign up here.\nAI is a priority for Trump and tech companies that are pourin... [989 chars]",
-        "url": "https://www.reuters.com/business/media-telecom/openai-oracle-softbank-plan-five-new-ai-data-centers-500-billion-stargate-2025-09-23/",
-        "image": "https://www.reuters.com/resizer/v2/OITQ5R4DU5LUJECJK3MNFT6KPE.jpg?auth=3744b4ae61da607f583b8f3be320b7084efd74da12afffbfd5d4111f65a9e85a&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-09-23T21:04:34Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3460d4529fc038153aa3863dc281bd72",
-        "title": "OpenAI Expands Stargate With Five New Data Center Sites Across US",
-        "description": "OpenAI plans to invest roughly $400 billion to develop five new US data center sites in partnership with Oracle Corp. and SoftBank Group Corp., marking the biggest push yet to fulfill an earlier pledge to spend a half-trillion dollars on artificial intelligence infrastructure in the country.The new locations, spread across Texas, New Mexico and Ohio, will eventually have a capacity of 7 gigawatts of power, or as much as some cities, the companies said Tuesday. The plans were announced by executi",
-        "content": "OpenAI plans to invest roughly $400 billion to develop five new US data center sites in partnership with Oracle Corp. and SoftBank Group Corp. , marking the biggest push yet to fulfill an earlier pledge to spend a half-trillion dollars on artificial ... [1166 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-09-23/openai-oracle-expand-stargate-with-5-new-data-center-sites-in-us",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqNvUdAGbKcc/v1/1200x800.jpg",
-        "publishedAt": "2025-09-23T21:00:35Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
             "country": "us"
         }
     }
