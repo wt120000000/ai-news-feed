@@ -1,5 +1,37 @@
 [
     {
+        "id": "9b2651e0d198b528f9f63b59f51997ab",
+        "title": "Meta's Llama to be made available to US allies in Europe, Asia",
+        "description": "(Reuters) -Allies of the United States in Europe and Asia will now have access to Meta Platforms' artificial intelligence system Llama, the company said on Tuesday, a day after the U.S. approved its use for government agencies.",
+        "content": "(Reuters) -Allies of the United States in Europe and Asia will now have access to Meta Platforms' artificial intelligence system Llama, the company said on Tuesday, a day after the U.S. approved its use for government agencies.\nLlama is a large langu... [989 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/09/24/meta039s-llama-to-be-made-available-to-us-allies-in-europe-asia",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/09/24/3536640.jpg",
+        "publishedAt": "2025-09-23T23:35:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "ec39ba5dd9cb613f003ab442e69397eb",
+        "title": "Micron forecasts first-quarter revenue above estimates on AI demand",
+        "description": "(Reuters) -Micron Technology forecast first-quarter revenue above market estimates on Tuesday, betting on booming demand for artificial intelligence hardware to boost sales of its advanced memory chips as a race to dominate AI tech intensifies.",
+        "content": "(Reuters) -Micron Technology forecast first-quarter revenue above market estimates on Tuesday, betting on booming demand for artificial intelligence hardware to boost sales of its advanced memory chips as a race to dominate AI tech intensifies.\nEffor... [2822 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/09/24/micron-forecasts-first-quarter-revenue-above-estimates-on-ai-demand",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/09/24/3536638.jpg",
+        "publishedAt": "2025-09-23T23:26:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "d05f1bd86167f29db9c39ab0917227ed",
         "title": "First Lady unveils 'Fostering the Future Together' to protect kids online",
         "description": "First lady Melania Trump unveiled a new international initiative focused on protecting children from artificial intelligence risks while promoting innovation and safety.",
@@ -124,38 +156,6 @@
             "id": "d5a02d07558c5563d72576efc406e608",
             "name": "ABC17News.com",
             "url": "https://abc17news.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "848d8b34ac20dc0448e06deb435aa111",
-        "title": "As Melania Trump tries to enlist other first spouses to her coalition, one urgently seeks her attention",
-        "description": "First lady Melania Trump hosted world leaders’ spouses on the sidelines of the United Nations General Assembly on Tuesday, announcing the launch of a new coalition on children’s well-being and artificial intelligence safety that she said she hoped they would join.",
-        "content": "First lady Melania Trump hosted world leaders’ spouses on the sidelines of the United Nations General Assembly on Tuesday, announcing the launch of a new coalition on children’s well-being and artificial intelligence safety that she said she hoped th... [4933 chars]",
-        "url": "https://edition.cnn.com/2025/09/23/politics/melania-trump-united-nations-olena-zelenska",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/22025-09-23t185732z-1617183382-rc2txga84s6p-rtrmadp-3-un-assembly.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-09-23T21:11:40Z",
-        "lang": "en",
-        "source": {
-            "id": "26269dbc42635df9af8c24f3cdab8e37",
-            "name": "Cable News Network",
-            "url": "https://edition.cnn.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1a7b1275968d3b7bda2bb6f7c47bfcc3",
-        "title": "OpenAI and Oracle Show off Stargate AI Data Center in Texas and Plan Five More Elsewhere",
-        "description": "ABILENE, Texas (AP) — The afternoon sun was so hot that OpenAI CEO Sam Altman traded his usual sweater for a T-shirt on the last legs of a Tuesday visit to the massive Stargate artificial intelligence data center complex that will power the future of ChatGPT.",
-        "content": "ABILENE, Texas (AP) — The afternoon sun was so hot that OpenAI CEO Sam Altman traded his usual sweater for a T-shirt on the last legs of a Tuesday visit to the massive Stargate artificial intelligence data center complex that will power the future of... [5824 chars]",
-        "url": "https://www.usnews.com/news/best-states/texas/articles/2025-09-23/openai-and-oracle-show-off-stargate-ai-data-center-in-texas-and-plan-five-more-elsewhere",
-        "image": "https://www.usnews.com/dims4/USNEWS/e38265e/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fa6%2F3adb173fc11d287332e59916bad49b%2F2499cfb6950844048bbdc1eee48d2da7OpenAI_Stargate_43284.jpg",
-        "publishedAt": "2025-09-23T21:06:00Z",
-        "lang": "en",
-        "source": {
-            "id": "37128a060981dbbe79321f096e7d1108",
-            "name": "U.S. News & World Report",
-            "url": "https://www.usnews.com",
             "country": "us"
         }
     }
