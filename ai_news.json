@@ -1,5 +1,21 @@
 [
     {
+        "id": "2730e253da4aa2526032afaadb84a71c",
+        "title": "Cloudflare launches new policy to stop Google AI from using website content without consent",
+        "description": "Cloudflare has introduced its Content Signals Policy, which will not allow website owners to set boundaries on how Google and other artificial intelligence systems handle their published material.",
+        "content": "Cloudflare is introducing a new policy that directly targets Google’s AI operations, particularly its AI Overviews feature. Google has been called out many times by publishers for using their content without authorisation to train AI and across the w... [2716 chars]",
+        "url": "https://www.indiatoday.in/technology/news/story/cloudflare-launches-new-policy-to-stop-google-ai-from-using-website-content-without-consent-2793044-2025-09-25",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/cloudflare-254527127-16x9_0.png?VersionId=HZtYWoiDyqeDZ1xC7GMG.zJIfO0qfuXt",
+        "publishedAt": "2025-09-25T06:45:45Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "2239276eeeb1a0e3ed71737e0d63b156",
         "title": "AI could make future conflicts much more perilous, Pakistan tells UNSC",
         "description": "Defence Minister Khawaja Asif has cautioned that the growing reliance on artificial intelligence in military command-and-control systems presents a grave threat to international security.The...",
@@ -141,22 +157,6 @@
             "name": "ETF Daily News",
             "url": "https://www.etfdailynews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "0881f07b4312557cacadfa3d381615d3",
-        "title": "GenAI To Shape Over 40 Million Annual Car-Buying Journeys By 2030: Report",
-        "description": "Generative artificial intelligence (GenAI) could influence more than 40 million annual car-buying journeys worldwide by 2030, reshaping how consumers purchase vehicles and altering the dynamics of the auto industry, according to a report released by Boston Consulting Group (BCG) in partnership with OpenAI.",
-        "content": "Generative artificial intelligence (GenAI) could influence more than 40 million annual car-buying journeys worldwide by 2030, reshaping how consumers purchase vehicles and altering the dynamics of the auto industry, according to a report released by ... [2143 chars]",
-        "url": "https://www.republicworld.com/business/genai-to-shape-over-40-million-annual-car-buying-journeys-by-2030-report",
-        "image": "https://img.republicworld.com/rimages/GENai-170661895552316_9.webp",
-        "publishedAt": "2025-09-25T02:26:15Z",
-        "lang": "en",
-        "source": {
-            "id": "e479ce8332aab31d8bac6ba9584cedbb",
-            "name": "Republic World",
-            "url": "https://www.republicworld.com",
-            "country": "in"
         }
     }
 ]
