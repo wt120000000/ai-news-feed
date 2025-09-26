@@ -1,5 +1,21 @@
 [
     {
+        "id": "9ce720edc7751a8293381ce2ccc787d8",
+        "title": "Simple tweak to how AI assigns diagnostic codes could improve accuracy",
+        "description": "A new study from researchers at the Mount Sinai Health System suggests that a simple tweak to how artificial intelligence (AI) assigns diagnostic codes could significantly improve accuracy, even outperforming physicians.",
+        "content": "A new study from researchers at the Mount Sinai Health System suggests that a simple tweak to how artificial intelligence (AI) assigns diagnostic codes could significantly improve accuracy, even outperforming physicians. The findings, reported in the... [4907 chars]",
+        "url": "https://www.news-medical.net/news/20250925/Simple-tweak-to-how-AI-assigns-diagnostic-codes-could-improve-accuracy.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+        "publishedAt": "2025-09-26T02:08:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "02e62111ac49a417341684edab6c7774",
         "title": "Nearly 500 research papers were retracted: Former SPPU VC",
         "description": "Karmalkar underlined the importance of adapting curricula to contemporary needs in artificial intelligence (AI), data science, bioinformatics and electric mobility, pointing that private universities are moving faster in these areas",
@@ -28,6 +44,22 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "4c8a1c1d46dcfc09f90419ce30257b11",
+        "title": "France Artificial Intelligence in Diagnostics Market",
+        "description": "The France Artificial Intelligence in Diagnostics Market is projected to grow from US$ 46.73 million in 2024 to US$ 180.76 million by 2033, with a CAGR of...",
+        "content": "Dublin, Sept. 26, 2025 (GLOBE NEWSWIRE) -- The \"France Artificial Intelligence in Diagnostics Market Report by Component, Application, End Use, States and Company Analysis, 2025-2033\" report has been added to ResearchAndMarkets.com's offering.\nFrance... [9588 chars]",
+        "url": "https://www.globenewswire.com/news-release/2025/09/26/3157095/28124/en/France-Artificial-Intelligence-in-Diagnostics-Market-Research-Report-2025-2033-Component-Application-End-Use-States-and-Company-Analysis.html",
+        "image": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+        "publishedAt": "2025-09-26T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "8e9ab8327c5f7903cc1b50470411d165",
+            "name": "GlobeNewswire",
+            "url": "https://www.globenewswire.com",
             "country": "us"
         }
     },
@@ -125,38 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "13b8b0e76fb0f45a6e68f66e12c051b8",
-        "title": "Countries Consider A.I.’s Dangers and Benefits at U.N.",
-        "description": "The United Nations announced a new “global dialogue on artificial intelligence governance,” and a new global A.I. panel on the technology’s risks and rewards.",
-        "content": "The United Nations on Thursday announced a plan to establish itself as the leading global forum to guide the path and pace of artificial intelligence, a major foray into the raging debate over the future of the rapidly changing technology.\nAs part of... [1577 chars]",
-        "url": "https://www.nytimes.com/2025/09/25/business/un-artificial-intelligence.html",
-        "image": "https://static01.nyt.com/images/2025/09/25/multimedia/25biz-ai-un-2-mtwg/25biz-ai-un-2-mtwg-facebookJumbo.jpg",
-        "publishedAt": "2025-09-25T22:44:09Z",
-        "lang": "en",
-        "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "153626b26ae95bd66be0345e3d64506b",
-        "title": "Microsoft reduces Israel's access to AI products over Gaza mass surveillance",
-        "description": "Microsoft said it has disabled services to a unit within the Israeli military after a company review had determined its artificial intelligence and cloud computing products were being used to help carry out mass surveillance of Palestinians.",
-        "content": "WASHINGTON (AP) — Microsoft said Thursday it had disabled services to a unit within the Israeli military after a company review had determined its artificial intelligence and cloud computing products were being used to help carry out mass surveillanc... [3651 chars]",
-        "url": "https://apnews.com/article/microsoft-israel-military-gaza-hamas-artificial-intelligence-3f4bf8036e7e02f385b258bd353af1fd",
-        "image": "https://dims.apnews.com/dims4/default/33bf86a/2147483647/strip/true/crop/5747x3233+0+299/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe5%2Fd8%2Fa9c8a2ddfdac87875c0e4d1b45e2%2Ff7570066ecf44ba4a8829f6f7328b4b2",
-        "publishedAt": "2025-09-25T22:42:42Z",
-        "lang": "en",
-        "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com",
-            "country": "us"
         }
     }
 ]
