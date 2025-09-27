@@ -1,5 +1,21 @@
 [
     {
+        "id": "3bc591221a51a277360249f54092dd55",
+        "title": "PM Shehbaz terms meeting with US President Trump ‘very encouraging’",
+        "description": "Says US is ready to share \"techniques\" with Pakistan in areas of artificial intelligence, information technology and agriculture.",
+        "content": "Prime Minister Shehbaz Sharif termed his recent meeting with US President Donald Trump as “very encouraging” on Friday — a day after the two leaders had their first formal bilateral interaction at the Oval Office in Washington and discussed regional ... [1335 chars]",
+        "url": "https://www.dawn.com/news/1944954/pm-shehbaz-terms-meeting-with-us-president-trump-very-encouraging",
+        "image": "https://i.dawn.com/large/2025/09/2713442950da749.webp",
+        "publishedAt": "2025-09-27T08:44:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6536182115f7e8188f38d864bab0e1c6",
+            "name": "DAWN.com",
+            "url": "https://www.dawn.com",
+            "country": "pk"
+        }
+    },
+    {
         "id": "3425a0587a31a3f01704d173db08f50f",
         "title": "Millions of car journeys could be stopped across UK after groundbreaking trial",
         "description": "The STEP platform, created by UK start-up HomeRun, uses artificial intelligence and national data to map how children travel to school.",
@@ -124,22 +140,6 @@
             "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
             "name": "MarketBeat",
             "url": "https://www.marketbeat.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "32776a652f4e6bee7abbd23f523a9c7c",
-        "title": "AI's energy demand draws investment firms to local utilities",
-        "description": "Private investment firms that are helping finance America’s artificial intelligence race and the huge buildout of energy-hungry data centers are getting interested in the local utilities that deliver electricity to regular customers — and the servers that power AI.",
-        "content": "HARRISBURG, Pa. (AP) — Private investment firms that are helping finance America’s artificial intelligence race and the huge buildout of energy-hungry data centers are getting interested in the local utilities that deliver electricity to regular cust... [6766 chars]",
-        "url": "https://apnews.com/article/big-tech-private-equity-electricity-utilities-power-energy-7c5d119142380bb7a83bbe722f69f2a5",
-        "image": "https://dims.apnews.com/dims4/default/b25d5ce/2147483647/strip/true/crop/4032x2268+0+378/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F76%2Fb8%2Fb0cdaf8128b5fefda95d3709c820%2F9ff6c1c6cf3a4df19276d3dc609d7553",
-        "publishedAt": "2025-09-27T04:01:27Z",
-        "lang": "en",
-        "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com",
             "country": "us"
         }
     },
