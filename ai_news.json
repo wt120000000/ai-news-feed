@@ -1,5 +1,37 @@
 [
     {
+        "id": "16267bdbcfa94d04be3b0988f7ad4491",
+        "title": "AI model enables fine-scale monitoring of ammonia emissions that contribute to fine particulate matter",
+        "description": "A novel artificial intelligence (AI) technology now makes it possible to monitor ammonia (NH3)—a key contributor to harmful fine dust particles—with unprecedented precision and spatial detail, addressing longstanding gaps in current observation methods.",
+        "content": "A novel artificial intelligence (AI) technology now makes it possible to monitor ammonia (NH3)—a key contributor to harmful fine dust particles—with unprecedented precision and spatial detail, addressing longstanding gaps in current observation metho... [2450 chars]",
+        "url": "https://phys.org/news/2025-09-ai-enables-fine-scale-ammonia.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/finer-scale-monitoring.jpg",
+        "publishedAt": "2025-09-26T17:20:03Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "b2a719ef32e212311bb7c3a3ab585476",
+        "title": "‘Riks, sirst time’: Pakistan's Khwaja Asif fumbles 7 times at UNSC meeting | Watch",
+        "description": "Pakistan defence minister Khwaja Asif spoke about artificial intelligence and the Indo-Pak tensions at the session chaired by UN chief Antonio Guterres. | World News",
+        "content": "At the dialogue chaired by UN Secretary-General Antonio Guterres, Asif discussed artificial intelligence and the India-Pakistan tensions. However, what drew more attention were the verbal slip-ups and mispronunciations he made during his speech.\nAt l... [2700 chars]",
+        "url": "https://www.hindustantimes.com/world-news/riks-sirst-time-pakistan-khwaja-asif-fumbles-7-times-at-unsc-meeting-watch-101758905536398.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2025/09/26/1600x900/logo/khwaja_asif_unsc_1758906172854_1758906182677.png",
+        "publishedAt": "2025-09-26T17:19:15Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "631143382005f9589f05778b3a361731",
         "title": "Meta turns to Google’s Gemini to power its ad business despite $600B AI Bet",
         "description": "Meta has poured billions into artificial intelligence, but it may soon rely on Google to run one of its most critical businesses. According to The Information, Meta staffers have held talks with Google Cloud about using its Gemini models to sharpen the ad targeting that drives Facebook, Instagram, and WhatsApp. \"Meta Platforms staffers have had",
@@ -124,38 +156,6 @@
             "id": "a6d401909ca644c4ffb332486c9cfaea",
             "name": "Seeking Alpha",
             "url": "https://seekingalpha.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4235cb2c00112f3f7faf45058da47cc0",
-        "title": "Optogenetics and artificial intelligence open path to personalized Parkinson’s treatment",
-        "description": "Globally recognized figures like Muhammad Ali and Michael J. Fox have long suffered from Parkinson's disease. The disease presents a complex set of motor symptoms, including tremors, rigidity, bradykinesia, and postural instability.",
-        "content": "Globally recognized figures like Muhammad Ali and Michael J. Fox have long suffered from Parkinson's disease. The disease presents a complex set of motor symptoms, including tremors, rigidity, bradykinesia, and postural instability. However, traditio... [4552 chars]",
-        "url": "https://www.news-medical.net/news/20250926/Optogenetics-and-artificial-intelligence-open-path-to-personalized-Parkinsone28099s-treatment.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2015/7/image_28620e4b6b0047f7ab9154b41d739db1-620x480.jpg",
-        "publishedAt": "2025-09-26T14:32:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "c8246a146ca297497e3c1ffb7cb4c488",
-        "title": "Trump launches AI program to deny Medicare services",
-        "description": "Taking a page from the private insurance industry’s playbook, the Trump administration will launch a program next year to find out how much money an artificial intelligence algorithm could save the federal government by denying care to Medicare patients.The pilot program, designed to weed out wastef...",
-        "content": "Taking a page from the private insurance industry’s playbook, the Trump administration will launch a program next year to find out how much money an artificial intelligence algorithm could save the federal government by denying care to Medicare patie... [35407 chars]",
-        "url": "https://www.rawstory.com/trump-launches-ai-program-to-deny-medicare-services/",
-        "image": "https://www.rawstory.com/media-library/a-nurse-holds-an-elderly-woman-s-hand-shutterstock.jpg?id=55304547&width=1200&height=600&coordinates=0%2C54%2C0%2C55",
-        "publishedAt": "2025-09-26T14:28:51Z",
-        "lang": "en",
-        "source": {
-            "id": "d9e5f124fd3af657d83b8787fbbae53d",
-            "name": "Raw Story",
-            "url": "https://www.rawstory.com",
             "country": "us"
         }
     }
