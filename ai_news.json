@@ -1,5 +1,53 @@
 [
     {
+        "id": "eccbfb90b34459146cc8eae523b33a4f",
+        "title": "Amazon (AMZN) Loses a Key AI Executive",
+        "description": "Amazon (AMZN) said that Karthik Ramakrishnan, a Vice President who has been helping lead the tech giant’s artificial general intelligence (AGI) ...",
+        "content": "Amazon (AMZN) said that Karthik Ramakrishnan, a Vice President who has been helping lead the tech giant’s artificial general intelligence (AGI) project, will leave the company on Friday, according to Reuters. Interestingly, Ramakrishnan has worked at... [1706 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/amazon-amzn-loses-a-key-ai-executive-1035215971",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/09/image-2282-1024x766.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2025-09-26T19:16:00Z",
+        "lang": "en",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Markets Insider",
+            "url": "https://markets.businessinsider.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2c693fa8e5616ce8b4c9d20904ac23de",
+        "title": "US investigators are using AI to detect child abuse images made by AI",
+        "description": "Though artificial intelligence is fueling a surge in synthetic child abuse images, it’s also being tested as a way to stop harm to real victims.",
+        "content": "Generative AI has enabled the production of child sexual abuse images to skyrocket. Now the leading investigator of child exploitation in the US is experimenting with using AI to distinguish AI-generated images from material depicting real victims, a... [3517 chars]",
+        "url": "https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2025/09/detect-kids.jpg?resize=1200,600",
+        "publishedAt": "2025-09-26T19:03:34Z",
+        "lang": "en",
+        "source": {
+            "id": "63fb9bccf05610a30851df4c2d33289f",
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d598c85213a31e754b4fc9b729d478f1",
+        "title": "Judge approves $1.5 billion copyright settlement between AI company Anthropic and authors",
+        "description": "A federal judge has approved a $1.5 billion settlement between artificial intelligence company Anthropic and authors who allege nearly half a million books had been illegally pirated to train chatbots. U.S. District Judge William Alsup issued the approval in San Francisco federal court Thursday after the two sides worked to…",
+        "content": "A federal judge has approved a $1.5 billion settlement between artificial intelligence company Anthropic and authors who allege nearly half a million books had been illegally pirated to train chatbots.\nU.S. District Judge William Alsup issued the app... [4041 chars]",
+        "url": "https://japantoday.com/category/tech/judge-approves-1.5-billion-copyright-settlement-between-ai-company-anthropic-and-authors",
+        "image": "https://media.japantoday.com/img/store/0f/33/ecc6be646d3b75e85c0f54db0d7ba3b17be8/download-1/_w1700.jpeg",
+        "publishedAt": "2025-09-26T18:50:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "16267bdbcfa94d04be3b0988f7ad4491",
         "title": "AI model enables fine-scale monitoring of ammonia emissions that contribute to fine particulate matter",
         "description": "A novel artificial intelligence (AI) technology now makes it possible to monitor ammonia (NH3)—a key contributor to harmful fine dust particles—with unprecedented precision and spatial detail, addressing longstanding gaps in current observation methods.",
@@ -108,54 +156,6 @@
             "id": "d4e7f6a65e15620f4e4044691a99d0fd",
             "name": "Benzinga",
             "url": "https://www.benzinga.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "91b89fc3391ae071a4a936efa3cd250b",
-        "title": "Trump Says Yes to Elon Musk's Grok for Federal Agencies - For 42 Cents, How Can It Help the US Government?",
-        "description": "Elon Musk's Grok received the approval of the General Services Administration (GSA). This will allow federal agencies to use the artificial intelligence. But, for what?",
-        "content": "On Thursday, 25 September 2025, US President Donald Trump authorised a landmark agreement with Elon Musk's company xAI. The deal, approved through the General Services Administration (GSA), grants all US federal agencies access to Grok, Musk's advanc... [3425 chars]",
-        "url": "https://www.ibtimes.com/trump-says-yes-elon-musks-grok-federal-agencies-42-cents-how-can-it-help-us-government-3784622",
-        "image": "https://d.ibtimes.com/en/full/4624121/trump-says-yes-elon-musks-grok-federal-agencies.png",
-        "publishedAt": "2025-09-26T16:30:06Z",
-        "lang": "en",
-        "source": {
-            "id": "933344203c2b862af768b5e662a162a4",
-            "name": "International Business Times",
-            "url": "https://www.ibtimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a6b3229fbedbbc92d1de1b34c8c01312",
-        "title": "AI used to predict the toll of concussions on student athletes over time",
-        "description": "Researchers at the University of Michigan are using artificial intelligence to predict the health consequences that sport-related concussions might have on student athletes over the course of their college athletic careers.",
-        "content": "Researchers at the University of Michigan are using artificial intelligence to predict the health consequences that sport-related concussions might have on student athletes over the course of their college athletic careers.\nThe study, which appears i... [4905 chars]",
-        "url": "https://medicalxpress.com/news/2025-09-ai-toll-concussions-student-athletes.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/student-athlete.jpg",
-        "publishedAt": "2025-09-26T16:23:35Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "4fa5825e5261254656f0248f8a95960f",
-        "title": "Ciena rises as Rosenblatt upgrades on AI opportunity",
-        "description": "Ciena (CIEN) shares rose 3% on Friday as Rosenblatt upgraded the telecom equipment company, citing additional opportunities in artificial intelligence. Read for more.",
-        "content": "Ciena rises as Rosenblatt upgrades on AI opportunity\nSep. 26, 2025 11:52 AM ETCiena Corporation (CIEN) StockBy: Chris Ciaccia, SA News Editor\nComments\nCiena (NYSE:CIEN) shares rose 3% on Friday as Rosenblatt upgraded the telecom equipment company, ci... [440 chars]",
-        "url": "https://seekingalpha.com/news/4499550-ciena-rises-as-rosenblatt-upgrades-on-ai-opportunity",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2226744858/image_2226744858.jpg?io=getty-c-w750",
-        "publishedAt": "2025-09-26T15:52:26Z",
-        "lang": "en",
-        "source": {
-            "id": "a6d401909ca644c4ffb332486c9cfaea",
-            "name": "Seeking Alpha",
-            "url": "https://seekingalpha.com",
             "country": "us"
         }
     }
