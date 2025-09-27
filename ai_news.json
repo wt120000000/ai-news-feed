@@ -1,5 +1,21 @@
 [
     {
+        "id": "bd3ce38784df652b063b0291f0e0883d",
+        "title": "Private equity sees profits in power utilities as electric bills rise and Big Tech seeks more energy",
+        "description": "Private investment firms that are helping finance America’s artificial intelligence race and the huge buildout of energy-hungry data centers are",
+        "content": "Private investment firms that are helping finance America’s artificial intelligence race and the huge buildout of energy-hungry data centers are getting interested in the local utilities that deliver electricity to regular customers — and the servers... [7195 chars]",
+        "url": "https://www.breitbart.com/news/private-equity-sees-profits-in-power-utilities-as-electric-bills-rise-and-big-tech-seeks-more-energy/",
+        "image": "https://media.breitbart.com/media/2025/09/wi/ap/tech-private-equity-12807-tech-private-equity-allete-minnesota-power-headquarters-duluth-minn-640x335.jpg",
+        "publishedAt": "2025-09-26T22:25:30Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "775f4d61881acb50158870247bab2c42",
         "title": "With BigBear.ai Stock (BBAI) up 51%, Let’s Look at Who Owns It",
         "description": "BigBear.ai Holdings (BBAI) stock has rallied 51% year-to-date, driven by optimism about the demand for the company’s artificial intelligence (AI...",
@@ -141,22 +157,6 @@
             "name": "MIT Technology Review",
             "url": "https://www.technologyreview.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "d598c85213a31e754b4fc9b729d478f1",
-        "title": "Judge approves $1.5 billion copyright settlement between AI company Anthropic and authors",
-        "description": "A federal judge has approved a $1.5 billion settlement between artificial intelligence company Anthropic and authors who allege nearly half a million books had been illegally pirated to train chatbots. U.S. District Judge William Alsup issued the approval in San Francisco federal court Thursday after the two sides worked to…",
-        "content": "A federal judge has approved a $1.5 billion settlement between artificial intelligence company Anthropic and authors who allege nearly half a million books had been illegally pirated to train chatbots.\nU.S. District Judge William Alsup issued the app... [4041 chars]",
-        "url": "https://japantoday.com/category/tech/judge-approves-1.5-billion-copyright-settlement-between-ai-company-anthropic-and-authors",
-        "image": "https://media.japantoday.com/img/store/0f/33/ecc6be646d3b75e85c0f54db0d7ba3b17be8/download-1/_w1700.jpeg",
-        "publishedAt": "2025-09-26T18:50:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
