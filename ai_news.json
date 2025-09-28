@@ -1,5 +1,37 @@
 [
     {
+        "id": "947d0ba50dbb33745d0ddc3d1b65ebd6",
+        "title": "AI is making some Boston companies hire less",
+        "description": "Big companies are finally talking more specifically about the impact of artificial intelligence on their workforces.",
+        "content": "Under a new policy at DraftKings, he added, “you can’t hire anybody next year unless you’ve already proven you can’t do the same job with an AI agent.”\nRobins and other CEOs in tech, finance, and other sectors have increasingly been asked about cost-... [5025 chars]",
+        "url": "https://www.bostonglobe.com/2025/09/28/business/artificial-intelligence-jobs-hiring/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/TGPBCK2VWPO7OEHEJJQXFUYUHI.jpg?auth=ded4efe6faa8775f1e0c8c46b6a6ac6cf63f0e40f66b215369c9f7c84bc92d96&width=1440",
+        "publishedAt": "2025-09-28T10:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "b6088e216a5454e06edca6cf19fed6c6",
+        "title": "5 Key Technologies Driving Change in The Electronics Sector",
+        "description": "The UK electronics industry faces transformative pressure as emerging technologies reshape design methodologies, manufacturing processes, and supply chain strategies. Understanding these technological shifts allows manufacturers and designers to maintain a competitive advantage in a far more complex landscape. AI-Enhanced Design Automation Artificial intelligence has revolutionised PCB layout processes, moving beyond traditional manual routing to algorithms […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nThe UK electronics industry faces transformative pressure as emerging technologies reshape design methodologies, manufacturing processes, and supply chain strategies. Understanding these technological shifts allows manuf... [4240 chars]",
+        "url": "https://techbullion.com/5-key-technologies-driving-change-in-the-electronics-sector/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/09/IMG_2230-1000x600.jpeg",
+        "publishedAt": "2025-09-28T09:33:52Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "839dc78502c4c9106a6815c048021616",
         "title": "Artificial intelligence helps break barriers for Hispanic homeownership",
         "description": "Some mortgage experts are using AI tools to help limited-English homebuyers navigate the loan application process.",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "cacce8e7d5135e03a162fbcf26b0eca6",
-        "title": "UAE President Sheikh Mohamed meets OpenAI CEO Sam Altman; awarded honorary doctorate for AI leadership",
-        "description": "Middle East News: UAE President Sheikh Mohamed bin Zayed Al Nahyan meets with OpenAI CEO Sam Altman to discuss AI research and innovation partnerships, highlighting the UAE's commitment to becoming a global AI leader. Sam Altman awarded honorary doctorate for AI leadership by Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
-        "content": "UAE President Sheikh Mohamed bin Zayed met OpenAI CEO Sam Altman in Abu Dhabi to explore deeper AI collaboration. The visit aligns with the UAE’s strategic push in AI research, infrastructure, and language innovation. Altman was awarded an honorary d... [3911 chars]",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-president-sheikh-mohamed-meets-openai-ceo-sam-altman-awarded-honorary-doctorate-for-ai-leadership/articleshow/124190487.cms",
-        "image": "https://static.toiimg.com/thumb/msid-124190935,width-1070,height-580,imgsize-895971,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-09-28T04:58:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6c3d7d9ddf9466bd66b951da79184527",
-        "title": "AI users more inclined to dishonesty, study finds",
-        "description": "People who rely on artificial intelligence (AI) at work or school are more likely than others to \"cheat,\" according to a team of French and German researchers.",
-        "content": "BERLIN: People who rely on artificial intelligence (AI) at work or school are more likely than others to \"cheat,\" according to a team of French and German researchers.\nAccording to the Max Planck Institute for Human Development in Berlin, some AI use... [1753 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2025/09/28/ai-users-more-inclined-to-dishonesty-study-finds",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/09/25/3539354.jpeg",
-        "publishedAt": "2025-09-28T03:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
