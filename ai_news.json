@@ -1,5 +1,37 @@
 [
     {
+        "id": "2e36f8e01e535a34c2b2c290ca4c4ebf",
+        "title": "Business, abcademe back blockchain initiative to monitor govt projects",
+        "description": "MANILA, Philippines — Following an initial briefing, over 40 multisectorial leaders have been invited to endorse the 'Integrity Chain,' a new initiative that will use blockchain and artificial intelligence to promote transparency in public governance.",
+        "content": "MANILA, Philippines — Following an initial briefing, over 40 multisectorial leaders have been invited to endorse the \"Integrity Chain,\" a new initiative that will use blockchain and artificial intelligence to promote transparency in public governance... [978 chars]",
+        "url": "https://www.manilatimes.net/2025/09/28/news/business-abcademe-back-blockchain-initiative-to-monitor-govt-projects/2191567",
+        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2025-09-28T05:41:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "6b5d6b64bcfe660c4e00a54016be6ddc",
+        "title": "Business, academe back blockchain initiative to monitor govt projects",
+        "description": "MANILA, Philippines — Following an initial briefing, over 40 multisectorial leaders have been invited to endorse the 'Integrity Chain,' a new initiative that will use blockchain and artificial intelligence to promote transparency in public governance.",
+        "content": "MANILA, Philippines — Following an initial briefing, over 40 multisectorial leaders have been invited to endorse the \"Integrity Chain,\" a new initiative that will use blockchain and artificial intelligence to promote transparency in public governance... [978 chars]",
+        "url": "https://www.manilatimes.net/2025/09/28/news/business-academe-back-blockchain-initiative-to-monitor-govt-projects/2191567",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/28/763505.jpg",
+        "publishedAt": "2025-09-28T05:41:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "cacce8e7d5135e03a162fbcf26b0eca6",
         "title": "UAE President Sheikh Mohamed meets OpenAI CEO Sam Altman; awarded honorary doctorate for AI leadership",
         "description": "Middle East News: UAE President Sheikh Mohamed bin Zayed Al Nahyan meets with OpenAI CEO Sam Altman to discuss AI research and innovation partnerships, highlighting the UAE's commitment to becoming a global AI leader. Sam Altman awarded honorary doctorate for AI leadership by Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
@@ -112,22 +144,6 @@
         }
     },
     {
-        "id": "5241dda64c7d19569335e5fd36e71e4a",
-        "title": "University of Sheffield opens applications for 2026 MSc artificial intelligence for engineering",
-        "description": "Sheffield University invites international applications for its MSc Artificial Intelligence for Engineering, starting September 2026.",
-        "content": "The University of Sheffield, UK, is now accepting international applications for its MSc Artificial Intelligence (AI) for Engineering programme starting September 2026. This one-year postgraduate engineering course is designed to equip students with ... [1170 chars]",
-        "url": "https://www.hindustantimes.com/education/study-abroad/university-of-sheffield-opens-applications-for-2026-msc-artificial-intelligence-for-engineering-101758198275122.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2025/09/18/550x309/image_1_1729257951943_1758198662275.png",
-        "publishedAt": "2025-09-28T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "21468bec836de1ebb209ff6f78fbfe3e",
-            "name": "Hindustan Times",
-            "url": "https://www.hindustantimes.com",
-            "country": "in"
-        }
-    },
-    {
         "id": "b06525ac3fa76700b086d773d0cbe5a8",
         "title": "#WND2025: You deserve the truth, not AI’s interpretation of it",
         "description": "Now, more than ever, we must constantly question what's real and what's the creation of artificial intelligence.",
@@ -141,22 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "e575be4dd09241c0a909a4f54a0a78ad",
-        "title": "Artificial Intelligence and exam shibboleths",
-        "description": "Exam experiences lead to reflections on education system, AI impact, and the need for innovation in learning.",
-        "content": "Once, in an exam, I got the least marks in a question that I thought I answered the best. The topic was dear to me, and I had prepared two pages of notes after going through more than a hundred pages. One friend of mine came to me on the examination ... [2209 chars]",
-        "url": "https://www.thehindu.com/opinion/open-page/artificial-intelligence-and-exam-shibboleths/article70074541.ece",
-        "image": "https://th-i.thgim.com/public/news/national/qkbpbq/article70082226.ece/alternates/LANDSCAPE_1200/iStock-1443628665.jpg",
-        "publishedAt": "2025-09-27T23:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
-            "country": "in"
         }
     }
 ]
