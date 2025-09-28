@@ -1,5 +1,37 @@
 [
     {
+        "id": "3e7321bd17df0d3069503f49a9b484c1",
+        "title": "Nvidia makes a familiar move with $100 billion investment in OpenAI. Will it pay off?",
+        "description": "The GPU giant just made big news again in the artificial intelligence (AI) space.",
+        "content": "This article was originally published on Fool.com. All figures quoted in US dollars unless otherwise stated.\nKey Points\nNvidia plans to gradually invest up to $100 billion in OpenAI.\nThe agreement will support a massive planned data center build-out ... [3599 chars]",
+        "url": "https://www.fool.com.au/2025/09/28/nvidia-makes-a-familiar-move-with-100-billion-investment-in-openai-will-it-pay-off-usfeed/",
+        "image": "https://www.fool.com.au/wp-content/uploads/2022/05/macquarie-1200x675.jpg",
+        "publishedAt": "2025-09-27T19:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c6075ba0dc9d123bb327faaa419d3d07",
+            "name": "The Motley Fool Australia",
+            "url": "https://www.fool.com.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "5607b5dcbfb0b29fe455500eff5dceb0",
+        "title": "Top CEOs warn about white-collar job crisis from AI revolution, predict up to 50% entry-level job losses in US workforce",
+        "description": "Leading CEOs and AI experts warn of a significant jobs crisis in the United States. Artificial intelligence could eliminate up to half of entry-level white-collar positions. Industry giants like Amazon and Walmart anticipate corporate workforce reductions due to AI efficiency gains. Government officials, however, emphasize AI's long-term economic benefits and new job creation.",
+        "content": "Synopsis\nLeading CEOs and AI experts warn of a significant jobs crisis in the United States. Artificial intelligence could eliminate up to half of entry-level white-collar positions. Industry giants like Amazon and Walmart anticipate corporate workfo... [4994 chars]",
+        "url": "https://economictimes.indiatimes.com/news/international/us/top-ceos-warn-about-white-collar-job-crisis-from-ai-revolution-predict-up-to-50-entry-level-job-losses-in-us-workforce/articleshow/124186538.cms",
+        "image": "https://img.etimg.com/thumb/msid-124186600,width-1200,height-630,imgsize-24932,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-09-27T18:50:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "14f11ad2efb36fd9aa4fed8501d37ea0",
         "title": "The Future of Front Desk Management with AI Receptionists",
         "description": "The traditional front desk is undergoing a revolutionary transformation. As businesses worldwide embrace digital solutions, AI receptionists are emerging as game-changing technologies that promise to redefine how organizations manage their front-of-house operations. From small startups to enterprise corporations, the integration of artificial intelligence into reception and customer service roles is not just a trend—it’s becoming […]",
@@ -125,38 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "89e256d70a5631e1230dd14e40f698a3",
-        "title": "Top Analysts See More Room to Run in AppLovin Stock (APP) Even After a 107% YTD Rally",
-        "description": "Shares of artificial intelligence (AI)-powered ad tech company AppLovin (APP) rose 4.7% on Friday and have surged about 107% year-to-date. Even ...",
-        "content": "Shares of artificial intelligence (AI)-powered ad tech company AppLovin (APP) rose 4.7% on Friday and have surged about 107% year-to-date. Even after such an impressive rally, top analysts at UBS and Piper Sandler see further upside potential in APP ... [2073 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/top-analysts-see-more-room-to-run-in-applovin-stock-app-even-after-a-107-ytd-rally-1035216125",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2025/09/APP-stock.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2025-09-27T15:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Markets Insider",
-            "url": "https://markets.businessinsider.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ee5b4631bba249c1c955c8a163c5cf7e",
-        "title": "From algorithms to intelligence: How AI is reshaping quantitative finance education",
-        "description": "News News: Artificial intelligence is revolutionising quantitative finance, enabling smarter trading through advanced models, feature engineering, and portfolio",
-        "content": "Artificial intelligence is revolutionising quantitative finance, enabling smarter trading through advanced models, feature engineering, and portfolio optimisation. Education is key in this shift, and QuantInsti's hands-on courses empower both beginne... [8205 chars]",
-        "url": "https://timesofindia.indiatimes.com/education/news/from-algorithms-to-intelligence-how-ai-is-reshaping-quantitative-finance-education/articleshow/124183605.cms",
-        "image": "https://static.toiimg.com/thumb/msid-124183599,width-1070,height-580,imgsize-53700,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-09-27T14:49:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
