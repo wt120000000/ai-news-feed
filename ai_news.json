@@ -1,5 +1,53 @@
 [
     {
+        "id": "fe82a02ea42f0dd2ee216cf2e220603c",
+        "title": "Smart tech brings sea change in shipbuilding as revival gathers pace",
+        "description": "Artificial intelligence (AI) is another game-changer, used to optimise ship design, predict maintenance needs, and streamline production schedules",
+        "content": "With a combination of fiscal disincentive and physical destruction, the British colonial government decimated the Indian shipbuilding industry. As the modern industry is revived with incentives, emerging technologies will accelerate its growth.\nThe i... [466 chars]",
+        "url": "https://www.business-standard.com/opinion/columns/smart-tech-brings-sea-change-in-shipbuilding-as-revival-gathers-pace-125092800787_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-09/28/full/1759079434-0154.jpg",
+        "publishedAt": "2025-09-28T17:15:09Z",
+        "lang": "en",
+        "source": {
+            "id": "44d394a4e765f82b49b452e4302a72b0",
+            "name": "Business Standard",
+            "url": "https://www.business-standard.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "3a50a3c867cd94d6cc4cf41b6d7a5930",
+        "title": "Who is Tilly Norwood? AI ‘actress’ may soon sign with agency as studios increasingly turn to artificial intelligence",
+        "description": "AI actress Tilly Norwood is attracting interest from talent agents, according to Eline Van der Velden at the Zurich Summit. Created by her new AI talent studio Xicoia, Norwood could soon be one of the first digital performers with agency representation as studios quietly adopt AI.",
+        "content": "At the Zurich Summit this weekend, actor and technologist Eline Van der Velden revealed that her new AI talent studio, Xicoia, is already in discussions with agents about signing its first creation — a hyperreal AI actress named Tilly Norwood.\nMeet T... [1913 chars]",
+        "url": "https://www.livemint.com/news/trends/who-is-tilly-norwood-ai-actress-may-soon-sign-with-agency-as-studios-increasingly-turn-to-artificial-intelligence-11759078698684.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/09/28/1600x900/logo/tilly_norwood_1759078830406_1759078870074.webp",
+        "publishedAt": "2025-09-28T17:13:49Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "1e0228d84d341e62cbb0483c4466e1a7",
+        "title": "Defense tech firm Kela buys AI startup to bolster platform for modern battlefield",
+        "description": "In its first acquisition, Kela buys Pelanor to expand its OS, which helps militaries integrate commercial technology like artificial intelligence into defense systems",
+        "content": "Israeli defense tech company Kela Technologies — founded in the wake of the October 7, 2023, onslaught — has acquired AI startup Pelanor, its first acquisition, as it builds a military operating system tailored for the modern battlefield.\nFinancial d... [2661 chars]",
+        "url": "https://www.timesofisrael.com/defense-tech-firm-kela-buys-ai-startup-to-bolster-platform-for-modern-battlefield/",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2025/03/מייסדי-קלע.-קרדיט-יוסי-אלטרמן.jpg",
+        "publishedAt": "2025-09-28T16:44:52Z",
+        "lang": "en",
+        "source": {
+            "id": "5784855bc642514502eec4806fd222d1",
+            "name": "The Times of Israel",
+            "url": "https://www.timesofisrael.com",
+            "country": "is"
+        }
+    },
+    {
         "id": "20aa7419d78ec272f571e3b49fe295d8",
         "title": "Philippines urges UN to ensure AI will be used for peace",
         "description": "THE Philippines has called on the United Nations Security Council (UNSC) to assert its leadership in harnessing artificial intelligence (AI) as a powerful driver of peace and security amid efforts to misuse it.",
@@ -109,54 +157,6 @@
             "name": "The Irish Times",
             "url": "https://www.irishtimes.com",
             "country": "ie"
-        }
-    },
-    {
-        "id": "5f20241fbc1082eb5eee8f1f5fc3150b",
-        "title": "How the AI boom could go the same way as the dotcom bubble",
-        "description": "Nvidia’s $100bn deal with OpenAI, together with doubts about productivity gains from artificial intelligence, have many asking if this is all just another illusion",
-        "content": "Nvidia would pay as each gigawatt of the planned 10GW of datacentres is built. These giant server sheds are measured by their energy use. Like many of the details in their “statement of intent”, it is unclear where the energy will come from.\nTo some ... [7548 chars]",
-        "url": "https://www.thetimes.com/business-money/technology/article/how-the-ai-boom-could-go-the-same-way-as-the-dotcom-bubble-szr2swr6t",
-        "image": "https://www.thetimes.com/imageserver/image/%2F6682a63c-53d1-4fc4-9099-c8428201fb6f.jpg?crop=1680%2C945%2C0%2C0&resize=1200",
-        "publishedAt": "2025-09-28T15:25:18Z",
-        "lang": "en",
-        "source": {
-            "id": "b419a989918b3665a34559f5047546b6",
-            "name": "The Sunday Times",
-            "url": "https://www.thetimes.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "2e04991a99da4487c4f0c14a3487a718",
-        "title": "Mumbai: Gynaecologists to use AI to improve women's health and reduce maternal mortality in India",
-        "description": "Mumbai: Now, gynaecologists will use artificial intelligence (AI) to improve women's health and reduce India's maternal mortality from the present 88 .",
-        "content": "Mumbai: Now, gynaecologists will use artificial intelligence (AI) to improve women's health and reduce India's maternal mortality from the present 88 deaths per 100,000 live births. On Saturday, the Federation of Obstetric & Gynaecological Societies ... [1747 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-gynaecologists-to-use-ai-to-improve-womens-health-and-reduce-maternal-mortality-in-india/articleshow/124196521.cms",
-        "image": "https://static.toiimg.com/thumb/msid-124196519,width-1070,height-580,imgsize-13338,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-09-28T15:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c051a5d3e7138c8f3a3635bc65138c87",
-        "title": "Kvardun: Redefining the Future of Blockchain-Enabled Artificial Intelligence",
-        "description": "Artificial intelligence has rapidly shifted from being an experimental tool to becoming an indispensable part of how industries operate. From predictive analytics in finance and automated logistics in global supply chains to personalized healthcare and advanced creative tools, AI is now central to innovation. However, as adoption grows, one fundamental question continues to challenge both […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence has rapidly shifted from being an experimental tool to becoming an indispensable part of how industries operate. From predictive analytics in finance and automated logistics in global supply chain... [6097 chars]",
-        "url": "https://techbullion.com/kvardun-redefining-the-future-of-blockchain-enabled-artificial-intelligence/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/09/IMG-20250928-WA0031.jpg",
-        "publishedAt": "2025-09-28T14:26:11Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
         }
     }
 ]
