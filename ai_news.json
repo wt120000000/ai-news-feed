@@ -1,5 +1,37 @@
 [
     {
+        "id": "2012a5379b082d70ab9f85163719d0d9",
+        "title": "Trump’s team keeps posting AI portraits of him - and we keep clicking",
+        "description": "President Donald Trump and his administration have embraced artificial intelligence-generated images, crafting a new portrait of him. This trend reflects a broader cultural shift as everyday people also use AI to reimagine themselves.",
+        "content": "On the social media accounts of Donald Trump and his second-term administration, a new, less official image of the president is emerging bit by bit: one generated artificially.\nA sign of the times, certainly — when the appeal of reimagining yourself ... [6471 chars]",
+        "url": "https://www.pbs.org/newshour/politics/trumps-team-keeps-posting-ai-portraits-of-him-and-we-keep-clicking",
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-07-23T220321Z_1852702112_RC2LSFA70DBI_RTRMADP_3_USA-TRUMP-AI-1024x683.jpg",
+        "publishedAt": "2025-09-29T15:34:28Z",
+        "lang": "en",
+        "source": {
+            "id": "31177620c1e6e610b5d2b67916ed3615",
+            "name": "PBS News",
+            "url": "https://www.pbs.org",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2da15ca55f909b4aa0ad536a669192ea",
+        "title": "California enacts AI safety law targeting tech giants",
+        "description": "California Governor Gavin Newsom has signed into law groundbreaking legislation requiring the world's largest artificial intelligence companies to",
+        "content": "California Governor Gavin Newsom has signed into law groundbreaking legislation requiring the world’s largest artificial intelligence companies to publicly disclose their safety protocols and report critical incidents, state lawmakers announced Monda... [2016 chars]",
+        "url": "https://www.breitbart.com/news/california-enacts-ai-safety-law-targeting-tech-giants/",
+        "image": "https://media.breitbart.com/media/2025/09/wi/afp/california-governor-gavin-newsom-vetoed-previous-ai-safety-bill-furious-pushback-industry-california-640x335.jpg",
+        "publishedAt": "2025-09-29T15:11:07Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "364d560fe90e77528f9111b45959e459",
         "title": "OpenAI launches parental controls for ChatGPT after teen’s death",
         "description": "The update comes in the wake of mounting pressure for the artificial intelligence startup to make changes to its chatbot, which has amassed over 700 million users since its launch in late 2022.",
@@ -125,38 +157,6 @@
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "fac5cae120eb7686f4ee27e9430e71c2",
-        "title": "How AI meets the Goddess in Kolkata",
-        "description": "A former bureaucrat’s fascination with art created by artificial intelligence has turned a Durga Puja pandal into an art gallery with glowing canvases.",
-        "content": "Kolkata’s Durga Puja, now proudly recognised as a UNESCO Intangible Cultural Heritage, has added an unexpected and dazzling new dimension this year. At Falguni Sangha in Ballygunge, the traditional pandal has been transformed into a European-style ar... [3573 chars]",
-        "url": "https://www.indiatoday.in/india-today-insight/story/how-ai-meets-the-goddess-in-kolkata-durga-puja-2795155-2025-09-29",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/ai-pujo-293032267-16x9_0.jpg?VersionId=S3p1e4bWHKOJFJCgIK6dXbdXCNx9BLGn",
-        "publishedAt": "2025-09-29T12:35:30Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "989f54ef428e291392e2d3d6de2d7f01",
-        "title": "New medical writing service QInscribe reduces the time to generate a draft clinical study report (CSR) by 90% with generative AI solution",
-        "description": "/PRNewswire/ -- QInscribe, a new medical writing services brand, officially launches today. Offering generative Artificial Intelligence (AI) driven regulatory...",
-        "content": "LONDON, Sept. 29, 2025 /PRNewswire/ -- QInscribe, a new medical writing services brand, officially launches today. Offering generative Artificial Intelligence (AI) driven regulatory writing, scientific writing and clinical trial transparency services... [1849 chars]",
-        "url": "https://www.prnewswire.co.uk/news-releases/new-medical-writing-service-qinscribe-reduces-the-time-to-generate-a-draft-clinical-study-report-csr-by-90-with-generative-ai-solution-302568126.html",
-        "image": "https://mma.prnewswire.com/media/2782303/QInscribe_Logo.jpg?p=facebook",
-        "publishedAt": "2025-09-29T12:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "f4d035ae0463df22c36ae97972a33ba6",
-            "name": "PR Newswire UK",
-            "url": "https://www.prnewswire.co.uk",
-            "country": "gb"
         }
     }
 ]
