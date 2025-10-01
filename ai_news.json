@@ -1,5 +1,37 @@
 [
     {
+        "id": "52aecf8ad873c8291e55f2e96de8fd18",
+        "title": "Global study finds GenAI trust surging, but AI safeguards lag behind",
+        "description": "Business News: New research commissioned by SAS reveals that while businesses trust generative AI more than any other form of artificial intelligence, many are negle",
+        "content": "New research commissioned by SAS reveals that while businesses trust generative AI more than any other form of artificial intelligence, many are neglecting the governance and ethical safeguards needed to make these systems truly reliable.\nArtificial ... [5245 chars]",
+        "url": "https://timesofindia.indiatimes.com/business/global-study-finds-genai-trust-surging-but-ai-safeguards-lag-behind/articleshow/124234136.cms",
+        "image": "https://static.toiimg.com/thumb/msid-124234110,width-1070,height-580,imgsize-30092,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2025-10-01T04:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "230273d932a03064f7d36d85cac3ccaa",
+        "title": "OpenAI launches new social app Sora, lets you add friends to videos using AI",
+        "description": "OpenAI has announced the launch of its new social video app Sora, which brings artificial intelligence-powered video creation directly to users. The app, currently limited to iPhones in the US and Canada, works on an invite-only basis.",
+        "content": "OpenAI has announced the launch of its new social video app Sora, which brings artificial intelligence-powered video creation directly to users. The app, currently limited to iPhones in the US and Canada, works on an invite-only basis. Those who gain... [2494 chars]",
+        "url": "https://www.indiatoday.in/technology/news/story/openai-launches-new-social-app-sora-lets-you-add-friends-to-videos-using-ai-2796009-2025-10-01",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/openai-051501292-16x9.jpg?VersionId=WXnPgfyMDsGxK1Vr.TgB6z0galfShPM5",
+        "publishedAt": "2025-10-01T03:45:01Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "0007f5004cc7c0bf003b5a99d4ad3dda",
         "title": "half revenue rises 16% to about $4.3 billion: Report",
         "description": "OpenAI said it burned $2.5 billion, in large part due to its research and development costs for developing artificial intelligence and for running ChatGPT, according to a report.",
@@ -124,38 +156,6 @@
             "id": "1b40b878c09151e8cf44a095bc8569a5",
             "name": "ETF Daily News",
             "url": "https://www.etfdailynews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "304139e747a776e34719712f573a6ae5",
-        "title": "‘AI actor’ Tilly Norwood stirs outrage in Hollywood",
-        "description": "Like thousands of actors, Tilly Norwood is looking for a Hollywood agent.\nBut unlike most young performers aspiring to make it in the film industry, Tilly Norwood is an entirely artificial intelligence-made character.",
-        "content": "NEW YORK (AP) — Like thousands of actors, Tilly Norwood is looking for a Hollywood agent.\nBut unlike most young performers aspiring to make it in the film industry, Tilly Norwood is an entirely artificial intelligence-made character. Norwood, dubbed ... [3836 chars]",
-        "url": "https://www.wistv.com/2025/10/01/ai-actor-tilly-norwood-stirs-outrage-hollywood/",
-        "image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/HYY3HLLYKNEW5AAZI2ZKZB6ILE.jpg?auth=5af237c95c396d43e3320642046c24221632cc622881a7349d105d430d59ac23&width=1200&height=600&smart=true",
-        "publishedAt": "2025-10-01T00:50:53Z",
-        "lang": "en",
-        "source": {
-            "id": "04c17c43a7507fac95fd9ba5d47715b5",
-            "name": "WIS10",
-            "url": "https://www.wistv.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "2dd21b333881d2e2b270f9681767af25",
-        "title": "‘AI actor’ Tilly Norwood stirs outrage in Hollywood",
-        "description": "Like thousands of actors, Tilly Norwood is looking for a Hollywood agent.\nBut unlike most young performers aspiring to make it in the film industry, Tilly Norwood is an entirely artificial intelligence-made character.",
-        "content": "NEW YORK (AP) — Like thousands of actors, Tilly Norwood is looking for a Hollywood agent.\nBut unlike most young performers aspiring to make it in the film industry, Tilly Norwood is an entirely artificial intelligence-made character. Norwood, dubbed ... [3836 chars]",
-        "url": "https://www.weau.com/2025/10/01/ai-actor-tilly-norwood-stirs-outrage-hollywood/",
-        "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/HYY3HLLYKNEW5AAZI2ZKZB6ILE.jpg?auth=5af237c95c396d43e3320642046c24221632cc622881a7349d105d430d59ac23&width=1200&height=600&smart=true",
-        "publishedAt": "2025-10-01T00:50:53Z",
-        "lang": "en",
-        "source": {
-            "id": "3f09ae62ee37a33ab191a698fec83f4b",
-            "name": "WEAU",
-            "url": "https://www.weau.com",
             "country": "us"
         }
     }
