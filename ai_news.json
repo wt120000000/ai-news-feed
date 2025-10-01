@@ -1,5 +1,85 @@
 [
     {
+        "id": "fc3c12754a7ec8a9664422f2d8119f3d",
+        "title": "Brookfield Predicts $7 Trillion of Capital Needed for AI Growth",
+        "description": "There’s about $7 trillion of investment needed to finance the rapid growth of artificial intelligence, according to Hadley Peer Marshall, chief financial officer at Brookfield Asset Management.",
+        "content": "There’s about $7 trillion of investment needed to finance the rapid growth of artificial intelligence, according to Hadley Peer Marshall , chief financial officer at Brookfield Asset Management.\nBrookfield is among a number of big private capital pla... [270 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-10-01/brookfield-predicts-7-trillion-of-capital-needed-for-ai-growth",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2fY2YwhItik/v0/1200x800.jpg",
+        "publishedAt": "2025-10-01T07:16:09Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "1a6a3665a566dfe2bcf3cc51c492901f",
+        "title": "Amazon adds AI muscle to connected home lineup",
+        "description": "Amazon on Sept 30 unveiled the latest generation of connected products, featuring enhanced artificial intelligence capabilities designed to make interactions with AI more frequent and natural.",
+        "content": "NEW YORK: Amazon on Sept 30 unveiled the latest generation of connected products, featuring enhanced artificial intelligence capabilities designed to make interactions with AI more frequent and natural.\nNearly 20 years after the launch of the Kindle ... [1943 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/01/amazon-adds-ai-muscle-to-connected-home-lineup",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/01/3548684.jpg",
+        "publishedAt": "2025-10-01T07:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "9eb0b38fd05d3505d39906f7e1e1350a",
+        "title": "China's Zhipu AI Says Full Artificial Superintelligence Unlikely By 2030",
+        "description": "The AI industry is abuzz with speculation about when the technology will overtake human intelligence",
+        "content": "Beijing: Artificial superintelligence may be available by 2030, but its capabilities are only likely to surpass humans in some aspects, the head of one of China's hottest AI startups said on Tuesday.\nThe AI industry is abuzz with speculation about wh... [1929 chars]",
+        "url": "https://www.deccanchronicle.com/technology/chinas-zhipu-ai-says-full-artificial-superintelligence-unlikely-by-2030-1907349",
+        "image": "https://www.deccanchronicle.com/h-upload/2025/10/01/1963552-zh.jpg",
+        "publishedAt": "2025-10-01T06:46:03Z",
+        "lang": "en",
+        "source": {
+            "id": "214d496d625fc657723cf4da80cff8ce",
+            "name": "Deccan Chronicle",
+            "url": "https://www.deccanchronicle.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "af37587eab07a887339d389c768f5b63",
+        "title": "Trump Visa Curbs Push US Firms to Consider Shifting More Work to India",
+        "description": "Trends such as growing adoption of artificial intelligence and increasing curbs on visas are pushing U.S. firms to redraw labour strategies",
+        "content": "BENGALURU/HYDERABAD: Donald Trump's H-1B visa crackdown will hasten U.S. firms' shift of critical work to India, turbocharging the growth of global capability centres (GCCs) that handle operations from finance to research and development, economists ... [4047 chars]",
+        "url": "https://www.deccanchronicle.com/jobs-and-education/trump-visa-curbs-push-us-firms-to-consider-shifting-more-work-to-india-1907348",
+        "image": "https://www.deccanchronicle.com/h-upload/2025/10/01/1963549-aa-5598831.jpg",
+        "publishedAt": "2025-10-01T06:40:16Z",
+        "lang": "en",
+        "source": {
+            "id": "214d496d625fc657723cf4da80cff8ce",
+            "name": "Deccan Chronicle",
+            "url": "https://www.deccanchronicle.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "1742957a0114cd2b4ca4a1ee76fc013c",
+        "title": "Can AI Really Be Used To Predict Outcomes?",
+        "description": "Artificial Intelligence (AI) is reshaping industries worldwide, from healthcare to finance. Naturally, gamblers and  enthusiasts wonder: can AI be used to predict gambling outcomes? After all, if machines can forecast stock prices or detect patterns in massive datasets, could they also crack the code behind online slots, lotteries, live games, or even sports? The short […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial Intelligence (AI) is reshaping industries worldwide, from healthcare to finance. Naturally, gamblers and enthusiasts wonder: can AI be used to predict gambling outcomes?\nAfter all, if machines can forecast sto... [3735 chars]",
+        "url": "https://techbullion.com/can-ai-really-be-used-to-predict-outcomes/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/10/Screenshot-2025-10-01-113607.png",
+        "publishedAt": "2025-10-01T06:36:36Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "24cc6b4ba3fe69daf426628ddace5818",
         "title": "Spooked by AI, Bollywood stars drag Google into fight for 'personality rights'",
         "description": "NEW DELHI (Reuters) -In India, Bollywood stars are asking judges to protect their voice and persona in the era of artificial intelligence. One famous couple's biggest target is Google's video arm YouTube.",
@@ -71,86 +151,6 @@
         "url": "https://www.indiatoday.in/education-today/news/story/ndmc-school-students-learn-ai-vr-and-generative-tools-2796066-2025-10-01",
         "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/ndmc-schools-ai-training-012138963-16x9_0.jpg?VersionId=UEB.BKL1R5bp1T3bZqF25KDmvOVJCQjr",
         "publishedAt": "2025-10-01T05:59:37Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "aa5a68a31ba19121cae049b86144ac04",
-        "title": "Spooked by AI, Bollywood stars drag Google into fight for ‘personality rights’",
-        "description": "NEW DELHI: In India, Bollywood stars are asking judges to protect their voice and persona in the era of artificial intelligence. One famous couple’s biggest target is Google’s video arm YouTube. Abhishek Bachchan and his wife Aishwarya Rai Bachchan, known for her iconic Cannes Film Festival red carpet appearances, have asked a judge to remove and prohibit creation of AI videos",
-        "content": "NEW DELHI: In India, Bollywood stars are asking judges to protect their voice and persona in the era of artificial intelligence. One famous couple’s biggest target is Google’s video arm YouTube.\nAbhishek Bachchan and his wife Aishwarya Rai Bachchan, ... [16252 chars]",
-        "url": "https://www.arabnews.com/node/2617391/media",
-        "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2025/10/01/4644772-1372419781.jpg?itok=fmXYRght",
-        "publishedAt": "2025-10-01T05:56:47Z",
-        "lang": "en",
-        "source": {
-            "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
-            "name": "Arab News",
-            "url": "https://www.arabnews.com",
-            "country": "ar"
-        }
-    },
-    {
-        "id": "f022433e0b32adbbc46bfcd3215e0ae9",
-        "title": "The Hartford Opens Technology Center In Hyderabad To Accelerate AI Innovation",
-        "description": "Hyderabad (Telangana) [India], October 1: The Hartford, a leading U.S.-based insurance company, announces the grand opening of its new India Technology Center today in Hyderabad's Financial District. This strategic expansion reinforces the company's commitment to advancing artificial intelligence and digital innovation.",
-        "content": "VMPL\nHyderabad (Telangana) [India], October 1: The Hartford, a leading U.S.-based insurance company, announces the grand opening of its new India Technology Center today in Hyderabad's Financial District. This strategic expansion reinforces the compa... [4879 chars]",
-        "url": "https://www.tribuneindia.com/news/business/the-hartford-opens-technology-center-in-hyderabad-to-accelerate-ai-innovation/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWVmNTM0OTkwLTllODQtMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
-        "publishedAt": "2025-10-01T05:10:18Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "65d1029d79add078a2455a36e9dab1a1",
-        "title": "Meet Tilly Norwood, Hollywood’s First AI-Generated Actress Who Has Irked A-Lister Celebs Emily Blunt, Whoopi Goldberg Among Others",
-        "description": "Who Is Tilly Norwood? She was created by Xicoia, the artificial intelligence (AI) division of Particle6 founded by Dutch actress-turned-producer Eline Van der Velden in 2015.",
-        "content": "New Delhi: Tilly Norwood is called Hollywood's first artificial intelligence (AI)-generated actress who has irked many A-listers. She has been created by Eline Van der Velden and her company Particle6. She has hogged attention on social media and has... [1745 chars]",
-        "url": "https://zeenews.india.com/people/meet-tilly-norwood-hollywood-s-first-ai-generated-actress-who-has-irked-a-lister-celebs-emily-blunt-whoopi-goldberg-among-others-2966693.html",
-        "image": "https://english.cdn.zeenews.com/sites/default/files/2025/10/01/1838715-tilly-norwood.jpg",
-        "publishedAt": "2025-10-01T04:58:31Z",
-        "lang": "en",
-        "source": {
-            "id": "e743cde6ee986921721e83d3957862dc",
-            "name": "Zee News",
-            "url": "https://zeenews.india.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "52aecf8ad873c8291e55f2e96de8fd18",
-        "title": "Global study finds GenAI trust surging, but AI safeguards lag behind",
-        "description": "Business News: New research commissioned by SAS reveals that while businesses trust generative AI more than any other form of artificial intelligence, many are negle",
-        "content": "New research commissioned by SAS reveals that while businesses trust generative AI more than any other form of artificial intelligence, many are neglecting the governance and ethical safeguards needed to make these systems truly reliable.\nArtificial ... [5245 chars]",
-        "url": "https://timesofindia.indiatimes.com/business/global-study-finds-genai-trust-surging-but-ai-safeguards-lag-behind/articleshow/124234136.cms",
-        "image": "https://static.toiimg.com/thumb/msid-124234110,width-1070,height-580,imgsize-30092,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-10-01T04:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "230273d932a03064f7d36d85cac3ccaa",
-        "title": "OpenAI launches new social app Sora, lets you add friends to videos using AI",
-        "description": "OpenAI has announced the launch of its new social video app Sora, which brings artificial intelligence-powered video creation directly to users. The app, currently limited to iPhones in the US and Canada, works on an invite-only basis.",
-        "content": "OpenAI has announced the launch of its new social video app Sora, which brings artificial intelligence-powered video creation directly to users. The app, currently limited to iPhones in the US and Canada, works on an invite-only basis. Those who gain... [2494 chars]",
-        "url": "https://www.indiatoday.in/technology/news/story/openai-launches-new-social-app-sora-lets-you-add-friends-to-videos-using-ai-2796009-2025-10-01",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/openai-051501292-16x9.jpg?VersionId=WXnPgfyMDsGxK1Vr.TgB6z0galfShPM5",
-        "publishedAt": "2025-10-01T03:45:01Z",
         "lang": "en",
         "source": {
             "id": "c73686fdf0e30639d57eddaf7a77236e",
