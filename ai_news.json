@@ -1,5 +1,37 @@
 [
     {
+        "id": "0d5ec04cecd38ef5cd53486f9b0c59bc",
+        "title": "AI meets pediatric cancer: Trump signs order to accelerate research and cure",
+        "description": "President Donald Trump signed an executive order on September 30 to expand the use of artificial intelligence in pediatric cancer research, providing an additional $50 million in NIH grants. The move aims to improve diagnoses, treatments, and prevention strategies for childhood cancers.",
+        "content": "US President Donald Trump on Tuesday (September 30) signed an executive order aimed at expanding the use of artificial intelligence in pediatric cancer research and providing an additional $50 million in competitive research grants to find cures for ... [2250 chars]",
+        "url": "https://www.livemint.com/news/us-news/ai-meets-pediatric-cancer-trump-signs-order-to-accelerate-research-and-cure-11759268144651.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/09/30/1600x900/logo/US-POITICS-TRUMP-16_1759268624514_1759268635444.jpg",
+        "publishedAt": "2025-09-30T21:44:47Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "76d6abcf9a697648041cd62ed2914cc6",
+        "title": "AI tool helps researchers treat child epilepsy",
+        "description": "An artificial intelligence tool that can detect tiny, hard-to-spot brain malformations in children with epilepsy could help patients access life-changing surgery quicker, Australian researchers said on Wednesday. It is the latest example of how AI, which can crunch vast amounts of data, is changing healthcare by assisting doctors with diagnoses.…",
+        "content": "An artificial intelligence tool that can detect tiny, hard-to-spot brain malformations in children with epilepsy could help patients access life-changing surgery quicker, Australian researchers said on Wednesday.\nIt is the latest example of how AI, w... [2301 chars]",
+        "url": "https://japantoday.com/category/features/health/ai-tool-helps-researchers-treat-child-epilepsy",
+        "image": "https://media.japantoday.com/img/store/9b/04/9ae159f76657eb9cba74bc3978ffa6885452/ce2facff1fa61d26a961db1b63380d57f76b2e1f/_w1700.jpeg",
+        "publishedAt": "2025-09-30T21:24:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "29237b33408af9e8e04daaa66c7c4f9c",
         "title": "Amazon unveils new generation of AI-powered Kindle",
         "description": "Online juggernaut Amazon Inc. unveiled its next generation of Kindle, Ring and Echo devices, among other gadgets, that are all powered by artificial intelligence and connected to Alexa+, its AI-infused personal assistant, which made its debut in February.",
@@ -124,38 +156,6 @@
             "id": "6f97df9bf07dbbc5b124859805bffd6f",
             "name": "The Street",
             "url": "https://www.thestreet.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "29630934d4323f58e6d94b8033d8ceec",
-        "title": "Trump executive order aims to use AI to boost childhood cancer research",
-        "description": "U.S. President Donald Trump signed an executive order on Tuesday to bolster the use of artificial intelligence and provide an additional $50 million in research grants aimed at finding cures for childhood cancers, according to a White House official.",
-        "content": "CHICAGO, Sept 30 (Reuters) - U.S. President Donald Trump signed an executive order on Tuesday to bolster the use of artificial intelligence and provide an additional $50 million in research grants aimed at finding cures for childhood cancers, accordi... [1791 chars]",
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/trump-executive-order-aims-use-ai-boost-childhood-cancer-research-2025-09-30/",
-        "image": "https://www.reuters.com/resizer/v2/7SQGCZZRV5KWTBZQR23W5AYD5M.jpg?auth=bdbd4ae096690a8f88f640dd7513102ddc55006b36ae2c680708be14c714573d&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-09-30T20:49:10Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e58f51679a4606d8e0720e1788e2c27b",
-        "title": "Trump Order Directs Use of AI to Boost Childhood Cancer Research",
-        "description": "President Donald Trump directed the federal government to use artificial intelligence to improve childhood cancer research and funneling $50 million to the National Institutes of Health for that initiative, even as his administration pursues other cuts at the agency.",
-        "content": "President Donald Trump directed the federal government to use artificial intelligence to improve childhood cancer research and funneling $50 million to the National Institutes of Health for that initiative, even as his administration pursues other cu... [489 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-09-30/trump-order-directs-use-of-ai-to-boost-childhood-cancer-research",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTF6mNqhW.0E/v0/1200x800.jpg",
-        "publishedAt": "2025-09-30T20:46:02Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
             "country": "us"
         }
     }
