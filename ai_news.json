@@ -1,5 +1,37 @@
 [
     {
+        "id": "164932c0612a41de57bd9fab8d516a81",
+        "title": "Asian Shares Gain, Samsung-OpenAI Deal Lifts Tech: Markets Wrap",
+        "description": "(Bloomberg) -- Asian equities rallied, led by technology stocks, after OpenAI’s deal with South Korean chipmakers bolstered optimism over artificial intelligence.",
+        "content": "(Bloomberg) — Asian equities rallied, led by technology stocks, after OpenAI’s deal with South Korean chipmakers bolstered optimism over artificial intelligence.\nThe MSCI Asia Pacific Index rose almost 1%, trading above a record close reached last mo... [4570 chars]",
+        "url": "https://www.swissinfo.ch/eng/asian-shares-gain%2c-samsung-openai-deal-lifts-tech%3a-markets-wrap/90101331",
+        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756933286",
+        "publishedAt": "2025-10-02T03:10:32Z",
+        "lang": "en",
+        "source": {
+            "id": "dcb757ba5480d7edec9ca152d58b7d3d",
+            "name": "Swissinfo (EN)",
+            "url": "https://www.swissinfo.ch",
+            "country": "ch"
+        }
+    },
+    {
+        "id": "817d58071421f7b2337004eb6e5bb9f4",
+        "title": "AI is transforming how software engineers do their jobs. Just don't call it 'vibe-coding'",
+        "description": "One of the hottest markets in the artificial intelligence industry is selling chatbots that write computer code.",
+        "content": "One of the hottest markets in the artificial intelligence industry is selling chatbots that write computer code.\nSome call it \"vibe-coding” because it encourages an AI coding assistant to do the grunt work as human software developers work through bi... [6778 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/02/ai-is-transforming-how-software-engineers-do-their-jobs-just-don039t-call-it-039vibe-coding039",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/01/3548600.jpg",
+        "publishedAt": "2025-10-02T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "a66e2c02555ad81d6b34ac3da84be432",
         "title": "How to use tech in the garden and still keep your serenity",
         "description": "Gardening tools are evolving to incorporate technology – including artificial intelligence – to help us keep plants healthier, avoid unpleasant tasks and even grow crops indoors.",
@@ -124,38 +156,6 @@
             "id": "8e9ab8327c5f7903cc1b50470411d165",
             "name": "GlobeNewswire",
             "url": "https://www.globenewswire.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c687a5aaa213f6b5727aad29db2b6517",
-        "title": "Conversations will be used to sell you stuff",
-        "description": "Meta will soon use what people tell its artificial intelligence chatbot to get even better at selling them things.",
-        "content": "Meta will soon use what people tell its artificial intelligence chatbot to get even better at selling them things.\nThe company said on Wednesday that users’ chats and interactions with Meta AI will soon be used to target them with even more personali... [3638 chars]",
-        "url": "https://www.cp24.com/news/world/2025/10/01/meta-will-soon-use-your-conversations-with-its-ai-chatbot-to-sell-you-stuff/",
-        "image": "https://www.cp24.com/resizer/v2/FD5XQX7LHZC75L4S3UVBNH7SVA.jpg?smart=true&auth=2a9639ff60180610a672078711d5b754f69a3651b68f292affdd737cf89da865&width=1200&height=630",
-        "publishedAt": "2025-10-01T23:06:38Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "4e1c16b33738a682e85e160e7eb68b93",
-        "title": "Meta will soon use your conversations with its AI chatbot to sell you stuff",
-        "description": "Meta will soon use what people tell its artificial intelligence chatbot to get even better at selling them things.",
-        "content": "Meta will soon use what people tell its artificial intelligence chatbot to get even better at selling them things.\nThe company said on Wednesday that users’ chats and interactions with Meta AI will soon be used to target them with even more personali... [3634 chars]",
-        "url": "https://edition.cnn.com/2025/10/01/tech/meta-ai-chatbot-targeted-ads",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2232888181.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-10-01T22:36:58Z",
-        "lang": "en",
-        "source": {
-            "id": "26269dbc42635df9af8c24f3cdab8e37",
-            "name": "Cable News Network",
-            "url": "https://edition.cnn.com",
             "country": "us"
         }
     }
