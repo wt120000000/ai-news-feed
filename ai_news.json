@@ -1,5 +1,21 @@
 [
     {
+        "id": "c35bab72a6a1ac17553d64093ca2e716",
+        "title": "Germany's DeepL is considering going public in US, Bloomberg reports",
+        "description": "DeepL, a Germany-based developer of artificial intelligence-based translation, is considering an initial public offering in the United States, Bloomberg News reported on Thursday citing people familiar with the matter.",
+        "content": "FRANKFURT, Oct 2 (Reuters) - DeepL, a Germany-based developer of artificial intelligence-based translation, is considering an initial public offering in the United States, Bloomberg News reported on Thursday citing people familiar with the matter.\nTh... [796 chars]",
+        "url": "https://www.reuters.com/en/germanys-deepl-is-considering-going-public-us-bloomberg-reports-2025-10-02/",
+        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-10-02T08:42:53Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b55a736f7a70b5b4391433c5241eac69",
         "title": "Samsung, SK hynix to supply chips to OpenAI",
         "description": "South Korea's top two semiconductor manufacturers Samsung Electronics Co. and SK hynix Inc. will supply OpenAI Inc., the world's largest artificial intelligence (AI) company, with up to 900,000 wafers of DRAM per month by 2029, according to a report by Pulse, the English service of Maeil Business Newspaper Korea.",
@@ -140,22 +156,6 @@
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "ec4681a85182816312371dd25009d736",
-        "title": "AI in classrooms: Will Indian schools bridge the digital divide?",
-        "description": "As artificial intelligence reshapes learning globally, the traditional classroom model is under scrutiny. In India, gaps in digital infrastructure and teacher preparedness raise questions about how ready schools are for an AI-driven future. With only half of schools equipped with computers and internet, the challenge is both vast and urgent.",
-        "content": "Some global scholars now predict that the traditional idea of a classroom could look very different by mid-century, with artificial intelligence (AI) reshaping who learns what, when and how. At a recent forum at Harvard Graduate School of Education, ... [8320 chars]",
-        "url": "https://www.indiatoday.in/education-today/news/story/ai-in-classrooms-will-indian-schools-bridge-the-digital-divide-2796619-2025-10-02",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/ai-in-classrooms-will-indian-schools-bridge-the-digital-divide-020641533-16x9_0.png?VersionId=qakD_gChSi0VJRxosC7QARZ1MLngQg_0",
-        "publishedAt": "2025-10-02T06:28:22Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
             "country": "in"
         }
     }
