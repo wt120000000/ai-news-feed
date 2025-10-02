@@ -1,5 +1,37 @@
 [
     {
+        "id": "fc04d885b6011d8504f2580f1f975f14",
+        "title": "Record Stock Rally Extends, OpenAI Lifts Asia Tech: Markets Wrap",
+        "description": "(Bloomberg) -- A record-breaking global stock rally stretched into Asia, with equities advancing after OpenAI’s agreement with South Korean chipmakers reinforced enthusiasm for artificial intelligence.",
+        "content": "(Bloomberg) — A record-breaking global stock rally stretched into Asia, with equities advancing after OpenAI’s agreement with South Korean chipmakers reinforced enthusiasm for artificial intelligence.\nThe MSCI Asia Pacific Index rose 1%, trading abov... [5533 chars]",
+        "url": "https://www.swissinfo.ch/eng/record-stock-rally-extends%2c-openai-lifts-asia-tech%3a-markets-wrap/90101331",
+        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756933286",
+        "publishedAt": "2025-10-02T05:01:54Z",
+        "lang": "en",
+        "source": {
+            "id": "dcb757ba5480d7edec9ca152d58b7d3d",
+            "name": "Swissinfo (EN)",
+            "url": "https://www.swissinfo.ch",
+            "country": "ch"
+        }
+    },
+    {
+        "id": "83215b1a2b4b3d15ffd478ab4bca3b6b",
+        "title": "In a Sea of Tech Talent, Companies Can’t Find the Workers They Want",
+        "description": "Employers racing for artificial-intelligence supremacy say they can’t find enough people with the most in-demand skills. | Business News",
+        "content": "What gives?\nU.S. colleges more than doubled the number of computer-science degrees awarded from 2013 to 2022, according to federal data. Then came round after round of layoffs at Google, Meta, Amazon and others.\nThe Bureau of Labor Statistics predict... [5369 chars]",
+        "url": "https://www.hindustantimes.com/business/in-a-sea-of-tech-talent-companies-can-t-find-the-workers-they-want-101759380862726.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2025/10/02/550x309/im-61457334_1759380866864_1759380888772.jpg",
+        "publishedAt": "2025-10-02T04:55:44Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "f4259c40eff622bcdf905388492d3956",
         "title": "Universal Music, Warner Music nearing AI licensing deals, FT reports",
         "description": "(Reuters) -Universal Music and Warner Music are nearing landmark artificial intelligence licensing deals, the Financial Times reported on Thursday, citing people familiar with the matter.",
@@ -125,38 +157,6 @@
             "name": "ETF Daily News",
             "url": "https://www.etfdailynews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "e6047d3c76c9cc067691c4e0f7a9068b",
-        "title": "In a sea of tech talent, companies can’t find the workers they want",
-        "description": "Employers racing for artificial-intelligence supremacy say they can’t find enough people with the most in-demand skills. It has led to a divide in the job market between a few well-paid AI savants and everyone else.",
-        "content": "What gives?\nU.S. colleges more than doubled the number of computer-science degrees awarded from 2013 to 2022, according to federal data. Then came round after round of layoffs at Google, Meta, Amazon and others.\nThe Bureau of Labor Statistics predict... [5421 chars]",
-        "url": "https://www.livemint.com/global/in-a-sea-of-tech-talent-companies-can-t-find-the-workers-they-want-11759367419417.html",
-        "image": "https://www.livemint.com/lm-img/img/2025/10/02/1600x900/logo/g5913419e953482a873e5bc4f8800ff2bed44949f96260fbac_1759367587273_1759367587370.png",
-        "publishedAt": "2025-10-02T01:15:02Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6fef690be740ed48a87466cc0adf3395",
-        "title": "Asian Shares Gain, Tech Rallies on Samsung-OpenAI: Markets Wrap",
-        "description": "(Bloomberg) -- Asian equities rose at the open, led by technology stocks, after OpenAI struck a deal with South Korean chipmakers that bolstered optimism over artificial intelligence.",
-        "content": "(Bloomberg) — Asian equities rose at the open, led by technology stocks, after OpenAI struck a deal with South Korean chipmakers that bolstered optimism over artificial intelligence.\nStocks in Japan, South Korea and Australia all rose with moves in c... [4355 chars]",
-        "url": "https://www.swissinfo.ch/eng/asian-shares-gain%2c-tech-rallies-on-samsung-openai%3a-markets-wrap/90101331",
-        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756933286",
-        "publishedAt": "2025-10-02T01:02:33Z",
-        "lang": "en",
-        "source": {
-            "id": "dcb757ba5480d7edec9ca152d58b7d3d",
-            "name": "Swissinfo (EN)",
-            "url": "https://www.swissinfo.ch",
-            "country": "ch"
         }
     }
 ]
