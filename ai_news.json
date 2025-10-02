@@ -1,5 +1,21 @@
 [
     {
+        "id": "c2fe366d8af9d6f864fb7c3ef2f62557",
+        "title": "Trump officials move to kill plan for industry-led regulation of AI",
+        "description": "The Coalition for Health AI has enlisted big names in health and tech to evaluate artificial intelligence tools that are now mostly unregulated.",
+        "content": "AI is transforming care. Hospitals are adopting high-tech systems to improve diagnoses and recommend treatments, but there’s little formal regulation. The Food and Drug Administration, which oversees some of the tools, may not have all of the authori... [4793 chars]",
+        "url": "https://www.politico.com/news/2025/10/01/trump-ai-artificial-intelligence-regulation-hhs-00590902",
+        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F58%2F3e%2F09e56656494a89873aa7401ed6b8%2Fmaha-24078.jpg",
+        "publishedAt": "2025-10-01T21:20:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c477009a98f37b19212d8ae20ce8c018",
+            "name": "POLITICO",
+            "url": "https://www.politico.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f3f8315593d3311e1c2218e89006b81d",
         "title": "Elon Musk announces xAI building 'Grokipedia' to rival Wikipedia amid bias accusations",
         "description": "Elon Musk said Tuesday that his artificial intelligence firm, xAI, is building “Grokipedia” – an open-source digital encyclopedia to rival Wikipedia, which has been accused online of leftist bias.",
@@ -141,22 +157,6 @@
             "name": "NDTV Profit",
             "url": "https://www.ndtvprofit.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "85f664add2cf6056e23a18b1a57b67b9",
-        "title": "Meta rips NY Times for Joseph Gordon-Levitt op-ed criticizing Mark Zuckerberg",
-        "description": "Meta hit back at the New York Times over an op-ed it published by Joseph Gordon-Levitt that attacks Mark Zuckerberg over the tech giant's controversial AI chatbots -- noting that the Hollywood star's wife is a prominent tech executive who has worked in artificial intelligence.",
-        "content": "Meta hit back at the New York Times over an op-ed it published by Joseph Gordon-Levitt that attacks Mark Zuckerberg over the tech giant’s controversial AI chatbots — noting that the Hollywood star’s wife is a prominent tech executive who has worked i... [2515 chars]",
-        "url": "https://nypost.com/2025/10/01/business/meta-rips-ny-times-for-joseph-gordon-levitt-op-ed-criticizing-mark-zuckerberg/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/10/112573954.jpg?quality=75&strip=all&w=1024",
-        "publishedAt": "2025-10-01T17:23:41Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
-            "country": "us"
         }
     }
 ]
