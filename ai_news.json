@@ -1,5 +1,37 @@
 [
     {
+        "id": "312a30bd06b327641c7c2528b63ec0aa",
+        "title": "Who controls the machines that control Artificial Intelligence?",
+        "description": "The capability to shape AI's trajectory is concentrated amongst the few owners of compute farms who can afford to power and cool massive machines.",
+        "content": "Picture a data center on the edge of a desert plateau. Inside, row after row of servers glow and buzz, moving air through vast cooling towers, consuming more electricity than the surrounding towns combined. This is not science fiction. It is the real... [7217 chars]",
+        "url": "https://www.fastcompany.com/91413477/who-controls-machines-that-control-artificial-intelligence",
+        "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/09/p-1-91413477-who-controls-the-machines-that-control-artificial-intelligence.jpg",
+        "publishedAt": "2025-10-02T16:22:40Z",
+        "lang": "en",
+        "source": {
+            "id": "5ac5f32ba74846cef441099f666f2d98",
+            "name": "Fast Company",
+            "url": "https://www.fastcompany.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "96752f52aba3ca487f1cf5c0d56e9ec9",
+        "title": "Nearly a third of Americans have had a ‘romantic relationship’ with an AI bot, new survey says",
+        "description": "More than half of those surveyed (54 percent) said that they had some sort of relationship with an artificial intelligence platform",
+        "content": "Almost one third of Americans say that they have had an “intimate or romantic relationship” with an AI chatbot, a new study has found.\nMore than half of those surveyed (54 percent) said that they had some sort of relationship with an artificial intel... [2360 chars]",
+        "url": "https://www.independent.co.uk/news/world/americas/americans-romantic-relationships-ai-chatbot-study-b2838217.html",
+        "image": "https://static.independent.co.uk/2025/06/26/12/24/p01pqw85-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2025-10-02T16:11:30Z",
+        "lang": "en",
+        "source": {
+            "id": "97497c18f5cb431f5f324b3d8643c24f",
+            "name": "The Independent",
+            "url": "https://www.independent.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "f447a1c6bcfb77a77c18082dc59a1331",
         "title": "AI causes slight labor market effects so far, but tech disruptions can take time: study",
         "description": "Although a chorus of concerns has arisen about the potential of artificial intelligence to displace U.S. workers, a study by the Budget Lab at Yale demonstrates minimal impact thus far on the job market.",
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "369dbfd98bd75fe78d97dc4a24bb99c3",
-        "title": "HHS Declares Coalition For Health AI Won't Squeeze Out The Startups",
-        "description": "Health and tech giants involved in the group evaluate artificial intelligence tools and then advise physicians and hospitals on how they work. The administration claims CHAI could become a \"cartel,\" but CEO Brian Anderson says the coalition's 3,000 members include startups and smaller providers.",
-        "content": "Health and tech giants involved in the group evaluate artificial intelligence tools and then advise physicians and hospitals on how they work. The administration claims CHAI could become a \"cartel,\" but CEO Brian Anderson says the coalition's 3,000 m... [4445 chars]",
-        "url": "https://kffhealthnews.org/morning-breakout/hhs-declares-coalition-for-health-ai-wont-squeeze-out-the-startups/",
-        "image": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/kffhealthnews-icon.png?w=32",
-        "publishedAt": "2025-10-02T13:00:43Z",
-        "lang": "en",
-        "source": {
-            "id": "2c8545196b0294859cd11b7b020d53bc",
-            "name": "KFF Health News",
-            "url": "https://kffhealthnews.org",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ed42c71aebda69ed1b8d0faa24cec340",
-        "title": "Zifo Executive: Biopharma Grapples with AI Anxiety and Tech Obsolescence",
-        "description": "/PRNewswire/ -- Despite the transformative potential of Artificial Intelligence, a pervasive 'AI anxiety' is holding back a significant portion of the...",
-        "content": "CAMBRIDGE, Mass. and CAMBRIDGE, England and CHENNAI, India, Oct. 2, 2025 /PRNewswire/ -- Despite the transformative potential of Artificial Intelligence, a pervasive 'AI anxiety' is holding back a significant portion of the biopharma industry, a worr... [2827 chars]",
-        "url": "https://www.prnewswire.co.uk/news-releases/zifo-executive-biopharma-grapples-with-ai-anxiety-and-tech-obsolescence-302573511.html",
-        "image": "https://mma.prnewswire.com/media/2787742/Margaret_Difilippo_Zifo.jpg?p=facebook",
-        "publishedAt": "2025-10-02T13:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "f4d035ae0463df22c36ae97972a33ba6",
-            "name": "PR Newswire UK",
-            "url": "https://www.prnewswire.co.uk",
-            "country": "gb"
         }
     }
 ]
