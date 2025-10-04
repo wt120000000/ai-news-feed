@@ -1,5 +1,37 @@
 [
     {
+        "id": "0790e6b6efd93e6c2f0eee6df0bd5968",
+        "title": "How does Singapore detect potholes on roads? With AI",
+        "description": "Artificial intelligence is being used to detect potholes and other road defects in Singapore with over 90 per cent accuracy.",
+        "content": "SINGAPORE: Artificial intelligence and video analytics are increasingly being deployed to keep Singapore’s roads free of defects such as potholes, the Land Transport Authority (LTA) said.\nA system that uses a camera mounted on a vehicle has been oper... [2421 chars]",
+        "url": "https://www.channelnewsasia.com/singapore/pothole-lta-ai-road-maintenance-pothole-5383696",
+        "image": "https://dam.mediacorp.sg/image/upload/s--YyiT8yJa--/c_crop,h_1687,w_3000,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/10/03/lta_vehicle_05.jpg?itok=DXI7c8Cj",
+        "publishedAt": "2025-10-04T10:07:46Z",
+        "lang": "en",
+        "source": {
+            "id": "09131c39169c9c96230862dc4c1fa727",
+            "name": "CNA",
+            "url": "https://www.channelnewsasia.com",
+            "country": "sg"
+        }
+    },
+    {
+        "id": "e28be096c4516fa74247aef0be66e1bc",
+        "title": "Google Search Gets Visual AI Boost",
+        "description": "Google is enhancing its artificial intelligence-powered search experience with the addition of visual results in the AI Mode. This exciting development,",
+        "content": "Google’s AI Mode Gets a Visual Upgrade: Introducing Image-Based Search Results!\nGoogle is enhancing its artificial intelligence-powered search experience with the addition of visual results in the AI Mode. This exciting development, announced recentl... [1255 chars]",
+        "url": "https://nep123.com/google-search-gets-visual-ai-boost/",
+        "image": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+        "publishedAt": "2025-10-04T09:34:23Z",
+        "lang": "en",
+        "source": {
+            "id": "a7cfbea87bc15750b7c5fd439a1ccb08",
+            "name": "Nep123.com",
+            "url": "https://nep123.com",
+            "country": "np"
+        }
+    },
+    {
         "id": "2d7ad158c5edbaa8ab3da6586ce06aef",
         "title": "Goldman CEO Predicts AI May Increase Staff Size Over the Next Decade",
         "description": "Many have predicted Wall Street could lose jobs because of artificial intelligence. David Solomon thinks the opposite — here's why.",
@@ -125,38 +157,6 @@
             "name": "ETF Daily News",
             "url": "https://www.etfdailynews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "7caa251316e6ce993d3563ce244cb954",
-        "title": "OpenAI’s Fine Print, This Time Sung As A Satiric Opera",
-        "description": "As part of a group show at Gazelli Art House, artist Jake Elwes turns usage policies from OpenAI and Suno into an absurdist opera generated with artificial intelligence.",
-        "content": "At first, it sounds like your classic opera — a full-bodied voice infused with gravitas delivers a set of lyrics as a chorus rises and falls, all to an orchestra’s accompaniment. But the words are far too banal to reflect grand opera themes like ambi... [6503 chars]",
-        "url": "https://www.forbes.com/sites/lesliekatz/2025/10/04/openais-fine-print-this-time-sung-as-a-satiric-opera/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68e046c5ea7c440db8569a0e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-10-04T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a0300bc9a6e9d5b317bd6f614767231f",
-            "name": "Forbes",
-            "url": "https://www.forbes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a177d8c0f8f19228febfa040977abf9b",
-        "title": "UPDATE 1-Brazilian scammers, raking in millions, used Gisele Bundchen deepfakes on Instagram ads",
-        "description": "Authorities arrested four suspects tied to the scheme this week and froze assets across five states in an investigation that found over 20 million reais ($3.9 million) in suspicious funds identified by federal anti-money laundering agency COAF. The operation marks one of the first attempts in Brazil to counter the growing use of artificial intelligence tools to manipulate images and videos of celebrities for online scams.",
-        "content": "A group of suspected scammers in Brazil using Instagram ads featuring deepfakes of supermodel Gisele Bundchen and other celebrities appears to have made millions of dollars through online fraud, according to police investigators. Authorities arrested... [2379 chars]",
-        "url": "https://www.devdiscourse.com/article/law-order/3651963-update-1-brazilian-scammers-raking-in-millions-usedgisele-bundchen-deepfakes-on-instagram-ads",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_52_07_9391333.jpg?width=920&format=jpeg",
-        "publishedAt": "2025-10-03T22:41:08Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
