@@ -1,5 +1,37 @@
 [
     {
+        "id": "2d7ad158c5edbaa8ab3da6586ce06aef",
+        "title": "Goldman CEO Predicts AI May Increase Staff Size Over the Next Decade",
+        "description": "Many have predicted Wall Street could lose jobs because of artificial intelligence. David Solomon thinks the opposite — here's why.",
+        "content": "Goldman Sachs CEO David Solomon remembers what life was like before AI, and is all in on using it to expand the ranks of his bank in the next decade.\nSpeaking to Bloomberg journalist Tom Mackenzie on Friday in Italy, Solomon said AI had the hallmarks... [3568 chars]",
+        "url": "https://www.businessinsider.com/goldman-ceo-david-solomon-ai-headcount-investment-spending-2025-10",
+        "image": "https://i.insider.com/68e03a26cc993f9955cf8a74?width=1200&format=jpeg",
+        "publishedAt": "2025-10-04T09:04:01Z",
+        "lang": "en",
+        "source": {
+            "id": "458ddf355ab77631d3eb3dd84a0351b4",
+            "name": "Business Insider",
+            "url": "https://www.businessinsider.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2c398dae6684b8b3ca855be1993ec47d",
+        "title": "The Big AI Trade in Europe Is All About Data Centers and Power",
+        "description": "As the artificial intelligence frenzy drives global equities to record highs, in Europe the momentum is flowing into industries critical to powering the technology.",
+        "content": "(Bloomberg) -- As the artificial intelligence frenzy drives global equities to record highs, in Europe the momentum is flowing into industries critical to powering the technology.\nA basket tracking shares of 10 European firms such as data center oper... [4912 chars]",
+        "url": "https://www.livemint.com/technology/tech-news/the-big-ai-trade-in-europe-is-all-about-data-centers-and-power-11759566892975.html",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
+        "publishedAt": "2025-10-04T08:34:52Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "612be10a90666a104062d9c23fb27042",
         "title": "Nvidia Competitor Cerebras Shelves IPO Plans Days After Touching $8 Billion Valuation",
         "description": "Artificial intelligence chipmaker Cerebras Systems scrapped plans for an IPO on Friday, days after the Nvidia Corp. (NASDAQ: NVDA) competitor announced a fresh fundraising round that sent its valuation up to $8 billion.",
@@ -125,38 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "7776971621b11b2c247cbd796ac1fe8f",
-        "title": "How Walmart plans to prepare America's largest private workforce for an AI-driven future",
-        "description": "BENTONVILLE, Ark — As artificial intelligence and demographic changes reshape the U.S. job market, the nation's largest private employer is trying to identify the skills its workers and the broader",
-        "content": "BENTONVILLE, Ark — As artificial intelligence and demographic changes reshape the U.S. job market, the nation's largest private employer is trying to identify the skills its workers and the broader labor force might need for the future.\nLast month, W... [5256 chars]",
-        "url": "https://siouxcityjournal.com/news/nation-world/business/employment/article_2eba2df8-122e-56e4-880e-f122e76ab8fd.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/2/eb/2eba2df8-122e-56e4-880e-f122e76ab8fd/68ded14c5362d.preview.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2025-10-03T22:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "e625db5625a6afdc9503f3777a0f9c15",
-            "name": "Sioux City Journal",
-            "url": "https://siouxcityjournal.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "41347b922b30a00b033e29a0e14d53ad",
-        "title": "How Walmart plans to prepare America's largest private workforce for an AI-driven future",
-        "description": "BENTONVILLE, Ark — As artificial intelligence and demographic changes reshape the U.S. job market, the nation's largest private employer is trying to identify the skills its workers and the broader",
-        "content": "BENTONVILLE, Ark — As artificial intelligence and demographic changes reshape the U.S. job market, the nation's largest private employer is trying to identify the skills its workers and the broader labor force might need for the future.\nLast month, W... [5256 chars]",
-        "url": "https://journalnow.com/news/nation-world/business/employment/article_107fea63-c9bc-56f9-b8f9-898847e322cb.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/1/07/107fea63-c9bc-56f9-b8f9-898847e322cb/68ded14c16502.preview.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2025-10-03T22:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "bb2e0405412a26dc91226e0f4dc363df",
-            "name": "Winston-Salem Journal",
-            "url": "https://journalnow.com",
-            "country": "us"
         }
     }
 ]
