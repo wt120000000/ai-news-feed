@@ -1,5 +1,21 @@
 [
     {
+        "id": "2fd40f73b3f535fc9844cda399a007bd",
+        "title": "Virtual Jesus? People of faith divided as AI enters religion",
+        "description": "Artificial intelligence, the technology upending nearly every corner of society, is creeping into religion, serving up virtual Jesus and automated sermons -- a change drawing mixed reviews from the faithful. Religious chatbots and other faith-based digital tools are growing in number, offering counsel, comfort and spiritual guidance during an age…",
+        "content": "Artificial intelligence, the technology upending nearly every corner of society, is creeping into religion, serving up virtual Jesus and automated sermons -- a change drawing mixed reviews from the faithful.\nReligious chatbots and other faith-based d... [3875 chars]",
+        "url": "https://japantoday.com/category/tech/virtual-jesus-people-of-faith-divided-as-ai-enters-religion",
+        "image": "https://media.japantoday.com/img/store/cf/4d/fe2683487a27d8dfb2550cef3840ee731fd0/b4ca4f56fc359a16f4bfa8c1836d08e5d4aba295/_w1700.jpeg",
+        "publishedAt": "2025-10-04T19:44:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "3e1797579913bae4cb5a8a9d33306767",
         "title": "AI is creeping into our court system. Will it undermine justice?",
         "description": "Artificial intelligence is coming for the law. Are we ready for robots to become judge and jury?",
@@ -141,22 +157,6 @@
             "name": "SlashGear",
             "url": "https://www.slashgear.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "2e270a56c170f6ece05715109f05e527",
-        "title": "CT scan changes over one year predict outcomes in fibrotic lung disease",
-        "description": "Researchers at National Jewish Health have shown that subtle increases in lung scarring, detected by an artificial intelligence-based tool on CT scans taken one year apart, are associated with disease progression and survival in patients with fibrotic interstitial lung disease. The findings, recently published in the American Journal of Respiratory and Critical Care Medicine, suggest that computer-based image analysis may provide an earlier, more objective way to identify patients at highest risk for worsening disease.",
-        "content": "Researchers at National Jewish Health have shown that subtle increases in lung scarring, detected by an artificial intelligence-based tool on CT scans taken one year apart, are associated with disease progression and survival in patients with fibroti... [2927 chars]",
-        "url": "https://medicalxpress.com/news/2025-10-ct-scan-year-outcomes-fibrotic.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2024/lung.jpg",
-        "publishedAt": "2025-10-04T10:24:24Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
         }
     }
 ]
