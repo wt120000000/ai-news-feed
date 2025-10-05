@@ -1,5 +1,37 @@
 [
     {
+        "id": "e17abedd0cb0b433ac92b0dd912f686f",
+        "title": "Fighting childhood cancer is focus of Trump AI executive order",
+        "description": "President Donald Trump signed an executive order Tuesday aimed at improving ways to identify and treat pediatric cancers using artificial intelligence.",
+        "content": "NEWYou can now listen to Fox News articles!\nWelcome to Fox News’ Artificial Intelligence newsletter with the latest AI technology advancements.\nIN TODAY’S NEWSLETTER:\n- Trump signs executive order to harness AI in fight against childhood cancers\n- El... [2393 chars]",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-trump-order-harnesses-ai-fight-childhood-cancer",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/trump-signing.jpg",
+        "publishedAt": "2025-10-04T12:30:59Z",
+        "lang": "en",
+        "source": {
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2a99426c49e26886cf8fed4a7e989a65",
+        "title": "5 Of The Weirdest Ways People Are Using AI Tools In 2025",
+        "description": "The use cases for Artificial Intelligence can expand far beyond one's imagination. These are five of the weirdest ways AI tools are used in 2025.",
+        "content": "AI is showing up in the strangest of places. People use it for seemingly everything, from asking embarrassing questions to building entire businesses. They're using it to create content, get help with homework, brainstorm ideas, and understand comple... [5468 chars]",
+        "url": "https://www.slashgear.com/1985358/weirdest-ways-people-are-using-ai-tools/",
+        "image": "https://www.slashgear.com/img/gallery/5-of-the-weirdest-ways-people-are-using-ai-tools-in-2025/l-intro-1759437835.jpg",
+        "publishedAt": "2025-10-04T12:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ca35c66a2b26e8274365e937357cf9c5",
+            "name": "SlashGear",
+            "url": "https://www.slashgear.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "2e270a56c170f6ece05715109f05e527",
         "title": "CT scan changes over one year predict outcomes in fibrotic lung disease",
         "description": "Researchers at National Jewish Health have shown that subtle increases in lung scarring, detected by an artificial intelligence-based tool on CT scans taken one year apart, are associated with disease progression and survival in patients with fibrotic interstitial lung disease. The findings, recently published in the American Journal of Respiratory and Critical Care Medicine, suggest that computer-based image analysis may provide an earlier, more objective way to identify patients at highest risk for worsening disease.",
@@ -124,38 +156,6 @@
             "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
             "name": "Outlook Business",
             "url": "https://www.outlookbusiness.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "67363ba66e70f98304102a41efa76961",
-        "title": "Jeff Bezos Calls AI Boom A Bubble - But Says It's A Good One",
-        "description": "Amazon.com Inc. (NASDAQ: AMZN) founder Jeff Bezos acknowledged that artificial intelligence is in \"a kind of industrial bubble\" but stressed that the technology is real and will deliver \"gigantic\" benefits to society.",
-        "content": "Amazon.com Inc. (NASDAQ:AMZN) founder Jeff Bezos acknowledged that artificial intelligence is in \"a kind of industrial bubble\" but stressed that the technology is real and will deliver \"gigantic\" benefits to society.\nBezos Calls AI Bubble Constructiv... [2630 chars]",
-        "url": "https://www.benzinga.com/markets/tech/25/10/48031278/jeff-bezos-calls-ai-boom-a-bubble-but-says-its-a-good-one",
-        "image": "https://cdn.benzinga.com/files/images/story/2025/10/04/Jeff-Bezos-Is-An-American-Entrepreneur-A.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2025-10-04T04:34:58Z",
-        "lang": "en",
-        "source": {
-            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-            "name": "Benzinga",
-            "url": "https://www.benzinga.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c616b0ade31221df45ede87665e15f25",
-        "title": "OpenAI to boost content owners' control for Sora AI video app, plans monetization",
-        "description": "ChatGPT creator OpenAI will soon introduce controls allowing the owners of content rights to dictate how their characters are used in its AI video-generating tool Sora and plans to share revenue with those who permit such use. The artificial intelligence company will give rights holders \"more granular control over generation of characters,\" Chief Executive Sam Altman posted on his blog on Friday.",
-        "content": "ChatGPT creator OpenAI will soon introduce controls allowing the owners of content rights to dictate how their characters are used in its AI video-generating tool Sora and plans to share revenue with those who permit such use.\nThe artificial intellig... [1976 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3652015-openai-to-boost-content-owners-control-for-sora-ai-video-app-plans-monetization",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_02_16_4468374.jpg?width=920&format=jpeg",
-        "publishedAt": "2025-10-04T03:06:49Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
             "country": "in"
         }
     }
