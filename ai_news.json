@@ -1,5 +1,21 @@
 [
     {
+        "id": "3e1797579913bae4cb5a8a9d33306767",
+        "title": "AI is creeping into our court system. Will it undermine justice?",
+        "description": "Artificial intelligence is coming for the law. Are we ready for robots to become judge and jury?",
+        "content": "Artificial intelligence is coming for the law. Are we ready for robots to become judge and jury?\nWhen Chief Justice Andrew Bell started practising as a lawyer in 1995 urgent documents were communicated via fax, invoices were noted in a paper spiral b... [23660 chars]",
+        "url": "https://www.abc.net.au/news/2025-10-05/artificial-intelligence-law-robot-legal-judge-jury-ai/105545900",
+        "image": "https://live-production.wcms.abc-cdn.net.au/07c67ae1ec8a093cd220504ba47233c8?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=137&width=862&height=485&imformat=generic",
+        "publishedAt": "2025-10-04T19:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+            "name": "ABC (Australian Broadcasting Corporation)",
+            "url": "https://www.abc.net.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "43fc07524f84b2df7ae056cf212918fd",
         "title": "New massive data center in N.J. is designed for AI with liquid cooling",
         "description": "The big data center in northern New Jersey will support the growing demands of artificial intelligence workloads and enterprise cloud connectivity, the company said.",
@@ -141,22 +157,6 @@
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "0790e6b6efd93e6c2f0eee6df0bd5968",
-        "title": "How does Singapore detect potholes on roads? With AI",
-        "description": "Artificial intelligence is being used to detect potholes and other road defects in Singapore with over 90 per cent accuracy.",
-        "content": "SINGAPORE: Artificial intelligence and video analytics are increasingly being deployed to keep Singapore’s roads free of defects such as potholes, the Land Transport Authority (LTA) said.\nA system that uses a camera mounted on a vehicle has been oper... [2421 chars]",
-        "url": "https://www.channelnewsasia.com/singapore/pothole-lta-ai-road-maintenance-pothole-5383696",
-        "image": "https://dam.mediacorp.sg/image/upload/s--YyiT8yJa--/c_crop,h_1687,w_3000,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/10/03/lta_vehicle_05.jpg?itok=DXI7c8Cj",
-        "publishedAt": "2025-10-04T10:07:46Z",
-        "lang": "en",
-        "source": {
-            "id": "09131c39169c9c96230862dc4c1fa727",
-            "name": "CNA",
-            "url": "https://www.channelnewsasia.com",
-            "country": "sg"
         }
     }
 ]
