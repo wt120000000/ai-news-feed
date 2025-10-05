@@ -1,5 +1,21 @@
 [
     {
+        "id": "43fc07524f84b2df7ae056cf212918fd",
+        "title": "New massive data center in N.J. is designed for AI with liquid cooling",
+        "description": "The big data center in northern New Jersey will support the growing demands of artificial intelligence workloads and enterprise cloud connectivity, the company said.",
+        "content": "CoreSite has finished building a 138,000-square-foot NY3 data center with advanced liquid cooling capacities in Hudson County.\nNY3, located on Emerson Lane in Secaucus, will support the growing demands of artificial intelligence workloads and enterpr... [1332 chars]",
+        "url": "https://www.nj.com/hudson/2025/09/new-massive-data-center-in-nj-is-designed-for-the-ai-revolution.html",
+        "image": "https://www.nj.com/resizer/v2/JZC3JBPUPJFW5OBR3W3WMNHJFA.jpg?auth=7499dbafa6c4d5a9b169538d9319627dd380d99f07274386565d2687e8e884c5&width=1280&smart=true&quality=90",
+        "publishedAt": "2025-10-04T18:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "49751e72ee79ba8eb1d9dcf6e10bf195",
+            "name": "NJ.com",
+            "url": "https://www.nj.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b899d3faa312fdbaf1ef1adc6626ec83",
         "title": "US Government Signs Deal To Use Elon Musk's Grok AI For A Crazy Cheap Price",
         "description": "The U.S. government has signed a multi-year deal with xAI, Elon Musk's artificial intelligence firm, to utilize Grok at a discount for government workflows.",
@@ -141,22 +157,6 @@
             "name": "CNA",
             "url": "https://www.channelnewsasia.com",
             "country": "sg"
-        }
-    },
-    {
-        "id": "e28be096c4516fa74247aef0be66e1bc",
-        "title": "Google Search Gets Visual AI Boost",
-        "description": "Google is enhancing its artificial intelligence-powered search experience with the addition of visual results in the AI Mode. This exciting development,",
-        "content": "Google’s AI Mode Gets a Visual Upgrade: Introducing Image-Based Search Results!\nGoogle is enhancing its artificial intelligence-powered search experience with the addition of visual results in the AI Mode. This exciting development, announced recentl... [1255 chars]",
-        "url": "https://nep123.com/google-search-gets-visual-ai-boost/",
-        "image": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
-        "publishedAt": "2025-10-04T09:34:23Z",
-        "lang": "en",
-        "source": {
-            "id": "a7cfbea87bc15750b7c5fd439a1ccb08",
-            "name": "Nep123.com",
-            "url": "https://nep123.com",
-            "country": "np"
         }
     }
 ]
