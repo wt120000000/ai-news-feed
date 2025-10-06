@@ -1,5 +1,21 @@
 [
     {
+        "id": "b1023fe099bdab5c99488ad706e92691",
+        "title": "Amazon founder Jeff Bezos says ‘AI bubble’ is real but its impact on society will be ‘gigantic’",
+        "description": "Big Tech is spending billions of dollars on advanced artificial intelligence chips and data centers, driven by the belief that they are all competing in the AI race.",
+        "content": "“It can even be good, because when the dust settles and you see who are the winners, societies benefit from those investors,” Bezos said. “That is what is going to happen here too. This is real, the benefits to society from AI are going to be giganti... [2799 chars]",
+        "url": "https://indianexpress.com/article/technology/amazon-founder-jeff-bezos-says-ai-bubble-is-real-but-its-impact-on-society-will-be-gigantic-10290188/",
+        "image": "https://images.indianexpress.com/2025/10/Jeff-Bezos_20251006041453.jpg",
+        "publishedAt": "2025-10-06T04:18:51Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "6ce4e48ba33ae0a53b389a1e1029ea37",
         "title": "Balancing Innovation and Risk with GenAI",
         "description": "GUEST OPINION:  Few technologies have captured the imagination of business leaders as quickly as generative artificial intelligence (GenAI)....",
@@ -141,22 +157,6 @@
             "name": "Lokmat Times",
             "url": "https://www.lokmattimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "9b60385741da3e5d4175d48290522176",
-        "title": "Band 'insulted' as AI group steals their style and overtakes them on Spotify",
-        "description": "Cardiff-based Holding Absence hit out at the music industry after their musical style was hijacked by an artificial intelligence that is now more popular than them",
-        "content": "Cardiff-based Holding Absence hit out at the music industry after their musical style was hijacked by an artificial intelligence that is now more popular than them\nA British band has blasted the music industry after their music's style was stolen by ... [2965 chars]",
-        "url": "https://www.dailystar.co.uk/showbiz/band-insulted-ai-group-steals-36018237",
-        "image": "https://i2-prod.dailystar.co.uk/article36018215.ece/ALTERNATES/s1200/0_Creeper-Perform-At-The-O2-Forum-Kentish-Town.jpg",
-        "publishedAt": "2025-10-05T21:45:08Z",
-        "lang": "en",
-        "source": {
-            "id": "4300aa22a5f803b09a37ff0632b44685",
-            "name": "The daily Star",
-            "url": "https://www.dailystar.co.uk",
-            "country": "gb"
         }
     }
 ]
