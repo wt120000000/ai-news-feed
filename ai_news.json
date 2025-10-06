@@ -1,5 +1,37 @@
 [
     {
+        "id": "8843807d42f2177087cf1396bab2435d",
+        "title": "AI in the military: Testing a new kind of air force",
+        "description": "Preparing for the threats of tomorrow, the U.S. Air Force is testing drones piloted by artificial intelligence alongside aircraft flown by humans – and is teaching AI how to fight, a potential revolution in warfare.",
+        "content": "At Eglin Air Force Base in Florida, a test bed for a new kind of air force, Major Trent McMullen is a fighter pilot learning to fly alongside the XQ-58, a drone piloted by artificial intelligence. Think of this as \"Top Gun AI.\"\n\"I've flown safety cha... [5993 chars]",
+        "url": "https://www.cbsnews.com/news/ai-in-the-military-testing-a-new-kind-of-air-force/",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/04/5103b5c0-c61b-47ce-af13-3358d88269eb/thumbnail/1200x630/8d74e13b4101918da7da7cb5eedfb12f/air-force-ai-drones-1280.jpg",
+        "publishedAt": "2025-10-05T13:57:44Z",
+        "lang": "en",
+        "source": {
+            "id": "3a3847d645a619320aa3b3484581e395",
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ec27e2bf3059119798dee721359c8523",
+        "title": "Nintendo issues statement about 'lobbying' Japan's Government over generative AI",
+        "description": "Nintendo has issued a statement online over claims it had been \"lobbying\" Japan's Government over the use of generative artificial intelligence (AI). Generative AI refers to content that's been completely made by AI and it's something that the gaming industry is seeing more of. It's commonly referred to as 'AI slop' because it's usually low quality",
+        "content": "Nintendo has issued a statement online over claims it had been \"lobbying\" Japan's Government over the use of generative artificial intelligence (AI).\nGenerative AI refers to content that's been completely made by AI and it's something that the gaming... [1220 chars]",
+        "url": "https://www.indy100.com/gaming/nintendo-generative-ai-artificial-intelligence-gaming-japan-government",
+        "image": "https://www.indy100.com/media-library/a-screenshot-of-mario-from-the-mario-kart-world-reveal-trailer.png?id=61713236&width=1200&height=600&coordinates=0%2C72%2C0%2C51",
+        "publishedAt": "2025-10-05T13:52:42Z",
+        "lang": "en",
+        "source": {
+            "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
+            "name": "indy100",
+            "url": "https://www.indy100.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "f0d669704c9aae9a82ec7a3c052a9e4e",
         "title": "AI therapy apps prove tough to regulate",
         "description": "In the absence of stronger federal regulation, some states have begun regulating apps that offer AI \"therapy\" as more people turn to artificial intelligence for mental health advice.",
@@ -64,22 +96,6 @@
         }
     },
     {
-        "id": "08b74b1a95b68f8e5cc48adc66be57ad",
-        "title": "AI therapy apps prove tough to regulate",
-        "description": "In the absence of stronger federal regulation, some states have begun regulating apps that offer AI \"therapy\" as more people turn to artificial intelligence for mental health advice.",
-        "content": "This story includes discussion of suicide. If you or someone you know needs help, the national suicide and crisis lifeline in the U.S. is available by calling or texting 988. There is also an online chat at 988lifeline.org.\n___\nIn the absence of stro... [8241 chars]",
-        "url": "https://roanoke.com/news/nation-world/article_3bd1e75e-f354-598d-9313-42eda30a6d17.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/3/bd/3bd1e75e-f354-598d-9313-42eda30a6d17/68dad0e50a746.preview.jpg?crop=1397%2C734%2C20%2C208&resize=1200%2C631&order=crop%2Cresize",
-        "publishedAt": "2025-10-05T13:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "556649d353181a589d24339ce922b9f8",
-            "name": "Roanoke Times",
-            "url": "https://roanoke.com",
-            "country": "us"
-        }
-    },
-    {
         "id": "0c864f3ee95192b9bd02c274c878b081",
         "title": "AI therapy apps prove tough to regulate",
         "description": "In the absence of stronger federal regulation, some states have begun regulating apps that offer AI \"therapy\" as more people turn to artificial intelligence for mental health advice.",
@@ -108,22 +124,6 @@
             "id": "c54e37aaeaf64e07caa941a15b3a7f84",
             "name": "Charlottesville Progress",
             "url": "https://dailyprogress.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f758e175d5a0ce687986701bee65e720",
-        "title": "AI therapy apps prove tough to regulate",
-        "description": "In the absence of stronger federal regulation, some states have begun regulating apps that offer AI \"therapy\" as more people turn to artificial intelligence for mental health advice.",
-        "content": "This story includes discussion of suicide. If you or someone you know needs help, the national suicide and crisis lifeline in the U.S. is available by calling or texting 988. There is also an online chat at 988lifeline.org.\n___\nIn the absence of stro... [8241 chars]",
-        "url": "https://journalstar.com/news/nation-world/article_321dfb3c-0638-5634-86bc-97d2b5d08660.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/3/21/321dfb3c-0638-5634-86bc-97d2b5d08660/68dad0e41b2aa.preview.jpg?crop=1397%2C734%2C20%2C208&resize=1200%2C631&order=crop%2Cresize",
-        "publishedAt": "2025-10-05T13:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "d409558fce7a4707e02365c77cc92dfc",
-            "name": "Lincoln Journal Star",
-            "url": "https://journalstar.com",
             "country": "us"
         }
     },
