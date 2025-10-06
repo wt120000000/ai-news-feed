@@ -1,5 +1,21 @@
 [
     {
+        "id": "5d5b8c9e857cb115d19190c4c9289383",
+        "title": "LI students designed a 'buddy bot' -- now they're teaming with a law school to take it to the next level",
+        "description": "A Catholic high school on Long Island is teaming up with a nationally recognized law school to enhance artificial intelligence learning for teenagers, enabling them to become more savvy and responsible with the emerging technology.",
+        "content": "They’re getting an A in AI.\nA Catholic high school on Long Island is teaming up with a nationally recognized law school to enhance artificial intelligence learning for teenagers, enabling them to become more savvy and responsible with the emerging te... [3269 chars]",
+        "url": "https://nypost.com/2025/10/05/us-news/li-students-designed-a-buddy-bot-now-theyre-teaming-with-a-law-school-to-take-it-to-the-next-level/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-l29mp8nit-1759705506677.jpg?quality=75&strip=all&1759691320&w=1024",
+        "publishedAt": "2025-10-06T00:08:30Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "acf51563c812ceb6ddba22a4b85c9ac3",
         "title": "Banks scrambling to hire directors with technology experience",
         "description": "Skills in IT and artificial intelligence now trump corporate finance, accountancy and sustainability after high-profile cyberattacks",
@@ -141,22 +157,6 @@
             "name": "Free Press Journal",
             "url": "https://www.freepressjournal.in",
             "country": "in"
-        }
-    },
-    {
-        "id": "b32bdc6b7a73fd1008fea7a6b0936720",
-        "title": "Can AI Solve the Nuclear Fusion Energy Puzzle?",
-        "description": "Artificial intelligence is proving to be a critical factor in accelerating the development of nuclear fusion, bringing the promise of clean, baseload energy closer to reality.",
-        "content": "Nuclear fusion could be the holy grail of clean energy if scientists can crack the code of maintaining and controlling plasma for more efficient reactions. Nuclear fusion could provide critical amounts of baseload power all while producing zero green... [4903 chars]",
-        "url": "https://oilprice.com/Energy/Energy-General/Can-AI-Solve-the-Nuclear-Fusion-Energy-Puzzle.html",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-10-03_0xiqfuydzl.jpg",
-        "publishedAt": "2025-10-05T17:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
-            "name": "OilPrice",
-            "url": "https://oilprice.com",
-            "country": "us"
         }
     }
 ]
