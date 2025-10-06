@@ -1,5 +1,37 @@
 [
     {
+        "id": "88c86f5beac74bd51de2f1655984ba83",
+        "title": "China's chip challenge: the race to match US tech",
+        "description": "China's push to develop top-end artificial intelligence microchips is gaining momentum, but analysts say it will struggle to match the technical might of US powerhouse Nvidia within the current decade.",
+        "content": "BEIJING: China's push to develop top-end artificial intelligence microchips is gaining momentum, but analysts say it will struggle to match the technical might of US powerhouse Nvidia within the current decade.\nRamping up its chip industry is a way f... [3671 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/06/china039s-chip-challenge-the-race-to-match-us-tech",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/06/3556728.jpg",
+        "publishedAt": "2025-10-06T06:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "c9ef9a634df6bb6ada3a5d3f98587632",
+        "title": "Inside India’s largest celebration of AI: what makes ET AI Awards 2025 unmissable",
+        "description": "Indias AI landscape is evolving at a breathtaking pace, and at the forefront of this revolution is the ET AI Awards 2025, the countrys most prestigious platform recognizing innovation, impact, and excellence in artificial intelligence. Far from being just another awards ceremony, the ET AI Awards offers a comprehensive ecosystem where visionaries, entrepreneurs, and organizations converge to celebrate the transformative power of AI.",
+        "content": "Synopsis\nIndia’s AI landscape is evolving at a breathtaking pace, and at the forefront of this revolution is the ET AI Awards 2025, the country’s most prestigious platform recognizing innovation, impact, and excellence in artificial intelligence. Far... [4483 chars]",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/inside-indias-largest-celebration-of-ai-what-makes-et-ai-awards-2025-unmissable/articleshow/124331400.cms",
+        "image": "https://img.etimg.com/thumb/msid-124331509,width-1200,height-630,imgsize-67072,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-10-06T05:37:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "c1aef719a756471d00cbe58be29eeabd",
         "title": "TVA: Will AI replace your job? Here’s what will be affected in Australia, according to a study",
         "description": "In this episode of Trabaho, Visa, atbp., a study revealed how artificial intelligence or AI is gradually reshaping workplaces in Australia.",
@@ -125,38 +157,6 @@
             "name": "ETF Daily News",
             "url": "https://www.etfdailynews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "5d5b8c9e857cb115d19190c4c9289383",
-        "title": "LI students designed a 'buddy bot' -- now they're teaming with a law school to take it to the next level",
-        "description": "A Catholic high school on Long Island is teaming up with a nationally recognized law school to enhance artificial intelligence learning for teenagers, enabling them to become more savvy and responsible with the emerging technology.",
-        "content": "They’re getting an A in AI.\nA Catholic high school on Long Island is teaming up with a nationally recognized law school to enhance artificial intelligence learning for teenagers, enabling them to become more savvy and responsible with the emerging te... [3269 chars]",
-        "url": "https://nypost.com/2025/10/05/us-news/li-students-designed-a-buddy-bot-now-theyre-teaming-with-a-law-school-to-take-it-to-the-next-level/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-l29mp8nit-1759705506677.jpg?quality=75&strip=all&1759691320&w=1024",
-        "publishedAt": "2025-10-06T00:08:30Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "acf51563c812ceb6ddba22a4b85c9ac3",
-        "title": "Banks scrambling to hire directors with technology experience",
-        "description": "Skills in IT and artificial intelligence now trump corporate finance, accountancy and sustainability after high-profile cyberattacks",
-        "content": "The EY report mentioned no names, but eye-catching board hires this year have included NatWest taking on Gill Whitehead, an Ofcom regulator and former Google executive, and Admiral, the motor insurer, hiring Paola Bonomo, who formerly worked for Face... [2491 chars]",
-        "url": "https://www.thetimes.com/business-money/companies/article/banks-hire-directors-with-technology-experience-cyberattacks-bx39pzzd9",
-        "image": "https://www.thetimes.com/imageserver/image/%2Fbb799f55-9abe-4c31-a00d-5961a566159a.jpg?crop=4608%2C2592%2C0%2C163&resize=1200",
-        "publishedAt": "2025-10-05T23:01:00Z",
-        "lang": "en",
-        "source": {
-            "id": "b419a989918b3665a34559f5047546b6",
-            "name": "The Sunday Times",
-            "url": "https://www.thetimes.com",
-            "country": "gb"
         }
     }
 ]
