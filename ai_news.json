@@ -1,5 +1,53 @@
 [
     {
+        "id": "1c2e8c8ad1f209c0acc89de88e26a4d3",
+        "title": "Georgia AIM bus arrives in Athens with advances in technology",
+        "description": "Georgia AIM visited the University of Georgia recently to showcase new technology and artificial intelligence.",
+        "content": "The Georgia AIM tour visited Athens and other cities to showcase innovative artificial intelligence and technology.\nThe initiative aims to expose students and the public to new technologies in manufacturing and agriculture.\nExperts on the tour explai... [2567 chars]",
+        "url": "https://www.onlineathens.com/story/news/education/2025/10/06/georgia-aim-bus-arrives-in-athens-with-advances-in-technology/86498642007/",
+        "image": "https://www.onlineathens.com/gcdn/authoring/authoring-images/2025/10/03/NABH/86501086007-img-3.jpg?crop=1616,909,x0,y0&width=1616&height=909&format=pjpg&auto=webp",
+        "publishedAt": "2025-10-06T08:02:35Z",
+        "lang": "en",
+        "source": {
+            "id": "561a3089aa512f6b3827534cb81d319f",
+            "name": "Athens Banner-Herald",
+            "url": "https://www.onlineathens.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ac9ee13edf732d8c08ed027dd9fb5aee",
+        "title": "Sam Altman says GPT-5 critics are wrong, calls it a big leap toward real scientific AI",
+        "description": "OpenAI launched GPT-5 in August 2025, sparking strong debate and mixed reactions within the AI community. While critics pointed to unmet promises and initial technical issues, OpenAI leadership maintains that the new model marks significant progress, especially for specialised scientific and coding tasks. This article explores the lead-up to the launch, the public response, expert opinions, and OpenAI\u0019s evolving approach to artificial general intelligence (AGI).",
+        "content": "OpenAI chief executive Sam Altman has defended the company’s latest language model, GPT-5, saying it is a major step forward in artificial intelligence despite the early wave of criticism. A month after its rocky debut, Altman claims the new model is... [4179 chars]",
+        "url": "https://www.indiatoday.in/technology/news/story/sam-altman-says-gpt-5-critics-are-wrong-calls-it-a-big-leap-toward-real-scientific-ai-2798430-2025-10-06",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/gpt-5-112621967-16x9.png?VersionId=rPFSroP858EjIiV.n.41dR8hYMynzKA6",
+        "publishedAt": "2025-10-06T07:26:44Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "8ac34b4cbb5d335c685e6391b8f034ec",
+        "title": "Jony Ive And OpenAI's Artificial Intelligence Device Reportedly Faces Delays - Here Is What's Threatening 2026 Launch For The Palm-Sized Gadget",
+        "description": "OpenAI and Jony Ive are reportedly struggling with compute shortages, privacy concerns, and design challenges on their $6.5 billion AI hardware project, threatening its planned 2026 launch even as OpenAI hits a $500 billion valuation.",
+        "content": "OpenAI and legendary designer Jony Ive are reportedly facing major technical challenges as they race to launch their secretive new AI device, casting doubt on plans for a 2026 debut.\nOpenAI And Jony Ive Struggle To Finalize AI Hardware\nOpenAI and Ive... [3421 chars]",
+        "url": "https://www.benzinga.com/markets/tech/25/10/48035737/jony-ive-and-openais-artificial-intelligence-device-reportedly-faces-delays-here-is-whats-threatening-2026-launch-for-the-palm-sized-gadget",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/10/06/Ai-Technology--Artificial-Intelligence--.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-10-06T07:20:22Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "5cc028245785d4685410028187cde532",
         "title": "Does AI Pose An Existential Risk? What Experts Say",
         "description": "There are many claims to sort through in the current era of ubiquitous artificial intelligence (AI) products, especially generative AI ones based on large language models or LLMs, such as ChatGPT, Copilot, Gemini and many, many others.",
@@ -109,54 +157,6 @@
             "name": "iTWire",
             "url": "https://itwire.com",
             "country": "au"
-        }
-    },
-    {
-        "id": "03418ed17100d3a57965c65b4c7260b7",
-        "title": "China's Chip Challenge: The Race To Match US Tech",
-        "description": "China's push to develop top-end artificial intelligence microchips is gaining momentum, but analysts say it will struggle to match the technical might of US powerhouse Nvidia within the current decade.",
-        "content": "China's push to develop top-end artificial intelligence microchips is gaining momentum, but analysts say it will struggle to match the technical might of US powerhouse Nvidia within the current decade.\nRamping up its chip industry is a way for Beijin... [3629 chars]",
-        "url": "https://www.ibtimes.com/chinas-chip-challenge-race-match-us-tech-3785667",
-        "image": "https://d.ibtimes.com/en/full/4626078/ramping-its-chip-industry-way-beijing-beat-restrictions-imposed-washington-exports-most.jpg",
-        "publishedAt": "2025-10-06T02:36:14Z",
-        "lang": "en",
-        "source": {
-            "id": "933344203c2b862af768b5e662a162a4",
-            "name": "International Business Times",
-            "url": "https://www.ibtimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "868f775d3795500cbe7004acdbba2dc1",
-        "title": "Nvidia Partner Hon Hai’s Sales Rise 11% in Boost for AI Outlook",
-        "description": "Nvidia Corp.’s major server production partner Hon Hai Precision Industry Co. reported 11% growth in quarterly sales, signaling healthy demand for the chips and servers needed to develop artificial intelligence.",
-        "content": "(Bloomberg) -- Nvidia Corp.’s major server production partner Hon Hai Precision Industry Co. reported 11% growth in quarterly sales, signaling healthy demand for the chips and servers needed to develop artificial intelligence.\nThe company known also ... [2599 chars]",
-        "url": "https://www.livemint.com/companies/news/nvidia-partner-hon-hai-s-sales-rise-11-in-boost-for-ai-outlook-11759717461438.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
-        "publishedAt": "2025-10-06T02:24:20Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "eed45338818668ae214ed80257290fbb",
-        "title": "Sindh University’s student wins gold medal in 75kg category at PM Talent Hunt Boxing Championship",
-        "description": "HYDERABAD  -  Sindh University’s first-year Artificial Intelligence student Zarar Zaeem Baloch won the Gold Medal in the 75kg weight category at the",
-        "content": "HYDERABAD - Sindh University’s first-year Artificial Intelligence student Zarar Zaeem Baloch won the Gold Medal in the 75kg weight category at the Prime Minister Talent Hunt Boxorm Championship held at the University of Karachi from October 1 to 3, 2... [1239 chars]",
-        "url": "https://www.nation.com.pk/06-Oct-2025/sindh-university-s-student-wins-gold-medal-75kg-category-pm-talent-hunt-boxing-championship",
-        "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-        "publishedAt": "2025-10-06T01:51:31Z",
-        "lang": "en",
-        "source": {
-            "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-            "name": "The Nation",
-            "url": "https://www.nation.com.pk",
-            "country": "pk"
         }
     }
 ]
