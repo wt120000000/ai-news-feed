@@ -1,5 +1,37 @@
 [
     {
+        "id": "5cc028245785d4685410028187cde532",
+        "title": "Does AI Pose An Existential Risk? What Experts Say",
+        "description": "There are many claims to sort through in the current era of ubiquitous artificial intelligence (AI) products, especially generative AI ones based on large language models or LLMs, such as ChatGPT, Copilot, Gemini and many, many others.",
+        "content": "Brisbane:\nThere are many claims to sort through in the current era of ubiquitous artificial intelligence (AI) products, especially generative AI ones based on large language models or LLMs, such as ChatGPT, Copilot, Gemini and many, many others.\nAI w... [1302 chars]",
+        "url": "https://www.ndtv.com/world-news/does-ai-pose-an-existential-risk-what-experts-say-9403269",
+        "image": "https://c.ndtvimg.com/2025-09/u9vtorio_artificial-intelligence_625x300_02_September_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2025-10-06T07:07:07Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "f3b19af8b8cfa74e6292f993b0ddab81",
+        "title": "Competition heats up to challenge Nvidia's AI chip dominance",
+        "description": "The artificial intelligence (AI) revolution has whetted the appetites of Nvidia's competitors, who are seeking to close the gap on the chip giant, which has so far been the central playmaker in the AI revolution.",
+        "content": "NEW YORK: The artificial intelligence (AI) revolution has whetted the appetites of Nvidia's competitors, who are seeking to close the gap on the chip giant, which has so far been the central playmaker in the AI revolution.\nVirtually unknown to the ge... [3470 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/06/competition-heats-up-to-challenge-nvidia039s-ai-chip-dominance",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/06/3556768.jpg",
+        "publishedAt": "2025-10-06T07:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "88c86f5beac74bd51de2f1655984ba83",
         "title": "China's chip challenge: the race to match US tech",
         "description": "China's push to develop top-end artificial intelligence microchips is gaining momentum, but analysts say it will struggle to match the technical might of US powerhouse Nvidia within the current decade.",
@@ -125,38 +157,6 @@
             "name": "The Nation",
             "url": "https://www.nation.com.pk",
             "country": "pk"
-        }
-    },
-    {
-        "id": "6801eb803a7830b3c50fc6701ad30fb8",
-        "title": "Competition Heats Up To Challenge Nvidia's AI Chip Dominance",
-        "description": "The artificial intelligence (AI) revolution has whetted the appetites of Nvidia's competitors, who are seeking to close the gap on the chip giant, which has so far been the central playmaker in the AI revolution.",
-        "content": "The artificial intelligence (AI) revolution has whetted the appetites of Nvidia's competitors, who are seeking to close the gap on the chip giant, which has so far been the central playmaker in the AI revolution.\nVirtually unknown to the general publ... [3356 chars]",
-        "url": "https://www.ibtimes.com/competition-heats-challenge-nvidias-ai-chip-dominance-3785647",
-        "image": "https://d.ibtimes.com/en/full/4626040/nvidia-far-lead-when-it-comes-semiconductors-needed-ai-technology.jpg",
-        "publishedAt": "2025-10-06T01:15:19Z",
-        "lang": "en",
-        "source": {
-            "id": "933344203c2b862af768b5e662a162a4",
-            "name": "International Business Times",
-            "url": "https://www.ibtimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "2b4013670e739fdd5d5bf3134e6d4c7e",
-        "title": "Artificial Intelligence Stocks To Watch Today - October 4th",
-        "description": "Read Artificial Intelligence Stocks To Watch Today – October 4th at ETF Daily News",
-        "content": "SoundHound AI, Tempus AI, and BigBear.ai are the three Artificial Intelligence stocks to watch today, according to MarketBeat’s stock screener tool. Artificial intelligence stocks are shares of publicly traded companies whose core business involves d... [2223 chars]",
-        "url": "https://www.etfdailynews.com/2025/10/06/artificial-intelligence-stocks-to-watch-today-october-4th/",
-        "image": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/soundhound-ai-inc-logo-1200x675.png?v=20220503111149&w=240&h=240&zc=2",
-        "publishedAt": "2025-10-06T01:04:57Z",
-        "lang": "en",
-        "source": {
-            "id": "1b40b878c09151e8cf44a095bc8569a5",
-            "name": "ETF Daily News",
-            "url": "https://www.etfdailynews.com",
-            "country": "us"
         }
     }
 ]
