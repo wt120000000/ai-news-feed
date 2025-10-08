@@ -1,5 +1,37 @@
 [
     {
+        "id": "a7d1f0b041c46540b3ae9a895b0cf228",
+        "title": "Government drafts AI law to govern responsible use, says Gobind",
+        "description": "KUALA LUMPUR: A law on the responsible use of artificial intelligence is being drafted, says Gobind Singh Deo.",
+        "content": "KUALA LUMPUR: A law on the responsible use of artificial intelligence is being drafted, says Gobind Singh Deo.\nThe Digital Minister said the move shows the government’s commitment to a law based-regulatory framework and stronger AI governance.\n“Such ... [1984 chars]",
+        "url": "https://www.thestar.com.my/news/nation/2025/10/08/government-drafts-ai-law-to-govern-responsible-use-says-gobind",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/08/3560184.JPG",
+        "publishedAt": "2025-10-08T06:38:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "1957d2dd68325d944c00dcf960299d91",
+        "title": "Deloitte's AI-Generated Errors In Australia Echo Troubled History Worldwide",
+        "description": "An embarrassing refund to the Australian government over an erroneous report produced using generative artificial intelligence has put global consultancy Deloitte's past run-ins with regulators under the spotlight. Over the past five years, Deloitte has faced multiple fines and sanctions across several countries for violations and misconduct in its auditing practices.",
+        "content": "An embarrassing refund to the Australian government over an erroneous report produced using generative artificial intelligence has put global consultancy Deloitte's past run-ins with regulators under the spotlight.\nOver the past five years, Deloitte ... [4238 chars]",
+        "url": "https://www.ndtvprofit.com/business/deloittes-ai-generated-errors-in-australia-echo-troubled-history-worldwide",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-10-08%2Fdumpv4ld%2FGX2zaVhWIAAmfRv.jpg?rect=59%2C0%2C3021%2C1586&w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-10-08T06:33:18Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "7d237a188febb3cd272b07732e08499a",
         "title": "Asia markets retreat tracking Wall Street tech decline, Japan rally pa",
         "description": "Asia stocks trade lower on Wednesday, mirroring a downbeat session on Wall Street overnight, which fell from record highs amid a pullback in technology stocks, especially those linked to chip making, cloud services, and artificial intelligence.",
@@ -125,38 +157,6 @@
             "name": "Australian Financial Review",
             "url": "https://www.afr.com",
             "country": "au"
-        }
-    },
-    {
-        "id": "cc7bbb4591d7be28c6344c8dec02fbbf",
-        "title": "Deloitte’s botched AI report is now a headache for the big four",
-        "description": "The federal government under pressure to require all consultants to disclose when they use artificial intelligence in their work.",
-        "content": "Demands are growing for the Albanese government to require consultants to disclose when they use artificial intelligence in their work after Deloitte was forced to admit a report for which it charged a department $440,000 included errors introduced b... [265 chars]",
-        "url": "https://www.afr.com/companies/professional-services/deloitte-s-botched-ai-report-is-now-a-headache-for-the-big-four-20251007-p5n0pp",
-        "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/5020e528a68752c27f8abda19d85d348dcb8c229c077db706c05933ba5a5ec5d",
-        "publishedAt": "2025-10-08T04:58:33Z",
-        "lang": "en",
-        "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "Australian Financial Review",
-            "url": "https://www.afr.com",
-            "country": "au"
-        }
-    },
-    {
-        "id": "d3638afc11bc70a35e30c6c47798df22",
-        "title": "Anthropic To Open First India Office In 2026 As Demand For AI Tools Grows",
-        "description": "(Adds details, context and background from paragraph 2 onwards) Oct 7 (Reuters) - Anthropic, the artificial intelligence startup backed by Alphabet's Google and Amazon.com , said on Tuesday it will",
-        "content": "Anthropic, the artificial intelligence startup backed by Alphabet's Google and Amazon.com , said on Tuesday it will open its first office in India next year, aiming to tap into the country's growing appetite for AI tools.\nThe move comes as AI adoptio... [1326 chars]",
-        "url": "https://www.republicworld.com/tech/anthropic-to-open-first-india-office-in-2026-as-demand-for-ai-tools-grows",
-        "image": "https://img.republicworld.com/all_images/anthropic-to-open-first-india-office-in-2026-as-demand-for-ai-tools-grows-1759899315363-16_9.webp",
-        "publishedAt": "2025-10-08T04:55:19Z",
-        "lang": "en",
-        "source": {
-            "id": "e479ce8332aab31d8bac6ba9584cedbb",
-            "name": "Republic World",
-            "url": "https://www.republicworld.com",
-            "country": "in"
         }
     }
 ]
