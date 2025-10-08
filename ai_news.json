@@ -1,5 +1,69 @@
 [
     {
+        "id": "5b9e772f0e4b2b0048eb343a0ac08061",
+        "title": "Anthropic to open first India office next year",
+        "description": "Anthropic, the artificial intelligence startup backed by Alphabet’s Google and Amazon.com, said on Tuesday it will open its first office in India next year.",
+        "content": "Anthropic, the artificial intelligence startup backed by Alphabet's Google and Amazon.com, said on Tuesday it will open its first office in India next year, as it looks to tap into the country's growing appetite for AI tools.\nIndia has emerged as Ant... [1036 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/anthropic-to-open-first-india-office-next-year/article70137914.ece",
+        "image": "https://th-i.thgim.com/public/incoming/cgcxtq/article70137917.ece/alternates/LANDSCAPE_1200/2025-10-08T015726Z_646848400_RC2Y40A5Z019_RTRMADP_3_ANTHROPIC-INDIA.JPG",
+        "publishedAt": "2025-10-08T03:18:44Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "610a23c414c8661c796d54eb61231405",
+        "title": "Data center boom at risk of overbuilding, says asset management giant Ares",
+        "description": "Investments have poured into data center projects as a way to cash in on booming demand for processing power unleashed by the advent of artificial intelligence.",
+        "content": "The flood of capital pouring into AI infrastructure is raising the risks of overcapacity as the world’s biggest investors look to cash in on the artificial intelligence boom, according to Ares Management Co-President Kipp deVeer.\n\"If you look histori... [829 chars]",
+        "url": "https://www.japantimes.co.jp/business/2025/10/08/economy/data-center-risk-ares/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/10/08/498399.jpg?v=3.1",
+        "publishedAt": "2025-10-08T02:56:07Z",
+        "lang": "en",
+        "source": {
+            "id": "4b9101ef61d45607a32072a7504f5fb0",
+            "name": "The Japan Times ",
+            "url": "https://www.japantimes.co.jp",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "0b5c965bdaa6ae88a44214eb90add423",
+        "title": "Exclusive-Data streaming software maker Confluent explores sale, sources say",
+        "description": "(Reuters) -Confluent is exploring a sale after attracting acquisition interest, according to three people familiar with the matter, the latest data infrastructure company to draw suitors for its potential in supporting artificial intelligence development.",
+        "content": "(Reuters) -Confluent is exploring a sale after attracting acquisition interest, according to three people familiar with the matter, the latest data infrastructure company to draw suitors for its potential in supporting artificial intelligence develop... [1814 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/08/exclusive-data-streaming-software-maker-confluent-explores-sale-sources-say",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/08/3559882.jpg",
+        "publishedAt": "2025-10-08T02:42:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "b8006f4083594f7151643d71bee46ea9",
+        "title": "CCI study finds 67% of Indian AI startups focused on building AI applications, reshaping India's business landscape",
+        "description": "A recent survey by the Competition Commission of India (CCI) has found that nearly 67 per cent of Indian AI (Artificial intelligence) startups are primarily engaged in developing AI-based applications, with the majority relying on open-source technologies.",
+        "content": "New Delhi [India], October 8 (ANI): A recent survey by the Competition Commission of India (CCI) has found that nearly 67 per cent of Indian AI (Artificial Intelligence) startups are primarily engaged in developing AI-based applications, with the maj... [3124 chars]",
+        "url": "https://www.tribuneindia.com/news/business/cci-study-finds-67-of-indian-ai-startups-focused-on-building-ai-applications-reshaping-indias-business-landscape/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTcwOTJiNzYwLWEzZWYtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
+        "publishedAt": "2025-10-08T02:35:18Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "c81d14d905b403661c55dfa8e9a87048",
         "title": "Exclusive: Data streaming software maker Confluent explores sale, sources say",
         "description": "Confluent is exploring a sale after attracting acquisition interest, according to three people familiar with the matter, the latest data infrastructure company to draw suitors for its potential in supporting artificial intelligence development.",
@@ -80,82 +144,18 @@
         }
     },
     {
-        "id": "1e9d9c9ee9d9311c3fb8f86643f2096c",
-        "title": "Why AI Empathy Won’t Replace Human Leaders (Yet)",
-        "description": "Artificial intelligence is gaining emotional skills once thought to be fundamentally human. But it is not yet a substitute for leader empathy.",
-        "content": "Artificial intelligence (AI) is rapidly gaining abilities once deemed fundamentally human. Not long ago, University of Oxford researchers argued that empathy—understanding people’s reactions and why they have them—is a bottleneck that prevents machin... [5876 chars]",
-        "url": "https://www.forbes.com/sites/laurenhowe/2025/10/08/why-ai-empathy-wont-replace-human-leaders-yet/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68e60e6b905761778bc6168b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "id": "b2dce4ec8671bfa6948b6310cb7eceaa",
+        "title": "Auric Portex: Trusted by UK Traders, Powered by AI",
+        "description": "London, UK, Oct. 08, 2025 (GLOBE NEWSWIRE) -- Auric Portex is redefining automated trading with a cutting-edge combination of artificial intelligence,...",
+        "content": "London, UK, Oct. 08, 2025 (GLOBE NEWSWIRE) -- Auric Portex is redefining automated trading with a cutting-edge combination of artificial intelligence, deep learning, and secure infrastructure. The platform is designed to empower investors with real-t... [24491 chars]",
+        "url": "https://www.globenewswire.com/news-release/2025/10/08/3163513/0/en/Auric-Portex-Trusted-by-UK-Traders-Powered-by-AI-How-This-Auric-Portex-Platform-is-Setting-a-New-Benchmark-in-Automated-Investing.html",
+        "image": "https://ml.globenewswire.com/Resource/Download/ec09e04b-7781-42ff-9828-dd00cc2dedc7",
         "publishedAt": "2025-10-08T00:00:00Z",
         "lang": "en",
         "source": {
-            "id": "a0300bc9a6e9d5b317bd6f614767231f",
-            "name": "Forbes",
-            "url": "https://www.forbes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ef25f4b2c3092f3ab2afc6d1496ca4a3",
-        "title": "Experts warn Ottawa’s new AI task force is skewed towards industry",
-        "description": "The Liberal government has given its new AI \"task force\" until the end of the month to fast-track changes to the national artificial intelligence strategy — a plan that critics say leans too much on the perspective of industry and the tech sector.",
-        "content": "The Liberal government has given its new AI \"task force\" until the end of the month to fast-track changes to the national artificial intelligence strategy — a plan that critics say leans too much on the perspective of industry and the tech sector.\nTe... [7172 chars]",
-        "url": "https://www.nationalobserver.com/2025/10/08/news/experts-warn-ottawas-new-ai-task-force-skewed-towards-industry",
-        "image": "https://www.nationalobserver.com/sites/default/files/img/2025/10/08/6882cf4e552805f6b57bdee08be2345487029222821e3ba8e66b3ffa7035a619.jpg",
-        "publishedAt": "2025-10-08T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "bde73c871b6272fa96a37829f5dc59fd",
-            "name": "Canada’s National Observer",
-            "url": "https://www.nationalobserver.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "3be21648bdb0f24be701b2c0c3f1f944",
-        "title": "Musk’s xAI close to $20B funding round, with Nvidia investing, Bloomberg says",
-        "description": "xAI, the artificial intelligence startup backed by Tesla (TSLA) CEO Elon Musk, is raising more financing than previously planned, including an e...",
-        "content": "xAI, the artificial intelligence startup backed by Tesla (TSLA) CEO Elon Musk, is raising more financing than previously planned, including an equity investment from Nvidia (NVDA), to bring its ongoing funding round to $20B, Bloomberg’s Carmen Arroyo... [286 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/musk-s-xai-close-to-20b-funding-round-with-nvidia-investing-bloomberg-says-1035279199",
-        "image": "https://markets.businessinsider.com/favicon-32x32.png",
-        "publishedAt": "2025-10-07T23:20:15Z",
-        "lang": "en",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Markets Insider",
-            "url": "https://markets.businessinsider.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "949e5668c77ab4508c046ce0fa9f5603",
-        "title": "Musk Taps Ex-Morgan Stanley Banker to Steer xAI Finances",
-        "description": "Big news in the world of artificial intelligence and social media! Elon Musk has named Antony Armstrong, a former Morgan Stanley banker, as the new Chief",
-        "content": "Elon Musk Appoints Ex-Morgan Stanley Banker as XAI’s New CFO\nBig news in the world of artificial intelligence and social media ! Elon Musk has named Antony Armstrong, a former Morgan Stanley banker, as the new Chief Financial Officer (CFO) of his AI ... [1877 chars]",
-        "url": "https://nep123.com/musk-taps-ex-morgan-stanley-banker-to-steer-xai-finances/",
-        "image": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
-        "publishedAt": "2025-10-07T23:14:50Z",
-        "lang": "en",
-        "source": {
-            "id": "a7cfbea87bc15750b7c5fd439a1ccb08",
-            "name": "Nep123.com",
-            "url": "https://nep123.com",
-            "country": "np"
-        }
-    },
-    {
-        "id": "b01620ec2a790ff7ede6f85f8cbb0707",
-        "title": "Nvidia to Finance Musk’s xAI Chips as Part of $20 Billion Deal",
-        "description": "Elon Musk’s artificial intelligence startup xAI is raising more financing than initially planned, tapping backers including Nvidia Corp. to lift its ongoing funding round to $20 billion, according to people with knowledge of the matter.",
-        "content": "Elon Musk ’s artificial intelligence startup xAI is raising more financing than initially planned, tapping backers including Nvidia Corp. to lift its ongoing funding round to $20 billion, according to people with knowledge of the matter.\nThe financin... [305 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-10-07/musk-s-xai-nears-20-billion-capital-raise-tied-to-nvidia-chips",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRUY89iwM5E4/v0/1200x806.jpg",
-        "publishedAt": "2025-10-07T23:11:16Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
+            "id": "8e9ab8327c5f7903cc1b50470411d165",
+            "name": "GlobeNewswire",
+            "url": "https://www.globenewswire.com",
             "country": "us"
         }
     }
