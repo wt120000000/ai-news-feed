@@ -1,5 +1,85 @@
 [
     {
+        "id": "f966901eec95abc53bcc515009c849a8",
+        "title": "Wharton prof Ethan Mollick",
+        "description": "For all the rapid progress in gen AI, what we still don't know about artificial intelligence and the future is just about everything.",
+        "content": "Ethan Mollick is considered one of the top experts on the emerging world of generative AI, jobs and the economy, but you might not think so if you take his word for it.\n\"Leading is not that far a lead as an expert,\" he told CNBC's Sharon Epperson at ... [9993 chars]",
+        "url": "https://www.cnbc.com/2025/10/07/generative-ai-knowledge-learning-jobs-education-skills-wharton-ethan-mollick.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108200695-1758204091659-gettyimages-2169853690-ACSL_laptop_website_Openai.jpeg?v=1759865769&w=1920&h=1080",
+        "publishedAt": "2025-10-07T21:05:49Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c79fbc206661b84392b06f82c809f383",
+        "title": "China's chip challenge: The race to match U.S. tech",
+        "description": "China's push to develop top-end artificial intelligence microchips is gaining momentum, but analysts say it will struggle to match the technical might of U.S. powerhouse Nvidia within the current decade. Ramping up its chip industry is a way for Beijing to beat restrictions imposed by Washington on exports of the…",
+        "content": "China's push to develop top-end artificial intelligence microchips is gaining momentum, but analysts say it will struggle to match the technical might of U.S. powerhouse Nvidia within the current decade.\nRamping up its chip industry is a way for Beij... [3643 chars]",
+        "url": "https://japantoday.com/category/tech/china%27s-chip-challenge-the-race-to-match-us-tech",
+        "image": "https://media.japantoday.com/img/store/c3/6e/2b1eabe4af8cb7919bff537ef17c9e211f54/024ec2b69e3d25ed345abc854e53d8d88465e208/_w1700.jpeg",
+        "publishedAt": "2025-10-07T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "2d0d6f234103e094f9705e681a5cae61",
+        "title": "China's chip challenge: The race to match U.S. tech",
+        "description": "China's push to develop top-end artificial intelligence microchips is gaining momentum, but analysts say it will struggle to match the technical might of U.S. powerhouse Nvidia within the current decade. Ramping up its chip industry is a way for Beijing to beat restrictions imposed by Washington on exports of the…",
+        "content": "China's push to develop top-end artificial intelligence microchips is gaining momentum, but analysts say it will struggle to match the technical might of U.S. powerhouse Nvidia within the current decade.\nRamping up its chip industry is a way for Beij... [3643 chars]",
+        "url": "https://japantoday.com/category/tech/china's-chip-challenge-the-race-to-match-us-tech",
+        "image": "https://media.japantoday.com/img/store/c3/6e/2b1eabe4af8cb7919bff537ef17c9e211f54/024ec2b69e3d25ed345abc854e53d8d88465e208/_w1700.jpeg",
+        "publishedAt": "2025-10-07T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "5b20fdc92fe0814e9e377fc6c3fe2801",
+        "title": "Why Google wants you to ask long, complicated questions",
+        "description": "More web queries will be answered by artificial intelligence when Google expands technology tested in the US to its Australian users.",
+        "content": "Artificial intelligence technology is expected to answer more of Australians' burning questions when Google expands its latest web search experiment Down Under.\nThe internet giant revealed plans to add AI Mode to its search engine in another 40 count... [2562 chars]",
+        "url": "https://www.perthnow.com.au/news/technology/why-google-wants-you-to-ask-long-complicated-questions-c-20275305",
+        "image": "https://images.perthnow.com.au/publication/C-20275305/596fcc9e2818330fc386efdd8cc0980d9f1f80b7-16x9-x0y0w1280h720.jpg?imwidth=1200",
+        "publishedAt": "2025-10-07T20:31:20Z",
+        "lang": "en",
+        "source": {
+            "id": "7f6e8514e9d8f8376aaa9a7229861518",
+            "name": "PerthNow",
+            "url": "https://www.perthnow.com.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "d8f5dbfd82cc4b4f47ff3bec0ab117eb",
+        "title": "Why Google wants you to ask long, complicated questions",
+        "description": "More web queries will be answered by artificial intelligence when Google expands technology tested in the US to...",
+        "content": "Google will add AI Mode to its search in Australia, with longer questions to get better answers. Photo: HANDOUT/GOOGLE AUSTRALIA\nArtificial intelligence technology is expected to answer more of Australians' burning questions when Google expands its l... [4480 chars]",
+        "url": "https://www.canberratimes.com.au/story/9083630/why-google-wants-you-to-ask-long-complicated-questions/",
+        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/94bf7763-dcba-47b5-bb96-1fd2adbe4d9d.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+        "publishedAt": "2025-10-07T20:30:02Z",
+        "lang": "en",
+        "source": {
+            "id": "92021aca7322dc2b29226023c35d9a4a",
+            "name": "The Canberra Times",
+            "url": "https://www.canberratimes.com.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "f9f7d2d40005ab87b4e737a52e36c322",
         "title": "Jamie Dimon says JPMorgan spends $2B a year on AI",
         "description": "Jamie Dimon said Tuesday that JPMorgan Chase now spends about $2 billion a year on artificial intelligence – and breaks even on the investment thanks to savings the tech has created.",
@@ -77,86 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "b4a0494aff6599c3c6a47adde0474b8f",
-        "title": "Advancing disease research with AI and Bayesian modeling at UT Arlington",
-        "description": "Artificial intelligence can solve problems at remarkable speed, but it's the people developing the algorithms who are truly driving discovery.",
-        "content": "Artificial intelligence can solve problems at remarkable speed, but it's the people developing the algorithms who are truly driving discovery. At The University of Texas at Arlington, data scientists are creating sophisticated formulas that enable AI... [3753 chars]",
-        "url": "https://www.news-medical.net/news/20251007/Advancing-disease-research-with-AI-and-Bayesian-modeling-at-UT-Arlington.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2025-10-07T18:17:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "83d2a751ddab33b79f7a5852fbadc8ad",
-        "title": "Deloitte To Repay Australian Government After AI-Generated Errors Found In Official Report",
-        "description": "Global consultancy Deloitte has agreed to partially refund its $440,000 fee to the Australian government after admitting to the use of generative artificial intelligence (AI) tools in preparing \"Future Made in Australia\" an official report— a move that later led to several factual errors and fabricated references.",
-        "content": "Global consultancy Deloitte has agreed to partially refund its $440,000 fee to the Australian government after admitting to the use of generative artificial intelligence (AI) tools in preparing \"Future Made in Australia\" an official report— a move th... [2684 chars]",
-        "url": "https://www.ndtvprofit.com/business/deloitte-to-repay-australian-government-after-ai-generated-errors-found-in-official-report",
-        "image": "https://media.assettype.com/bloombergquint%2F2023-12%2F4dd33f32-bea6-46da-8d9d-820c13ba5004%2Finclusion_leadership_development_video_thumnail.webp?rect=0%2C0%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-10-07T17:45:48Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8e8da67acf99d619e2672c70530e6a97",
-        "title": "Fed's Kashkari says he's skeptical AI is replacing workers, but it may push up rates",
-        "description": "Federal Reserve Bank of Minneapolis President Neel Kashkari on Tuesday said that while he doesn't believe artificial intelligence will quickly replace U.S. workers, massive investment in AI data centers will tend to drive borrowing costs higher, even if the Fed reduces its short-term policy rate.",
-        "content": "Oct 7 (Reuters) - Federal Reserve Bank of Minneapolis President Neel Kashkari on Tuesday said that while he doesn't believe artificial intelligence will quickly replace U.S. workers, massive investment in AI data centers will tend to drive borrowing ... [2243 chars]",
-        "url": "https://www.reuters.com/business/feds-kashkari-says-hes-skeptical-ai-is-replacing-workers-it-may-push-up-rates-2025-10-07/",
-        "image": "https://www.reuters.com/resizer/v2/SPTB2MASGRIALIRKMHMWHIJWCA.jpg?auth=7dfb094f02fd0892196765fec7d46bf031731bfb096424dc6fef8a4da830846c&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-10-07T17:31:08Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6df40028b7f58404074dee56422a6e0c",
-        "title": "Parent called 999 after TikTok viral 'AI homeless man' prank",
-        "description": "AN 'extremely concerned' parent called 999 after their daughter pranked them with a social media trend involving artificial intelligence.",
-        "content": "Poole Police has issued a warning after they were called by a parent who was misled by a viral social media trend.\nThe 'AI homeless man prank' has featured on sites such as TikTok and Instagram. People use AI-generated images to create the illusion t... [1045 chars]",
-        "url": "https://www.bournemouthecho.co.uk/news/25525189.parent-called-999-tiktok-viral-ai-homeless-man-prank/",
-        "image": "https://www.bournemouthecho.co.uk/resources/images/17914892.jpg?type=og-image",
-        "publishedAt": "2025-10-07T17:14:58Z",
-        "lang": "en",
-        "source": {
-            "id": "ede8a6e3a0db780828c29284735fe691",
-            "name": "Daily Echo",
-            "url": "https://www.bournemouthecho.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "2953eb62faec926f23ea72cd4dd79504",
-        "title": "Inter-State Solver Gang Busted: Artificial Intelligence Used in Exam Scam",
-        "description": "The Lucknow Police exposed a gang using AI to replace candidates with imposters for the IBPS Clerk Exam. They arrested 10 members involved in forging identity documents, seizing devices and cash. The gang, led by Anand Kumar, charged candidates significant sums for their illicit services.",
-        "content": "The Lucknow Police have uncovered an inter-state solver gang that used AI to manipulate exam admissions, arresting ten suspects in connection with the fraud. The group replaced legitimate candidates with imposters for the 2025 IBPS Clerk Exam, a seri... [675 chars]",
-        "url": "https://www.devdiscourse.com/article/law-order/3655672-inter-state-solver-gang-busted-artificial-intelligence-used-in-exam-scam",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/23_09_2025_18_57_07_083808.png?width=920&format=jpeg",
-        "publishedAt": "2025-10-07T17:14:36Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
