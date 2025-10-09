@@ -1,5 +1,85 @@
 [
     {
+        "id": "bb5c4df5434784e6ae341067002988ee",
+        "title": "Why higher ed's AI rush could put corporate interests over public service and independence",
+        "description": "Artificial intelligence technology has begun to transform higher education, raising a new set of profound questions about the role of universities in society. A string of high-profile corporate partnerships reflect how universities are embracing AI technology.",
+        "content": "Artificial intelligence technology has begun to transform higher education, raising a new set of profound questions about the role of universities in society. A string of high-profile corporate partnerships reflect how universities are embracing AI t... [6530 chars]",
+        "url": "https://phys.org/news/2025-10-higher-ed-ai-corporate-independence.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/education-1.jpg",
+        "publishedAt": "2025-10-08T17:01:05Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "b0dc05deb7b7bfa28458472d5ac95b6b",
+        "title": "David AI Raises $50 Million to Bring Audio Data to AI Models",
+        "description": "David AI Labs Inc. a startup selling audio data sets to help train artificial intelligence models, has raised $50 million from investors in a new round of funding — signaling a growing market for startups that provide the building blocks for AI development.",
+        "content": "David AI Labs Inc. a startup selling audio data sets to help train artificial intelligence models, has raised $50 million from investors in a new round of funding — signaling a growing market for startups that provide the building blocks for AI devel... [421 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-10-08/david-ai-raises-50-million-to-bring-audio-data-to-ai-models",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilhIfrLKsMuc/v0/1200x800.jpg",
+        "publishedAt": "2025-10-08T17:00:10Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c192bc51fe864d0e0898967d62e0844b",
+        "title": "Salesforce to spend $1 billion in Mexico over next five years to drive AI adoption",
+        "description": "Salesforce said on Wednesday it would spend $1 billion in Mexico over the next five years, as the cloud software provider looks to expand its operations and drive artificial intelligence adoption.",
+        "content": "The company, which began operating in Mexico in 2006, said the investment will fund a new Mexico City office and a Global Delivery Center to support customers across the Americas.\nSign up here.\n\"This $1 billion investment is a commitment to Mexico as... [1106 chars]",
+        "url": "https://www.reuters.com/world/americas/salesforce-spend-1-billion-mexico-over-next-five-years-drive-ai-adoption-2025-10-08/",
+        "image": "https://www.reuters.com/resizer/v2/SPHCST5T7RIYVCN3JIUSMHKAP4.jpg?auth=d93edc351057531d0f60483b2f97f52bdbaf23edb1f7ca2d9efdb0ed5455e385&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-10-08T16:58:32Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "82049ecfb17fcf00eda6e638cdbc89db",
+        "title": "50 Cent Says He Wants To Use AI To Share His Unreleased Music",
+        "description": "50 Cent shared the plan while posting “1960s soul” versions of his songs made through artificial intelligence.",
+        "content": "He began by sharing an alternate version of \"21 Questions.\" “Now this sh*t is hot [fire],” he wrote. “I’m a use AI on all my unreleased songs and see what I got for ya!\" From there, he posted a soulful version of “God Gave Me Style,” writing: “This f... [1057 chars]",
+        "url": "https://www.hotnewhiphop.com/951605-50-cent-wants-to-use-ai-on-unreleased-music-hip-hop-news",
+        "image": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2025/10/50-Cent-44-scaled.jpg",
+        "publishedAt": "2025-10-08T16:57:29Z",
+        "lang": "en",
+        "source": {
+            "id": "abab8062417cb9b02ead633cc01bfb99",
+            "name": "HotNewHipHop",
+            "url": "https://www.hotnewhiphop.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "638100afd0f4dffb60e34cbd198df15e",
+        "title": "Basic data literacy can boost AI use by teachers, study finds",
+        "description": "Artificial intelligence (AI) is revolutionizing educational paradigms and transforming teaching practice thanks to machine learning, natural language processing and personalized tutoring systems. One of the keys is the advanced analysis of students' learning data, which allows teachers to develop individualized teaching strategies.",
+        "content": "Artificial intelligence (AI) is revolutionizing educational paradigms and transforming teaching practice thanks to machine learning, natural language processing and personalized tutoring systems. One of the keys is the advanced analysis of students' ... [4469 chars]",
+        "url": "https://phys.org/news/2025-10-basic-literacy-boost-ai-teachers.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/classroom-2.jpg",
+        "publishedAt": "2025-10-08T16:51:04Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
         "id": "5c22ce89c2c37ee8baeb2448498761b3",
         "title": "Artificial Intelligence Chip Market to Reach $460.9 billion, Globally, by 2034 at 27.6% CAGR: Allied Market Research",
         "description": "/PRNewswire/ -- A major driver for the AI chip market is the exponential growth in data generation and the rising adoption of artificial intelligence across...",
@@ -77,86 +157,6 @@
             "name": "The Mercury News",
             "url": "https://www.mercurynews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "952b3d53748f15e75f02ee7f6daae19b",
-        "title": "Presentation of Evripidis Stylianidis’ Book: Applause for Karamanlis - Samaras will not attend, citing “Personal choice”",
-        "description": "His book is entitled \"Artificial Intelligence: Human Rights, Democracy & the Rule of Law\"",
-        "content": "The official presentation of Evripidis Stylianidis’ new book took place at the Athens Conservatory on October 8, 2025, drawing a notable political crowd — but also highlighting a key absence.\nApplause for Karamanlis, Strong Political Presence\nPresent... [1595 chars]",
-        "url": "https://en.protothema.gr/2025/10/08/presentation-of-evripidis-stylianidis-book-applause-for-karamanlis-samaras-will-not-attend-citing-personal-choice/",
-        "image": "https://en.protothema.gr/wp-content/uploads/2025/10/5105926-1.jpg-1.jpg",
-        "publishedAt": "2025-10-08T15:45:24Z",
-        "lang": "en",
-        "source": {
-            "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
-            "name": "Proto Thema",
-            "url": "https://en.protothema.gr",
-            "country": "gr"
-        }
-    },
-    {
-        "id": "bce381ce8bfc2cea69ef0c269d63c943",
-        "title": "Experts say Ottawa’s new AI task force is skewed towards industry",
-        "description": "OTTAWA — The Liberal government has given its new AI \"task force\" until the end of the month to fast-track changes to the national artificial intelligence strategy — a plan that critics say leans too much on the perspective of industry and the tech s",
-        "content": "OTTAWA — The Liberal government has given its new AI \"task force\" until the end of the month to fast-track changes to the national artificial intelligence strategy — a plan that critics say leans too much on the perspective of industry and the tech s... [7222 chars]",
-        "url": "https://www.baytoday.ca/national-news/experts-say-ottawas-new-ai-task-force-is-skewed-towards-industry-11319722",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/6882cf4e552805f6b57bdee08be2345487029222821e3ba8e66b3ffa7035a619.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-10-08T15:24:36Z",
-        "lang": "en",
-        "source": {
-            "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-            "name": "BayToday",
-            "url": "https://www.baytoday.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "7b01bade1d74452b4f81516438ee4dc7",
-        "title": "Experts say Ottawa’s new AI task force is skewed towards industry",
-        "description": "OTTAWA — The Liberal government has given its new AI \"task force\" until the end of the month to fast-track changes to the national artificial intelligence strategy — a plan that critics say leans too much on the perspective of industry and the tech s",
-        "content": "OTTAWA — The Liberal government has given its new AI \"task force\" until the end of the month to fast-track changes to the national artificial intelligence strategy — a plan that critics say leans too much on the perspective of industry and the tech s... [7222 chars]",
-        "url": "https://www.sootoday.com/national-news/experts-say-ottawas-new-ai-task-force-is-skewed-towards-industry-11319722",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/6882cf4e552805f6b57bdee08be2345487029222821e3ba8e66b3ffa7035a619.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-10-08T15:24:36Z",
-        "lang": "en",
-        "source": {
-            "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-            "name": "SooToday",
-            "url": "https://www.sootoday.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "fb4130187bad1644b5cbd66e240e7325",
-        "title": "NITI Aayog Launches 'AI For Inclusive Societal Development' Report To Empower India's Informal Workforce",
-        "description": "In a major push to integrate artificial intelligence into India's growth story, NITI Aayog on Wednesday launched its Frontier Tech Hub study titled 'AI for Inclusive Societal Development,' developed in partnership with Deloitte. The report focuses on how AI and frontier technologies can transform the lives and livelihoods of India's 490 million informal workers, a segment that contributes nearly half of the country's GDP but remains largely outside formal systems of protection and productivity.",
-        "content": "In a major push to integrate artificial intelligence into India's growth story, NITI Aayog on Wednesday launched its Frontier Tech Hub study titled 'AI for Inclusive Societal Development,' developed in partnership with Deloitte. The report focuses on... [2952 chars]",
-        "url": "https://www.ndtvprofit.com/nation/niti-aayog-launches-ai-for-inclusive-societal-development-report-to-empower-indias-informal-workforce",
-        "image": "https://media.assettype.com/bloombergquint%2F2024-12-19%2Faqncb794%2FAI-New.jpg?rect=0%2C0%2C1989%2C1044&w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-10-08T15:17:18Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "389c293b854467517de846b2b987679e",
-        "title": "AI boom has eerie echoes of dotcom bust - but will this crash be worse?",
-        "description": "Experts, including some at the Bank of England, are wary of a dramatic market correction if the artificial intelligence bubble bursts",
-        "content": "It was hard not to recall, queasily, that episode when, on Monday this week, shares of the US chip maker Advanced Micro Devices (AMD) surged by an extraordinary 36 per cent on news that OpenAI, the parent of ChatGPT, had agreed to buy tens of billion... [4797 chars]",
-        "url": "https://www.thetimes.com/business-money/companies/article/ai-boom-has-eerie-echoes-of-dotcom-bust-but-will-this-crash-be-worse-xbb7nhmg0",
-        "image": "https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F17836a21-b106-4812-9525-360266b8292f.jpg?crop=1476%2C830%2C0%2C129&resize=1200",
-        "publishedAt": "2025-10-08T15:10:25Z",
-        "lang": "en",
-        "source": {
-            "id": "b419a989918b3665a34559f5047546b6",
-            "name": "The Sunday Times",
-            "url": "https://www.thetimes.com",
-            "country": "gb"
         }
     }
 ]
