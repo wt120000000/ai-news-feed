@@ -1,5 +1,21 @@
 [
     {
+        "id": "264d48ec69c76b790fc9901495fb2ba6",
+        "title": "Digital Ministry targets tabling AI law late next year",
+        "description": "KUALA LUMPUR: Legislation governing artificial intelligence is targeted to be tabled in Parliament late next year, the Dewan Rakyat was told.",
+        "content": "KUALA LUMPUR: Legislation governing artificial intelligence is targeted to be tabled in Parliament late next year, the Dewan Rakyat was told.\nThe Digital Ministry said a task force of relevant agencies is being formed to oversee drafting, implementat... [1284 chars]",
+        "url": "https://www.thestar.com.my/news/nation/2025/10/09/digital-ministry-targets-tabling-ai-law-late-next-year",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/09/3561419.jpg",
+        "publishedAt": "2025-10-09T01:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "06385e8480d547de974362830ce96a46",
         "title": "California becomes first US state to enact a dedicated AI safety law",
         "description": "The Transparency in Frontier Artificial Intelligence Act (TFAIA) requires companies such as Google, Meta and OpenAI, as well as other major developers, to report high-risk incidents, disclose safety measures and safeguard whistle-blowers. The law also mandates that companies publish frameworks showing how they incorporate safety standards and create a mechanism for reporting critical safety incidents to state authorities.",
@@ -141,22 +157,6 @@
             "name": "Markets Insider",
             "url": "https://markets.businessinsider.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "4945c3d58274857dec77945cb52711c4",
-        "title": "Open AI's Fidji Simo says AI investment frenzy 'new normal,' not bubble",
-        "description": "The dizzying investments in artificial intelligence infrastructure do not constitute a bubble but rather represent today's \"new normal\" to meet skyrocketing user demand, Fidji Simo, OpenAI's de facto number two, said. The French-born executive made her comments in an interview with AFP, her first since taking up her role as…",
-        "content": "The dizzying investments in artificial intelligence infrastructure do not constitute a bubble but rather represent today's \"new normal\" to meet skyrocketing user demand, Fidji Simo, OpenAI's de facto number two, said.\nThe French-born executive made h... [3882 chars]",
-        "url": "https://japantoday.com/category/tech/open-ai's-fidji-simo-says-ai-investment-frenzy-'new-normal-'-not-bubble",
-        "image": "https://media.japantoday.com/img/store/31/a3/ed0181cebaa68a0645c5bd4a3a6e5fb59fc1/19049d2fa427be85ce40c65b2db5fc78a245c982/_w1700.jpeg",
-        "publishedAt": "2025-10-08T21:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
