@@ -1,5 +1,69 @@
 [
     {
+        "id": "95911095411e9876f3b6e3925b1e640d",
+        "title": "China Markets Reopen to Show If AI Buzz Outshines Soft Spending",
+        "description": "China’s markets reopen on Thursday after the Golden Week break with investors weighing whether renewed enthusiasm for artificial intelligence can outweigh signs of soft consumer spending.",
+        "content": "China’s markets reopen on Thursday after the Golden Week break with investors weighing whether renewed enthusiasm for artificial intelligence can outweigh signs of soft consumer spending.\nHoliday data showed households remained cautious. Spending was... [278 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-10-08/china-markets-reopen-to-show-if-ai-buzz-outshines-soft-spending",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idCCzjSadTGg/v0/1200x800.jpg",
+        "publishedAt": "2025-10-08T23:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d0a8968623c02977d16f5c8a2ed6e544",
+        "title": "CoreWeave CEO pushes back against circular investment concerns",
+        "description": "CoreWeave CEO Michael Intrator discussed his company's deals with a number of artificial intelligence giants in a Wednesday interview with CNBC's Jim Cramer.",
+        "content": "In a interview Wednesday with CNBC's Jim Cramer, CoreWeave CEO Michael Intrator brushed off concerns that the company's deals with other artificial intelligence giants are circular investments, saying such a narrative is \"fundamentally flawed.\"\n\"The ... [1934 chars]",
+        "url": "https://www.cnbc.com/2025/10/08/coreweave-ceo-pushes-back-against-circular-investment-concerns-.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108202196-1758556569066-gettyimages-2236260070-US_STOCKS.jpeg?v=1759946088&w=1920&h=1080",
+        "publishedAt": "2025-10-08T22:35:40Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "31262e1cc7f3f2a6c11d630d017bcf28",
+        "title": "NITI Aayog calls for Mission Digital ShramSetu to make AI accessible for workers",
+        "description": "NEW DELHI, Oct 8: NITI Aayog on Wednesday called for ‘Mission Digital ShramSetu’, a proposed national mission to create the roadmap and ecosystem that will make Artificial Intelligence (AI) accessible, affordable, and impactful for every worker. The Aayog, in a report titled ‘AI for Inclusive Societal Development’, said the mission will harness AI, blockchain, immersive learning, and other frontier technologies to dismantle structural constraints – ranging from financial insecurity and limited market access to lack of skilling and social protection. […]",
+        "content": "NEW DELHI, Oct 8: NITI Aayog on Wednesday called for ‘Mission Digital ShramSetu’, a proposed national mission to create the roadmap and ecosystem that will make Artificial Intelligence (AI) accessible, affordable, and impactful for every worker.\nThe ... [3368 chars]",
+        "url": "https://www.dailyexcelsior.com/niti-aayog-calls-for-mission-digital-shramsetu-to-make-ai-accessible-for-workers/",
+        "image": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/10/niti.jpg",
+        "publishedAt": "2025-10-08T22:30:46Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "d2409656fa6b275ae3e2cbfa0a9379ab",
+        "title": "AI Detected an Unusual Detail Hidden in a Famous Raphael Masterpiece",
+        "description": "Artificial intelligence (AI) can be trained to see details in images that escape the human eye.",
+        "content": "Artificial intelligence (AI) can be trained to see details in images that escape the human eye. In 2023, an AI neural network identified something unusual about a face in a Raphael painting: It wasn't actually painted by Raphael.\nThe face in question... [3292 chars]",
+        "url": "https://www.sciencealert.com/ai-detected-an-unusual-detail-hidden-in-a-famous-raphael-masterpiece",
+        "image": "https://www.sciencealert.com/images/2023/12/PaintingClose.jpg",
+        "publishedAt": "2025-10-08T22:28:33Z",
+        "lang": "en",
+        "source": {
+            "id": "5ef93dac613cd24454e0d42ebc372612",
+            "name": "ScienceAlert",
+            "url": "https://www.sciencealert.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "964c141d73b5c3c986ed0fcd4c723326",
         "title": "IBM Announces Its New Spyre Accelerator Chip Designed for AI Tasks",
         "description": "Tech giant IBM (IBM) recently announced its new Spyre Accelerator, which is a chip that’s designed to speed up artificial intelligence tasks whi...",
@@ -93,70 +157,6 @@
             "name": "WTOP",
             "url": "https://wtop.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "88006437db993c266c9c5c19fe1490a2",
-        "title": "AI tool helps match enzymes to substrates",
-        "description": "A new artificial intelligence-powered tool can help researchers determine how well an enzyme fits with a desired target, helping them find the best enzyme and substrate combination for applications from catalysis to medicine to manufacturing.",
-        "content": "A new artificial intelligence-powered tool can help researchers determine how well an enzyme fits with a desired target, helping them find the best enzyme and substrate combination for applications from catalysis to medicine to manufacturing.\nLed by ... [3658 chars]",
-        "url": "https://phys.org/news/2025-10-ai-tool-enzymes-substrates.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2015/enzyme.png",
-        "publishedAt": "2025-10-08T19:39:04Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "9eabdf61a466b4835e7dc4abaae6e7d1",
-        "title": "Smart AI Investing Isn’t About Chasing the Big One",
-        "description": "How AI will reshape our lives is clouded with uncertainty. Researchers are debating what it means to achieve artificial general intelligence, or AGI, or whether the neural-network systems that drive chatbots like ChatGPT can lead us to that big prize. But smart investors should avoid trying to predict future breakthroughs of a technology that is still at an evolutionary stage.",
-        "content": "(Bloomberg Opinion) -- How AI will reshape our lives is clouded with uncertainty. Researchers are debating what it means to achieve artificial general intelligence, or AGI, or whether the neural-network systems that drive chatbots like ChatGPT can le... [4741 chars]",
-        "url": "https://www.livemint.com/technology/tech-news/smart-ai-investing-isn-t-about-chasing-the-big-one-11759951832497.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
-        "publishedAt": "2025-10-08T19:30:31Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "9f6a527c9fcc086d41c73cf07fb9c460",
-        "title": "Is there an AI bubble? Financial institutions sound a warning",
-        "description": "Lingering doubts about the economic promise of artificial intelligence technology are starting to get the attention of financial institutions that raised warning flags this week about an AI investment bubble",
-        "content": "LONDON (AP) — Lingering doubts about the economic promise of artificial intelligence technology are starting to get the attention of financial institutions that raised warning flags this week about an AI investment bubble.\nOfficials at the Bank of En... [6082 chars]",
-        "url": "https://www.shawlocal.com/news/2025/10/08/is-there-an-ai-bubble-financial-institutions-sound-a-warning/",
-        "image": "https://www.shawlocal.com/resizer/dYxiyVjXCQgq2Zm3b2eRXsz79Jk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/shawmedia/QSUCLPVTSZGVXGMYW2DGFL5ITU.jpg",
-        "publishedAt": "2025-10-08T19:28:07Z",
-        "lang": "en",
-        "source": {
-            "id": "c9db5acf558cb3805c540ea4298687bc",
-            "name": "Shaw Local Enewspapers",
-            "url": "https://www.shawlocal.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "734ebaa101e156b1345ede88269afa04",
-        "title": "old Gus is concerning but not surprising",
-        "description": "An expert in artificial intelligence says a fake image depicting missing four-year-old Gus being abducted in South Australia's outback highlights the dangerous link between AI and the spread of misinformation.",
-        "content": "An expert in the ethics of artificial intelligence says a fake image of missing four-year-old Gus being kidnapped in South Australia's outback is concerning, but not surprising.\nGus was last seen playing at his family's homestead, south of Yunta, in ... [2707 chars]",
-        "url": "https://www.abc.net.au/news/2025-10-09/sa-ai-image-of-missing-child-appears-online/105868548",
-        "image": "https://live-production.wcms.abc-cdn.net.au/de15fafc6c0d2e8a7d4513af21413343?impolicy=wcms_watermark_news&cropH=800&cropW=1423&xPos=0&yPos=81&width=862&height=485&imformat=generic",
-        "publishedAt": "2025-10-08T19:19:50Z",
-        "lang": "en",
-        "source": {
-            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-            "name": "ABC (Australian Broadcasting Corporation)",
-            "url": "https://www.abc.net.au",
-            "country": "au"
         }
     }
 ]
