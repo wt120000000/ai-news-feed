@@ -1,5 +1,37 @@
 [
     {
+        "id": "06385e8480d547de974362830ce96a46",
+        "title": "California becomes first US state to enact a dedicated AI safety law",
+        "description": "The Transparency in Frontier Artificial Intelligence Act (TFAIA) requires companies such as Google, Meta and OpenAI, as well as other major developers, to report high-risk incidents, disclose safety measures and safeguard whistle-blowers. The law also mandates that companies publish frameworks showing how they incorporate safety standards and create a mechanism for reporting critical safety incidents to state authorities.",
+        "content": "Synopsis\nThe Transparency in Frontier Artificial Intelligence Act (TFAIA) requires companies such as Google, Meta and OpenAI, as well as other major developers, to report high-risk incidents, disclose safety measures and safeguard whistle-blowers. Th... [4770 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/california-becomes-first-us-state-to-enact-a-dedicated-ai-safety-law/articleshow/124396066.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-20150,resizemode-75,msid-124396066/tech/technology/california-becomes-first-us-state-to-enact-a-dedicated-ai-safety-law.jpg",
+        "publishedAt": "2025-10-09T00:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "67f836bbdd971e67b906fff278c8e28a",
+        "title": "AI tool aims to help predict cardiometabolic disease risk",
+        "description": "With the help of a new artificial intelligence tool, MGB researchers found that not all fat is equal when it comes to predicting cardiometabolic risk.",
+        "content": "A new study at Mass General Brigham is providing insight into the connection between body fat and cardiometabolic disease. With the help of a new artificial intelligence tool, researchers found that not all fat is equal when it comes to predicting ca... [1935 chars]",
+        "url": "https://www.nbcboston.com/news/local/ai-cardiometabolic-disease-risk-study/3823258/",
+        "image": "https://media.nbcboston.com/2025/10/scale-generic.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2025-10-08T23:58:59Z",
+        "lang": "en",
+        "source": {
+            "id": "8749653ef849c3df2e467a8e0f0c6672",
+            "name": "NBC10 Boston",
+            "url": "https://www.nbcboston.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "95911095411e9876f3b6e3925b1e640d",
         "title": "China Markets Reopen to Show If AI Buzz Outshines Soft Spending",
         "description": "China’s markets reopen on Thursday after the Golden Week break with investors weighing whether renewed enthusiasm for artificial intelligence can outweigh signs of soft consumer spending.",
@@ -112,22 +144,6 @@
         }
     },
     {
-        "id": "39860ef818a1cbd873f950a9de4d015f",
-        "title": "Open AI's Fidji Simo says AI investment frenzy 'new normal,' not bubble",
-        "description": "The dizzying investments in artificial intelligence infrastructure do not constitute a bubble but rather represent today's \"new normal\" to meet skyrocketing user demand, Fidji Simo, OpenAI's de facto number two, said. The French-born executive made her comments in an interview with AFP, her first since taking up her role as…",
-        "content": "The dizzying investments in artificial intelligence infrastructure do not constitute a bubble but rather represent today's \"new normal\" to meet skyrocketing user demand, Fidji Simo, OpenAI's de facto number two, said.\nThe French-born executive made h... [3882 chars]",
-        "url": "https://japantoday.com/category/tech/open-ai%27s-fidji-simo-says-ai-investment-frenzy-%27new-normal-%27-not-bubble",
-        "image": "https://media.japantoday.com/img/store/31/a3/ed0181cebaa68a0645c5bd4a3a6e5fb59fc1/19049d2fa427be85ce40c65b2db5fc78a245c982/_w1700.jpeg",
-        "publishedAt": "2025-10-08T21:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
         "id": "4945c3d58274857dec77945cb52711c4",
         "title": "Open AI's Fidji Simo says AI investment frenzy 'new normal,' not bubble",
         "description": "The dizzying investments in artificial intelligence infrastructure do not constitute a bubble but rather represent today's \"new normal\" to meet skyrocketing user demand, Fidji Simo, OpenAI's de facto number two, said. The French-born executive made her comments in an interview with AFP, her first since taking up her role as…",
@@ -141,22 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "78c6a27e61a958d6feb709c786741ba4",
-        "title": "Virtual staging or the real deal? AI’s new role in real estate listings",
-        "description": "A D.C.-area realtor explains artificial intelligence is being used on home listings, not just to write descriptions, but to virtually stage homes.",
-        "content": "You may have already seen it — an empty condo transformed into a sleek, modern space with designer furniture. But when you show up for a tour, it’s just bare walls.\nSome realtors are now using artificial intelligence not just to write descriptions, b... [2059 chars]",
-        "url": "https://wtop.com/real-estate/2025/10/virtual-staging-or-real-deal-ais-role-in-real-estate-listings/",
-        "image": "https://wtop.com/wp-content/uploads/2025/10/shopping-homes-online.jpg",
-        "publishedAt": "2025-10-08T20:24:31Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
-            "country": "us"
         }
     }
 ]
