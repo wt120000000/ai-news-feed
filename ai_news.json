@@ -1,5 +1,37 @@
 [
     {
+        "id": "dcbfb89087fb5079c45ab8c134fc18b1",
+        "title": "A New Era of Business: The AI & Data Revolution",
+        "description": "To fully embrace the potential of Artificial Intelligence, organisations must identify their strategy and use cases before adoption. And they have to move at a pace. The age of waiting for Artificial",
+        "content": "To fully embrace the potential of Artificial Intelligence, organisations must identify their strategy and use cases before adoption. And they have to move at a pace.\nThe age of waiting for Artificial Intelligence (AI) to mature is over. It is already... [6172 chars]",
+        "url": "https://www.ibtimes.com/new-era-business-ai-data-revolution-3786400",
+        "image": "https://d.ibtimes.com/en/full/4627372/new-era-business-ai-data-revolution.jpg",
+        "publishedAt": "2025-10-10T01:20:23Z",
+        "lang": "en",
+        "source": {
+            "id": "933344203c2b862af768b5e662a162a4",
+            "name": "International Business Times",
+            "url": "https://www.ibtimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "710b1a3f9de334dc5e393a015805c50a",
+        "title": "Baltimore communities push back on Johns Hopkins' construction of DSAI project",
+        "description": "Residents in the Wyman Park and Remington neighborhoods say Johns Hopkins is requesting a waiver that would weaken stormwater protections while the university builds its new Data Science and Artificial Intelligence Institute (DSAI).",
+        "content": "Two communities in Baltimore are pushing back on a new Johns Hopkins University project.\nResidents in the Wyman Park and Remington neighborhoods say Johns Hopkins is requesting a waiver that would weaken stormwater protections while the university bu... [3128 chars]",
+        "url": "https://www.cbsnews.com/baltimore/news/baltimore-wyman-remington-maryland-dsai-artifical-johns-hopkins/",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/10/7ca597b1-07fc-4583-a858-0e846cb1222d/thumbnail/1200x630/f07917f813b20a044a4eeed9768f6a95/hopkins.png",
+        "publishedAt": "2025-10-10T00:47:54Z",
+        "lang": "en",
+        "source": {
+            "id": "3a3847d645a619320aa3b3484581e395",
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "26f3c0152b55ba5d8ec7790252c62529",
         "title": "Reba McEntire slams 'AI mess' while supporting Dolly Parton",
         "description": "Reba McEntire has slammed artificial intelligence after a series of AI-generated photos appeared to suggest Dolly Parton was dying, forcing the \"Jolene\" star to speak out and dismiss the rumors.",
@@ -124,38 +156,6 @@
             "id": "21468bec836de1ebb209ff6f78fbfe3e",
             "name": "Hindustan Times",
             "url": "https://www.hindustantimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e7124bec1c4c9015ad524d60b38d4fc9",
-        "title": "AI to be integrated across all engineering, BBA and BCA curricula: AICTE chief",
-        "description": "Pune: AICTE plans to integrate artificial intelligence (AI) and other emerging technologies into the curricula of all engineering branches, as well as.",
-        "content": "Pune: AICTE plans to integrate artificial intelligence (AI) and other emerging technologies into the curricula of all engineering branches, as well as undergraduate courses in business administration (BBA) and computer application (BCA). All India Co... [2677 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/pune/ai-to-be-integrated-across-all-engineering-bba-and-bca-curricula-aicte-chief/articleshow/124435171.cms",
-        "image": "https://static.toiimg.com/thumb/msid-124435166,width-1070,height-580,imgsize-60286,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-10-09T23:06:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "593f5a100b17297e3387daad06da8d84",
-        "title": "Must promote ethical use of AI: LS Speaker",
-        "description": "India News: NEW DELHI: Lok Sabha Speaker Om Birla made a strong pitch for promoting responsible and ethical use of artificial intelligence (AI). Chairing a worksh.",
-        "content": "NEW DELHI: Lok Sabha Speaker Om Birla made a strong pitch for promoting responsible and ethical use of artificial intelligence (AI). Chairing a workshop at the 68th Commonwealth Parliamentary Association (CPA) Conference in Barbados, Birla said syste... [1167 chars]",
-        "url": "https://timesofindia.indiatimes.com/india/must-promote-ethical-use-of-ai-ls-speaker/articleshow/124441350.cms",
-        "image": "https://static.toiimg.com/thumb/msid-124441369,width-1070,height-580,imgsize-507161,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-10-09T23:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     }
