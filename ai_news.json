@@ -1,5 +1,85 @@
 [
     {
+        "id": "22047865569af7719b94b993c9f0b35b",
+        "title": "AI Will Kill Gold, But Bitcoin Comes out Stronger, Predicts Nick Szabo",
+        "description": "Nick Szabo believes artificial intelligence will destroy gold, but it is a win for Bitcoin",
+        "content": "Nick Szabo, one of the first people to come up with the idea of digital scarcity, decided to mix things up a bit by suggesting that AI could end up being the biggest enemy of gold, while also working in Bitcoin's favour.\nIn his opinion, once AI start... [1019 chars]",
+        "url": "https://u.today/ai-will-kill-gold-but-bitcoin-comes-out-stronger-predicts-nick-szabo",
+        "image": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2025-10/s9431.jpg",
+        "publishedAt": "2025-10-10T09:12:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6330fe7e7b8cfc9b8540c05881fcc289",
+            "name": "U.Today",
+            "url": "https://u.today",
+            "country": "ae"
+        }
+    },
+    {
+        "id": "bf1946fe0eb957ef090b5542075727a4",
+        "title": "RM5.9bil allocated for R&D, development in the AI sector, says PM",
+        "description": "KUALA LUMPUR: Some RM5.9bil has been allocated for research, development, commercial and innovation activities in the artificial intelligence (AI) sector, says Datuk Seri Anwar Ibrahim.",
+        "content": "KUALA LUMPUR: Some RM5.9bil has been allocated for research, development, commercial and innovation activities in the artificial intelligence (AI) sector, says Datuk Seri Anwar Ibrahim.\nThe Prime Minister said a Sovereign AI Cloud will also be develo... [1297 chars]",
+        "url": "https://www.thestar.com.my/news/nation/2025/10/10/rm59bil-allocated-for-rd-development-in-the-ai-sector-says-pm",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/10/3564085.JPG",
+        "publishedAt": "2025-10-10T09:11:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "befdc56c30ee50be2bab9e0720a76478",
+        "title": "TCS Plans To Create 5,000 New Jobs In UK In 3 Years",
+        "description": "Tata Consultancy Services (TCS), a multinational IT services provider, on Friday announced the launch of an Artificial Intelligence (AI) experience zone and design studio in London, reaffirming its continued strategic investment across the UK.",
+        "content": "New Delhi:\nTata Consultancy Services (TCS), a multinational IT services provider, on Friday announced the launch of an Artificial Intelligence (AI) experience zone and design studio in London, reaffirming its continued strategic investment across the... [2198 chars]",
+        "url": "https://www.ndtv.com/world-news/tcs-plans-to-create-5-000-new-jobs-in-uk-in-3-years-9430874",
+        "image": "https://c.ndtvimg.com/2019-04/udtqld8g_tcs-santa-clara-website_625x300_12_April_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2025-10-10T08:54:52Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "587d8ea73f621183195082a8e08e0fe4",
+        "title": "Do not ask AI for marriage advice",
+        "description": "Artificial intelligence chatbots are not designed to give good marriage advice — they are designed to make money by monopolizing attention.",
+        "content": "“What was happening, unbeknownst to me at the time, was she was dredging up all of these things that we had previously worked on, and putting it into ChatGPT,” one anonymous husband told Futurism.\nThe husband later found out his wife was using OpenAI... [2111 chars]",
+        "url": "https://www.washingtonexaminer.com/opinion/3841202/do-not-ask-ai-marriage-advice/",
+        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/10/YL.Marriage.101525.jpg?resize=1024,683",
+        "publishedAt": "2025-10-10T08:47:00Z",
+        "lang": "en",
+        "source": {
+            "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+            "name": "Washington Examiner",
+            "url": "https://www.washingtonexaminer.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "38fddf88dca0b3f7d4bc76dd5ed10308",
+        "title": "While AI can do a lot, there are still certain things it can’t do",
+        "description": "Goldman Sachs predicts artificial intelligence may displace up to 300 million jobs by 2027. Of course, I acquired that information from AI, so I have no idea if it’s true or if AI is just trying to bully me into making friends with it so it won’t render me as obsolete at work as I am at home.",
+        "content": "Goldman Sachs predicts artificial intelligence may displace up to 300 million jobs by 2027. Of course, I acquired that information from AI, so I have no idea if it’s true or if AI is just trying to bully me into making friends with it so it won’t ren... [2737 chars]",
+        "url": "https://www.bainbridgereview.com/opinion/while-ai-can-do-a-lot-there-are-still-certain-things-it-cant-do/",
+        "image": "http://spibir.wpengine.com/wp-content/themes/spibir/assets/images/logo-1200x630.png",
+        "publishedAt": "2025-10-10T08:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "56bc864493bccc8d5f4ce7e0c8fd7ab3",
+            "name": "Bainbridge Review",
+            "url": "https://www.bainbridgereview.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "53bc5ee98c4b3df6eb941a43c7db3cbb",
         "title": "Artificial intelligence fears are misplaced",
         "description": "There's nothing scary about the progress we can achieve with the power of artificial intelligence.",
@@ -77,86 +157,6 @@
             "name": "Irish Mirror",
             "url": "https://www.irishmirror.ie",
             "country": "ie"
-        }
-    },
-    {
-        "id": "492d007628c9f2057fc09fa3d06850ac",
-        "title": "TCS to create 5,000 jobs in the UK, launches AI experience zone in London",
-        "description": "Tata Consultancy Services will create 5,000 new jobs in the United Kingdom over the next three years. The Indian IT giant is also launching an Artificial Intelligence Experience Zone and Design Studio in London. This new facility will foster innovation and client collaboration. TCS has a long history in the UK, supporting digital transformation for over 50 years.",
-        "content": "Synopsis\nTata Consultancy Services will create 5,000 new jobs in the United Kingdom over the next three years. The Indian IT giant is also launching an Artificial Intelligence Experience Zone and Design Studio in London. This new facility will foster... [2329 chars]",
-        "url": "https://economictimes.indiatimes.com/nri/tcs-to-create-5000-jobs-in-the-uk-launches-ai-experience-zone-in-london/articleshow/124447907.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-58148,resizemode-75,msid-124447907/nri/tcs-to-create-5000-jobs-in-the-uk-launches-ai-experience-zone-in-london.jpg",
-        "publishedAt": "2025-10-10T07:47:39Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "f8e65b9fece9409040731b04120d9517",
-        "title": "Global financial watchdogs to ramp up monitoring of AI",
-        "description": "Global financial regulators have laid out plans for closer monitoring of the risks as banks and other parts of the financial industry ramp up the use of artificial intelligence.",
-        "content": "LONDON, Oct 10 (Reuters) - Global financial regulators have laid out plans for closer monitoring of the risks as banks and other parts of the financial industry ramp up the use of artificial intelligence.\nConcerns raised by authorities include that t... [712 chars]",
-        "url": "https://www.reuters.com/business/finance/global-financial-watchdogs-ramp-up-monitoring-ai-2025-10-10/",
-        "image": "https://www.reuters.com/resizer/v2/PQYIATF5UZPSXNAVJN2WJ566YU.jpg?auth=3d8629660ffaba233494fe5a6e55925fb47f96766714eb989a001f90b6453459&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-10-10T07:46:36Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "667b7a818e78dcaee354bbae1a6a61e2",
-        "title": "AI's Growing Role in Finance: Risk or Opportunity?",
-        "description": "Global financial regulators are closely monitoring the increasing use of artificial intelligence in the financial industry. Concerns include the widespread adoption of similar AI models and hardware, potentially causing systemic risks. Authorities emphasize the need for enhanced capabilities in understanding and utilizing AI technology effectively.",
-        "content": "Global financial regulators are intensifying their scrutiny of the financial industry's growing reliance on artificial intelligence. As banks and other entities accelerate their use of AI, authorities caution against the widespread adoption of identi... [746 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3659158-ais-growing-role-in-finance-risk-or-opportunity",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/26_04_2025_10_37_43_142393.png?width=920&format=jpeg",
-        "publishedAt": "2025-10-10T07:45:26Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "9df7cefdbf8e8c37cfd13514be61f921",
-        "title": "With AI slop on the rise, Elon Musk says Grok will soon detect deepfakes and track down their origin",
-        "description": "Artificial Intelligence (AI) is improving every day. Users are now easily able to generate realistic videos with AI, raising concerns over deepfakes in the future. Tech billionaire Elon Musk has now claimed that Grok will soon be able to detect AI clips and find its source.",
-        "content": "Artificial Intelligence (AI) is transforming the internet. Tools like Grok Imagine and Sora have made it easy for anyone to create realistic AI-generated videos. This has raised alarms for many who believe that this could allow anyone to create deepf... [1912 chars]",
-        "url": "https://www.indiatoday.in/technology/news/story/with-ai-slop-on-the-rise-elon-musk-says-grok-will-soon-detect-deepfakes-and-track-down-their-origin-2800969-2025-10-10",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/elon-musk-044732475-16x9.png?VersionId=XyJCWi2xouKrOkKH6pvxsP9rMpC8nZIC",
-        "publishedAt": "2025-10-10T07:15:11Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "52c692493d77442abd3e486510fc94be",
-        "title": "AI buzz powers SK Hynix and Samsung stock to record highs",
-        "description": "South Korean chipmakers SK Hynix (HXSCF) and Samsung Electronics (SSNLF) notched record highs on Friday, after a near-weeklong holiday, driven by a series of artificial intelligence deals.",
-        "content": "AI buzz powers SK Hynix and Samsung stock to record highs\nComments\nSouth Korean chipmakers SK Hynix (OTCPK:HXSCF) and Samsung Electronics (OTCPK:SSNLF) notched record highs on Friday, after a near-weeklong holiday, driven by a series of artificial in... [266 chars]",
-        "url": "https://seekingalpha.com/news/4503193-ai-buzz-powers-sk-hynix-and-samsung-stock-to-record-highs",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/944222540/image_944222540.jpg?io=getty-c-w750",
-        "publishedAt": "2025-10-10T06:48:50Z",
-        "lang": "en",
-        "source": {
-            "id": "a6d401909ca644c4ffb332486c9cfaea",
-            "name": "Seeking Alpha",
-            "url": "https://seekingalpha.com",
-            "country": "us"
         }
     }
 ]
