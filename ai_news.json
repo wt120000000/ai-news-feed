@@ -1,5 +1,37 @@
 [
     {
+        "id": "1249e041cc0cf77e5608cfee31d66f2f",
+        "title": "Artificial intelligence wants to inhale my Montana book",
+        "description": "Recently, my publisher told me that a major technology company involved in the development of artificial intelligence wants to use my book, “Stories from Montana’s Enduring Frontier,” for AI training purposes.",
+        "content": "Recently, my publisher told me that a major technology company involved in the development of artificial intelligence wants to use my book, “Stories from Montana’s Enduring Frontier,” for AI training purposes.\nI would earn, the representative explain... [3740 chars]",
+        "url": "https://dailyinterlake.com/news/2025/oct/11/artificial-intelligence-wants-to-inhale-my-montana-book/",
+        "image": "https://hagadone.media.clients.ellingtoncms.com/img/photos/2025/10/10/300706_r1200x630.jpg?b7d505e466ff31ef2a911eceee85296b69915698",
+        "publishedAt": "2025-10-11T07:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "8de9e028dd6b2658274a9cdbe23fd378",
+            "name": "Kalispell Inter Lake",
+            "url": "https://dailyinterlake.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7acc4144863593ab65427b13df43d320",
+        "title": "Scientists reveal the exact date when technology will surpass human intelligence - and there's not long to wait",
+        "description": "Many scientists believe that the singularity - the moment when artificial intelligence first surpasses humanity - is now not a matter of 'if' but 'when'.",
+        "content": "Since homo sapiens first emerged, humanity has enjoyed an unbeaten 300,000–year run as the most intelligent creatures on the planet.\nHowever, thanks to rapid advances in artificial intelligence (AI), that might not be the case for much longer.\nMany s... [6224 chars]",
+        "url": "https://www.dailymail.co.uk/sciencetech/article-15178219/Scientists-reveal-date-AI-singularity.html",
+        "image": "https://i.dailymail.co.uk/1s/2025/10/10/12/102878035-0-image-a-55_1760096088163.jpg",
+        "publishedAt": "2025-10-11T06:55:49Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "1c3d5bd793a24b09ff1261732d518bda",
         "title": "AI Is Redefining the Startup Playbook",
         "description": "Artificial intelligence is no longer just a tool for big tech firms — it’s now reshaping how startups are born, funded, and scaled. Across industries,",
@@ -124,38 +156,6 @@
             "id": "3bd4bd306c42647825fa42989624c036",
             "name": "Livemint",
             "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "969e01ba5d5cc1b141737bffec7c3ed8",
-        "title": "New AI system revolutionizes drug design and vaccine development",
-        "description": "The rapid advancement of artificial intelligence (AI) is transforming the field of structural biology. In May 2024, DeepMind and Isomorphic Labs launched AlphaFold 3 (AF3), a revolutionary AI system capable of predicting the 3D structures and interactions of proteins, nucleic acids, small molecules, ions, and other biomolecules with remarkable precision.",
-        "content": "The rapid advancement of artificial intelligence (AI) is transforming the field of structural biology. In May 2024, DeepMind and Isomorphic Labs launched AlphaFold 3 (AF3), a revolutionary AI system capable of predicting the 3D structures and interac... [1440 chars]",
-        "url": "https://www.news-medical.net/news/20251010/New-AI-system-revolutionizes-drug-design-and-vaccine-development.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
-        "publishedAt": "2025-10-11T01:02:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "7c3b102c80349ed3fcd08fcfed83401c",
-        "title": "AI in School Curriculum: CBSE to introduce artificial intelligence from Class 3 in 2026-27",
-        "description": "India to integrate AI into school curriculum from Class 3 in 2026-27. CBSE drafting framework; over one crore teachers to be trained for AI learning.",
-        "content": "The Ministry of Education is set to introduce Artificial Intelligence (AI) in the school curriculum for all students from Class 3 onwards from next academic year (2026-27) and a framework is being developed for AI integration across grades, according... [1702 chars]",
-        "url": "https://www.thehindubusinessline.com/news/education/cbse-plans-ai-curriculum-for-classes-3-and-above-from-next-academic-year/article70150797.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/63mzks/article70117298.ece/alternates/LANDSCAPE_1200/BL19_Think_Data_analysing.jpg",
-        "publishedAt": "2025-10-11T00:21:42Z",
-        "lang": "en",
-        "source": {
-            "id": "680f00482cbf9f314921fefd917871d9",
-            "name": "The Hindu Business Line",
-            "url": "https://www.thehindubusinessline.com",
             "country": "in"
         }
     }
