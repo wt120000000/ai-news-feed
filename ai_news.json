@@ -1,5 +1,69 @@
 [
     {
+        "id": "a324554c4b9f94b53d287cc5f6201e3a",
+        "title": "Deepfakes on the rise: Italian forensic expert explains how to spot AI deception at cOcOn 2025",
+        "description": "The software can assign a confidence score to each image, which is essentially a measure of how likely the system believes the image was created by.deepfake detection, artificial intelligence forensics, AI image analysis, forensic tools for deepfakes, detecting AI-generated content, cybersecurity conference, digital image authentication, Amped Authenticate, deep learning, large language models, AI misinformation detection, how to identify deepfakes, image manipulation forensics, deepfake detection software, AI forensic analysis",
+        "content": "Kochi: At a time when deepfakes — digitally manipulated images or videos — are becoming more convincing and harder to detect, experts at c0c0n 2025, Kerala Police’s annual cybersecurity conference in Kochi, warned of the growing threat they pose. Mas... [2594 chars]",
+        "url": "https://www.onmanorama.com/news/kerala/2025/10/10/deepfakes-rise-italian-forensic-expert-explains-spot-ai-deception-cocon-2025.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/10/10/cocon-2025-3.jpg",
+        "publishedAt": "2025-10-10T17:14:44Z",
+        "lang": "en",
+        "source": {
+            "id": "60c457b35b486691319f105c3a760060",
+            "name": "Malayala Manorama",
+            "url": "https://www.onmanorama.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "280f9f1c7abc47ad73cba64e84aaba2f",
+        "title": "Applied Digital stock climbs 16% as AI demand fuels data center growth",
+        "description": "The company expanded on its $7 billion lease agreement for artificial intelligence data centers with CoreWeave.",
+        "content": "Applied Digital shares jumped 16% on Friday after the company posted strong first-quarter revenue that was boosted by artificial intelligence data center demand, putting the stock up more than 350% for the year.\nHere's how the company did compared to... [1714 chars]",
+        "url": "https://www.cnbc.com/2025/10/10/applied-digital-stock-ai-data-center-earnings.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108210640-1760111093462-gettyimages-2237856798-img_8507.jpeg?v=1760111127&w=1920&h=1080",
+        "publishedAt": "2025-10-10T17:11:35Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6b037d1f2f92ef01ecf1618c0982ef4c",
+        "title": "New GPT models show major drop in political bias, OpenAI says",
+        "description": "OpenAI says its latest artificial intelligence models, GPT-5 Instant and GPT-5 Thinking, show a significant reduction in political bias.",
+        "content": "OpenAI says its latest generation of artificial intelligence (AI) models, including GPT-5 Instant and GPT-5 Thinking, show a significant reduction in political bias compared to previous versions, according to a new internal report obtained by Fox New... [3231 chars]",
+        "url": "https://nypost.com/2025/10/10/tech/new-gpt-models-show-major-drop-in-political-bias-openai-says/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/10/113193799.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2025-10-10T17:00:14Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "f7992a9739ddab419d923477bcf776b0",
+        "title": "Centre plans AI curriculum from Class III to future-proof students, teachers",
+        "description": "India News: NEW DELHI: The Centre is set to introduce Artificial Intelligence (AI) in the school curriculum for all students from Class III onwards from next acad.",
+        "content": "(AI image generated using ChatGPT)\nNEW DELHI: The Centre is set to introduce Artificial Intelligence (AI) in the school curriculum for all students from Class III onwards from next academic year (2026-27), in what officials called a “strategic nation... [2360 chars]",
+        "url": "https://timesofindia.indiatimes.com/india/centre-plans-ai-curriculum-from-class-iii-to-future-proof-students-teachers/articleshow/124459321.cms",
+        "image": "https://static.toiimg.com/thumb/msid-124459780,width-1070,height-580,imgsize-1301055,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2025-10-10T16:28:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "24ebd312257bdb62a448559f37a3f429",
         "title": "One AI Tool 1minAI Is Nearly 90% Off, and a Coupon Makes It Almost Free",
         "description": "Stack our special code with the 82%-off deal and this powerful all-in-one Artificial Intelligence tool will be your creative boost for life.",
@@ -93,70 +157,6 @@
             "name": "Phys.org",
             "url": "https://phys.org",
             "country": "gb"
-        }
-    },
-    {
-        "id": "59e2a077fca11c390b1e31775027eb34",
-        "title": "Applied Digital shares rally after upbeat quarterly revenue on AI demand",
-        "description": "Applied Digital's shares surged 26% on Friday after the data center service provider topped analysts' estimates for first-quarter revenue, bolstered by rising adoption of artificial intelligence applications.",
-        "content": "Growing demand for AI services such as ChatGPT has triggered the need for robust data center infrastructure that can support intensive computing workloads.\nSign up here.\nThe company is set to add over $2 billion to its market value of $7.89 billion, ... [501 chars]",
-        "url": "https://www.reuters.com/business/applied-digital-shares-rally-after-upbeat-quarterly-revenue-ai-demand-2025-10-10/",
-        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-10-10T15:03:02Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e4475ef76fae1a906a99e5a2ab974faf",
-        "title": "Klarna boss claims AI halved workforce without layoffs",
-        "description": "Artificial intelligence has allowed the ‘buy now, pay later’ firm to stop hiring, says Klarna chief executive as he predicts a big shift to knowledge work",
-        "content": "Siemiatkowski, 44, said that society needed to “figure out” how to respond to the disruption caused to the jobs market by the technology, which would create some new roles but hit others like translators. “I feel there is a massive shift coming to kn... [1899 chars]",
-        "url": "https://www.thetimes.com/business-money/companies/article/klarna-boss-claims-ai-halved-workforce-without-layoffs-8jxsph70r",
-        "image": "https://www.thetimes.com/imageserver/image/%2F1a48ea25-3126-420a-a938-68d25b96442c.jpg?crop=4991%2C2807%2C0%2C260&resize=1200",
-        "publishedAt": "2025-10-10T14:30:21Z",
-        "lang": "en",
-        "source": {
-            "id": "b419a989918b3665a34559f5047546b6",
-            "name": "The Sunday Times",
-            "url": "https://www.thetimes.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "4f00c5ba03a02df780f83af93f3441e0",
-        "title": "Analyst sets Street-high price target for Nvidia stock",
-        "description": "Nvidia continues to gain momentum as the core driver of the global artificial intelligence infrastructure boom.",
-        "content": "Nvidia (NASDAQ: NVDA) continues to gain momentum as the core driver of the global artificial intelligence (AI) infrastructure boom.\nOn Thursday, October 9, Cantor Fitzgerald reaffirmed its “Top Pick” rating on the company and raised its price target ... [1693 chars]",
-        "url": "https://finbold.com/analyst-sets-street-high-price-target-for-nvidia-stock/",
-        "image": "https://assets.finbold.com/uploads/2025/10/Analyst-sets-Street-high-price-target-for-Nvidia-stock.jpeg",
-        "publishedAt": "2025-10-10T14:29:25Z",
-        "lang": "en",
-        "source": {
-            "id": "72ea416416ab0eec8fe687d6262961e8",
-            "name": "Finbold",
-            "url": "https://finbold.com",
-            "country": "bg"
-        }
-    },
-    {
-        "id": "8a85102b8d61ca8763d099a50565abd2",
-        "title": "Himachal govt plans to establish Cyber City at Waknaghat",
-        "description": "He said that the proposed Cyber City will serve as a hub for data storage, artificial intelligence (AI), and other IT-based enterprises, giving a major boost to the state’s digital economy and employment generation.",
-        "content": "The Himachal Pradesh government is planning to establish a Cyber City over 650 bighas of land at Waknaghat in Solan district.\nChief Minister Thakur Sukhvinder Singh Sukhu announced this while chairing a high-level meeting of the Digital Technologies ... [1842 chars]",
-        "url": "https://www.thestatesman.com/india/himachal-govt-plans-to-establish-cyber-city-at-waknaghat-1503497579.html",
-        "image": "https://www.thestatesman.com/wp-content/uploads/2025/10/Untitled-design-32-4.webp",
-        "publishedAt": "2025-10-10T14:13:34Z",
-        "lang": "en",
-        "source": {
-            "id": "23ca80edba9c670741bdbfc4acd3e991",
-            "name": "The Statesman",
-            "url": "https://www.thestatesman.com",
-            "country": "in"
         }
     }
 ]
