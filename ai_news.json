@@ -1,5 +1,69 @@
 [
     {
+        "id": "2d8e48450b5ac81639eb516607494789",
+        "title": "Qualcomm Chief To NDTV On Company's Plans In India, AI And 6G",
+        "description": "Qualcomm President Cristiano R Amon in an interview with NDTV's Vishnu Som said 6G is the connectivity for the age of AI (artificial intelligence).",
+        "content": "New Delhi:\nThe Indian telecom story is one which has seen amazing opportunities in the last few years. From 2G to 3G, 4G and 5G, what does the future hold? Behind all the technology is another story of hard work, design and manufacturing - and that's... [3359 chars]",
+        "url": "https://www.ndtv.com/india-news/qualcomm-chief-cristiano-r-amon-to-ndtv-on-companys-plans-in-india-ai-and-6g-9434688",
+        "image": "https://c.ndtvimg.com/2025-10/1sjr7ksg_qualcomm_625x300_11_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2025-10-10T19:05:33Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "45af8e68d705e827e3619d72f5600fed",
+        "title": "Elastic Stock (ESTC) Rallies on Guidance Upgrade, $500M Share Repurchase Plan",
+        "description": "Elastic (ESTC) stock jumped 8% on Friday as the artificial intelligence (AI)-powered search company raised its revenue guidance and announced a ...",
+        "content": "Elastic (ESTC) stock jumped 8% on Friday as the artificial intelligence (AI)-powered search company raised its revenue guidance and announced a $500 million share repurchase program during its Analyst Day event held yesterday. The company also announ... [2270 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/elastic-stock-estc-rallies-on-guidance-upgrade-500m-share-repurchase-plan-1035304810",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/10/image-790.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2025-10-10T19:05:00Z",
+        "lang": "en",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Markets Insider",
+            "url": "https://markets.businessinsider.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7bd3ceb722e86e3b9fd5d2dc722d9924",
+        "title": "'Mercy' Trailer: Chris Pratt faces execution, fate in hands of A.I. judge Rebecca Ferguson",
+        "description": "Chris Pratt stars in a new thriller where he has 90 minutes to prove his innocence to Artificial Intelligence in a case involving his wife’s murder.",
+        "content": "Artificial Intelligence is now holding court in the new thriller \"Mercy” starring Chris Pratt.\nTimur Bekmambetov’s upcoming film, “Mercy,” has Pratt as an LAPD detective who is accused by an A.I. court of murdering his wife.\nThe trailer for “Mercy” d... [687 chars]",
+        "url": "https://foxbaltimore.com/news/entertainment/mercy-trailer-chris-pratt-faces-execution-fate-in-hands-of-ai-judge-rebecca-ferguson",
+        "image": "https://foxbaltimore.com/resources/media2/16x9/4478/986/0x33/90/9e91b2bb-0a97-431a-b63d-53eac2940d2f-MERCY_Day7_42324_03072_RC_01_rgb.jpg",
+        "publishedAt": "2025-10-10T18:34:28Z",
+        "lang": "en",
+        "source": {
+            "id": "9f53afb019d44feb16bcc7da150e679a",
+            "name": "Baltimore News",
+            "url": "https://foxbaltimore.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3e71f721241a53d8be10e504ccff5234",
+        "title": "'Mercy' Trailer: Chris Pratt faces execution, fate in hands of A.I. judge Rebecca Ferguson",
+        "description": "Chris Pratt stars in a new thriller where he has 90 minutes to prove his innocence to Artificial Intelligence in a case involving his wife’s murder.",
+        "content": "Artificial Intelligence is now holding court in the new thriller \"Mercy” starring Chris Pratt.\nTimur Bekmambetov’s upcoming film, “Mercy,” has Pratt as an LAPD detective who is accused by an A.I. court of murdering his wife.\nThe trailer for “Mercy” d... [687 chars]",
+        "url": "https://wjla.com/news/entertainment/mercy-trailer-chris-pratt-faces-execution-fate-in-hands-of-ai-judge-rebecca-ferguson",
+        "image": "https://wjla.com/resources/media2/16x9/4478/986/0x33/90/9e91b2bb-0a97-431a-b63d-53eac2940d2f-MERCY_Day7_42324_03072_RC_01_rgb.jpg",
+        "publishedAt": "2025-10-10T18:34:28Z",
+        "lang": "en",
+        "source": {
+            "id": "2f5884e252590f739df55c0e7db375df",
+            "name": "WJLA",
+            "url": "https://wjla.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "9e80b096a60bb560d59440c50bc76fc2",
         "title": "Apple sued over use of copyrighted books to train Apple Intelligence",
         "description": "Apple was hit with a lawsuit in California federal court by a pair of neuroscientists who say that the tech company misused thousands of copyrighted books to train its Apple Intelligence artificial intelligence model.",
@@ -92,70 +156,6 @@
             "id": "214d496d625fc657723cf4da80cff8ce",
             "name": "Deccan Chronicle",
             "url": "https://www.deccanchronicle.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a324554c4b9f94b53d287cc5f6201e3a",
-        "title": "Deepfakes on the rise: Italian forensic expert explains how to spot AI deception at cOcOn 2025",
-        "description": "The software can assign a confidence score to each image, which is essentially a measure of how likely the system believes the image was created by.deepfake detection, artificial intelligence forensics, AI image analysis, forensic tools for deepfakes, detecting AI-generated content, cybersecurity conference, digital image authentication, Amped Authenticate, deep learning, large language models, AI misinformation detection, how to identify deepfakes, image manipulation forensics, deepfake detection software, AI forensic analysis",
-        "content": "Kochi: At a time when deepfakes — digitally manipulated images or videos — are becoming more convincing and harder to detect, experts at c0c0n 2025, Kerala Police’s annual cybersecurity conference in Kochi, warned of the growing threat they pose. Mas... [2594 chars]",
-        "url": "https://www.onmanorama.com/news/kerala/2025/10/10/deepfakes-rise-italian-forensic-expert-explains-spot-ai-deception-cocon-2025.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/10/10/cocon-2025-3.jpg",
-        "publishedAt": "2025-10-10T17:14:44Z",
-        "lang": "en",
-        "source": {
-            "id": "60c457b35b486691319f105c3a760060",
-            "name": "Malayala Manorama",
-            "url": "https://www.onmanorama.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "280f9f1c7abc47ad73cba64e84aaba2f",
-        "title": "Applied Digital stock climbs 16% as AI demand fuels data center growth",
-        "description": "The company expanded on its $7 billion lease agreement for artificial intelligence data centers with CoreWeave.",
-        "content": "Applied Digital shares jumped 16% on Friday after the company posted strong first-quarter revenue that was boosted by artificial intelligence data center demand, putting the stock up more than 350% for the year.\nHere's how the company did compared to... [1714 chars]",
-        "url": "https://www.cnbc.com/2025/10/10/applied-digital-stock-ai-data-center-earnings.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108210640-1760111093462-gettyimages-2237856798-img_8507.jpeg?v=1760111127&w=1920&h=1080",
-        "publishedAt": "2025-10-10T17:11:35Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6b037d1f2f92ef01ecf1618c0982ef4c",
-        "title": "New GPT models show major drop in political bias, OpenAI says",
-        "description": "OpenAI says its latest artificial intelligence models, GPT-5 Instant and GPT-5 Thinking, show a significant reduction in political bias.",
-        "content": "OpenAI says its latest generation of artificial intelligence (AI) models, including GPT-5 Instant and GPT-5 Thinking, show a significant reduction in political bias compared to previous versions, according to a new internal report obtained by Fox New... [3231 chars]",
-        "url": "https://nypost.com/2025/10/10/tech/new-gpt-models-show-major-drop-in-political-bias-openai-says/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/10/113193799.jpg?quality=75&strip=all&w=1024",
-        "publishedAt": "2025-10-10T17:00:14Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f7992a9739ddab419d923477bcf776b0",
-        "title": "Centre plans AI curriculum from Class III to future-proof students, teachers",
-        "description": "India News: NEW DELHI: The Centre is set to introduce Artificial Intelligence (AI) in the school curriculum for all students from Class III onwards from next acad.",
-        "content": "(AI image generated using ChatGPT)\nNEW DELHI: The Centre is set to introduce Artificial Intelligence (AI) in the school curriculum for all students from Class III onwards from next academic year (2026-27), in what officials called a “strategic nation... [2360 chars]",
-        "url": "https://timesofindia.indiatimes.com/india/centre-plans-ai-curriculum-from-class-iii-to-future-proof-students-teachers/articleshow/124459321.cms",
-        "image": "https://static.toiimg.com/thumb/msid-124459780,width-1070,height-580,imgsize-1301055,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-10-10T16:28:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     }
