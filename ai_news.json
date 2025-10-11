@@ -1,5 +1,21 @@
 [
     {
+        "id": "969e01ba5d5cc1b141737bffec7c3ed8",
+        "title": "New AI system revolutionizes drug design and vaccine development",
+        "description": "The rapid advancement of artificial intelligence (AI) is transforming the field of structural biology. In May 2024, DeepMind and Isomorphic Labs launched AlphaFold 3 (AF3), a revolutionary AI system capable of predicting the 3D structures and interactions of proteins, nucleic acids, small molecules, ions, and other biomolecules with remarkable precision.",
+        "content": "The rapid advancement of artificial intelligence (AI) is transforming the field of structural biology. In May 2024, DeepMind and Isomorphic Labs launched AlphaFold 3 (AF3), a revolutionary AI system capable of predicting the 3D structures and interac... [1440 chars]",
+        "url": "https://www.news-medical.net/news/20251010/New-AI-system-revolutionizes-drug-design-and-vaccine-development.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
+        "publishedAt": "2025-10-11T01:02:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "7c3b102c80349ed3fcd08fcfed83401c",
         "title": "AI in School Curriculum: CBSE to introduce artificial intelligence from Class 3 in 2026-27",
         "description": "India to integrate AI into school curriculum from Class 3 in 2026-27. CBSE drafting framework; over one crore teachers to be trained for AI learning.",
@@ -141,22 +157,6 @@
             "name": "Reuters",
             "url": "https://www.reuters.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "3beb44a4072acbe6bfa91df3eb435d39",
-        "title": "Peter Thiel says Greta Thunberg servant of ‘Antichrist’",
-        "description": "Silicon Valley investor Peter Thiel has branded Swedish climate activist Greta Thunberg and critics of artificial intelligence as “legionnaires of the Antichrist” during a series of private lectures.",
-        "content": "Silicon Valley investor Peter Thiel has branded Swedish climate activist Greta Thunberg and critics of artificial intelligence as “legionnaires of the Antichrist” during a series of private lectures.\nThe eight hours of lectures fused religious belief... [1761 chars]",
-        "url": "https://www.cp24.com/news/world/2025/10/10/tech-billionaire-thiel-says-greta-thunberg-servant-of-antichrist/",
-        "image": "https://www.cp24.com/resizer/v2/FWSOJLSVKD3ISZ3S6WTUWBERPM.jpg?smart=true&auth=7f281de15c85cf639b25b339138b13e6c4b6af6bd1da12a71df52e93f7c2050b&width=1200&height=630",
-        "publishedAt": "2025-10-10T20:32:41Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
         }
     }
 ]
