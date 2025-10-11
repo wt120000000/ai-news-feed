@@ -1,5 +1,21 @@
 [
     {
+        "id": "845f127379165e60d85a44db52ec2c6d",
+        "title": "Google joins with University of Arkansas, A-State systems for artificial intelligence training",
+        "description": "As part of Google's $4 billion investment in a data center in West Memphis, the tech giant announced that the University of Arkansas and Arkansas State University system will participate in its first cohort of the Google AI for Education Accelerator program.",
+        "content": "As part of Google's $4 billion investment in a data center in West Memphis, the tech giant announced that the University of Arkansas and Arkansas State University system will participate in its first cohort of the Google AI for Education Accelerator ... [1866 chars]",
+        "url": "https://www.arkansasonline.com/news/2025/oct/10/google-joins-with-university-of-arkansas-a-state/",
+        "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
+        "publishedAt": "2025-10-11T02:45:00Z",
+        "lang": "en",
+        "source": {
+            "id": "69a24b80e5bce5a07f808f5ea84c434b",
+            "name": "Arkansas Online",
+            "url": "https://www.arkansasonline.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "8f5b2ecf0556a2208396a9999afad6df",
         "title": "The AI you use daily is changing fast-it's disappearing into everything.",
         "description": "Nowhere and everywhere, artificial intelligence is hiding in plain sight—in everything from software to surroundings.",
@@ -141,22 +157,6 @@
             "name": "ABC17News.com",
             "url": "https://abc17news.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "121d236d1d795856bf420ce2b752167d",
-        "title": "The World’s Chip Supply Chain Is Bracing for Fallout From China’s Rare-Earth Curbs",
-        "description": "Businesses across the global semiconductor supply chain are bracing themselves for disruptions from China’s most targeted move yet to limit their supplies of rare-earth materials, which are critical to building the chips fueling the artificial intelligence boom.",
-        "content": "Businesses across the global semiconductor supply chain are bracing themselves for disruptions from China’s most targeted move yet to limit their supplies of rare-earth materials, which are critical to building the chips fueling the artificial intell... [4671 chars]",
-        "url": "https://www.livemint.com/companies/news/the-world-s-chip-supply-chain-is-bracing-for-fallout-from-china-s-rare-earth-curbs-11760131065068.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_1_1733464951182_1733464958176.png",
-        "publishedAt": "2025-10-10T21:17:44Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
         }
     }
 ]
