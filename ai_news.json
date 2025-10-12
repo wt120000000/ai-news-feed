@@ -1,5 +1,37 @@
 [
     {
+        "id": "dc0913c794b113c440933bc312de70c8",
+        "title": "Asia-Pacific Internet Governance Meet in Nepal",
+        "description": "Nepal recently hosted a significant gathering of experts from 20 countries to delve into the multifaceted world of the internet and artificial intelligence",
+        "content": "Global Experts Converge in Nepal for Internet Governance and AI Discussions\nNepal recently hosted a significant gathering of experts from 20 countries to delve into the multifaceted world of the internet and artificial intelligence (AI). The four-day... [1564 chars]",
+        "url": "https://nep123.com/asia-pacific-internet-governance-meet-in-nepal/",
+        "image": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+        "publishedAt": "2025-10-11T18:50:30Z",
+        "lang": "en",
+        "source": {
+            "id": "a7cfbea87bc15750b7c5fd439a1ccb08",
+            "name": "Nep123.com",
+            "url": "https://nep123.com",
+            "country": "np"
+        }
+    },
+    {
+        "id": "7ffffd44632a0766449848195ac962a4",
+        "title": "The Current and Future State of LLMs: A Conversation with Boyan Wan",
+        "description": "Artificial intelligence is in transition. The world of single-turn, prompt-driven language models is already showing its limits, pushing the industry toward a future of context-aware, workflow-oriented, and self-learning systems. Enterprises and product teams alike are recognizing that real value comes not from static outputs, but from AI that behaves like a true collaborator—one that remembers, […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence is in transition. The world of single-turn, prompt-driven language models is already showing its limits, pushing the industry toward a future of context-aware, workflow-oriented, and self-learning... [4429 chars]",
+        "url": "https://techbullion.com/the-current-and-future-state-of-llms-a-conversation-with-boyan-wan/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/10/Screenshot-2025-10-11-114431.png",
+        "publishedAt": "2025-10-11T18:45:33Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "b9655ac667522941c3a3d59a3a6ffc1a",
         "title": "AI in modern life: a scientific revolution that must balance hope against risk",
         "description": "Artificial intelligence represents one of the most significant milestones in human scientific progress. It can be described as a natural extension of the human mind’s long journey to understanding and reshaping the world. Just as the discoveries of fire, agriculture, and the Industrial Revolution marked turning points in human civilization, AI now stands as the “fourth",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "af040ed7a115cfb13bbc0d31bcf74ef7",
-        "title": "Trump tariffs on China & AI spending cast a shadow over Wall Street gains",
-        "description": "Wall Street’s immediate concerns are focused on two crucial and interwoven factors: the impact of elevated US tariffs on companies profitability and the long-term durability of artificial intelligence (AI) spending",
-        "content": "Corporate America is now under immense pressure to deliver robust third quarter earnings, tasked with justifying the nearly 32 percent gain the S&P 500 has achieved since its low point in April 2025.\nThis challenge is amplified by soaring global trad... [2680 chars]",
-        "url": "https://www.livemint.com/market/stock-market-news/investors-worried-trump-tariffs-on-china-ai-spending-cast-shadow-over-wall-street-gains-11760193027567.html",
-        "image": "https://www.livemint.com/lm-img/img/2025/10/11/1600x900/nyse_1760193390198_1760193434369.jpg",
-        "publishedAt": "2025-10-11T15:45:41Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "42f0c61b7d4ce4501edc09d576e7380d",
-        "title": "Anthropic CEO Dario Amodei Meets PM Modi to Shape India’s Responsible AI Future",
-        "description": "Anthropic CEO Dario Amodei met with Prime Minister Narendra Modi in New Delhi on Friday to discuss the company’s plans for expanding its operations in India and advancing the development of safe and beneficial artificial intelligence (AI) in the country.",
-        "content": "Anthropic CEO Dario Amodei met with Prime Minister Narendra Modi in New Delhi on Friday to discuss the company’s plans for expanding its operations in India and advancing the development of safe and beneficial artificial intelligence (AI) in the coun... [2165 chars]",
-        "url": "https://analyticsindiamag.com/ai-news-updates/anthropic-ceo-dario-amodei-meets-pm-modi-to-shape-indias-responsible-ai-future/",
-        "image": "https://analyticsindiamag.com/wp-content/uploads/2025/10/Dario-Amodei-CEO-and-Co-founder-of-Anthropic-met-with-The-Prime-Minister-Shri-Narendra-Modi.jpeg",
-        "publishedAt": "2025-10-11T15:11:53Z",
-        "lang": "en",
-        "source": {
-            "id": "628299239469ffa8b7dbb809aabbcc2e",
-            "name": "Analytics India Magazine",
-            "url": "https://analyticsindiamag.com",
-            "country": "in"
         }
     }
 ]
