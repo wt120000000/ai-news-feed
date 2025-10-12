@@ -1,5 +1,53 @@
 [
     {
+        "id": "a4b5f9d911a3900216ae32ba8af36189",
+        "title": "AI can't answer the most important questions in life",
+        "description": "Artificial intelligence answers a lot of our questions, but not the ones that may matter most.",
+        "content": "It’s a really good question, and one that only we humans can answer thoroughly. To pose a question to a large language model like ChatGPT is to witness a breathtaking feat of synthesis. Ask for the primary causes of the Thirty Years’ War or a summary... [7180 chars]",
+        "url": "https://www.bostonglobe.com/2025/10/12/opinion/asking-chatgpt-questions-ai-weirdness/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/IE73QZHK3JGL7CQYGW2BYHDPE4.jpg?auth=e9f092f981958a7e6c8456a63bacf7caea888069ae49ae931857a8d8e083a3f3&width=1440",
+        "publishedAt": "2025-10-12T08:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6c8aba8cdd0d86836bcbbb0cf3d7f117",
+        "title": "Is artificial intelligence fading human memory?",
+        "description": "Voice assistants remind us of birthdays; apps keep medical records organised. The conveniences of artificial intelligence make life easier but also raise a deeper concern",
+        "content": "Artificial Intelligence (AI) is no longer futuristic; it is part of how we live today. We rely on voice assistants to remind us of birthdays, apps to keep our medical records organised, and digital tools to suggest when it might be time for a check-u... [2771 chars]",
+        "url": "https://www.indiatoday.in/india-today-insight/story/is-artificial-intelligence-fading-human-memory-2801790-2025-10-12",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/voice-assistants-remind-us-of-birthdays-apps-keep-medical-records-organised-the-conveniences-of-ar-125334790-16x9_0.png?VersionId=6XssnTLOMH4kXug0l4xdPMrZ7ipc2RTc",
+        "publishedAt": "2025-10-12T07:54:30Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "da47f36bfa18c4ba68d5f56033ca6647",
+        "title": "How is AI reshaping classrooms without replacing teachers?",
+        "description": "Artificial intelligence is rapidly transforming education, enabling personalised learning and bridging gaps in access and quality. Yet, the true challenge lies in using AI to enhance, not replace, the human element of teaching and learning.",
+        "content": "For decades, education has struggled with a core challenge – how to address individual learning needs at scale!\nThe way we approach education is being fundamentally redefined. The age-old, one-size-fits-all approach is giving way to a more tailored, ... [5573 chars]",
+        "url": "https://www.indiatoday.in/education-today/featurephilia/story/how-is-ai-reshaping-classrooms-without-replacing-teachers-2801765-2025-10-12",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/ai--coding--and-more-are-educators-ready-for-emerging-classroom-tech-in-2025-015419669-16x9_1.jpg?VersionId=0Eg8P2jqwY_JsBRiNRJ5OBrcMkuL4n0N",
+        "publishedAt": "2025-10-12T07:20:59Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "005b03f165bdc48ed880ed9a90279bb2",
         "title": "Tron: Ares director says his film is hopeful about AI",
         "description": "Tron: Ares director Joachim Rønning has told RTÉ Entertainment that it was important for the new sci-fi thriller to share the idea that artificial intelligence \"can help advance humanity\".",
@@ -64,6 +112,22 @@
         }
     },
     {
+        "id": "99ba9589784c98ab900cedd392a713dd",
+        "title": "Edu system takes a giant leap with AI, robotics",
+        "description": "Classrooms in Himachal Pradesh are set to evolve beyond traditional teaching, as schools prepare to integrate cutting-edge technologies like coding, robotics, artificial intelligence (AI) and augmented reality (AR) into their curriculum. Under a pioneering STEM (Science, Technology, Engineering and Mathematics) education pilot project, the state embarks on a bold journey to integrate cutting-edge technologies into its school curriculum moving beyond traditional textbook-based learning toward a more dynamic, hands-on educational experience.",
+        "content": "Classrooms in Himachal Pradesh are set to evolve beyond traditional teaching, as schools prepare to integrate cutting-edge technologies like coding, robotics, artificial intelligence (AI) and augmented reality (AR) into their curriculum. Under a pion... [1411 chars]",
+        "url": "https://www.tribuneindia.com/news/himachal/edu-system-takes-a-giant-leap-with-ai-robotics/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ1MTU0YzYwLWE3MTUtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
+        "publishedAt": "2025-10-12T02:47:40Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "ff0cf52c268ac6f879b624d0d50742b7",
         "title": "The Bold Claim That AGI And AI Superintelligence Will Radically Fragment Society",
         "description": "Worries are that after AI becomes artificial general intelligence (AGI), the world will become hopelessly fragmented. Here's the inside scoop on this big concern.",
@@ -92,70 +156,6 @@
             "id": "28bc60a23a7bf89e60f893506992a3fe",
             "name": "Daily Excelsior",
             "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "f9f9a30ca0a57c98df18011082d1b70e",
-        "title": "MIER College conducts AI Workshops",
-        "description": "Excelsior Correspondent JAMMU, Oct 11: MIER College of Education (Autonomous), Jammu in collaboration with the Commonwealth of Learning (COL), Canada, successfully organised two intensive workshops on Artificial Intelligence (AI) integration in higher education. Dr. Kaushal Kumar Bhagat, Assistant Professor at the Advanced Technology Development Centre and Vice Chairman of Centre for Teaching Learning and Virtual Skilling at IIT Kharagpur was resource person for both workshops. The first workshop on ‘Institutional AI Policy for Teaching, Learning and Research’ brought together faculty […]",
-        "content": "By\nDaily Excelsior\n-\nExcelsior Correspondent\nJAMMU, Oct 11: MIER College of Education (Autonomous), Jammu in collaboration with the Commonwealth of Learning (COL), Canada, successfully organised two intensive workshops on Artificial Intelligence (AI)... [985 chars]",
-        "url": "https://www.dailyexcelsior.com/mier-college-conducts-ai-workshops/",
-        "image": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/10/page12-1-3.jpg",
-        "publishedAt": "2025-10-11T22:51:46Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "291c9ff4414a374a11e9dbc553eff80a",
-        "title": "Movie review: ‘Tron: Ares’ has style but suffers storytelling glitch",
-        "description": "“Tron: Ares” grapples with questions that plague us all, like how nefarious self-sentient artificial intelligence might be.",
-        "content": "To place an obituary, please include the information from the obituary checklist below in an email to obits@pioneerpress.com. There is no option to place them through our website. Feel free to contact our obituary desk at 651-228-5263 with any questi... [8763 chars]",
-        "url": "https://www.twincities.com/2025/10/11/movie-review-tron-ares-has-style-but-suffers-storytelling-glitch/",
-        "image": "https://www.twincities.com/wp-content/uploads/2025/10/STP-Z-TRON-01.jpg?w=1024&h=683",
-        "publishedAt": "2025-10-11T20:25:10Z",
-        "lang": "en",
-        "source": {
-            "id": "9ab210a1da58b160b3d40bd353f54b38",
-            "name": "St. Paul Pioneer Press",
-            "url": "https://www.twincities.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "263eaf1c21693d69532ad86fc4895b3d",
-        "title": "AI-pocalypse Now: The New Identity Thieves",
-        "description": "Ludhiana: The global rush to adopt the latest viral artificial intelligence (AI) photo trends on social media is fueling a dangerous level of data ove.",
-        "content": "Ludhiana: The global rush to adopt the latest viral artificial intelligence (AI) photo trends on social media is fueling a dangerous level of data oversharing, putting users at high risk of identity theft and fraud, a national cybersecurity expert ha... [2588 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/ludhiana/ai-pocalypse-now-the-new-identity-thieves/articleshow/124490168.cms",
-        "image": "https://static.toiimg.com/thumb/msid-117623941,width-1070,height-580,imgsize-317559,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-10-11T20:18:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "742897cb0f13dc64a0e89ab6c036752d",
-        "title": "QS World University Rankings by Subject 2025: Which US university, MIT or Carnegie Mellon, leads in data science and AI",
-        "description": "News News: The 2025 QS World University Rankings by Subject places MIT first and Carnegie Mellon second in data science and artificial intelligence. Both U.S. un",
-        "content": "The 2025 QS World University Rankings by Subject places MIT first and Carnegie Mellon second in data science and artificial intelligence. Both U.S. universities demonstrate excellence in research, employability, and academic reputation. With strong d... [5257 chars]",
-        "url": "https://timesofindia.indiatimes.com/education/news/qs-world-university-rankings-by-subject-2025-which-us-university-mit-or-carnegie-mellon-leads-in-data-science-and-ai/articleshow/124486682.cms",
-        "image": "https://static.toiimg.com/thumb/msid-124486761,width-1070,height-580,imgsize-225370,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-10-11T20:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     }
