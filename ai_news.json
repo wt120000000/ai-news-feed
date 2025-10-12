@@ -1,5 +1,21 @@
 [
     {
+        "id": "b9655ac667522941c3a3d59a3a6ffc1a",
+        "title": "AI in modern life: a scientific revolution that must balance hope against risk",
+        "description": "Artificial intelligence represents one of the most significant milestones in human scientific progress. It can be described as a natural extension of the human mind’s long journey to understanding and reshaping the world. Just as the discoveries of fire, agriculture, and the Industrial Revolution marked turning points in human civilization, AI now stands as the “fourth",
+        "content": "Artificial intelligence represents one of the most significant milestones in human scientific progress. It can be described as a natural extension of the human mind’s long journey to understanding and reshaping the world. Just as the discoveries of f... [5341 chars]",
+        "url": "https://www.arabnews.com/node/2618551",
+        "image": "https://www.arabnews.com/sites/default/files/authors/3790381-dya-eddinesaidbamakhrama2.png",
+        "publishedAt": "2025-10-11T18:26:32Z",
+        "lang": "en",
+        "source": {
+            "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+            "name": "Arab News",
+            "url": "https://www.arabnews.com",
+            "country": "ar"
+        }
+    },
+    {
         "id": "a9aabf5712f2f95f4d39cfa375194c74",
         "title": "India key to shaping future of Artificial Intelligence, says Anthropic CEO Dario Amodei after meeting PM Modi",
         "description": "Anthropic CEO Dario Amodei met PM Modi in New Delhi to talk about the company's expansion in India. Bengaluru will host its first office, enhancing local AI talent and innovation. Modi highlighted the importance of AI in sectors like education and healthcare.",
@@ -140,22 +156,6 @@
             "id": "628299239469ffa8b7dbb809aabbcc2e",
             "name": "Analytics India Magazine",
             "url": "https://analyticsindiamag.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "5d4114d11ad680dd2a1ee910719ffdbe",
-        "title": "Anthropic CEO meets PM Modi to discuss India expansion; Bengaluru chosen for first office",
-        "description": "US-based artificial intelligence company Anthropic is setting up its first office in India, in Bengaluru, as part of its growing presence in the Indo-Pacific region. The announcement came after Anthropic CEO Dario Amodei met Prime Minister Narendra Modi to discuss the company's plans for expansion and India's role in the future of AI.",
-        "content": "New Delhi [India], October 11 (ANI): US-based artificial intelligence company Anthropic is setting up its first office in India, in Bengaluru, as part of its growing presence in the Indo-Pacific region. The announcement came after Anthropic CEO Dario... [2062 chars]",
-        "url": "https://www.tribuneindia.com/news/business/anthropic-ceo-meets-pm-modi-to-discuss-india-expansion-bengaluru-chosen-for-first-office/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWI2NGQ5NTYwLWE2YjMtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
-        "publishedAt": "2025-10-11T15:05:18Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
             "country": "in"
         }
     }
