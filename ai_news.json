@@ -1,5 +1,21 @@
 [
     {
+        "id": "24393a3152d0cc2a342875c8fd709c0f",
+        "title": "Artificial intelligence has promises and risks for patients",
+        "description": "Beyond the White Coat: Dr. Jason Kolb says physicians and patients already are finding artificial intelligence useful. But what are the risks?",
+        "content": "Artificial intelligence (AI) is coming to a doctor’s office near you. In fact, it probably is already there.\nMy lifetime has witnessed several major technology revolutions, from the personal computer to the internet to the smartphone and now AI. It p... [5486 chars]",
+        "url": "https://www.beaconjournal.com/story/opinion/columns/guest/2025/10/12/artificial-intelligence-has-promises-and-risks-for-patients-and-doctors-medical-advice-opinion/86528411007/",
+        "image": "https://www.beaconjournal.com/gcdn/authoring/authoring-images/2025/01/15/NABJ/77722229007-jason-kolb-book-02.JPG?crop=1503,846,x0,y200&width=1503&height=846&format=pjpg&auto=webp",
+        "publishedAt": "2025-10-12T10:01:46Z",
+        "lang": "en",
+        "source": {
+            "id": "a264eb6813d0472e83bde84a1aef630a",
+            "name": "Akron Beacon Journal",
+            "url": "https://www.beaconjournal.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "6e6193fb92240dba4a2935dfb4fe3e25",
         "title": "AI is watching us. We need city officials watching AI.",
         "description": "Artificial intelligence in Philly government is a black box: There is no public process for communities to review proposed tech and determine if it’s truly safe for us — let alone beneficial.",
@@ -141,22 +157,6 @@
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "ff0cf52c268ac6f879b624d0d50742b7",
-        "title": "The Bold Claim That AGI And AI Superintelligence Will Radically Fragment Society",
-        "description": "Worries are that after AI becomes artificial general intelligence (AGI), the world will become hopelessly fragmented. Here's the inside scoop on this big concern.",
-        "content": "In today’s column, I examine a thought-provoking theory that once AI becomes AGI (artificial general intelligence) or ASI (artificial superintelligence), humanity will fragment into all sorts of radical factions on a massive scale. Why would this hap... [9153 chars]",
-        "url": "https://www.forbes.com/sites/lanceeliot/2025/10/12/the-bold-claim-that-agi-and-ai-superintelligence-will-radically-fragment-society/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/683647db8358b6af476829b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-10-12T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a0300bc9a6e9d5b317bd6f614767231f",
-            "name": "Forbes",
-            "url": "https://www.forbes.com",
-            "country": "us"
         }
     }
 ]
