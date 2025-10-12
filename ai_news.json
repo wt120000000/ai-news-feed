@@ -1,5 +1,37 @@
 [
     {
+        "id": "7cc537e66bab8a7384ecf46a4e61b204",
+        "title": "AI can be more persuasive than real doctors, even when it's wrong",
+        "description": "New research shows artificial intelligence can be very persuasive with medical advice and experts say our faith in it is eating into a patient’s valuable time with an actual doctor.",
+        "content": "New research shows artificial intelligence can be very persuasive with medical advice and experts say our faith in it is eating into a patient’s valuable time with an actual doctor.\nThe study, from researchers at the University of British Columbia, f... [2344 chars]",
+        "url": "https://www.cp24.com/news/canada/2025/10/12/medical-advice-from-ai-can-be-more-persuasive-than-real-doctors-even-when-its-wrong-research/",
+        "image": "https://www.cp24.com/resizer/v2/HUXHM4YFOBB67FBKEDSJRVGU6Y.jpg?smart=true&auth=ff4a4bba96ab171234cab0ea14bfcec495688840eaca9d82fe3590c6dff1209e&width=1200&height=630",
+        "publishedAt": "2025-10-12T11:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "14f6b9edf56ff14a702b8121ad3c5fc2",
+        "title": "NITI Aayog says AI could create 4 million jobs by 2030: What jobs can AI actually create?",
+        "description": "News News: NITI Aayog’s Roadmap for Job Creation in the AI Economy outlines how Artificial Intelligence could create up to 4 million new jobs in India by 2030. W",
+        "content": "NITI Aayog’s Roadmap for Job Creation in the AI Economy outlines how Artificial Intelligence could create up to 4 million new jobs in India by 2030. While warning of displacement in routine tech roles, the report identifies emerging careers in AI eng... [4714 chars]",
+        "url": "https://timesofindia.indiatimes.com/education/news/niti-aayog-says-ai-could-create-4-million-jobs-by-2030-what-jobs-can-ai-actually-create/articleshow/124499699.cms",
+        "image": "https://static.toiimg.com/thumb/msid-124499712,width-1070,height-580,imgsize-154282,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2025-10-12T10:46:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "24393a3152d0cc2a342875c8fd709c0f",
         "title": "Artificial intelligence has promises and risks for patients",
         "description": "Beyond the White Coat: Dr. Jason Kolb says physicians and patients already are finding artificial intelligence useful. But what are the risks?",
@@ -124,38 +156,6 @@
             "id": "6a3aad3dbb44ac873f72b594aaea22c4",
             "name": "The Indian Express",
             "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "70d8d6947989c28e3d5c532114c11e3c",
-        "title": "Pakistani innovators invited for MIT hackathon",
-        "description": "KARACHI  -   The Association for the Advancement of Artificial Intelligence (AAAI) Pakistan Chapter, on behalf of Massachusetts Institute of Technology",
-        "content": "KARACHI - The Association for the Advancement of Artificial Intelligence (AAAI) Pakistan Chapter, on behalf of Massachusetts Institute of Technology (MIT), invited Pakistani innovators to participate in MIT Energy & Climate Hackathon to be held on No... [1107 chars]",
-        "url": "https://www.nation.com.pk/12-Oct-2025/pakistani-innovators-invited-mit-hackathon",
-        "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-        "publishedAt": "2025-10-12T04:12:55Z",
-        "lang": "en",
-        "source": {
-            "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-            "name": "The Nation",
-            "url": "https://www.nation.com.pk",
-            "country": "pk"
-        }
-    },
-    {
-        "id": "99ba9589784c98ab900cedd392a713dd",
-        "title": "Edu system takes a giant leap with AI, robotics",
-        "description": "Classrooms in Himachal Pradesh are set to evolve beyond traditional teaching, as schools prepare to integrate cutting-edge technologies like coding, robotics, artificial intelligence (AI) and augmented reality (AR) into their curriculum. Under a pioneering STEM (Science, Technology, Engineering and Mathematics) education pilot project, the state embarks on a bold journey to integrate cutting-edge technologies into its school curriculum moving beyond traditional textbook-based learning toward a more dynamic, hands-on educational experience.",
-        "content": "Classrooms in Himachal Pradesh are set to evolve beyond traditional teaching, as schools prepare to integrate cutting-edge technologies like coding, robotics, artificial intelligence (AI) and augmented reality (AR) into their curriculum. Under a pion... [1411 chars]",
-        "url": "https://www.tribuneindia.com/news/himachal/edu-system-takes-a-giant-leap-with-ai-robotics/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ1MTU0YzYwLWE3MTUtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
-        "publishedAt": "2025-10-12T02:47:40Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
             "country": "in"
         }
     }
