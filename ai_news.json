@@ -1,5 +1,21 @@
 [
     {
+        "id": "6e6193fb92240dba4a2935dfb4fe3e25",
+        "title": "AI is watching us. We need city officials watching AI.",
+        "description": "Artificial intelligence in Philly government is a black box: There is no public process for communities to review proposed tech and determine if it’s truly safe for us — let alone beneficial.",
+        "content": "By now, you’ve noticed: Artificial intelligence is everywhere. Doorbell cameras film us walking through our neighborhood, Gmail insists on auto-generating email replies, and we’re told to accept a face scan to board an airplane. Health insurance CEOs... [4551 chars]",
+        "url": "https://www.inquirer.com/opinion/commentary/ai-philadelphia-tech-lobbying-surveillance-public-record-20251012.html",
+        "image": "https://www.inquirer.com/resizer/v2/K2IJTTBEYFHIXK2OPXSGQTD3GU.jpg?auth=60ea9f1a295e2a5c0c3405ac9fe3fed7b3a3463c25e2a067a4638b2bbf90b852&width=760&height=507&smart=true",
+        "publishedAt": "2025-10-12T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+            "name": "The Philadelphia Inquirer",
+            "url": "https://www.inquirer.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "a4b5f9d911a3900216ae32ba8af36189",
         "title": "AI can't answer the most important questions in life",
         "description": "Artificial intelligence answers a lot of our questions, but not the ones that may matter most.",
@@ -141,22 +157,6 @@
             "name": "Forbes",
             "url": "https://www.forbes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "fa46aa5d7f896487b4fe8905ce8c8b7b",
-        "title": "Judiciary should adapt to challenges posed by data, AI: SC judges",
-        "description": "INDORE, Oct 11: The judiciary must adapt to the rapidly changing technological landscape, said four Supreme Court judges on Saturday, highlighting the emerging legal challenges linked to data, artificial intelligence (AI) and innovation. They were speaking at the International Colloquium on the theme “Evolving Horizons: Navigating Complexity and Innovation in Commercial and Arbitration Law in the Digital World” held in Indore. In his inaugural address, Justice Jitendra Kumar Maheshwari of the top court said that the goal of the judiciary […]",
-        "content": "INDORE, Oct 11: The judiciary must adapt to the rapidly changing technological landscape, said four Supreme Court judges on Saturday, highlighting the emerging legal challenges linked to data, artificial intelligence (AI) and innovation.\nThey were sp... [2390 chars]",
-        "url": "https://www.dailyexcelsior.com/judiciary-should-adapt-to-challenges-posed-by-data-ai-sc-judges/",
-        "image": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/10/judge.jpg",
-        "publishedAt": "2025-10-11T22:55:49Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
         }
     }
 ]
