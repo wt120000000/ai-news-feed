@@ -1,5 +1,21 @@
 [
     {
+        "id": "fb48d59a93da2fe4316c5b90f1520699",
+        "title": "AI can be more persuasive than real doctors, even when it's wrong",
+        "description": "New research shows artificial intelligence can be very persuasive with medical advice and experts say our faith in it is eating into a patient’s valuable time with an actual doctor.",
+        "content": "New research shows artificial intelligence can be very persuasive with medical advice and experts say our faith in it is eating into a patient’s valuable time with an actual doctor.\nThe study, from researchers at the University of British Columbia, f... [2344 chars]",
+        "url": "https://www.cp24.com/news/canada/2025/10/12/why-empathetic-ai-can-be-too-persuasive-for-canadians-to-resist/",
+        "image": "https://www.cp24.com/resizer/v2/HUXHM4YFOBB67FBKEDSJRVGU6Y.jpg?smart=true&auth=ff4a4bba96ab171234cab0ea14bfcec495688840eaca9d82fe3590c6dff1209e&width=1200&height=630",
+        "publishedAt": "2025-10-12T16:37:47Z",
+        "lang": "en",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com",
+            "country": "ca"
+        }
+    },
+    {
         "id": "ead4d2114753d4e63b55fda159a291c0",
         "title": "Salesforce expands Agentforce to boost AI-powered business efficiency",
         "description": "Salesforce is expanding its Agentforce platform to reshape how enterprises handle IT service, cybersecurity, compliance, and customer experience — combining automation and artificial intelligence to streamline operations and reduce workloads across industries.",
@@ -140,22 +156,6 @@
             "id": "df629db3114c958c28ad4d39b3d50ec1",
             "name": "Greensboro News & Record",
             "url": "https://greensboro.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6cb6e60e33ab4ca9bf16ca2e494013ad",
-        "title": "Financial institutions sound warning about AI bubble",
-        "description": "Lingering doubts about the economic promise of artificial intelligence technology are starting to get the attention of financial institutions that recently raised warning flags about an AI investment bubble.",
-        "content": "Lingering doubts about the economic promise of artificial intelligence technology are starting to get the attention of financial institutions that recently raised warning flags about an AI investment bubble.\nOfficials at the Bank of England flagged t... [5129 chars]",
-        "url": "https://pressofatlanticcity.com/news/nation-world/business/article_4f880d9d-99ff-52db-8918-afe62a451d45.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/4/f8/4f880d9d-99ff-52db-8918-afe62a451d45/68e93629caa60.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2025-10-12T15:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9af43a2802617b590f4e74738cf61a47",
-            "name": "Press of Atlantic City",
-            "url": "https://pressofatlanticcity.com",
             "country": "us"
         }
     }
