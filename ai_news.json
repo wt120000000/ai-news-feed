@@ -1,5 +1,21 @@
 [
     {
+        "id": "d64fee76cd0228ca764ec1bf75808897",
+        "title": "This Startup Raised $13.3 Million To Inject AI Into One Of The World’s Slowest Industries",
+        "description": "Armed with fresh capital, ClaimSorted is using artificial intelligence to ensure insurance claims get paid without the pain.",
+        "content": "The tedious, time-consuming process of settling insurance claims is practically begging for disruption. A startup called ClaimSorted is answering the call with an AI-enabled service that investors are backing to redefine the industry.\nOn Monday, Clai... [4906 chars]",
+        "url": "https://www.forbes.com/sites/robertolsen-1/2025/10/13/this-startup-raised-133-million-to-inject-ai-into-one-of-the-worlds-slowest-industries/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68ec84e18c78bd18ba3dc935/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-10-13T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "a0300bc9a6e9d5b317bd6f614767231f",
+            "name": "Forbes",
+            "url": "https://www.forbes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "54fcb791557d25cb283f1356a4d960c7",
         "title": "TikTok job cuts should be probed by MPs as alarm raised over online safety",
         "description": "In the summer the viral video platform TikTok put hundreds of jobs at risk in the UK as it invests in the use of artificial intelligence for moderating content",
@@ -141,22 +157,6 @@
             "name": "CP24 Toronto",
             "url": "https://www.cp24.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "ead4d2114753d4e63b55fda159a291c0",
-        "title": "Salesforce expands Agentforce to boost AI-powered business efficiency",
-        "description": "Salesforce is expanding its Agentforce platform to reshape how enterprises handle IT service, cybersecurity, compliance, and customer experience — combining automation and artificial intelligence to streamline operations and reduce workloads across industries.",
-        "content": "Salesforce is expanding its Agentforce platform to reshape how enterprises handle IT service, cybersecurity, compliance, and customer experience — combining automation and artificial intelligence to streamline operations and reduce workloads across i... [4997 chars]",
-        "url": "https://www.manilatimes.net/2025/10/13/business/sunday-business-it/salesforce-expands-agentforce-to-boost-ai-powered-business-efficiency/2199204",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/13/779977.jpg",
-        "publishedAt": "2025-10-12T16:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
