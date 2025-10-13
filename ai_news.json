@@ -1,5 +1,21 @@
 [
     {
+        "id": "dff478c4a64be180628e5ecd559c1db6",
+        "title": "Mass-produced AI Podcasts Disrupt A Fragile Industry",
+        "description": "Artificial intelligence now makes it possible to mass-produce podcasts with completely virtual hosts, a development that is disrupting an industry still finding its footing and operating on a fragile business model.",
+        "content": "Artificial intelligence now makes it possible to mass-produce podcasts with completely virtual hosts, a development that is disrupting an industry still finding its footing and operating on a fragile business model.\nSince Google launched Audio Overvi... [3503 chars]",
+        "url": "https://www.ibtimes.com/mass-produced-ai-podcasts-disrupt-fragile-industry-3786646",
+        "image": "https://d.ibtimes.com/en/full/4627858/artificial-intelligence-ushering-mass-made-podcasts-world-without-studios-microphones-where.jpg",
+        "publishedAt": "2025-10-13T01:15:16Z",
+        "lang": "en",
+        "source": {
+            "id": "933344203c2b862af768b5e662a162a4",
+            "name": "International Business Times",
+            "url": "https://www.ibtimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d64fee76cd0228ca764ec1bf75808897",
         "title": "This Startup Raised $13.3 Million To Inject AI Into One Of The World’s Slowest Industries",
         "description": "Armed with fresh capital, ClaimSorted is using artificial intelligence to ensure insurance claims get paid without the pain.",
@@ -141,22 +157,6 @@
             "name": "The Hindu",
             "url": "https://www.thehindu.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "fb48d59a93da2fe4316c5b90f1520699",
-        "title": "AI can be more persuasive than real doctors, even when it's wrong",
-        "description": "New research shows artificial intelligence can be very persuasive with medical advice and experts say our faith in it is eating into a patient’s valuable time with an actual doctor.",
-        "content": "New research shows artificial intelligence can be very persuasive with medical advice and experts say our faith in it is eating into a patient’s valuable time with an actual doctor.\nThe study, from researchers at the University of British Columbia, f... [2344 chars]",
-        "url": "https://www.cp24.com/news/canada/2025/10/12/why-empathetic-ai-can-be-too-persuasive-for-canadians-to-resist/",
-        "image": "https://www.cp24.com/resizer/v2/HUXHM4YFOBB67FBKEDSJRVGU6Y.jpg?smart=true&auth=ff4a4bba96ab171234cab0ea14bfcec495688840eaca9d82fe3590c6dff1209e&width=1200&height=630",
-        "publishedAt": "2025-10-12T16:37:47Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
         }
     }
 ]
