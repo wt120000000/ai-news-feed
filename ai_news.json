@@ -1,5 +1,21 @@
 [
     {
+        "id": "ebbc7bd0e6da7c94bdd0945fa3a74cbe",
+        "title": "Google to invest $10 billion in data centre and AI project in India",
+        "description": "Alphabet Inc's Google will invest $10 billion to set up a massive data centre and artificial intelligence hub in Andhra Pradesh, officials from the southern Indian state said, marking its biggest such investment in the South Asian nation.",
+        "content": "Google will build a 1-gigawatt data centre campus in the port city of Visakhapatnam, combining AI infrastructure, large-scale energy sources, and an expanded fibre-optic network, according to a statement from the state government.\nSign up here.\nA for... [468 chars]",
+        "url": "https://www.reuters.com/world/india/google-invest-10-billion-data-centre-south-india-2025-10-14/",
+        "image": "https://www.reuters.com/resizer/v2/O5XLG572TZL6XOV4XOM4QTPDB4.jpg?auth=0e1eaddfca0013a1608ef9596775506e7831b0407925cd8fc7904673fa59e715&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-10-14T02:56:42Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "5f97ee8d7e9e018f9e46a8daf9d97263",
         "title": "Liam Payne's friend speaks out after Kate Cassidy's 'AI curse' photographs",
         "description": "Liam Payne's girlfriend Kate Cassidy shared very realistic images of herself and Liam Payne - created by the use of artificial intelligence (AI) - as the anniversary of his death approaches",
@@ -64,6 +80,22 @@
         }
     },
     {
+        "id": "c5f72016e235041aa7b372f2725eb2ac",
+        "title": "AI’s Promise Vs Reality And Why 62% Say It Is Overhyped",
+        "description": "Artificial intelligence has captured the world’s attention, dominating headlines and sparking ambitious conversations in boardrooms and among investors.",
+        "content": "Artificial intelligence has captured the world’s attention, dominating headlines and sparking ambitious conversations in boardrooms and among investors. Its promise is massive: the ability to eliminate repetitive tasks, enhance productivity, and unlo... [6235 chars]",
+        "url": "https://www.forbes.com/sites/garydrenik/2025/10/14/ais-promise-vs-reality-and-why-62-say-it-is-overhyped/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68dc1900dc0ec8687bbe96a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-10-14T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "a0300bc9a6e9d5b317bd6f614767231f",
+            "name": "Forbes",
+            "url": "https://www.forbes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "ba728914d9e8b89610b1a2249eed00ab",
         "title": "Ravinder Kaul participates in International Theatre Conference at Romania",
         "description": "Excelsior Correspondent JAMMU, Oct. 13: Globally acclaimed theatre critic and member of the International Association of Theatre Critics, Ravinder Kaul presented his paper at International Conference “Film, Video, Digital and Artificial Intelligence in Theatre Stages” which took place at Cluj-Napoca, Romania between October 10 and 12, 2025. The Conference was jointly organized by International Association of Theatre Critics, Doctoral School of the Faculty of Theatre and Film, Babe’-Bolyai University, Cluj-Napoca, in partnership with “Lucian Blaga” National Theatre of Cluj-Napoca, Romania. […]",
@@ -125,38 +157,6 @@
             "name": "Norfolk Virginian-Pilot",
             "url": "https://www.pilotonline.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "c6d586373f1d82010dd649d4175b6fdd",
-        "title": "In therapy - with a little help from AI along the way",
-        "description": "Despite the risks, some therapists believe artificial intelligence could improve results. By Rebecca Ley",
-        "content": "That’s certainly the view of the founders of HelloSelf, a UK-based online therapy platform that last week launched Companion — the first AI in the world that has been developed by therapists for their clients.\nDr Rumina Taylor, co-founder of HelloSel... [6337 chars]",
-        "url": "https://www.thetimes.com/life-style/health-fitness/article/in-therapy-with-a-little-help-from-ai-along-the-way-pzg7nsbs5",
-        "image": "https://www.thetimes.com/imageserver/image/%2Fe3010fe0-b771-46c3-a2a6-ab0029eeffa4.jpg?crop=5760%2C3240%2C0%2C300&resize=1200",
-        "publishedAt": "2025-10-13T22:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "b419a989918b3665a34559f5047546b6",
-            "name": "The Sunday Times",
-            "url": "https://www.thetimes.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "00b73a2567ea90975d36f3bca2066dd9",
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - OpenAI Partners with Broadcom to Revolutionize AI Chip Design",
-        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
-        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
-        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2025-10-13T21:32:41Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
