@@ -1,5 +1,37 @@
 [
     {
+        "id": "1f195150255263c4247102535da9fc28",
+        "title": "Europe Aims For AI Independence to Avoid Reliance on US and China",
+        "description": "In June, French president Emmanuel Macron held an exclusive dinner at the Élysée Palace with a special guest: Nvidia’s Jensen Huang. Wine glasses clinked in honor of a deal his company had just unveiled with Mistral, the leading French artificial intelligence startup, to develop France’s largest data centers.",
+        "content": "In June, French president Emmanuel Macron held an exclusive dinner at the Élysée Palace with a special guest: Nvidia’s Jensen Huang. Wine glasses clinked in honor of a deal his company had just unveiled with Mistral, the leading French artificial int... [387 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-10-14/europe-aims-for-ai-independence-to-avoid-reliance-on-us-and-china",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWbdbB90Oc0g/v3/1200x800.jpg",
+        "publishedAt": "2025-10-14T04:01:08Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "b29a37607f7726f72cadc624028d6632",
+        "title": "Nvidia and AMD not enough, AI demand is so high OpenAI is building its own chips now",
+        "description": "The race to secure computing power for artificial intelligence is heating up, and OpenAI has decided that depending only on Nvidia and AMD is no longer enough. The company has announced that it is stepping into chip design with Broadcom, in what could be one of the biggest pushes yet to expand global AI infrastructure.",
+        "content": "The race to secure computing power for artificial intelligence is heating up, and OpenAI has decided that depending only on Nvidia and AMD is no longer enough. The company has announced that it is stepping into chip design with Broadcom, in what coul... [3434 chars]",
+        "url": "https://www.indiatoday.in/technology/news/story/nvidia-and-amd-not-enough-ai-demand-is-so-high-openai-is-building-its-own-chips-now-2802728-2025-10-14",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/openai-record-valuation-02505169-16x9_2.jpg?VersionId=DZP0Yia59HWXmtzDkv0Q5Xgo34G0K5kk",
+        "publishedAt": "2025-10-14T03:53:22Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "ebbc7bd0e6da7c94bdd0945fa3a74cbe",
         "title": "Google to invest $10 billion in data centre and AI project in India",
         "description": "Alphabet Inc's Google will invest $10 billion to set up a massive data centre and artificial intelligence hub in Andhra Pradesh, officials from the southern Indian state said, marking its biggest such investment in the South Asian nation.",
@@ -125,38 +157,6 @@
             "name": "BBC News",
             "url": "https://www.bbc.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "5968ca270430e3fe91105cf1b18cf98a",
-        "title": "Nobel Economist Warns Of AI Dangers",
-        "description": "A winner of this year's Nobel prize in economics warned Monday that artificial intelligence offers \"amazing possibilities\" but should be regulated because of its job-destroying potential.",
-        "content": "A winner of this year's Nobel prize in economics warned Monday that artificial intelligence offers \"amazing possibilities\" but should be regulated because of its job-destroying potential.\nThe remarks from Canadian Peter Howitt, professor emeritus at ... [2830 chars]",
-        "url": "https://www.ndtv.com/world-news/nobel-economist-warns-of-ai-dangers-9449943",
-        "image": "https://c.ndtvimg.com/2025-10/uqd52ul8_peter-howitt_625x300_14_October_25.jpeg",
-        "publishedAt": "2025-10-13T23:08:43Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "f2affff51e5090aa35bd9429185c3a44",
-        "title": "Column: Spectrum sale will enhance economy and national security",
-        "description": "The sale of wireless bandwidth will ensure American dominance in internet, artificial intelligence and satellite technologies, Unleash Prosperity's Stephen Moore writes in a Creators Content column.",
-        "content": "A great but unheralded feature of the One Big Beautiful Bill passed in July was an authorization for the Federal Communications Commission to raise $88 billion to $100 billion through electronic spectrum auctions.\nSelling this additional 600-800 mega... [3894 chars]",
-        "url": "https://www.pilotonline.com/2025/10/13/column-spectrum-sale-will-enhance-economy-and-national-security/",
-        "image": "https://www.pilotonline.com/wp-content/uploads/2025/10/TVP-Z-OP-BROADBAND-SPECTRUM-SALE.jpg?w=1024&h=683",
-        "publishedAt": "2025-10-13T22:05:38Z",
-        "lang": "en",
-        "source": {
-            "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
-            "name": "Norfolk Virginian-Pilot",
-            "url": "https://www.pilotonline.com",
-            "country": "us"
         }
     }
 ]
