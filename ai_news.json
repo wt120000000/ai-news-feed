@@ -1,5 +1,53 @@
 [
     {
+        "id": "c096ea723ccb30a452c37709bb187d9a",
+        "title": "This former Apple CEO believes OpenAI could be Cupertino’s ‘first real competitor’ in decades",
+        "description": "Among its megacap tech peers, Apple is the only major company that remains largely on the sidelines when it comes to artificial intelligence.",
+        "content": "“In the agentic era, we don’t need a lot of apps – it can all be done with smart agents,” Sculley said at the Zeta Conference in New York. “AI has not been a particular strength for them.”\nSculley may have a point. Among its megacap tech peers, Apple... [2012 chars]",
+        "url": "https://indianexpress.com/article/technology/this-former-apple-ceo-believes-openai-could-be-cupertinos-first-real-competitor-in-decades-10307745/",
+        "image": "https://images.indianexpress.com/2025/10/John-fb.jpg",
+        "publishedAt": "2025-10-15T04:17:29Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "eae3e2917a06d83ace51cf86c4efbd49",
+        "title": "Meet the AI chatbots replacing India's call-center workers",
+        "description": "BENGALURU (Reuters) -At a startup office in this Indian city, developers are fine-tuning artificial-intelligence chatbots that talk and message like humans.",
+        "content": "BENGALURU (Reuters) -At a startup office in this Indian city, developers are fine-tuning artificial-intelligence chatbots that talk and message like humans.\nThe company, LimeChat, has an audacious goal: to make customer-service jobs almost obsolete. ... [11432 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/15/meet-the-ai-chatbots-replacing-india039s-call-center-workers",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/15/3571389.jpg",
+        "publishedAt": "2025-10-15T04:06:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "67c6dddeb0d289d752d986ecab549389",
+        "title": "'Erotica' coming to ChatGPT this year, says OpenAI CEO Sam Altman",
+        "description": "Adult ChatGPT users can soon access a less censored version of the artificial intelligence chatbot, which will include erotic materials, says OpenAI CEO Sam Altman.",
+        "content": "Adult ChatGPT users can soon access a less censored version of the artificial intelligence chatbot, which will include erotic materials, OpenAI CEO Sam Altman has announced in an apparent policy shift.\n\"In December, as we roll out age-gating more ful... [2640 chars]",
+        "url": "https://www.cnbc.com/2025/10/15/erotica-coming-to-chatgpt-this-year-says-openai-ceo-sam-altman.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108203075-1758667425880-gettyimages-2236544323-STARGATE_DATA_CENTER.jpeg?v=1760494512&w=1920&h=1080",
+        "publishedAt": "2025-10-15T03:38:42Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "6ae4cc9c75b4a688103b82af21865f8c",
         "title": "Is your tech strategy good, or just AI theatre?",
         "description": "Artificial intelligence has become the business world’s favourite performance recently. FTSE 100 earnings calls now mention AI more than inflation, and investor briefings increasingly resemble tech expos. Analysts report that AI references in UK company filings have tripled in the past year, yet the results aren’t matching the rhetoric. Markets are beginning to glance sideways. [...]",
@@ -108,54 +156,6 @@
             "id": "3bd4bd306c42647825fa42989624c036",
             "name": "Livemint",
             "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c34aefe29e087c17faa47a4670c06a95",
-        "title": "Foundations want to curb AI developers’ influence with $500 million aimed at centering human needs",
-        "description": "Ten philanthropic foundations are committing the funding across the next five years to place human interests at the forefront of artificial intelligence’s rapid integration into daily life.",
-        "content": "NEW YORK — Artificial intelligence is a matter of design — not destiny.\nThat’s the message from ten philanthropic foundations aiming to loosen the grip that the technology’s moneyed developers, fueled by an investing frenzy, hold over its evolution. ... [5452 chars]",
-        "url": "https://www.adn.com/nation-world/2025/10/14/foundations-want-to-curb-ai-developers-influence-with-500-million-aimed-at-centering-human-needs/",
-        "image": "https://www.adn.com/resizer/v2/NCICXRCRSQ2WSBAWSGYV3O67XI.jpg?smart=true&auth=727994526115dbed0acf898c28a3c4a39b308640c35462977197b8c8e9f7349f&width=1200&height=630",
-        "publishedAt": "2025-10-15T01:59:21Z",
-        "lang": "en",
-        "source": {
-            "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-            "name": "Anchorage Daily News",
-            "url": "https://www.adn.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d4fd776b5c8ec8c5d6088574d706698a",
-        "title": "Goldman Sachs warns of layoffs amid AI push",
-        "description": "Goldman Sachs Group Inc. has told employees to be ready for another round of job cuts this year, even as the Wall Street giant posts record profits. The bank is said to be going through a major internal transformation, looking to cut costs across its businesses while using artificial intelligence to make operations smoother and […] | financialexpress.com",
-        "content": "Business 22 min ago\nThis is an AI assisted summary.\nGoldman Sachs Group Inc. has told employees to be ready for another round of job cuts this year, even as the Wall Street giant posts record profits. The bank is said to be going through a major inte... [19842 chars]",
-        "url": "https://www.financialexpress.com/shorts/business/goldman-sachs-warns-of-layoffs-amid-ai-push-memo-reveals-company-working-on-limited-reduction-in-roles-4010941/",
-        "image": "https://images.financialexpressdigital.com/2025/07/Goldman-Sachs-names-Raghav-Maliah-as-global-chairman.jpg",
-        "publishedAt": "2025-10-15T01:39:57Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d8d9e659e47d12493b61991dc75262a5",
-        "title": "Goldman Sachs signals fresh layoffs as AI takes over: 8 ways US employees can prepare for the impending job cuts",
-        "description": "Careers News: Goldman Sachs is preparing for another round of job cuts in the U.S. as it pursues efficiency gains and explores artificial intelligence opportunities",
-        "content": "Goldman Sachs is preparing for another round of job cuts in the U.S. as it pursues efficiency gains and explores artificial intelligence opportunities. The bank aims to constrain headcount growth and reduce roles across the firm, emphasizing operatio... [6527 chars]",
-        "url": "https://timesofindia.indiatimes.com/education/careers/news/goldman-sachs-signals-fresh-layoffs-as-ai-takes-over-8-ways-us-employees-can-prepare-for-the-impending-job-cuts/articleshow/124565336.cms",
-        "image": "https://static.toiimg.com/thumb/msid-124565332,width-1070,height-580,imgsize-92542,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-10-15T01:18:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     }
