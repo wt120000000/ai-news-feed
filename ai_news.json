@@ -1,5 +1,37 @@
 [
     {
+        "id": "b05b65a448df285db1c410c2172f0a7a",
+        "title": "Microsoft: Russia, China increasingly using AI to escalate cyberattacks on the US",
+        "description": "Russia, China, Iran and North Korea are using artificial intelligence to improve their cyberattacks on U.S. companies, governments and individuals,",
+        "content": "Russia, China, Iran and North Korea are using artificial intelligence to improve their cyberattacks on U.S. companies, governments and individuals, according to new research from Microsoft\nMicrosoft: Russia, China increasingly using AI to escalate cy... [3725 chars]",
+        "url": "https://www.breitbart.com/news/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us/",
+        "image": "https://media.breitbart.com/media/2025/10/wi/ap/cybersecurity-ai-03511-cybersecurity-ai-security-surveillance-camera-is-microsoft-office-building-640x335.jpg",
+        "publishedAt": "2025-10-16T09:10:32Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "353563ceba3ad6a53c5c68912d813f4f",
+        "title": "BlackRock, Nvidia-backed group strikes $40 billion AI data center deal",
+        "description": "An investor partnership is buying U.S.-based Aligned Data Centers to secure computing capacity for artificial intelligence.",
+        "content": "An investor group including BlackRock, Microsoft, and Nvidia is buying one of the world’s biggest data center operators with nearly 80 facilities in a deal worth $40 billion to secure coveted computing capacity for artificial intelligence.\nThe purcha... [3177 chars]",
+        "url": "https://www.inquirer.com/wires/reuters/america-wire/aligned-data-centers-purchase-partnership-blackrock-nvidia-microsoft-ai-20251016.html",
+        "image": "https://www.inquirer.com/resizer/v2/DIFZ2DMQZOZU3F2G3IN3HYNKTY.jpg?auth=c36d627519239eb5cdf23ab50e2190e64cee0b6acba888ad54f55db9e058f1de&width=760&height=507&smart=true",
+        "publishedAt": "2025-10-16T09:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+            "name": "The Philadelphia Inquirer",
+            "url": "https://www.inquirer.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "cc60bcb5f816ea1ef9bd945055e98a9c",
         "title": "Cancer cure using AI: Google’s DeepMind AI makes breakthrough in cancer treatment research, turning ‘cold’ tumors ‘hot’",
         "description": "Google DeepMind's artificial intelligence has discovered a new way to fight cancer. The AI model, Cell2Sentence-Scale 27B, identified a drug that can make 'cold' tumors more visible to the immune system. This discovery was confirmed through experiments with living cells. This breakthrough offers a promising new path for developing advanced cancer therapies.",
@@ -124,38 +156,6 @@
             "id": "20ca9773b4c0563e26b4c2863bdf8c19",
             "name": "The Associated Press",
             "url": "https://apnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6f182fa15b59077eece81c708b2ffe58",
-        "title": "Taiwanese chipmaker TSMC sees nearly 40% jump in its net profit thanks to the AI boom",
-        "description": "Taiwan’s leading computer chip maker, TSMC, has reported its net profit surged nearly 40% in the last quarter, boosted by the surge in use of artificial intelligence",
-        "content": "HONG KONG -- HONG KONG (AP) — Taiwan’s leading computer chip maker, TSMC, said Thursday that its net profit surged nearly 40% in the last quarter, boosted by the surge in use of artificial intelligence.\nTaiwan Semiconductor Manufacturing Corp. is the... [1120 chars]",
-        "url": "https://abcnews.go.com/Technology/wireStory/taiwanese-chipmaker-tsmc-sees-40-jump-net-profit-126571120",
-        "image": "https://i.abcnewsfe.com/a/fdfefeb2-04c6-4173-a764-920abcf1a6de/wirestory_2231f2ea66b768a8231bdbd8863d46fe_16x9.jpg?w=1600",
-        "publishedAt": "2025-10-16T06:22:21Z",
-        "lang": "en",
-        "source": {
-            "id": "c792dadf7373fad5b316a63a77688de1",
-            "name": "ABC News",
-            "url": "https://abcnews.go.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0256682d98e6bd25736e83c5d5ec4305",
-        "title": "AI Boom Delivers Record Net Profit For Taiwan's TSMC",
-        "description": "Taiwanese tech titan TSMC reported Thursday a forecast-busting record net profit for the third quarter on skyrocketing demand for microchips used to power iPhones and artificial intelligence.",
-        "content": "Taiwanese tech titan TSMC reported Thursday a forecast-busting record net profit for the third quarter on skyrocketing demand for microchips used to power iPhones and artificial intelligence.\nTaiwan Semiconductor Manufacturing Company, the world's la... [2083 chars]",
-        "url": "https://www.ibtimes.com/ai-boom-delivers-record-net-profit-taiwans-tsmc-3787240",
-        "image": "https://d.ibtimes.com/en/full/4628968/taiwan-semiconductor-manufacturing-company-tsmc-has-been-massive-beneficiary-frenzy-ai.jpg",
-        "publishedAt": "2025-10-16T06:21:14Z",
-        "lang": "en",
-        "source": {
-            "id": "933344203c2b862af768b5e662a162a4",
-            "name": "International Business Times",
-            "url": "https://www.ibtimes.com",
             "country": "us"
         }
     }
