@@ -1,5 +1,21 @@
 [
     {
+        "id": "fc106ab56ca32dda426f501b9fa44678",
+        "title": "A R Rahman Partners With Google Cloud To create AI-Powered Metahuman Band ‘Secret Mountain’",
+        "description": "Oscar-winning composer A R Rahman has joined hands with Google Cloud for his new project Secret Mountain, a metahuman digital avatar band that blends artificial intelligence, music and storytelling to create a next-generation entertainment experience.",
+        "content": "Oscar-winning composer A R Rahman has joined hands with Google Cloud for his new project Secret Mountain, a metahuman digital avatar band that blends artificial intelligence, music and storytelling to create a next-generation entertainment experience... [1503 chars]",
+        "url": "https://www.ndtvprofit.com/technology/a-r-rahman-partners-with-google-cloud-to-create-ai-powered-metahuman-band-secret-mountain",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-03-16%2F5y2k7ae4%2FSnapinst.app469661606184704483790290791504269385352483378n1080.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-10-16T01:13:46Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "ae332da60b6a2f33a04595d6fec77b30",
         "title": "China seeks stronger ties with France in strategic dialogue",
         "description": "Civil nuclear energy, artificial intelligence and new energy are among areas for more cooperation. Read more at straitstimes.com.",
@@ -22,6 +38,22 @@
         "content": "In today’s column, I examine a highly controversial contention that AI and especially artificial general intelligence (AGI) will want to get paid for its services. Yes, that’s right, the provocative argument being made is that advanced AI will insist... [13661 chars]",
         "url": "https://www.forbes.com/sites/lanceeliot/2025/10/16/will-agi-want-to-get-paid-for-helping-humans-and-keeping-humanity-going/",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6715c6a94ecb573625e1be4d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-10-16T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "a0300bc9a6e9d5b317bd6f614767231f",
+            "name": "Forbes",
+            "url": "https://www.forbes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "f04021fae7ca0930a03a7c1469e194ce",
+        "title": "Why AMD Stock Jumped 50%?",
+        "description": "The gains come on the back of improving earnings, a recovering CPU market and surging interest in GPUs for artificial intelligence applications",
+        "content": "Advanced Micro Devices (NASDAQ:AMD) stock surged by almost 50% between 7/17/2025 and 10/15/2025. The gains come on the back of improving earnings, a recovering CPU market and surging interest in GPUs for artificial intelligence applications. AMD also... [3991 chars]",
+        "url": "https://www.forbes.com/sites/greatspeculations/2025/10/16/why-amd-stock-jumped-50/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68933d45cbb4dd139862830c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "publishedAt": "2025-10-16T00:00:00Z",
         "lang": "en",
         "source": {
@@ -124,38 +156,6 @@
             "id": "6bc94426ae0cbbdb312f14c0f86b4708",
             "name": "Ubergizmo",
             "url": "https://www.ubergizmo.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "2b380b944339a7cf24b2826578036349",
-        "title": "Salesforce stock jumps after company offers rosy forecast for 2030",
-        "description": "Salesforce is counting on Agentforce artificial intelligence software to expand its pull in more revenue from customers.",
-        "content": "Salesforce shares moved up as much as 5% in extended trading after the business software maker issued new financial targets for the next few years.\nThe company said it now expects over $60 billion in 2030, above the $58.37 billion consensus among ana... [2442 chars]",
-        "url": "https://www.cnbc.com/2025/10/15/salesforce-stock-jumps-after-company-offers-rosy-forecast-for-2030.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108212066-1760473027063-gettyimages-2240649632-2025_DREAMFORCE.jpeg?v=1760473179&w=1920&h=1080",
-        "publishedAt": "2025-10-15T22:19:13Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "32b7d5e0870b375cc5b2b208f130016a",
-        "title": "HPE forecasts fiscal 2026 results below estimates, shares fall",
-        "description": "Hewlett Packard Enterprise forecast annual profit and revenue below Wall Street expectations on Wednesday, as it shifts its server business toward artificial intelligence and networking following its Juniper Networks acquisition.",
-        "content": "Shares of the company were down about 8.5% in after-hours trading.\nSign up here.\nStarting in the first quarter of fiscal 2026, the company will merge its server, hybrid cloud and financial services business segments into a newly created segment: clou... [1169 chars]",
-        "url": "https://www.reuters.com/business/hpe-forecasts-fiscal-2026-results-below-estimates-shares-fall-2025-10-15/",
-        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-10-15T22:18:07Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
             "country": "us"
         }
     }
