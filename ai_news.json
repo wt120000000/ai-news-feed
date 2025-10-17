@@ -1,5 +1,37 @@
 [
     {
+        "id": "646164948eff0dca7e42cc10b16413bc",
+        "title": "Reuters Health News Summary",
+        "description": "The Governors Public Health Alliance will serve as a hub for governors and public health officials to share best practices, exchange data and collaborate on emergency response, vaccine policy and other technical issues, according to a joint statement from the coalition. Adtalem, Google Cloud to launch AI credential program for healthcare professionals Adtalem Global Education said on Wednesday it will partner with Alphabet's Google Cloud to launch an artificial intelligence credential program aimed at students and healthcare professionals to use AI tools in clinical practice.",
+        "content": "Following is a summary of current health news briefs.\nIndonesia's free meals scheme falls 15% behind for lack of kitchens\nIndonesia sees its ambitious programme of free school meals reaching just 72 million recipients by year-end, against an initial ... [3942 chars]",
+        "url": "https://www.devdiscourse.com/article/headlines/3665310-reuters-health-news-summary",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_14_59_16_3719142.jpg?width=920&format=jpeg",
+        "publishedAt": "2025-10-16T21:02:05Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "21fe27bd9fdd56af80676889439781e5",
+        "title": "Microsoft pushes AI updates in Windows 11 as it ends support for Windows 10",
+        "description": "Microsoft is encouraging people to talk to their laptops as it rolls out new artificial intelligence updates to Windows 11 and pushes users to phase out its predecessor, Windows 10. Microsoft ended free security support for Windows 10 this week, though millions of people still use personal computers running the…",
+        "content": "Microsoft is encouraging people to talk to their laptops as it rolls out new artificial intelligence updates to Windows 11 and pushes users to phase out its predecessor, Windows 10.\nMicrosoft ended free security support for Windows 10 this week, thou... [3531 chars]",
+        "url": "https://japantoday.com/category/tech/microsoft-pushes-ai-updates-in-windows-11-as-it-ends-support-for-windows-10",
+        "image": "https://media.japantoday.com/img/store/97/84/2f26c231d7f8e7ad66cf8b49a34df2a34612/download/_w1700.jpeg",
+        "publishedAt": "2025-10-16T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "452991b6faeed37d9301cf5f31c89e07",
         "title": "AI increasingly used in cyberattacks against US",
         "description": "Russia, China, Iran and North Korea have sharply increased their use of artificial intelligence to deceive people online and mount cyberattacks against the United States, according to new research from Microsoft.",
@@ -12,22 +44,6 @@
             "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
             "name": "Norfolk Virginian-Pilot",
             "url": "https://www.pilotonline.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a845a4004e0439b65a64860daf8b83b5",
-        "title": "AI increasingly used in cyberattacks against US",
-        "description": "Russia, China, Iran and North Korea have sharply increased their use of artificial intelligence to deceive people online and mount cyberattacks against the United States, according to new research from Microsoft.",
-        "content": "For information on submitting an obituary, please contact Reading Eagle by phone at 610-371-5018, or email at obituaries@readingeagle.com or fax at 610-371-5193.\nMost obituaries published in the Reading Eagle are submitted through funeral homes and c... [5309 chars]",
-        "url": "https://www.readingeagle.com/2025/10/16/microsoft-ai-cyberattacks/",
-        "image": "https://www.readingeagle.com/wp-content/uploads/2025/10/Cybersecurity_AI_03511.jpg?w=1024&h=682",
-        "publishedAt": "2025-10-16T20:23:43Z",
-        "lang": "en",
-        "source": {
-            "id": "b864cc599bc4ba1ff99463aba17ae502",
-            "name": "Reading Eagle",
-            "url": "https://www.readingeagle.com",
             "country": "us"
         }
     },
@@ -60,22 +76,6 @@
             "id": "6f68e6d7cd20b33baacb487a0e911008",
             "name": "Santa Rosa Press Democrat",
             "url": "https://www.pressdemocrat.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5d4a685b9f1b1d67fd256d558de07bf3",
-        "title": "AI increasingly used in cyberattacks against US",
-        "description": "Russia, China, Iran and North Korea have sharply increased their use of artificial intelligence to deceive people online and mount cyberattacks against the United States, according to new research from Microsoft.",
-        "content": "By DAVID KLEPPER, Associated Press\nWASHINGTON (AP) — Russia, China, Iran and North Korea have sharply increased their use of artificial intelligence to deceive people online and mount cyberattacks against the United States, according to new research ... [3920 chars]",
-        "url": "https://www.bostonherald.com/2025/10/16/microsoft-ai-cyberattacks/",
-        "image": "https://www.bostonherald.com/wp-content/uploads/2025/10/Cybersecurity_AI_03511.jpg?w=1024&h=682",
-        "publishedAt": "2025-10-16T20:23:43Z",
-        "lang": "en",
-        "source": {
-            "id": "bc49d994b41ac710f5c89f6e6adeece4",
-            "name": "The Boston Herald",
-            "url": "https://www.bostonherald.com",
             "country": "us"
         }
     },
