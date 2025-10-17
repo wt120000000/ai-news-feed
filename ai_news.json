@@ -16,6 +16,22 @@
         }
     },
     {
+        "id": "aea6a0267700641a05fd64bf4648354d",
+        "title": "AVGO: Why Broadcom Stock Jumped 110%?",
+        "description": "Investors are rallying around the company’s ambitious advancements in artificial intelligence",
+        "content": "Broadcom (AVGO)’s stock didn’t merely rise - it soared over 100%, driven by more than just impressive figures. A nearly 10% increase in revenue and a remarkable 71% rise in net margin suggested enhanced efficiency, but the true excitement lay just be... [4293 chars]",
+        "url": "https://www.forbes.com/sites/greatspeculations/2025/10/17/avgo-why-broadcom-stock-jumped-110/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68f1ef94b8cbf6df2280ce7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-10-17T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "a0300bc9a6e9d5b317bd6f614767231f",
+            "name": "Forbes",
+            "url": "https://www.forbes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "13c6081f3fad6ad853497310dcf7ebae",
         "title": "Salesforce sued by authors over artificial intelligence software",
         "description": "(Reuters) -Cloud-computing firm Salesforce was hit with a proposed class action lawsuit by two authors who alleged the company used thousands of books without permission to train its artificial intelligence software.",
@@ -141,22 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "21fe27bd9fdd56af80676889439781e5",
-        "title": "Microsoft pushes AI updates in Windows 11 as it ends support for Windows 10",
-        "description": "Microsoft is encouraging people to talk to their laptops as it rolls out new artificial intelligence updates to Windows 11 and pushes users to phase out its predecessor, Windows 10. Microsoft ended free security support for Windows 10 this week, though millions of people still use personal computers running the…",
-        "content": "Microsoft is encouraging people to talk to their laptops as it rolls out new artificial intelligence updates to Windows 11 and pushes users to phase out its predecessor, Windows 10.\nMicrosoft ended free security support for Windows 10 this week, thou... [3531 chars]",
-        "url": "https://japantoday.com/category/tech/microsoft-pushes-ai-updates-in-windows-11-as-it-ends-support-for-windows-10",
-        "image": "https://media.japantoday.com/img/store/97/84/2f26c231d7f8e7ad66cf8b49a34df2a34612/download/_w1700.jpeg",
-        "publishedAt": "2025-10-16T21:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
