@@ -1,5 +1,37 @@
 [
     {
+        "id": "95c13bb8eeee0f9c352155397501cfde",
+        "title": "UPDATE 1-Labor unions sue US over monitoring social media of visa holders",
+        "description": "The complaint by the labor unions cites high-profile cases and the comments of officials themselves to argue that a government program uses artificial intelligence and other automated tools to monitor visa holders' posts and singles out individuals with negative views toward the U.S. government and the Trump administration in particular, U.S. culture and what the government deems \"hateful ideology.\" The federal government has broadly defined support for terrorism to include criticism of U.S. support for Israel, of Israel's actions and support of Palestinians and used this as a reason to cancel visas, they said.",
+        "content": "Labor unions filed a lawsuit against the U.S. government on Thursday, alleging that the Trump administration violated the First Amendment rights of people who are legally in the United States by searching their social media for specific viewpoints, i... [2657 chars]",
+        "url": "https://www.devdiscourse.com/article/law-order/3665367-update-1-labor-unions-sue-us-over-monitoring-social-media-of-visa-holders",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_08_19_05616.jpg?width=920&format=jpeg",
+        "publishedAt": "2025-10-17T00:30:19Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "13c6081f3fad6ad853497310dcf7ebae",
+        "title": "Salesforce sued by authors over artificial intelligence software",
+        "description": "(Reuters) -Cloud-computing firm Salesforce was hit with a proposed class action lawsuit by two authors who alleged the company used thousands of books without permission to train its artificial intelligence software.",
+        "content": "(Reuters) -Cloud-computing firm Salesforce was hit with a proposed class action lawsuit by two authors who alleged the company used thousands of books without permission to train its artificial intelligence software.\nNovelists Molly Tanzer and Jennif... [1544 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/17/salesforce-sued-by-authors-over-artificial-intelligence-software",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/17/3574756.jpg",
+        "publishedAt": "2025-10-16T23:35:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "5b5fcb70f6f74ef3b59f825cade83294",
         "title": "How Mario Kart is helping researchers at U.Md. develop and train AI",
         "description": "Researchers at the University of Maryland are using Mario Kart to train artificial intelligence and guide the future of autonomous driving.",
@@ -125,38 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "225c274461596d987b5b77041f514594",
-        "title": "AI increasingly used in cyberattacks against US",
-        "description": "Russia, China, Iran and North Korea have sharply increased their use of artificial intelligence to deceive people online and mount cyberattacks against the United States, according to new research from Microsoft.",
-        "content": "By DAVID KLEPPER, Associated Press\nWASHINGTON (AP) — Russia, China, Iran and North Korea have sharply increased their use of artificial intelligence to deceive people online and mount cyberattacks against the United States, according to new research ... [3920 chars]",
-        "url": "https://www.ocregister.com/2025/10/16/microsoft-ai-cyberattacks/",
-        "image": "https://www.ocregister.com/wp-content/uploads/2025/10/Cybersecurity_AI_03511-1.jpg?w=1024&h=682",
-        "publishedAt": "2025-10-16T20:23:43Z",
-        "lang": "en",
-        "source": {
-            "id": "840efb5642a2fd3ae6da920bb4981626",
-            "name": "Santa Ana Orange County Register",
-            "url": "https://www.ocregister.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "15b9ca093c8bd356121900017221e180",
-        "title": "AI increasingly used in cyberattacks against US",
-        "description": "Russia, China, Iran and North Korea have sharply increased their use of artificial intelligence to deceive people online and mount cyberattacks against the United States, according to new research from Microsoft.",
-        "content": "By DAVID KLEPPER, Associated Press\nWASHINGTON (AP) — Russia, China, Iran and North Korea have sharply increased their use of artificial intelligence to deceive people online and mount cyberattacks against the United States, according to new research ... [3920 chars]",
-        "url": "https://www.courant.com/2025/10/16/microsoft-ai-cyberattacks/",
-        "image": "https://www.courant.com/wp-content/uploads/2025/10/Cybersecurity_AI_03511.jpg?w=1024&h=682",
-        "publishedAt": "2025-10-16T20:23:43Z",
-        "lang": "en",
-        "source": {
-            "id": "494f687bd1dfaa9f7b4a705c860671d0",
-            "name": "Hartford Courant",
-            "url": "https://www.courant.com",
-            "country": "us"
         }
     }
 ]
