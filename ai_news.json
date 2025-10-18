@@ -1,5 +1,37 @@
 [
     {
+        "id": "e1d7388c85bc85729778fb329837b60b",
+        "title": "MIT Researcher Neil Thompson Explains Why AI Models Give Errors, And Its Future",
+        "description": "The advent of Artificial Intelligence (AI) has brought chaos in our daily applications, but that's changing rapidly, said Neil Thompson, director of the FutureTech Research Project at MIT's Computer Science and Artificial Intelligence Lab.",
+        "content": "New Delhi:\nThe advent of Artificial Intelligence (AI) has brought chaos in our daily applications, but that's changing rapidly, said Neil Thompson, director of the FutureTech Research Project at MIT's Computer Science and Artificial Intelligence Lab,... [1378 chars]",
+        "url": "https://www.ndtv.com/world-news/ndtv-world-summit-2025-mit-researcher-neil-thompson-explains-why-ai-models-give-errors-and-its-future-9477700",
+        "image": "https://c.ndtvimg.com/2025-10/59j85aa4_neil-thompson-_650x400_18_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2025-10-18T06:15:54Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "a730fb2531e4818588df5f7d4652fa56",
+        "title": "Rajasthan: Trains to Self-Diagnose Faults with Generative AI",
+        "description": "Indian Railways is now not just running on tracks, but also at a new pace of technology. On the fronts of safety, efficiency, and inspection, the railways have made Artificial Intelligence (AI) and Machine Learning (ML) their new companions. - Patrika English News",
+        "content": "New pace of technology in Railways: Preparations are underway to run semi-high-speed trains on the Delhi-Mumbai rail route via Rajasthan, marking the beginning of a new era of smartness. Indian Railways is now not just running on tracks, but also at ... [2258 chars]",
+        "url": "https://www.patrika.com/en/special-news/rajasthan-news-trains-to-self-diagnose-faults-with-generative-ai-in-partnership-with-iit-indian-railways-is-now-not-just-running-on-tracks-but-also-at-a-new-pace-of-technology-20033822",
+        "image": "https://cms.patrika.com/wp-content/uploads/2025/10/Copy-of-Logo-Banner-2025-10-18T084132.133.webp",
+        "publishedAt": "2025-10-18T05:55:42Z",
+        "lang": "en",
+        "source": {
+            "id": "9a1d5b164276d1c4f3394dd496e931e0",
+            "name": "Patrika News",
+            "url": "https://www.patrika.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "dc7868a54c3d32076c44a3e52d2ddd93",
         "title": "Walsall Manor Hospital records 99.86 per cent reduction in admin time thanks to pioneering use of AI transcription tool",
         "description": "Doctors at Walsall Manor Hospital are pioneering the use of artificial intelligence to reduce administrative burden, enhance patient safety, and unlock thousands of hours of clinical capacity.",
@@ -124,38 +156,6 @@
             "id": "21468bec836de1ebb209ff6f78fbfe3e",
             "name": "Hindustan Times",
             "url": "https://www.hindustantimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e96c42ddb064f053aebbf8ef4e9971eb",
-        "title": "AI reshaping sales training as companies turn to virtual roleplay and analytics tools",
-        "description": "Artificial intelligence is transforming how sales teams across India learn, practice, and engage with customers, as per a AI platform Trovex.",
-        "content": "New Delhi [India], October 18 (ANI): Artificial intelligence is transforming how sales teams across India learn, practice, and engage with customers, as per the AI platform Trovex.\nFrom virtual roleplays to real-time coaching, AI-driven tools are hel... [2173 chars]",
-        "url": "https://www.tribuneindia.com/news/business/ai-reshaping-sales-training-as-companies-turn-to-virtual-roleplay-and-analytics-tools/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZlMDU2MjYwLWFiYzgtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-        "publishedAt": "2025-10-18T02:20:13Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "7055ad03107254bc2f35251659507ad6",
-        "title": "AI reshaping sales training as companies turn to virtual roleplay and analytics tools",
-        "description": "AI reshaping sales training as companies turn to virtual roleplay and analytics tools - New Delhi [India], October 18 : Artificial intelligence is transforming how sales teams across India learn, practice, and engage ... Get Latest News on Business only on lokmattimes.com",
-        "content": "New Delhi [India], October 18 : Artificial intelligence is transforming how sales teams across India learn, practice, and engage with customers, as per the AI platform Trovex.\nFrom virtual roleplays to real-time coaching, AI-driven tools are helping ... [2137 chars]",
-        "url": "https://www.lokmattimes.com/business/ai-reshaping-sales-training-as-companies-turn-to-virtual-roleplay-and-analytics-tools/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251018015843_202510.jpg",
-        "publishedAt": "2025-10-18T02:15:36Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
             "country": "in"
         }
     }
