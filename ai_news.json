@@ -1,5 +1,37 @@
 [
     {
+        "id": "3cf3a676e9f43c0cd64fba734694c23d",
+        "title": "Google shifts SC into AI’s fast lane with a $9B investment",
+        "description": "Google announced Oct. 13 it will invest $9 billion in South Carolina under an accelerated 2-year schedule to handle skyrocketing demand tied to the rapidly growing artificial-intelligence boom.",
+        "content": "The road from South Carolina to the one-time “information superhighway” is being resurfaced into an AI autobahn.\nAnd the big-ticket, high-stakes upgrade is picking up speed.\nGoogle moved into the fast lane last week. The internet giant announced it w... [4562 chars]",
+        "url": "https://www.postandcourier.com/business/google-sc-moncks-corner-summerville-ai/article_9a91280a-8c73-41da-8009-d2997eda4e2f.html",
+        "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/6/37/637f1dff-9973-4641-a3c6-58e43755a87a/5dbb0bd321b96.image.jpg?crop=1199%2C631%2C0%2C42",
+        "publishedAt": "2025-10-19T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c1903669db0b115cc673ce9c333a70dd",
+            "name": "Charleston Post and Courier",
+            "url": "https://www.postandcourier.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "8769ccca4381b93ae0ece9c57b700512",
+        "title": "BFSI, retail and manufacturing to drive Salesforce growth in India: CEO Arundhati Bhattacharya",
+        "description": "Salesforce India expects robust growth in the coming three years. Key sectors like BFSI, retail, and manufacturing will drive this expansion. The company is also witnessing a strong push towards Artificial Intelligence adoption across industries. Salesforce has introduced Agentforce IT Service to enhance IT support efficiency.",
+        "content": "Synopsis\nSalesforce India expects robust growth in the coming three years. Key sectors like BFSI, retail, and manufacturing will drive this expansion. The company is also witnessing a strong push towards Artificial Intelligence adoption across indust... [4877 chars]",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/bfsi-retail-and-manufacturing-to-drive-salesforce-growth-in-india-ceo-arundhati-bhattacharya/articleshow/124684745.cms",
+        "image": "https://img.etimg.com/thumb/msid-124684792,width-1200,height-630,imgsize-88070,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-10-19T08:27:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "ebcf485585f585ce1a76b1911555d34c",
         "title": "Hideo Kojima Sees Creating Together with AI as the Way to Stay One Step Ahead in the Future",
         "description": "Hideo Kojima described artificial intelligence (AI) as a 'friend' in game creation with which he will stay one step ahead in the future.",
@@ -125,38 +157,6 @@
             "name": "Australian Financial Review",
             "url": "https://www.afr.com",
             "country": "au"
-        }
-    },
-    {
-        "id": "a301990c23ac32c9ec79a81a6161f80a",
-        "title": "Crypto Miners Riding The AI Wave Are Leaving Bitcoin Behind",
-        "description": "Shares of the large-scale computing outfits that make Bitcoin work are once again outperforming the original cryptocurrency, as more pivot to hybrid models built around artificial intelligence and high-performance computing. Long-ago dubbed miners because of the perceived similarities to the mining of traditional commodities such as gold when creating Bitcoin, the companies have often been at the mercy of the volatile price swings experienced by the token.",
-        "content": "Shares of the large-scale computing outfits that make Bitcoin work are once again outperforming the original cryptocurrency, as more pivot to hybrid models built around artificial intelligence and high-performance computing.\nLong-ago dubbed miners be... [4028 chars]",
-        "url": "https://www.ndtvprofit.com/technology/crypto-miners-riding-the-ai-wave-are-leaving-bitcoin-behind",
-        "image": "https://media.assettype.com/bloombergquint%2F2025-08-18%2Fxn9p2069%2Fkanchanara-fsSGgTBoX9Y-unsplash.jpg?rect=0%2C424%2C6048%2C3175&w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-10-19T04:47:28Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "ccf57cf9a075b2f8d55bd09ba317b502",
-        "title": "AI can now solve most customer support problems, Zendesk says",
-        "description": "Customer support software company Zendesk believes its new artificial intelligence-based systems, which include voice AI agents, can deal with around 80% of queries without the need for human back-up.",
-        "content": "NEW YORK: Customer support software company Zendesk believes its new artificial intelligence-based systems, which include voice AI agents, can deal with around 80% of queries without the need for human back-up.\nDeveloped \"in response to increasingly ... [1102 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/19/ai-can-now-solve-most-customer-support-problems-zendesk-says",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/16/3573732.jpeg",
-        "publishedAt": "2025-10-19T04:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
