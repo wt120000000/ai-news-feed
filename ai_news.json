@@ -1,5 +1,37 @@
 [
     {
+        "id": "ebcf485585f585ce1a76b1911555d34c",
+        "title": "Hideo Kojima Sees Creating Together with AI as the Way to Stay One Step Ahead in the Future",
+        "description": "Hideo Kojima described artificial intelligence (AI) as a 'friend' in game creation with which he will stay one step ahead in the future.",
+        "content": "In a brief Instagram reel posted by Wired Japan (and spotted by Culture Crave) following a visit to Kojima Productions in Tokyo, Hideo Kojima shared his thoughts on how to use AI during game creation. The renowned game designer behind the Metal Gear ... [1700 chars]",
+        "url": "https://wccftech.com/hideo-kojima-sees-creating-together-with-ai-way-stay-one-step-ahead/",
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2025/10/hideo-kojima-HD-scaled.jpeg",
+        "publishedAt": "2025-10-19T08:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a68172fefded1b86fc9a95d43faf501",
+            "name": "Wccftech",
+            "url": "https://wccftech.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e140208919f67d56443f2c4788a91c07",
+        "title": "BFSI, retail and manufacturing to drive Salesforce growth in India: Arundhati Bhattacharya",
+        "description": "She retired from SBI in 2017 and went on to reinvent herself with a brand new career innings at the helm of cloud-based service provider Salesforce India in 2020 as Chairperson and CEO.Since then, under her leadership, Salesforce India operation has seen multi-fold jump both in terms of revenue and headcount.Speaking about AI adoption by Indian banks, Bhattacharya said every single company in its board conversations earlier used to talk digitization but now is talking adoption of Artificial Intelligence AI.Where they will make the most use of it in order to get the best returns is probably the concern.",
+        "content": "BFSI, retail and manufacturing to drive the US-based IT firm Salesforce's growth in India over the next three years, a top executive of the company said.\n''The three-year agenda remains more or less the same. We still see a lot of growth coming out o... [3725 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3667544-bfsi-retail-and-manufacturing-to-drive-salesforce-growth-in-india-arundhati-bhattacharya",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png?width=920&format=jpeg",
+        "publishedAt": "2025-10-19T07:51:26Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "e57d8fb7b02098a25c0015164156dc9d",
         "title": "HDFC Bank doesn't see AI leading to layoffs: CEO",
         "description": "MUMBAI, Oct 19:  The country’s largest private sector lender HDFC Bank does not see its use of artificial intelligence leading to any layoffs, a top company official has said.   The lender, which had 2.20 lakh employees as of September, is carrying out some “lighthouse experiments” in technologies, including generative AI, which will deliver its advantages in the next 18-24 months, HDFC Bank Chief Executive and Managing Director Sashidhar Jagdishan said on Saturday. “Frankly, AI is not going (to result […]",
@@ -125,38 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "90ad70ba60c1a3566dcf4fd6c33f8e4f",
-        "title": "Florida law targets using AI to ‘nudify’ people’s photos",
-        "description": "A sweeping new Florida law that took effect Oct. 1 makes it illegal to produce sexual images of a person using artificial intelligence or similar technologies without their permission.",
-        "content": "A sweeping new Florida law that took effect Oct. 1 makes it illegal to produce sexual images of a person using artificial intelligence or similar technologies without their permission.\nThe new law also allows people whose photographs were manipulated... [4756 chars]",
-        "url": "https://www.aroundosceola.com/index.php/news/florida-law-targets-using-ai-nudify-peoples-photos",
-        "image": "http://www.aroundosceola.com/sites/aroundosceola.com/files/4fb86fbf7c_Ar00801012.jpg",
-        "publishedAt": "2025-10-19T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "4ecbadd82aa9fe7a52c0a3b5454020ab",
-            "name": "Around Osceola",
-            "url": "https://www.aroundosceola.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "228e7c18793dd917870d29b04c42946f",
-        "title": "How well founded are fears of a dotcom-style AI bubble?",
-        "description": "The IMF and Bank of England have warned of a looming ‘correction’ but there are reasons to think artificial intelligence is about to start turning a profit",
-        "content": "Bubbles are easy to detect after they burst: stocks in those sectors go down a lot, and stay low for a while. But they can be hard to spot when you’re in them. Alan Greenspan, then Federal Reserve chairman, used the term “irrational exuberance” to de... [3622 chars]",
-        "url": "https://www.thetimes.com/comment/columnists/article/how-well-founded-are-fears-of-a-dotcom-style-ai-bubble-rfkr2l0ct",
-        "image": "https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F73278d69-7fc7-44d3-88de-0086996c19cc.jpg?crop=2134%2C1200%2C0%2C0&resize=1200",
-        "publishedAt": "2025-10-18T23:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "b419a989918b3665a34559f5047546b6",
-            "name": "The Sunday Times",
-            "url": "https://www.thetimes.com",
-            "country": "gb"
         }
     }
 ]
