@@ -1,5 +1,21 @@
 [
     {
+        "id": "ccf57cf9a075b2f8d55bd09ba317b502",
+        "title": "AI can now solve most customer support problems, Zendesk says",
+        "description": "Customer support software company Zendesk believes its new artificial intelligence-based systems, which include voice AI agents, can deal with around 80% of queries without the need for human back-up.",
+        "content": "NEW YORK: Customer support software company Zendesk believes its new artificial intelligence-based systems, which include voice AI agents, can deal with around 80% of queries without the need for human back-up.\nDeveloped \"in response to increasingly ... [1102 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/19/ai-can-now-solve-most-customer-support-problems-zendesk-says",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/16/3573732.jpeg",
+        "publishedAt": "2025-10-19T04:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "90ad70ba60c1a3566dcf4fd6c33f8e4f",
         "title": "Florida law targets using AI to ‘nudify’ people’s photos",
         "description": "A sweeping new Florida law that took effect Oct. 1 makes it illegal to produce sexual images of a person using artificial intelligence or similar technologies without their permission.",
@@ -141,22 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "29e4afd2bfd9f3aaa72a6ab8a9a75393",
-        "title": "How to Avoid Being Hurt When the AI Bubble Bursts",
-        "description": "Is there an AI bubble on the go? Yes. Obviously. Artificial intelligence-related stocks have accounted for some 75% of S&P 500 returns and 90% of capital spending since OpenAI’s ChatGPT launch in 2022. Based largely on outsized valuations for America’s big tech companies, the index’s forward P/E ratio is much like where it was at the top of the dotcom days. You can argue about the scale of it and how this new technology should be measured, but however you cut it, it looks like a Capex bubb",
-        "content": "Is there an AI bubble on the go? Yes. Obviously. Artificial intelligence-related stocks have accounted for some 75% of S&P 500 returns and 90% of capital spending since OpenAI’s ChatGPT launch in 2022. Based largely on outsized valuations for America... [894 chars]",
-        "url": "https://www.bloomberg.com/news/newsletters/2025-10-18/how-to-protect-yourself-from-the-ai-bubble-merryn-talks-money",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/is1vl.sQcyt8/v0/1200x800.jpg",
-        "publishedAt": "2025-10-18T13:19:09Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
         }
     }
 ]
