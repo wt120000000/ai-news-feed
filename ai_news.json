@@ -1,5 +1,37 @@
 [
     {
+        "id": "abf6625e719cf5cc4aa4c82754441de4",
+        "title": "Nvidia CEO Jensen Huang to attend APEC CEO Summit in South Korea",
+        "description": "SEOUL — Nvidia CEO Jensen Huang plans to meet “global leaders and top Korean executives” when he attends the Asia-Pacific Economic Cooperation (APEC) CEO Summit in South Korea this month, the US artificial intelligence (AI) chipmaker said in a statement on Sunday.",
+        "content": "SEOUL — Nvidia CEO Jensen Huang plans to meet “global leaders and top Korean executives” when he attends the Asia-Pacific Economic Cooperation (APEC) CEO Summit in South Korea this month, the US artificial intelligence (AI) chipmaker said in a statem... [993 chars]",
+        "url": "https://www.manilatimes.net/2025/10/20/business/foreign-business/nvidia-ceo-jensen-huang-to-attend-apec-ceo-summit-in-south-korea/2203693",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/19/789194.png",
+        "publishedAt": "2025-10-19T16:04:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "24495eca1f99a0148760c66b0c29d322",
+        "title": "Cybersec and beyond: Lessons from Poland’s cybersecurity playbook",
+        "description": "“Artificial intelligence may be transforming tools, but without human judgment and cyber competence, no system is secure” The recently concluded 4th",
+        "content": "“Artificial intelligence may be transforming tools, but without human judgment and cyber competence, no system is secure”\nThe recently concluded 4th Poland–Philippines IT Business Summit brought together leaders from government, enterprise, and the t... [5295 chars]",
+        "url": "https://manilastandard.net/opinion/columns/open-thoughts-by-orlando-oxales/314657151/cybersec-and-beyond-lessons-from-polands-cybersecurity-playbook.html",
+        "image": "https://cdn.manilastandard.net/wp-content/uploads/2023/11/NDWeb_Oxales.jpg",
+        "publishedAt": "2025-10-19T16:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "e9207083a357fb7e76b38e485888ebe7",
+            "name": "manilastandard.net",
+            "url": "https://manilastandard.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "90658347524a15fd1f341f5ef34ec5cc",
         "title": "Weekend Round-Up: AI Takes Center Stage As Nvidia, Microsoft, Blackrock, Intel And Apple Make Big Moves",
         "description": "Artificial intelligence dominated the week as Nvidia, Microsoft, BlackRock, Intel, and JPMorgan Chase made major AI-driven moves — from a $40 billion Texas data center and new chip launches to bold forecasts and manufacturing shifts out of China.",
@@ -125,38 +157,6 @@
             "name": "Daily Excelsior",
             "url": "https://www.dailyexcelsior.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "d1783a70772968736f60ed629e819e35",
-        "title": "Artificial intelligence threatening to push young people out of entry-level jobs",
-        "description": "OTTAWA — Throughout her university career, Jacqueline Silver assumed her computer science degree would guarantee her a job. Finding out she was wrong was a demoralizing experience.",
-        "content": "OTTAWA — Throughout her university career, Jacqueline Silver assumed her computer science degree would guarantee her a job. Finding out she was wrong was a demoralizing experience.\nSilver, who graduated recently from McGill University and now lives i... [3763 chars]",
-        "url": "https://www.sootoday.com/national-news/artificial-intelligence-threatening-to-push-young-people-out-of-entry-level-jobs-11367700",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/7e64c06d82e358341f7ed91ee46d42bc3a5c72a3666a33f5007517e18619804a.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-10-19T10:00:09Z",
-        "lang": "en",
-        "source": {
-            "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-            "name": "SooToday",
-            "url": "https://www.sootoday.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "665d8ee3c269cf758ae2c10b2cb64ab8",
-        "title": "Artificial intelligence threatening to push young people out of entry-level jobs",
-        "description": "OTTAWA — Throughout her university career, Jacqueline Silver assumed her computer science degree would guarantee her a job. Finding out she was wrong was a demoralizing experience.",
-        "content": "OTTAWA — Throughout her university career, Jacqueline Silver assumed her computer science degree would guarantee her a job. Finding out she was wrong was a demoralizing experience.\nSilver, who graduated recently from McGill University and now lives i... [3763 chars]",
-        "url": "https://www.baytoday.ca/national-news/artificial-intelligence-threatening-to-push-young-people-out-of-entry-level-jobs-11367700",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/7e64c06d82e358341f7ed91ee46d42bc3a5c72a3666a33f5007517e18619804a.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-10-19T10:00:09Z",
-        "lang": "en",
-        "source": {
-            "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-            "name": "BayToday",
-            "url": "https://www.baytoday.ca",
-            "country": "ca"
         }
     }
 ]
