@@ -1,5 +1,37 @@
 [
     {
+        "id": "ab862d0c8ded1b8ff047f34271667d0d",
+        "title": "Don’t use AI if you want to be new ambassador to US, job advert warns",
+        "description": "Artificial intelligence-generated applications for the role of Lord Mandelson’s replacement will be considered ‘plagiarism’",
+        "content": "The new British ambassador to the US replacing Lord Mandelson should not use artificial intelligence in their job application, the embassy advertisement has warned.\nAI-generated applications for the role will be considered “plagiarism”, according to ... [1350 chars]",
+        "url": "https://www.telegraph.co.uk/politics/2025/10/19/new-ambassador-us-replacing-mandelson-ai-warning/",
+        "image": "https://www.telegraph.co.uk/content/dam/briefs/2025/10/19/TELEMMGLPICT000439462988_17608958031890_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
+        "publishedAt": "2025-10-19T18:26:00Z",
+        "lang": "en",
+        "source": {
+            "id": "bff0cd3b8c64dceaada8841bea814f65",
+            "name": "The Telegraph",
+            "url": "https://www.telegraph.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "530ba99bd0663dedbeb76aa4ca51fb56",
+        "title": "Artificial intelligence threatening to push young people out of entry-level jobs",
+        "description": "A recent Stanford University academic paper found that early-career workers aged 22 to 25 in the most AI-exposed occupations have experienced a decline in employment.",
+        "content": "Throughout her university career, Jacqueline Silver assumed her computer science degree would guarantee her a job. Finding out she was wrong was a demoralizing experience.\nSilver, who graduated recently from McGill University and now lives in Toronto... [3714 chars]",
+        "url": "https://cheknews.ca/artificial-intelligence-threatening-to-push-young-people-out-of-entry-level-jobs-1284399/",
+        "image": "https://cheknews.ca/wp-content/uploads/2025/10/1c8aa80b-5150-4f39-87ce-8d2f3cc84323-scaled.jpg",
+        "publishedAt": "2025-10-19T17:39:53Z",
+        "lang": "en",
+        "source": {
+            "id": "010284b7a4ddb4771793c29b39893951",
+            "name": "CHEK News",
+            "url": "https://cheknews.ca",
+            "country": "ca"
+        }
+    },
+    {
         "id": "9ef226a152d2f1a95e8dd3cdf676b49c",
         "title": "Trump Dumps Poop On ‘No Kings’ Protesters In Wild AI Video",
         "description": "Trump took his taunting a step further with weird artificial intelligence videos that took a swipe at his opponents.",
@@ -125,38 +157,6 @@
             "name": "CNBC",
             "url": "https://www.cnbc.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "c20ae172b5f8ab8540645a4b6f49d7b6",
-        "title": "Insane AI videos of celebs are everywhere -should they embrace it or call their lawyer?",
-        "description": "Sora 2 is the latest offering from Sam Altman’s OpenAI, the company that is at the forefront of artificial intelligence technology. Operating as a “world stimulator,” it can create super realistic looking videos from a text prompt and a still photos of someone’s face. Hollywood is worred.",
-        "content": "Michael Jackson leans over a KFC table and says, “your chicken’s looking nice, pal,” before swiping the box.\nMarilyn Monroe is resurrected as a TSA agent going through traveler’s bags, while the late wheelchair-bound physicist Stephen Hawking is depi... [7058 chars]",
-        "url": "https://nypost.com/2025/10/19/us-news/insane-ai-videos-of-celebs-are-everywhere-should-they-embrace-it-or-call-their-lawyer/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-q8okzs8b8-1760741571135.jpg?quality=75&strip=all&1760727255&w=1200",
-        "publishedAt": "2025-10-19T12:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3dba6c2afb53532c38411ca76a348484",
-        "title": "From reactive to predictive: Why agriculture needs AI now more than ever",
-        "description": "Tech News News: Farming is evolving from reactive to predictive methods, driven by climate change and growing global needs. Artificial intelligence offers solutions b",
-        "content": "Farming is evolving from reactive to predictive methods, driven by climate change and growing global needs. Artificial intelligence offers solutions by analyzing data to forecast issues, optimize resource use, and enhance crop yields. This shift is c... [6225 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/from-reactive-to-predictive-why-agriculture-needs-ai-now-more-than-ever/articleshow/124686060.cms",
-        "image": "https://static.toiimg.com/thumb/msid-124686060,width-1070,height-580,imgsize-null,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-10-19T10:24:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
