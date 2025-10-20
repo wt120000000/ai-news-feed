@@ -1,5 +1,37 @@
 [
     {
+        "id": "4e3eec976fcb972a0257b7f4ad9ee643",
+        "title": "OpenAI Big Chip Orders Dwarf Its Revenues -- For Now",
+        "description": "OpenAI is ordering hundreds of billions of dollars worth of chips in the artificial intelligence race, raising questions among investors about how the startup will finance these purchases.",
+        "content": "OpenAI is ordering hundreds of billions of dollars worth of chips in the artificial intelligence race, raising questions among investors about how the startup will finance these purchases.\nIn less than a month, the San Francisco startup behind ChatGP... [3149 chars]",
+        "url": "https://www.ibtimes.com/openai-big-chip-orders-dwarf-its-revenues-now-3787571",
+        "image": "https://d.ibtimes.com/en/full/4629653/bernstein-research-analyst-says-open-ai-ceo-sam-altman-has-power-crash-global-economy-take.jpg",
+        "publishedAt": "2025-10-20T01:21:16Z",
+        "lang": "en",
+        "source": {
+            "id": "933344203c2b862af768b5e662a162a4",
+            "name": "International Business Times",
+            "url": "https://www.ibtimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "0e05f170e6de46f110f4036208a3c99f",
+        "title": "Govt to revamp portal to speed up unclaimed shares and dividend payouts",
+        "description": "The government is upgrading its portal to quickly return unclaimed shares and dividends to investors. This new system will use artificial intelligence and data analytics. The aim is to settle claims in just 15 days. Investors will also be able to use a mobile app to track their claims. This initiative will streamline the process significantly.",
+        "content": "Synopsis\nThe government is upgrading its portal to quickly return unclaimed shares and dividends to investors. This new system will use artificial intelligence and data analytics. The aim is to settle claims in just 15 days. Investors will also be ab... [3920 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/govt-to-revamp-portal-to-speed-up-unclaimed-shares-and-dividend-payouts/articleshow/124697562.cms",
+        "image": "https://img.etimg.com/thumb/msid-124697565,width-1200,height-630,imgsize-80004,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2025-10-20T01:05:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "fd8d660663573ce0e12070e874ff6bcf",
         "title": "RIL reports strong Q2 growth driven by 5G, O2C recovery and retail expansion",
         "description": "Reliance Industries saw a 14% profit jump in the September quarter. Strong 5G growth, a recovering oil-to-chemicals business, and expanding retail operations fueled this success. The company is also investing significantly in new energy initiatives and artificial intelligence. Jio Platforms added more subscribers, and Reliance Retail saw robust sales growth. Analysts have slightly improved their outlook for the company.",
@@ -125,38 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "2fbb616b1d5c82742d1fb74add9c1203",
-        "title": "Ticker: China accuses US of cyberattack; Meta adding AI parental controls",
-        "description": "Meta is adding parental controls for kids' interactions with artificial intelligence chatbots — including the ability to turn off one-on-one chats with AI characters altogether — beginning early next year.",
-        "content": "China on Sunday accused the U.S. National Security Agency of carrying out cyberattacks on its national time center following an investigation, saying any damage to related facilities could have disrupted network communications, financial systems and ... [1349 chars]",
-        "url": "https://www.bostonherald.com/2025/10/19/ticker-china-accuses-us-of-cyberattack-meta-adding-ai-parental-controls/",
-        "image": "https://www.bostonherald.com/wp-content/uploads/2025/10/Meta_AI_Teens_60816.jpg?w=1024&h=682",
-        "publishedAt": "2025-10-19T19:24:19Z",
-        "lang": "en",
-        "source": {
-            "id": "bc49d994b41ac710f5c89f6e6adeece4",
-            "name": "The Boston Herald",
-            "url": "https://www.bostonherald.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "20e5e8c216f9e7c9dbcc95217320ecfb",
-        "title": "Michael Mann intends to use AI in production of Heat 2",
-        "description": "Michael Mann has revealed that he is planning to use artificial intelligence (AI) for both \"ageing and de-ageing\" in his long-awaited sequel to Heat.",
-        "content": "Michael Mann plans to use artificial intelligence (AI) to experiment with \"ageing and de-ageing\" in Heat 2.\nThe 82-year-old director is continuing to work on a sequel to his acclaimed 1995 crime epic and has indicated that he will use technology in t... [2468 chars]",
-        "url": "https://www.perthnow.com.au/entertainment/movies/michael-mann-intends-to-use-ai-in-production-of-heat-2-c-20404878",
-        "image": "https://images.perthnow.com.au/publication/C-20404878/1eb0d55a1e13bd483407c67992c3edf4c2ab0630-16x9-x0y192w2048h1152.jpg?imwidth=1200",
-        "publishedAt": "2025-10-19T19:01:42Z",
-        "lang": "en",
-        "source": {
-            "id": "7f6e8514e9d8f8376aaa9a7229861518",
-            "name": "PerthNow",
-            "url": "https://www.perthnow.com.au",
-            "country": "au"
         }
     }
 ]
