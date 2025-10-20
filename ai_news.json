@@ -1,5 +1,21 @@
 [
     {
+        "id": "4c18ca85e82f3b869cc63c82e6967f6b",
+        "title": "The lecturers learning to spot AI misconduct",
+        "description": "With more students using artificial intelligence (AI), academics are being trained to spot wrongful use.",
+        "content": "11 hours ago\nEllis MaddisonLeicester\nWith the rise of artificial intelligence (AI) and more students turning to technology in their studies, academics have a complex challenge on their hands.\nUniversity bosses at De Montfort University (DMU) are tryi... [4659 chars]",
+        "url": "https://www.bbc.com/news/articles/c2kn3gn8vl9o",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a3df/live/fe0d79a0-9ddb-11f0-9f23-2534d63ace40.jpg",
+        "publishedAt": "2025-10-20T04:48:19Z",
+        "lang": "en",
+        "source": {
+            "id": "109f2b4a20da4fe1c2fd502b03c07243",
+            "name": "BBC News",
+            "url": "https://www.bbc.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "0f0c8294e9fd7d7e167228b17fe254bd",
         "title": "UAE: Bin Bayyah calls for establishment of global ethical framework for AI",
         "description": "Sheikh Abdallah Bin Bayyah, , Chairman of the UAE Council for Fatwa and President of the Abu Dhabi Forum for Peace, called for the establishment of a global ethical framework for artificial intelligence (AI) that brings together religious, intellectual, and scientific leaders, as well as technical experts and policymakers. The aim, he emphasised, is to guide the trajectory of emerging technologies to serve humanity, uphold human dignity, and promote global peace.",
@@ -141,22 +157,6 @@
             "name": "International Business Times",
             "url": "https://www.ibtimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "0e05f170e6de46f110f4036208a3c99f",
-        "title": "Govt to revamp portal to speed up unclaimed shares and dividend payouts",
-        "description": "The government is upgrading its portal to quickly return unclaimed shares and dividends to investors. This new system will use artificial intelligence and data analytics. The aim is to settle claims in just 15 days. Investors will also be able to use a mobile app to track their claims. This initiative will streamline the process significantly.",
-        "content": "Synopsis\nThe government is upgrading its portal to quickly return unclaimed shares and dividends to investors. This new system will use artificial intelligence and data analytics. The aim is to settle claims in just 15 days. Investors will also be ab... [3920 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/govt-to-revamp-portal-to-speed-up-unclaimed-shares-and-dividend-payouts/articleshow/124697562.cms",
-        "image": "https://img.etimg.com/thumb/msid-124697565,width-1200,height-630,imgsize-80004,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2025-10-20T01:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
