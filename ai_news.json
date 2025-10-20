@@ -1,5 +1,37 @@
 [
     {
+        "id": "ae99ffb62ba24e201f22b75ecacc3cef",
+        "title": "New white paper urges policymakers to modernize practice laws to unlock AI's full potential in health care",
+        "description": "As the U.S. confronts a historic health care workforce crisis, a new white paper released today calls on federal and state policymakers to modernize outdated laws, regulations, and payment systems in order to harness the full potential of artificial intelligence (AI) in care delivery.",
+        "content": "As the U.S. confronts a historic health care workforce crisis, a new white paper released today calls on federal and state policymakers to modernize outdated laws, regulations, and payment systems in order to harness the full potential of artificial ... [3704 chars]",
+        "url": "https://medicalxpress.com/news/2025-10-white-paper-urges-policymakers-modernize.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/maryland-state-house.jpg",
+        "publishedAt": "2025-10-20T10:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "daaea4de5ef8484cdbe814bbe36df3e3",
+        "title": "US Subpoenas Builder.ai’s Ex-CFO for Auditor Communications",
+        "description": "US investigators are advancing a criminal probe into Builder.ai, demanding a former executive’s communications with the firm’s UK auditor and with others involved in the financial reporting for the artificial intelligence startup ahead of its June bankruptcy.",
+        "content": "US investigators are advancing a criminal probe into Builder.ai , demanding a former executive’s communications with the firm’s UK auditor and with others involved in the financial reporting for the artificial intelligence startup ahead of its June b... [676 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-10-20/us-subpoenas-builder-ai-s-ex-cfo-for-auditor-communications",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ineMk4petD6Y/v1/1200x800.jpg",
+        "publishedAt": "2025-10-20T09:25:45Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d0405e8715ec6b8bb5fed22e57ace76a",
         "title": "Alphabet pushes into healthtech with AI",
         "description": "Alphabet's life sciences unit, Verily, has announced the launch of an artificial intelligence (AI) powered health app called Verily Me. The Trump administration has encouraged tech companies to expand the suite of healthcare tools available to citizens. Alphabet, Apple and Amazon are among the tech majors that have pledged to invest and support US health systems, making medical data more visible and organised.",
@@ -125,38 +157,6 @@
             "name": "BBC News",
             "url": "https://www.bbc.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "0f0c8294e9fd7d7e167228b17fe254bd",
-        "title": "UAE: Bin Bayyah calls for establishment of global ethical framework for AI",
-        "description": "Sheikh Abdallah Bin Bayyah, , Chairman of the UAE Council for Fatwa and President of the Abu Dhabi Forum for Peace, called for the establishment of a global ethical framework for artificial intelligence (AI) that brings together religious, intellectual, and scientific leaders, as well as technical experts and policymakers. The aim, he emphasised, is to guide the trajectory of emerging technologies to serve humanity, uphold human dignity, and promote global peace.",
-        "content": "Dubai [UAE], October 20 (ANI/WAM): Sheikh Abdallah Bin Bayyah, , Chairman of the UAE Council for Fatwa and President of the Abu Dhabi Forum for Peace, called for the establishment of a global ethical framework for artificial intelligence (AI) that br... [2634 chars]",
-        "url": "https://www.devdiscourse.com/article/international/3668056-uae-bin-bayyah-calls-for-establishment-of-global-ethical-framework-for-ai",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_10_2025_09_34_13_2330788.jpg?width=920&format=jpeg",
-        "publishedAt": "2025-10-20T04:04:16Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "39949a56a23816bf0d0a4f417a515cc7",
-        "title": "Artificial intelligence chatbots replacing India’s call-centre workers",
-        "description": "‘All IT services will be replaced in the next five years ... it’s going to be pretty chaotic’",
-        "content": "At a start-up office in this Indian city, developers are fine-tuning artificial-intelligence (AI) chatbots that talk and message like humans.\nThe company, LimeChat, has an audacious goal: to make customer-service jobs almost obsolete. It says its gen... [10939 chars]",
-        "url": "https://www.irishtimes.com/business/work/2025/10/20/artificial-intelligence-chatbots-replacing-indias-call-centre-workers/",
-        "image": "https://www.irishtimes.com/resizer/v2/IV5XYVEKMZGKRCQ5T55MYZKZ5Q.jpg?smart=true&auth=1a788c0dbf625219efb84adf16289f645ed704c7401715a5e10f8aedfc6af6a0&width=1200&height=630",
-        "publishedAt": "2025-10-20T04:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "dd1d806725f45e4403e75c1bb23b447a",
-            "name": "The Irish Times",
-            "url": "https://www.irishtimes.com",
-            "country": "ie"
         }
     }
 ]
