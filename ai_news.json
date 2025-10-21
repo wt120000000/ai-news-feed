@@ -1,5 +1,21 @@
 [
     {
+        "id": "a005e27034b8bde43cb87893c6edee94",
+        "title": "Gen Z workers need AI to speak to colleagues, study finds",
+        "description": "Britons aged between 16 and 28 are too scared to speak to their colleagues without the help of artificial intelligence (AI), according to new research shared exclusively with the Daily Mail.",
+        "content": "Almost half of Gen Z workers are too scared to speak to their colleagues without the help of artificial intelligence (AI), new research has found.\nBritons aged between 16 and 28 say they feel more comfortable talking to chatbots than their co-workers... [2902 chars]",
+        "url": "https://www.dailymail.co.uk/news/article-15210181/Gen-Z-workers-AI-speak-colleagues-study.html",
+        "image": "https://i.dailymail.co.uk/1s/2025/10/20/21/103154707-0-image-a-25_1760991366608.jpg",
+        "publishedAt": "2025-10-20T21:44:42Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "1d4c7d647aabfeabcb7a2359d05f7e34",
         "title": "Big Tech is paying millions to train teachers on AI, in a push to bring chatbots into classrooms",
         "description": "The country’s largest teachers unions are teaming up with tech companies like Microsoft and OpenAI to help educators build literacy in artificial intelligence",
@@ -141,22 +157,6 @@
             "name": "The Mirror",
             "url": "https://www.mirror.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "9f0964bd31e5dd683fd0a4bd4161d337",
-        "title": "Cohere to Hold Secondary Sale for Employee Shares",
-        "description": "Cohere, the Nvidia -backed artificial intelligence startup recently valued at about $7 billion, said Monday it will hold a secondary sale allowing employees to sell shares to outside investors,...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/cohere-to-hold-secondary-sale-for-employee-shares-ce7d5ad2d18df224",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2025-10-20T19:35:10Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
