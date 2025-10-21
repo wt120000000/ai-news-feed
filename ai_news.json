@@ -1,5 +1,37 @@
 [
     {
+        "id": "4b22131cfcda3aeea3d8ab119b06ede3",
+        "title": "GOOGL Stock On Fire: Up 8% With 6-Day Winning Streak",
+        "description": "This impressive performance has been driven by a wave of positive news related to Artificial Intelligence (AI), including significant AI infrastructure...",
+        "content": "Alphabet (NASDAQ: GOOGL) stock has been on a strong upward trajectory, logging its sixth consecutive day of gains. Over this six-day period, the stock has delivered a cumulative return of 8%, adding approximately $242 billion to the company's value a... [2015 chars]",
+        "url": "https://www.forbes.com/sites/greatspeculations/2025/10/21/googl-stock-on-fire-up-8-with-6-day-winning-streak/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68f76ca028db4792ef476736/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-10-21T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "a0300bc9a6e9d5b317bd6f614767231f",
+            "name": "Forbes",
+            "url": "https://www.forbes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "90ad70ba60c1a3566dcf4fd6c33f8e4f",
+        "title": "Florida law targets using AI to ‘nudify’ people’s photos",
+        "description": "A sweeping new Florida law that took effect Oct. 1 makes it illegal to produce sexual images of a person using artificial intelligence or similar technologies without their permission.",
+        "content": "A sweeping new Florida law that took effect Oct. 1 makes it illegal to produce sexual images of a person using artificial intelligence or similar technologies without their permission.\nThe new law also allows people whose photographs were manipulated... [4756 chars]",
+        "url": "https://www.aroundosceola.com/index.php/news/florida-law-targets-using-ai-nudify-peoples-photos",
+        "image": "http://www.aroundosceola.com/sites/aroundosceola.com/files/4fb86fbf7c_Ar00801012.jpg",
+        "publishedAt": "2025-10-21T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "4ecbadd82aa9fe7a52c0a3b5454020ab",
+            "name": "Around Osceola",
+            "url": "https://www.aroundosceola.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "a005e27034b8bde43cb87893c6edee94",
         "title": "Gen Z workers need AI to speak to colleagues, study finds",
         "description": "Britons aged between 16 and 28 are too scared to speak to their colleagues without the help of artificial intelligence (AI), according to new research shared exclusively with the Daily Mail.",
@@ -125,38 +157,6 @@
             "name": "Deadline",
             "url": "https://deadline.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "0c9ef5f784be7280faddc85a07391b13",
-        "title": "AI News Anchor Debuts on Channel 4 in British TV Stunt",
-        "description": "An AI-generated news anchor appeared on Britain's Channel 4 in a stunt proving the dangers of artificial intelligence.",
-        "content": "A news special on Britain’s Channel 4 titled “Will AI Take My Job?” investigated how automation is reshaping the workplace and pitting humans against machines. At the end of the hour-long program, a major twist was revealed: the anchor, who narrates ... [2230 chars]",
-        "url": "https://variety.com/2025/tv/news/ai-news-anchor-channel-4-1236557295/",
-        "image": "https://variety.com/wp-content/uploads/2025/10/AI-Presenter.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-10-20T20:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "e6688d6db992f469baa7352aac100378",
-            "name": "Variety",
-            "url": "https://variety.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d13f316484cf01506358a5ad1a8b2b21",
-        "title": "Channel 4 announces UK television's first AI generated presenter",
-        "description": "Channel 4 Dispatches have claimed to be the first British TV programme to use an AI presenter in their show Will AI Take My Job?, where they investigated how Artificial Intelligence is changing the workplace",
-        "content": "Channel 4 Dispatches have claimed to be the first British TV programme to use an AI presenter in their show Will AI Take My Job?, where they investigated how Artificial Intelligence is changing the workplace\nChannel 4 has announced that their investi... [3872 chars]",
-        "url": "https://www.mirror.co.uk/tv/channel-4-announces-first-uk-36103482",
-        "image": "https://i2-prod.mirror.co.uk/article30953720.ece/ALTERNATES/s1200/5_Dis.jpg",
-        "publishedAt": "2025-10-20T20:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "105bb16685822879671e4bad332aeec9",
-            "name": "The Mirror",
-            "url": "https://www.mirror.co.uk",
-            "country": "gb"
         }
     }
 ]
