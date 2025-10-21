@@ -1,5 +1,85 @@
 [
     {
+        "id": "e8de5814c02337f12106addce1496142",
+        "title": "Here's how AI helped this Quebec town reduce its traffic",
+        "description": "A Quebec municipality is solving gridlock using an artificial intelligence-powered traffic light system that the town says is already decreasing congestion and increasing safety for commuters and pedestrians.",
+        "content": "A Quebec municipality is solving gridlock using an artificial intelligence-powered traffic light system that the town says is already decreasing congestion and increasing safety for commuters and pedestrians.\nIn February, Kirkland, a suburb on the Is... [2980 chars]",
+        "url": "https://www.cp24.com/news/canada/2025/10/20/ai-traffic-lights-helped-fix-a-quebec-towns-gridlock-an-expert-says-toronto-may-not-see-the-same-success/",
+        "image": "https://www.cp24.com/resizer/v2/UFFA767QBRHM3F56Q5FP56I5LA.JPG?smart=true&auth=3313345dcd9d3a3b81a7d70c75ea8f8aa8174a57b0cb2c54217ab3f87d8f8b0c&width=1200&height=630",
+        "publishedAt": "2025-10-20T19:18:02Z",
+        "lang": "en",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "4092d89a39b355c944b8371ce8d75acf",
+        "title": "Nvidia-Backed Cohere to Offer Secondary Sale of Employee Shares",
+        "description": "Cohere Inc., the Nvidia Corp.-backed artificial intelligence startup that raised funds at a $7 billion valuation a month ago, is holding a so-called tender for employees who want to sell their stakes in the company to outside investors.",
+        "content": "Cohere Inc. , the Nvidia Corp. -backed artificial intelligence startup that raised funds at a $7 billion valuation a month ago, is holding a so-called tender for employees who want to sell their stakes in the company to outside investors.\nCurrent emp... [409 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-10-20/nvidia-backed-cohere-to-offer-secondary-sale-of-employee-shares",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUMo.owwH3sU/v1/1200x800.jpg",
+        "publishedAt": "2025-10-20T18:59:09Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "5b3a837f1135b430174089ee11feb32b",
+        "title": "Anthropic launches Claude Life Sciences for research using AI",
+        "description": "Anthropic on Monday announced a new service called Claude of Life Sciences that uses artificial intelligence in efforts to advance scientific discovery.",
+        "content": "Oct. 20 (UPI) -- Anthropic on Monday announced a new service called Claude of Life Sciences that uses artificial intelligence in efforts to advance scientific discovery.\nThis is the San Francisco-based tech company's first formal entry into life scie... [4636 chars]",
+        "url": "https://www.upi.com/Science_News/2025/10/20/Anthropic-launches-Caude-Life-Sciences-reasearch-using-AI/5701760979687/",
+        "image": "https://cdnph.upi.com/sv/ph/og/i/5701760979687/2025/1/17609831598617/v1.5/Anthropic-launches-Claude-Life-Sciences-for-research-using-AI.jpg",
+        "publishedAt": "2025-10-20T18:46:03Z",
+        "lang": "en",
+        "source": {
+            "id": "79baacd62152cf257ee35e8c0bec19a2",
+            "name": "UPI News",
+            "url": "https://www.upi.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "31dfe56a757dbf400518a430139816b9",
+        "title": "Australians turning to ChatGPT and other AI for financial advice warned to tread with caution",
+        "description": "When Georgina Doll was looking to buy a home, generative artificial intelligence was one of the sources she turned to for advice.",
+        "content": "When Georgina Doll was looking to buy a home, generative artificial intelligence was one of the sources she turned to for advice.\n\"When I was choosing my home loan product, I would put in a few examples of different interest rates and I would get it ... [3331 chars]",
+        "url": "https://www.abc.net.au/news/2025-10-21/using-ai-chatgpt-for-financial-advice/105882042",
+        "image": "https://live-production.wcms.abc-cdn.net.au/c6fa7f5ae0b3527700fb2a56fff3434e?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=159&width=862&height=485&imformat=generic",
+        "publishedAt": "2025-10-20T18:41:43Z",
+        "lang": "en",
+        "source": {
+            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+            "name": "ABC (Australian Broadcasting Corporation)",
+            "url": "https://www.abc.net.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "d412d94deb1bed569a39fc33524938c4",
+        "title": "Starbucks CEO Teases ‘AI Barista’ That Assists in Making Coffee",
+        "description": "Starbucks CEO Brian Niccol revealed plans to incorporate more artificial intelligence, including Green Dot Assist, that will change how customers order.",
+        "content": "As artificial intelligence continues to influence nearly every industry, Starbucks is actively taking steps to incorporate the controversial technology into its operations.\nThe coffee chain’s CEO Brian Niccol discussed the matter during an appearance... [5903 chars]",
+        "url": "https://www.today.com/food/news/starbucks-ceo-ai-barista-green-dot-assist-rcna238648",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-10/starbucks-green-dot-assist-eb-251020-af08c2.jpg",
+        "publishedAt": "2025-10-20T18:39:03Z",
+        "lang": "en",
+        "source": {
+            "id": "8fb6e86db0fdf9e46cb25e773e690dfc",
+            "name": "TODAY",
+            "url": "https://www.today.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "956885e4983ee4ee8afde78623ff58bb",
         "title": "Optical system achieves terabit-per-second capacity and integrates quantum cryptography for long-term security",
         "description": "The artificial intelligence (AI) boom has created unprecedented demand for data traffic. But the infrastructure needed to support it faces mounting challenges. AI data centers must deliver faster, more reliable communication than ever before, while also confronting their soaring electricity use and a looming quantum security threat, which could one day break today's encryption methods.",
@@ -77,86 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "2fa36676e57d21c03b1416b7e2df973f",
-        "title": "AI startup InvestorSight, advisory firm Longacre Square announce partnership",
-        "description": "Corporate advisory firm Longacre Square Partners has formed a strategic partnership with artificial intelligence startup InvestorSight to give its clients access to AI tools to assess investor behavior in takeovers and board fights.",
-        "content": "NEW YORK, Oct 20 (Reuters) - Corporate advisory firm Longacre Square Partners has formed a strategic partnership with artificial intelligence startup InvestorSight to give its clients access to AI tools to assess investor behavior in takeovers and bo... [925 chars]",
-        "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/ai-startup-investorsight-advisory-firm-longacre-square-announce-partnership-2025-10-20/",
-        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-10-20T16:42:14Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3b9bb5a9679be1d374cd8663f015d234",
-        "title": "AI startups promote rigid 72",
-        "description": "As the artificial intelligence race heats up, many start-ups in Silicon Valley and New York are promoting hardcore culture as a way of life, pushing the limits of work hours.",
-        "content": "“Most of the stuff people count as work I don’t,” the 24-year-old said. “It’s like playing video games; we can do this all day.”\nThe grind culture that birthed many Big Tech companies from Google to Amazon is back. (Amazon founder Jeff Bezos owns The... [5692 chars]",
-        "url": "https://www.bostonglobe.com/2025/10/20/business/startups-hardcore-work-hours/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/T2VMTXQEHBA6PPLPQ36HIIXDUQ.jpg?auth=9f0b6ea16767a52c9105efb4bc96d0df9483776821853aeacce712690983ea28&width=1440",
-        "publishedAt": "2025-10-20T16:23:05Z",
-        "lang": "en",
-        "source": {
-            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-            "name": "The Boston Globe",
-            "url": "https://www.bostonglobe.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "8b89faea378373d52ebd2d696b072424",
-        "title": "'AI homeless man:' TikTok prank leads to teen arrests, parental anxiety",
-        "description": "A new social media trend using artificial intelligence is prompting police responses around the country as teen users are creating AI-edited images showing what",
-        "content": "A new social media trend using artificial intelligence is prompting police responses around the country as teen users are creating AI-edited images showing what appears to be a homeless man inside their home.\nThe viral trend seen on TikTok is known a... [2748 chars]",
-        "url": "https://wjla.com/news/nation-world/ai-homeless-man-tiktok-prank-leads-to-teen-arrests-parental-anxiety-artificial-intelligence-fake-images-video-police-yonkers-salem-ohio",
-        "image": "https://wjla.com/resources/media/e1f4c063-720c-41a6-8a21-36d1394fcb58-large16x9_AP18092481539538.jpg?1522715473556",
-        "publishedAt": "2025-10-20T16:14:06Z",
-        "lang": "en",
-        "source": {
-            "id": "2f5884e252590f739df55c0e7db375df",
-            "name": "WJLA",
-            "url": "https://wjla.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "65f8e39f4b988af7b29148d79db0c321",
-        "title": "'AI homeless man:' TikTok prank leads to teen arrests, parental anxiety",
-        "description": "A new social media trend using artificial intelligence is prompting police responses around the country as teen users are creating AI-edited images showing what",
-        "content": "A new social media trend using artificial intelligence is prompting police responses around the country as teen users are creating AI-edited images showing what appears to be a homeless man inside their home.\nThe viral trend seen on TikTok is known a... [2748 chars]",
-        "url": "https://foxbaltimore.com/news/nation-world/ai-homeless-man-tiktok-prank-leads-to-teen-arrests-parental-anxiety-artificial-intelligence-fake-images-video-police-yonkers-salem-ohio",
-        "image": "https://foxbaltimore.com/resources/media/e1f4c063-720c-41a6-8a21-36d1394fcb58-large16x9_AP18092481539538.jpg?1522715473556",
-        "publishedAt": "2025-10-20T16:14:06Z",
-        "lang": "en",
-        "source": {
-            "id": "9f53afb019d44feb16bcc7da150e679a",
-            "name": "Baltimore News",
-            "url": "https://foxbaltimore.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "31b570c86f9ec720a099f3968e260429",
-        "title": "AI meets archeology in the hands of Saudi innovator",
-        "description": "ALKHOBAR: For Saudi innovator Hanin Al-Zahrani, the past is not a distant memory — it is data waiting to be decoded. At 24, Al-Zahrani is one of the few specialists in Saudi Arabia working at the intersection of archeology and artificial intelligence. Through her two startups, ArchTech and AeroQuest, she is redefining how cultural heritage can be preserved, translated, and",
-        "content": "ALKHOBAR: For Saudi innovator Hanin Al-Zahrani, the past is not a distant memory — it is data waiting to be decoded.\nAt 24, Al-Zahrani is one of the few specialists in Saudi Arabia working at the intersection of archeology and artificial intelligence... [7611 chars]",
-        "url": "https://www.arabnews.com/node/2619551/saudi-arabia",
-        "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2025/10/20/4650281-628250280.jpeg?itok=1EEL5Hz_",
-        "publishedAt": "2025-10-20T15:32:56Z",
-        "lang": "en",
-        "source": {
-            "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
-            "name": "Arab News",
-            "url": "https://www.arabnews.com",
-            "country": "ar"
         }
     }
 ]
