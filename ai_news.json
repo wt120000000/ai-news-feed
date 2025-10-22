@@ -1,5 +1,37 @@
 [
     {
+        "id": "9f356262e4c9fd50634d3334173c7e28",
+        "title": "AI assistants make widespread errors about the news, new research shows",
+        "description": "The international research studies 3,000 responses to questions about the news from leading artificial intelligence assistants",
+        "content": "GENEVA, Switzerland – Leading AI assistants misrepresent news content in nearly half their responses, according to new research published on Wednesday, October 22, by the European Broadcasting Union (EBU) and the BBC.\nThe international research studi... [2356 chars]",
+        "url": "https://www.rappler.com/technology/ai-assistants-errors-news-research/",
+        "image": "https://www.rappler.com/tachyon/2025/01/artificial-intelligence-graphics-january-27-2025-reuters.jpg",
+        "publishedAt": "2025-10-22T04:39:20Z",
+        "lang": "en",
+        "source": {
+            "id": "1290fbc1799ff6b270a6f8b7e9761c18",
+            "name": "Rappler",
+            "url": "https://www.rappler.com",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "10915faec34823911f15acce14c905ce",
+        "title": "Taiwan Launches Asia Innovation Capital Initiative to Become AI Hub",
+        "description": "TAIPEI, Oct. 22, 2025 /PRNewswire/ -- The Financial Supervisory Commission (FSC), in collaboration with the Taiwan Stock Exchange (TWSE) and Taipei Exchange (TPEx), has launched the Asia Innovation Capital initiative, a strategic program led by the FSC to strengthen Taiwan's capital markets and establish the market as a regional hub for innovation and artificial intelligence.",
+        "content": "TAIPEI, Oct. 22, 2025 /PRNewswire/ -- The Financial Supervisory Commission (FSC), in collaboration with the Taiwan Stock Exchange (TWSE) and Taipei Exchange (TPEx), has launched the Asia Innovation Capital initiative, a strategic program led by the F... [2608 chars]",
+        "url": "https://www.manilatimes.net/2025/10/22/tmt-newswire/pr-newswire/taiwan-launches-asia-innovation-capital-initiative-to-become-ai-hub/2205711",
+        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2025-10-22T04:38:19Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "9e2d9800ce77963b4382bf1edd9f6908",
         "title": "Microsoft CEO Satya Nadella earns almost a whopping $100 million in FY25 - What fueled the hike?",
         "description": "Microsoft CEO Satya Nadella's compensation rose to $96.5 million for fiscal 2025, the highest since he became CEO over a decade ago. The increase is attributed to Microsoft's advancements in artificial intelligence, with 90% of his pay in company shares.",
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "35b17c09b6614b3113160c43903a476b",
-        "title": "Calling AI a cancer cure is premature, but it's our strongest weapon yet: Dr Puri",
-        "description": "Artificial Intelligence is revolutionising oncology from detecting cancer earlier and faster to designing personalised therapies. But can it really make cancer curable? Dr. Sunil Kumar Puri, Director of Radiology at RGCIRC, explains.",
-        "content": "Artificial Intelligence (AI) is no longer just a futuristic tool in medicine, it’s a present-day partner in fighting cancer. In oncology, AI is driving breakthroughs in how cancers are detected, treated, and monitored. “AI is bridging crucial gaps ac... [3912 chars]",
-        "url": "https://www.indiatoday.in/health/story/calling-ai-a-cancer-cure-is-premature-but-its-our-strongest-weapon-yet-dr-puri-2806259-2025-10-22",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/artificial-intelligence-is-revolutionising-oncology-from-detecting-cancer-earlier-and-faster-to-desi-212514679-16x9_0.jpg?VersionId=Ds6QQG3XVQDNeRZSyj8obOAzVXqZo4vV",
-        "publishedAt": "2025-10-22T03:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "39c45634f16cfe55819a35e2c0e9498a",
-        "title": "SoftBank Group Shares Hammered by Profit-Taking",
-        "description": "By Kosaku Narioka\nSoftBank Group shares fell sharply on profit-taking following the widely anticipated election of Sanae Takaichi, a supporter of artificial intelligence and other high-tech...",
-        "content": "By Kosaku Narioka\nSoftBank Group shares fell sharply on profit-taking following the widely anticipated election of Sanae Takaichi, a supporter of artificial intelligence and other high-tech sectors, as Japan's new prime minister.\nShares were recently... [988 chars]",
-        "url": "https://www.marketscreener.com/news/softbank-group-shares-hammered-by-profit-taking-ce7d5ddada88ff2d",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2025-10-22T02:58:13Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
