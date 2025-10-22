@@ -1,5 +1,149 @@
 [
     {
+        "id": "2d6da8c62fa8f2e882012061e93582ac",
+        "title": "Why OpenAI Co-Founder Believes AGI Won’t Arrive in the Next Decade",
+        "description": "Even as OpenAI invests billions in compute to accelerate the path to AGI, former co-founder Andrej Karpathy believes true AGI remains a decade away. In a recent podcast with Dwarkesh Patel, he opined that while AI agents like Claude and Codex are impressive, achieving artificial general intelligence (AGI) still feels distant.",
+        "content": "Is Agentic Coding Just a Smart Intern Pretending to Know More?\nDevelopers point out that guiding an AI agent to perform technical tasks correctly demands significant human effort and time.\nBengaluru’s Innovation Mojo, Now Shifting to Mysuru?\nOver the... [862 chars]",
+        "url": "https://analyticsindiamag.com/global-tech/why-openai-co-founder-believes-agi-wont-arrive-in-the-next-decade/",
+        "image": "https://analyticsindiamag.com/wp-content/uploads/2025/10/AGI-OpenAI.jpg",
+        "publishedAt": "2025-10-22T10:12:48Z",
+        "lang": "en",
+        "source": {
+            "id": "628299239469ffa8b7dbb809aabbcc2e",
+            "name": "Analytics India Magazine",
+            "url": "https://analyticsindiamag.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "bd26ea3708780bdc4022cc767e8a2f43",
+        "title": "Can you spot the real Big Ben? Four out of five Brits now use AI",
+        "description": "Four out of five Brits are now using artificial intelligence in their everyday lives but 27 admit they know very little about it, according to new…",
+        "content": "Despite the technology becoming part of daily routines - from online shopping to making appointments - the findings reveal a gap between use and understanding.\nLess than half of people surveyed (49%) could correctly spot an AI-generated image of Big ... [4186 chars]",
+        "url": "https://www.lancashiretelegraph.co.uk/news/national/uk-today/25562138.can-spot-real-big-ben-four-five-brits-now-use-ai/",
+        "image": "https://www.lancashiretelegraph.co.uk/resources/images/20106152.jpg?type=og-image",
+        "publishedAt": "2025-10-22T10:07:25Z",
+        "lang": "en",
+        "source": {
+            "id": "12bd9b09a1d7744221166ca00643f2f7",
+            "name": "Lancashire Telegraph",
+            "url": "https://www.lancashiretelegraph.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "92223c984c4f8c729b7b5d5e8d329ef5",
+        "title": "How AI apps are reshaping retail ahead of holiday shopping season",
+        "description": "Increasingly, when consumers ask ChatGPT, Claude, and other artificial intelligence apps for advice on gift ideas, the responses come back with “buy” buttons.",
+        "content": "Last month, OpenAI introduced Instant Checkout, a technology that connects ChatGPT users to online stores and garnishes each recommendation with a “buy” button — enabling shoppers to complete a purchase without visiting a retail website. This technol... [4945 chars]",
+        "url": "https://www.bostonglobe.com/2025/10/22/business/ai-holiday-shopping-chatgpt/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/XBD5VHDSIFBPHKNPTO6RWGKTM4.jpg?auth=9951827fa38bdc5b0c2a36869f4fd125a8b223caa2d4f1824da361f5ddde1f37&width=1440",
+        "publishedAt": "2025-10-22T10:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3006eec83aa17a6f6b814dd9cb8611a3",
+        "title": "Apollo Says AI Energy Gap ‘Will Not Be Closed in Our Lifetime’",
+        "description": "The amount of energy required to supply the data centers powering artificial intelligence is so vast that meeting that need may be more than a lifetime away, according to a senior executive at Apollo Global Management Inc.",
+        "content": "The amount of energy required to supply the data centers powering artificial intelligence is so vast that meeting that need may be more than a lifetime away, according to a senior executive at Apollo Global Management Inc.\n“The gap between what AI is... [274 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-10-22/apollo-says-ai-energy-gap-will-not-be-closed-in-our-lifetime",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKp6bFImIaGU/v0/1200x800.jpg",
+        "publishedAt": "2025-10-22T10:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "95b462a9e360e1ab2be8ef40d035d482",
+        "title": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
+        "description": "Ukraine's state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.",
+        "content": "KYIV, Ukraine — Ukraine's state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\nUkraine has used the unmanned naval drones to ... [2192 chars]",
+        "url": "https://www.startribune.com/ukraine-unveils-upgraded-sea-drone-it-says-can-strike-anywhere-in-the-black-sea/601499090",
+        "image": "https://www.startribune.com/200.png",
+        "publishedAt": "2025-10-22T09:32:00Z",
+        "lang": "en",
+        "source": {
+            "id": "fca9664a9e215efa308045911cfc7fc3",
+            "name": "Star Tribune",
+            "url": "https://www.startribune.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "62d679dc5699b93cf045b5ba4ee690d2",
+        "title": "OpenAI Pays Ex-Bankers to Automate Junior Roles",
+        "description": "OpenAI has more than 100 ex-investment bankers helping train its artificial intelligence on how to build financial models as it looks to replace the hours of grunt work performed by junior bankers...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/openai-pays-ex-bankers-to-automate-junior-roles-ce7d5ddade8bf623",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3481216.png",
+        "publishedAt": "2025-10-22T09:31:44Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "3415cc292f8120a48cecb81b5d29e4a8",
+        "title": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
+        "description": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting. Ukraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has",
+        "content": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\nUkraine has used the unmanned naval drones to target Rus... [9139 chars]",
+        "url": "https://www.arabnews.com/node/2619787/world",
+        "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2025/10/22/4650844-41446811.jpg?itok=C2VkPfFr",
+        "publishedAt": "2025-10-22T09:31:20Z",
+        "lang": "en",
+        "source": {
+            "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+            "name": "Arab News",
+            "url": "https://www.arabnews.com",
+            "country": "ar"
+        }
+    },
+    {
+        "id": "53952269cdce309e297e34275a1b48b5",
+        "title": "Ukraine Unveils Upgraded Sea Drone It Says Can Strike Anywhere in the Black Sea",
+        "description": "KYIV, Ukraine (AP) — Ukraine's state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.",
+        "content": "KYIV, Ukraine (AP) — Ukraine's state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\nUkraine has used the unmanned naval drone... [3092 chars]",
+        "url": "https://www.usnews.com/news/technology/articles/2025-10-22/ukraine-unveils-upgraded-sea-drone-it-says-can-strike-anywhere-in-the-black-sea",
+        "image": "https://www.usnews.com/dims4/USNEWS/bff2320/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F29%2F467cce24a60333cb7510bf30719048%2F1d1b2265e34748ee803e6b48c610a303Russia_Ukraine_War_Sea_Drones_66255.jpg",
+        "publishedAt": "2025-10-22T09:31:00Z",
+        "lang": "en",
+        "source": {
+            "id": "37128a060981dbbe79321f096e7d1108",
+            "name": "U.S. News & World Report",
+            "url": "https://www.usnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "51d22b428238357e869520c9bef3a5b2",
+        "title": "Anterior Wins ‘Best Use of AI for Healthcare’ from The International Cloud Artificial Intelligence Awards Program",
+        "description": "Anterior Wins ‘Best Use of AI for Healthcare’ from The International Cloud Artificial Intelligence Awards Program",
+        "content": "New York, New York, Oct. 22, 2025 (GLOBE NEWSWIRE) -- Anterior, a healthtech AI company transforming clinical and operational workflows for payers, today announced that it has wonThe 2025 A.I. Awards for Best Use of AI for Healthcare.\n\"On behalf of t... [1612 chars]",
+        "url": "https://www.manilatimes.net/2025/10/22/tmt-newswire/globenewswire/anterior-wins-best-use-of-ai-for-healthcare-from-the-international-cloud-artificial-intelligence-awards-program/2205819",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/22/793331.jpg",
+        "publishedAt": "2025-10-22T09:19:29Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "a075c959946eb8a59f9c589a14f99742",
         "title": "India proposes strict rules to label AI content citing growing risks",
         "description": "India's government on Wednesday proposed that artificial intelligence and social media firms should clearly label AI-generated content to tackle the spread of deepfake and misinformation, prompted by similar moves by the European Union and China.",
@@ -13,150 +157,6 @@
             "name": "Reuters",
             "url": "https://www.reuters.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "fd1000081b2e9db0653f581673934489",
-        "title": "India proposes strict IT rules for labelling deepfakes amid AI misuse",
-        "description": "BENGALURU -India's government on Wednesday proposed new legal obligations for artificial intelligence and social media firms to tackle a growing proliferation of deepfakes online, by mandating them...",
-        "content": "BENGALURU (Reuters) -India's government on Wednesday proposed new legal obligations for artificial intelligence and social media firms to tackle a growing proliferation of deepfakes online, by mandating them to label such content as AI-generated.\nThe... [698 chars]",
-        "url": "https://www.marketscreener.com/news/india-proposes-strict-it-rules-for-labelling-deepfakes-amid-ai-misuse-ce7d5ddade89f624",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2025-10-22T09:09:15Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "162c56658cd057651f4fff93d7b74527",
-        "title": "PMA’S 54TH National Marketing Conference Bridges Content, Commerce & Customer Experience this October 23, 2025",
-        "description": "As Artificial Intelligence (AI) continues to reshape the global business landscape, the Philippine Marketing Association (PMA) puts innovation and",
-        "content": "As Artificial Intelligence (AI) continues to reshape the global business landscape, the Philippine Marketing Association (PMA) puts innovation and inclusion at the center of its upcoming 54th National Marketing Conference (NMC), happening on October ... [3527 chars]",
-        "url": "https://manilastandard.net/spotlight/314658453/pmas-54th-national-marketing-conference-bridges-content-commerce-customer-experience-this-october-23-2025.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/10/54th-National-Marketing-Conference.png",
-        "publishedAt": "2025-10-22T09:03:59Z",
-        "lang": "en",
-        "source": {
-            "id": "e9207083a357fb7e76b38e485888ebe7",
-            "name": "manilastandard.net",
-            "url": "https://manilastandard.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "471d893624ba41ab7e0c3ea2061b25e6",
-        "title": "1,480 apprentices trained in AI roles under NAPS",
-        "description": "The Skilling for AI Readiness (SOAR) program is fostering artificial intelligence (AI) driven education and skill development.",
-        "content": "New Delhi [India], October 22 (ANI): A total of 1,480 apprentices have been trained in AI-focused roles like AI Data Engineer and Machine Learning Engineer under the National Apprenticeship Promotion Scheme (NAPS-2) between FY 2022-23 and FY 2025-26,... [3048 chars]",
-        "url": "https://www.tribuneindia.com/news/business/1480-apprentices-trained-in-ai-roles-under-naps-2-between-fy23-and-fy26/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWUxNjhhMzYwLWFmMjQtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-        "publishedAt": "2025-10-22T08:55:33Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "bf99da5f437c2414762d337d1a05db35",
-        "title": "Johns Hopkins engineers use artificial intelligence to predict car crashes",
-        "description": "If you change the timing of a traffic light from 20 seconds to 30 seconds, a new artificial intelligence tool developed by Johns Hopkins University researchers",
-        "content": "If you change the timing of a traffic light from 20 seconds to 30 seconds, a new artificial intelligence tool developed by Johns Hopkins University researchers can predict how many more — or how many fewer — accidents will happen at that intersection... [979 chars]",
-        "url": "https://foxbaltimore.com/news/local/johns-hopkins-engineers-artificial-intelligence-predict-car-crashes",
-        "image": "https://foxbaltimore.com/resources/media/8f3917b3-9d67-4445-a6da-832510b77760-Screenshot20251022085344.png",
-        "publishedAt": "2025-10-22T08:54:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9f53afb019d44feb16bcc7da150e679a",
-            "name": "Baltimore News",
-            "url": "https://foxbaltimore.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "976f1d49950aa62b80a45c3a2e36fb8b",
-        "title": "Bonnie Blue 'gives up men and visits Mecca as she finds religion' in bizarre AI video",
-        "description": "Infamous adult star Bonnie Blue has given up her wild antics and found religion . . . in an alternate artificial intelligence-powered reality trending on TikTok",
-        "content": "Infamous adult star Bonnie Blue has given up her wild antics and found religion . . . in an alternate artificial intelligence-powered reality trending on TikTok\nBonnie Blue has given up men and found religion – kind of. In a world where almost every ... [2014 chars]",
-        "url": "https://www.dailystar.co.uk/news/latest-news/bonnie-blue-gives-up-men-36111834",
-        "image": "https://i2-prod.dailystar.co.uk/article36111867.ece/ALTERNATES/s1200/0_vlcsnap-2025-10-22-08h50m00s171.jpg",
-        "publishedAt": "2025-10-22T08:53:25Z",
-        "lang": "en",
-        "source": {
-            "id": "4300aa22a5f803b09a37ff0632b44685",
-            "name": "The daily Star",
-            "url": "https://www.dailystar.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "d721a2ff9eb8f48cc5fc085f80e25b9a",
-        "title": "India proposes new IT rules to tackle deepfakes",
-        "description": "India's government on Wednesday proposed new legal obligations for artificial intelligence and social media firms to tackle a growing proliferation of deepfakes online, by mandating them to label such...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/india-proposes-new-it-rules-to-tackle-deepfakes-ce7d5ddadf8eff21",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2025-10-22T08:44:34Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "fbf3c74320fc81a9246eb05007bf1dac",
-        "title": "AI Animation as a Revolution: How Artificial Intelligence Is Redefining Visual Storytelling and Brand Communication",
-        "description": "The visual content industry is undergoing a revolutionary transformation driven by generative artificial intelligence (AI). Animation studios and brands are no longer evaluating just the quality of the “image” but also the speed, flexibility, and scale of production. Today, “AI + animation” is not merely a technological novelty – it is a game-changing tool […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nThe visual content industry is undergoing a revolutionary transformation driven by generative artificial intelligence (AI). Animation studios and brands are no longer evaluating just the quality of the “image” but also t... [8408 chars]",
-        "url": "https://techbullion.com/ai-animation-as-a-revolution-how-artificial-intelligence-is-redefining-visual-storytelling-and-brand-communication/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/10/Screenshot-2025-10-22-131117.png",
-        "publishedAt": "2025-10-22T08:13:05Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "210a92b045b83822eb103d0f6939af60",
-        "title": "Elon Musk says AI will take every job and humans will be free to grow vegetables",
-        "description": "Tech billionaire Elon Musk has claimed that Artificial Intelligence (AI) and robots will take over all jobs in the future. However, he insists that humans won’t actually need to work and can grow vegetables if they wish to.",
-        "content": "Artificial Intelligence (AI) is transforming our society. AI can do a lot of tasks that previously depended on human input. This has led to fears that AI may soon replace humans in the workplace. This fear is not unjustified, with major companies suc... [2201 chars]",
-        "url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-ai-will-take-every-job-and-humans-will-be-free-to-grow-vegetables-2806590-2025-10-22",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/elon-musk-responds-to-siddharth-jain-17372776-16x9.jpg?VersionId=Cp6mDdR_22ibPm_nVOxHAE_FzHANCpBs",
-        "publishedAt": "2025-10-22T07:43:13Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "7cbaeb6af8dfe6280a916dec30ac93ed",
-        "title": "ACP Option Announces AI-Powered Upgrade to Enhance Crypto Trading Efficiency",
-        "description": "ACP option has introduced an updated version of its trading system built around adaptive artificial intelligence designed to increase operational efficiency and analytical precision. The new release reflects the company’s continued focus on technological advancement within the cryptocurrency sector, combining automation, data analysis, and performance monitoring into a unified framework. The upgrade arrives amid growing […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nACP option has introduced an updated version of its trading system built around adaptive artificial intelligence designed to increase operational efficiency and analytical precision. The new release reflects the company’... [7003 chars]",
-        "url": "https://techbullion.com/acp-option-announces-ai-powered-upgrade-to-enhance-crypto-trading-efficiency/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/10/unnamed-2025-10-22T004145.838.jpg",
-        "publishedAt": "2025-10-22T07:42:54Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
         }
     }
 ]
