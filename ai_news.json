@@ -48,6 +48,22 @@
         }
     },
     {
+        "id": "90ad70ba60c1a3566dcf4fd6c33f8e4f",
+        "title": "Florida law targets using AI to ‘nudify’ people’s photos",
+        "description": "A sweeping new Florida law that took effect Oct. 1 makes it illegal to produce sexual images of a person using artificial intelligence or similar technologies without their permission.",
+        "content": "A sweeping new Florida law that took effect Oct. 1 makes it illegal to produce sexual images of a person using artificial intelligence or similar technologies without their permission.\nThe new law also allows people whose photographs were manipulated... [4756 chars]",
+        "url": "https://www.aroundosceola.com/index.php/news/florida-law-targets-using-ai-nudify-peoples-photos",
+        "image": "http://www.aroundosceola.com/sites/aroundosceola.com/files/4fb86fbf7c_Ar00801012.jpg",
+        "publishedAt": "2025-10-22T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "4ecbadd82aa9fe7a52c0a3b5454020ab",
+            "name": "Around Osceola",
+            "url": "https://www.aroundosceola.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "228eb3665eb8022d7a6d2093947f10db",
         "title": "AI not a reliable source of news, EU media study says",
         "description": "Paris, France—Artificial intelligence assistants such as ChatGPT made errors about half the time when asked about news events, according to a vast",
@@ -141,22 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "553d4c33e039ac57e2b894e4cfbb2278",
-        "title": "OpenAI launches AI-powered browser, ChatGPT Atlas",
-        "description": "OpenAI launched its first AI-powered web browser, ChatGPT Atlas, on Tuesday, positioning the artificial intelligence giant in direct competition with Google’s Chrome.",
-        "content": "OpenAI has launched its own artificial intelligence-powered web browser, ChatGPT Atlas, placing the AI giant in direct competition with Google’s Chrome browser, the company announced Tuesday.\n“We think that AI represents a rare, once-a-decade opportu... [1393 chars]",
-        "url": "https://www.nydailynews.com/2025/10/21/openai-ai-browser-chatgpt-atlas/",
-        "image": "https://www.nydailynews.com/wp-content/uploads/2023/12/shutterstock_2240464447.jpg?w=1024&h=683",
-        "publishedAt": "2025-10-21T22:07:36Z",
-        "lang": "en",
-        "source": {
-            "id": "3fac65098bad206a4847f7fdbac9f170",
-            "name": "New York Daily News",
-            "url": "https://www.nydailynews.com",
-            "country": "us"
         }
     }
 ]
