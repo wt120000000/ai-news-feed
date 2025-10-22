@@ -1,5 +1,21 @@
 [
     {
+        "id": "39c45634f16cfe55819a35e2c0e9498a",
+        "title": "SoftBank Group Shares Hammered by Profit-Taking",
+        "description": "By Kosaku Narioka\nSoftBank Group shares fell sharply on profit-taking following the widely anticipated election of Sanae Takaichi, a supporter of artificial intelligence and other high-tech...",
+        "content": "By Kosaku Narioka\nSoftBank Group shares fell sharply on profit-taking following the widely anticipated election of Sanae Takaichi, a supporter of artificial intelligence and other high-tech sectors, as Japan's new prime minister.\nShares were recently... [988 chars]",
+        "url": "https://www.marketscreener.com/news/softbank-group-shares-hammered-by-profit-taking-ce7d5ddada88ff2d",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2025-10-22T02:58:13Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "dfec4c44e2a2f5b4401eb591cb28d541",
         "title": "OpenAI unveils search browser in challenge to Google",
         "description": "ChatGPT-maker OpenAI on Oct 21 announced an \"Atlas\" search browser, leveraging its artificial intelligence prowess in a direct challenge to Google Chrome.",
@@ -141,22 +157,6 @@
             "name": "manilastandard.net",
             "url": "https://manilastandard.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "c7e3c3dbf6e3fe5daf8dcf864339bfcd",
-        "title": "Meta in $27 billion financing deal with Blue Owl Capital for Louisiana data center",
-        "description": "(Reuters) -Meta has struck a $27 billion financing deal with Blue Owl Capital to fund its biggest data center project globally, as large technology companies race to build out the infrastructure needed to power their artificial intelligence ambitions.",
-        "content": "(Reuters) -Meta has struck a $27 billion financing deal with Blue Owl Capital to fund its biggest data center project globally, as large technology companies race to build out the infrastructure needed to power their artificial intelligence ambitions... [1907 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/22/meta-forms-joint-venture-with-blue-owl-capital-for-louisiana-data-center",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/22/3581345.jpg",
-        "publishedAt": "2025-10-21T23:17:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
