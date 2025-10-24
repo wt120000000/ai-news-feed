@@ -1,5 +1,37 @@
 [
     {
+        "id": "389876d93d807c3307a6f4e26765cfea",
+        "title": "AI can help the environment, even though it uses tremendous energy. Here are 5 ways how",
+        "description": "Artificial intelligence has caused concern for its tremendous consumptionof water and power. But scientists are also experimenting with ways that AI can help people and businesses use energy more efficiently and pollute less.",
+        "content": "Artificial intelligence has caused concern for its tremendous consumptionof water and power. But scientists are also experimenting with ways that AI can help people and businesses use energy more efficiently and pollute less.\nData centers needed to f... [6408 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/24/ai-can-help-the-environment-even-though-it-uses-tremendous-energy-here-are-5-ways-how",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/23/3584329.jpg",
+        "publishedAt": "2025-10-24T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "ab8c94d662cdb729e6fe8b39d60d8614",
+        "title": "Meta cuts 600 jobs amid AI expansion push — as automation replaces human staff",
+        "description": "Meta is cutting 600 jobs in its artificial intelligence unit to boost efficiency, with the company citing overly bureaucratic processes.",
+        "content": "Meta is cutting around 600 jobs within its artificial intelligence unit, a move it says aims to boost efficiency.\nThe layoffs to Meta's Superintelligence Labs division, which has nearly 3,000 employees, come as the company's efforts to lean into AI h... [1922 chars]",
+        "url": "https://www.foxbusiness.com/technology/meta-cuts-600-jobs-amid-ai-expansion-push-automation-replaces-human-staff",
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/06/0/0/GettyImages-944827400.jpg?ve=1&tl=1",
+        "publishedAt": "2025-10-24T02:58:50Z",
+        "lang": "en",
+        "source": {
+            "id": "1b97b25c0ec482f85326378f82f7f815",
+            "name": "Fox Business",
+            "url": "https://www.foxbusiness.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "8a385f3f7fede6c9c85acab07b06ed95",
         "title": "Palantir CEO says company is in an AI 'arms race' after deal with Lumen",
         "description": "Palantir CEO Alex Karp said his company is in an artificial intelligence arms race with its competitors, after reaching a deal with Lumen Technologies.",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "7251628715b847bd4be57bf0dfe51c27",
-        "title": "Who really decides the raise? More Americans say it’s no longer the boss, but AI",
-        "description": "News News: Artificial intelligence is increasingly influencing how Americans are paid, shaping salary hikes, bonuses, and performance reviews with data-driven pr",
-        "content": "Artificial intelligence is increasingly influencing how Americans are paid, shaping salary hikes, bonuses, and performance reviews with data-driven precision. A Resume Now report finds 56% of US workers see AI’s role in pay as already larger than thr... [4520 chars]",
-        "url": "https://timesofindia.indiatimes.com/education/news/who-really-decides-the-raise-more-americans-say-its-no-longer-the-boss-but-ai/articleshow/124774095.cms",
-        "image": "https://static.toiimg.com/thumb/msid-124774111,width-1070,height-580,imgsize-18464,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-10-24T00:18:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "3192482727179b479fb5a673a5171e94",
-        "title": "Apple begins shipping AI servers from Houston factory",
-        "description": "SAN FRANCISCO (Reuters) -Apple has started shipping artificial intelligence servers built in a factory in Houston, it said on Thursday, part of the company's plans to invest $600 billion in the U.S. in the next few years.",
-        "content": "SAN FRANCISCO (Reuters) -Apple has started shipping artificialintelligence servers built in a factory in Houston, it said on Thursday, part of the company's plans to invest $600 billion in the U.S. in the next few years.\nThe servers contain special c... [818 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/24/apple-begins-shipping-ai-servers-from-houston-factory-",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/24/3585539.jpg",
-        "publishedAt": "2025-10-24T00:13:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
