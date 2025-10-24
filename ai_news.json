@@ -1,5 +1,85 @@
 [
     {
+        "id": "66f8f30f53ecd35d4af59b24801ce708",
+        "title": "AI Superintelligence Prohibition Called for by Hundreds of High-Profile Figures",
+        "description": "A new statement calls for a pause on developing superintelligent artificial intelligence until it can be deemed safe.",
+        "content": "The rapid advancements in AI have raised quite a few eyebrows, as big tech companies like Google, Grok, Meta and OpenAI race to create the smartest models at a breakneck pace. And despite the potential benefits of what AI could do, there are just as ... [1616 chars]",
+        "url": "https://www.cnet.com/tech/services-and-software/ai-superintelligence-prohibition-called-for-by-hundreds-of-high-profile-figures/",
+        "image": "https://www.cnet.com/a/img/resize/8145d9fa5ac8068fd30bc68650c50371a6d006ea/hub/2024/04/24/02a0ce3b-a5e3-45e4-818f-f34bd5510376/tips-ai.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-10-23T19:16:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6f4f13c21bb217801ab4b37c367f97aa",
+            "name": "CNET",
+            "url": "https://www.cnet.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "0a16745c07ed18f56f2f47f2a95a7a58",
+        "title": "Technique allows estimation of the force acting on each grain of sand in a dune",
+        "description": "Brazilian researchers have developed a technique that estimates the force exerted on each grain of sand in a dune from images. This method, which is based on numerical simulations and artificial intelligence (AI), transforms the study of granular system dynamics and paves the way for investigating previously unmeasurable physical processes. Applications range from civil engineering to space exploration.",
+        "content": "Brazilian researchers have developed a technique that estimates the force exerted on each grain of sand in a dune from images. This method, which is based on numerical simulations and artificial intelligence (AI), transforms the study of granular sys... [5505 chars]",
+        "url": "https://phys.org/news/2025-10-technique-grain-sand-dune.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2025/technique-allows-estim.jpg",
+        "publishedAt": "2025-10-23T19:14:04Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "061f65b7d3c0df3ad18a8ab2fe7640cb",
+        "title": "Robby Starbuck sues Google, alleges ‘outrageously false’ claims made by AI",
+        "description": "Conservative activist Robby Starbuck believes his lawsuit against Google could be a landmark case to crackdown on artificial intelligence that harms humans.",
+        "content": "EXCLUSIVE — Conservative activist Robby Starbuck spoke out about the \"crazy\" situation that forced him to file a lawsuit against Google on Wednesday seeking at least $15 million, alleging the company’s artificial intelligence programs defamed him by ... [4899 chars]",
+        "url": "https://www.foxbusiness.com/media/robby-starbuck-why-he-sued-google-outrageously-false-information-through-artificial-intelligence",
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/0/0/robby-starbuck-interview-google.jpg?ve=1&tl=1",
+        "publishedAt": "2025-10-23T18:58:11Z",
+        "lang": "en",
+        "source": {
+            "id": "1b97b25c0ec482f85326378f82f7f815",
+            "name": "Fox Business",
+            "url": "https://www.foxbusiness.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "f11081cdf5e807063b0ff2396e1344b8",
+        "title": "Raised AI Expands AI Hiring Solutions, Helping Companies Find Top Talent",
+        "description": "Raised AI uses artificial intelligence to cut hiring costs, accelerate recruitment, and match top-tier crypto and Web3 professionals with precision.",
+        "content": "Written by Spencer Hulse\nThe founder of Raised AI, a company that helps businesses improve the efficiency and speed of hiring through artificial intelligence, Roman Ishchenko, shared how technology enables companies to reduce costs and find the right... [11581 chars]",
+        "url": "https://www.thestreet.com/crypto/newsroom/raised-ai-revolutionizes-hiring-efficiency",
+        "image": "https://www.thestreet.com/.image/t_share/MjE4NjU2OTYwMDU5Mjg3Mzg4/image-placeholder-title.jpg",
+        "publishedAt": "2025-10-23T18:48:03Z",
+        "lang": "en",
+        "source": {
+            "id": "6f97df9bf07dbbc5b124859805bffd6f",
+            "name": "The Street",
+            "url": "https://www.thestreet.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "95c1f7a672a1abb5bc93ea4dc51b0899",
+        "title": "OpenAI acquires AI startup Software Applications",
+        "description": "OpenAI (OPENAI) said on Thursday that it has acquired artificial intelligence startup Software Applications, maker of the Sky language interface for macOS. Read for more.",
+        "content": "OpenAI acquires AI startup Software Applications\nOct. 23, 2025 2:32 PM ETOpenAI (OPENAI) Stock, AAPL StockBy : Chris Ciaccia, SA News Editor\nComments\nOpenAI (OPENAI) said on Thursday that it has acquired artificial intelligence startup Software Appli... [354 chars]",
+        "url": "https://seekingalpha.com/news/4507778-openai-acquires-ai-startup-software-applications",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2176053749/image_2176053749.jpg?io=getty-c-w630",
+        "publishedAt": "2025-10-23T18:32:57Z",
+        "lang": "en",
+        "source": {
+            "id": "a6d401909ca644c4ffb332486c9cfaea",
+            "name": "Seeking Alpha",
+            "url": "https://seekingalpha.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d4ab36c257a5bbd11939991facbc0b44",
         "title": "Google Backs Carbon-Captured Gas to Power Its AI Future",
         "description": "Google has signed the first U.S. corporate power purchase agreement involving natural gas with carbon capture, marking a major shift in how Big Tech plans to fuel the data-hungry future of artificial intelligence.",
@@ -77,86 +157,6 @@
             "name": "NDTV Profit",
             "url": "https://www.ndtvprofit.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "6ddb1b9dc6e243eba91314f2a2c54b56",
-        "title": "MeitY Hosts Curtain Raiser for ESTIC 2025, Emphasising AI for Social Impact",
-        "description": "The 2025 edition will focus on “Artificial Intelligence for Social Impact”, reflecting India’s determination to harness AI for inclusive growth and digital empowerment.",
-        "content": "The Ministry of Electronics and Information Technology (MeitY) hosted a Curtain Raiser event on October 23, 2025, to kick off preparations for the upcoming Emerging Science, Technology, and Innovation Conclave (ESTIC) 2025. The event sought to build ... [5617 chars]",
-        "url": "https://www.devdiscourse.com/article/law-order/3672296-meity-hosts-curtain-raiser-for-estic-2025-emphasising-ai-for-social-impact",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_10_2025_23_22_28_9721186.jfif?width=920&format=jpeg",
-        "publishedAt": "2025-10-23T17:52:28Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a52c15d985ee45b29b877d8ce202091e",
-        "title": "UAE President issues resolution reconstituting Artificial Intelligence & Advanced Technology Council",
-        "description": "The Council's membership includes Khaldoon Khalifa Al Mubarak, as Secretary-General of the Council, Dr. Ahmed Mubarak bin Nawi Al Mazrouei, Dr. Sultan Ahmed Al Jaber, Jassem Mohamed Bu Ataba Al Zaabi, Humaid Obaid Abushibs, Mohamed Hassan Al Suwaidi, Faisal Abdulaziz Al Bannai, Ahmed Tamim Hisham Al Kuttab, and Peng Xiao.",
-        "content": "Abu Dhabi [UAE], October 23 (WAM/ANI): In his capacity as Ruler of Abu Dhabi, President Sheikh Mohamed bin Zayed Al Nahyan has issued a resolution to reconstitute the Artificial Intelligence and Advanced Technology Council (AIATC), chaired by HH Shei... [1359 chars]",
-        "url": "https://www.tribuneindia.com/news/world/uae-president-issues-resolution-reconstituting-artificial-intelligence-advanced-technology-council/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJjM2E3NDUwLWIwMzgtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-        "publishedAt": "2025-10-23T17:50:12Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "85bccd175ac97d7098e8b746e1101591",
-        "title": "UAE President issues resolution reconstituting Artificial Intelligence & Advanced Technology Council",
-        "description": "UAE President issues resolution reconstituting Artificial Intelligence & Advanced Technology Council - Abu Dhabi [UAE], October 23 (WAM/ANI): In his capacity as Ruler of Abu Dhabi, President Sheikh Mohamed bin Zayed ... Get Latest News on International only on lokmattimes.com",
-        "content": "Abu Dhabi [UAE], October 23 (WAM/ANI): In his capacity as Ruler of Abu Dhabi, President Sheikh Mohamed bin Zayed Al Nahyan has issued a resolution to reconstitute the Artificial Intelligence and Advanced Technology Council (AIATC), chaired by HH Shei... [1340 chars]",
-        "url": "https://www.lokmattimes.com/international/uae-president-issues-resolution-reconstituting-artificial-intelligence-advanced-technology-council/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251023174337_202510.jpg",
-        "publishedAt": "2025-10-23T17:47:34Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "0c1ca4ed7da826dc5be800c084a2d10b",
-        "title": "Can India's balanced approach to AI regulation foster innovation without stifling progress?",
-        "description": "The Competition Commission of India (CCI) is diving deep into the world of Artificial Intelligence, taking a thoughtful detour compared to regions hurriedly implementing regulations. Their latest findings outline both the promising opportunities and potential dangers of AI, advocating for a thorough understanding before any regulatory action.",
-        "content": "Synopsis\nThe Competition Commission of India (CCI) is diving deep into the world of Artificial Intelligence, taking a thoughtful detour compared to regions hurriedly implementing regulations. Their latest findings outline both the promising opportuni... [5570 chars]",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/can-indias-balanced-approach-to-ai-regulation-foster-innovation-without-stifling-progress/articleshow/124768138.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-13568,resizemode-75,msid-124768138/opinion/et-commentary/can-indias-balanced-approach-to-ai-regulation-foster-innovation-without-stifling-progress.jpg",
-        "publishedAt": "2025-10-23T17:37:31Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "32f47488e81ff3e63aff449efe70f8d2",
-        "title": "Microsoft debuts Mico, Copilot's AI alternative to Clippy",
-        "description": "Microsoft introduced a new artificial intelligence character called Mico (pronounced MEE'koh) on Thursday.",
-        "content": "Clippy, the animated paper clip that annoyed Microsoft Office users nearly three decades ago, might have just been ahead of its time.\nMicrosoft introduced a new artificial intelligence character called Mico (pronounced MEE’koh) on Thursday, a floatin... [5428 chars]",
-        "url": "https://www.fastcompany.com/91427839/microsoft-mico-copilot-ai-assistant",
-        "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2025/10/AP25296293306874.jpg",
-        "publishedAt": "2025-10-23T17:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5ac5f32ba74846cef441099f666f2d98",
-            "name": "Fast Company",
-            "url": "https://www.fastcompany.com",
-            "country": "us"
         }
     }
 ]
