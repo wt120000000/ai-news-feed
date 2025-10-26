@@ -1,5 +1,37 @@
 [
     {
+        "id": "8317d33ee3762c058f82f3ec611a74e7",
+        "title": "Motley Fool: Broadcom: Chips and More",
+        "description": "The market for semiconductors is red-hot, as investment continues to pour into data centers for artificial intelligence (AI). Research company IDTechEx expects the market for AI chips to exceed $400 billion by 2030. While graphics processing unit (GPU) leader Nvidia is a popular pick, investors should also consider Broadcom (Nasdaq: AVGO).",
+        "content": "The market for semiconductors is red-hot, as investment continues to pour into data centers for artificial intelligence (AI). Research company IDTechEx expects the market for AI chips to exceed $400 billion by 2030. While graphics processing unit (GP... [4129 chars]",
+        "url": "https://www.spokesman.com/stories/2025/oct/26/motley-fool-broadcom-chips-and-more/",
+        "image": "https://thumb.spokesman.com/SbO6q-Q9atRVyicvkjlP2eo646Q=/1200x630/smart/media.spokesman.com/photos/2025/10/23/68f90d21d0fec.hires.jpg",
+        "publishedAt": "2025-10-26T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c8c865ed042eb14694b8d596e22efe99",
+            "name": "Spokane Spokesman-Review",
+            "url": "https://www.spokesman.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "58dcce2810ba8450a0cf1d274e9f6905",
+        "title": "Dr Ranjit honoured with award for works in knee replacement surgery",
+        "description": "Excelsior Correspondent JALANDHAR, Oct 25: The renowned orthopaedic surgeon Dr Ranjit Singh was today conferred with the Excellence Award for his outstanding contributions to the field of knee replacement surgery, particularly for his innovation and mastery in the “Zero Technique”, a procedure powered by Artificial Intelligence. The award was presented by Governor of Sikkim, Gurbachan Jagat. The event also witnessed the esteemed presence of Punjab Governor, Gulab Chand Kataria, who addressed the gathering and lauded Dr Singh’s dedication and precision […]",
+        "content": "Excelsior Correspondent\nJALANDHAR, Oct 25: The renowned orthopaedic surgeon Dr Ranjit Singh was today conferred with the Excellence Award for his outstanding contributions to the field of knee replacement surgery, particularly for his innovation and ... [1513 chars]",
+        "url": "https://www.dailyexcelsior.com/dr-ranjit-honoured-with-award-for-works-in-knee-replacement-surgery/",
+        "image": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/10/page11-1-3.jpg",
+        "publishedAt": "2025-10-25T23:29:14Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "d250f6e9f18ebb1c83f7ae3d327044c7",
         "title": "Apple starts shipping AI servers from the Houston factory",
         "description": "NEW DELHI, Oct 25: Cupertino-based tech giant Apple has started shipping artificial intelligence (AI) servers, which are built in its Houston facility. Artificial Intelligence (AI) servers are specialized, high-performance computing systems that are specially designed to handle the intense processing demands of AI and machine learning workloads. Apple CEO Tim Cook posted on X, “Apple’s American-made advanced servers are now shipping from our new Houston facility to Apple data centers! These servers will help power Private Cloud Compute and Apple […]",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "2657a19a564f35b6463599fa6a0342de",
-        "title": "Salesforce expands Philippine operations, deepens AI collaboration",
-        "description": "SAN FRANCISCO, California — Cloud-based software company Salesforce is expanding its presence in the Philippines, citing strong demand for artificial intelligence (AI) solutions and digital transformation among local enterprises.",
-        "content": "SAN FRANCISCO, California — Cloud-based software company Salesforce is expanding its presence in the Philippines, citing strong demand for artificial intelligence (AI) solutions and digital transformation among local enterprises.\nThe company, best kn... [6142 chars]",
-        "url": "https://www.manilatimes.net/2025/10/26/business/sunday-business-it/salesforce-expands-philippine-operations-deepens-ai-collaboration/2208400",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/25/798185.jpg",
-        "publishedAt": "2025-10-25T16:04:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "d900c94edf4d0262ceb22aa5aa91be1b",
-        "title": "AI experts say CRA must fix human responses before pursuing AI",
-        "description": "Experts in artificial intelligence say it's risky when human call centre employees at CRA have struggled to provide accurate info.",
-        "content": "Article content\nOTTAWA — Experts in artificial intelligence say it’s risky for the Canada Revenue Agency to turn to artificial intelligence to help Canadians with their tax problems when human call centre employees have shown to struggle providing ac... [6053 chars]",
-        "url": "https://torontosun.com/news/national/ai-experts-say-cra-must-fix-human-responses-before-pursuing-ai",
-        "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2025/10/1011-attic-taxes_299072509-e1761069028358.jpg",
-        "publishedAt": "2025-10-25T15:24:59Z",
-        "lang": "en",
-        "source": {
-            "id": "09dc1bda762f4f787cec10477a894d96",
-            "name": "Toronto Sun",
-            "url": "https://torontosun.com",
-            "country": "ca"
         }
     }
 ]
