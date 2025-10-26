@@ -1,5 +1,21 @@
 [
     {
+        "id": "669a6d17bf5636cb4eaf621c9d7043a0",
+        "title": "Takaichi makes diplomatic debut with ASEAN maritime security and AI pledge",
+        "description": "New Prime Minister Sanae Takaichi pledged to strengthen cooperation on maritime security, artificial intelligence and cybersecurity.",
+        "content": "Prime Minister Sanae Takaichi made her in-person diplomatic debut Sunday, taking part in an Association of Southeast Asian Nations summit in Kuala Lumpur where she pledged to strengthen cooperation on maritime security, artificial intelligence and cy... [549 chars]",
+        "url": "https://www.japantimes.co.jp/news/2025/10/26/japan/politics/sanae-takaichi-asean-summit/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/10/26/501854.jpg?v=3.1",
+        "publishedAt": "2025-10-26T11:09:11Z",
+        "lang": "en",
+        "source": {
+            "id": "4b9101ef61d45607a32072a7504f5fb0",
+            "name": "The Japan Times ",
+            "url": "https://www.japantimes.co.jp",
+            "country": "jp"
+        }
+    },
+    {
         "id": "7ee27df0d6785224200ccb9ec87f20f8",
         "title": "The Motley Fool: Broadcom: chips and more",
         "description": "The market for semiconductors is red-hot as investment continues to pour into data centers for artificial intelligence.",
@@ -141,22 +157,6 @@
             "name": "NDTV Profit",
             "url": "https://www.ndtvprofit.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "4a0561f4a37cf4bcc30df81ada4c5d61",
-        "title": "Guillermo del Toro gives scathing verdict on AI: 'I'd rather die'",
-        "description": "Guillermo del Toro brutally weighed in the use of Artificial Intelligence in the field of directing and producing films.The Oscar-winning filmmaker shared his concerns on the increasing usage of the...",
-        "content": "Guillermo del Toro brutally weighed in the use of Artificial Intelligence in the field of directing and producing films.\nThe Oscar-winning filmmaker shared his concerns on the increasing usage of the technology by comparing it with his film Frankenst... [1209 chars]",
-        "url": "https://www.thenews.com.pk/latest/1353672-guillermo-del-toro-gives-scathing-verdict-on-ai-id-rather-die",
-        "image": "https://www.thenews.com.pk/assets/uploads/updates/2025-10-26/1353672_120936_updates.jpg",
-        "publishedAt": "2025-10-26T07:53:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-            "name": "The News International",
-            "url": "https://www.thenews.com.pk",
-            "country": "pk"
         }
     }
 ]
