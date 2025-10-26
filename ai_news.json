@@ -1,5 +1,21 @@
 [
     {
+        "id": "6b8cc508028cd53d66188c31aad05ff4",
+        "title": "Loose language model: AI shown to give inaccurate medical replies",
+        "description": "Artificial intelligence (AI) has an inbuilt \"sycophancy\" that makes chatbots inclined to come across as \"excessively helpful and agreeable\" rather than give appropriate or accurate answers to medical queries.",
+        "content": "BERLIN: Artificial intelligence (AI) has an inbuilt \"sycophancy\" that makes chatbots inclined to come across as \"excessively helpful and agreeable\" rather than give appropriate or accurate answers to medical queries.\nIn a series of tests, large langu... [1469 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/26/loose-language-model-ai-shown-to-give-inaccurate-medical-replies",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/24/3586283.jpeg",
+        "publishedAt": "2025-10-26T02:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "8317d33ee3762c058f82f3ec611a74e7",
         "title": "Motley Fool: Broadcom: Chips and More",
         "description": "The market for semiconductors is red-hot, as investment continues to pour into data centers for artificial intelligence (AI). Research company IDTechEx expects the market for AI chips to exceed $400 billion by 2030. While graphics processing unit (GPU) leader Nvidia is a popular pick, investors should also consider Broadcom (Nasdaq: AVGO).",
@@ -135,22 +151,6 @@
         "url": "https://www.manilatimes.net/2025/10/26/business/sunday-business-it/ai-is-transforming-infrastructure-technology-experts-say/2208403",
         "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/25/798189.jpeg",
         "publishedAt": "2025-10-25T16:07:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "711c01adf53fe544708fdadd37acf890",
-        "title": "The Vatican’s voice of reason on AI",
-        "description": "PARIS — With artificial intelligence (AI) knocking us from our bearings, many are wondering what place humans will have in a technological revolution that is already underway. Societies are dividing, economic models are faltering, and politicians are fumbling. Yet amid the turmoil, a unique voice stands out: that of the Vatican.",
-        "content": "PARIS — With artificial intelligence (AI) knocking us from our bearings, many are wondering what place humans will have in a technological revolution that is already underway. Societies are dividing, economic models are faltering, and politicians are... [5562 chars]",
-        "url": "https://www.manilatimes.net/2025/10/26/opinion/columns/the-vaticans-voice-of-reason-on-ai/2208474",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/25/798357.jpg",
-        "publishedAt": "2025-10-25T16:06:00Z",
         "lang": "en",
         "source": {
             "id": "7c666ee953f873d3057b310220f510df",
