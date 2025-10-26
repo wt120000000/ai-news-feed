@@ -1,5 +1,85 @@
 [
     {
+        "id": "6ab55f026e6d930546b0dee05267b1f8",
+        "title": "AI is transforming infrastructure technology, experts say",
+        "description": "ARTIFICIAL intelligence (AI) continues to overhaul the way infrastructure is planned, designed and built. As these infrastructure technologies advance, so do efficiency, workflows, results and monitoring.",
+        "content": "ARTIFICIAL intelligence (AI) continues to overhaul the way infrastructure is planned, designed and built. As these infrastructure technologies advance, so do efficiency, workflows, results and monitoring.\nThis was the consensus as experts from Bentle... [5154 chars]",
+        "url": "https://www.manilatimes.net/2025/10/26/business/sunday-business-it/ai-is-transforming-infrastructure-technology-experts-say/2208403",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/25/798189.jpeg",
+        "publishedAt": "2025-10-25T16:07:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "711c01adf53fe544708fdadd37acf890",
+        "title": "The Vatican’s voice of reason on AI",
+        "description": "PARIS — With artificial intelligence (AI) knocking us from our bearings, many are wondering what place humans will have in a technological revolution that is already underway. Societies are dividing, economic models are faltering, and politicians are fumbling. Yet amid the turmoil, a unique voice stands out: that of the Vatican.",
+        "content": "PARIS — With artificial intelligence (AI) knocking us from our bearings, many are wondering what place humans will have in a technological revolution that is already underway. Societies are dividing, economic models are faltering, and politicians are... [5562 chars]",
+        "url": "https://www.manilatimes.net/2025/10/26/opinion/columns/the-vaticans-voice-of-reason-on-ai/2208474",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/25/798357.jpg",
+        "publishedAt": "2025-10-25T16:06:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "2657a19a564f35b6463599fa6a0342de",
+        "title": "Salesforce expands Philippine operations, deepens AI collaboration",
+        "description": "SAN FRANCISCO, California — Cloud-based software company Salesforce is expanding its presence in the Philippines, citing strong demand for artificial intelligence (AI) solutions and digital transformation among local enterprises.",
+        "content": "SAN FRANCISCO, California — Cloud-based software company Salesforce is expanding its presence in the Philippines, citing strong demand for artificial intelligence (AI) solutions and digital transformation among local enterprises.\nThe company, best kn... [6142 chars]",
+        "url": "https://www.manilatimes.net/2025/10/26/business/sunday-business-it/salesforce-expands-philippine-operations-deepens-ai-collaboration/2208400",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/25/798185.jpg",
+        "publishedAt": "2025-10-25T16:04:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "d900c94edf4d0262ceb22aa5aa91be1b",
+        "title": "AI experts say CRA must fix human responses before pursuing AI",
+        "description": "Experts in artificial intelligence say it's risky when human call centre employees at CRA have struggled to provide accurate info.",
+        "content": "Article content\nOTTAWA — Experts in artificial intelligence say it’s risky for the Canada Revenue Agency to turn to artificial intelligence to help Canadians with their tax problems when human call centre employees have shown to struggle providing ac... [6053 chars]",
+        "url": "https://torontosun.com/news/national/ai-experts-say-cra-must-fix-human-responses-before-pursuing-ai",
+        "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2025/10/1011-attic-taxes_299072509-e1761069028358.jpg",
+        "publishedAt": "2025-10-25T15:24:59Z",
+        "lang": "en",
+        "source": {
+            "id": "09dc1bda762f4f787cec10477a894d96",
+            "name": "Toronto Sun",
+            "url": "https://torontosun.com",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "f3466eb3f7eea3f19c0dbb082cbd83f4",
+        "title": "The Best AI Visibility Tools for SEOs in 2026",
+        "description": "The SEO landscape in 2026 looks nothing like it did a few years ago. The spreadsheets, manual rank checks, and endless exporting have given way to intelligent systems that understand patterns faster than humans ever could. Artificial intelligence has moved from a buzzword to a daily part of SEO strategy, especially when it comes to […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nThe SEO landscape in 2026 looks nothing like it did a few years ago. The spreadsheets, manual rank checks, and endless exporting have given way to intelligent systems that understand patterns faster than humans ever coul... [5212 chars]",
+        "url": "https://techbullion.com/the-best-ai-visibility-tools-for-seos-in-2026/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/10/VDS_December-BlogSEO_1600X960-1-1568x941-1-1000x600.jpg",
+        "publishedAt": "2025-10-25T15:23:26Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "28e79b9f025c3446ae39ecec01e8105b",
         "title": "From ChatGPT to GameGPT: How AI Is Revolutionizing Game Design",
         "description": "Artificial Intelligence is transforming everything — from how we create art to how we play games. But one of the most fascinating revolutions happening today is inside the world of game design. The rise of large AI models like ChatGPT, Gemini, and Claude has given birth to what many are calling GameGPT — a new generation of […]",
@@ -64,22 +144,6 @@
         }
     },
     {
-        "id": "f1dc8c2936f8ff61c6cf9b8a9c242aa8",
-        "title": "AI integration redefining diagnostics and patient care in India: Dr Jitendra Singh",
-        "description": "AI integration redefining diagnostics and patient care in India: Dr Jitendra Singh - New Delhi, Oct 25 The integration of artificial intelligence (AI) in medicine is redefining diagnostics and patient care ... Get Latest News on Health only on lokmattimes.com",
-        "content": "New Delhi, Oct 25 The integration of artificial intelligence (AI) in medicine is redefining diagnostics and patient care in India, said Union Minister of State for Science and Technology Dr. Jitendra Singh on Saturday.\nAddressing the 54th Foundation ... [2082 chars]",
-        "url": "https://www.lokmattimes.com/health/ai-integration-redefining-diagnostics-and-patient-care-in-india-dr-jitendra-singh/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202510253552781_202510.jpg",
-        "publishedAt": "2025-10-25T11:52:29Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
-            "country": "in"
-        }
-    },
-    {
         "id": "d74876b8f4da4b6d743fed783a808947",
         "title": "AI integration redefining diagnostics and patient care in India: Dr Jitendra Singh",
         "description": "AI integration redefining diagnostics and patient care in India: Dr Jitendra Singh - New Delhi, Oct 25 The integration of artificial intelligence (AI) in medicine is redefining diagnostics and patient care ... Get Latest News on Technology only on lokmattimes.com",
@@ -93,70 +157,6 @@
             "name": "Lokmat Times",
             "url": "https://www.lokmattimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "add20b796a2d7cab399ab36bb5a3ea65",
-        "title": "AI experts say CRA must fix human responses before pursuing AI",
-        "description": "OTTAWA — Experts in artificial intelligence say it's risky for the Canada Revenue Agency to turn to artificial intelligence to help Canadians with their tax problems when human call centre employees have shown to struggle providing accurate informati",
-        "content": "OTTAWA — Experts in artificial intelligence say it's risky for the Canada Revenue Agency to turn to artificial intelligence to help Canadians with their tax problems when human call centre employees have shown to struggle providing accurate informati... [3333 chars]",
-        "url": "https://www.sootoday.com/national-news/ai-experts-say-cra-must-fix-human-responses-before-pursuing-ai-11397880",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/82a7f224c6e008a03aaa220f3162cf03b8b838e4726b41994a9329093d042da4.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-10-25T10:00:06Z",
-        "lang": "en",
-        "source": {
-            "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-            "name": "SooToday",
-            "url": "https://www.sootoday.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "739a46a50e28dec734c8582de325e89f",
-        "title": "AI experts say CRA must fix human responses before pursuing AI",
-        "description": "OTTAWA — Experts in artificial intelligence say it's risky for the Canada Revenue Agency to turn to artificial intelligence to help Canadians with their tax problems when human call centre employees have shown to struggle providing accurate informati",
-        "content": "OTTAWA — Experts in artificial intelligence say it's risky for the Canada Revenue Agency to turn to artificial intelligence to help Canadians with their tax problems when human call centre employees have shown to struggle providing accurate informati... [3333 chars]",
-        "url": "https://www.baytoday.ca/national-news/ai-experts-say-cra-must-fix-human-responses-before-pursuing-ai-11397880",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/82a7f224c6e008a03aaa220f3162cf03b8b838e4726b41994a9329093d042da4.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-10-25T10:00:06Z",
-        "lang": "en",
-        "source": {
-            "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-            "name": "BayToday",
-            "url": "https://www.baytoday.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "6d08360bdec247c834b56f5ce63f80fc",
-        "title": "SMEs to benefit as Budget 2026 boosts AI and green tech",
-        "description": "PETALING JAYA: Budget 2026 places strong emphasis on artificial intelligence, semiconductors, and green technology. These focus areas will shape Malaysia's future competitiveness and mark a clear shift from labour-intensive to productivity-led growth.",
-        "content": "PETALING JAYA: Budget 2026 places strong emphasis on artificial intelligence, semiconductors, and green technology. These focus areas will shape Malaysia’s future competitiveness and mark a clear shift from labour-intensive to productivity-led growth... [4793 chars]",
-        "url": "https://www.thestar.com.my/starpicks/2025/10/25/smes-to-benefit-as-budget-2026-boosts-ai-and-green-tech",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/25/3588154.png",
-        "publishedAt": "2025-10-25T09:56:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "14ca8464919551adcec1ab01bf8e13cc",
-        "title": "Building Smarter, Faster, and More Efficient Websites in the Age of AI",
-        "description": "Artificial intelligence is no longer a futuristic buzzword – it’s a reality transforming how digital agencies plan, design, and maintain websites. From AI-assisted code generation to automated SEO insights, these tools are changing how agencies operate and how clients experience the web. For web agencies, this shift represents both opportunity and responsibility: the chance to […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence is no longer a futuristic buzzword – it’s a reality transforming how digital agencies plan, design, and maintain websites. From AI-assisted code generation to automated SEO insights, these tools a... [9992 chars]",
-        "url": "https://techbullion.com/building-smarter-faster-and-more-efficient-websites-in-the-age-of-ai/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/10/unnamed-2025-10-25T004145.653.png",
-        "publishedAt": "2025-10-25T07:42:18Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
         }
     }
 ]
