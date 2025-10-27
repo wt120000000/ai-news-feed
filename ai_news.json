@@ -1,5 +1,37 @@
 [
     {
+        "id": "14dac5ff1a7a843b1d9739410a08c9a6",
+        "title": "Wall Street analysts update AMD stock price for the next 12 months",
+        "description": "Shares of AMD have surged to an all-time high as the company continues to benefit from its role in the booming artificial intelligence sector",
+        "content": "Shares of Advanced Micro Devices (NASDAQ: AMD) have surged to an all-time high as the company continues to benefit from its role in the booming artificial intelligence (AI) sector.\nAmid this momentum, Wall Street’s updated outlook projects a modest d... [2529 chars]",
+        "url": "https://finbold.com/wall-street-analysts-update-amd-stock-price-for-the-next-12-months/",
+        "image": "https://assets.finbold.com/uploads/2025/10/Wall-Street-analysts-update-AMD-stock-price-for-the-next-12-months.jpg",
+        "publishedAt": "2025-10-26T17:33:16Z",
+        "lang": "en",
+        "source": {
+            "id": "72ea416416ab0eec8fe687d6262961e8",
+            "name": "Finbold",
+            "url": "https://finbold.com",
+            "country": "bg"
+        }
+    },
+    {
+        "id": "302c91b9853b989293f0acab1e3dfe35",
+        "title": "Christopher Whaling: Without Critical Thinking, AI Will Not Make You More Intelligent!",
+        "description": "Artificial intelligence and cloud computing dominate conversations about the future of technology. Christopher Whaling believes a more fundamental skill matters more: the ability to think critically. For Whaling, who has spent more than two decades leading intelligence, technology, and operations programs, the real differentiator for staying ahead is how individuals and organizations use their experiences […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence and cloud computing dominate conversations about the future of technology. Christopher Whaling believes a more fundamental skill matters more: the ability to think critically. For Whaling, who has... [3591 chars]",
+        "url": "https://techbullion.com/christopher-whaling-without-critical-thinking-ai-will-not-make-you-more-intelligent/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/10/Christopher-Whaling-1000x600.jpg",
+        "publishedAt": "2025-10-26T17:20:01Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "074012de326eb6d5057d74c3649e11ae",
         "title": "Agriculture needs more automation to make it a lucrative business",
         "description": "The need now is to promote novel and state-of-the-art technologies, such as geospatial programming and artificial intelligence, to optimise farm productivity",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "5d373b6fcd26678f1e30d1b07e3d8e3d",
-        "title": "Labor rules out text and data mining exception in copyright review amid AI data-feeding frenzy",
-        "description": "Labor is turning the heat up on the Silicon Valley tech titans behind data-ravenous artificial intelligence models.",
-        "content": "Labor has ruled out a text and data mining carve out ahead of talks with representatives of Australian creatives in Canberra as it mulls ways to force tech titans to pay for the content they feed their data ravenous artificial intelligence models.\nFr... [3521 chars]",
-        "url": "https://www.perthnow.com.au/news/technology/labor-rules-out-text-and-data-mining-exception-in-copyright-review-amid-ai-data-feeding-frenzy-c-20477050",
-        "image": "https://images.perthnow.com.au/publication/C-20477050/1aa0daf20d3ab86311b02834bfc67e4aff6a87ed-16x9-x0y0w2048h1152.jpg?imwidth=1200",
-        "publishedAt": "2025-10-26T11:33:09Z",
-        "lang": "en",
-        "source": {
-            "id": "7f6e8514e9d8f8376aaa9a7229861518",
-            "name": "PerthNow",
-            "url": "https://www.perthnow.com.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "21816152a92bf7ed3718d90813b939ae",
-        "title": "Rowland says ‘no’ to AI copyright carve out, flags new payment regime",
-        "description": "Attorney-general will advance talks on AI licensing framework, forcing big tech to reveal copyrighted material used to train artificial intelligence models.",
-        "content": "Big tech companies will be forced to pay when using copyrighted material to train AI models, with Attorney-General Michelle Rowland ruling out a proposal to grant them free access and flagging the introduction of a paid licensing regime.\nA proposal f... [261 chars]",
-        "url": "https://www.afr.com/politics/federal/rowland-says-no-to-ai-copyright-carve-out-flags-new-payment-regime-20251026-p5n5bo",
-        "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/efce77cc540d8cc40c24760382ee5f7273c4c7e7c01539fe4d0212ce661f9949",
-        "publishedAt": "2025-10-26T11:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "Australian Financial Review",
-            "url": "https://www.afr.com",
-            "country": "au"
         }
     }
 ]
