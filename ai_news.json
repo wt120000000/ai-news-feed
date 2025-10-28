@@ -1,5 +1,37 @@
 [
     {
+        "id": "75cc0baa52c2a8bbaa976d2c9002182a",
+        "title": "Qualcomm soars after taking aim at Nvidia with new AI chips",
+        "description": "Qualcomm is trying to break into the market for AI accelerators, which are used to create and run artificial intelligence models.",
+        "content": "Qualcomm shares rose to their highest price in 15 months after the company unveiled chips and computers for the lucrative AI data centre market, aiming to challenge Nvidia in the fastest growing part of the industry.\nThe company’s new AI200 line-up w... [1376 chars]",
+        "url": "https://www.scmp.com/tech/big-tech/article/3330571/qualcomm-soars-after-taking-aim-nvidia-new-ai-chips",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/10/28/755da16d-51bb-43a5-bde9-9f39ba5a9934_363204c5.jpg?itok=pJX4ea_b&v=1761626743",
+        "publishedAt": "2025-10-28T05:10:08Z",
+        "lang": "en",
+        "source": {
+            "id": "d6397b77175680e2678c0d60edcee7af",
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com",
+            "country": "hk"
+        }
+    },
+    {
+        "id": "f03078ccfcb024f4de3898fd57049942",
+        "title": "Who is Vishal Shah, ex-Metaverse Vice President appointed by Mark Zuckerberg to lead…",
+        "description": "The appointment underscores Big Tech's growing interest in artificial intelligence, as companies invest top talent and resources in developing AI.",
+        "content": "The appointment underscores Big Tech's growing interest in artificial intelligence, as companies invest top talent and resources in developing AI.\nMeta Platforms announced on Monday that CEO Mark Zuckerberg has appointed Vishal Shah, an insider at th... [1984 chars]",
+        "url": "https://www.india.com/business/who-is-vishal-shah-ex-metaverse-vice-president-appointed-by-mark-zuckerberg-to-lead-key-ai-role-8153176/",
+        "image": "https://static.india.com/wp-content/uploads/2025/10/title-2025-10-28T100607.278.jpg",
+        "publishedAt": "2025-10-28T04:37:00Z",
+        "lang": "en",
+        "source": {
+            "id": "b29eaeaa36b9be93ac681e263151f897",
+            "name": "India.com",
+            "url": "https://www.india.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "3943a71bd5a5a1881257877045d75220",
         "title": "Google unveils plan to restart U.S. nuclear plant to power AI infrastructure",
         "description": "Google unveiled a plan Monday to restart a nuclear facility in Iowa to power the company’s artificial intelligence infrastructure.",
@@ -125,38 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "e31685d4f313f58f8ec0a1e6a8fcd08d",
-        "title": "Google unveils plan to restart US nuclear plant to power AI infrastructure",
-        "description": "NEW YORK — Google unveiled a plan Monday to restart a nuclear facility in Iowa to power the company's artificial intelligence infrastructure in the latest collaboration between tech giants and electric industry players.",
-        "content": "NEW YORK — Google unveiled a plan Monday to restart a nuclear facility in Iowa to power the company's artificial intelligence infrastructure in the latest collaboration between tech giants and electric industry players.\nUnder an announcement with ele... [1449 chars]",
-        "url": "https://www.manilatimes.net/2025/10/28/business/foreign-business/google-unveils-plan-to-restart-us-nuclear-plant-to-power-ai-infrastructure/2209620",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/28/800741.jpg",
-        "publishedAt": "2025-10-28T02:48:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "5574241c5e8a6489a5e78e3f1c75a9bc",
-        "title": "Musk Launches 'Grokipedia' to Combat Wikipedia Bias",
-        "description": "Elon Musk has launched Grokipedia, an artificial intelligence-driven alternative to Wikipedia, created by his company xAI.",
-        "content": "Elon Musk has launched Grokipedia, an artificial intelligence–driven alternative to Wikipedia, created by his company xAI. Musk says the platform aims to \"purge out the propaganda\" he says is present in Wikipedia.\nThe site debuted with over 800,000 e... [1266 chars]",
-        "url": "https://www.newsmax.com/newsfront/grokipedia-bias-wikipedia/2025/10/27/id/1232089/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9efa2aa0-8f92-45ac-80be-7d7876272d4e&SiteName=Newsmax",
-        "publishedAt": "2025-10-28T02:32:56Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
         }
     }
 ]
