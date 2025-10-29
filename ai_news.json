@@ -1,5 +1,37 @@
 [
     {
+        "id": "ca3b7dced1df7b0b3f85674492b0eef2",
+        "title": "Asian stocks open higher as AI, Fed lift sentiment",
+        "description": "Asian markets opened higher today. Investors are optimistic about artificial intelligence driving profits for tech giants. Bets on a Federal Reserve interest rate cut are also boosting sentiment. Major tech companies are set to report earnings, with investors watching for continued investment in computing infrastructure. The yen gained as US Treasury Secretary commented on Bank of Japan policy.",
+        "content": "Synopsis\nAsian markets opened higher today. Investors are optimistic about artificial intelligence driving profits for tech giants. Bets on a Federal Reserve interest rate cut are also boosting sentiment. Major tech companies are set to report earnin... [4822 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-open-higher-as-ai-fed-lift-sentiment/articleshow/124886377.cms",
+        "image": "https://img.etimg.com/thumb/msid-124886368,width-1200,height-630,imgsize-169964,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2025-10-29T01:16:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "ae825d8c69912931722b01a1f40c2eb0",
+        "title": "Amazon Announces Mass Layoffs, Citing 'Transformative' AI Technology",
+        "description": "Corporate giant Amazon cites its use of artificial intelligence to increase efficiency and speed as its cuts 14,000 jobs.",
+        "content": "Amazon is shedding corporate jobs as its embrace of artificial intelligence reduces its need for humans.\nThe company plans on “an overall reduction in our corporate workforce of approximately 14,000 roles,” Senior Vice President of People Experience ... [2789 chars]",
+        "url": "https://www.thegatewaypundit.com/2025/10/amazon-announces-mass-layoffs-citing-transformative-ai-technology/",
+        "image": "https://www.thegatewaypundit.com/wp-content/uploads/2025/10/black-samsung-galaxy-smartphone-displaying-amazon-logo-1200x630.jpg",
+        "publishedAt": "2025-10-29T01:00:14Z",
+        "lang": "en",
+        "source": {
+            "id": "c7b3fd167c575deb5133f19df6ed778f",
+            "name": "The Gateway Pundit",
+            "url": "https://www.thegatewaypundit.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "499c3be25c87ff38c279e64e1afbbcaf",
         "title": "1,000 jobs in India as part of global layoff",
         "description": "Amazon is set to lay off 800 to 1,000 corporate employees in India. This move is part of a larger global job cut of 14,000 people. The company is focusing on artificial intelligence and cost reduction. Affected roles include finance, marketing, HR, and tech. Further job cuts are anticipated in the future as Amazon streamlines operations and seeks efficiency gains.",
@@ -125,38 +157,6 @@
             "name": "CP24 Toronto",
             "url": "https://www.cp24.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "76b8e3857fb518b4ca9439d3585376a9",
-        "title": "CRA looking at AI for training in accurate answers",
-        "description": "A senior official working at the Canada Revenue Agency says the agency is looking to artificial intelligence and better training to help call centre agents provide more accurate answers to taxpayers.",
-        "content": "OTTAWA — A senior official working at the Canada Revenue Agency says the agency is looking to artificial intelligence and better training to help call centre agents provide more accurate answers to taxpayers.\nMelanie Serjak, an assistant commissioner... [3507 chars]",
-        "url": "https://www.bnnbloomberg.ca/business/company-news/2025/10/28/cra-looking-at-ai-training-to-help-call-centre-staff-provide-accurate-answers/",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/WRANOQXT4WCGXFUBPZ6NNURZLE.jpg?smart=true&auth=8e777fd1b35844b3a1308bf1d233d33e606e47b210bf4e83e24a53248738f455&width=1200&height=630",
-        "publishedAt": "2025-10-28T23:33:54Z",
-        "lang": "en",
-        "source": {
-            "id": "1b697445987e8a33f6c82842e17d60d9",
-            "name": "Bnn Bloomberg",
-            "url": "https://www.bnnbloomberg.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "bac0db8653ed4f8734a7c160a6c368b1",
-        "title": "SK Hynix Posts Record Earnings on Continued AI-Chip Demand",
-        "description": "By Kwanwoo Jun\nSK Hynix, the main supplier of high-bandwidth-memory products to Nvidia, posted record quarterly earnings as robust artificial-intelligence investments by big global tech companies...",
-        "content": "By Kwanwoo Jun\nSK Hynix, the main supplier of high-bandwidth-memory products to Nvidia, posted record quarterly earnings as robust artificial-intelligence investments by big global tech companies continued to fuel demand for its advanced AI chips.\nTh... [1758 chars]",
-        "url": "https://www.marketscreener.com/news/sk-hynix-posts-record-earnings-on-continued-ai-chip-demand-ce7d5ddddb8df724",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2025-10-28T23:26:13Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
