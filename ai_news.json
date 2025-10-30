@@ -1,5 +1,85 @@
 [
     {
+        "id": "3afa5d3247eaeb9eb29c1d10d185ccc0",
+        "title": "CNBC Daily Open: Capex is the number to look at amid Big Tech earnings",
+        "description": "The crux is that spending on artificial intelligence isn't going to slow down, at least for the next year, thanks to increasing demand for AI services.",
+        "content": "The news is coming in fast and thick. Strap in.\nFirst, interest rates.\nThe U.S. Federal Reserve lowered rates by 25 basis points, as expected by traders. But Chair Jerome Powell cautioned that another cut in December, which the market had been pricin... [1662 chars]",
+        "url": "https://www.cnbc.com/2025/10/30/cnbc-daily-open-capex-is-the-number-to-look-at-amid-big-tech-earnings.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108216553-1761309874594-gettyimages-2242649858-ALPHABET_EARNS.jpeg?v=1761309903&w=1920&h=1080",
+        "publishedAt": "2025-10-30T01:23:25Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ea6c810897fe16d7a019ded9c7214696",
+        "title": "Alphabet Sales Beat Estimates On Google Cloud Unit Growth",
+        "description": "Alphabet Inc. sales topped quarterly Wall Street estimates, fueled by a surge in demand for its cloud and artificial intelligence services. Shares rose as much as 7.5% in extended trading.",
+        "content": "Alphabet Inc. sales topped quarterly Wall Street estimates, fueled by a surge in demand for its cloud and artificial intelligence services. Shares rose as much as 7.5% in extended trading.\nThird-quarter sales, excluding partner payouts, rose to $87.5... [5040 chars]",
+        "url": "https://www.ndtvprofit.com/global-economics/alphabet-sales-beat-estimates-on-google-cloud-unit-growth",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-10-30%2Ftdr26iu7%2F442950613.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-10-30T01:22:52Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "c2c17667b073e65077dcb48200d904d8",
+        "title": "OpenAI may target $1 trillion valuation in IPO, reports Reuters",
+        "description": "OpenAI, the company that, for many, has become synonymous with the AI revolution, is now moving towards the next step in its expansion. According to Reuters on Wednesday, which cited unnamed sources, the artificial intelligence startup OpenAI is getting ready to submit an IPO application as early as next year, which could result in a $1 trillion market valuation for the business.",
+        "content": "OpenAI may target $1 trillion valuation in IPO: reports\nOpenAI announced earlier this week that it has finished reorganising into a more conventional corporate structure, which would enable a public offering. In a recent employee share sale, the comp... [1329 chars]",
+        "url": "https://www.cnbctv18.com/business/openai-may-target-1-trillion-valuation-in-ipo-reports-19732770.htm",
+        "image": "https://images.cnbctv18.com/uploads/2024/07/openai-2024-07-0ae2109f5a5017df577853d0646db677.jpg?im=FitAndFill,width=500,height=300",
+        "publishedAt": "2025-10-30T01:16:22Z",
+        "lang": "en",
+        "source": {
+            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+            "name": "CNBC TV18",
+            "url": "https://www.cnbctv18.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "2c6b4b671361437af5cbd30d1b7010a5",
+        "title": "OpenAI Eyes Record-Breaking $1 Trillion IPO To Fund AGI Infrastructure: Reuters",
+        "description": "OpenAI, the world's leading artificial intelligence company, is laying the initial groundwork for an Initial Public Offering or an IPO that could value the ChatGPT maker at up to $1 trillion. This will be making it one of the largest public debuts of all time, according to a report from Reuters.",
+        "content": "OpenAI, the world's leading artificial intelligence company, is laying the initial groundwork for an Initial Public Offering or an IPO that could value the ChatGPT maker at up to $1 trillion. This will be making it one of the largest public debuts of... [1952 chars]",
+        "url": "https://www.ndtvprofit.com/technology/openai-eyes-record-breaking-1-trillion-ipo-to-fund-agi-infrastructure-reuters",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-10-15%2F86yop8qq%2FOpenAIlogowithmagnifyingglass52916339167.jpg?rect=0%2C824%2C6720%2C3528&w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-10-30T00:53:06Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "18ac6afab1ece05fc33cc6f4d0341e9f",
+        "title": "Samsung Posts Solid Net Profit as Chip Business Rebounds Strongly",
+        "description": "By Kwanwoo Jun\nSamsung Electronics posted a solid third-quarter net profit as its flagship semiconductor business bounced back strongly, supported by an artificial-intelligence boom fueling chip...",
+        "content": "By Kwanwoo Jun\nSamsung Electronics posted a solid third-quarter net profit as its flagship semiconductor business bounced back strongly, supported by an artificial-intelligence boom fueling chip demand.\nThe world's largest maker of memory chips and s... [1170 chars]",
+        "url": "https://www.marketscreener.com/news/samsung-posts-solid-net-profit-as-chip-business-rebounds-strongly-ce7d5dd2d08cf422",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2025-10-30T00:46:14Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "aa626b42e13137c529734f6d8f92e4a5",
         "title": "Samsung Electronics Q3 profit jumps 32% on conventional chip boom",
         "description": "SEOUL (Reuters) -Samsung Electronics reported on Thursday a 32% rise in third-quarter operating profit, as the booming conventional chip market helped offset a gradual recovery in its artificial intelligence chip sales.",
@@ -64,22 +144,6 @@
         }
     },
     {
-        "id": "03c5ba9b70e93d5ef4897386c36cf0bb",
-        "title": "Inuvo to Host Third Quarter 2025 Financial Results",
-        "description": "LITTLE ROCK, Ark., Oct. 30, 2025 (GLOBE NEWSWIRE) -- Inuvo, Inc. (NYSE American: INUV), a leading provider of artificial intelligence AdTech solutions,...",
-        "content": "LITTLE ROCK, Ark., Oct. 30, 2025 (GLOBE NEWSWIRE) -- Inuvo, Inc. (NYSE American: INUV), a leading provider of artificial intelligence AdTech solutions, will host a conference call on Thursday, November 6, 2025, at 4:15 PM Eastern Time to discuss its ... [1144 chars]",
-        "url": "https://www.globenewswire.com/news-release/2025/10/30/3177381/0/en/Inuvo-to-Host-Third-Quarter-2025-Financial-Results-Conference-Call-on-Thursday-November-6th-at-4-15-P-M-ET.html",
-        "image": "https://ml.globenewswire.com/Resource/Download/903acacb-bfd5-44e6-b66d-7c0e2ab2317b",
-        "publishedAt": "2025-10-30T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "8e9ab8327c5f7903cc1b50470411d165",
-            "name": "GlobeNewswire",
-            "url": "https://www.globenewswire.com",
-            "country": "us"
-        }
-    },
-    {
         "id": "2693f932b9a445b1ac8db6ef239d7608",
         "title": "‘Video of man patting tiger is fake, AI generated’",
         "description": "the management of pench tiger reserve (ptr), maharashtra, on wednesday, issued a press release, stating that the video or photo of a person patting a tiger on a village street inside the tiger reserve on social media is entirely fake and has been generated using artificial intelligence (ai). no such incident has occurred within or around the tiger reserve, it stated.",
@@ -93,70 +157,6 @@
             "name": "The Hitavada",
             "url": "https://www.thehitavada.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "d5fc211c6b2e07377812fd7c38457488",
-        "title": "Microsoft's high capital spending overshadows cloud business surge",
-        "description": "(Reuters) -Microsoft said on Wednesday it spent nearly $35 billion on artificial intelligence in its fiscal first quarter, surpassing market expectations and overshadowing blockbuster growth in its cloud-computing business.",
-        "content": "(Reuters) -Microsoft said on Wednesday it spent nearly $35 billion on artificial intelligence in its fiscal first quarter, surpassing market expectations and overshadowing blockbuster growth in its cloud-computing business.\nShares of the company dipp... [2418 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/30/microsoft039s-high-capital-spending-overshadows-cloud-business-surge",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/30/3596145.jpg",
-        "publishedAt": "2025-10-29T23:48:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "0a2a55f51eef8735482119a6d0092f1d",
-        "title": "'Crouching Tiger' Oscar Winner Tim Yip Champions Human Touch in AI",
-        "description": "Oscar-winning art director Tim Yip delivered a clarion call for preserving human emotion in an age of artificial intelligence at a Tokyo event.",
-        "content": "In a Tokyo screening room filled with filmmakers and creators from around the world, Oscar-winning art director Tim Yip delivered a clarion call for preserving human emotion in an age of artificial intelligence.\n“Technology is so strong, you have to ... [6417 chars]",
-        "url": "https://variety.com/2025/film/global/crouching-tiger-oscar-winner-tim-yip-human-touch-ai-1236565145/",
-        "image": "https://variety.com/wp-content/uploads/2025/10/Kling-AI.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-10-29T23:34:36Z",
-        "lang": "en",
-        "source": {
-            "id": "e6688d6db992f469baa7352aac100378",
-            "name": "Variety",
-            "url": "https://variety.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1422019e2c425011a3a52a2695fea466",
-        "title": "'Crouching Tiger' Oscar Winner Tim Yip Champions Human Touch in AI",
-        "description": "Oscar-winning art director Tim Yip delivered a clarion call for preserving human emotion in an age of artificial intelligence at a Tokyo event.",
-        "content": "In a Tokyo screening room filled with filmmakers and creators from around the world, Oscar-winning art director Tim Yip delivered a clarion call for preserving human emotion in an age of artificial intelligence.\n“Technology is so strong, you have to ... [6417 chars]",
-        "url": "https://variety.com/2025/film/festivals/crouching-tiger-oscar-winner-tim-yip-human-touch-ai-1236565145/",
-        "image": "https://variety.com/wp-content/uploads/2025/10/Kling-AI.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-10-29T23:34:36Z",
-        "lang": "en",
-        "source": {
-            "id": "e6688d6db992f469baa7352aac100378",
-            "name": "Variety",
-            "url": "https://variety.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6221547623116a42866e47eabf498f9b",
-        "title": "'Crouching Tiger' Oscar Winner Tim Yip Champions Human Touch in AI",
-        "description": "Oscar-winning art director Tim Yip delivered a clarion call for preserving human emotion in an age of artificial intelligence at a Tokyo event.",
-        "content": "In a Tokyo screening room filled with filmmakers and creators from around the world, Oscar-winning art director Tim Yip delivered a clarion call for preserving human emotion in an age of artificial intelligence.\n“Technology is so strong, you have to ... [6417 chars]",
-        "url": "https://variety.com/2025/film/news/crouching-tiger-oscar-winner-tim-yip-human-touch-ai-1236565145/",
-        "image": "https://variety.com/wp-content/uploads/2025/10/Kling-AI.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-10-29T23:34:36Z",
-        "lang": "en",
-        "source": {
-            "id": "e6688d6db992f469baa7352aac100378",
-            "name": "Variety",
-            "url": "https://variety.com",
-            "country": "us"
         }
     }
 ]
