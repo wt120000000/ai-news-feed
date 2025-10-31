@@ -1,108 +1,28 @@
 [
     {
-        "id": "38e4ea57e729b4190e4d37e0446e6dbd",
-        "title": "Curriculum on AI To Be Introduced in All Schools from Class 3 Onwards: MoE",
-        "description": "The Ministry of Education's Department of School Education & Literacy (DoSE&L) announced the integration of Artificial Intelligence and Computational Thinking (AI & CT) into the school curriculum, starting from Grade 3 in the 2026-27 academic session.",
-        "content": "The Department of School Education & Literacy (DoSE&L), Ministry of Education, has reaffirmed its commitment to advancing Artificial Intelligence and Computational Thinking (AI & CT) as essential components of future-ready education.\nThe Department i... [2626 chars]",
-        "url": "https://www.republicworld.com/tech/curriculum-on-ai-to-be-introduced-in-all-schools-from-class-3-onwards-moe",
-        "image": "https://img.republicworld.com/all_images/artificial-intelligence-1760106324550-16_9.webp",
-        "publishedAt": "2025-10-30T13:32:48Z",
+        "id": "f79e0227c675719071fcf068188f37aa",
+        "title": "AI boom sparks concern over data-centre power and water use in Switzerland",
+        "description": "Artificial intelligence is not only consuming attention—it is also consuming electricity and water. A surge in AI activity has driven up demand for data-centre capacity across Europe, and the Swiss ar",
+        "content": "Artificial intelligence is not only consuming attention—it is also consuming electricity and water. A surge in AI activity has driven up demand for data-centre capacity across Europe, and the Swiss are increasingly uneasy about its environmental cost... [3351 chars]",
+        "url": "https://lenews.ch/2025/10/30/ai-boom-sparks-concern-over-data-centre-power-and-water-use-in-switzerland/",
+        "image": "https://lenews.ch/wp-content/uploads/2025/10/pexels-photo-31466992.jpeg",
+        "publishedAt": "2025-10-30T15:10:46Z",
         "lang": "en",
         "source": {
-            "id": "e479ce8332aab31d8bac6ba9584cedbb",
-            "name": "Republic World",
-            "url": "https://www.republicworld.com",
-            "country": "in"
+            "id": "e5ac3f8bc80375efb14e390b3dee7794",
+            "name": "Le News",
+            "url": "https://lenews.ch",
+            "country": "ch"
         }
     },
     {
-        "id": "3a932281d534d23373457791b6ce0a78",
-        "title": "Meta drops 12% as heightened AI spending overshadows strong results",
-        "description": "Meta's results raised skepticism over the payoff from its aggressive artificial intelligence spending plans and overshadowed strong results.",
-        "content": "Meta Platforms ' stock dropped more than 12% Thursday as skepticism about the payoff from its aggressive artificial intelligence spending plans overshadowed strong results.\nThe social media giant lifted its 2025 capital expenditures guidance as it ra... [1731 chars]",
-        "url": "https://www.cnbc.com/2025/10/30/meta-stock-earnings-ai-spend.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/107367089-17067169752024-01-31t155824z_1044434571_rc23t5amngcp_rtrmadp_0_usa-tech-exploitation.jpeg?v=1706717007&w=1920&h=1080",
-        "publishedAt": "2025-10-30T13:31:42Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "26420c75f2ac65ca9884ca8460ae32dd",
-        "title": "filled legal briefs show the limits of relying on AI tools at work",
-        "description": "NEW YORK (AP) — Judges around the world are dealing with a growing problem: legal briefs that were generated with the help of artificial intelligence and…",
-        "content": "NEW YORK (AP) — Judges around the world are dealing with a growing problem: legal briefs that were generated with the help of artificial intelligence and submitted with errors such as citations to cases that don’t exist, according to attorneys and co... [6865 chars]",
-        "url": "https://wtop.com/national/2025/10/mistake-filled-legal-briefs-show-the-limits-of-relying-on-ai-tools-at-work/",
-        "image": "https://wtop.com/wp-content/uploads/2025/10/Be-Well-Working-Well-Avoiding-AI-Pitfalls.jpg",
-        "publishedAt": "2025-10-30T13:24:03Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "315cc9e99dfb7933dbadbb32e1c97cda",
-        "title": "Error-filled legal briefs provide a cautionary tale for new AI users",
-        "description": "Judges around the world are seeing error-riddled legal briefs that were generated with the help of artificial intelligence.",
-        "content": "NEW YORK (AP) — Judges around the world are dealing with a growing problem: legal briefs that were generated with the help of artificial intelligence and submitted with errors such as citations to cases that don’t exist, according to attorneys and co... [6536 chars]",
-        "url": "https://apnews.com/article/artificial-intelligence-tools-work-errors-skills-fddcd0a5c86c20a4748dc65ba38f77fa",
-        "image": "https://dims.apnews.com/dims4/default/1932d90/2147483647/strip/true/crop/1920x1080+0+100/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2Fee%2Ffdb3966e918b739082588f01258b%2F6eff308d0a80410b9cf86351a29d3778",
-        "publishedAt": "2025-10-30T13:17:31Z",
-        "lang": "en",
-        "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a4ee4a8caac58654f57999e837704fdb",
-        "title": "Mistake-filled legal briefs show the limits of relying on AI tools at work",
-        "description": "Judges around the world are seeing error-riddled legal briefs that were generated with the help of artificial intelligence.",
-        "content": "NEW YORK – Judges around the world are dealing with a growing problem: legal briefs that were generated with the help of artificial intelligence and submitted with errors such as citations to cases that don’t exist, according to attorneys and court d... [6531 chars]",
-        "url": "https://www.clickondetroit.com/business/2025/10/30/mistake-filled-legal-briefs-show-the-limits-of-relying-on-ai-tools-at-work/",
-        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/KTYZCLEVJRDBHEHLHNODE6ZGFM.jpg?_a=DATAg1eAZAA0",
-        "publishedAt": "2025-10-30T13:17:30Z",
-        "lang": "en",
-        "source": {
-            "id": "35515662ec044d3f94b543cd8802d63f",
-            "name": "WDIV ClickOnDetroit",
-            "url": "https://www.clickondetroit.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9ab92c096151f0f3e292cd1991c2f166",
-        "title": "Mistake-Filled Legal Briefs Show the Limits of Relying on AI Tools at Work",
-        "description": "NEW YORK (AP) — Judges around the world are dealing with a growing problem: legal briefs that were generated with the help of artificial intelligence and submitted with errors such as citations to cases that don’t exist, according to attorneys and court documents.",
-        "content": "NEW YORK (AP) — Judges around the world are dealing with a growing problem: legal briefs that were generated with the help of artificial intelligence and submitted with errors such as citations to cases that don’t exist, according to attorneys and co... [6734 chars]",
-        "url": "https://www.usnews.com/news/technology/articles/2025-10-30/mistake-filled-legal-briefs-show-the-limits-of-relying-on-ai-tools-at-work",
-        "image": "https://www.usnews.com/dims4/USNEWS/1e0e0c1/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fff%2Fb1c5d97437500a0bfce382b1910535%2F6eff308d0a80410b9cf86351a29d3778Be%20Well-Working%20Well-Avoiding%20AI%20Pitfalls.jpg",
-        "publishedAt": "2025-10-30T13:17:00Z",
-        "lang": "en",
-        "source": {
-            "id": "37128a060981dbbe79321f096e7d1108",
-            "name": "U.S. News & World Report",
-            "url": "https://www.usnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "20b6def6d2621ba4f0a0d52e895b888b",
-        "title": "CBSE forms panel headed by IIT Madras professor to develop AI curriculum for schools",
-        "description": "The Central Board of Secondary Education has constituted an expert committee chaired by an IIT Madras professor to develop the curriculum for Artificial Intelligence and Computational Thinking AI CT, officials said. The CBSE has constituted an expert committee chaired by Karthik Raman, Professor, Department of Data Science and AI, IIT Madras, to develop the AI CT curriculum, said School Education Secretary Sanjay Kumar.",
-        "content": "The Central Board of Secondary Education has constituted an expert committee chaired by an IIT Madras professor to develop the curriculum for Artificial Intelligence and Computational Thinking (AI & CT), officials said. The move comes following the p... [1573 chars]",
-        "url": "https://www.devdiscourse.com/article/education/3678936-cbse-forms-panel-headed-by-iit-madras-professor-to-develop-ai-curriculum-for-schools",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_19_56_6666387.jpg?width=920&format=jpeg",
-        "publishedAt": "2025-10-30T13:13:30Z",
+        "id": "15939cbc69d95005c389cdca8018f883",
+        "title": "AI Chip Export Controversy: U.S. Faces Decision on Nvidia Sales to China",
+        "description": "A debate rages over the potential sale of Nvidia's advanced AI chips to China, which could compromise U.S. technological advantages in artificial intelligence. Lawmakers and experts argue against the move, citing national security concerns and the potential for China to gain a significant leap in AI capabilities.",
+        "content": "A leading Republican figure in Congress has compared the sale of Nvidia's top AI chips to China to providing Iran with weapons-grade uranium. Such a sale would diminish America's technological edge in artificial intelligence, warned John Moolenaar, C... [705 chars]",
+        "url": "https://www.devdiscourse.com/article/politics/3679149-ai-chip-export-controversy-us-faces-decision-on-nvidia-sales-to-china",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/12_08_2025_05_35_28_91605.png?width=920&format=jpeg",
+        "publishedAt": "2025-10-30T15:08:10Z",
         "lang": "en",
         "source": {
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -112,51 +32,131 @@
         }
     },
     {
-        "id": "06a1f2d906da93476c273a571d23e962",
-        "title": "Microsoft continues to add AI capacity as analysts expect Azure to accelerate",
-        "description": "Microsoft (MSFT) produced year-over-year revenue growth of more than 18% for the second consecutive quarter as analysts point out the company's buildout of more artificial intelligence capacity is a sign of accelerating Azure growth.",
-        "content": "Microsoft continues to add AI capacity as analysts expect Azure to accelerate\nComments\nMicrosoft (MSFT) produced year-over-year revenue growth of more than 18% for the second consecutive quarter as analysts point out the company's buildout of more ar... [681 chars]",
-        "url": "https://seekingalpha.com/news/4511322-microsoft-continues-to-add-ai-capacity-as-analysts-expect-azure-to-accelerate",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2207863836/image_2207863836.jpg?io=getty-c-w630",
-        "publishedAt": "2025-10-30T13:11:39Z",
+        "id": "5bb47ec1d1e31b8d49aed3cacf65a0c5",
+        "title": "BNR's Stoienescu (NBR): I never see AI being able to replace areas related to human interaction",
+        "description": "Artificial intelligence will never be able to replace areas related to human interaction, such as emotional intelligence, Adelina Stoienescu, an expert at the Supervision of Payments and Payment Instruments Division at the National Bank of Romania (B...",
+        "content": "Artificial intelligence will never be able to replace areas related to human interaction, such as emotional intelligence, Adelina Stoienescu, an expert at the Supervision of Payments and Payment Instruments Division at the National Bank of Romania (B... [3476 chars]",
+        "url": "https://www.stiripesurse.ro/bnrs-stoienescu-nbr-i-never-see-ai-being-able-to-replace-areas-related-to-human-interaction_3826066",
+        "image": "https://www.stiripesurse.ro/media/images/202409/media-172529413557939900.webp",
+        "publishedAt": "2025-10-30T15:02:06Z",
         "lang": "en",
         "source": {
-            "id": "a6d401909ca644c4ffb332486c9cfaea",
-            "name": "Seeking Alpha",
-            "url": "https://seekingalpha.com",
+            "id": "030c5dba023e9d86baf723c66c9de9f4",
+            "name": "stiripesurse.ro",
+            "url": "https://www.stiripesurse.ro",
+            "country": "ro"
+        }
+    },
+    {
+        "id": "f9d633c7766dd934ee0ad5a0bd2ece2b",
+        "title": "Gold Pushes Higher As Market Digests Outcome Of Xi-Trump Meeting",
+        "description": "Gold advanced following a run of losses, as traders digested the outcome of a meeting between US President Donald Trump and Chinese leader Xi Jinping. Bullion rose as much as 2.1%, after falling almost 5% over the previous four sessions. Trump said it was an “amazing meeting” and that China would halt rare earth controls and resume purchases of American soybeans. Xi said his country is willing to cooperate with the US in areas such as trade, energy and artificial intelligence",
+        "content": "Gold advanced following a run of losses, as traders digested the outcome of a meeting between US President Donald Trump and Chinese leader Xi Jinping.\nBullion rose as much as 2.1%, after falling almost 5% over the previous four sessions. Trump said i... [1993 chars]",
+        "url": "https://www.ndtvprofit.com/markets/gold-pushes-higher-as-market-digests-outcome-of-xi-trump-meeting",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-10-30%2Fedlq2agm%2F442992608-1.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-10-30T15:01:21Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "347708b6a52f8bdc6a251cdca3ec8b44",
+        "title": "Google's Search Acceleration Suggests AI Expanding Overall 'Information' Opportunity, BofA Says",
+        "description": "Alphabet's Google's search acceleration, noted by the 7% rise in paid clicks in Q3, suggests that artificial intelligence is expanding the overall information opportunity, which is driving higher...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/google-s-search-acceleration-suggests-ai-expanding-overall-information-opportunity-bofa-says-ce7d5cdadb8cf722",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2025-10-30T14:51:52Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "57b4a7cfeb92896ab66c88f26fa813fe",
+        "title": "University of Texas at Dallas,: Team Builds Computer Prototype Designed To Make AI More Efficient",
+        "description": "Dr. Joseph S. Friedman and his colleagues created a computer prototype that learns patterns and makes predictions using fewer training computations than conventional artificial intelligence...",
+        "content": "Dr. Joseph S. Friedman and his colleagues created a computer prototype that learns patterns and makes predictions using fewer training computations than conventional artificial intelligence systems.\nCould computers ever learn more like humans do, wit... [4681 chars]",
+        "url": "https://www.marketscreener.com/news/university-of-texas-at-dallas-team-builds-computer-prototype-designed-to-make-ai-more-efficient-ce7d5cdadb8dff22",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2025-10-30T14:50:12Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "05667c03afa7343e2d56a6b9236a38f5",
+        "title": "Meta loses 12% market cap after $70B AI spending plan sparks investor doubts despite strong quarter",
+        "description": "Meta Platforms’ stock took a sharp hit on Thursday, sliding more than 12% as investors grew uneasy about CEO Mark Zuckerberg’s massive new spending plans for artificial intelligence. The drop wiped out tens of billions in market value in a single day, overshadowing what was otherwise a strong earnings report. The company raised its 2025",
+        "content": "Meta Platforms’ stock took a sharp hit on Thursday, sliding more than 12% as investors grew uneasy about CEO Mark Zuckerberg’s massive new spending plans for artificial intelligence. The drop wiped out tens of billions in market value in a single day... [2415 chars]",
+        "url": "https://techstartups.com/2025/10/30/meta-loses-12-market-cap-after-70b-ai-spending-plan-sparks-investor-doubts-despite-strong-quarter/",
+        "image": "https://techstartups.com/wp-content/uploads/2024/08/ZuckZuckGo.jpg",
+        "publishedAt": "2025-10-30T14:25:46Z",
+        "lang": "en",
+        "source": {
+            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+            "name": "TechStartups.com",
+            "url": "https://techstartups.com",
             "country": "us"
         }
     },
     {
-        "id": "0603b9a0e5745c854eb1e6ca03de6246",
-        "title": "Curriculum on AI to be introduced in all schools from Class 3 onwards: MoE",
-        "description": "The Department of School Education & Literacy (DoSE&L), Ministry of Education, has reaffirmed its commitment to advancing Artificial Intelligence and Computational Thinking (AI & CT) as essential components of future-ready education.",
-        "content": "The Department of School Education & Literacy (DoSE&L), Ministry of Education, has reaffirmed its commitment to advancing Artificial Intelligence and Computational Thinking (AI & CT) as essential components of future-ready education. The Department i... [2705 chars]",
-        "url": "https://www.devdiscourse.com/article/headlines/3678929-curriculum-on-ai-to-be-introduced-in-all-schools-from-class-3-onwards-moe",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_10_2025_18_40_41_2615412.jpg?width=920&format=jpeg",
-        "publishedAt": "2025-10-30T13:10:45Z",
+        "id": "bda38b4b7db7c737c8c3f1e2372e1d36",
+        "title": "AI boom drives trillion-dollar tech valuations and record bets on chipmakers",
+        "description": "(Reuters) -Top technology companies hit fresh valuation milestones in October, as their shares climbed on expectations of robust demand for AI chips and computing infrastructure driven by the artificial intelligence boom.",
+        "content": "(Reuters) -Top technology companies hit fresh valuation milestones in October, as their shares climbed on expectations of robust demand for AI chips and computing infrastructure driven by the artificial intelligence boom.\nNvidia’s shares jumped nearl... [1433 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/30/ai-boom-drives-trillion-dollar-tech-valuations-and-record-bets-on-chipmakers",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/30/3597952.jpg",
+        "publishedAt": "2025-10-30T14:25:00Z",
         "lang": "en",
         "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "ec593d0a2a950e461062bf966e24950c",
+        "title": "Reliance And Google Partners: The AI Alliance That Could Redefine India’s Digital Future",
+        "description": "Reliance and Google Partners: Reliance Industries Limited, through Reliance Intelligence Limited, and Google today announced an expansive strategic partnership to accelerate the adoption of Artificial Intelligence (AI) across Reliance Intelligence will also develop and offer its own pre-built enterprise AI agents in Gemini Enterprise, expanding the available choice of both Google-built and third-party agents to users.",
+        "content": "10\nReliance Industries Limited, through Reliance Intelligence Limited, and Google today announced an expansive strategic partnership to accelerate the adoption of Artificial Intelligence (AI) across India, “empowering consumers, enterprises, and deve... [3618 chars]",
+        "url": "https://www.newsx.com/business/reliance-and-google-partners-the-ai-alliance-that-could-redefine-indias-digital-future-102783/",
+        "image": "https://www.newsx.com/wp-content/uploads/2025/10/reliance-and-google-partners.jpg",
+        "publishedAt": "2025-10-30T14:24:08Z",
+        "lang": "en",
+        "source": {
+            "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+            "name": "NewsX",
+            "url": "https://www.newsx.com",
             "country": "in"
         }
     },
     {
-        "id": "25c391b2b7e44ca5966042d3419f5b1c",
-        "title": "Google join hands to build India’s AI infrastructure and broaden access",
-        "description": "Reliance and Google announce a wide-ranging AI partnership spanning consumers, enterprises, and compute—aiming to make artificial intelligence more accessible and build India’s digital AI backbone.",
-        "content": "Reliance-Google join hands to build India’s AI infrastructure and broaden access\nReliance and Google announce a wide-ranging AI partnership spanning consumers, enterprises, and compute—aiming to make artificial intelligence more accessible and build ... [3403 chars]",
-        "url": "https://www.cnbctv18.com/market/stocks/reliance-industries-share-price-google-join-hands-to-build-indias-ai-infrastructure-and-broaden-access-19734270.htm",
-        "image": "https://images.cnbctv18.com/uploads/2023/03/artificial-intelligence.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2025-10-30T13:03:23Z",
+        "id": "5dc9152e8a4e63050f3f2a401653aff8",
+        "title": "Northern Trust Universe Data: Rate Cuts, AI Momentum and Tariff Stabilization Fuel Third Quarter Market Gains",
+        "description": "Global markets delivered positive results for U.S. institutional investors in the third quarter of 2025, supported by a Federal Reserve interest rate cut, developments in artificial intelligence and...",
+        "content": "Global markets delivered positive results for U.S. institutional investors in the third quarter of 2025, supported by a Federal Reserve interest rate cut, developments in artificial intelligence (AI) and stabilization of tariff negotiations. The Nort... [4610 chars]",
+        "url": "https://www.marketscreener.com/news/northern-trust-universe-data-rate-cuts-ai-momentum-and-tariff-stabilization-fuel-third-quarter-mar-ce7d5cdadb89f526",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2025-10-30T14:16:05Z",
         "lang": "en",
         "source": {
-            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-            "name": "CNBC TV18",
-            "url": "https://www.cnbctv18.com",
-            "country": "in"
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
         }
     }
 ]
