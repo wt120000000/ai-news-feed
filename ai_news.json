@@ -1,5 +1,37 @@
 [
     {
+        "id": "8990969c4c9d8e5c9ee295dea3124dfd",
+        "title": "Amazon shares soar 14% as cloud growth beats expectations",
+        "description": "The online retailer benefited as businesses continue to spend relentlessly on artificial intelligence software development",
+        "content": "Amazon's cloud revenue rose at the fastest clip in nearly three years, helping the company forecast quarterly sales above estimates and driving its shares up 14% in after-market trading.\nThe company projected increased capital spending next year.\nThe... [4836 chars]",
+        "url": "https://www.moneycontrol.com/news/business/amazon-shares-soar-14-as-cloud-growth-beats-expectations-13644269.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251031040940_amazon.jpg",
+        "publishedAt": "2025-10-31T04:10:32Z",
+        "lang": "en",
+        "source": {
+            "id": "fd3677545b80d5db7541de8e111d27ba",
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "4ca4ce4235da7dd53db4b01df14f111e",
+        "title": "Google CEO Sundar Pichai expresses enthusiasm over AI deal with Reliance, highlights benefits for Jio users",
+        "description": "Google and Reliance Jio are joining forces to boost Artificial Intelligence use across India. Eligible Jio customers will receive Google's AI Pro plan for free for 18 months. This includes advanced AI tools and significant cloud storage. The initiative aims to empower consumers, businesses, and developers. Reliance will also partner with Google Cloud for AI hardware.",
+        "content": "Synopsis\nGoogle and Reliance Jio are joining forces to boost Artificial Intelligence use across India. Eligible Jio customers will receive Google's AI Pro plan for free for 18 months. This includes advanced AI tools and significant cloud storage. The... [4301 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/google-ceo-sundar-pichai-expresses-enthusiasm-over-ai-deal-with-reliance-highlights-benefits-for-jio-users/articleshow/124983243.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41724,resizemode-75,msid-124983243/tech/technology/google-ceo-sundar-pichai-expresses-enthusiasm-over-ai-deal-with-reliance-highlights-benefits-for-jio-users.jpg",
+        "publishedAt": "2025-10-31T04:05:53Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "259e32d120bc339c211690432e73b751",
         "title": "AI, CT Curriculum To Be Introduced From Class 3 By 2026; CBSE Sets Up Expert Committee",
         "description": "Artificial Intelligence and Computational Thinking will be introduced in all schools from Class 3 starting 2026–27 under the Ministry of Education’s plan. The move aligns with NEP 2020 and aims to equip students with essential digital and analytical skills.",
@@ -119,38 +151,6 @@
         "url": "https://www.thestar.com.my/tech/tech-news/2025/10/31/meta-to-issue-bonds-worth-up-to-30-billion",
         "image": "https://apicms.thestar.com.my/uploads/images/2025/10/31/3598455.jpg",
         "publishedAt": "2025-10-30T23:43:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "ddf57c02241523c7b5e465d7a0703f8d",
-        "title": "Apple isn't playing the same AI capex game as the rest of the megacaps",
-        "description": "While many of the largest tech companies race to build massive data centers for their artificial intelligence ambitions, Apple is taking a more modest approach.",
-        "content": "While many of the largest tech companies race to build massive data centers for their artificial intelligence ambitions, Apple is taking a more modest approach.\nInstead of simply buying as many AI chips as possible, Apple buys computing capacity from... [3421 chars]",
-        "url": "https://www.cnbc.com/2025/10/30/apple-isnt-playing-the-same-ai-capex-game-as-the-rest-of-the-megacaps.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108196778-1757507590799-gettyimages-2234563479-_73a3022_jnkqswz6.jpeg?v=1761864974&w=1920&h=1080",
-        "publishedAt": "2025-10-30T23:37:36Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "322029bbc4d1f46f605f76d334b0c49a",
-        "title": "OpenAI, Oracle plan 1 gigawatt Stargate data center in Michigan with Related Digital",
-        "description": "(Reuters) -OpenAI, Oracle and Related Digital will build a data-center campus of more than 1 gigawatt in Saline Township, Michigan, as part of their Stargate push to expand U.S. artificial intelligence infrastructure capacity.",
-        "content": "(Reuters) -OpenAI, Oracle and Related Digital will build a data-center campus of more than 1 gigawatt in Saline Township, Michigan, as part of their Stargate push to expand U.S. artificial intelligence infrastructure capacity.\nThe announcement made o... [1748 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2025/10/31/openai-oracle-related-digital-announce-new-stargate-data-center-in-michigan",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/10/31/3598443.jpg",
-        "publishedAt": "2025-10-30T23:28:00Z",
         "lang": "en",
         "source": {
             "id": "1e30d944d63d9090db5a2c2e28a8772f",
