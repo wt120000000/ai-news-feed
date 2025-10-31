@@ -1,5 +1,37 @@
 [
     {
+        "id": "49ab8cb5d957324023445a73d5139245",
+        "title": "Wall Street indexes fall as Meta, Microsoft drag, along with Fed rate concerns",
+        "description": "Indian markets saw a dip as global cues turned negative. Major US indexes like Nasdaq and S&P 500 declined. Meta and Microsoft shares dropped significantly due to increased artificial intelligence spending. The US Federal Reserve's hawkish tone also impacted investor sentiment. Investors are now closely watching upcoming earnings reports for further direction.",
+        "content": "Synopsis\nIndian markets saw a dip as global cues turned negative. Major US indexes like Nasdaq and S&P 500 declined. Meta and Microsoft shares dropped significantly due to increased artificial intelligence spending. The US Federal Reserve's hawkish t... [5866 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-indexes-fall-as-meta-microsoft-drag-along-with-fed-rate-concerns/articleshow/124979653.cms",
+        "image": "https://img.etimg.com/thumb/msid-124979700,width-1200,height-630,imgsize-108514,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2025-10-31T02:05:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "3aef0c4a8e43a57e823c67c38a2f65a9",
+        "title": "Meta Defies AI Spending Gloom With Its Record-Breaking Bond Sale",
+        "description": "Meta Platforms Inc. found record-shattering demand for its bond sale on Thursday even as its shares plunged, in a sign that bond investors are looking past any concerns about its artificial-intelligence spending plans",
+        "content": "Meta Platforms Inc. found record-shattering demand for its bond sale on Thursday even as its shares plunged, in a sign that bond investors are looking past any concerns about its artificial-intelligence spending plans.\nThe company sold $30 billion of... [4624 chars]",
+        "url": "https://www.ndtvprofit.com/global-economics/meta-defies-ai-spending-gloom-with-its-record-breaking-bond-sale",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-10-31%2F0b3z5bxb%2F443205937.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-10-31T01:35:46Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "54099ff49b58042df7ac75d91e6732d3",
         "title": "Integrated traffic management system under trial run, likely roll out in November",
         "description": "The ITMS has an artificial intelligence-based system with data storage on cloud and connected through an optical fibre network",
@@ -125,38 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "e94a6648a90d6838592e90f4e7c79031",
-        "title": "Meta Defies AI Spending Gloom With Its Record-Breaking Bond Sale",
-        "description": "Meta Platforms Inc. found record-shattering demand for its bond sale on Thursday even as its shares plunged, in a sign that bond investors are looking past any concerns about its artificial-intelligence spending plans.",
-        "content": "Meta Platforms Inc. found record-shattering demand for its bond sale on Thursday even as its shares plunged, in a sign that bond investors are looking past any concerns about its artificial-intelligence spending plans.\nThe company sold $30 billion of... [296 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-10-30/meta-defies-ai-spending-gloom-with-its-record-breaking-bond-sale",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik6SFUIi_6yk/v0/1200x800.jpg",
-        "publishedAt": "2025-10-30T22:11:31Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "078d7d6140c613756b7ebf71d998a4cc",
-        "title": "GoDaddy raises 2025 revenue forecast on AI-driven demand",
-        "description": "GoDaddy raised its annual revenue outlook on Thursday, expecting to boost sales from the addition of artificial intelligence features to its internet hosting services.",
-        "content": "GoDaddy has been rolling out AI features to gain traction for its services, which help businesses set up online domains, payment systems and expand their online presence.\nSign up here.\nFor the year, GoDaddy raised its revenue expectations to a range ... [1225 chars]",
-        "url": "https://www.reuters.com/technology/godaddy-raises-2025-revenue-forecast-ai-driven-demand-2025-10-30/",
-        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-10-30T21:24:41Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
         }
     }
 ]
