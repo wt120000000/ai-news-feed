@@ -1,5 +1,37 @@
 [
     {
+        "id": "15966ac4c0ac4016f1fb88d9a67fbb7e",
+        "title": "APEC Summit: Leaders' Declaration Concludes with Key Initiatives",
+        "description": "The Asia-Pacific Economic Cooperation summit concluded with the adoption of a leaders' declaration. Key outcomes include the Gyeongju Declaration 2025, the APEC Artificial Intelligence Initiative, and the Framework for Cooperation on Population Structure Changes, according to Chinese state media.",
+        "content": "The annual Asia-Pacific Economic Cooperation (APEC) summit wrapped up with leaders adopting a comprehensive declaration, as confirmed by Chinese state media, Xinhua.\nIn line with announcements from the summit, a source also relayed to Reuters that th... [407 chars]",
+        "url": "https://www.devdiscourse.com/article/law-order/3680771-apec-summit-leaders-declaration-concludes-with-key-initiatives",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/26_08_2025_11_03_36_2035216.png?width=920&format=jpeg",
+        "publishedAt": "2025-11-01T03:58:42Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "dcc898c6b9db06b57173e1b24b4689df",
+        "title": "Nvidia CEO Jensen Huang completes $1 billion share sale",
+        "description": "Nvidia CEO Jensen Huang has sold over one billion dollars in company shares. This sale concludes a large pre-planned divestment. The chipmaker recently crossed a five trillion dollar market value milestone. This surge is driven by high demand for artificial intelligence processors. Several other company insiders have also profited significantly from the AI boom.",
+        "content": "Synopsis\nNvidia CEO Jensen Huang has sold over one billion dollars in company shares. This sale concludes a large pre-planned divestment. The chipmaker recently crossed a five trillion dollar market value milestone. This surge is driven by high deman... [4376 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nvidia-ceo-jensen-huang-completes-1-billion-share-sale/articleshow/125009132.cms",
+        "image": "https://img.etimg.com/thumb/msid-125009126,width-1200,height-630,imgsize-19028,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2025-11-01T03:22:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "b60426640d2f5eaf62bc61c2e4692d6f",
         "title": "gen AI megafactory for chip production",
         "description": "Samsung Electronics said Friday that it will create a next-generation artificial intelligence megafactory in partnership with US chip giant Nvidia, aiming to embed AI across its entire global semiconductor production line, according to Focus Taiwan.",
@@ -112,22 +144,6 @@
         }
     },
     {
-        "id": "e0999682e3fe2dbd5b5b9c9d9a94b6e9",
-        "title": "Readers Write: Food insecurity, artificial intelligence, women’s history, fraud",
-        "description": "Food stamps eased the way into my career.",
-        "content": "It is no fun to need SNAP or WIC. Yet, those benefits are essential and lifesaving for an enormous number of people. There is no shame — many people availing themselves of SNAP and WIC are working as hard (or harder) than those of us who don’t need t... [1427 chars]",
-        "url": "https://www.startribune.com/readers-write-food-insecurity-artificial-intelligence-womens-history-fraud/601504868",
-        "image": "https://arc.stimg.co/startribunemedia/QUDYPN2IQRCURCDTNLX42JI5MU.jpg?&w=1200&ar=1.91:1&fit=crop",
-        "publishedAt": "2025-11-01T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "fca9664a9e215efa308045911cfc7fc3",
-            "name": "Star Tribune",
-            "url": "https://www.startribune.com",
-            "country": "us"
-        }
-    },
-    {
         "id": "280dda00ee738b0e4ab7254141c42fa4",
         "title": "Adrian Wooldridge: How AI will indulge bosses’ most toxic instincts",
         "description": "The most important question that companies face in deploying artificial intelligence is not technological but organizational: Should they use AI to increase the power of high-up managers or liberate frontline workers? I suspect that the bulk of them will give the wrong answer to the question – and that we will be dealing with the consequences of their mistakes for decades to come, not just economically, as companies lose their creative flair, but also politically, as professional elites join the ranks of the angry and alienated.",
@@ -140,22 +156,6 @@
             "id": "c8c865ed042eb14694b8d596e22efe99",
             "name": "Spokane Spokesman-Review",
             "url": "https://www.spokesman.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "27a82cbeb464db5ad7015ef941407800",
-        "title": "Trader’s Guide to India’s Data Center Boom Powered by Google, OpenAI",
-        "description": "As Alphabet Inc.’s Google and other US tech behemoths pledge billions of dollars to build artificial intelligence infrastructure in India, investors are racing to identify local firms set to benefit from the wave of investments.",
-        "content": "As Alphabet Inc.’s Google and other US tech behemoths pledge billions of dollars to build artificial intelligence infrastructure in India, investors are racing to identify local firms set to benefit from the wave of investments.\nThe creation of an AI... [276 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-11-01/trader-s-guide-to-india-s-data-center-boom-powered-by-google-openai",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i21K5Zg2VhYE/v0/1200x800.jpg",
-        "publishedAt": "2025-11-01T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
             "country": "us"
         }
     }
