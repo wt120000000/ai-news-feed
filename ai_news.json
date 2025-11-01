@@ -1,5 +1,69 @@
 [
     {
+        "id": "9e933a6c619866a213e448dc3c303bbf",
+        "title": "Georgia is at a crossroads in global AI race, here’s how state can thrive",
+        "description": "As the United States and China compete in the global artificial intelligence race, Georgia must do a better job preparing for the magnitude of AI economic opportunities.",
+        "content": "The Peach State has yet to attract artificial intelligence mega-projects on the scale seen in Texas and can learn from the Lone Star State and others.\nJensen Huang, the chief executive of Nvidia, which currently controls more than 90% of the market f... [6388 chars]",
+        "url": "https://www.ajc.com/opinion/2025/11/georgia-is-at-a-crossroads-in-global-ai-race-but-heres-how-state-can-thrive/",
+        "image": "https://www.ajc.com/resizer/v2/Q5DRUJFXCNGRQTBAIMZXTOPUI4.jpg?auth=5c00e60dd14ef903e8eb367b2f3d1b0f01f4b489f4e90f4c28c54509b717929f&width=1200&height=630&smart=true",
+        "publishedAt": "2025-11-01T10:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "79e9a45376a66fd7e1a4e68bba928c39",
+            "name": "The Atlanta Journal-Constitution",
+            "url": "https://www.ajc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "20c5696aff0ecbe32bf9b92ee2d7d14a",
+        "title": "Sundar Pichai: AI more profound than fire or electricity; why mastering it is key to survival",
+        "description": "News News: In 2023, Alphabet CEO Sundar Pichai likened artificial intelligence to fire and electricity—technologies that reshaped civilization. Calling AI the mo",
+        "content": "In 2023, Alphabet CEO Sundar Pichai likened artificial intelligence to fire and electricity—technologies that reshaped civilization. Calling AI the most profound innovation in human history, he urged responsible development and adaptation. As automat... [4489 chars]",
+        "url": "https://timesofindia.indiatimes.com/education/news/sundar-pichai-ai-more-profound-than-fire-or-electricity-why-mastering-it-is-key-to-survival/articleshow/125013441.cms",
+        "image": "https://static.toiimg.com/thumb/msid-125013431,width-1070,height-580,imgsize-68090,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2025-11-01T09:31:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "6fe9f7b4fd9cd53ada71765af86ccfd9",
+        "title": "AI useful but dangerous if misused, says Chief Justice",
+        "description": "KUALA LUMPUR: Artificial Intelligence (AI) is like a chainsaw, useful in the right hands but extremely dangerous in the wrong ones, says Chief Justice Datuk Seri Wan Ahmad Farid Wan Salleh.",
+        "content": "KUALA LUMPUR: Artificial Intelligence (AI) is like a chainsaw, useful in the right hands but extremely dangerous in the wrong ones, says Chief Justice Datuk Seri Wan Ahmad Farid Wan Salleh.\nThe top judge noted AI is no longer a distant possibility, b... [1952 chars]",
+        "url": "https://www.thestar.com.my/news/nation/2025/11/01/ai-useful-but-dangerous-if-misused-says-chief-justice",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/01/3600658.jpg",
+        "publishedAt": "2025-11-01T09:22:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "dd2c5c2af9317c9215bdcce81908409a",
+        "title": "China's Xi pushes for global AI body at APEC in counter to U.S.",
+        "description": "Xi said a World Artificial Intelligence Cooperation Organization could set governance rules and boost cooperation.",
+        "content": "Chinese President Xi Jinping took center stage at a meeting of APEC leaders on Saturday to push a proposal for a global body to govern artificial intelligence and position China as an alternative to the United States on trade cooperation.\nThe comment... [1995 chars]",
+        "url": "https://www.cnbc.com/2025/11/01/chinas-xi-pushes-for-global-ai-body-at-apec-in-counter-to-us.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108218701-17617542602025-09-02t043753z_430267540_rc2gjgahlcjf_rtrmadp_0_ww2-anniversary-china-russia-mongolia.jpeg?v=1761988814&w=1920&h=1080",
+        "publishedAt": "2025-11-01T09:20:40Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "611aa8f4974ea40968fcf4fd6acb20f0",
         "title": "Kevin O'Leary Warns Real Threat Is AI, Not Nukes, As Trump Orders First US Nuclear Test Since 1992 To Counter Russia, China",
         "description": "As Donald Trump revives U.S. nuclear testing after three decades, Kevin O'Leary warns that artificial intelligence—not atomic weapons—will determine global military power in the future.",
@@ -92,70 +156,6 @@
             "id": "60c457b35b486691319f105c3a760060",
             "name": "Malayala Manorama",
             "url": "https://www.onmanorama.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e373149d35332e7d787aa451ae09dfd9",
-        "title": "Amazon’s cloud tech growth calms investor worries on AI",
-        "description": "Amazon.com Inc. posted robust cloud growth that reassured investors that the tens of billions of dollars the company and its peers are pouring into artificial intelligence will pay off.",
-        "content": "Amazon.com Inc. posted robust cloud growth that reassured investors that the tens of billions of dollars the company and its peers are pouring into artificial intelligence will pay off.\nIn the third quarter, Amazon Web Services generated $33 billion ... [3955 chars]",
-        "url": "https://www.arkansasonline.com/news/2025/nov/01/amazons-cloud-tech-growth-calms-investor-worries/",
-        "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
-        "publishedAt": "2025-11-01T06:48:00Z",
-        "lang": "en",
-        "source": {
-            "id": "69a24b80e5bce5a07f808f5ea84c434b",
-            "name": "Arkansas Online",
-            "url": "https://www.arkansasonline.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3ba89b248545f6df12377cec171b7994",
-        "title": "West Bengal Police To Set Up Dedicated Artificial Intelligence Cell To Enhance Transparency, Efficiency And Strategic Decision-Making",
-        "description": "DGP Rajeev Kumar issued an order to integrate an AI Cell into policing practices. The special AI Cell will be led by an Additional Director General (ADG)-rank officer.",
-        "content": "Kolkata: The West Bengal Police plans to form a special AI Cell with expertise in skills that will help officers in their transparency policy formation, strategy, and decision-making within the force.\nDGP Rajeev Kumar issued an order to integrate an ... [2419 chars]",
-        "url": "https://www.freepressjournal.in/india/west-bengal-police-to-set-up-dedicated-artificial-intelligence-cell-to-enhance-transparency-efficiency-and-strategic-decision-making",
-        "image": "https://media.assettype.com/freepressjournal/2025-11-01/s2llm86k/Untitled-design-2025-11-01T115819.623.jpg",
-        "publishedAt": "2025-11-01T06:32:35Z",
-        "lang": "en",
-        "source": {
-            "id": "7eeaf9a839918543cc708f2d331c3be4",
-            "name": "Free Press Journal",
-            "url": "https://www.freepressjournal.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "14735093e5aebccebdfa112f6452f684",
-        "title": "The great AI buildout shows no sign of slowing",
-        "description": "A momentous week in the technology sector made it clear there is no sign the boom in building artificial intelligence infrastructure is slowing — despite the bubble talk.",
-        "content": "A momentous week in the technology sector made it clear there is no sign the boom in building artificial intelligence infrastructure is slowing — despite the bubble talk. Nvidia, whose processors are the AI revolution’s backbone, became the first com... [4788 chars]",
-        "url": "https://www.thehindu.com/sci-tech/technology/the-great-ai-buildout-shows-no-sign-of-slowing/article70228443.ece",
-        "image": "https://th-i.thgim.com/public/incoming/k01751/article70228449.ece/alternates/LANDSCAPE_1200/2025-10-31T100049Z_693932249_RC28X4A686TJ_RTRMADP_3_HAPPIESTMINDS-GENAI-INTERVIEW.JPG",
-        "publishedAt": "2025-11-01T05:49:30Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1bf6821ecf90e037b4bbda6698a7e43e",
-        "title": "Samsung, Nvidia Partner To Build Next-Gen AI Megafactory For Chip Production",
-        "description": "Samsung Electronics said Friday that it will create a next-generation artificial intelligence megafactory in partnership with US chip giant Nvidia, aiming to embed AI across its entire global semiconductor production line, according to Focus Taiwan.",
-        "content": "Samsung Electronics said Friday that it will create a next-generation artificial intelligence megafactory in partnership with US chip giant Nvidia, aiming to embed AI across its entire global semiconductor production line, according to Focus Taiwan.\n... [3415 chars]",
-        "url": "https://www.republicworld.com/business/samsung-nvidia-partner-to-build-next-gen-ai-megafactory-for-chip-production",
-        "image": "https://img.republicworld.com/all_images/samsung-electronics-1760753067036-16_9.webp",
-        "publishedAt": "2025-11-01T05:31:32Z",
-        "lang": "en",
-        "source": {
-            "id": "e479ce8332aab31d8bac6ba9584cedbb",
-            "name": "Republic World",
-            "url": "https://www.republicworld.com",
             "country": "in"
         }
     }
