@@ -1,5 +1,37 @@
 [
     {
+        "id": "c6e05270d197a1ced08112ae4d54c115",
+        "title": "Andrew Cuomo slammed for ‘embarrassing’ AI Halloween attack ad on Zohran Mamdani",
+        "description": "Independent candidate for New York mayor Andrew Cuomo has come under fire for his use of artificial intelligence in a campaign ad attacking his Democratic rival Zohran Mamdani. Titled 'A Zohran Halloween Special', the video features Mamdani knocking on a couple's door and explaining he is dressed as a 'socialist', before taking a handful of sweets.",
+        "content": "With the New York mayoral election just days away, independent candidate Andrew Cuomo has taken to social media on Halloween to try to warn voters against Democratic rival and frontrunner Zohran Mamdani and Republican candidate Curtis Sliwa – with th... [2339 chars]",
+        "url": "https://www.indy100.com/politics/andrew-cuomo-ai-advert-zohran-mamdani-halloween",
+        "image": "https://www.indy100.com/media-library/left-andrew-cuomo-speaking-into-multiple-news-microphones-right-an-ai-generated-zohran-mamdani-smiling-and-pointing-left-with.png?id=62013664&width=1200&height=600&coordinates=0%2C117%2C0%2C383",
+        "publishedAt": "2025-11-01T17:13:30Z",
+        "lang": "en",
+        "source": {
+            "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
+            "name": "indy100",
+            "url": "https://www.indy100.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "9d0bfff40992d0327f7feee5f7a9c337",
+        "title": "Education Ministry Offers 5 Free Artificial Intelligence Courses, Details Inside",
+        "description": "The courses are aimed at equipping students, educators, and professionals with essential AI and data science skills across diverse fields such as sports, education, science, and finance.",
+        "content": "The Ministry of Education (MoE) is offering five free Artificial Intelligence (AI) courses on the SWAYAM portal to equip students, educators, and professionals with essential AI and data science skills applicable across fields such as sports, educati... [2210 chars]",
+        "url": "https://www.ndtv.com/education/education-ministry-offering-5-free-artificial-intelligence-courses-details-inside-9558725",
+        "image": "https://c.ndtvimg.com/2024-10/3928vl9_artificial-intelligence-_625x300_17_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2025-11-01T16:26:03Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "b5ad4dc7d5a1bc38784bef59547c9be6",
         "title": "Cybersecurity needs a rethink in the age of agentic AI",
         "description": "ARTIFICIAL intelligence (AI) has entered a new phase. It is shifting from passive tools to autonomous agents that can plan and act across digital and physical systems, often for extended periods and in concert with other agents. Their interacting and collaborating capabilities are scaling quickly, allowing them to perform increasingly complex tasks with minimal human input across sectors such as banking, e-commerce, and logistics.",
@@ -125,38 +157,6 @@
             "name": "Hindustan Times",
             "url": "https://www.hindustantimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "e42d9acc33b90a7ab945b7e1e1909783",
-        "title": "Xania Monet is the first AI-powered artist to debut on a Billboard airplay chart, but she likely won’t be the last",
-        "description": "Artificial intelligence is everywhere and the music charts are no different. Here’s what you need to know about Xania Monet.",
-        "content": "Artificial intelligence is everywhere and the music charts are no different.\nAccording to Billboard, an AI singer named Xania Monet is “the first known AI artist to earn enough radio airplay to debut on a Billboard radio chart.”\nSo far, Monet has app... [3375 chars]",
-        "url": "https://edition.cnn.com/2025/11/01/entertainment/xania-monet-billboard-ai",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/xania-monet-ailabel.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-11-01T13:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "26269dbc42635df9af8c24f3cdab8e37",
-            "name": "Cable News Network",
-            "url": "https://edition.cnn.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a5e53ba348ed9deb412269fc285ad56e",
-        "title": "Xania Monet is the first AI-powered artist to debut on a Billboard airplay chart, but she likely won’t be the last",
-        "description": "By Lisa Respers France, CNN (CNN) — Artificial intelligence is everywhere and the music charts are no different.According to Billboard, an AI singer",
-        "content": "By Lisa Respers France, CNN\n(CNN) — Artificial intelligence is everywhere and the music charts are no different.\nAccording to Billboard, an AI singer named Xania Monet is “the first known AI artist to earn enough radio airplay to debut on a Billboard... [3411 chars]",
-        "url": "https://krdo.com/news/2025/11/01/xania-monet-is-the-first-ai-powered-artist-to-debut-on-a-billboard-airplay-chart-but-she-likely-wont-be-the-last/",
-        "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-        "publishedAt": "2025-11-01T13:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "efaafb02d34a4a267f22c3b80bd225c1",
-            "name": "KRDO",
-            "url": "https://krdo.com",
-            "country": "us"
         }
     }
 ]
