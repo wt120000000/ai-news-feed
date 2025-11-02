@@ -1,5 +1,37 @@
 [
     {
+        "id": "4f76d92ae7bf195437f3ca8533998e7a",
+        "title": "Michael Bloomberg: Big Tech wants AI into classrooms but the case against hasty adoption is compelling",
+        "description": "AI businesses and even policymakers are rushing to push artificial intelligence into classrooms, promising a learning revolution. But the only prudent approach is to proceed with caution. Given the risks, until AI proves its worth, it’s best kept out.",
+        "content": "In early September, as millions of children were returning to school, technology executives and government officials gathered at the White House to discuss their vision for American education, one in which struggling students are guided by chatbot tu... [3994 chars]",
+        "url": "https://www.livemint.com/opinion/online-views/ai-indian-schools-artificial-intelligence-education-ed-tech-mobile-phones-classrooms-laptop-scheme-google-no-screens-11761829499729.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/11/02/1600x900/ai_robot_teacher_1762074022386_1762074044198.jpeg",
+        "publishedAt": "2025-11-02T10:00:10Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "4d20bbc9bffbb190ca1ddfcf8d886639",
+        "title": "Can AI Music Ever Feel Human? The Answer Goes beyond the Sound",
+        "description": "A personal experiment with the artificial intelligence music platform Suno’s latest model echoes a new preprint study. Most listeners can’t tell AI music from the real thing, but emotional resonance still demands a human story",
+        "content": "This week I logged on to Suno, an artificial intelligence music platform. I had just read a new study that found that most participants couldn’t distinguish Suno’s music from human compositions, and I wanted to try it for myself. I thought of a song ... [6256 chars]",
+        "url": "https://www.scientificamerican.com/article/can-ai-music-ever-feel-human-the-answer-goes-beyond-the-sound/",
+        "image": "https://static.scientificamerican.com/dam/m/5505498b5baa1343/original/GettyImages-73906883.jpg?m=1761938324.895&w=1200",
+        "publishedAt": "2025-11-02T10:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9290338c23f31e3f547a2dbfa1c52c03",
+            "name": "Scientific American",
+            "url": "https://www.scientificamerican.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "872927ea1332dbf63c2951b50f7800fe",
         "title": "Over 1 lakh tech jobs lost in 2025; Amazon, Intel, TCS lead global layoffs amid AI pivot",
         "description": "From Silicon Valley to Bengaluru, tech giants are trimming staff to refocus on artificial intelligence, cloud services, and profitability after years of overexpansion during the pandemic.",
@@ -124,38 +156,6 @@
             "id": "23ca80edba9c670741bdbfc4acd3e991",
             "name": "The Statesman",
             "url": "https://www.thestatesman.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "942ffd1702025a33002767c868c521aa",
-        "title": "South Korea, Singapore sign MOUs on AI, green shipping: President Jae Myung",
-        "description": "South Korea and Singapore agreed to work together on artificial intelligence, green shipping, and defence technology. The agreements were confirmed by President Lee Jae Myung and Prime Minister Lawrence Wong after their summit in Seoul, highlighting closer ties between the two nations.",
-        "content": "Synopsis\nSouth Korea and Singapore agreed to work together on artificial intelligence, green shipping, and defence technology. The agreements were confirmed by President Lee Jae Myung and Prime Minister Lawrence Wong after their summit in Seoul, high... [498 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-singapore-sign-mous-on-ai-green-shipping-president-jae-myung/articleshow/125028560.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-88290,resizemode-75,msid-125028560/tech/artificial-intelligence/south-korea-singapore-sign-mous-on-ai-green-shipping-president-jae-myung.jpg",
-        "publishedAt": "2025-11-02T03:47:44Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e3ace88c1eae2e59088637971eed8ea6",
-        "title": "South Korea and Singapore Forge New Path in AI and Green Shipping",
-        "description": "South Korea and Singapore have signed key agreements to collaborate on artificial intelligence and green shipping. In a bilateral summit held in Seoul, both nations also pledged to work closely on advancing defence technology, aiming to strengthen their strategic partnerships.",
-        "content": "In a landmark agreement, South Korea and Singapore have signed memorandums of understanding to collaborate on pioneering developments in artificial intelligence and green shipping. This announcement was made during a joint press conference featuring ... [525 chars]",
-        "url": "https://www.devdiscourse.com/article/law-order/3681518-south-korea-and-singapore-forge-new-path-in-ai-and-green-shipping",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_49_14_1279651.jpg?width=920&format=jpeg",
-        "publishedAt": "2025-11-02T03:42:11Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
             "country": "in"
         }
     }
