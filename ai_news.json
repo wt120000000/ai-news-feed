@@ -1,5 +1,21 @@
 [
     {
+        "id": "bce9bed258f384409a6929557a9eed6c",
+        "title": "After Layoffs, Microsoft Plans Fresh Hiring Focused On AI: Satya Nadella",
+        "description": "After a year of major layoffs, Microsoft is preparing to grow its workforce again -- but this time with a clear focus on artificial intelligence.",
+        "content": "After a year of major layoffs, Microsoft is preparing to grow its workforce again -- but this time with a clear focus on artificial intelligence (AI).\nSpeaking on the BG2 podcast with investor Brad Gerstner, Microsoft CEO Satya Nadella said the compa... [1882 chars]",
+        "url": "https://www.ndtv.com/india-news/after-layoffs-microsoft-plans-fresh-hiring-focused-on-ai-satya-nadella-9563034",
+        "image": "https://c.ndtvimg.com/2025-07/8h2jfu84_satya-nadella_625x300_10_July_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2025-11-02T16:42:43Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "71a7d39dca4273869ac653fc2c9e79f1",
         "title": "AI sets odds of Palantir (PLTR) stock hitting $250 after Q3 earnings",
         "description": "An artificial intelligence (AI) model is projecting a chance for Palantir (NASDAQ: PLTR) stock to hit an all-time high of $250.",
@@ -140,22 +156,6 @@
             "id": "3e29a1cf81727e4aa5687d46a4b429c4",
             "name": "Bangor Daily News",
             "url": "https://www.bangordailynews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4bb2058125dae913526a8a89034bf337",
-        "title": "Who Is Zico Kolter? A Professor Leads OpenAI Safety Panel With Power to Halt Unsafe AI Releases",
-        "description": "If you believe artificial intelligence poses grave risks to humanity, then a professor at Carnegie Mellon University has one of the most important roles in the tech industry right now.",
-        "content": "If you believe artificial intelligence poses grave risks to humanity, then a professor at Carnegie Mellon University has one of the most important roles in the tech industry right now.\nZico Kolter leads a 4-person panel at OpenAI that has the authori... [6146 chars]",
-        "url": "https://www.usnews.com/news/business/articles/2025-11-02/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases",
-        "image": "https://www.usnews.com/dims4/USNEWS/a02e120/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F1f%2F6a802ab95ae7910bc78c7e01b6092c%2Faf24e4d419f141e5ae5b393b8a4d63c7OpenAI-Safety_Leader_92840.jpg",
-        "publishedAt": "2025-11-02T13:21:00Z",
-        "lang": "en",
-        "source": {
-            "id": "37128a060981dbbe79321f096e7d1108",
-            "name": "U.S. News & World Report",
-            "url": "https://www.usnews.com",
             "country": "us"
         }
     }
