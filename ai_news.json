@@ -1,5 +1,21 @@
 [
     {
+        "id": "11322fbec4ebb8c0fb7d75a1fd9addf2",
+        "title": "Legal Services Board of Victoria warns lawyers about AI in court",
+        "description": "The use of artificial intelligence to prepare court documents raises questions in the legal profession about its use and misuse in the industry.",
+        "content": "An increasing number of court cases are being disrupted by the use of artificial intelligence, which is providing false case citations.\nIn the past year in Victoria, one solicitor's practising conditions were changed and a law firm was ordered to pay... [4393 chars]",
+        "url": "https://www.abc.net.au/news/2025-11-03/legal-services-board-of-victoria-warns-lawyers-about-ai-in-court/105916628",
+        "image": "https://live-production.wcms.abc-cdn.net.au/c21712ae390f1a272bdbe4c26e3c74a5?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=53&width=862&height=485&imformat=generic",
+        "publishedAt": "2025-11-02T21:03:31Z",
+        "lang": "en",
+        "source": {
+            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+            "name": "ABC (Australian Broadcasting Corporation)",
+            "url": "https://www.abc.net.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "4da8ce7a6a0f17b44c8bfe3286787235",
         "title": "Super Micro Computer (SMCI) Is About to Report Q1 Earnings. Here’s What to Expect",
         "description": "Artificial intelligence (AI) server maker Super Micro Computer (SMCI) is scheduled to announce its results for the first quarter of Fiscal 2026 ...",
@@ -141,22 +157,6 @@
             "name": "Finbold",
             "url": "https://finbold.com",
             "country": "bg"
-        }
-    },
-    {
-        "id": "65ba15e8483bf258fe8987db70f5eced",
-        "title": "The future of AI and music is coming into focus. It does not look good for human artists",
-        "description": "This past week may go down in history as when we as a species decided that the future of music lay in music created by artificial intelligence.",
-        "content": "The record executives had gathered in the back corner of an exclusive private club, sipping from crystal highball glasses, each with a large square ice cube. A bottle of 40-year-old Macallan, already two-thirds empty, sat on the table.\n“Artists are s... [7693 chars]",
-        "url": "https://globalnews.ca/news/11502835/future-ai-music-human-artists/",
-        "image": "https://globalnews.ca/wp-content/uploads/2025/10/CP217076942.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2025-11-02T15:00:12Z",
-        "lang": "en",
-        "source": {
-            "id": "49853ffafc28f405ff8ed06043290ae8",
-            "name": "Global News",
-            "url": "https://globalnews.ca",
-            "country": "ca"
         }
     }
 ]
