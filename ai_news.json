@@ -1,5 +1,37 @@
 [
     {
+        "id": "a1ba7055d5286607dbca10d4a7671905",
+        "title": "Learn to code: AI could mean boom times for software developers",
+        "description": "Artificial intelligence (AI) could, in time, create more jobs for software developers rather than eliminate them, according to investment bank Morgan Stanley.",
+        "content": "NEW YORK: Artificial intelligence (AI) could, in time, create more jobs for software developers rather than eliminate them, according to investment bank Morgan Stanley.\n\"The rise of AI-powered coding tools is not eliminating jobs – it's creating new ... [1699 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/11/04/learn-to-code-ai-could-mean-boom-times-for-software-developers",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/04/3604894.jpeg",
+        "publishedAt": "2025-11-04T05:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "adde6b4aded13f2a9cfda37c26b62c31",
+        "title": "China offers tech giants cheap power to boost domestic AI chips, FT reports",
+        "description": "China has increased subsidies that cut energy bills by up to half for some of the country's largest data centres. Local governments have beefed up incentives to help Chinese tech giants such as ByteDance, Alibaba and Tencent , which have been hit with higher electricity costs following Beijing's ban on purchasing Nvidia's artificial intelligence chips.",
+        "content": "Synopsis\nChina has increased subsidies that cut energy bills by up to half for some of the country's largest data centres. Local governments have beefed up incentives to help Chinese tech giants such as ByteDance, Alibaba and Tencent , which have bee... [720 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/china-offers-tech-giants-cheap-power-to-boost-domestic-ai-chips-ft-reports/articleshow/125075215.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-139744,resizemode-75,msid-125075215/tech/technology/china-offers-tech-giants-cheap-power-to-boost-domestic-ai-chips-ft-reports.jpg",
+        "publishedAt": "2025-11-04T04:52:35Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "848a807ae7428f357628e42035e05604",
         "title": "South Korean president calls for aggressive AI spending in budget speech",
         "description": "South Korean President Lee Jae Myung on Tuesday called for tripling the government spending on projects for expanding artificial intelligence infrastructure and technology in a budget speech.",
@@ -125,38 +157,6 @@
             "name": "CNA",
             "url": "https://www.channelnewsasia.com",
             "country": "sg"
-        }
-    },
-    {
-        "id": "dc19e02686481dcddfeb74d81fdf6025",
-        "title": "South Korea's Lee Puts AI at Center of Economic Vision in First Budget Speech",
-        "description": "South Korean President Lee Jae Myung placed artificial intelligence at the heart of his administration’s economic vision, pledging to transform the country’s industries, public services and defense through aggressive AI investment and policy support.",
-        "content": "Tax & Spend\nSouth Korea’s Lee Highlights AI in First Budget Speech\nSouth Korean President Lee Jae Myung placed artificial intelligence at the heart of his administration’s economic vision, pledging to transform the country’s industries, public servic... [383 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-11-04/south-korea-s-lee-puts-ai-centre-stage-in-first-budget-speech",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioKEaLZJtQzQ/v1/1200x800.jpg",
-        "publishedAt": "2025-11-04T02:10:01Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "78f2f870fe5d931da5dfd9cacb8a9d3a",
-        "title": "Sen. Blackburn's Letter Spurs Google to Yank Gemma AI",
-        "description": "Google pulled its Gemma artificial intelligence model from public use after Sen. Marsha Blackburn, R-Tenn., accused the program of defaming her by fabricating a sexual-misconduct claim.",
-        "content": "Google has pulled its Gemma artificial intelligence model from public use after Sen. Marsha Blackburn, R-Tenn., accused the program of defaming her by fabricating a sexual-misconduct claim.\nIn a letter Thursday to Google CEO Sundar Pichai, Blackburn ... [3780 chars]",
-        "url": "https://www.newsmax.com/newsfront/marsha-blackburn-google-gemma-ai/2025/11/03/id/1233077/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=79a62a06-9b40-4d03-be67-4646026eebbd&SiteName=Newsmax",
-        "publishedAt": "2025-11-04T01:54:17Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
         }
     }
 ]
