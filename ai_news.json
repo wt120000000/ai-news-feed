@@ -1,5 +1,37 @@
 [
     {
+        "id": "cab2ef782f939f6cbe3ff3fd0c50c696",
+        "title": "Microsoft unveils $15.2 billion AI investments in UAE",
+        "description": "Microsoft on Monday announced $15.2 billion in investments in artificial intelligence and cloud computing in the United Arab Emirates.",
+        "content": "U.S. tech giant Microsoft on Monday announced $15.2 billion in investments in artificial intelligence and cloud computing in the United Arab Emirates.\nMicrosoft’s vice chairman and president Brad Smith said Microsoft had invested $7.3 billion in the ... [1712 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/microsoft-unveils-152-billion-ai-investments-in-uae/article70238681.ece",
+        "image": "https://th-i.thgim.com/public/incoming/opgxth/article70238685.ece/alternates/LANDSCAPE_1200/2025-11-03T121340Z_68822252_RC2FUGAX34GJ_RTRMADP_3_EMIRATES-AI-MICROSOFT.JPG",
+        "publishedAt": "2025-11-04T03:22:37Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "4b121fe60a9024d9ffc9cf14689b9d20",
+        "title": "South Korea triples AI spending in 2026 budget plan",
+        "description": "South Korea will triple spending on artificial intelligence, developing infrastructure and encouraging adoption of the technology, President Lee Jae Myung said Tuesday (Nov 4) in his annual parliamentary budget speech.Lee said 10.1 trillion won (US$7 billion) would go towards \"a major transformation aimed at",
+        "content": "South Korea will triple spending on artificial intelligence, developing infrastructure and encouraging adoption of the technology, President Lee Jae Myung said Tuesday (Nov 4) in his annual parliamentary budget speech.\nLee said 10.1 trillion won (US$... [1976 chars]",
+        "url": "https://www.channelnewsasia.com/east-asia/south-korea-triples-ai-spending-budget-plan-5443591",
+        "image": "https://dam.mediacorp.sg/image/upload/s--6OMd_NOs--/c_crop,h_2216,w_3939,x_1,y_28/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/11/04/000_82wt664_0.jpg?itok=4N4zdGqk",
+        "publishedAt": "2025-11-04T02:53:00Z",
+        "lang": "en",
+        "source": {
+            "id": "09131c39169c9c96230862dc4c1fa727",
+            "name": "CNA",
+            "url": "https://www.channelnewsasia.com",
+            "country": "sg"
+        }
+    },
+    {
         "id": "dc19e02686481dcddfeb74d81fdf6025",
         "title": "South Korea's Lee Puts AI at Center of Economic Vision in First Budget Speech",
         "description": "South Korean President Lee Jae Myung placed artificial intelligence at the heart of his administration’s economic vision, pledging to transform the country’s industries, public services and defense through aggressive AI investment and policy support.",
@@ -119,38 +151,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/world-news/kazakhstan-to-focus-on-building-prowess-in-ai-through-global-collaboration/articleshow/125072324.cms",
         "image": "https://img.etimg.com/thumb/msid-125072322,width-1200,height-630,imgsize-95878,overlay-economictimes/articleshow.jpg",
         "publishedAt": "2025-11-04T01:08:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "3e97c9f119bf63e59ed7810edd86ea6e",
-        "title": "AI-generated case citation that was fake draws Oregon judge’s rebuke",
-        "description": "The judge’s admonition follows an Oregon State Bar ethics opinion on the use of artificial intelligence tools in law practice.",
-        "content": "A federal judge in Portland says he will sanction lawyers who submitted a brief to him quoting a fake legal citation and what he called a “hallucinated” case.\nThe judge’s admonition follows an ethics opinion the Oregon State Bar issued earlier this y... [4137 chars]",
-        "url": "https://www.oregonlive.com/portland/2025/11/ai-generated-case-citation-that-was-fake-draws-oregon-judges-rebuke.html",
-        "image": "https://www.oregonlive.com/resizer/v2/IMKGZ2VQGFCALH2G2EVQGFLQXY.jpg?auth=60240c8d2799130cee559f1cfa1884162987c3da594fec86fc547b7b673155cb&width=1280&smart=true&quality=90",
-        "publishedAt": "2025-11-04T00:47:23Z",
-        "lang": "en",
-        "source": {
-            "id": "ad679e3c7caaa4d82a4efb8f9e7d62b5",
-            "name": "The Oregonian",
-            "url": "https://www.oregonlive.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b8b5df3e6750df91db32fbeedd86283a",
-        "title": "India to play a key role as global innovation hub: Broadridge President Chris Perry",
-        "description": "India is positioned to play a key role as a global innovation hub for Broadridge Financial Solutions as it leverages artificial intelligence and digitisation to drive the next phase of growth, said the president of the US-based fintech company.",
-        "content": "Synopsis\nIndia is positioned to play a key role as a global innovation hub for Broadridge Financial Solutions as it leverages artificial intelligence and digitisation to drive the next phase of growth, said the president of the US-based fintech compa... [1675 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/india-to-play-a-key-role-as-global-innovation-hub-broadridge-president-chris-perry/articleshow/125066518.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-210548,resizemode-75,msid-125066518/tech/technology/india-to-play-a-key-role-as-global-innovation-hub-broadridge-president-chris-perry.jpg",
-        "publishedAt": "2025-11-04T00:30:00Z",
         "lang": "en",
         "source": {
             "id": "5464668c1f0466950a0b2fab5249ec6c",
