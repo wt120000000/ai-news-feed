@@ -1,5 +1,37 @@
 [
     {
+        "id": "5632c3e68991683476611d59f798991b",
+        "title": "Verizon, AWS expand tie up with new fiber network to power AI applications",
+        "description": "(Reuters) -Verizon announced a deal with Amazon Web Services on Monday to build high-capacity fiber routes connecting AWS data centers, aiming to strengthen infrastructure for the next generation of artificial intelligence applications.",
+        "content": "(Reuters) -Verizon announced a deal with Amazon Web Services on Monday to build high-capacity fiber routes connecting AWS data centers, aiming to strengthen infrastructure for the next generation of artificial intelligence applications.\nThe partnersh... [1121 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/11/04/verizon-aws-expand-tie-up-with-new-fiber-network-to-power-ai-applications",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/04/3604545.jpg",
+        "publishedAt": "2025-11-03T23:04:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "c3147e41305eb63e0be2aa502cd78ead",
+        "title": "Stock Market Today: Dow, S&P Live Updates for November 4",
+        "description": "Asian stocks were set to gain Tuesday, tracking advances on Wall Street as Amazon.com Inc.’s $38 billion deal with OpenAI reignited enthusiasm for artificial-intelligence shares.",
+        "content": "Asian stocks were set to gain Tuesday, tracking advances on Wall Street as Amazon.com Inc.’s $38 billion deal with OpenAI reignited enthusiasm for artificial-intelligence shares.\nEquity-index futures pointed to gains in Japan — where traders will ret... [262 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-03/stock-market-today-dow-s-p-live-updates",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3Ey1fVRAxII/v0/1200x675.png",
+        "publishedAt": "2025-11-03T22:31:14Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "854ef97f1b320172a32f1b7bca0dc9ac",
         "title": "New AI framework to reduce time, cost to develop drugs",
         "description": "Chennai: Researchers from IIT Madras' Wadhwani School of Data Science and Artificial Intelligence (WSAI) and Ohio State University have developed an a.",
@@ -125,38 +157,6 @@
             "name": "Reuters",
             "url": "https://www.reuters.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "691d5ed3090a5d8d74da4ad4c79bdaa3",
-        "title": "Palantir Reports Record Quarterly Revenue, Hikes Forecasts",
-        "description": "Palantir Technologies Inc. raised its annual revenue outlook to $4.4 billion and outpaced analyst estimates for third-quarter sales, citing “accelerating and otherworldly” growth for its artificial intelligence and data analytics products.",
-        "content": "Palantir Technologies Inc. raised its annual revenue outlook to $4.4 billion and outpaced analyst estimates for third-quarter sales, citing “accelerating and otherworldly” growth for its artificial intelligence and data analytics products.\nPalantir s... [360 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-11-03/palantir-reports-record-quarterly-revenue-hikes-forecasts",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifmQ9MKeS.9w/v1/1200x800.jpg",
-        "publishedAt": "2025-11-03T21:05:45Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c178395cd4770415fdd7a566602c05e3",
-        "title": "Artificial Intelligence Deals Fuel Market Gains Amid Economic Uncertainty",
-        "description": "The S&P 500 and Nasdaq saw gains driven by AI-related deals despite unclear monetary policy and scarce economic data. Amazon's collaboration with OpenAI and Nvidia's restricted chip exports contributed to the rally. Meanwhile, conflicting Fed views and a significant acquisition by Kimberly-Clark stirred investor attention.",
-        "content": "The S&P 500 and Nasdaq Composite climbed higher on Monday, led by artificial intelligence deals, particularly Amazon's collaboration with OpenAI on AWS cloud services. As the Federal Reserve's monetary policy remains uncertain, technology companies w... [600 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3683534-artificial-intelligence-deals-fuel-market-gains-amid-economic-uncertainty",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/22_06_2025_10_36_28_3838694.png?width=920&format=jpeg",
-        "publishedAt": "2025-11-03T21:02:50Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
