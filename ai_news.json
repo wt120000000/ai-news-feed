@@ -1,5 +1,37 @@
 [
     {
+        "id": "1a9ed8232a932cff64b31515baee61fc",
+        "title": "You don’t need to swipe right. AI is transforming dating apps.",
+        "description": "Meet your artificial intelligence matchmakers. These A.I. tools are changing dating apps, so users don't have to swipe through an endless scroll of profiles.",
+        "content": "SAN FRANCISCO: After swiping aimlessly for years on dating apps like Hinge and Tinder, Emma Inge, a 25-year-old project manager in San Francisco, decided to try something different.\nIn September, after following an ad to the website of a startup call... [6286 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/11/06/you-dont-need-to-swipe-right-ai-is-transforming-dating-apps",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/05/3607221.jpg",
+        "publishedAt": "2025-11-06T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "a7c653e4cae8ad16c853642dcd7fbf2e",
+        "title": "Jensen Huang Warns China Will Win The AI Race Days After Donald Trump Said US Won't Let 'Anybody' Have Nvidia's Most Advanced Chips",
+        "description": "Nvidia CEO Jensen Huang warned that China could overtake the U.S. in artificial intelligence development due to cheaper energy and fewer regulations, just days after President Donald Trump reaffirmed a ban on selling Nvidia's most advanced chips to Beijing.",
+        "content": "On Wednesday, Nvidia Corporation (NASDAQ:NVDA) CEO Jensen Huang warned that China is poised to surpass the U.S. in artificial intelligence development, citing cheaper energy and looser regulations that give Beijing an edge.\nChina's AI Advantage: Chea... [2682 chars]",
+        "url": "https://www.benzinga.com/markets/tech/25/11/48675986/jensen-huang-warns-china-will-win-the-ai-race-days-after-donald-trump-said-us-wont-let-anybody-have-nvidias-most-advanced-chips",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/11/05/Jensen-Huang-Nvidias-Founder--President-.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-11-06T02:37:04Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "4023ee4fbd2f3e7ad0b058458a8d8ff6",
         "title": "'Vibe coding' named word of the year by Collins Dictionary",
         "description": "The art of making an app by describing it to artificial intelligence (AI) tops 10 new terms on the shortlist.",
@@ -125,38 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "d725ca2f3a1265510b1d9f5b05bcc7ee",
-        "title": "AI, robotics talent empowerment to be highlighted in Parliament today",
-        "description": "KUALA LUMPUR: Empowering talent in emerging technologies such as artificial intelligence (AI) and robotics is among the key issues to be raised in the Dewan Rakyat on Thursday (Nov 5).",
-        "content": "KUALA LUMPUR: Empowering talent in emerging technologies such as artificial intelligence (AI) and robotics is among the key issues to be raised in the Dewan Rakyat on Thursday (Nov 5).\nParliament’s Order Paper shows Datuk Larry Soon (PBM-Julau) will ... [973 chars]",
-        "url": "https://www.thestar.com.my/news/nation/2025/11/06/ai-robotics-talent-empowerment-to-be-highlighted-in-parliament-today",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/06/3608180.jpg",
-        "publishedAt": "2025-11-06T00:23:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "077e8f89d0a03054ca1bc97194ff1f4c",
-        "title": "Apple to use Google's AI model to run new Siri, Bloomberg News reports",
-        "description": "(Reuters) -Apple plans to use a 1.2 trillion-parameter artificial intelligence model developed by Alphabet's Google to help power a revamp of its Siri voice assistant, Bloomberg News reported on Wednesday.",
-        "content": "(Reuters) -Apple plans to use a 1.2 trillion-parameter artificial intelligence model developed by Alphabet's Google to help power a revamp of its Siri voice assistant, Bloomberg News reported on Wednesday.\nAfter an evaluation, the companies are final... [1470 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2025/11/06/apple-to-use-google039s-ai-model-to-run-new-siri-bloomberg-news-reports",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/06/3608152.jpg",
-        "publishedAt": "2025-11-06T00:03:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
