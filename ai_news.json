@@ -1,5 +1,85 @@
 [
     {
+        "id": "4023ee4fbd2f3e7ad0b058458a8d8ff6",
+        "title": "'Vibe coding' named word of the year by Collins Dictionary",
+        "description": "The art of making an app by describing it to artificial intelligence (AI) tops 10 new terms on the shortlist.",
+        "content": "If you've ever wanted to create your own computer program but never learnt how to code, you might try \"vibe coding\".\nCollins Dictionary's word of the year - which is confusingly made up of two words - is the art of making an app or website by describ... [2399 chars]",
+        "url": "https://www.bbc.com/news/articles/cpd2y053nleo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8c14/live/066ce0a0-ba64-11f0-816b-0d9abffc79a0.jpg",
+        "publishedAt": "2025-11-06T02:22:22Z",
+        "lang": "en",
+        "source": {
+            "id": "109f2b4a20da4fe1c2fd502b03c07243",
+            "name": "BBC News",
+            "url": "https://www.bbc.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "8c69753d5de53f85a5ab3b8ce2390a0c",
+        "title": "Agoda Releases AI Developer Report 2025: How Engineers Work with AI Across Southeast Asia and India",
+        "description": "**media[815157]**Study finds AI adoption is nearly universal, with 95% of developers across Southeast Asia and India using it weekly.87% of developers are upskilling for the AI era, showing strong optimism despite uneven access to training.Developers are using AI pragmatically, prioritizing speed and quality over full automation.SINGAPORE, Nov. 6, 2025 /PRNewswire/ -- A new study released today by digital travel platform Agoda shows that artificial intelligence (AI) adoption is high among software developers in Southeast Asia and India, but its usage is still maturing. Developers use it pragmatically to accelerate work without compromising quality, while organizations face the challenge of putting in place the policies, practices, and frameworks needed to support the next phase of AI evolution in the region.**media[815158]**",
+        "content": "Study finds AI adoption is nearly universal, with 95% of developers across Southeast Asia and India using it weekly.\n87% of developers are upskilling for the AI era, showing strong optimism despite uneven access to training.\nDevelopers are using AI p... [4750 chars]",
+        "url": "https://www.manilatimes.net/2025/11/06/tmt-newswire/pr-newswire/agoda-releases-ai-developer-report-2025-how-engineers-work-with-ai-across-southeast-asia-and-india/2217335",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/06/815154.jpg",
+        "publishedAt": "2025-11-06T02:18:44Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "78ccf1b2d4a6ea4ce3f8f2790c2c4ef4",
+        "title": "Sequoia Plans for More AI, Less Partisanship Under Grady and Lin",
+        "description": "Sequoia Capital’s new co-stewards, Pat Grady and Alfred Lin, plan to deepen the venture capital firm’s focus on the artificial intelligence sector while working to reframe its image as less politically partisan following concerns among some partners about the leadership of Roelof Botha, according to people familiar with the matter.",
+        "content": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world\nConnecting decision makers to a dynamic network of infor... [862 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-06/sequoia-plans-for-more-ai-less-partisanship-under-grady-and-lin",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip0wsfmgXJHo/v0/1200x777.jpg",
+        "publishedAt": "2025-11-06T02:07:31Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "971a54f361b31e13cf100ffce05ae53f",
+        "title": "AI and protein language models can accelerate the design of antiviral antibodies",
+        "description": "Artificial intelligence (AI) and \"protein language\" models can speed the design of monoclonal antibodies that prevent or reduce the severity of potentially life-threatening viral infections, according to a multi-institutional study led by researchers at Vanderbilt University Medical Center.",
+        "content": "Artificial intelligence (AI) and \"protein language\" models can speed the design of monoclonal antibodies that prevent or reduce the severity of potentially life-threatening viral infections, according to a multi-institutional study led by researchers... [3051 chars]",
+        "url": "https://www.news-medical.net/news/20251105/AI-and-protein-language-models-can-accelerate-the-design-of-antiviral-antibodies.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/Antibody-620x480.jpg",
+        "publishedAt": "2025-11-06T01:58:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "3f1892d224977cefb14069a5e4c18179",
+        "title": "King Charles sends another strong message in fight against artificial intelligence after giving top tech boss a letter warning of danger posed by AI",
+        "description": "Nvidia founder Jensen Huang said the king personally handed him a copy of a 2023 speech he delivered about artificial intelligence.",
+        "content": "King Charles gave a top tech boss a letter warning of the dangers posed by artificial intelligence - sending another strong message in his campaign to tackle the risks of AI.\nNvidia founder Jensen Huang said the king personally handed him a copy of a... [4599 chars]",
+        "url": "https://www.dailymail.co.uk/news/article-15263473/King-Charles-sends-strong-message-fight-against-artificial-intelligence-giving-tech-boss-letter-warning-danger.html",
+        "image": "https://i.dailymail.co.uk/1s/2025/11/06/01/103635891-0-image-m-15_1762393011447.jpg",
+        "publishedAt": "2025-11-06T01:46:14Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "fafa18bd8edd987bc3d35a88285c50ae",
         "title": "Designed for SMEs in the AI economy",
         "description": "A new range of workplace solutions from Canon uses artificial intelligence, cloud integration and robust security features to help businesses work more efficiently.",
@@ -71,86 +151,6 @@
         "url": "https://www.thestar.com.my/tech/tech-news/2025/11/06/apple-to-use-google039s-ai-model-to-run-new-siri-bloomberg-news-reports",
         "image": "https://apicms.thestar.com.my/uploads/images/2025/11/06/3608152.jpg",
         "publishedAt": "2025-11-06T00:03:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "023c10bcc633b03a037f36211a59a8d1",
-        "title": "Collins' Word of the Year for 2025 revealed",
-        "description": "Vibe coding, an emerging software development that turns natural language into computer code using artificial intelligence (AI), has been named Collins' Word of the Year for 2025.",
-        "content": "Vibe coding, an emerging software development that turns natural language into computer code using artificial intelligence (AI), has been named Collins’ Word of the Year for 2025.\nLexicographers at Collins Dictionary monitor the 24 billion-word Colli... [2620 chars]",
-        "url": "https://www.rte.ie/entertainment/2025/1106/1542331-collins-word-of-the-year-for-2025-revealed/",
-        "image": "https://www.rte.ie/images/00236e91-1600.jpg",
-        "publishedAt": "2025-11-06T00:01:01Z",
-        "lang": "en",
-        "source": {
-            "id": "4c8b69bf547b577f84acbba5157b439c",
-            "name": "RTE.ie",
-            "url": "https://www.rte.ie",
-            "country": "ie"
-        }
-    },
-    {
-        "id": "78974b88b9ce14467c0b26aaa9f866f3",
-        "title": "China Unveils Ambitious Plan to Weave AI Into Healthcare System",
-        "description": "China Unveils Ambitious Plan to Weave AI Into Healthcare System - A new five-year directive aims to deploy artificial intelligence across the medical field, from advanced diagnostics in top hospitals to assisting doctors in rural clinics",
-        "content": "China has unveiled an ambitious national strategy to accelerate the use of artificial intelligence in healthcare, issuing a directive that sets firm targets for deploying AI from elite urban hospitals to rural clinics by the end of the decade.\nThe pl... [300 chars]",
-        "url": "https://www.caixinglobal.com/2025-11-06/china-unveils-ambitious-plan-to-weave-ai-into-healthcare-system-102380000.html",
-        "image": "https://img.caixin.com/2025-11-06/176238498970214_560_373.jpg",
-        "publishedAt": "2025-11-06T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "f6aff458be2c33b80c8600fb696f68fb",
-            "name": "Caixin",
-            "url": "https://www.caixinglobal.com",
-            "country": "cn"
-        }
-    },
-    {
-        "id": "36c0ee6f93f21ce783aa88dc2cc5bb38",
-        "title": "Snap beats revenue estimates on ad boost, unveils deal with Perplexity AI",
-        "description": "(Reuters) -Snap beat third-quarter revenue estimates on Wednesday and said it has partnered with Perplexity AI to integrate its artificial intelligence-powered search engine into Snapchat.",
-        "content": "(Reuters) -Snap beat third-quarter revenue estimates on Wednesday and said it has partnered with Perplexity AI to integrate its artificial intelligence-powered search engine into Snapchat.\nAI startup Perplexity will pay Snap $400 million over one yea... [1873 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2025/11/06/snap-beats-revenue-estimates-on-ad-boost-unveils-deal-with-perplexity-ai",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/06/3608140.jpg",
-        "publishedAt": "2025-11-05T23:37:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "22a4e1184fee4081c8ebfb4eb539975b",
-        "title": "Arm Holdings 3rd-quarter forecast tops expectations, shares rise",
-        "description": "SAN FRANCISCO (Reuters) -Chip technology provider Arm Holdings gave a fiscal third-quarter forecast on Wednesday that topped Wall Street's expectations, boosted by the boom in artificial intelligence computing.",
-        "content": "SAN FRANCISCO (Reuters) -Chip technology provider Arm Holdings gave a fiscal third-quarter forecast on Wednesday that topped Wall Street's expectations, boosted by the boom in artificial intelligence computing.\nShares of Arm rallied 5% immediately af... [2368 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2025/11/06/arm-holdings-3rd-quarter-forecast-tops-expectations-shares-rise",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/06/3608138.jpg",
-        "publishedAt": "2025-11-05T23:36:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "7d3f7e57f681d5752f9ca758997aea8c",
-        "title": "US House lawmakers probe Delta Air Lines on use of AI in ticket pricing",
-        "description": "WASHINGTON (Reuters) -A group of two dozen U.S. House Democratic lawmakers asked Delta Air Lines CEO Ed Bastian on Wednesday to answer questions about whether it will use generative artificial intelligence to help set ticket prices.",
-        "content": "WASHINGTON (Reuters) -A group of two dozen U.S. House Democratic lawmakers asked Delta Air Lines CEO Ed Bastian on Wednesday to answer questions about whether it will use generative artificial intelligence to help set ticket prices.\nThe lawmakers, in... [2250 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2025/11/06/us-house-lawmakers-probe-delta-air-lines-on-use-of-ai-in-ticket-pricing",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/06/3608129.jpg",
-        "publishedAt": "2025-11-05T23:11:00Z",
         "lang": "en",
         "source": {
             "id": "1e30d944d63d9090db5a2c2e28a8772f",
