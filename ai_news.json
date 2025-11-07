@@ -1,5 +1,37 @@
 [
     {
+        "id": "9b5af539494cff57cc425f3d1ef2c43e",
+        "title": "CSA wraps up AI training of trainers, sets sights on in-house programmes",
+        "description": "LAHORE: A two-day Training of Trainers workshop on the “Fundamentals of Artificial Intelligence” concluded at the Civil Services Academy on Thursday, marking what the academy described...",
+        "content": "LAHORE: A two-day Training of Trainers (ToT) workshop on the “Fundamentals of Artificial Intelligence” concluded at the Civil Services Academy (CSA) on Thursday, marking what the academy described as a step towards embedding AI skills across public s... [1191 chars]",
+        "url": "https://www.thenews.com.pk/latest/1356243-csa-wraps-up-ai-training-of-trainers-sets-sights-on-in-house-programmes",
+        "image": "https://www.thenews.com.pk/assets/uploads/updates/2025-11-07/1356243_064535_updates.jpg",
+        "publishedAt": "2025-11-07T01:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "33c1dbf0a7f470b1697f57eff2406942",
+        "title": "News Corp reports higher revenue as CEO shares pointed message to AI firms",
+        "description": "News Corp's Chief Executive Robert Thomson warned Thursday that artificial intelligence businesses must pay for the data and journalism they use, as the company reported revenue and profit increases in its first quarter.",
+        "content": "News Corp’s Chief Executive Robert Thomson warned Thursday that artificial intelligence businesses must pay for the data and journalism they use, as the company reported revenue and profit increases in its first quarter.\n“Creativity and content must ... [2877 chars]",
+        "url": "https://nypost.com/2025/11/06/business/news-corp-reports-higher-revenue-as-ceo-shares-pointed-message-to-ai-firms/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/11/newspress-collage-vm2fxu1rt-1762476519506.jpg?quality=75&strip=all&1762458568&w=1200",
+        "publishedAt": "2025-11-07T00:50:21Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "c05a1aeacf9cf7135dbfd208fe981565",
         "title": "Plush neuron makes AI approachable, simplifies neural networks for middle schoolers",
         "description": "A team at Carnegie Mellon University is helping kids understand artificial intelligence with a soft, squishy, LED-lit neural network.",
@@ -124,38 +156,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3192766e0588accad493e01b2afa1ad7",
-        "title": "Investors back $1.5 trillion pay offer for Musk",
-        "description": "Elon Musk has the chance to earn up to $US1 trillion ($1.5 trillion) if he can successfully pivot the EV maker to robotics and artificial intelligence.",
-        "content": "Washington | Tesla shareholders have backed the largest ever pay plan for an executive, offering controversial billionaire Elon Musk the chance to earn up to $1 trillion ($1.5 trillion) if he can successfully pivot the electric vehicle maker to robot... [255 chars]",
-        "url": "https://www.afr.com/companies/manufacturing/investors-back-1-5-trillion-pay-offer-for-musk-20251107-p5n8fq",
-        "image": "https://static.ffx.io/images/$zoom_0.7592%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e7c5f7e4654496348286ce6f71c664a9c4774a9f",
-        "publishedAt": "2025-11-06T22:18:35Z",
-        "lang": "en",
-        "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "Australian Financial Review",
-            "url": "https://www.afr.com",
-            "country": "au"
-        }
-    },
-    {
-        "id": "cee5eddfc3936a7af4919dab39befa78",
-        "title": "New Coca-Cola Holiday Ad Creator Defends AI Use, 'Human Artistry'",
-        "description": "Similar to last year's \"holidays are coming\" spot, Coke's commercial this season is also heavy on artificial intelligence.",
-        "content": "When Coca-Cola releases its annual ad spot starring the man in red, that’s when you know the holidays are approaching.\nOnce a cherished commercial, the soda company’s advertisement was met with criticism last year for its use of artificial intelligen... [1809 chars]",
-        "url": "https://parade.com/news/coca-cola-new-ai-holiday-advertisement-creator-defends-human-artistry",
-        "image": "https://parade.com/.image/w_1200,h_630,g_auto,c_fill/ODowMDAwMDAwMDAxMjc1NzEx/gettyimages-120388478.jpg",
-        "publishedAt": "2025-11-06T21:48:21Z",
-        "lang": "en",
-        "source": {
-            "id": "0a3d33fe1c810a63c8623b16334a218c",
-            "name": "Parade",
-            "url": "https://parade.com",
             "country": "us"
         }
     }
