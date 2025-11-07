@@ -1,5 +1,37 @@
 [
     {
+        "id": "3192766e0588accad493e01b2afa1ad7",
+        "title": "Investors back $1.5 trillion pay offer for Musk",
+        "description": "Elon Musk has the chance to earn up to $US1 trillion ($1.5 trillion) if he can successfully pivot the EV maker to robotics and artificial intelligence.",
+        "content": "Washington | Tesla shareholders have backed the largest ever pay plan for an executive, offering controversial billionaire Elon Musk the chance to earn up to $1 trillion ($1.5 trillion) if he can successfully pivot the electric vehicle maker to robot... [255 chars]",
+        "url": "https://www.afr.com/companies/manufacturing/investors-back-1-5-trillion-pay-offer-for-musk-20251107-p5n8fq",
+        "image": "https://static.ffx.io/images/$zoom_0.7592%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e7c5f7e4654496348286ce6f71c664a9c4774a9f",
+        "publishedAt": "2025-11-06T22:18:35Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "cee5eddfc3936a7af4919dab39befa78",
+        "title": "New Coca-Cola Holiday Ad Creator Defends AI Use, 'Human Artistry'",
+        "description": "Similar to last year's \"holidays are coming\" spot, Coke's commercial this season is also heavy on artificial intelligence.",
+        "content": "When Coca-Cola releases its annual ad spot starring the man in red, that’s when you know the holidays are approaching.\nOnce a cherished commercial, the soda company’s advertisement was met with criticism last year for its use of artificial intelligen... [1809 chars]",
+        "url": "https://parade.com/news/coca-cola-new-ai-holiday-advertisement-creator-defends-human-artistry",
+        "image": "https://parade.com/.image/w_1200,h_630,g_auto,c_fill/ODowMDAwMDAwMDAxMjc1NzEx/gettyimages-120388478.jpg",
+        "publishedAt": "2025-11-06T21:48:21Z",
+        "lang": "en",
+        "source": {
+            "id": "0a3d33fe1c810a63c8623b16334a218c",
+            "name": "Parade",
+            "url": "https://parade.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "7b9009942c7512ba36441de3aef59509",
         "title": "Eyes turn to space to feed power-hungry data centers",
         "description": "Tech firms are floating the idea of building data centers in space and tapping into the sun's energy to meet out-of-this-world power demands in a fierce artificial intelligence race. U.S. startup Starcloud this week sent a refrigerator-sized satellite containing an Nvidia graphics processing unit (GPU) into orbit in what the…",
@@ -125,38 +157,6 @@
             "name": "ABC (Australian Broadcasting Corporation)",
             "url": "https://www.abc.net.au",
             "country": "au"
-        }
-    },
-    {
-        "id": "adb95e5749f1259b98ec984227fd6964",
-        "title": "OpenAI provides lawmakers with suggestions for AI safety standards for minors",
-        "description": "Microsoft-backed OpenAI has drafted a blueprint for lawmakers to use when crafting any potential legislation regarding minors using artificial intelligence tools, such as chatbots.",
-        "content": "Nov. 06, 2025 2:48 PM ETOpenAI (OPENAI) Stock, MSFT StockBy : Brandon Evans, SA News Editor\nComments\nMicrosoft-backed (MSFT) OpenAI has drafted a blueprint for lawmakers to use when crafting any potential legislation regarding minors using artificial... [873 chars]",
-        "url": "https://seekingalpha.com/news/4517654-openai-provides-lawmakers-with-suggestions-for-ai-safety-standards-for-minors",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2031368235/image_2031368235.jpg?io=getty-c-w630",
-        "publishedAt": "2025-11-06T19:48:04Z",
-        "lang": "en",
-        "source": {
-            "id": "a6d401909ca644c4ffb332486c9cfaea",
-            "name": "Seeking Alpha",
-            "url": "https://seekingalpha.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c4d86ad7500aaf61d26c45f11a7a5440",
-        "title": "Nvidia CEO warns 'China is going to win the AI race': report",
-        "description": "Nvidia CEO Jensen Huang warns China will overtake America in artificial intelligence due to Western cynicism, excessive regulations and China's lower energy costs.",
-        "content": "Nvidia CEO Jensen Huang is warning that China will overtake America in the global artificial intelligence (AI) race.\nThe chipmaker's chief executive said the West is limiting its own progress in AI through excessive \"cynicism,\" while pointing to Chin... [1867 chars]",
-        "url": "https://www.foxbusiness.com/fox-news-tech/nvidia-ceo-jensen-huang-warns-china-going-win-ai-race-against-america-report",
-        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/0/0/jensen-huang-nvidia-ceo.jpg?ve=1&tl=1",
-        "publishedAt": "2025-11-06T19:47:23Z",
-        "lang": "en",
-        "source": {
-            "id": "1b97b25c0ec482f85326378f82f7f815",
-            "name": "Fox Business",
-            "url": "https://www.foxbusiness.com",
-            "country": "us"
         }
     }
 ]
