@@ -1,5 +1,37 @@
 [
     {
+        "id": "7b9009942c7512ba36441de3aef59509",
+        "title": "Eyes turn to space to feed power-hungry data centers",
+        "description": "Tech firms are floating the idea of building data centers in space and tapping into the sun's energy to meet out-of-this-world power demands in a fierce artificial intelligence race. U.S. startup Starcloud this week sent a refrigerator-sized satellite containing an Nvidia graphics processing unit (GPU) into orbit in what the…",
+        "content": "Tech firms are floating the idea of building data centers in space and tapping into the sun's energy to meet out-of-this-world power demands in a fierce artificial intelligence race.\nU.S. startup Starcloud this week sent a refrigerator-sized satellit... [3461 chars]",
+        "url": "https://japantoday.com/category/tech/eyes-turn-to-space-to-feed-power-hungry-data-centers",
+        "image": "https://media.japantoday.com/img/store/6f/0e/5b96ead7ff745c613132e4d4350eac776c44/9c56a5e2645093bfd68c9f8781ad1c00d6adcaed/_w1700.jpeg",
+        "publishedAt": "2025-11-06T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "210a390d177a386058a84a7a821f202a",
+        "title": "Number of Billion Dollar US IPOs Falls Far Behind Private Rounds",
+        "description": "Private companies are raising funds from investors in multibillion-dollar rounds at a quicker pace than those opting for similarly sized US IPOs, as public markets struggle to attract fast-growing artificial intelligence startups and aspiring-tech giants.",
+        "content": "Private companies are raising funds from investors in multibillion-dollar rounds at a quicker pace than those opting for similarly sized US IPOs, as public markets struggle to attract fast-growing artificial intelligence startups and aspiring-tech gi... [403 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-06/number-of-billion-dollar-us-ipos-falls-far-behind-private-rounds",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix2kGfYa1fKM/v0/1200x800.jpg",
+        "publishedAt": "2025-11-06T20:30:40Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "c16cc4b4631b223616cc9d8ca8639193",
         "title": "Michigan AG seeks to pump the brakes on review of DTE data center deal",
         "description": "Attorney General Dana Nessel says DTE's request to approve a megadeal to serve an artificial intelligence data center shouldn't go ahead without a public hearing and outside scrutiny.",
@@ -124,38 +156,6 @@
             "id": "1b97b25c0ec482f85326378f82f7f815",
             "name": "Fox Business",
             "url": "https://www.foxbusiness.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f94034c6d4bca12f550de460ff8b4d89",
-        "title": "Alphabet's Google to Build AI Data Center in Australia's Christmas Island",
-        "description": "Alphabet's Google plans to construct an artificial intelligence data center in Christmas Island, an Australian remote outpost in the Indian Ocean, Reuters reported Thursday, citing documents and...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/alphabet-s-google-to-build-ai-data-center-in-australia-s-christmas-island-ce7d5cd3db88f42c",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2025-11-06T19:44:11Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "d4374b709562b85b0e27e91d9f348df9",
-        "title": "Republican US lawmakers applaud Trump for holding back Nvidia chips from China",
-        "description": "A group of eight Republican U.S. senators in a letter on Thursday applauded President Donald Trump's decision to continue denying China access to Nvidia's most advanced artificial intelligence chips.",
-        "content": "The letter comes a day after Nvidia CEO Jensen Huang told the Financial Times that China was likely to beat the U.S. in the global AI race, later adding on X that \"America wins by racing ahead and winning developers worldwide.\"\nSign up here.\nHuang ha... [1309 chars]",
-        "url": "https://www.reuters.com/world/us/republican-us-lawmakers-applaud-trump-holding-back-nvidia-chips-china-2025-11-06/",
-        "image": "https://www.reuters.com/resizer/v2/U4JAGZNHP5J6DAF4VLZDUJAV6U.jpg?auth=16c23b4a172822c2bcd1810f474e728f8604653b6f46ba7bdc0a2480ca8ede4d&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-11-06T19:41:07Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
             "country": "us"
         }
     }
