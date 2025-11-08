@@ -1,5 +1,37 @@
 [
     {
+        "id": "da3235b9f9cdeb46c607a4a9c44eefc1",
+        "title": "Meta to invest $600 billion in U.S. for AI data centers and jobs expansion",
+        "description": "Meta Platforms plans a huge $600 billion investment in the U.S. to grow its artificial intelligence power. The company aims to build more data centers, create jobs, and support local communities. Meta also wants to use clean energy and water-saving systems while working toward its goal of making smarter AI for the future.",
+        "content": "Synopsis\nMeta Platforms plans a huge $600 billion investment in the U.S. to grow its artificial intelligence power. The company aims to build more data centers, create jobs, and support local communities. Meta also wants to use clean energy and water... [4749 chars]",
+        "url": "https://economictimes.indiatimes.com/news/international/us/meta-to-invest-600-billion-in-u-s-for-ai-data-centers-and-jobs-expansion/articleshow/125171266.cms",
+        "image": "https://img.etimg.com/thumb/msid-125171266,width-1200,height-630,imgsize-131238,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-11-07T19:16:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "338d4bfe2428678ea50bbafa27d3740c",
+        "title": "Banks Lend $18 Billion for Oracle-Tied Data Center in New Mexico",
+        "description": "A group of about 20 banks is providing a roughly $18 billion project finance loan to help fund the construction of a data center campus tied to Oracle Corp., marking the latest mega debt deal to help bankroll the artificial intelligence boom.",
+        "content": "A group of about 20 banks is providing a roughly $18 billion project finance loan to help fund the construction of a data center campus tied to Oracle Corp., marking the latest mega debt deal to help bankroll the artificial intelligence boom.\nSumitom... [469 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-07/banks-lend-18-billion-for-oracle-tied-data-center-in-new-mexico",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3bkqyuOS3_U/v1/1200x800.jpg",
+        "publishedAt": "2025-11-07T19:08:33Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "69e81b9cbd945541e96c348097ba68f4",
         "title": "How AI systems must prove trust, transparency and reliability before clinical use",
         "description": "Existing frameworks for explainable artificial intelligence (XAI) and AI governance, such as the EU AI Act and the NIST AI Risk Management Framework, offer broad principles on transparency and accountability. But as researchers note, they rarely tell engineering teams what exactly to build or test before clinical evaluation.",
@@ -124,38 +156,6 @@
             "id": "da5c26287bdd02563a2c32b55cb12051",
             "name": "Reuters",
             "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "aa5c21c0baea13c6d86b0798da53b2fe",
-        "title": "Big Tech may win reprieve as EU mulls easing AI rules, document shows",
-        "description": "Apple, Meta\nPlatforms and other tech giants may win a reprieve from\nthe EU's landmark artificial intelligence rules as regulators\nconsider easing sections of the legislation as part of a drive\nto...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/big-tech-may-win-reprieve-as-eu-mulls-easing-ai-rules-document-shows-ce7d5fdade8bf726",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2025-11-07T17:45:24Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "72c37bd1546d90c6df5242743a333a82",
-        "title": "Validation of FDA-Regulated Systems Used in Drug Development & Submissions Training Webinar: Using Artificial Intelligence (AI), Machine Learning (ML) & Large Language Models (LLMs), such as ChatGPT -",
-        "description": "The \"Validation of FDA-Regulated Systems Used in Drug Development & Submissions Using Artificial Intelligence (AI), Machine Learning (ML) & Large Language Mo...",
-        "content": "DUBLIN--(BUSINESS WIRE)--The \"Validation of FDA-Regulated Systems Used in Drug Development & Submissions Using Artificial Intelligence (AI), Machine Learning (ML) & Large Language Models (LLMs), such as ChatGPT (August 28, 2025)\" training has been ad... [4213 chars]",
-        "url": "https://www.businesswire.com/news/home/20251107607315/en/Validation-of-FDA-Regulated-Systems-Used-in-Drug-Development-Submissions-Training-Webinar-Using-Artificial-Intelligence-AI-Machine-Learning-ML-Large-Language-Models-LLMs-such-as-ChatGPT---ResearchAndMarkets.com",
-        "image": "https://mms.businesswire.com/media/20251107607315/en/2636985/22/logo.jpg",
-        "publishedAt": "2025-11-07T17:41:00Z",
-        "lang": "en",
-        "source": {
-            "id": "d4773b92da0613b8ffc2fc9c46229534",
-            "name": "Business Wire",
-            "url": "https://www.businesswire.com",
             "country": "us"
         }
     }
