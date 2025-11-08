@@ -1,5 +1,37 @@
 [
     {
+        "id": "21fd7376f78c28dcd5128decac1da930",
+        "title": "Senate measure would support limits on AI chip sales to China",
+        "description": "WASHINGTON — Senators on both sides of the aisle on Thursday signed onto a call to keep advanced artificial intelligence chips from being sold to China. Sen. Chris Coons, D-Del., unveiled an as-yet unnumbered resolution focused on the importance of maintaining U.S. “primacy in artificial intelligence” and on restricting access to the chips required to build so-called frontier AI models. The ...",
+        "content": "By Allison Mollenkamp, CQ-Roll Call\nWASHINGTON — Senators on both sides of the aisle on Thursday signed onto a call to keep advanced artificial intelligence chips from being sold to China.\nSen. Chris Coons, D-Del., unveiled an as-yet unnumbered resol... [3848 chars]",
+        "url": "https://www.courant.com/2025/11/08/senate-measure-would-support-limits-on-ai-chip-sales-to-china/",
+        "image": "https://www.courant.com/wp-content/uploads/2025/11/202511062114MCT_____PHOTO____US-NEWS-SENATE-AI-CHIPS-CHINA-GET.jpg?w=1024&h=682",
+        "publishedAt": "2025-11-08T11:15:26Z",
+        "lang": "en",
+        "source": {
+            "id": "494f687bd1dfaa9f7b4a705c860671d0",
+            "name": "Hartford Courant",
+            "url": "https://www.courant.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7b95df50b928000d07909ff55fdbff82",
+        "title": "Sam Altman drops a shocking hint about who he wants as OpenAI’s CEO; says it ‘clearly will happen someday’",
+        "description": "OpenAI CEO Sam Altman has predicted that companies led entirely by artificial intelligence are imminent, declaring that “shame on me if OpenAI isnt the first big company run by an AI CEO.” Speaking on the Conversations with Tyler podcast, he suggested this could happen within a few years. While Altman envisions AI outperforming human executives, he admits human presence will still matter, highlighting a coming era of AI-driven corporate leadership.",
+        "content": "Synopsis\nOpenAI CEO Sam Altman has predicted that companies led entirely by artificial intelligence are imminent, declaring that “shame on me if OpenAI isn’t the first big company run by an AI CEO.” Speaking on the Conversations with Tyler podcast, h... [3425 chars]",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/sam-altman-drops-a-shocking-hint-about-who-he-wants-as-openais-ceo-says-it-clearly-will-happen-someday/articleshow/125183578.cms",
+        "image": "https://img.etimg.com/thumb/msid-125183659,width-1200,height-630,imgsize-784899,overlay-etpanache/articleshow.jpg",
+        "publishedAt": "2025-11-08T11:05:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "5a124dd5d9ba3746692ce44aae40cf0e",
         "title": "Telecom operators embrace AI to bolster revenues, drive efficiency globally",
         "description": "Telecom operators embrace AI to bolster revenues, drive efficiency globally - New Delhi, Nov 8 Leading telecoms globally are deploying artificial intelligence (AI) across network operations, customer service, and ... Get Latest News on Business only on lokmattimes.com",
@@ -125,38 +157,6 @@
             "name": "India Today",
             "url": "https://www.indiatoday.in",
             "country": "in"
-        }
-    },
-    {
-        "id": "a48a1ea278e935ca8158a2fa7745e259",
-        "title": "How Will AGI Change Humanity: An Interview with DOMINAIT.ai Lead Architect and CEO, Jason Criddle",
-        "description": "When I read a recent article from Forbes senior contributor, John Koetsier, who published “Artificial General Intelligence: 9 Massive Changes AGI Will Cause,” it set off another round of existential questions in my head about the future of humanity.  His source, scientist and futurist Gregory Stock, predicted that AGI will blur human identity, erase scarcity, […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nWhen I read a recent article from Forbes senior contributor, John Koetsier, who published “Artificial General Intelligence: 9 Massive Changes AGI Will Cause,” it set off another round of existential questions in my head ... [10531 chars]",
-        "url": "https://techbullion.com/how-will-agi-change-humanity-an-interview-with-dominait-ai-lead-architect-and-ceo-jason-criddle/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/11/Screenshot-2025-11-08-130617.png",
-        "publishedAt": "2025-11-08T08:07:35Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "5639e9b9b13f59fd5163c2c8cfe4e841",
-        "title": "The Future of IT: Why Cloud Managed Services Are the Backbone of Digital Transformation",
-        "description": "“Digital transformation” is more than a corporate buzzword; it is the essential, ongoing process of re-engineering a business to operate in a digital-first world. It involves leveraging technologies like artificial intelligence (AI), machine learning (ML), big data analytics, and the Internet of Things (IoT) to create new business models, streamline operations, and deliver unprecedented customer […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\n“Digital transformation” is more than a corporate buzzword; it is the essential, ongoing process of re-engineering a business to operate in a digital-first world. It involves leveraging technologies like artificial intel... [4944 chars]",
-        "url": "https://techbullion.com/the-future-of-it-why-cloud-managed-services-are-the-backbone-of-digital-transformation/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/11/cloud-migration-best-practices-1000x600.webp",
-        "publishedAt": "2025-11-08T08:07:03Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
         }
     }
 ]
