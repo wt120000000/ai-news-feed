@@ -1,5 +1,21 @@
 [
     {
+        "id": "17a49721eb9b1377d35f222d1d451e09",
+        "title": "Experts, lawmakers sound alarm on AI in mental health care",
+        "description": "COLUMBIA, Mo. (KMIZ) As artificial intelligence technology continues to expand into health care, growing concerns are emerging over the use of AI-powered chatbots as substitutes for licensed therapists, particularly among young users. Research from the National Library of Medicine shows nearly 50% of people who could benefit from therapy are unable to access it due to",
+        "content": "COLUMBIA, Mo. (KMIZ)\nAs artificial intelligence technology continues to expand into health care, growing concerns are emerging over the use of AI-powered chatbots as substitutes for licensed therapists, particularly among young users.\nResearch from t... [5668 chars]",
+        "url": "https://abc17news.com/news/missouri/2025/11/07/experts-lawmakers-sound-alarm-on-ai-in-mental-health-care/",
+        "image": "https://abc17news.b-cdn.net/abc17news.com/2025/11/Screenshot-2025-11-07-at-6.58.49-PM.png",
+        "publishedAt": "2025-11-08T01:10:22Z",
+        "lang": "en",
+        "source": {
+            "id": "d5a02d07558c5563d72576efc406e608",
+            "name": "ABC17News.com",
+            "url": "https://abc17news.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d56d1f0bfa053721fead4394be02f1bf",
         "title": "OpenAI's Altman urges US to expand Chips Act tax credit for AI growth",
         "description": "(Reuters) -OpenAI CEO Sam Altman on Friday doubled down on the company's ask for the U.S. to expand eligibility for a Chips Act tax credit, as the country accelerates efforts to secure its position as a global leader in artificial intelligence.",
@@ -141,22 +157,6 @@
             "name": "Markets Insider",
             "url": "https://markets.businessinsider.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "c8e5a5a340bff920e9945d3be4167750",
-        "title": "Bluepine Tech Foundation Launches Global AI Agricultural Data Service Platform",
-        "description": "Singapore, Nov. 07, 2025 (GLOBE NEWSWIRE) -- Today, Bluepine Tech Foundation officially launched its 'Global AI Smart Agriculture Service Platform” and future 'Public Chain Plan”. By integrating blockchain, artificial intelligence, and Web3 technologies, the initiative aims to systematically address long-standing core challenges in the agricultural sector, such as data silos, lack of financial services, and imbalanced value distribution, thereby building a new agricultural digital ecosystem characterized by 'trusted data flow, precise service delivery, and equitable value distribution.'",
-        "content": "Singapore, Nov. 07, 2025 (GLOBE NEWSWIRE) -- Today, Bluepine Tech Foundation officially launched its \"Global AI Smart Agriculture Service Platform” and future \"Public Chain Plan”. By integrating blockchain, artificial intelligence, and Web3 technolog... [4172 chars]",
-        "url": "https://www.manilatimes.net/2025/11/08/tmt-newswire/globenewswire/bluepine-tech-foundation-launches-global-ai-agricultural-data-service-platform/2219253",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/08/818467.png",
-        "publishedAt": "2025-11-07T21:03:52Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
