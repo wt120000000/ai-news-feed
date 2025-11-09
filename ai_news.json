@@ -1,5 +1,21 @@
 [
     {
+        "id": "13f0410907b5c73652cadc5953f4b502",
+        "title": "When AI helped doctors navigate the human lung, and save a life",
+        "description": "In a groundbreaking medical feat, artificial intelligence guided doctors in Bengaluru to safely perform a complex lung biopsy on a high-risk patient.",
+        "content": "In a groundbreaking medical feat, artificial intelligence guided doctors in Bengaluru to safely perform a complex lung biopsy on a high-risk patient. AI-powered imaging provided a real-time 3D map, enabling precise navigation through delicate lung pa... [3242 chars]",
+        "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/when-ai-helped-doctors-navigate-the-human-lung-and-save-a-life/articleshow/125188813.cms",
+        "image": "https://static.toiimg.com/thumb/msid-125188797,width-1070,height-580,imgsize-143251,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2025-11-09T02:09:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "b194526b65fde581e8f8d8b99cc3b7f8",
         "title": "Nvidia CEO asks TSMC for more wafers",
         "description": "International Business News: Nvidia CEO Jensen Huang said he had asked Taiwan Semiconductor Manufacturing Co (TSMC) for more chip supplies as artificial intelligence demand remain.",
@@ -141,22 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "f6696b7cebfdc1178136d53e965b8a13",
-        "title": "How to Turn AI Competitiveness Into a Human Advantage",
-        "description": "Global competitiveness in artificial intelligence no longer depends on who makes the boldest technical leap, but on who can turn those leaps into",
-        "content": "Global competitiveness in artificial intelligence no longer depends on who makes the boldest technical leap, but on who can turn those leaps into something people will use and trust. It’s not about who builds the next great model; it’s about who make... [6608 chars]",
-        "url": "https://www.inc.com/natacha-rousseau/how-to-turn-ai-competitiveness-into-a-human-advantage/91262763",
-        "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/11/Leadership-Forum-Articles-Images-6.jpg",
-        "publishedAt": "2025-11-08T19:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "602d1de710d66397a00201d8efdd36ee",
-            "name": "Inc. Magazine",
-            "url": "https://www.inc.com",
-            "country": "us"
         }
     }
 ]
