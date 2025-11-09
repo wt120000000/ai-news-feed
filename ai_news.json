@@ -1,5 +1,37 @@
 [
     {
+        "id": "9f22277db37223fb84d728e0d9bc41ce",
+        "title": "Is Wall Street losing faith in AI?",
+        "description": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.",
+        "content": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.\nThe Wall Street Journal reports that the Nasdaq Composite Index was down 3% — making this its worst week since President Donald Trump announced his sw... [903 chars]",
+        "url": "https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages.jpg?resize=1200,800",
+        "publishedAt": "2025-11-08T20:53:00Z",
+        "lang": "en",
+        "source": {
+            "id": "732b46cdef66b68ee2fbc940e79f81de",
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "51f66c321f043b57104deb5a8ef022f2",
+        "title": "Chinese microdrama creators turn to AI despite job loss concerns",
+        "description": "Ultra-short video series \"Strange Mirror of Mountains and Seas\" is filled with dragon-like monsters, handsome protagonists and plenty of melodrama -- almost all of it, including the lifelike human characters, created by artificial intelligence. With over 50 million views, it is one of a growing number of AI-generated \"microdramas\", soap…",
+        "content": "Ultra-short video series \"Strange Mirror of Mountains and Seas\" is filled with dragon-like monsters, handsome protagonists and plenty of melodrama -- almost all of it, including the lifelike human characters, created by artificial intelligence.\nWith ... [4496 chars]",
+        "url": "https://japantoday.com/category/tech/chinese-microdrama-creators-turn-to-ai-despite-job-loss-concerns",
+        "image": "https://media.japantoday.com/img/store/04/97/1a659a0dc928ed5fa96bb2eaabb4b4100caf/3f1aa92705a37009d0a70829fcb5ec0af8f674e7/_w1700.jpeg",
+        "publishedAt": "2025-11-08T20:52:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "43824348666509e5caeb9ac37dd2fe36",
         "title": "58 lifesavers, AI-controlled robots at today’s Ironman",
         "description": "TNNPanaji: Fifty-eight lifesavers, with a little help from artificial intelligence and a fleet of rescue vessels, will keep watch over hundreds of tri.",
@@ -125,38 +157,6 @@
             "name": "CNBC",
             "url": "https://www.cnbc.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "87792ddc3aa8f9cb069dab575e2f38e9",
-        "title": "‘Scientific Information Must Be Verified Before Sharing': Nobel Laureate Dr Venkatraman Ramakrishnan",
-        "description": "Nobel Laureate Dr Venkatraman Ramakrishnan stressed the importance of sound scientific communication in the current climate of information overload via artificial intelligence and social media.",
-        "content": "Nobel Laureate Dr Venkatraman Ramakrishnan stressed the importance of sound scientific communication in the current climate of information overload via artificial intelligence and social media.\nIn a world where most people rely on social networking s... [3223 chars]",
-        "url": "https://www.freepressjournal.in/mumbai/scientific-information-must-be-verified-before-sharing-nobel-laureate-dr-venkatraman-ramakrishnan",
-        "image": "https://media.assettype.com/freepressjournal/2025-11-08/w9f3cxw5/Copy-of-Queen-Of-All-Mayhem-13.jpg",
-        "publishedAt": "2025-11-08T15:51:18Z",
-        "lang": "en",
-        "source": {
-            "id": "7eeaf9a839918543cc708f2d331c3be4",
-            "name": "Free Press Journal",
-            "url": "https://www.freepressjournal.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "cd359b227e04912a07706b6053b2217a",
-        "title": "Tech bloodbath: Over $1 trillion erased from US giants as AI-fueled selloff rocks markets",
-        "description": "Tech stocks linked to artificial intelligence are falling fast as fears grow that the AI boom may be a bubble. Big companies like Nvidia, Microsoft, and Tesla saw sharp losses this week. Experts say investors are losing confidence as many AI projects are not making profits. The market faces big uncertainty ahead.",
-        "content": "Synopsis\nTech stocks linked to artificial intelligence are falling fast as fears grow that the AI boom may be a bubble. Big companies like Nvidia, Microsoft, and Tesla saw sharp losses this week. Experts say investors are losing confidence as many AI... [4036 chars]",
-        "url": "https://economictimes.indiatimes.com/news/international/us/tech-bloodbath-over-1-trillion-erased-from-us-giants-as-ai-fueled-selloff-rocks-markets/articleshow/125187095.cms",
-        "image": "https://img.etimg.com/thumb/msid-125187095,width-1200,height-630,imgsize-131602,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2025-11-08T15:50:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
