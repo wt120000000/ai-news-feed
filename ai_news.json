@@ -1,5 +1,21 @@
 [
     {
+        "id": "1a90c392be85017e60e3c513232b7431",
+        "title": "RPT-Wall St Week Ahead-Investors watching US economic signs as market pulls back, tech teeters",
+        "description": "This week, concerns about expensive equity valuations, especially for high-flying stocks linked to enthusiasm over artificial intelligence, were exacerbated by tepid jobs data, including a report that showed surging layoff announcements from U.S. employers.",
+        "content": "Investors will seek clues about the health of the U.S. economy in the coming week following worrisome labor market reports and technology-led turbulence that has knocked the stock market off record highs. The S&P 500 ended on Friday with a weekly dec... [4738 chars]",
+        "url": "https://www.devdiscourse.com/article/business/3690824-rpt-wall-st-week-ahead-investors-watching-us-economic-signs-as-market-pulls-back-tech-teeters",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_19_19_41_2821142.jpg?width=920&format=jpeg",
+        "publishedAt": "2025-11-09T14:00:22Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "2b9f70a10a7533e8ff20f90951b183d4",
         "title": "TJDEED Technology Secures Investment from SME Fund Jo",
         "description": "SME Fund Jo is proud to announce the completion of its investment in TJDEED Technology, a leading IT solutions provider in Jordan and the Middle East. This strategic partnership will empower TJDEED’s growth journey, fueling its expansion into international markets and advancing its technology portfolio, particularly in Artificial Intelligence (AI), automation, and cybersecurity.",
@@ -141,22 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "649b8652fb923a357958ae9a9f030198",
-        "title": "IndiGo aims evidence-based training programmes for pilots",
-        "description": "IndiGo is aiming to enhance pilot training with evidence-based training programs. This initiative will improve pilot skills and situational awareness. IndiGo will use vast amounts of data and artificial intelligence for this purpose. The transition from current competency-based training to evidence-based training is expected to take about a year to eighteen months.",
-        "content": "Synopsis\nIndiGo is aiming to enhance pilot training with evidence-based training programs. This initiative will improve pilot skills and situational awareness. IndiGo will use vast amounts of data and artificial intelligence for this purpose. The tra... [2322 chars]",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/indigo-aims-evidence-based-training-programmes-for-pilots/articleshow/125200223.cms",
-        "image": "https://img.etimg.com/thumb/msid-125200240,width-1200,height-630,imgsize-40216,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2025-11-09T10:28:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
