@@ -1,5 +1,37 @@
 [
     {
+        "id": "15755dc6c5f8963b457eb546eac1e439",
+        "title": "Goldman Sees US Investors Flocking to Japan as Nikkei Surges",
+        "description": "US investors are increasingly buying Japanese stocks focused on tech and artificial intelligence, lured by the country’s outsized returns compared with US stocks, according to Goldman Sachs Group Inc.",
+        "content": "US investors are increasingly buying Japanese stocks focused on tech and artificial intelligence, lured by the country’s outsized returns compared with US stocks, according to Goldman Sachs Group Inc.\n“The increase in US flows is now moving at the fa... [260 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-09/goldman-sees-us-investors-flocking-to-japan-as-nikkei-surges",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iriaX0hsN9YU/v1/1200x800.jpg",
+        "publishedAt": "2025-11-09T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e6dd6e509a516fddde93d057a9fa24a3",
+        "title": "AI tools being weaponized to target women journalists: CJI",
+        "description": "Underlining the challenges posed by emerging technologies, Chief Justice of India-designate Justice Surya Kant has flagged the misuse of artificial intelligence (AI) tools to target women journalists.",
+        "content": "Underlining the challenges posed by emerging technologies, Chief Justice of India-designate Justice Surya Kant has flagged the misuse of artificial intelligence (AI) tools to target women journalists.\nSpeaking at the 31st anniversary of the Indian Wo... [2966 chars]",
+        "url": "https://www.tribuneindia.com/news/india/ai-tools-being-weaponized-to-target-women-journalists-cji-designate-justice-surya-kant/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkzYjM1Y2QwLWJkYWUtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+        "publishedAt": "2025-11-09T20:53:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "86572603aebb78c4d4aa235a733e4e5f",
         "title": "Can allowing a teacher a graceful exit be considered illegal dismissal?",
         "description": "AS access to knowledge and information for educational purposes becomes easier with the influx of modern technology and digital solutions, ethical and administrative issues also rise. Maintaining academic honesty and integrity among teachers and students is crucial amidst the temptations of instant solutions and answers to complex problems provided by artificial intelligence.",
@@ -125,38 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "3e579859bee501e8b617bae4806c4535",
-        "title": "China’s earnings season is underway. Here's who’s benefiting from AI",
-        "description": "China's artificial intelligence-related growth is giving corporate earnings a lift, according to UBS.",
-        "content": "As China rolls out a grand plan for integrating artificial intelligence into the economy, the latest earnings results show that some companies are already seeing results amid slower overall growth . Mainland China stocks, known as A shares, have so f... [4455 chars]",
-        "url": "https://www.cnbc.com/2025/11/09/chinas-earnings-season-is-underway-heres-whos-benefiting-from-ai.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108223336-1762567019969-gettyimages-2245327266-vcg111602300714.jpeg?v=1762567038&w=1920&h=1080",
-        "publishedAt": "2025-11-09T12:26:07Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "fe55e0f35c37a9b16cd1710f143b128e",
-        "title": "Canada immigration: Quebec to shut down this popular pathway by 2025 end in major policy shift",
-        "description": "Quebec will also phase out its three permanent immigration pilot programmes, which target workers in food processing, orderlies, and the artificial intelligence, IT, and visual effects sectors. These pilots will conclude as scheduled on January 1, 2026.",
-        "content": "In a sweeping overhaul of its immigration system, Quebec has announced the permanent closure of its Quebec Experience Program (Programme de l’expérience québécoise, PEQ) — one of the province’s most popular routes to permanent residence for temporary... [2827 chars]",
-        "url": "https://www.businesstoday.in/nri/visa/story/canada-immigration-quebec-to-shut-down-this-popular-pathway-by-2025-end-in-major-policy-shift-501396-2025-11-09",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202511/691075d160030-alongside-the-programme-changes--quebec-also-released-its-2025-immigration-levels-plan--maintaining-090651493-16x9.png",
-        "publishedAt": "2025-11-09T11:08:05Z",
-        "lang": "en",
-        "source": {
-            "id": "76a2f820b104591b97fed1b0932cec38",
-            "name": "Business Today",
-            "url": "https://www.businesstoday.in",
-            "country": "in"
         }
     }
 ]
