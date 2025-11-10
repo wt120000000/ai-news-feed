@@ -1,5 +1,37 @@
 [
     {
+        "id": "b73888156c5854d027490a29c1eab082",
+        "title": "Two Oxford AI experts awarded prestigious fellowships",
+        "description": "Two Oxford academics are among 28 global researchers awarded prestigious fellowships to shape the future of artificial intelligence",
+        "content": "Professor Philip Torr and Dr Christian Schroeder de Witt, both from Oxford University’s Department of Engineering Science, have been named AI2050 Research Fellows by Schmidt Sciences.\nThe fellowships support researchers whose work could drive transfo... [2597 chars]",
+        "url": "https://www.oxfordmail.co.uk/news/25604113.two-oxford-ai-experts-awarded-prestigious-fellowships/",
+        "image": "https://www.oxfordmail.co.uk/resources/images/19165410.jpg?type=og-image",
+        "publishedAt": "2025-11-10T05:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6b5c45eb50a6698dcc6711c82d72fb2e",
+            "name": "Oxford Mail",
+            "url": "https://www.oxfordmail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "31d7500479207fb08e3f1dc6c21b889e",
+        "title": "China stocks flat as consumer staples, liquor gains counter tech losses",
+        "description": "** Weighing on broader markets on Monday, the artificial intelligence sector index slid nearly 3% to a more than two-week low and the chip sector index weakened 1.3% as a correction for global tech shares continued over valuation concerns. ** The U.S. Senate moved forward with a measure aimed at reopening the federal government and ending a 40-day shutdown that has caused an unprecedented economic data blackout.",
+        "content": "China stocks struggled for direction on Monday as gains in defensive sectors including liquor and consumer staples on rising consumer prices countered losses in tech shares.\n** At the midday break, the Shanghai Composite index was down 0.03% at 3,996... [1824 chars]",
+        "url": "https://www.devdiscourse.com/article/headlines/3691101-china-stocks-flat-as-consumer-staples-liquor-gains-counter-tech-losses",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_18_25_2697677.jpg?width=920&format=jpeg",
+        "publishedAt": "2025-11-10T04:41:31Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "11dc6e3671b8d2c4d1e886f070881469",
         "title": "The AI revolution has a power problem",
         "description": "Echoing the 1990s dotcom frenzy to build Internet infrastructure, today's tech giants are spending unprecedented sums to construct the silicon backbone of the revolution in artificial intelligence.",
@@ -125,38 +157,6 @@
             "name": "The Sunday Times",
             "url": "https://www.thetimes.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "03230b9435e0b6a8eb974b3a1ebb2e99",
-        "title": "Halper AI Launches to Transform the Future of SMEs From",
-        "description": "SAN FRANCISCO, Nov. 10, 2025 (GLOBE NEWSWIRE) -- Artificial intelligence is transforming industries worldwide. But for small and medium sized businesses...",
-        "content": "SAN FRANCISCO, Nov. 10, 2025 (GLOBE NEWSWIRE) -- Artificial intelligence is transforming industries worldwide. But for small and medium sized businesses (SMBs), the real challenge isn’t access to technology; it’s access to time. Today, Halper AI, fou... [4175 chars]",
-        "url": "https://www.globenewswire.com/news-release/2025/11/10/3184200/0/en/Halper-AI-Launches-to-Transform-the-Future-of-SMEs-From-Digital-Souls-to-Business-Growth.html",
-        "image": "https://ml.globenewswire.com/Resource/Download/9f717d7f-a36e-4436-8670-14cc80d5f0ed",
-        "publishedAt": "2025-11-10T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "8e9ab8327c5f7903cc1b50470411d165",
-            "name": "GlobeNewswire",
-            "url": "https://www.globenewswire.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "184ac1cf1210afbe9a133cffb1644ac9",
-        "title": "Arab Parliament commends UAE's experience in employing AI in justice sector",
-        "description": "Mohammed bin Ahmed Al Yammahi, President of the Arab Parliament, praised the rapid development of the justice sector in the United Arab Emirates, which has been achieved through the country's deployment of artificial intelligence technologies and digital transformation within the judicial system.",
-        "content": "Cairo [Egypt], November 10 (ANI/WAM): Mohammed bin Ahmed Al Yammahi, President of the Arab Parliament, praised the rapid development of the justice sector in the United Arab Emirates, which has been achieved through the country's deployment of artifi... [1139 chars]",
-        "url": "https://www.tribuneindia.com/news/world/arab-parliament-commends-uaes-experience-in-employing-ai-in-justice-sector/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI3ZGNjNzQwLWJkYzYtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-        "publishedAt": "2025-11-09T23:45:17Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
         }
     }
 ]
