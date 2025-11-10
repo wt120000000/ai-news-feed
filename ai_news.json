@@ -1,5 +1,37 @@
 [
     {
+        "id": "0bd6ab730fe3f2ca1f517f35f9cc2cfc",
+        "title": "Q&A: New tech helps Parkinson's patients who have trouble walking",
+        "description": "Researchers at UC San Francisco have developed a new way to improve walking for patients with Parkinson's disease using deep brain stimulation and artificial intelligence.",
+        "content": "Researchers at UC San Francisco have developed a new way to improve walking for patients with Parkinson's disease using deep brain stimulation and artificial intelligence.\nDeep brain stimulation (DBS) uses an implanted device to send electrical signa... [5370 chars]",
+        "url": "https://medicalxpress.com/news/2025-11-qa-tech-parkinson-patients.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/walking-with-a-cane.jpg",
+        "publishedAt": "2025-11-10T01:20:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "4f2d391e1fe96e887e3fd2449ba48a56",
+        "title": "Malaysian banking sector accelerates AI adoption for smarter, ethical compliance",
+        "description": "KUALA LUMPUR: Malaysia's banking industry is accelerating the use of artificial intelligence (AI) to strengthen compliance, risk management and fraud detection.",
+        "content": "KUALA LUMPUR: Malaysia’s banking industry is accelerating the use of artificial intelligence (AI) to strengthen compliance, risk management and fraud detection.\nHowever, this must be done responsibly, with strong human oversight, said Asian Institute... [5088 chars]",
+        "url": "https://www.thestar.com.my/business/business-news/2025/11/10/malaysian-banking-sector-accelerates-ai-adoption-for-smarter-ethical-compliance",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/10/3614129.jpg",
+        "publishedAt": "2025-11-10T01:20:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "a756a28675ccb83dba6263d0e4c95c61",
         "title": "Doctors warn against relying on AI tools for medical advice",
         "description": "Hyderabad: Doctors in Hyderabad have cautioned people against relying solely on artificial intelligence (AI) tools such as ChatGPT for medical advice..",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "4b77a85753af9bd1459e641e2900af5c",
-        "title": "BTDUex Global Mainnet Launches, Building a Digital Ecosystem that Integrates Wealth Innovation and Global Mainnet Launches",
-        "description": "Digital asset trading platform BTDUex today announced the official global launch of its mainnet.BTDUex is born for the era of crypto intelligence, dedicated to providing every participant in the crypto world with a safe, efficient, and highly inclusive digital financial gateway through advanced AI asset management strategies.With its cross-disciplinary team combining “financial engineering × artificial intelligence,” the […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nDigital asset trading platform BTDUex today announced the official global launch of its mainnet.BTDUex is born for the era of crypto intelligence, dedicated to providing every participant in the crypto world with a safe,... [3853 chars]",
-        "url": "https://techbullion.com/btduex-global-mainnet-launches-building-a-digital-ecosystem-that-integrates-wealth-innovation-and-global-mainnet-launches/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/11/17626691266910324695d7317626691266910324695d74-1.jpeg",
-        "publishedAt": "2025-11-09T15:36:21Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "1a90c392be85017e60e3c513232b7431",
-        "title": "RPT-Wall St Week Ahead-Investors watching US economic signs as market pulls back, tech teeters",
-        "description": "This week, concerns about expensive equity valuations, especially for high-flying stocks linked to enthusiasm over artificial intelligence, were exacerbated by tepid jobs data, including a report that showed surging layoff announcements from U.S. employers.",
-        "content": "Investors will seek clues about the health of the U.S. economy in the coming week following worrisome labor market reports and technology-led turbulence that has knocked the stock market off record highs. The S&P 500 ended on Friday with a weekly dec... [4738 chars]",
-        "url": "https://www.devdiscourse.com/article/business/3690824-rpt-wall-st-week-ahead-investors-watching-us-economic-signs-as-market-pulls-back-tech-teeters",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_19_19_41_2821142.jpg?width=920&format=jpeg",
-        "publishedAt": "2025-11-09T14:00:22Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
