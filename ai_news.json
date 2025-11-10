@@ -1,5 +1,37 @@
 [
     {
+        "id": "11dc6e3671b8d2c4d1e886f070881469",
+        "title": "The AI revolution has a power problem",
+        "description": "Echoing the 1990s dotcom frenzy to build Internet infrastructure, today's tech giants are spending unprecedented sums to construct the silicon backbone of the revolution in artificial intelligence.",
+        "content": "SAN FRANCISCO: In the race for AI dominance, American tech giants have the money and the chips, but their ambitions have hit a new obstacle: electric power.\n\"The biggest issue we are now having is not a compute glut, but it's the power and...the abil... [4363 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/11/10/the-ai-revolution-has-a-power-problem",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/10/3614339.jpg",
+        "publishedAt": "2025-11-10T04:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "7adab3325030eba1c2012c835072355e",
+        "title": "‘Tap into opportunities emerging out of green hydrogen revolution, AI and EV’, L&T MD tells students",
+        "description": "The L&T chairman highlighted major global shifts shaping the future - from the solar and green hydrogen revolution to the artificial intelligence and EV transfo",
+        "content": "BHUBANESWAR: Students should tap into opportunities emerging out of the green hydrogen revolution, artificial intelligence and EV transformation in this rapidly-evolving industrial landscape, opined chairman and managing director of Larsen & Toubro (... [1023 chars]",
+        "url": "https://www.newindianexpress.com/cities/bhubaneswar/2025/Nov/10/tap-into-opportunities-emerging-out-of-green-hydrogen-revolution-ai-and-ev-lt-md-tells-students",
+        "image": "https://media.newindianexpress.com/newindianexpress%2F2025-11-10%2Fjtq8o1t1%2Fkiit0911chn17.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2025-11-10T03:39:14Z",
+        "lang": "en",
+        "source": {
+            "id": "448094ed3f9461bb87a99a218cdaecfe",
+            "name": "The New Indian Express",
+            "url": "https://www.newindianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "316607a4daa6714e1eb74b6ee1354530",
         "title": "Ant Group Adds Healthcare as New AI-Driven Growth Pillar",
         "description": "Ant Group, an affiliate of Alibaba , has designated healthcare as a new artificial intelligence-driven business pillar, the South China Morning Post reported, citing a letter from Chief Executive...",
@@ -119,38 +151,6 @@
         "url": "https://www.tribuneindia.com/news/world/arab-parliament-commends-uaes-experience-in-employing-ai-in-justice-sector/",
         "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI3ZGNjNzQwLWJkYzYtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
         "publishedAt": "2025-11-09T23:45:17Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "15755dc6c5f8963b457eb546eac1e439",
-        "title": "Goldman Sees US Investors Flocking to Japan as Nikkei Surges",
-        "description": "US investors are increasingly buying Japanese stocks focused on tech and artificial intelligence, lured by the country’s outsized returns compared with US stocks, according to Goldman Sachs Group Inc.",
-        "content": "US investors are increasingly buying Japanese stocks focused on tech and artificial intelligence, lured by the country’s outsized returns compared with US stocks, according to Goldman Sachs Group Inc.\n“The increase in US flows is now moving at the fa... [260 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-11-09/goldman-sees-us-investors-flocking-to-japan-as-nikkei-surges",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iriaX0hsN9YU/v1/1200x800.jpg",
-        "publishedAt": "2025-11-09T21:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e6dd6e509a516fddde93d057a9fa24a3",
-        "title": "AI tools being weaponized to target women journalists: CJI",
-        "description": "Underlining the challenges posed by emerging technologies, Chief Justice of India-designate Justice Surya Kant has flagged the misuse of artificial intelligence (AI) tools to target women journalists.",
-        "content": "Underlining the challenges posed by emerging technologies, Chief Justice of India-designate Justice Surya Kant has flagged the misuse of artificial intelligence (AI) tools to target women journalists.\nSpeaking at the 31st anniversary of the Indian Wo... [2966 chars]",
-        "url": "https://www.tribuneindia.com/news/india/ai-tools-being-weaponized-to-target-women-journalists-cji-designate-justice-surya-kant/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkzYjM1Y2QwLWJkYWUtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-        "publishedAt": "2025-11-09T20:53:00Z",
         "lang": "en",
         "source": {
             "id": "c5725557f39c24c8b029ee39900a8406",
