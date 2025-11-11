@@ -1,108 +1,44 @@
 [
     {
-        "id": "021f8a17f79abb3cbe705b00a759f712",
-        "title": "SoftBank exits Nvidia with $5.8 bn profit as Masayoshi Son doubles down on AI investments",
-        "description": "SoftBank Group, led by Masayoshi Son, has divested its entire holding in Nvidia for $5.8 billion. The company also announced that its second-quarter net profit more than doubled, as it prepares to accelerate investment in artificial intelligence ventures. The company said it sold 32mn Nvidia shares last month as well as some of its stake in T-Mobile for $9.2 billion.",
-        "content": "SoftBank Group Corp. has sold its entire stake in Nvidia Corp., locking in profits of $5.8 billion just as founder Masayoshi Son prepares a fresh wave of investments aimed at building a global ecosystem around artificial intelligence.\nThe Tokyo-based... [4008 chars]",
-        "url": "https://www.businesstoday.in/tech-today/news/story/softbank-exits-nvidia-with-58-bn-profit-as-masayoshi-son-doubles-down-on-ai-investments-501687-2025-11-11",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202511/6912ff52d5cba-nvidia-india-alliance-111759543-16x9.png",
-        "publishedAt": "2025-11-11T09:19:16Z",
+        "id": "a09f1eb2f3b649a826611a4badc983da",
+        "title": "AI agents open door to new hacking threats",
+        "description": "NEW YORK — Cybersecurity experts are warning that artificial intelligence agents, widely considered the next frontier in the generative AI revolution, could wind up getting hijacked and doing the dirty work for hackers.",
+        "content": "NEW YORK — Cybersecurity experts are warning that artificial intelligence agents, widely considered the next frontier in the generative AI revolution, could wind up getting hijacked and doing the dirty work for hackers.\nAI agents are programs that us... [3441 chars]",
+        "url": "https://www.manilatimes.net/2025/11/11/world/ai-agents-open-door-to-new-hacking-threats/2220865",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/11/821933.jpg",
+        "publishedAt": "2025-11-11T10:21:00Z",
         "lang": "en",
         "source": {
-            "id": "76a2f820b104591b97fed1b0932cec38",
-            "name": "Business Today",
-            "url": "https://www.businesstoday.in",
-            "country": "in"
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
         }
     },
     {
-        "id": "bbc12a15878439c7ed6b3067ac5b72de",
-        "title": "AI can now help identify life-threatening heart disease: Here's how",
-        "description": "According to the Cleveland Clinic, the condition has a high risk of causing abnormal heart rhythms, and it calls for early diagnosis and treatment..Artificial Intelligence heart disease, AI heart health, Arrhythmogenic right ventricular cardiomyopathy, ARVC AI diagnosis, PKP2 gene AI identification, AI ECG analysis heart, Early diagnosis heart disease AI, Heart disease gene therapy AI, LLM heart disease prediction, AI smartwatch heart monitoring, Machine learning heart condition detection, AI in cardiology, How AI diagnoses heart arrhythmia, Using AI to predict Arrhythmogenic right ventricular cardiomyopathy, AI and heart failure diagnosis",
-        "content": "Artificial Intelligence (AI) can now help fix ailing hearts, too. Not in the poetic sense, but quite literally. Ever heard of Arrhythmogenic right ventricular cardiomyopathy? Like its long name suggests, it's a condition that tires the molecules that... [1020 chars]",
-        "url": "https://www.onmanorama.com/lifestyle/health/2025/11/11/ai-to-identify-heart-disease-arvc.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/lifestyle/health/images/2025/9/3/sudden-heart-attack.jpg",
-        "publishedAt": "2025-11-11T09:18:15Z",
+        "id": "a2d63e258b1aebeed193364c72863fd5",
+        "title": "Intel CEO Lip-Bu Tan to Take Over AI Efforts Afer Departure of Chief Technology Officer",
+        "description": "Intel Chief Executive Lip-Bu Tan will oversee the chipmaker's artificial intelligence projects after the chipmaker's chief technology officer departed for Microsoft-backed OpenAI, Reuters...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/intel-ceo-lip-bu-tan-to-take-over-ai-efforts-afer-departure-of-chief-technology-officer-ce7d5fd9dc88f125",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2025-11-11T10:16:50Z",
         "lang": "en",
         "source": {
-            "id": "60c457b35b486691319f105c3a760060",
-            "name": "Malayala Manorama",
-            "url": "https://www.onmanorama.com",
-            "country": "in"
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
         }
     },
     {
-        "id": "fc99cb1920eb0a89a4708bcbf89ebf27",
-        "title": "5 ways chatbots are quietly taking over your daily life",
-        "description": "Chatbots are no longer just customer service tools; they've quietly become part of our everyday routines. From answering health queries to helping us shop online, these AI-powered assistants are transforming how we live, work, and communicate. Whether it’s booking tickets, managing finances, or setting reminders, chatbots are streamlining countless daily tasks. As artificial intelligence continues to advance, their presence in our digital ecosystem is growing faster than ever, often without us even realizing it.",
-        "content": "Chatbots are no longer just customer service tools; they've quietly become part of our everyday routines. From answering health queries to helping us shop online, these AI-powered assistants are transforming how we live, work, and communicate. Whethe... [279 chars]",
-        "url": "https://www.moneycontrol.com/technology/5-ways-chatbots-are-quietly-taking-over-your-daily-life-photo-gallery-13667284.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251009112154_chatgptapple.jpg",
-        "publishedAt": "2025-11-11T09:15:46Z",
-        "lang": "en",
-        "source": {
-            "id": "fd3677545b80d5db7541de8e111d27ba",
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "99476d07aeda68da1929d66615135f5d",
-        "title": "Microsoft AI chief says you should be afraid of AI, world will get worse if humans lost control of it",
-        "description": "Microsoft AI CEO Mustafa Suleyman believes that everyone should be afraid of artificial intelligence (AI). Suleyman insists that the world will only get worse if humans lose control of AI in the future.",
-        "content": "Artificial intelligence (AI) is transforming the world across various sectors. Tech companies such as Microsoft, Google, and OpenAI are investing billions of dollars in the AI race, hoping to reach artificial general intelligence (AGI), a stage when ... [1906 chars]",
-        "url": "https://www.indiatoday.in/technology/news/story/microsoft-ai-chief-says-you-should-be-afraid-of-ai-world-will-get-worse-if-humans-lost-control-of-it-2817370-2025-11-11",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/mustafa-suleyman-204619739-16x9.jpg?VersionId=sYPaA_tf.REQBHFkpVQV8s0VwAe0diI9",
-        "publishedAt": "2025-11-11T09:07:23Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "afc1849e94507a605fc100cdbea22a33",
-        "title": "Brits 'trust AI more' than the Government and even their own friends and family",
-        "description": "A study found 44% of adults believe artificial intelligence will provide them with more truth and facts, compared to 38% who have faith in ministers",
-        "content": "A study found 44% of adults believe artificial intelligence will provide them with more truth and facts, compared to 38% who have faith in ministers\nBrits trust AI more than the Government, social media influencers - and friends and family, a report ... [3533 chars]",
-        "url": "https://www.dailystar.co.uk/news/latest-news/brits-trust-ai-more-government-36225022",
-        "image": "https://i2-prod.dailystar.co.uk/article35937195.ece/ALTERNATES/s1200/8_Security-officer-watching-cloud-blocks-forming-face-in-sky.jpg",
-        "publishedAt": "2025-11-11T08:59:29Z",
-        "lang": "en",
-        "source": {
-            "id": "4300aa22a5f803b09a37ff0632b44685",
-            "name": "The daily Star",
-            "url": "https://www.dailystar.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "8e189e213dfb2f63b4f854b6bfdaa3d3",
-        "title": "IIT Gandhinagar launches three new AI-focused PG Diploma programmes",
-        "description": "IIT Gandhinagar has launched three new six-month postgraduate diploma programmes focused on Artificial Intelligence, Data Science, and Cloud Engineering. The courses aim to equip students with practical, industry-ready skills through intensive, project-based learning and mentorship from IIT faculty and industry experts.",
-        "content": "Indian Institute of Technology, Gandhinagar, ranked 18th in the Engineering category by NIRF, has launched three new 6 month Postgraduate Diploma Programmes in association with Futurense Technologies.\nThe fully residential programmes are specially cr... [2226 chars]",
-        "url": "https://www.indiatoday.in/education-today/news/story/iit-gandhinagar-launches-three-new-ai-focused-pg-diploma-programmes-2817349-2025-11-11",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/iit-gandhinagar-114350364-16x9_0.jpeg?VersionId=XPMmkSqZ.Nkl5EFe03CS1ZCmac_1Fp4E",
-        "publishedAt": "2025-11-11T08:52:36Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "77ae6e1807bd8e11de64034bb27d9f26",
-        "title": "Best 7 Artificial Intelligence Certifications and Courses in India",
-        "description": "Introduction In the age of digital transformation, Artificial Intelligence (AI) has become the cornerstone of innovation across industries. From predictive analytics in business to automation in daily life, AI continues to redefine how the world works. As companies embrace AI to drive growth and efficiency, the demand for professionals skilled in machine learning, data science, […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nIntroduction\nIn the age of digital transformation, Artificial Intelligence (AI) has become the cornerstone of innovation across industries. From predictive analytics in business to automation in daily life, AI continues ... [5268 chars]",
-        "url": "https://techbullion.com/best-7-artificial-intelligence-certifications-and-courses-in-india/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/11/top-20-ai-courses-certs-1000x600.jpg",
-        "publishedAt": "2025-11-11T08:51:59Z",
+        "id": "8b33c8003c7a79e57688f4f0592b7276",
+        "title": "How Are AI Video Generators Transforming Modern Video Production?",
+        "description": "Artificial intelligence has made remarkable progress in automating creative tasks, and one field that is completely transformed is the video production. Modern AI video generators are transforming how videos are planned, created, and published. These tools allow anyone to create professional-quality production and save several hours of editing work, from small creators to large marketing […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence has made remarkable progress in automating creative tasks, and one field that is completely transformed is the video production. Modern AI video generators are transforming how videos are planned,... [3067 chars]",
+        "url": "https://techbullion.com/how-are-ai-video-generators-transforming-modern-video-production/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/11/play-button-media-player-podcast-graphic_53876-121173.jpg",
+        "publishedAt": "2025-11-11T10:10:07Z",
         "lang": "en",
         "source": {
             "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -112,51 +48,115 @@
         }
     },
     {
-        "id": "922e687b2e3a480c9e0302d195f94a1e",
-        "title": "Intel CEO To Oversee Its AI Efforts After Executive Departs for OpenAI",
-        "description": "OpenAI President Greg Brockman said on X that Katti would be “designing and building our compute infrastructure, which will power our (artificial general intelligence) research and scale its applications to benefit everyone.”",
-        "content": "Intel said on Monday its CEO Lip-Bu Tan would oversee the chipmaker's artificial intelligence efforts after the firm's chief technology officer departed for ChatGPT maker OpenAI. Sachin Katti, who has led Intel's AI efforts since a management reorgan... [1974 chars]",
-        "url": "https://www.republicworld.com/tech/intel-ceo-to-oversee-its-ai-efforts-after-executive-departs-for-openai",
-        "image": "https://img.republicworld.com/all_images/intel-1762850821744-16_9.webp",
-        "publishedAt": "2025-11-11T08:47:08Z",
+        "id": "a5b80d33c1774e02b78e0ea40afce54c",
+        "title": "Microsoft AI CEO Mustafa Suleyman on AGI, Evolving OpenAI Relationship",
+        "description": "A renegotiated deal lets Microsoft independently pursue artificial general intelligence. Suleyman is seizing the moment.",
+        "content": "In the race to build powerful artificial intelligence, Microsoft has had its hands tied behind it back for years. Now, the software giant is free to compete, according to top executive Mustafa Suleyman.\nSuleyman recently unveiled a superintelligence ... [5590 chars]",
+        "url": "https://www.businessinsider.com/microsoft-ai-ceo-mustafa-suleyman-agi-evolving-openai-relationship-2025-11",
+        "image": "https://i.insider.com/6602a62d16bde8d4ead21531?width=1200&format=jpeg",
+        "publishedAt": "2025-11-11T10:00:02Z",
         "lang": "en",
         "source": {
-            "id": "e479ce8332aab31d8bac6ba9584cedbb",
-            "name": "Republic World",
-            "url": "https://www.republicworld.com",
+            "id": "458ddf355ab77631d3eb3dd84a0351b4",
+            "name": "Business Insider",
+            "url": "https://www.businessinsider.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "91326c3354e0873ae074adf7b0f4ba0f",
+        "title": "AI, CSR and skilling must converge to turn India's demographic edge into jobs: Arvind Virmani, Member Niti Aayog",
+        "description": "Artificial Intelligence (AI), Corporate Social Responsibility (CSR) and large-scale skilling must come together if India is to transform its demographic advantage into sustained job-led growth, says Arvind Virmani, Member, NITI Aayog, to ANI.",
+        "content": "New Delhi [India] November 11 (ANI): Artificial Intelligence (AI), Corporate Social Responsibility (CSR) and large-scale skilling must come together if India is to transform its demographic advantage into sustained job-led growth, says Arvind Virmani... [3668 chars]",
+        "url": "https://www.tribuneindia.com/news/business/ai-csr-and-skilling-must-converge-to-turn-indias-demographic-edge-into-jobs-arvind-virmani-member-niti-aayog/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThhYTQ3NTIwLWJlZTQtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+        "publishedAt": "2025-11-11T09:55:18Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
             "country": "in"
         }
     },
     {
-        "id": "cbb23124f517197bba36d96b2362c5d5",
-        "title": "SoftBank unloads Nvidia stake for $5.8 billion in surprise move",
-        "description": "The Tokyo-based company now boasts a portfolio that includes some of the world’s most sought-after names in artificial intelligence: OpenAI and Oracle.",
-        "content": "SoftBank Group sold its entire stake in Nvidia, pocketing $5.8 billion ahead of a rash of planned investments by founder Masayoshi Son to build his own sphere of influence supporting artificial intelligence.\nThe Tokyo-based company had raised its sta... [384 chars]",
-        "url": "https://www.japantimes.co.jp/business/2025/11/11/companies/softbank-nvidia-stake/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/11/11/505231.jpg?v=3.1",
-        "publishedAt": "2025-11-11T08:39:53Z",
+        "id": "b06b27fcd04a6d1840f912cee22f8a3e",
+        "title": "AI, CSR and skilling must converge to turn India's demographic edge into jobs: Arvind Virmani, Member Niti Aayog",
+        "description": "AI, CSR and skilling must converge to turn India's demographic edge into jobs: Arvind Virmani, Member Niti Aayog - New Delhi [India] November 11 : Artificial Intelligence (AI), Corporate Social Responsibility (CSR) and large-scale skilling must come together ... Get Latest News on Business only on lokmattimes.com",
+        "content": "New Delhi [India] November 11 : Artificial Intelligence (AI), Corporate Social Responsibility (CSR) and large-scale skilling must come together if India is to transform its demographic advantage into sustained job-led growth, says Arvind Virmani, Mem... [3639 chars]",
+        "url": "https://www.lokmattimes.com/business/ai-csr-and-skilling-must-converge-to-turn-indias-demographic-edge-into-jobs-arvind-virmani-member-niti-aayog/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251111094503_202511.jpg",
+        "publishedAt": "2025-11-11T09:51:18Z",
         "lang": "en",
         "source": {
-            "id": "4b9101ef61d45607a32072a7504f5fb0",
-            "name": "The Japan Times ",
-            "url": "https://www.japantimes.co.jp",
-            "country": "jp"
+            "id": "f2ddccedc9e60d844e7a1045928cad48",
+            "name": "Lokmat Times",
+            "url": "https://www.lokmattimes.com",
+            "country": "in"
         }
     },
     {
-        "id": "6798f484a5ee8787f244d6194fc2d543",
-        "title": "How Purpose-Built A.I. Tools Are Shaping The Future Of Translation",
-        "description": "Professional translation workflows today rely on close collaboration between human expertise and artificial intelligence. A.I. accelerates routine tasks, supports consistency, and enhances overall...",
-        "content": "Professional translation workflows today rely on close collaboration between human expertise and artificial intelligence. A.I. accelerates routine tasks, supports consistency, and enhances overall output, but professional translators remain essential... [9189 chars]",
-        "url": "https://www.marketscreener.com/news/how-purpose-built-a-i-tools-are-shaping-the-future-of-translation-ce7d5fd9da80f121",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2025-11-11T08:11:11Z",
+        "id": "f0fbbe44b999f208a55b02a4ec813408",
+        "title": "Larger corporations outpace smaller firms in scaling Artificial Intelligence: McKinsey Report",
+        "description": "The report found that while nearly nine out of ten companies are now using AI in at least one business function, most remain in the pilot or experimentation phase, with only about a third having scaled their AI programs across the enterprise.",
+        "content": "New Delhi [India], November 11 (ANI): The larger corporations are emerging as frontrunners in scaling artificial intelligence (AI) beyond the pilot phase, according to a recent survey report by McKinsey & Company.\nThe report found that while nearly n... [2235 chars]",
+        "url": "https://www.tribuneindia.com/news/business/larger-corporations-outpace-smaller-firms-in-scaling-artificial-intelligence-mckinsey-report/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWMyNTlhN2UwLWJlZTEtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+        "publishedAt": "2025-11-11T09:35:22Z",
         "lang": "en",
         "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "a3494b7b219fde62563bc23c602c7f84",
+        "title": "Arsenal news: Why did Arsene Wenger warn Mikel Arteta about the use of artificial intelligence?",
+        "description": "Arsene Wenger has issued a warning to Mikel Arteta about the growing use of artificial intelligence (AI) at Arsenal.",
+        "content": "For the Frenchman, AI is useful in evaluating data and scenarios, but cannot take the place of a manager's sensitivity and instinct.\nArsene Wenger has issued a warning to Mikel Arteta about the growing use of artificial intelligence (AI) at Arsenal. ... [3835 chars]",
+        "url": "https://www.sportsmole.co.uk/football/arsenal/news/why-did-wenger-warn-arteta-about-the-use-of-artificial-intelligence_585535.html",
+        "image": "https://www.sportsmole.co.uk/thumbor/uoJwl0q--nJNey_gw57S_avXgaQ=/640x480/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2025%2F11%2Fimago1048546690-691305538488f781936692.jpg",
+        "publishedAt": "2025-11-11T09:35:00Z",
+        "lang": "en",
+        "source": {
+            "id": "06081241f2c2495ab509bbab5933ec58",
+            "name": "Sports Mole",
+            "url": "https://www.sportsmole.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "936d9ac59fc2f196dba5c407e360bb4d",
+        "title": "OpenAI may not use lyrics without license, German court rules",
+        "description": "MUNICH (Reuters) -A German court on Tuesday sided with the country's music rights society GEMA in a closely watched copyright case against U.S.-based artificial intelligence firm OpenAI.",
+        "content": "MUNICH (Reuters) -A German court on Tuesday sided with the country's music rights society GEMA in a closely watched copyright case against U.S.-based artificial intelligence firm OpenAI.\nThe court in Munich ruled that OpenAI could not use song lyrics... [930 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/11/11/german-court-sides-with-plaintiff-in-copyright-case-against-openai",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/11/3616903.jpg",
+        "publishedAt": "2025-11-11T09:34:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "2dfd2ac7f04e2fab3e9a0858dd00d687",
+        "title": "Larger corporations outpace smaller firms in scaling Artificial Intelligence: McKinsey Report",
+        "description": "Larger corporations outpace smaller firms in scaling Artificial Intelligence: McKinsey Report - New Delhi [India], November 11 : The larger corporations are emerging as frontrunners in scaling artificial intelligence (AI) beyond ... Get Latest News on Business only on lokmattimes.com",
+        "content": "New Delhi [India], November 11 : The larger corporations are emerging as frontrunners in scaling artificial intelligence (AI) beyond the pilot phase, according to a recent survey report by McKinsey & Company.\nThe report found that while nearly nine o... [2203 chars]",
+        "url": "https://www.lokmattimes.com/business/larger-corporations-outpace-smaller-firms-in-scaling-artificial-intelligence-mckinsey-report/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251111092023_202511.jpg",
+        "publishedAt": "2025-11-11T09:33:49Z",
+        "lang": "en",
+        "source": {
+            "id": "f2ddccedc9e60d844e7a1045928cad48",
+            "name": "Lokmat Times",
+            "url": "https://www.lokmattimes.com",
+            "country": "in"
         }
     }
 ]
