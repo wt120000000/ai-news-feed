@@ -1,5 +1,21 @@
 [
     {
+        "id": "09d4377e483bd9ef0cba28fa08ccc462",
+        "title": "Meet Sachin Katti, IIT Bombay grad who quit Intel after 6 months as AI chief to join OpenAI",
+        "description": "IIT Bombay Alumni Sachin Katti has departed from his role as Intel's artificial intelligence chief to join OpenAI. His exit comes just six months after he took the top AI post at the chip giant.",
+        "content": "Sachin Katti has resigned as Intel’s Chief Technology and AI Officer just six months after stepping into the role. Katti is now joining OpenAI, the company behind ChatGPT, where he will be responsible for designing and scaling the compute infrastruct... [3910 chars]",
+        "url": "https://www.indiatoday.in/technology/news/story/meet-sachin-katti-iit-bombay-grad-who-quit-intel-after-6-months-as-ai-chief-to-join-openai-2817210-2025-11-11",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/sachin-katti-114849676-16x9_0.jpg?VersionId=a8KHto7wBNji6pojzfm9YuYuzHQyDJ1N",
+        "publishedAt": "2025-11-11T05:49:50Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "01ca395deff101ab02784ce28af6a3c9",
         "title": "Intel Loses AI Leader Sachin Katti to OpenAI as CEO Tan Lip-Bu Takes Charge of AI Operations",
         "description": "Intel’s AI chief Sachin Katti is leaving to join OpenAI, where he’ll lead infrastructure for artificial general intelligence. Intel CEO Tan Lip-Bu will now oversee AI strategy following major executive reshuffles aimed at streamlining operations and boosting competitiveness.",
@@ -141,22 +157,6 @@
             "name": "CBS News",
             "url": "https://www.cbsnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "917b8aa3910bdece8292328903bcc794",
-        "title": "CBSE drafts AI curriculum for Classes 3",
-        "description": "Education News: NEW DELHI: The Central Board of Secondary Education (CBSE) has prepared a draft curriculum for Artificial Intelligence (AI) for Classes III to XII, ma.",
-        "content": ".\nNEW DELHI: The Central Board of Secondary Education (CBSE) has prepared a draft curriculum for Artificial Intelligence (AI) for Classes III to XII, marking a structured plan to integrate AI into school education. The draft has been sent to the Nati... [572 chars]",
-        "url": "https://timesofindia.indiatimes.com/education/cbse-drafts-ai-curriculum-for-classes-3-12-ncert-to-review/articleshow/125238255.cms",
-        "image": "https://static.toiimg.com/thumb/msid-125238335,width-1070,height-580,imgsize-933235,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-11-11T02:36:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
