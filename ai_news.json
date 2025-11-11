@@ -1,5 +1,37 @@
 [
     {
+        "id": "9cd149d6b7496bf0d155235021c0aac1",
+        "title": "SoftBank earnings report 2Q",
+        "description": "SoftBank's stock has slumped in the past week as concerns of an artificial intelligence bubble sent jitters through global markets.",
+        "content": "Japanese giant SoftBank on Tuesday posted a $19 billion gain on its Vision Fund in its fiscal second quarter ended Sept. 30.\nThe broader Vision Fund segment factors in non-investment performance such as administrative expenses and gains and losses at... [1528 chars]",
+        "url": "https://www.cnbc.com/2025/11/11/softbank-earnings-report-2q.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108090443-1737552664782-gettyimages-2194606307-AFP_36V94PR.jpeg?v=1762783303&w=1920&h=1080",
+        "publishedAt": "2025-11-11T06:43:26Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "530c57fc89268232890cfae56fa255f2",
+        "title": "SoftBank Unloads Nvidia Stake for $5.8 Billion in Surprise Move",
+        "description": "SoftBank Group Corp. sold its entire stake in Nvidia Corp., pocketing $5.8 billion ahead of a rash of planned investments by founder Masayoshi Son to build his own sphere of influence supporting artificial intelligence.",
+        "content": "SoftBank Group Corp. sold its entire stake in Nvidia Corp., pocketing $5.8 billion ahead of a rash of planned investments by founder Masayoshi Son to build his own sphere of influence supporting artificial intelligence.\nThe Tokyo-based company had ra... [309 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-11/softbank-s-profit-surges-after-boost-from-soaring-ai-valuations",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0EEEcFx66kY/v1/1200x800.jpg",
+        "publishedAt": "2025-11-11T06:38:59Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "09d4377e483bd9ef0cba28fa08ccc462",
         "title": "Meet Sachin Katti, IIT Bombay grad who quit Intel after 6 months as AI chief to join OpenAI",
         "description": "IIT Bombay Alumni Sachin Katti has departed from his role as Intel's artificial intelligence chief to join OpenAI. His exit comes just six months after he took the top AI post at the chip giant.",
@@ -125,38 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "0e96f0eb59aff807aa8f5cb17966a617",
-        "title": "Intel CEO to oversee its AI efforts after executive departs for OpenAI",
-        "description": "CEO Tan Lip-bu will take over the chipmaker’s artificial intelligence efforts after AI chief Sachin Katti leaves to join OpenAI.",
-        "content": "Sachin Katti, who has led Intel’s AI efforts since a management reorganisation at the chipmaker in January, said on social media that he had joined OpenAI.\n“We thank Sachin for his contributions and wish him all the best. Lip-bu will lead the AI and ... [500 chars]",
-        "url": "https://www.scmp.com/tech/big-tech/article/3332276/intel-ceo-oversee-its-ai-efforts-after-executive-departs-openai",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/11/5dc6a5f8-eeb1-4c79-b760-76fcd8b23cda_7b835472.jpg?itok=5C2s4hx1&v=1762830551",
-        "publishedAt": "2025-11-11T03:10:16Z",
-        "lang": "en",
-        "source": {
-            "id": "d6397b77175680e2678c0d60edcee7af",
-            "name": "South China Morning Post",
-            "url": "https://www.scmp.com",
-            "country": "hk"
-        }
-    },
-    {
-        "id": "f8a6b6f53219bbbc1350c6a3a41df234",
-        "title": "AI scams fuel rise in fake online car sales. How California is trying to protect consumers.",
-        "description": "Buying a car is one of the biggest purchases we make, and more people are turning to online marketplaces for deals on used cars. But thanks to artificial intelligence, you're more likely than ever to get scammed.",
-        "content": "Buying a car is one of the biggest purchases we make, and more people are turning to online marketplaces for deals on used cars. But thanks to artificial intelligence, you're more likely than ever to get scammed.\nA recent report found that nearly 5% ... [2829 chars]",
-        "url": "https://www.cbsnews.com/sacramento/news/ai-scams-fake-car-sales-california/",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/11/145c5ab9-eefd-4c3f-9796-e172b09fecef/thumbnail/1200x630/5c7be452352f09c031a9fba14196117d/cci-online-car-sale-scams.png",
-        "publishedAt": "2025-11-11T02:40:35Z",
-        "lang": "en",
-        "source": {
-            "id": "3a3847d645a619320aa3b3484581e395",
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com",
-            "country": "us"
         }
     }
 ]
