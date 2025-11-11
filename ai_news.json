@@ -1,5 +1,37 @@
 [
     {
+        "id": "0c5c04df633b6ce7e6000a4821ef3b78",
+        "title": "Use caution with AI therapy, experts say",
+        "description": "As artificial intelligence chatbots like ChatGPT have grown in popularity, some are turning to them for therapeutic purposes.",
+        "content": "As artificial intelligence chatbots like ChatGPT have grown in popularity, some are turning to them for therapeutic purposes.\n“It was probably about a year and a half ago that I started hearing rumblings of people using things like ChatGPT for mental... [731 chars]",
+        "url": "https://globalnews.ca/news/11520456/use-caution-with-ai-therapy/",
+        "image": "https://globalnews.ca/wp-content/uploads/2025/10/8244ea91e1bdd18183953178dc3142d41c93a5d0b9b48a3d67c732085c5563d3.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+        "publishedAt": "2025-11-11T01:08:08Z",
+        "lang": "en",
+        "source": {
+            "id": "49853ffafc28f405ff8ed06043290ae8",
+            "name": "Global News",
+            "url": "https://globalnews.ca",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "2bde61b6c527a497e2def3f2604bef93",
+        "title": "CNBC Daily Open: AI is back - it never really went away",
+        "description": "Investors piled back into artificial intelligence names on Monday stateside. \"AI-related stocks should drive equity markets,\" an analyst said.",
+        "content": "Investors piled back into artificial intelligence names on Monday stateside. Shares of Nvidia jumped 5.8%, Broadcom advanced 2.6% and Microsoft climbed 1.9% to end its eight-day losing streak, its longest consecutive decline since 2011.\nMarket watche... [2475 chars]",
+        "url": "https://www.cnbc.com/2025/11/11/cnbc-daily-open-ai-is-back-it-never-really-went-away.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108122989-1743183626102-gettyimages-2206681850-porzycki-nvidiaan250328_npq2M.jpeg?v=1743183829&w=1920&h=1080",
+        "publishedAt": "2025-11-11T00:59:25Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f6120da0376da6fdf2948501c72b7fef",
         "title": "At some Philly doctors’ offices, AI is listening in the exam room",
         "description": "So-called ambient listening and AI scribes are now among the artificial intelligence tools that patients are beginning to see in exam rooms.",
@@ -125,38 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "7f1093a989926709c61fd05c099ceffd",
-        "title": "Intel CEO to oversee company's AI efforts after departure of exec for OpenAI",
-        "description": "SAN FRANCISCO -Intel CEO Lip-Bu Tan will oversee the chipmakers artificial intelligence efforts after the firm's chief technology officer departed for ChatGPT maker OpenAI, Intel said in a...",
-        "content": "SAN FRANCISCO (Reuters) -Intel CEO Lip-Bu Tan will oversee the chipmakers artificial intelligence efforts after the firm's chief technology officer departed for ChatGPT maker OpenAI, Intel said in a statement.\nSachin Katti, who has led Intel's AI eff... [278 chars]",
-        "url": "https://www.marketscreener.com/news/intel-ceo-to-oversee-company-s-ai-efforts-after-departure-of-exec-for-openai-ce7d5fd8d188f124",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2025-11-10T22:57:15Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "064ff3efe9a92b2d45edd0d581c22f12",
-        "title": "Alice Di Natale: The Future of Legal Professionals in the Age of GenAI",
-        "description": "In a world where Artificial Intelligence is transforming every industry, the legal field is no exception. Alice Di Natale, an Italian legal professional specialized in Tech Law, Data Protection, and Intellectual Property, a TEDx Speaker, and a legal content creator, embodies a new generation of lawyers combining legal expertise with creativity and digital awareness. Her […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nIn a world where Artificial Intelligence is transforming every industry, the legal field is no exception. Alice Di Natale, an Italian legal professional specialized in Tech Law, Data Protection, and Intellectual Property... [6487 chars]",
-        "url": "https://techbullion.com/alice-di-natale-the-future-of-legal-professionals-in-the-age-of-genai/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/11/unnamed-9.png",
-        "publishedAt": "2025-11-10T21:55:51Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
         }
     }
 ]
