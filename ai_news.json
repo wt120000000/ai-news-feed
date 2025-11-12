@@ -1,5 +1,85 @@
 [
     {
+        "id": "82cd750a58e91999c6acb96c9cb165a5",
+        "title": "Maharashtra Pollution Control Board Launches ‘GreenMind AI’ - An AI-Powered Environmental Information Assistant",
+        "description": "The Maharashtra Pollution Control Board (MPCB) on Tuesday, officially launched GreenMind AI, an artificial intelligence-powered environmental information assistant, developed by Axion Labs.",
+        "content": "Mumbai: The Maharashtra Pollution Control Board (MPCB) on Tuesday, officially launched GreenMind AI, an artificial intelligence-powered environmental information assistant, developed by Axion Labs.\nAI Platform To Improve Transparency And Access\n\"Gree... [1794 chars]",
+        "url": "https://www.freepressjournal.in/mumbai/maharashtra-pollution-control-board-launches-greenmind-ai-an-ai-powered-environmental-information-assistant",
+        "image": "https://media.assettype.com/freepressjournal/2025-11-11/cvs6s1cr/Copy-of-Queen-Of-All-Mayhem-35.jpg",
+        "publishedAt": "2025-11-11T20:04:41Z",
+        "lang": "en",
+        "source": {
+            "id": "7eeaf9a839918543cc708f2d331c3be4",
+            "name": "Free Press Journal",
+            "url": "https://www.freepressjournal.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "f9f41a7d576e2a5ee51acb0cee9fa41c",
+        "title": "Is China about to win the AI race?",
+        "description": "From subsidized power to open-source innovation, China is mounting a serious challenge to U.S. dominance in artificial intelligence.",
+        "content": "Hello, Beatrice Nolan here, filling in for Jeremy Kahn. The AI industry has been mulling a key question recently: Is China pulling ahead in the AI race?\nIt’s a debate sparked by Nvidia CEO Jensen Huang, who made headlines last week after stating that... [7198 chars]",
+        "url": "https://fortune.com/2025/11/11/is-china-about-to-win-the-ai-race/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2240725887-e1760903954714.jpg?resize=1200,600",
+        "publishedAt": "2025-11-11T19:59:08Z",
+        "lang": "en",
+        "source": {
+            "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+            "name": "Fortune",
+            "url": "https://fortune.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "18cc6e42dadb6833ca45c01dee54509a",
+        "title": "AI can deliver personalized learning at scale, medical education study shows",
+        "description": "A new Dartmouth study finds that artificial intelligence has the potential to deliver educational support that meets the individual needs of large numbers of students. The researchers are the first to report that students may put more trust in AI platforms programmed to pull answers from only curated expert sources, rather than from massive data sets of general information.",
+        "content": "A new Dartmouth study finds that artificial intelligence has the potential to deliver educational support that meets the individual needs of large numbers of students. The researchers are the first to report that students may put more trust in AI pla... [6229 chars]",
+        "url": "https://phys.org/news/2025-11-ai-personalized-scale-medical.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-can-deliver-persona.jpg",
+        "publishedAt": "2025-11-11T19:52:04Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "e795025c5312bb40f8c22645fddc5f03",
+        "title": "Wall Street mixed as investors sell Nvidia and other AI stocks",
+        "description": "Wall Street stocks were mixed on Tuesday, with Nvidia and other artificial intelligence-related companies falling on renewed concerns about elevated valuations, while markets monitored progress...",
+        "content": "(Reuters) -Wall Street stocks were mixed on Tuesday, with Nvidia and other artificial intelligence-related companies falling on renewed concerns about elevated valuations, while markets monitored progress toward ending the longest U.S. government shu... [2290 chars]",
+        "url": "https://www.marketscreener.com/news/wall-street-mixed-as-investors-sell-nvidia-and-other-ai-stocks-ce7d5fded88aff22",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-13T110949Z_1_LYNXMPEL4C0IP_RTROPTP_4_GLOBAL-MARKETS.JPG",
+        "publishedAt": "2025-11-11T19:48:27Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "f8ee13920bdd7e85edfd0c9f851f2a03",
+        "title": "Why AMD Doubled Its AI Data Market Forecast to $1T by 2030",
+        "description": "At its Financial Analyst Day, AMD (AMD) highlighted that spending on artificial intelligence isn’t slowing down. Indeed, CEO Dr. Lisa Su announc...",
+        "content": "At its Financial Analyst Day, AMD (AMD) highlighted that spending on artificial intelligence isn’t slowing down. Indeed, CEO Dr. Lisa Su announced that the chipmaker now expects the total AI data center market to reach $1 trillion by 2030, which is u... [1942 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/why-amd-doubled-its-ai-data-market-forecast-to-1t-by-2030-1035544091",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/11/image-1198-1024x766.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2025-11-11T19:35:03Z",
+        "lang": "en",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Markets Insider",
+            "url": "https://markets.businessinsider.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "cdbccf5796946ee443f41ea017442f55",
         "title": "LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure",
         "description": "London, United Kingdom, November 11th, 2025, FinanceWireCompany announces global strategy combining Artificial Intelligence a...",
@@ -77,86 +157,6 @@
             "name": "PR Newswire UK",
             "url": "https://www.prnewswire.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "1f2252de0106bc5791dc7478ea63ee10",
-        "title": "Chad AI is More Than a Typo: Deep Dive into a Generative Force",
-        "description": "In the fast-moving world of artificial intelligence, nomenclature often lags behind innovation. What begins as technical jargon or an obscure project name quickly evolves into consumer branding. Then, a powerful […]",
-        "content": "In the fast-moving world of artificial intelligence, nomenclature often lags behind innovation. What begins as technical jargon or an obscure project name quickly evolves into consumer branding. Then, a powerful model emerges that is so effective, so... [6182 chars]",
-        "url": "https://signalscv.com/2025/11/chad-ai-is-more-than-a-typo-deep-dive-into-a-generative-force/",
-        "image": "https://signalscv.com/wp-content/uploads/2025/11/image-34.png",
-        "publishedAt": "2025-11-11T18:43:39Z",
-        "lang": "en",
-        "source": {
-            "id": "ab6b7d957a91e0dbf63976cb1b9c26f5",
-            "name": "Santa Clarita Valley Signal",
-            "url": "https://signalscv.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a60c31b377793ff0a9f0a2be388f73db",
-        "title": "Summon tech to address judicial delays",
-        "description": "Indian judiciary can move towards accessible, efficient, and timely justice for all by incorporating measures that embrace artificial intelligence.",
-        "content": "By Anand Desai\nOver the years, much efforts have been made and significant expenditure incurred for modernising judicial and legal processes to make justice accessible to every citizen. Despite this, the judicial backlog in India has grown from about... [5581 chars]",
-        "url": "https://www.financialexpress.com/opinion/summon-tech-to-address-judicial-delays/4039880/",
-        "image": "https://images.financialexpressdigital.com/2025/11/Copy-of-Gallery-2025-11-11T233228.831.jpg",
-        "publishedAt": "2025-11-11T18:12:21Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "0ce82ebcea49ce0dd9c91910e7601d9a",
-        "title": "Uare.ai Raises $10.3M to Build the Future of Individual Artificial Intelligence",
-        "description": "Uare.ai (formerly Eternos.life) today announced it has raised $10.3 million in seed funding to accelerate the development of Individual AIs - digital counter...",
-        "content": "PALO ALTO, Calif.--(BUSINESS WIRE)--Uare.ai (formerly Eternos.life) today announced it has raised $10.3 million in seed funding to accelerate the development of Individual AIs - digital counterparts that harness a person’s memories, stories, expertis... [3858 chars]",
-        "url": "https://www.businesswire.com/news/home/20251111768223/en/Uare.ai-Raises-%2410.3M-to-Build-the-Future-of-Individual-Artificial-Intelligence",
-        "image": "https://mms.businesswire.com/media/20251111768223/en/2639972/22/uare.ai_mono_black_%282%29_%281%29_%281%29.jpg",
-        "publishedAt": "2025-11-11T17:45:00Z",
-        "lang": "en",
-        "source": {
-            "id": "d4773b92da0613b8ffc2fc9c46229534",
-            "name": "Business Wire",
-            "url": "https://www.businesswire.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "cd187a119926221bf6f1a06053888a43",
-        "title": "How AI Is Transforming the Future of Presentation Design",
-        "description": "Every great idea deserves to be seen — not buried in cluttered slides. Yet for most professionals, building a presentation takes longer than delivering the message itself. Adjusting fonts, aligning visuals, and choosing colors can eat up hours. Now, artificial intelligence (AI) is changing that. AI makes presentation design faster, easier, and more professional. Here’s […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nEvery great idea deserves to be seen — not buried in cluttered slides. Yet for most professionals, building a presentation takes longer than delivering the message itself. Adjusting fonts, aligning visuals, and choosing ... [4172 chars]",
-        "url": "https://techbullion.com/how-ai-is-transforming-the-future-of-presentation-design/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/11/Screenshot-2025-11-11-223118.png",
-        "publishedAt": "2025-11-11T17:32:36Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "f09d33fb454c56502e7eedd95c142ab7",
-        "title": "Global Markets Sway Amid U.S. Shutdown Hopes and AI Fluctuations",
-        "description": "MSCI's global equities index experienced gains as investors anticipated an end to the U.S. government shutdown. Meanwhile, the U.S. dollar weakened due to labor market concerns, and artificial intelligence stocks saw volatility. Oil and gold prices rose slightly amid economic uncertainty.",
-        "content": "MSCI's global equities index saw an uptick on Tuesday as investors paused following Monday's significant gains. This rise was tied to hopes for a resolution to the ongoing U.S. government shutdown, despite exorbitant valuations in the tech sector tem... [680 chars]",
-        "url": "https://www.devdiscourse.com/article/headlines/3693897-global-markets-sway-amid-us-shutdown-hopes-and-ai-fluctuations",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/14_08_2025_06_03_25_4744666.png?width=920&format=jpeg",
-        "publishedAt": "2025-11-11T17:25:41Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
