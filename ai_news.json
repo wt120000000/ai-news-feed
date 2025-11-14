@@ -1,5 +1,21 @@
 [
     {
+        "id": "5bf31244e53e2c3a0ffaaba211d1f343",
+        "title": "AI analyzes multiple physicians' notes to improve diagnosis of complex liver condition",
+        "description": "Taking a page from market research tactics, UC San Francisco experts are studying whether artificial intelligence (AI) can improve diagnosis of a complex liver condition by using the clinical notes of multiple providers.",
+        "content": "Taking a page from market research tactics, UC San Francisco experts are studying whether artificial intelligence (AI) can improve diagnosis of a complex liver condition by using the clinical notes of multiple providers.\nTheir recent study, published... [1719 chars]",
+        "url": "https://medicalxpress.com/news/2025-11-ai-multiple-physicians-diagnosis-complex.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2025/how-can-ai-sentiment-a.jpg",
+        "publishedAt": "2025-11-13T16:28:03Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "9ceb6e5411ec7dd145a3129edef39495",
         "title": "An AI-Generated Country Song Is Currently Topping Charts in America",
         "description": "\"Walk My Walk\" by Breaking Rust is No. 1 on the 'Billboard' Country Digital Song Sales chart — and the song was created by artificial intelligence.",
@@ -141,22 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "00b73a2567ea90975d36f3bca2066dd9",
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - OpenAI Invests in Biosecurity: Red Queen Bio's AI-Powered Defense Against Biological Threats",
-        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
-        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
-        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2025-11-13T16:04:04Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
