@@ -1,5 +1,53 @@
 [
     {
+        "id": "fe09093ecd243ad335ded40330a221c0",
+        "title": "Mira Murati's Thinking Machines seeks $50 billion valuation in funding talks, Bloomberg News reports",
+        "description": "Thinking Machines Lab, the artificial intelligence startup founded by former OpenAI executive Mira Murati, is in early talks to raise a new funding round at a roughly $50 billion valuation, Bloomberg News reported on Thursday.",
+        "content": "Nov 13 (Reuters) - Thinking Machines Lab, the artificial intelligence startup founded by former OpenAI executive Mira Murati, is in early talks to raise a new funding round at a roughly $50 billion valuation, Bloomberg News reported on Thursday.\nThe ... [583 chars]",
+        "url": "https://www.reuters.com/technology/mira-muratis-thinking-machines-seeks-50-billion-valuation-funding-talks-2025-11-13/",
+        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-11-13T21:23:52Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "9a3b2799dac69ec402ace7e6c6499182",
+        "title": "Murati’s Thinking Machines in Funding Talks at $50 Billion Value",
+        "description": "Thinking Machines Lab, an artificial intelligence startup founded by former OpenAI executive Mira Murati, is in early talks to raise a new round of funding at a roughly $50 billion valuation, according to people familiar with the matter.",
+        "content": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world\nConnecting decision makers to a dynamic network of infor... [622 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-13/murati-s-thinking-machines-in-funding-talks-at-50-billion-value",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iepbug8oPoRE/v1/1200x800.jpg",
+        "publishedAt": "2025-11-13T20:41:25Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a0441fabbbca438bfcca81cb647b9981",
+        "title": "Eva has entered the chat: Ohio debuts AI election assistant",
+        "description": "Ohio is rolling out Eva, an assistant powered by artificial intelligence that was built to help county election officials navigate the state’s election rules in seconds.",
+        "content": "COLUMBUS, Ohio -- When Ohio’s local election officials have a question about how to handle a ballot issue or process a voter file, they no longer have to dig through manuals.\nThey can ask Eva.\nEva — short for Elections Virtual Assistant — is Ohio’s f... [2464 chars]",
+        "url": "https://www.cleveland.com/news/2025/11/eva-has-entered-the-chat-ohio-debuts-ai-election-assistant.html",
+        "image": "https://www.cleveland.com/resizer/v2/E3Y2BCWATVEY7IZJBAPX24PCNY.JPG?auth=fe5d69b5a45747e48af1375cfa7c37a1b7502ea586e8a22de5c937c41f0ae1d0&width=1280&smart=true&quality=90",
+        "publishedAt": "2025-11-13T20:39:09Z",
+        "lang": "en",
+        "source": {
+            "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
+            "name": "cleveland.com",
+            "url": "https://www.cleveland.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "2b8a4ff8c2af70c027ce47667ef9f88f",
         "title": "American University students win thousands of dollars in AI competition",
         "description": "A group of American University students are now $5,000 richer, after winning a competition involving artificial intelligence.",
@@ -108,54 +156,6 @@
             "id": "d5a02d07558c5563d72576efc406e608",
             "name": "ABC17News.com",
             "url": "https://abc17news.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "85e78570c1ecaf562e0d8c4f320def8e",
-        "title": "OpenAI and Microsoft team up with state law enforcers on AI safety task force",
-        "description": "Artificial intelligence is playing a greater role in everything from homework to jobs and even romantic companionship – all without much oversight to guarantee the tech is being developed and used safely.",
-        "content": "Artificial intelligence is playing a greater role in everything from homework to jobs and even romantic companionship — all without much oversight to guarantee the tech is being developed and used safely.\nNow, a pair of state attorneys general are te... [3390 chars]",
-        "url": "https://edition.cnn.com/2025/11/13/tech/ai-safety-task-force-attorneys-general-openai-microsoft",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1373268973.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-11-13T19:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "26269dbc42635df9af8c24f3cdab8e37",
-            "name": "Cable News Network",
-            "url": "https://edition.cnn.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "91897e4ce23024da6f8f8a2487f11faf",
-        "title": "Law firm escapes sanctions over AI-generated case citations",
-        "description": "A federal judge in Oregon said he won’t impose formal sanctions on lawyers at U.S. law firm Buchalter who submitted a court filing that had fake case citations generated by artificial intelligence, finding their response to the incident sufficient.",
-        "content": "NEW YORK, Nov 13 (Reuters) - A federal judge in Oregon said he won’t impose formal sanctions on lawyers at U.S. law firm Buchalter who submitted a court filing that had fake case citations generated by artificial intelligence, finding their response ... [2081 chars]",
-        "url": "https://www.reuters.com/legal/government/law-firm-escapes-sanctions-over-ai-generated-case-citations-2025-11-13/",
-        "image": "https://www.reuters.com/resizer/v2/KLX3HYQQOFLOFP6SEZBKSAUQXM.jpg?auth=d2a865f8e87bc5f4a5a04cc3483f3e973021cffd10217eac0b419a707ca10580&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-11-13T18:31:46Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "dab76001bfbfe7b650bd564c0d493217",
-        "title": "Elon Musk’s xAI reportedly raises $15B in new funding as the startup accelerates its massive AI infrastructure buildout",
-        "description": "Elon Musk’s AI startup xAI has closed $15 billion in a new funding round from investors, according to an exclusive report from CNBC, citing people familiar with the deal. However, it didn't take long before Musk jumped on X to call the report “False.” \"Elon Musk’s artificial intelligence company xAI has raised $15 billion from",
-        "content": "Elon Musk’s AI startup xAI has closed $15 billion in a new funding round from investors, according to an exclusive report from CNBC, citing people familiar with the deal. However, it didn’t take long before Musk jumped on X to call the report “False.... [3360 chars]",
-        "url": "https://techstartups.com/2025/11/13/elon-musks-xai-reportedly-raises-15b-in-new-funding-as-the-startup-accelerates-its-massive-ai-infrastructure-buildout/",
-        "image": "https://techstartups.com/wp-content/uploads/2025/05/xai-musk.jpg",
-        "publishedAt": "2025-11-13T18:14:47Z",
-        "lang": "en",
-        "source": {
-            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-            "name": "TechStartups.com",
-            "url": "https://techstartups.com",
             "country": "us"
         }
     }
