@@ -1,5 +1,21 @@
 [
     {
+        "id": "92e9f1063f505efcfa7659740dd2b0a9",
+        "title": "Google to invest $40 billion in Texas through 2027",
+        "description": "(Reuters) -Alphabet's Google said on Friday it would invest $40 billion in three new data centers in Texas through 2027, as the company accelerates efforts to expand capacity for supporting its artificial intelligence ambitions.",
+        "content": "(Reuters) -Alphabet's Google said on Friday it would invest $40 billion in three new data centers in Texas through 2027, as the company accelerates efforts to expand capacity for supporting its artificial intelligence ambitions.\nTechnology giants, in... [429 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/11/15/google-to-invest-40-billion-in-texas-through-2027",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/15/3623393.jpg",
+        "publishedAt": "2025-11-14T23:22:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "3082a709814997e11768b6e150a17641",
         "title": "Utilities Up on Defensive Demand -- Utilities Roundup",
         "description": "Shares of power producers rose as traders sought out defensive sectors following a highly volatile week for global markets.\nA flight from high-risk artificial-intelligence bets has generated...\n-November 14, 2025 at 06:11 pm EST\n- MarketScreener",
@@ -140,22 +156,6 @@
             "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
             "name": "USA Herald",
             "url": "https://usaherald.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1a020499f594a87d82e7ab7c933e87ae",
-        "title": "Google taps Texas for $40B AI investment to run through 2027",
-        "description": "Google announced it will spend $40 billion in Texas on new cloud, artificial intelligence and energy infrastructure, energy programs and training.",
-        "content": "Google on Friday unveiled plans to invest $40 billion in Texas over the next couple of years, which will include the development of three new data centers across the state.\nThe funding, which runs through 2027, will be focused on Google Cloud, artifi... [2948 chars]",
-        "url": "https://www.dallasnews.com/business/technology/2025/11/14/google-taps-texas-for-40b-ai-investment-to-run-through-2027/",
-        "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/QZMGOK4HWVGSDF4GSZEIYW4VCM.JPG?auth=7ed6977afa454e5b4bcc53e11aa82f9d61d3077ea2b9267d8ab42a8e00c24de7&quality=80&width=1200&height=630&smart=true",
-        "publishedAt": "2025-11-14T21:03:40Z",
-        "lang": "en",
-        "source": {
-            "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
-            "name": "The Dallas Morning News",
-            "url": "https://www.dallasnews.com",
             "country": "us"
         }
     }
