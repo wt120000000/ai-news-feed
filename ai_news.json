@@ -1,5 +1,69 @@
 [
     {
+        "id": "2149eb75750363ab9ffbf901e7a528e3",
+        "title": "AI impacts life at the University of South Carolina",
+        "description": "Artificial intelligence tools are important in advancing education, research, campus operations at USC, extending expertise into the community and SC.",
+        "content": "Darla Moore, the University of South Carolina alum whose name adorns our School of Business, noted in a recent discussion with students the need to be analytical, creative and problem solvers and learn how to use the tools of artificial intelligence ... [4001 chars]",
+        "url": "https://www.postandcourier.com/opinion/commentary/artificial-intelligence-tools-impacts-university-south-carolina/article_a95ccf99-5af7-4a07-898f-6ac5289b0cf5.html",
+        "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/9/f4/9f458d48-3766-495e-8a70-b94cd5a581eb/64d0305f98604.image.jpg?crop=1472%2C773%2C5%2C121&resize=1200%2C630&order=crop%2Cresize",
+        "publishedAt": "2025-11-14T21:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c1903669db0b115cc673ce9c333a70dd",
+            "name": "Charleston Post and Courier",
+            "url": "https://www.postandcourier.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "0c17a3fbc3a83771101fd6902b315fe6",
+        "title": "Google to invest $40 billion in new data centers in Texas, Bloomberg News reports",
+        "description": "Alphabet's Google plans to invest $40 billion in three new data centers in Texas, Bloomberg News reported on Friday, as the technology giant accelerates efforts to expand capacity to support its artificial intelligence ambitions.",
+        "content": "One of the data centers will be in Armstrong County, in the Texas panhandle, and the other two in Haskell County, a stretch of West Texas near Abilene, the report said.\nSign up here.\nGoogle did not immediately respond to a Reuters request for comment... [365 chars]",
+        "url": "https://www.reuters.com/business/google-invest-40-billion-new-data-centers-texas-bloomberg-news-reports-2025-11-14/",
+        "image": "https://www.reuters.com/resizer/v2/LF65V2MA5JIF7PMLJ4ZE4226RU.jpg?auth=ef11c803245202e8f933d718c6e1a8c6d471b5a35682526289e2eb8edaffa81f&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-11-14T21:14:45Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "451e5a9662f1a18c8f50758f43d1e4c5",
+        "title": "Aldol Robot Falls on Stage During Moscow Debut, Highlighting Russia’s Struggles with humanoid robot",
+        "description": "Russia’s first domestically produced artificial intelligence-powered humanoid, named Aldol robot, took an unfortunate tumble during its public unveiling in Moscow this week. The mishap, which occurred at the Yarovit Hall Congress Center, has drawn global attention — and underscored the growing gap between Russia and leading nations like the U.S. and China in AI and",
+        "content": "Russia’s first domestically produced artificial intelligence-powered humanoid, named Aldol robot, took an unfortunate tumble during its public unveiling in Moscow this week. The mishap, which occurred at the Yarovit Hall Congress Center, has drawn gl... [478 chars]",
+        "url": "https://usaherald.com/aldol-robot-falls-on-stage-during-moscow-debut-highlighting-russias-struggles-with-humanoid-robot/",
+        "image": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+        "publishedAt": "2025-11-14T21:14:14Z",
+        "lang": "en",
+        "source": {
+            "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+            "name": "USA Herald",
+            "url": "https://usaherald.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "1a020499f594a87d82e7ab7c933e87ae",
+        "title": "Google taps Texas for $40B AI investment to run through 2027",
+        "description": "Google announced it will spend $40 billion in Texas on new cloud, artificial intelligence and energy infrastructure, energy programs and training.",
+        "content": "Google on Friday unveiled plans to invest $40 billion in Texas over the next couple of years, which will include the development of three new data centers across the state.\nThe funding, which runs through 2027, will be focused on Google Cloud, artifi... [2948 chars]",
+        "url": "https://www.dallasnews.com/business/technology/2025/11/14/google-taps-texas-for-40b-ai-investment-to-run-through-2027/",
+        "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/QZMGOK4HWVGSDF4GSZEIYW4VCM.JPG?auth=7ed6977afa454e5b4bcc53e11aa82f9d61d3077ea2b9267d8ab42a8e00c24de7&quality=80&width=1200&height=630&smart=true",
+        "publishedAt": "2025-11-14T21:03:40Z",
+        "lang": "en",
+        "source": {
+            "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+            "name": "The Dallas Morning News",
+            "url": "https://www.dallasnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "7df48038d6df718eb6b1aa5417543d46",
         "title": "Anthropic warns of first reported AI-driven hacking campaign linked to China",
         "description": "The attack, aimed at around 30 global targets, was notable for the extent to which artificial intelligence was used to automate the work.",
@@ -93,70 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "ed1f9fdf27a33bb50ad340fffbc69bbd",
-        "title": "Oracle bonds sell off as AI investment fuels investor concerns",
-        "description": "Oracle Corp bonds have taken a hit in recent days following a report that the cloud and artificial intelligence service provider plans to add another $38 billion to its heavy debt load to fund its AI infrastructure, according to analysts and investors.",
-        "content": "Nov 14 (Reuters) - Oracle Corp bonds have taken a hit in recent days following a report that the cloud and artificial intelligence service provider plans to add another $38 billion to its heavy debt load to fund its AI infrastructure, according to an... [2133 chars]",
-        "url": "https://www.reuters.com/business/oracle-bonds-sell-off-ai-investment-fuels-investor-concerns-2025-11-14/",
-        "image": "https://www.reuters.com/resizer/v2/DC5T6IXKGBMRFCTPFHVMYYCMGQ.jpg?auth=ac58f3d3600a8bf254f839ddadb88cec535a1fd53ac31e32030c1dd415a612e2&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-11-14T18:37:53Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3406368fbb319ca2e525650ca6bfc1e0",
-        "title": "Oracle bonds sell off as AI investment fuels investor concerns",
-        "description": "Oracle Corp bonds have taken a hit in\nrecent days following a report that the cloud and artificial\nintelligence service provider plans to add another $38 billion\nto its heavy debt load to fund its AI...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/oracle-bonds-sell-off-as-ai-investment-fuels-investor-concerns-ce7d5fd2df8bf320",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2025-11-14T18:36:15Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "17993d567adde44638f69f9ca33fd243",
-        "title": "Rate cut doubts will hit AI names that rely on heavy debt funding - Niles Investment’s Dan Niles",
-        "description": "Dan Niles raised significant concerns over tech company valuations and AI investment sustainability, warning that not all companies in the artificial intelligence race will succeed.",
-        "content": "Rate cut doubts will hit AI names that rely on heavy debt funding – Niles Investment’s Dan Niles\nComments\nDan Niles, Niles Investment Management founder and portfolio manager, raised significant concerns over tech company valuations and AI investment... [631 chars]",
-        "url": "https://seekingalpha.com/news/4522456-rate-cut-doubts-will-hit-ai-names-that-rely-on-heavy-debt-funding-niles-investment-s-dan",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1963055235/image_1963055235.jpg?io=getty-c-w630",
-        "publishedAt": "2025-11-14T18:24:58Z",
-        "lang": "en",
-        "source": {
-            "id": "a6d401909ca644c4ffb332486c9cfaea",
-            "name": "Seeking Alpha",
-            "url": "https://seekingalpha.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c78ac3c8a7a43f5bdce650b39504741e",
-        "title": "Anthropic warns of AI-driven hacking campaign linked to China",
-        "description": "A team of researchers has uncovered what they say is the first reported use of artificial intelligence to direct a hacking campaign in a largely automated fashion.",
-        "content": "WASHINGTON — A team of researchers has uncovered what they say is the first reported use of artificial intelligence to direct a hacking campaign in a largely automated fashion.\nThe AI company Anthropic said this week that it disrupted a cyber operati... [2290 chars]",
-        "url": "https://www.cp24.com/news/world/2025/11/14/anthropic-warns-of-ai-driven-hacking-campaign-linked-to-china/",
-        "image": "https://www.cp24.com/resizer/v2/EHSXYCQ6FTSKOFFP5VQU2D6RNI.jpg?smart=true&auth=744a02add6dad9279e28f01cacd24a40dd7c1bf84f013e893fe33bcc9c67e9e3&width=1200&height=630",
-        "publishedAt": "2025-11-14T18:24:17Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
         }
     }
 ]
