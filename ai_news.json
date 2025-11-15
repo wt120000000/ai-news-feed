@@ -1,5 +1,37 @@
 [
     {
+        "id": "5b660ad6f016b83a2578b32fff7765d4",
+        "title": "AI Revolutionizes Roadway Maintenance: From Dashcams to Databases",
+        "description": "Cities and states across the U.S. are increasingly using artificial intelligence to identify and prioritize road maintenance and safety issues. Hawaii is implementing a novel approach with dashcams, while other regions leverage shared AI databases to systematically tackle infrastructure problems and enhance roadway safety.",
+        "content": "As America's crumbling infrastructure continues to pose significant safety risks, states are turning to cutting-edge solutions, including artificial intelligence, to ensure road safety. Hawaii's innovative approach involves distributing 1,000 dashcam... [939 chars]",
+        "url": "https://www.devdiscourse.com/article/business/3698850-ai-revolutionizes-roadway-maintenance-from-dashcams-to-databases",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/08_10_2025_09_23_29_3664374.png?width=920&format=jpeg",
+        "publishedAt": "2025-11-15T07:08:39Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "01b1f77c01e031d693abb364302f3367",
+        "title": "EU bows to pressure on loosening AI, privacy rules",
+        "description": "BRUSSELS: The European Union is set next week to kickstart a rollback of landmark rules on artificial intelligence and data protection that face powerful pushback on both sides of the Atlantic. Part of a bid to slash red tape for European businesses struggling against US and Chinese rivals, the move is drawing accusations that Brussels is putting competitiveness ahead of",
+        "content": "BRUSSELS: The European Union is set next week to kickstart a rollback of landmark rules on artificial intelligence and data protection that face powerful pushback on both sides of the Atlantic.\nPart of a bid to slash red tape for European businesses ... [3440 chars]",
+        "url": "https://www.arabnews.com/node/2622699/world",
+        "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2025/11/15/4658382-889936290.jpg?itok=aQRhVOt4",
+        "publishedAt": "2025-11-15T06:44:37Z",
+        "lang": "en",
+        "source": {
+            "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+            "name": "Arab News",
+            "url": "https://www.arabnews.com",
+            "country": "ar"
+        }
+    },
+    {
         "id": "4ea259c1caaf7bfc42003f707edb5b42",
         "title": "Oracle bonds sell off as AI investment fuels investor concerns",
         "description": "Oracle bonds have taken a hit in recent days following a report that the cloud and artificial intelligence service provider plans to add another $38 billion to its heavy debt load to fund its AI infrastructure, according to analysts and investors.",
@@ -125,38 +157,6 @@
             "name": "BBC News",
             "url": "https://www.bbc.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "7cf20a64a57f98779d89c028d9b0b5f4",
-        "title": "Who’s Afraid of the AI Boogeyman?",
-        "description": "Understand the benefits and fears surrounding Artificial Intelligence (AI) and its potential to replace human jobs in various sectors.",
-        "content": "It is becoming ever more obvious that many people fear rapidly developing Artificial Intelligence (AI), for various reasons, such as its supposed superiority, compared to humans, as far as processing and manipulating information is concerned, as well... [16067 chars]",
-        "url": "https://www.activistpost.com/whos-afraid-of-the-ai-boogeyman/",
-        "image": "https://www.activistpost.com/wp-content/uploads/2025/01/favico.png",
-        "publishedAt": "2025-11-15T03:52:00Z",
-        "lang": "en",
-        "source": {
-            "id": "435d508bebcc8689d5c7711d44865b80",
-            "name": "Activist Post",
-            "url": "https://www.activistpost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "966e613ea2abb1942e0cd8675208e309",
-        "title": "Wall Street Week Ahead: Skittish tech stock investors turn to Nvidia results for next cues",
-        "description": "Investors brace for heightened tech stock volatility. Nvidia's upcoming earnings report is a key event. The company is central to the artificial intelligence trade. Its results will influence the tech sector and beyond. Analysts expect strong growth, but market expectations are high. Any deviation could dent current AI-driven trades. Other sectors are also showing strength.",
-        "content": "Synopsis\nInvestors brace for heightened tech stock volatility. Nvidia's upcoming earnings report is a key event. The company is central to the artificial intelligence trade. Its results will influence the tech sector and beyond. Analysts expect stron... [6017 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-week-ahead-skittish-tech-stock-investors-turn-to-nvidia-results-for-next-cues/articleshow/125340921.cms",
-        "image": "https://img.etimg.com/thumb/msid-125340930,width-1200,height-630,imgsize-28816,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2025-11-15T03:51:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
