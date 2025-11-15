@@ -1,5 +1,53 @@
 [
     {
+        "id": "33652cdf58d78c1cd72add9ca5f55f0f",
+        "title": "US Firm Claims It Foiled Large-Scale AI Cyberattack By Chinese Hackers",
+        "description": "Anthropic, the maker of the artificial intelligence (AI) chatbot Claude, said it has thwarted what can be described as \"the first documented case of a large-scale AI cyberattack executed without substantial human intervention.\"",
+        "content": "New Delhi:\nAnthropic, the maker of the artificial intelligence (AI) chatbot Claude, said it has thwarted what can be described as “the first documented case of a large-scale AI cyberattack executed without substantial human intervention.”\nThe San Fra... [2882 chars]",
+        "url": "https://www.ndtv.com/world-news/us-firm-claims-it-foiled-large-scale-ai-cyberattack-by-chinese-hackers-9640198",
+        "image": "https://c.ndtvimg.com/2025-11/lnlqjv8c_ai-cyberattack_625x300_15_November_25.jpeg",
+        "publishedAt": "2025-11-15T08:19:59Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "06c470d4a16eb79f8c30916d8fbf8a45",
+        "title": "China seeks to enhance AI cooperation with Thailand: Xi Jinping",
+        "description": "BEIJING: China is ready to expand cooperation with Thailand in the fields of artificial intelligence (AI) and the aerospace industry, Chinese President Xi Jinping said on Friday (Nov 14), reported Sputnik/RIA Novosti",
+        "content": "BEIJING: China is ready to expand cooperation with Thailand in the fields of artificial intelligence (AI) and the aerospace industry, Chinese President Xi Jinping said on Friday (Nov 14), reported Sputnik/RIA Novosti.\nOn Friday, Xi welcomed Thai King... [637 chars]",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/15/china-seeks-to-enhance-ai-cooperation-with-thailand-xi-jinping",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/15/3623762.jpg",
+        "publishedAt": "2025-11-15T08:18:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "6d942e463452a157e3c59d75313bdf53",
+        "title": "Chinese Hackers Trick Anthropic's AI into Automating Their Cyberattacks",
+        "description": "Chinese state-sponsored hackers have tricked Anthropic's AI technology to help create highly automated break-ins targeting major corporations and foreign governments, according to the Artificial intelligence company.",
+        "content": "Chinese state-sponsored hackers have tricked Anthropic’s AI technology to help create highly automated break-ins targeting major corporations and foreign governments, according to the Artificial intelligence company.\nThe Wall Street Journal reports t... [2791 chars]",
+        "url": "https://www.breitbart.com/tech/2025/11/15/chinese-hackers-trick-anthropics-ai-into-automating-their-cyberattacks/",
+        "image": "https://media.breitbart.com/media/2025/11/Chinese-hackers-use-AI-to-attack-companies-640x335.jpg",
+        "publishedAt": "2025-11-15T08:08:04Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "5b660ad6f016b83a2578b32fff7765d4",
         "title": "AI Revolutionizes Roadway Maintenance: From Dashcams to Databases",
         "description": "Cities and states across the U.S. are increasingly using artificial intelligence to identify and prioritize road maintenance and safety issues. Hawaii is implementing a novel approach with dashcams, while other regions leverage shared AI databases to systematically tackle infrastructure problems and enhance roadway safety.",
@@ -96,22 +144,6 @@
         }
     },
     {
-        "id": "eba6825a5d655fa8069cd9da0f982913",
-        "title": "From guardrails to potholes, AI is becoming the new eyes on America’s roads",
-        "description": "As America’s aging roads fall further behind on much-needed repairs, cities and states are turning to artificial intelligence to spot the worst hazards",
-        "content": "As America’s aging roads fall further behind on much-needed repairs, cities and states are turning to artificial intelligence to spot the worst hazards and decide which fixes should come first.\nHawaii officials, for example, are giving away 1,000 das... [5591 chars]",
-        "url": "https://www.bangordailynews.com/2025/11/15/nation/from-guardrails-to-potholes-ai-is-becoming-the-new-eyes-on-americas-roads/",
-        "image": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2025/11/preview-360.jpg?fit=1024%2C683&ssl=1",
-        "publishedAt": "2025-11-15T05:05:16Z",
-        "lang": "en",
-        "source": {
-            "id": "3e29a1cf81727e4aa5687d46a4b429c4",
-            "name": "Bangor Daily News",
-            "url": "https://www.bangordailynews.com",
-            "country": "us"
-        }
-    },
-    {
         "id": "3473cf3fc367f0e6e2daf65d7bdb3898",
         "title": "Cities and states are turning to AI to improve road safety",
         "description": "By JEFF McMURRAY As America’s aging roads fall further behind on much-needed repairs, cities and states are turning to artificial intelligence to spot the worst hazards and decide which fixes should come first. Hawaii officials, for example, are giving away 1,000 dashboard cameras as they try to reverse a recent spike in traffic fatalities. The […]",
@@ -125,38 +157,6 @@
             "name": "Santa Rosa Press Democrat",
             "url": "https://www.pressdemocrat.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "662e928108a063b4250a6bd0d0426ab3",
-        "title": "From Guardrails to Potholes, AI Is Becoming the New Eyes on America’s Roads",
-        "description": "As America’s aging roads fall further behind on much-needed repairs, cities and states are turning to artificial intelligence to spot the worst hazards and decide which fixes should come first.",
-        "content": "As America’s aging roads fall further behind on much-needed repairs, cities and states are turning to artificial intelligence to spot the worst hazards and decide which fixes should come first.\nHawaii officials, for example, are giving away 1,000 das... [5920 chars]",
-        "url": "https://www.usnews.com/news/technology/articles/2025-11-15/from-guardrails-to-potholes-ai-is-becoming-the-new-eyes-on-americas-roads",
-        "image": "https://www.usnews.com/dims4/USNEWS/4791ce6/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F42%2F387fb42724920ba7ae736b98a2cc59%2F69689916ff4d45faaab3661e9aea98d4Intelligent_Road_Repairs_29820.jpg",
-        "publishedAt": "2025-11-15T05:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "37128a060981dbbe79321f096e7d1108",
-            "name": "U.S. News & World Report",
-            "url": "https://www.usnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ec4899981beaf6164dcf4f94075faff7",
-        "title": "Can technology fix fashion's sizing crisis?",
-        "description": "The BBC looks into whether artificial intelligence (AI) can help people who struggle when clothes are oddly sized.",
-        "content": "Most women will relate to the misery of inconsistent sizing in high-street shops.\nA pair of jeans could easily be a size 10 by one brand and a size 14 in another, leaving customers confused and disheartened.\nIt has led to a global deluge of returns, ... [2895 chars]",
-        "url": "https://www.bbc.com/news/articles/cjekg1pd9j4o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4c22/live/d34583d0-c08f-11f0-924c-87dcfe4462ba.jpg",
-        "publishedAt": "2025-11-15T04:03:27Z",
-        "lang": "en",
-        "source": {
-            "id": "109f2b4a20da4fe1c2fd502b03c07243",
-            "name": "BBC News",
-            "url": "https://www.bbc.com",
-            "country": "gb"
         }
     }
 ]
