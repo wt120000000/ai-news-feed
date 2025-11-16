@@ -1,5 +1,21 @@
 [
     {
+        "id": "805fbddef374eb61298f7b6f69e1e8e6",
+        "title": "The quiet architecture of progress: How private sector partnerships are building Saudi Arabia’s future",
+        "description": "When Saudi Crown Prince Mohammed bin Salman arrives in the US this week, the two countries are expected to discuss a range of topics — from artificial intelligence and civilian nuclear power to trade and defense. This meeting will, in all likelihood, open a new and even more productive chapter in 90 years of close US-Saudi cooperation.",
+        "content": "When Saudi Crown Prince Mohammed bin Salman arrives in the US this week, the two countries are expected to discuss a range of topics — from artificial intelligence and civilian nuclear power to trade and defense. This meeting will, in all likelihood,... [5385 chars]",
+        "url": "https://www.arabnews.com/node/2622768",
+        "image": "https://www.arabnews.com/sites/default/files/authors/4658577-brendanbechtel.png",
+        "publishedAt": "2025-11-15T19:29:15Z",
+        "lang": "en",
+        "source": {
+            "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+            "name": "Arab News",
+            "url": "https://www.arabnews.com",
+            "country": "ar"
+        }
+    },
+    {
         "id": "2e382dabace89b56ffad3a63177f1d6c",
         "title": "AI, Robotics Take Center Stage At CII Summit",
         "description": "Confederation of Indian Industry Summit here in the last two days showcased a comprehensive array of cutting-edge technology, with artificial intelligence and robotics hogging the limelight -- from traffic management in the city to delegate navigation and investor assistance.",
@@ -141,22 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "e0d2e723e53e772c22b6438afa2646d4",
-        "title": "AI-electric appeal for underperforming infrastructure: ETF experts",
-        "description": "Industrial and infrastructure stocks may soon share the spotlight with the artificial intelligence trade.",
-        "content": "Industrial and infrastructure stocks may soon share the spotlight with the artificial intelligence trade.\nAccording to ETF Action's Mike Atkins, there's a bullish setup taking shape due to both policy and consumer trends. His prediction comes during ... [1667 chars]",
-        "url": "https://www.cnbc.com/2025/11/15/ai-electric-appeal-for-underperforming-infrastructure-etf-experts.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108171443-1752495584443-gettyimages-2224347614-AFP_66NL98L.jpeg?v=1763157486&w=1920&h=1080",
-        "publishedAt": "2025-11-15T16:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
         }
     }
 ]
