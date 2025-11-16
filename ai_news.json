@@ -1,5 +1,37 @@
 [
     {
+        "id": "af826172fcd25feac3a17521f055d7a4",
+        "title": "How this tiny device became a symbol for the backlash against AI",
+        "description": "By Clare Duffy, CNN New York (CNN) — An unassuming circular pendant slightly larger than a quarter has been at the center of a massive uproar. The chief executive behind it isn’t fazed. Avi Schiffmann, 23, created the Friend pendant to be an artificial intelligence companion for users. He was inspired after realizing that, while",
+        "content": "By Clare Duffy, CNN\nNew York (CNN) — An unassuming circular pendant slightly larger than a quarter has been at the center of a massive uproar. The chief executive behind it isn’t fazed.\nAvi Schiffmann, 23, created the Friend pendant to be an artifici... [7994 chars]",
+        "url": "https://abc17news.com/money/cnn-business-consumer/2025/11/16/how-this-tiny-device-became-a-symbol-for-the-backlash-against-ai/",
+        "image": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
+        "publishedAt": "2025-11-16T10:00:02Z",
+        "lang": "en",
+        "source": {
+            "id": "d5a02d07558c5563d72576efc406e608",
+            "name": "ABC17News.com",
+            "url": "https://abc17news.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7289baa732a7ee6c8ac51bd41d945e2e",
+        "title": "Superintelligence is AI’s next frontier but putting humans first is the defining challenge of our time",
+        "description": "Artificial intelligence (AI) is hurling us into an era of machine superintelligence. The real question now is whether we can place this power at the service of humanity—or losing control of it becomes the defining risk of our future as a species.",
+        "content": "Indeed, the most consequential question for our time is not whether AI will surpass us, because in some ways it already has (try beating an AI at general knowledge), in many other ways, it will, and in some ways we will always be unique. The real que... [4243 chars]",
+        "url": "https://www.livemint.com/opinion/online-views/superintelligence-ai-next-frontier-humans-first-artificial-intelligence-humanism-ethics-microsoft-11763143625515.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/11/15/1600x900/logo/seemingly_conscious_ai_1762172086898_1762172093241_1763177556384.jpeg",
+        "publishedAt": "2025-11-16T09:30:19Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "01c1cad6844c5e7130b06b5cd109aeef",
         "title": "Samsung Electronics to add chip production line as demand rises",
         "description": "Samsung Electronics will add a chip production line at its plant in the South Korean city of Pyeongtaek to meet rising demand from the global boom in artificial intelligence, the company said on...",
@@ -125,38 +157,6 @@
             "name": "Daily Mail Online",
             "url": "https://www.dailymail.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "ab2472f745a0b3a1d84d98e226086237",
-        "title": "Google plans $40 billion Texas data center investment amid AI boom",
-        "description": "Alphabet’s Google said on Friday it would invest $40 billion in three new data centers in Texas, as part of its push to expand capacity for artificial intelligence initiatives. The investment, which will be made through 2027, underscores the intensifying competition among AI and cloud service providers to build infrastructure capable of supporting advanced AI […]",
-        "content": "Technology 11 min ago\nThis is an AI assisted summary.\nAlphabet's Google said on Friday it would invest $40 billion in three new data centers in Texas, as part of its push to expand capacity for artificial intelligence initiatives. The investment, whi... [22860 chars]",
-        "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/google-plans-40-billion-texas-data-center-investment-amid-ai-boom-10368636/",
-        "image": "https://images.indianexpress.com/2025/05/Google-Reuters.jpg",
-        "publishedAt": "2025-11-16T04:51:37Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "99de8e0147dd30bbfb5ec181a072fa41",
-        "title": "Google commits $40 billion to expansion in Texas, its largest US state investment",
-        "description": "The plan includes three new data centre campuses to support Google's growing cloud and artificial intelligence operations.",
-        "content": "Google and Alphabet CEO Sundar Pichai announced a USD 40-billion expansion in Texas, marking the company's largest-ever investment in a single US state.\nGovernor Greg Abbott joined the announcement on Thursday in Midlothian, highlighting the initiati... [1660 chars]",
-        "url": "https://www.tribuneindia.com/news/usa-news/google-commits-40-billion-to-expansion-in-texas-its-largest-us-state-investment/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJlNWIzMjIwLWMyYTctMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-        "publishedAt": "2025-11-16T04:50:03Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
         }
     }
 ]
