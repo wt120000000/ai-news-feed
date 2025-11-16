@@ -1,5 +1,21 @@
 [
     {
+        "id": "15fac6c633e694635113ded95b3ad337",
+        "title": "Is AGI the next Industrial Revolution? Here's what Microsoft CEO Satya Nadella thinks",
+        "description": "In a recent interview, Microsoft CEO Satya Nadella discussed artificial general intelligence (AGI), recognizing its transformative potential while noting that it is still in early stages.",
+        "content": "With the growing use of AI across the globe, Microsoft CEO Satya Nadella emphasises the potential of artificial general intelligence (AGI) while acknowledging its early development stage.\nIn an interview with Dwarkesh Patel and SemiAnalysis founder D... [3030 chars]",
+        "url": "https://www.livemint.com/ai/is-agi-the-next-industrial-revolution-heres-what-microsoft-ceo-satya-nadella-thinks-11763263941849.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/11/16/1600x900/logo/Microsoft_Satya_Nadella_OpenAI_Azure_service_tech_1744851947222_1763265787979.jpg",
+        "publishedAt": "2025-11-16T04:18:27Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "218af890dab4aa9388eb644fa99c30ca",
         "title": "Digital bridge: Artificial intelligence platforms connect distressed youth to real-world support",
         "description": "Pune: At a time when artificial intelligence platforms face global scrutiny over concerns of encouraging self-harm, an NGO in the city is observing a .",
@@ -141,22 +157,6 @@
             "name": "The Canberra Times",
             "url": "https://www.canberratimes.com.au",
             "country": "au"
-        }
-    },
-    {
-        "id": "04839e05831b1ba45c9c4c5d3a82ea82",
-        "title": "2 essential requirements for letting AI write police reports",
-        "description": "Isle of Palms SC police are using artificial intelligence to write police reports based on body camera videos. Human oversight, clear disclaimers are essential.",
-        "content": "If you’ve ever read the transcription that a lot of phones now offer of voice messages, you know how unreliable they can be: Although sometimes they’re close enough to tell you that you definitely want to return the call — or that you definitely do n... [3385 chars]",
-        "url": "https://www.postandcourier.com/opinion/editorials/ai-writing-police-reports-sc-requirements/article_09cec109-e8bc-409d-925e-391f5359d3d4.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/8/e7/8e76b3b2-400e-4e47-bbd2-17653aed4cbc/69137139b8346.image.jpg?crop=1762%2C925%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2025-11-15T21:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c1903669db0b115cc673ce9c333a70dd",
-            "name": "Charleston Post and Courier",
-            "url": "https://www.postandcourier.com",
-            "country": "us"
         }
     }
 ]
