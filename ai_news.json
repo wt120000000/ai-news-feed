@@ -1,5 +1,21 @@
 [
     {
+        "id": "39e78c76f024c6ac0b44cd988b4fe216",
+        "title": "ChatGPT Is Just Too Dangerous for Teenagers",
+        "description": "When Jacob Irwin asked ChatGPT about faster-than-light (FTL) travel, it didn’t challenge his theory as any expert physicist might. The artificial intelligence system, which has 800 million weekly users, called it one of the “most robust… systems ever proposed.” That misplaced flattery, according to a recent lawsuit, helped push the 30-year-old Wisconsin man into a psychotic episode. The suit is one of seven levelled against OpenAI last week alleging the company released dangerously manipulative",
+        "content": "When Jacob Irwin asked ChatGPT about faster-than-light (FTL) travel, it didn’t challenge his theory as any expert physicist might. The artificial intelligence system, which has 800 million weekly users, called it one of the “most robust… systems ever... [690 chars]",
+        "url": "https://www.bloomberg.com/opinion/articles/2025-11-17/ai-safety-chatgpt-is-just-too-dangerous-for-teenagers",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0mxamxysfsU/v1/1200x800.jpg",
+        "publishedAt": "2025-11-17T04:00:36Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d4d20d48b3ce1e24b9b4ad77226975df",
         "title": "Samsung plans $310 billion investment to power AI expansion",
         "description": "South Korean conglomerate Samsung unveiled on Sunday a plan to invest $310 billion over the next five years mostly in technology powering artificial intelligence.",
@@ -141,22 +157,6 @@
             "name": "CBS News",
             "url": "https://www.cbsnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "557373c268e0f110167483723d0c60ec",
-        "title": "‘NCDC’s AI tool helped issue over 5,000 alerts’",
-        "description": "an artificial intelligence tool deployed by the national centre for disease control (ncdc) in 2022 may have helped issue more than 5,000 alerts of infectious outbreaks to health authorities in real-time since installation, according to a study. developed by wadhwaniai, a new delhi-based healthcare ai solutions provider, the ‘health sentinel’ tool could have helped slash 98 per cent of manual workload, enabling a quicker detection of an outbreak and proactive public health response, findings published as a p",
-        "content": "By Krishna :\nNEW DELHI\nFrom April 2022 till date, AI toll Health Sentinel has processed over 300 mn news articles and identified over 95,000 unique health events across India of which over 3,500 events were shortlisted by public health experts at NCD... [2796 chars]",
-        "url": "https://www.thehitavada.com/Encyc/2025/11/17/ncdcs-ai-tool-helped-issue-over-5000-alerts.html",
-        "image": "https://www.thehitavada.com/Encyc/2025/11/17/NCDCs-AI-tool-helped-issue-over-5000-alerts_202511171149040510_H@@IGHT_360_W@@IDTH_640.jpg",
-        "publishedAt": "2025-11-17T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "2ff4b6327735b249ca9fe9bb8f044251",
-            "name": "The Hitavada",
-            "url": "https://www.thehitavada.com",
-            "country": "in"
         }
     }
 ]
