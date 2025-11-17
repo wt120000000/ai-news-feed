@@ -1,5 +1,21 @@
 [
     {
+        "id": "dd6f1acc2169e036f12ff36ada617575",
+        "title": "Warburg-Backed Princeton Enters Korea With First Data Center",
+        "description": "Princeton Digital Group, a data center operator in Asia backed by Warburg Pincus, plans to invest $700 million in its first South Korean campus to power artificial intelligence development in the country.",
+        "content": "Princeton Digital Group, a data center operator in Asia backed by Warburg Pincus, plans to invest $700 million in its first South Korean campus to power artificial intelligence development in the country.\nPDG wants the initial 48-megawatt data center... [286 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-16/warburg-backed-princeton-enters-korea-with-first-data-center",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihE8ixgWdzZU/v0/1200x800.jpg",
+        "publishedAt": "2025-11-16T22:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "4c7dd4fdfb93c3185b6cc0455336391d",
         "title": "The AI revolution has begun - on personal phones and laptops",
         "description": "British businesses are pouring billions into artificial intelligence, yet it is staff who are spearheading AI adoption, often using personal devices",
@@ -141,22 +157,6 @@
             "name": "NDTV Profit",
             "url": "https://www.ndtvprofit.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "ef6b2fe5549d1282822717e8fcc525f3",
-        "title": "AI could worsen inequalities in schools - teachers are key to whether it will | The Conversation",
-        "description": "The uncertainties accompanying the artificial intelligence onslaught come amid existing challenges the teaching profession has faced for years.",
-        "content": "(The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.)\nAuthors: Katie Davis, University of Washington and Aayushi Dangol, University of Washington\nToday’s teachers find themselves thrust into... [6533 chars]",
-        "url": "https://www.pennlive.com/opinion/2025/11/ai-could-worsen-inequalities-in-schools-teachers-are-key-to-whether-it-will-the-conversation.html",
-        "image": "https://www.pennlive.com/resizer/v2/HASKYJGQ5RD5JNEPLYEBHH3L6Y.png?auth=af83059155ed2b3f01453b827a42354b7e10a2612019bdf24f323bedf1678be2&width=1280&smart=true&quality=90",
-        "publishedAt": "2025-11-16T15:25:00Z",
-        "lang": "en",
-        "source": {
-            "id": "016c9538dd6aa60fb4f29fca8674d6b7",
-            "name": "Mechanicsburg Patriot News ",
-            "url": "https://www.pennlive.com",
-            "country": "us"
         }
     }
 ]
