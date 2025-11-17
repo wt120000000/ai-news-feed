@@ -1,5 +1,21 @@
 [
     {
+        "id": "0d58e892c55e794ec38797fec7bbbcdb",
+        "title": "Dubai Police install AI noise radars to monitor vehicles",
+        "description": "DUBAI: Dubai Police deployed artificial intelligence noise radars across the city to detect and monitor vehicles generating excessive noise.According to Dubai Police, the new radars will detect...",
+        "content": "DUBAI: Dubai Police deployed artificial intelligence (AI) noise radars across the city to detect and monitor vehicles generating excessive noise.\nAccording to Dubai Police, the new radars will detect loud horns, modified exhaust systems to enhance ve... [511 chars]",
+        "url": "https://www.thenews.com.pk/latest/1358335-dubai-police-install-ai-noise-radars-to-monitor-vehicles",
+        "image": "https://www.thenews.com.pk/assets/uploads/updates/2025-11-16/1358335_104006_updates.jpg",
+        "publishedAt": "2025-11-16T17:56:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
         "id": "c188a9b94dd83911dbccd3653153f7d8",
         "title": "Citi PH launches advanced generative AI tools for productivity, innovation",
         "description": "CITI has deployed cutting-edge generative Artificial Intelligence tools to employees in the Philippines, marking a significant advancement in enhancing productivity, fostering innovation, and accelerating the transition to digital banking.",
@@ -141,22 +157,6 @@
             "name": "ABC17News.com",
             "url": "https://abc17news.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "7289baa732a7ee6c8ac51bd41d945e2e",
-        "title": "Superintelligence is AI’s next frontier but putting humans first is the defining challenge of our time",
-        "description": "Artificial intelligence (AI) is hurling us into an era of machine superintelligence. The real question now is whether we can place this power at the service of humanity—or losing control of it becomes the defining risk of our future as a species.",
-        "content": "Indeed, the most consequential question for our time is not whether AI will surpass us, because in some ways it already has (try beating an AI at general knowledge), in many other ways, it will, and in some ways we will always be unique. The real que... [4243 chars]",
-        "url": "https://www.livemint.com/opinion/online-views/superintelligence-ai-next-frontier-humans-first-artificial-intelligence-humanism-ethics-microsoft-11763143625515.html",
-        "image": "https://www.livemint.com/lm-img/img/2025/11/15/1600x900/logo/seemingly_conscious_ai_1762172086898_1762172093241_1763177556384.jpeg",
-        "publishedAt": "2025-11-16T09:30:19Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
         }
     }
 ]
