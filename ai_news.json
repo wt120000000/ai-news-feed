@@ -1,5 +1,21 @@
 [
     {
+        "id": "6aafc1dad450d2bf9abdbb2cf3f26ff4",
+        "title": "Samsung plans $310 bil investment to power AI expansion",
+        "description": "South Korean conglomerate Samsung unveiled on Sunday a plan to invest $310 billion over the next five years mostly in technology powering artificial intelligence, aiming to meet growing demand driven by a global boom. The business group's flagship Samsung Electronics is already one of the world's top memory-chip makers, providing…",
+        "content": "South Korean conglomerate Samsung unveiled on Sunday a plan to invest $310 billion over the next five years mostly in technology powering artificial intelligence, aiming to meet growing demand driven by a global boom.\nThe business group's flagship Sa... [2243 chars]",
+        "url": "https://japantoday.com/category/tech/samsung-plans-310-bn-investment-to-power-ai-expansion",
+        "image": "https://media.japantoday.com/img/store/a4/f9/4ef47cdc87264f3968483cbd09adf7ee38d0/fcfe91f7ff4fad4be38adfdcf260fa18db6c61d2/_w1700.jpeg",
+        "publishedAt": "2025-11-16T20:06:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "31a0f878106b0c6b2125339c49489de6",
         "title": "U.S. Google searches for AI bubble skyrockets 950%",
         "description": "U.S. concern over a potential artificial intelligence bubble is rising, with Google searches for “AI bubble” surging 950% year-over-year.",
@@ -140,22 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "57c891ed07507ad55f1a49e9baa8d5fc",
-        "title": "Samsung plans $310 billion investment to power AI expansion",
-        "description": "South Korean conglomerate Samsung unveiled on Sunday a plan to invest $310 billion over the next five years mostly in technology powering artificial intelligence, aiming to meet growing demand driven by a global boom. The investment package announced on Sunday comes after the South Korean government had pledged to triple spending on artificial intelligence next year.",
-        "content": "Synopsis\nSouth Korean conglomerate Samsung unveiled on Sunday a plan to invest $310 billion over the next five years mostly in technology powering artificial intelligence, aiming to meet growing demand driven by a global boom. The investment package ... [2704 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/samsung-plans-310-billion-investment-to-power-ai-expansion/articleshow/125363028.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-234944,resizemode-75,msid-125363028/tech/technology/samsung-plans-310-billion-investment-to-power-ai-expansion.jpg",
-        "publishedAt": "2025-11-16T10:49:22Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
