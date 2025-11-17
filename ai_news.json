@@ -1,5 +1,21 @@
 [
     {
+        "id": "0ac18e71b337cc3f5dbc8bc14cdc738e",
+        "title": "Sinch releases 2026 predictions: ‘AI to redefine how brands connect’",
+        "description": "Artificial intelligence is rewriting the rules of digital communication, according to Sinch 2026 predictions, and AI agents, voice technology, and con...",
+        "content": "Sinch notes that the convergence of conversational messaging and generative AI is creating an “explosion in communication volume”, and it predicts that “AI agents for both businesses and consumers will create entirely new categories of interaction, r... [3438 chars]",
+        "url": "https://itwire.com/it-industry-news/strategy/sinch-releases-2026-predictions-%e2%80%98ai-to-redefine-how-brands-connect%e2%80%99.html",
+        "image": "https://itwire.com/media/k2/items/cache/3ee5687a593835e0f7f6321790e8e422_XS.jpg",
+        "publishedAt": "2025-11-17T00:48:48Z",
+        "lang": "en",
+        "source": {
+            "id": "10cbfb3760cfcdeb78c733c527f0e814",
+            "name": "iTWire",
+            "url": "https://itwire.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "0aea7c9767580842f9697b2799f69d2e",
         "title": "Anthropic CEO warns that without guardrails, AI could be on dangerous path",
         "description": "Anthropic CEO Dario Amodei centered his artificial intelligence brand around safety and transparency. He's determined to figure out the ways AI can be misused to try to mitigate the risks as best Anthropic can.",
@@ -141,22 +157,6 @@
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "4c7dd4fdfb93c3185b6cc0455336391d",
-        "title": "The AI revolution has begun - on personal phones and laptops",
-        "description": "British businesses are pouring billions into artificial intelligence, yet it is staff who are spearheading AI adoption, often using personal devices",
-        "content": "The companies extracting real value from AI investment are giving their employees a voice in identifying where automation might genuinely help. They are learning from employees who have already figured out what works and building these lessons into t... [2977 chars]",
-        "url": "https://www.thetimes.com/business-money/economics/article/the-ai-revolution-has-begun-on-personal-phones-and-laptops-88xrlvm65",
-        "image": "https://www.thetimes.com/imageserver/image/%2Fe3e9713e-eccc-4cfb-9de4-10662bb1eb54.jpg?crop=1500%2C844%2C0%2C144&resize=1200",
-        "publishedAt": "2025-11-16T21:15:46Z",
-        "lang": "en",
-        "source": {
-            "id": "b419a989918b3665a34559f5047546b6",
-            "name": "The Sunday Times",
-            "url": "https://www.thetimes.com",
-            "country": "gb"
         }
     }
 ]
