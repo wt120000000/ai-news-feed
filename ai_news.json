@@ -1,5 +1,53 @@
 [
     {
+        "id": "63cf8832c683750176f07accf2f82e62",
+        "title": "Crowded Emerging-Market Trades Draw Warnings From Money Managers",
+        "description": "Some of the year’s most popular emerging-market trades such as betting on the Brazilian real and stocks linked to artificial intelligence are becoming a source of concern as money managers warn of risks from overcrowding.",
+        "content": "Some of the year’s most popular emerging-market trades such as betting on the Brazilian real and stocks linked to artificial intelligence are becoming a source of concern as money managers warn of risks from overcrowding.\nWells Fargo Securities sees ... [376 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-16/crowded-emerging-market-trades-draw-warnings-from-money-managers",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_eh5rM_N1VA/v1/1200x800.jpg",
+        "publishedAt": "2025-11-16T13:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "25644aee4a400b809eafde02341d3357",
+        "title": "Kerala local body polls: 2.86 cr names in updated list, 2 lakh new additions",
+        "description": "The total number of voters includes 1,35,16,923 men, 1,51,45,500 women, and 289 transgender voters..Kerala local body elections, Kerala voters list, State Election Commission Kerala, Kerala election dates, AI in election campaigns, Misinformation in elections, Deepfakes in elections, Election monitoring Kerala, Kerala election news, Artificial Intelligence election rules, Fake images election, Digitally altered content election, Synthetic content election, Kerala election updates, Non-resident voters Kerala",
+        "content": "Kerala has 2,86,62,712 registered voters, according to updated figures released by the State Election Commission on Sunday ahead of the upcoming local body polls. The total number of voters includes 1,35,16,923 men, 1,51,45,500 women, and 289 transge... [1607 chars]",
+        "url": "https://www.onmanorama.com/news/kerala/2025/11/16/kerala-local-body-elections-voters.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/8/7/voters-list-manorama.jpg",
+        "publishedAt": "2025-11-16T12:57:06Z",
+        "lang": "en",
+        "source": {
+            "id": "60c457b35b486691319f105c3a760060",
+            "name": "Malayala Manorama",
+            "url": "https://www.onmanorama.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "cedb4e0fd1edf819144137ff8b7d5ec5",
+        "title": "Former Google CEO Eric Schmidt says coming 10 years will determine next 100 years: ‘We are fortunate to be…’",
+        "description": "Tech News News: Former Google CEO Eric Schmidt states the next ten years are crucial for humanity. He highlights artificial intelligence as a revolutionary force, com",
+        "content": "Former Google CEO Eric Schmidt states the next ten years are crucial for humanity. He highlights artificial intelligence as a revolutionary force, comparing it to fire and electricity. Schmidt warns that nations and businesses adopting AI quickly wil... [2123 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/former-google-ceo-eric-schmidt-says-coming-10-years-will-determine-next-100-years-we-are-fortunate-to-be/articleshow/125363551.cms",
+        "image": "https://static.toiimg.com/thumb/msid-125363544,width-1070,height-580,imgsize-42606,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2025-11-16T11:35:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "57c891ed07507ad55f1a49e9baa8d5fc",
         "title": "Samsung plans $310 billion investment to power AI expansion",
         "description": "South Korean conglomerate Samsung unveiled on Sunday a plan to invest $310 billion over the next five years mostly in technology powering artificial intelligence, aiming to meet growing demand driven by a global boom. The investment package announced on Sunday comes after the South Korean government had pledged to triple spending on artificial intelligence next year.",
@@ -108,54 +156,6 @@
             "id": "c5725557f39c24c8b029ee39900a8406",
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "170416d6703b95d635247c61e36e7e0c",
-        "title": "Digital bridge: Artificial intelligence platforms connect distressed youth to real-world support",
-        "description": "Pune: At a time when artificial intelligence platforms face global scrutiny over concerns of encouraging self-harm, an NGO in the city is observing a .",
-        "content": "Pune: At a time when artificial intelligence platforms face global scrutiny over concerns of encouraging self-harm, an NGO in the city is observing a surprising positive development. Officials of the NGO, Connecting Trust, told TOI that over the past... [5294 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/pune/digital-bridge-artificial-intelligence-platforms-connect-distressed-youth-to-real-world-support/articleshow/125360772.cms",
-        "image": "https://static.toiimg.com/thumb/msid-125360771,width-1070,height-580,imgsize-11682,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-11-16T06:39:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "15fbac39ef4282f56ce5d70efc2469ad",
-        "title": "AI Tool In National Disease Surveillance Helped Issue Over 5,000 Alerts To Health Authorities: Data",
-        "description": "An artificial intelligence tool deployed by the National Centre for Disease Control (NCDC) in 2022 may have helped issue more than 5,000 alerts of infectious outbreaks to health authorities in real-time since installation, according to a study. Developed by WadhwaniAI, a New Delhi-based healthcare AI solutions provider, the 'Health Sentinel' tool could have helped slash 98% of manual workload.",
-        "content": "An artificial intelligence tool deployed by the National Centre for Disease Control (NCDC) in 2022 may have helped issue more than 5,000 alerts of infectious outbreaks to health authorities in real-time since installation, according to a study.\nDevel... [1871 chars]",
-        "url": "https://www.ndtvprofit.com/nation/ai-tool-in-national-disease-surveillance-helped-issue-over-5000-alerts-to-health-authorities-data",
-        "image": "https://media.assettype.com/bloombergquint%2F2025-02-27%2Fthvisfry%2FAI-hallucinations.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-11-16T06:34:40Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "061ccfdc3c77d696897bb686a31c7389",
-        "title": "AI tool aids disease surveillance, issued 5,000 outbreak alerts: Study",
-        "description": "An artificial intelligence tool deployed by the National Centre for Disease Control (NCDC) in 2022 may have helped issue more than 5,000 alerts of infectious outbreaks to health authorities in real-time since installation, according to a study.",
-        "content": "An artificial intelligence tool deployed by the National Centre for Disease Control (NCDC) in 2022 may have helped issue more than 5,000 alerts of infectious outbreaks to health authorities in real-time since installation, according to a study.\nDevel... [5738 chars]",
-        "url": "https://www.business-standard.com/technology/tech-news/ai-tool-aids-disease-surveillance-issued-5-000-outbreak-alerts-study-125111600137_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/04/thumb/featurecrop/1200X630/1749057535-1232.jpg",
-        "publishedAt": "2025-11-16T05:56:59Z",
-        "lang": "en",
-        "source": {
-            "id": "44d394a4e765f82b49b452e4302a72b0",
-            "name": "Business Standard",
-            "url": "https://www.business-standard.com",
             "country": "in"
         }
     }
