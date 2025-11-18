@@ -1,5 +1,69 @@
 [
     {
+        "id": "cd69c3702f0729e57c8bb98f5a1ef875",
+        "title": "BofA says AI is boosting bankers' productivity, revenue",
+        "description": "NEW YORK (Reuters) -Bank of America plans to spend billions of dollars on technologies such as artificial intelligence to boost bankers' productivity and bring in more revenue, its chief technology and information officer said on Monday.",
+        "content": "NEW YORK (Reuters) -Bank of America plans to spend billions of dollars on technologies such as artificial intelligence to boost bankers' productivity and bring in more revenue, its chief technology and information officer said on Monday.\nBofA plans t... [2643 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/11/18/bofa-says-ai-is-boosting-bankers039-productivity-revenue",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/18/3627233.jpg",
+        "publishedAt": "2025-11-17T23:06:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "6a4227e6108646e5406121133ee3995b",
+        "title": "Nvidia, bitcoin drag on market",
+        "description": "The U.S. stock market sank Monday as Nvidia and other superstars created by the frenzy around artificial-intelligence technology dimmed some more.",
+        "content": "NEW YORK — The U.S. stock market sank Monday as Nvidia and other superstars created by the frenzy around artificial-intelligence technology dimmed some more.\nThe S&P 500 fell 0.9% and pulled further from its all-time high set late last month. The Dow... [3261 chars]",
+        "url": "https://www.bostonherald.com/2025/11/17/nvidia-bitcoin-drag-on-market/",
+        "image": "https://www.bostonherald.com/wp-content/uploads/2025/11/AP25317562962690.jpg?w=1024&h=683",
+        "publishedAt": "2025-11-17T23:03:57Z",
+        "lang": "en",
+        "source": {
+            "id": "bc49d994b41ac710f5c89f6e6adeece4",
+            "name": "The Boston Herald",
+            "url": "https://www.bostonherald.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "bb4186a80af558c352f7d30cb3e75151",
+        "title": "Google asks court to dismiss conservative influencer's AI defamation lawsuit",
+        "description": "Google on Monday asked a Delaware state court to dismiss conservative influencer Robby Starbuck's allegations that its artificial intelligence systems defamed him by falsely calling him epithets including a \"child rapist,\" \"serial sexual abuser\" and \"shooter.\"",
+        "content": "Sign up here.\nA spokesperson and attorneys for Starbuck did not immediately respond to requests for comment on Google's filing.\nStarbuck sued Google last month, claiming its AI chatbots generated and published \"outrageously false\" information about h... [1400 chars]",
+        "url": "https://www.reuters.com/legal/government/google-asks-court-dismiss-conservative-influencers-ai-defamation-lawsuit-2025-11-17/",
+        "image": "https://ajo.prod.reuters.tv/api/v2/img/691b060fe4b04fae5692d4ae?height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-11-17T22:54:18Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "8bc7239b4cb36878361614d3e9f23802",
+        "title": "Singapore minister warns of increased AI use among radicalised youths",
+        "description": "SINGAPORE, Nov 17:  Extremist groups use AI to amplify the reach and sophistication of radical content, making it difficult for young minds to distinguish truth from manipulation, a Singapore minister said on Monday.   Speaking at a seminar, acting minister-in-charge of Muslim Affairs Faishal Ibrahim said that Artificial Intelligence (AI) has also featured in several youth self-radicalisation cases in the multi-racial city-state. Extremist groups now use AI to create persuasive propaganda and even impersonate trusted voices, Faishal was quoted […]",
+        "content": "By\nDaily Excelsior\n-\nSINGAPORE, Nov 17: Extremist groups use AI to amplify the reach and sophistication of radical content, making it difficult for young minds to distinguish truth from manipulation, a Singapore minister said on Monday.\nSpeaking at a... [1972 chars]",
+        "url": "https://www.dailyexcelsior.com/singapore-minister-warns-of-increased-ai-use-among-radicalised-youths/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2025/11/SING.jpg",
+        "publishedAt": "2025-11-17T22:53:05Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "193a35e949ac7b2fcd64aa8104a7c1b4",
         "title": "Scientific journals are contending with letters written with AI",
         "description": "Letters to the editor of scientific and medical publications are an important part of the research process. The use of artificial intelligence, however, in those letters is a new development.",
@@ -92,70 +156,6 @@
             "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
             "name": "Washington Examiner",
             "url": "https://www.washingtonexaminer.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0bd932138f3d1f29c2a69c0e4cd282a9",
-        "title": "Nvidia, bitcoin and other falling stars drag the US stock market lower",
-        "description": "The U.S. stock market fell as Nvidia and other superstars created by the frenzy around artificial-intelligence technology dimmed some more",
-        "content": "NEW YORK (AP) — The U.S. stock market fell as Nvidia and other superstars created by the frenzy around artificial-intelligence technology dimmed some more. The S&P 500 lost 0.9% Monday and pulled further from its all-time high set last month. The Dow... [1197 chars]",
-        "url": "https://www.ajc.com/news/2025/11/nvidia-bitcoin-and-other-falling-stars-drag-the-us-stock-market-lower/",
-        "image": "https://www.ajc.com/resizer/v2/RPYVJZMWVJDPPDMPHTTE2JPNPQ.jpg?auth=1ad0025f8a7b8dc1350bbb42e8e27c4f6477bda2d695892ca9af53d890b4db6b&width=1200&height=630&smart=true",
-        "publishedAt": "2025-11-17T21:11:31Z",
-        "lang": "en",
-        "source": {
-            "id": "79e9a45376a66fd7e1a4e68bba928c39",
-            "name": "The Atlanta Journal-Constitution",
-            "url": "https://www.ajc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1a99e5b4584bca181357e7fdf7d654d1",
-        "title": "People are turning to A.I. for divorce advice - results not great",
-        "description": "With artificial intelligence creeping into our lives, it’s understandable that people are turning to it for legal advice. Find out more.",
-        "content": "With the information based on A.I. being sent to his lawyers described as “mostly inaccurate,” Shulman noted it can become stressful for everyone involved, including clients when anxiety is already running high.\nArticle content\nWith artificial intell... [3440 chars]",
-        "url": "https://www.nugget.ca/life/relationships/people-are-turning-to-a-i-for-divorce-advice-results-not-great/wcm/1e4b68a3-965b-4689-a756-1221fdb832c0",
-        "image": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2025/11/GettyImages-1133483350-e1763409079463.jpg",
-        "publishedAt": "2025-11-17T20:59:56Z",
-        "lang": "en",
-        "source": {
-            "id": "74373d37da4d4a3faf05b8b7af0eafd7",
-            "name": "The North Bay Nugget",
-            "url": "https://www.nugget.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "1f4611ab51e1dfe53138179491155192",
-        "title": "People are turning to A.I. for divorce advice - results not great",
-        "description": "With artificial intelligence creeping into our lives, it’s understandable that people are turning to it for legal advice. Find out more.",
-        "content": "Article content\nReviews and recommendations are unbiased and products are independently selected. Postmedia may earn an affiliate commission from purchases made through links on this page.\nWith artificial intelligence creeping into our lives more and... [5183 chars]",
-        "url": "https://theprovince.com/life/relationships/people-are-turning-to-a-i-for-divorce-advice-results-not-great/wcm/f2a89b65-832e-47bf-a4a4-2d66a3b9f95f",
-        "image": "https://smartcdn.gprod.postmedia.digital/theprovince/wp-content/uploads/2025/11/GettyImages-1133483350-e1763409079463.jpg",
-        "publishedAt": "2025-11-17T20:59:56Z",
-        "lang": "en",
-        "source": {
-            "id": "151e16058f3cb39651c31018593e2a50",
-            "name": "The Province",
-            "url": "https://theprovince.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "44526c8374b7e4ddac1735f910b3c15b",
-        "title": "Nvidia, bitcoin and other falling stars drag the US stock market toward a sharp loss",
-        "description": "The U.S. stock market is sinking as Nvidia and other superstars created by the frenzy around artificial-intelligence technology dim some more",
-        "content": "NEW YORK (AP) — The U.S. stock market is sinking Monday as Nvidia and other superstars created by the frenzy around artificial-intelligence technology dim some more.\nThe S&P 500 fell 1.2% and pulled further from its all-time high set late last month.... [4587 chars]",
-        "url": "https://www.barchart.com/story/news/36152960/nvidia-bitcoin-and-other-falling-stars-drag-the-us-stock-market-lower",
-        "image": "https://barchart-news-media-prod.aws.barchart.com/ap/95df2932bd464a43855273eb366715de/95df2932bd464a43855273eb366715de_main_financial_markets_wall_street_62690.jpg",
-        "publishedAt": "2025-11-17T20:37:54Z",
-        "lang": "en",
-        "source": {
-            "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-            "name": "Barchart",
-            "url": "https://www.barchart.com",
             "country": "us"
         }
     }
