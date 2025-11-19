@@ -1,5 +1,21 @@
 [
     {
+        "id": "99ad410332074adb04644e520e17ed3e",
+        "title": "Trump warns against AI 'overregulation,' says US needs to have one federal standard",
+        "description": "President Donald Trump advocates for a unified federal standard for artificial intelligence regulation. He warns that a fragmented approach with 50 state-specific rules could stifle growth and allow China to surpass the United States in the AI race.",
+        "content": "Synopsis\nPresident Donald Trump advocates for a unified federal standard for artificial intelligence regulation. He warns that a fragmented approach with 50 state-specific rules could stifle growth and allow China to surpass the United States in the ... [1916 chars]",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-warns-against-ai-overregulation-says-us-needs-to-have-one-federal-standard/articleshow/125424421.cms",
+        "image": "https://img.etimg.com/thumb/msid-125424421,width-1200,height-630,imgsize-139524,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-11-19T01:03:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "91c7ab31660de71131792081c64069a0",
         "title": "ETtech Interview: Lightspeed’s Ravi Mahtre & Bejul Somaia on the AI bubble, India opportunity & more",
         "description": "Lightspeed Venture Partners, a leading Silicon Valley-based investment firm, is of the view despite the current valuation \"euphoria\" in artificial intelligence (AI), the technology represents a once-in-a-generation transformation that will rewire all sectors and businesses.",
@@ -141,22 +157,6 @@
             "name": "Markets Insider",
             "url": "https://markets.businessinsider.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "a7a75704bdbf1247100b5b50f5189b2e",
-        "title": "AI can’t be used to qualify content as Canadian, CRTC says in updated rule",
-        "description": "The new definition maintains that Cancon is based on the number of Canadians occupying key creative positions in a production, which can't be replaced with artificial intelligence.",
-        "content": "The federal broadcast regulator has released a new definition of Canadian content — and it says artificial intelligence can’t qualify.\nThe new definition maintains the same approach as the previous one by using a system to determine whether something... [2590 chars]",
-        "url": "https://globalnews.ca/news/11531866/crtc-canadian-content-definition-ai/",
-        "image": "https://globalnews.ca/wp-content/uploads/2025/05/0f66860af6278c4be7f50828fd0c3792bf253f08f61b44bfb8d01e72d156dc19.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2025-11-18T22:44:29Z",
-        "lang": "en",
-        "source": {
-            "id": "49853ffafc28f405ff8ed06043290ae8",
-            "name": "Global News",
-            "url": "https://globalnews.ca",
-            "country": "ca"
         }
     }
 ]
