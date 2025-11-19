@@ -1,5 +1,117 @@
 [
     {
+        "id": "5da265bb89286ab6ca5d2a8e1facfd56",
+        "title": "Sophia University releases Japan 'Bear Encounter AI Prediction Map' online",
+        "description": "A research team at Sophia University in Tokyo has released an online \"Bear Encounter AI Prediction Map\" that estimates the likelihood of human-bear contact in 19 regions, aiming to reduce the frequency of attacks. The map uses artificial intelligence to forecast bear-related risks in areas such as Sapporo in Japan's…",
+        "content": "A research team at Sophia University in Tokyo has released an online \"Bear Encounter AI Prediction Map\" that estimates the likelihood of human-bear contact in 19 regions, aiming to reduce the frequency of attacks.\nThe map uses artificial intelligence... [1660 chars]",
+        "url": "https://japantoday.com/category/national/sophia-univ.-releases-japan-bear-encounter-ai-prediction-map-online",
+        "image": "https://media.japantoday.com/img/store/2f/04/6d448b34af374724dfb1ced123c54171b636/screenshot-2025-11-16-at-12-44-17/_w1700.png",
+        "publishedAt": "2025-11-18T21:18:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "4a9ac31a749894a0b815ed1a44b087fb",
+        "title": "Dow closes down nearly 500 points as AI bubble fears hammer stocks",
+        "description": "Stocks closed markedly lower on Tuesday as fears of a bubble in artificial intelligence technology hammered markets for a fourth consecutive trading day.",
+        "content": "Stocks closed markedly lower on Tuesday as fears of a bubble in artificial intelligence technology hammered markets for a fourth consecutive trading day.\nThe Dow Jones Industrial Average dropped 498 points, or 1%, while the S & P 500 fell 0.8%. The t... [1664 chars]",
+        "url": "https://abcnews.go.com/Business/dow-closes-500-points-ai-bubble-fears-hammer/story?id=127633886",
+        "image": "https://i.abcnewsfe.com/a/f8b101a2-dff9-4d29-a4f2-3d7a32a4d321/nyse-ap-er-251118_1763483701013_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2025-11-18T21:05:05Z",
+        "lang": "en",
+        "source": {
+            "id": "c792dadf7373fad5b316a63a77688de1",
+            "name": "ABC News",
+            "url": "https://abcnews.go.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "faf06a576b2a1b648a56820d824b7b0d",
+        "title": "AI tool mimics pathologists to improve breast cancer tissue analysis accuracy",
+        "description": "A research team led by two University of Maine Ph.D. students developed an artificial intelligence (AI) system that could make it easier and faster for doctors to identify signs of breast cancer in tissue samples, possibly preventing delays and saving lives.",
+        "content": "A research team led by two University of Maine Ph.D. students developed an artificial intelligence (AI) system that could make it easier and faster for doctors to identify signs of breast cancer in tissue samples, possibly preventing delays and savin... [4166 chars]",
+        "url": "https://medicalxpress.com/news/2025-11-ai-tool-mimics-pathologists-breast.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/students-develop-ai-to-1.jpg",
+        "publishedAt": "2025-11-18T20:53:04Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "9ee347da5f496747651c7e9cffdf186a",
+        "title": "Onestream Partners With Microsoft for AI Adoption in Enterprise Finance",
+        "description": "Onestream said late Tuesday it has entered into a strategic alliance with Microsoft to advance the adoption of artificial intelligence across enterprise finance teams.\nThe enterprise finance...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/onestream-partners-with-microsoft-for-ai-adoption-in-enterprise-finance-ce7d5edbd081f121",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2025-11-18T20:51:11Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "3bd021bb259aaeda71b6c24a56d63288",
+        "title": "Check Point Teams With Microsoft to Add AI Security to Copilot Studio",
+        "description": "Check Point said Tuesday it is working with Microsoft to integrate its artificial intelligence guardrails, data loss prevention and threat-prevention tools into Microsoft Copilot Studio to secure...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/check-point-teams-with-microsoft-to-add-ai-security-to-copilot-studio-ce7d5edbd081f223",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2025-11-18T20:49:54Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "1e4a44b090ec6d8adfad93093adb22eb",
+        "title": "Market slide frays investors' nerves with AI trade, rate-cut doubts",
+        "description": "The biggest U.S. stocks pullback in months is fraying investors' nerves ahead of tests to two underpinnings of the market's record-breaking rally: the artificial intelligence trade and expectations for interest rate cuts.",
+        "content": "NEW YORK, Nov 18 (Reuters) - The biggest U.S. stocks pullback in months is fraying investors' nerves ahead of tests to two underpinnings of the market's record-breaking rally: the artificial intelligence trade and expectations for interest rate cuts.... [3816 chars]",
+        "url": "https://www.reuters.com/business/market-slide-frays-investors-nerves-with-ai-trade-rate-cut-doubts-2025-11-18/",
+        "image": "https://www.reuters.com/resizer/v2/P23GRH46IVLDLIG7HKFNA7MRVA.jpg?auth=99fe4e000e41e2d6cc6b4bcd2e8e8115da709148641ae2c4711e97d300fb3381&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-11-18T20:45:30Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "42f10254410de5081ce73144f5ce52b8",
+        "title": "Anthropic reaches $350 billion valuation after massive investments from Microsoft and Nvidia",
+        "description": "Anthropic, a young American artificial intelligence startup, has seen its valuation jump to $350bn following a major strategic partnership with Microsoft and Nvidia. The new agreement, made official...",
+        "content": "Anthropic, a young American artificial intelligence startup, has seen its valuation jump to $350bn following a major strategic partnership with Microsoft and Nvidia. The new agreement, made official on Tuesday, includes a $5bn investment from Microso... [1414 chars]",
+        "url": "https://www.marketscreener.com/news/anthropic-reaches-350-billion-valuation-after-massive-investments-from-microsoft-and-nvidia-ce7d5edbd08ef227",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_3163232_800.jpg",
+        "publishedAt": "2025-11-18T20:38:28Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "7d35fa7c0ec7604138f24be6bc772cb3",
         "title": "Buyers beware: holiday scams are getting smarter with AI",
         "description": "Holiday shoppers are facing a new wave of scams, many powered by artificial intelligence. Find out more here",
@@ -44,118 +156,6 @@
             "id": "0a4c92a1a91d0994627a96e134064d69",
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "056e4e8863ee633e99878e4564286915",
-        "title": "AI-assisted immune profiling helps predict treatment success in rectal cancer patients",
-        "description": "Artificial intelligence (AI) can predict how well patients with rectal cancer will respond to treatment by analyzing standard tissue samples taken during diagnosis, finds a new study from researchers at UCL and UCLH.",
-        "content": "Artificial intelligence (AI) can predict how well patients with rectal cancer will respond to treatment by analyzing standard tissue samples taken during diagnosis, finds a new study from researchers at UCL and UCLH.\nIn most cancers, the immune lands... [5596 chars]",
-        "url": "https://medicalxpress.com/news/2025-11-ai-immune-profiling-treatment-success.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-tool-helps-predict-1.jpg",
-        "publishedAt": "2025-11-18T20:06:05Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "64d486b4863539430b2ebb5975f7413c",
-        "title": "Bernie Sanders warns AI could deepen inequality and reshape war",
-        "description": "Sen. Bernie Sanders explains why he thinks artificial intelligence poses profound risks for American workers and society at large.",
-        "content": "The robot warriors are coming, and so are the zillionaires, Sen. Bernie Sanders, I-Vt., warned in a wide-ranging interview with NBC News on the rise and risks of artificial intelligence.\n“I think we are not all that far away from the development of r... [7348 chars]",
-        "url": "https://www.nbcnews.com/tech/tech-news/bernie-sanders-ai-deepen-inequality-reshape-war-rcna244341",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251117-bernie-sanders-ew-644p-8f59c0.jpg",
-        "publishedAt": "2025-11-18T19:45:55Z",
-        "lang": "en",
-        "source": {
-            "id": "77b86639d1384ac68141803ec5db27c0",
-            "name": "NBC News",
-            "url": "https://www.nbcnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "aa7f6b6587ca1edfae0a9c544b4fed85",
-        "title": "Top Midday Stories: Home Depot Forecasts Steeper Annual EPS Drop; Cloudflare Hit by Major Outage",
-        "description": "All three major US stock indexes were down in late-morning trading Tuesday amid an ongoing slide in artificial intelligence-related stocks.\nIn company news, Home Depot reported fiscal Q3 adjusted...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/top-midday-stories-home-depot-forecasts-steeper-annual-eps-drop-cloudflare-hit-by-major-outage-ce7d5edbd08af721",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2025-11-18T19:45:31Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "cd175b6173247894a3de9b308f7e61ca",
-        "title": "US Plans to Approve Sale of Chips to Saudi AI Venture Humain",
-        "description": "The US plans to greenlight the first sales of advanced artificial intelligence chips to the Saudi Arabian AI firm Humain, people familiar with the matter said, marking a win for the state-backed venture as Saudi Crown Prince Mohammed bin Salman meets with US President Donald Trump.",
-        "content": "The US plans to greenlight the first sales of advanced artificial intelligence chips to the Saudi Arabian AI firm Humain, people familiar with the matter said, marking a win for the state-backed venture as Saudi Crown Prince Mohammed bin Salman meets... [464 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-11-18/us-plans-to-approve-sale-of-chips-to-saudi-ai-venture-humain",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaNrUvsW5rgA/v1/1200x800.jpg",
-        "publishedAt": "2025-11-18T19:44:10Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d02bbd6a40ef9f9c27b5548a8e70341d",
-        "title": "Experts highlight the impact of unregulated health and AI apps for substance use reduction",
-        "description": "In a commentary published by the Journal of the American Medical Association, researchers at Rutgers Health, Harvard University and the University of Pittsburgh discuss the impact of unregulated mobile health and generative artificial intelligence (AI) applications that claim to assist in substance use reduction.",
-        "content": "Jon-Patrick Allem, a member of the Rutgers Institute for Nicotine and Tobacco Studies, an associate professor at the Rutgers School of Public Health and senior author of the commentary, focuses on the need for greater oversight of new and untested te... [3739 chars]",
-        "url": "https://www.news-medical.net/news/20251118/Experts-highlight-the-impact-of-unregulated-health-and-AI-apps-for-substance-use-reduction.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2025-11-18T19:43:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "d17064899730b0a500e7f2c8bf35e2d3",
-        "title": "South Korea, UAE sign pacts to boost ties in AI, aerospace, nuclear energy",
-        "description": "South Korea and the United Arab Emirates on Tuesday signed several agreements to enhance bilateral ties in various sectors such as artificial intelligence (AI), aerospace, and nuclear energy, Anado…",
-        "content": "South Korea and the United Arab Emirates on Tuesday signed several agreements to enhance bilateral ties in various sectors such as artificial intelligence (AI), aerospace, and nuclear energy, Anadolu reports.\nThe agreements were inked as UAE Presiden... [1552 chars]",
-        "url": "https://www.middleeastmonitor.com/20251118-south-korea-uae-sign-pacts-to-boost-ties-in-ai-aerospace-nuclear-energy/",
-        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2021/06/GettyImages-1233243958-1.jpg?fit=920%2C613&ssl=1",
-        "publishedAt": "2025-11-18T19:38:17Z",
-        "lang": "en",
-        "source": {
-            "id": "e95f61df83ec26b9d965123c7b4cb57d",
-            "name": "Middle East Monitor",
-            "url": "https://www.middleeastmonitor.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "37fd363ce34482b6fc59170d3a8a0307",
-        "title": "The Future of Neurotechnology: AI's Role in Cognitive Enhancement and Well-Being",
-        "description": "Quick Overview: What You’ll Learn Key Point What It Means Neurotechnology is real and FDA-approved Brain stimulation devices are already helping people with depression, anxiety, and chronic pain AI makes these devices smarter Artificial intelligence personalizes treatments based on your unique brain patterns It works at home now You don’t need to visit a clinic […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nQuick Overview: What You’ll Learn\nKey Point What It Means Neurotechnology is real and FDA-approved Brain stimulation devices are already helping people with depression, anxiety, and chronic pain AI makes these devices sm... [28767 chars]",
-        "url": "https://techbullion.com/the-future-of-neurotechnology-ais-role-in-cognitive-enhancement-and-well-being/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/11/Screenshot-2025-11-18-110801-831x600.png",
-        "publishedAt": "2025-11-18T19:10:06Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
             "country": "gb"
         }
     }
