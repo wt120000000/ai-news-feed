@@ -1,5 +1,53 @@
 [
     {
+        "id": "7a1ae8af5ee9089feb079052e605ab99",
+        "title": "‘YUVA AI for ALL’: Govt launches free course to help citizens learn Artificial Intelligence, details inside",
+        "description": "MeitY, under the IndiaAI Mission, has launched ‘YUVA AI for ALL’, a free national programme to help Indians—especially students—learn the basics of artificial intelligence.",
+        "content": "The Ministry of Electronics and Information Technology (MeitY), under the IndiaAI Mission, has introduced ‘YUVA AI for ALL’, a nationwide free learning programme aimed at helping Indians—particularly students—explore the world of artificial intellige... [2150 chars]",
+        "url": "https://www.financialexpress.com/life/technology-yuva-ai-for-all-govt-launches-free-course-to-help-citizens-learn-artificial-intelligence-details-inside-4049303/",
+        "image": "https://images.financialexpressdigital.com/2025/11/Artificial-Intelligence-Bloomberg_20251102131609_20251116165611.jpg",
+        "publishedAt": "2025-11-19T07:06:02Z",
+        "lang": "en",
+        "source": {
+            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+            "name": "The Financial Express",
+            "url": "https://www.financialexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "72f9b3956c16f17df1d1a8b70e2ecb08",
+        "title": "Google unveils Gemini 3, its most ambitious AI model yet, in response to OpenAI",
+        "description": "Alphabet, Google's parent company, launched Gemini 3, its new generation of artificial intelligence model, on Tuesday, aiming to compete head-on with OpenAI in the field of generative AI. Dubbed the...",
+        "content": "Alphabet, Google's parent company, launched Gemini 3, its new generation of artificial intelligence model, on Tuesday, aiming to compete head-on with OpenAI in the field of generative AI. Dubbed the most advanced model developed by Alphabet, Gemini 3... [926 chars]",
+        "url": "https://www.marketscreener.com/news/google-unveils-gemini-3-its-most-ambitious-ai-model-yet-in-response-to-openai-ce7d5ed8da89fe2c",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_3097929_800.jpg",
+        "publishedAt": "2025-11-19T06:56:18Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "76b1b0254947d61d2d1e61c406175f72",
+        "title": "Musk’s xAI in advanced talks to raise $15 billion in equity at $230 billion valuation: Report",
+        "description": "Elon Musk’s artificial-intelligence startup xAI is in advanced talks to raise $15 billion in fresh equity at a valuation of $230 billion, the Wall Street Journal reported on Tuesday.",
+        "content": "Elon Musk’s artificial-intelligence start-up xAI is in advanced talks to raise $15 billion in fresh equity at a valuation of $230 billion, the Wall Street Journal reported on Tuesday.\nThe fundraising terms were outlined to investors by Musk’s wealth ... [1361 chars]",
+        "url": "https://www.thehindubusinessline.com/info-tech/musks-xai-in-advanced-talks-to-raise-15-billion-in-equity-at-230-billion-valuation-report/article70297769.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/10t5xj/article70297903.ece/alternates/LANDSCAPE_1200/2025-10-08T000439Z_1057662810_RC2XD5AYU92Q_RTRMADP_3_XAI-FUNDING-NVIDIA.JPG",
+        "publishedAt": "2025-11-19T06:44:17Z",
+        "lang": "en",
+        "source": {
+            "id": "680f00482cbf9f314921fefd917871d9",
+            "name": "The Hindu Business Line",
+            "url": "https://www.thehindubusinessline.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "ed5e2eb7a6e9cb27133a10ffab0d3628",
         "title": "Google unveils Gemini's next generation, aiming to turn its search engine into a 'thought partner'",
         "description": "Google is unleashing its Gemini 3 artificial intelligence model on its dominant search engine and other popular online services in the high-stakes battle to create technology that people can trust to enlighten them and manage tedious tasks.",
@@ -96,22 +144,6 @@
         }
     },
     {
-        "id": "7648bd134e870c57bde3cbb5145728ae",
-        "title": "AI likely to be used to organise and undermine next general election, committee hears",
-        "description": "Expert characterises artificial intelligence as the ‘asbestos of social relationships’",
-        "content": "Artificial Intelligence could be used to help redraw the Republic’s electoral boundaries in three years, an Oireachtas committee has been told.\nThe Joint Committee on Artificial Intelligence also heard, however, that the State should be cautious abou... [3120 chars]",
-        "url": "https://www.irishtimes.com/politics/2025/11/19/ai-likely-to-be-used-to-organise-and-undermine-next-general-election-committee-hears/",
-        "image": "https://www.irishtimes.com/resizer/v2/YWH3SIOXA5B4VGY7NOCYY6C2QQ.jpg?smart=true&auth=849ddcf5876e25eda509b619976d56dc0ce37194e61eb24c530e7770a639d78b&width=1200&height=630",
-        "publishedAt": "2025-11-19T06:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "dd1d806725f45e4403e75c1bb23b447a",
-            "name": "The Irish Times",
-            "url": "https://www.irishtimes.com",
-            "country": "ie"
-        }
-    },
-    {
         "id": "272d41e9d067b569a317e9cbfc8802b0",
         "title": "Musk’s xAI in advanced talks to raise US$15bil at US$230bil valuation, WSJ reports",
         "description": "ELON Musk's artificial-intelligence startup xAI is in advanced talks to raise $15 billion in fresh equity at a valuation of $230 billion, the Wall Street Journal reported on Tuesday.",
@@ -125,38 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "1214cfc6c126285fa604dd0d7f4300c1",
-        "title": "Brookfield seeks $10 billion for new AI infrastructure fund, WSJ reports",
-        "description": "Brookfield Asset Management is targeting $10 billion in equity for its new AI infrastructure fund, launching a new strategy aimed at investing in infrastructure tied to artificial intelligence, the Wall Street Journal reported on Wednesday.",
-        "content": "Sign up here.\nReuters could not immediately verify the report. Brookfield and KIA did not immediately respond to Reuters' requests for comment.\nBrookfield said it plans to use the capital, plus additional co-investments and debt, to build and acquire... [1086 chars]",
-        "url": "https://www.reuters.com/business/brookfield-seeks-10-billion-new-ai-infrastructure-fund-wsj-reports-2025-11-19/",
-        "image": "https://www.reuters.com/resizer/v2/RWXBP64ZGBI7ZP6GVFDGI4WWX4.jpg?auth=ebec4f3124090e064cdb77129ee9f2c0d43c92874455b7659da0233bf3dac64f&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-11-19T05:58:08Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4e9d72a59b32beaf73f5fb0acb765ddf",
-        "title": "Microsoft launches tracker to manage autonomous AI in the workplace",
-        "description": "In Microsoft’s view, humans are not the only ones to manage in a workplace. Artificial intelligence needs a manager, too.",
-        "content": "In Microsoft’s view, humans are not the only ones to manage in a workplace. Artificial intelligence needs a manager, too.\nThe software maker on Tuesday announced Microsoft Agent 365, a programme for its customers to track what it expects to be 1.3 bi... [1606 chars]",
-        "url": "https://www.thehindu.com/sci-tech/technology/microsoft-launches-tracker-to-manage-autonomous-ai-in-the-workplace/article70297402.ece",
-        "image": "https://th-i.thgim.com/public/incoming/peoft9/article70297632.ece/alternates/LANDSCAPE_1200/2025-10-29T174550Z_1346574622_RC2SLHACHPIS_RTRMADP_3_MICROSOFT-RESULTS.JPG",
-        "publishedAt": "2025-11-19T05:45:32Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
-            "country": "in"
         }
     }
 ]
