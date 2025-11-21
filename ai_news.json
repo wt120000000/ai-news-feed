@@ -1,5 +1,69 @@
 [
     {
+        "id": "db5c76bc9d2576f26cd1bfd0b17c3042",
+        "title": "Bankruptcy judge skips sanctioning law firm over AI errors but reprimands lawyer",
+        "description": "One of the largest law firms to face scrutiny over its lawyers' use of artificial intelligence avoided sanctions in a federal bankruptcy case on Thursday, but a judge reprimanded its attorney for submitting court filings with inaccurate and non-existent AI-generated citations.",
+        "content": "NEW YORK, Nov 20 (Reuters) - One of the largest law firms to face scrutiny over its lawyers' use of artificial intelligence avoided sanctions in a federal bankruptcy case on Thursday, but a judge reprimanded its attorney for submitting court filings ... [2100 chars]",
+        "url": "https://www.reuters.com/legal/transactional/bankruptcy-judge-skips-sanctioning-law-firm-over-ai-errors-reprimands-lawyer-2025-11-21/",
+        "image": "https://www.reuters.com/resizer/v2/6ETTQKTP2ZKMTBFT2IKEGOH2JA.jpg?auth=3dded593c0e95ce720c138da9b4f3a35d2d13d3ba724c898dab0bff6398eaeeb&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-11-21T00:16:40Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "9e952f943c4105fd3fafcbe08a01b826",
+        "title": "Experts call for AI integration in plant disease management at symposium",
+        "description": "Ludhiana: Artificial Intelligence (AI) must become a core component of plant disease management to make agriculture future-ready, said Dr S S Chahal, .",
+        "content": "Ludhiana: Artificial Intelligence (AI) must become a core component of plant disease management to make agriculture future-ready, said Dr S S Chahal, former vice-chancellor of Maharana Pratap University of Agriculture and Technology, Udaipur. Speakin... [2577 chars]",
+        "url": "https://timesofindia.indiatimes.com/city/ludhiana/experts-call-for-ai-integration-in-plant-disease-management-at-symposium/articleshow/125469848.cms",
+        "image": "https://static.toiimg.com/thumb/msid-125469847,width-1070,height-580,imgsize-34878,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+        "publishedAt": "2025-11-21T00:08:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "5f7e1f69b590cad0dbb56072e05c2596",
+        "title": "Scientists discover new type of lion roar",
+        "description": "Researchers used artificial intelligence to analyze more than 3,000 recordings of African lions and found that the animals have an \"intermediate\" roar as well as a \"full-throated\" roar.",
+        "content": "Scientists have discovered a new type of lion roar — the intermediate roar — which is shorter and lower-pitched than the animal's iconic, full-throated roar.\nThe researchers found that these intermediate roars always follow full-throated roars. The d... [3042 chars]",
+        "url": "https://www.livescience.com/animals/lions/scientists-discover-new-type-of-lion-roar",
+        "image": "https://cdn.mos.cms.futurecdn.net/2WQRYKp5QUciHkBsDUp5pN-2121-80.jpg",
+        "publishedAt": "2025-11-21T00:01:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6534c1541b974602cc2ed040c2e4038f",
+            "name": "Livescience.com",
+            "url": "https://www.livescience.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "1dd35ed9e3eff979172c5fae6ccc1bae",
+        "title": "TSS : Investor Presentation (TSSI Investor Presentation Nov 2025 11 20 22 FINAL)",
+        "description": "At the intersection of Advanced Computing and Artificial Intelligence\nInvestor Presentation\nNovember 2025\nNasdaq: TSSI\n...",
+        "content": "At the intersection of Advanced Computing and Artificial Intelligence\nInvestor Presentation\nNovember 2025\nNasdaq: TSSI\nWhat We Do\nDeliver Integration Services Powering data centers, AI, and digital transformation\nOur Technology Service Offerings\nRack... [5556 chars]",
+        "url": "https://www.marketscreener.com/news/tss-investor-presentation-tssi-investor-presentation-nov-2025-11-20-22-final-ce7d5edede8ef626",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2025-11-20T23:54:07Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "8c6dd1c4c22012461dc6d4ffec329906",
         "title": "North Korean operatives running fake job portal targeting US AI firms",
         "description": "By Sean Lyngaas, CNN (CNN) — North Korean operatives created a fake job-application platform targeting applicants to major US artificial intelligence and crypto firms as part of a new effort to steal money and know-how for the Kim Jong Un regime, researchers said on Thursday. It’s a twist on a yearslong campaign to infiltrate Fortune",
@@ -92,70 +156,6 @@
             "id": "8da923084554b2821233d6c5c5f02c97",
             "name": "Fox News",
             "url": "https://www.foxnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "8cfa1ff76ac87c7c34306149c983fc68",
-        "title": "‘AI do’: S’pore wedding planners say yes to artificial intelligence in industry despite challenges",
-        "description": "They say there is no replacing the critical thinking, network and emotional support that they offer. Read more at straitstimes.com.",
-        "content": "SINGAPORE – Whenever soon-to-be newlyweds came to her, wedding planner Belicia Tan used to think she would have to guide them through the A to Zs of making a fairy-tale wedding come true.\nBut that was before artificial intelligence (AI) became big. N... [6628 chars]",
-        "url": "https://www.straitstimes.com/singapore/ai-do-wedding-planners-say-yes-to-artificial-intelligence-in-industry-despite-challenges",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f53c0802b511a0afc0c272013edf906798da52f5c78c41fcf7ee8a4c6a124de9",
-        "publishedAt": "2025-11-20T23:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-            "name": "The Straits Times",
-            "url": "https://www.straitstimes.com",
-            "country": "sg"
-        }
-    },
-    {
-        "id": "f7827b1d1d86718aa4172bbdb6032bdb",
-        "title": "Alphabet's Intrinsic to help bring robots to Foxconn's U.S. factories",
-        "description": "Companies in the AI space are paying more attention to \"physical AI,\" or artificial intelligence that operates in the real world.",
-        "content": "“Foxconn just has huge manufacturing expertise,” Wendy Tan White, CEO of Intrinsic, said to Fortune in an interview. She added that Foxconn, perhaps best known for its work assembling Apple’s iPhones, will know which parts of the manufacturing proces... [3504 chars]",
-        "url": "https://fortune.com/2025/11/20/alphabet-intrinsic-foxconn-intelligent-robots-ai-joint-venture/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/54927908022_b75aba6d9e_o-e1763655122767.jpg?resize=1200,600",
-        "publishedAt": "2025-11-20T23:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-            "name": "Fortune",
-            "url": "https://fortune.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f2016b5699e4b79e181d73431c419e8b",
-        "title": "Coloured sand for sale on eBay Australia removed days after asbestos contamination recall",
-        "description": "The online retail platform eBay Australia told the ABC it uses artificial intelligence to stay informed of product recalls and to flag items that may be subject to a notice so they can be removed.",
-        "content": "A national recall of 32 coloured sand products that may contain asbestos has highlighted cracks in the system to remove these items from mass online marketplaces, according to one of Australia's leading specialists on artificial intelligence.\nA selle... [5551 chars]",
-        "url": "https://www.abc.net.au/news/2025-11-21/coloured-sand-product-for-sale-on-ebay-after-asbestos-recall/106029476",
-        "image": "https://live-production.wcms.abc-cdn.net.au/83f70de46a54cf6e6eb8dbffb5c0cb30?impolicy=wcms_watermark_news&cropH=291&cropW=518&xPos=0&yPos=77&width=862&height=485&imformat=generic",
-        "publishedAt": "2025-11-20T22:58:56Z",
-        "lang": "en",
-        "source": {
-            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-            "name": "ABC (Australian Broadcasting Corporation)",
-            "url": "https://www.abc.net.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "39c1b7231ddec9b0acaf46db1a5a8d92",
-        "title": "OpenAI taps iPhone assembler Foxconn to manufacture AI hardware in US",
-        "description": "OpenAI has struck a new partnership with Foxconn, the world's largest contract electronics manufacturer, to build artificial intelligence hardware.",
-        "content": "OpenAI is partnering with Taiwan's Foxconn, the world's largest contract electronics manufacturer, to design and build artificial intelligence data center components in the U.S., the AI startup's latest announcement tied to its massive infrastructure... [2335 chars]",
-        "url": "https://www.cnbc.com/2025/11/20/openai-taps-iphone-assembler-foxconn-to-manufacture-ai-hardware-in-us.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108225612-1763059582598-B76A3253MOV15_30_29_21Still001.jpg?v=1763059771&w=1920&h=1080",
-        "publishedAt": "2025-11-20T22:50:01Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
             "country": "us"
         }
     }
