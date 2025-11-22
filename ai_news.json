@@ -1,5 +1,37 @@
 [
     {
+        "id": "8a47b365a895188f517278db9bfeb3e7",
+        "title": "White House pauses executive order that would seek to preempt state laws on AI, sources say",
+        "description": "(Reuters) -The White House has put on hold a draft executive order that would seek to preempt state laws on artificial intelligence through lawsuits and by withholding federal funds, two sources said on Friday.",
+        "content": "(Reuters) -The White House has put on hold a draft executive order that would seek to preempt state laws on artificial intelligence through lawsuits and by withholding federal funds, two sources said on Friday.\nThe draft order, which Reuters reported... [2913 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/11/22/white-house-pauses-executive-order-that-would-seek-to-preempt-state-laws-on-ai-sources-say",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/22/3634580.jpg",
+        "publishedAt": "2025-11-21T23:09:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "282152ffc26eede8bef3235bf0c491f1",
+        "title": "Tech Up in Volatile Trading -- Tech Roundup",
+        "description": "Shares of technology companies rose in volatile trading as traders moved in and out of beaten-down artificial-intelligence players and fears about a bubble in the sub-sector percolated.\nNvidia...",
+        "content": "Shares of technology companies rose in volatile trading as traders moved in and out of beaten-down artificial-intelligence players and fears about a bubble in the sub-sector percolated.\nNvidia shares were more or less flat, giving up gains earlier in... [962 chars]",
+        "url": "https://www.marketscreener.com/news/tech-up-in-volatile-trading-tech-roundup-ce7d5edfde8df324",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2025-11-21T22:33:12Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "1c35a2ee9f7a65c8acb95aaa307b943e",
         "title": "Country Singer Blanco Brown Proclaims A.I. Songs Have No Heart, Feeling",
         "description": "Artificial intelligence can put sound and lyrics together no problem ... but, it can't capture the heart of a human artist -- so says a country music star.",
@@ -125,38 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "80b082d897a5be01bf1c042d8dc48b91",
-        "title": "US Officials in Early Talks on Letting Nvidia Sell H200 AI Chips to China",
-        "description": "US officials are in early discussions over whether to let Nvidia sell its H200 artificial-intelligence chips to China, Bloomberg reported Friday, citing people familiar with the matter.\nThe...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/us-officials-in-early-talks-on-letting-nvidia-sell-h200-ai-chips-to-china-ce7d5edfdf8cf42c",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2025-11-21T19:51:25Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "009aab7b36dabdb1dda78aafb5d70cb8",
-        "title": "White House Considers Letting Nvidia Sell Chips to China, Bloomberg Reports, Citing Sources",
-        "description": "U.S. officials are discussing whether to let Nvidia sell its H200 artificial intelligence chips to China, Bloomberg reported, citing people familiar with the matter.\n--A final decision has yet...",
-        "content": "--U.S. officials are discussing whether to let Nvidia sell its H200 artificial intelligence chips to China, Bloomberg reported, citing people familiar with the matter.\n--A final decision has yet to be made and it's possible the idea remains an intern... [654 chars]",
-        "url": "https://www.marketscreener.com/news/white-house-considers-letting-nvidia-sell-chips-to-china-bloomberg-reports-citing-sources-ce7d5edfdf8cf522",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2025-11-21T19:47:10Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
