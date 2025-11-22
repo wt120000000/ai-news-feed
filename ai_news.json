@@ -1,5 +1,37 @@
 [
     {
+        "id": "f1db83fe3d0334ac8c33fbf085a094a2",
+        "title": "Top Biden adviser on AI and authoritarianism",
+        "description": "Arati Prabhakar talks to Fast Company about what the rise of artificial intelligence will mean for the future of democracy.",
+        "content": "Camps are finally emerging in the big fight over whether and how to regulate AI. President Donald Trump earlier this week declared that he would block local officials who try to regulate the technology; according to a draft executive order leaked on ... [11677 chars]",
+        "url": "https://www.fastcompany.com/91445749/arati-prabhakar-biden-ai-trump-authoritarianism-palantir",
+        "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/11/p-2-91445673-Arati-Prabhakar-and-the-future-of-AI-policy.jpg",
+        "publishedAt": "2025-11-22T10:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5ac5f32ba74846cef441099f666f2d98",
+            "name": "Fast Company",
+            "url": "https://www.fastcompany.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "b090cf6d16426e206417a1639d930919",
+        "title": "Benedict Cumberbatch says he feels \"pretty depressed\" about AI in the film industry and thinks we're \"vanilla-fying\" the \"thing that makes us human\"",
+        "description": "The star of The Imitation Game chimes in on artificial intelligence",
+        "content": "More of Hollywood’s finest are speaking up against the use of AI in the industry. Guillermo del Toro has assured that he’d rather die than use it, and now Benedict Cumberbatch has had a few words to say on the matter. During a Reddit AMA, the Doctor ... [1657 chars]",
+        "url": "https://www.gamesradar.com/entertainment/benedict-cumberbatch-says-he-feels-pretty-depressed-about-ai-in-the-film-industry-and-thinks-were-vanilla-fying-the-thing-that-makes-us-human/",
+        "image": "https://cdn.mos.cms.futurecdn.net/ZbJZseBwTX3a59PwSjNLQd-1920-80.jpg",
+        "publishedAt": "2025-11-22T09:50:50Z",
+        "lang": "en",
+        "source": {
+            "id": "294addf97f5ee5fcc83a4cf0a07af54b",
+            "name": "GamesRadar+",
+            "url": "https://www.gamesradar.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f1bfd4def0581c04c5e96685b3a19fa7",
         "title": "UAE cements global AI leadership with focus on human capital, training",
         "description": "The UAE is strengthening its leadership in Artificial Intelligence by investing in education, training, and research to build skilled national talent. Reports show the country leading the region in AI readiness and adoption, supported by major initiatives, universities, and government-backed programmes.",
@@ -125,38 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "c0ef3790cd861570fb197e4e216da39e",
-        "title": "Bubble Trouble: AI rally shows cracks as investors question risks",
-        "description": "Recent stock market swings reveal potential cracks in the artificial intelligence rally. High valuations in AI stocks are causing concern about a speculative bubble. Investors are watching for signs of a pullback. Comparisons are being made to past market manias. Valuations remain elevated, with risks around spending and capacity. Some leaders dismiss bubble fears, while others acknowledge potential impacts.",
-        "content": "Synopsis\nRecent stock market swings reveal potential cracks in the artificial intelligence rally. High valuations in AI stocks are causing concern about a speculative bubble. Investors are watching for signs of a pullback. Comparisons are being made ... [7212 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bubble-trouble-ai-rally-shows-cracks-as-investors-question-risks/articleshow/125498891.cms",
-        "image": "https://img.etimg.com/thumb/msid-125498899,width-1200,height-630,imgsize-120674,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2025-11-22T03:54:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8ce8335ff9a958f8a6974ebeb48b0a06",
-        "title": "Capillary Technologies India's Shares End 5% Higher Against Issue Price Of ₹577 After A Muted Market Debut",
-        "description": "Capillary Technologies made a muted market debut. The stock started trading at Rs 560, a decline of 2.94 per cent from the issue price on the BSE. However, later it bounced back 9.70 per cent to Rs 633 during the day. Shares of the firm finally ended at Rs 606.90, up 5.18 per cent. Capillary Technologies India offers artificial intelligence-based cloud native Software-as-a-Service (SaaS) products.",
-        "content": "New Delhi: Shares of Capillary Technologies India Ltd on Friday ended over 5 per cent higher against the issue price of Rs 577 after making a muted market debut.The stock started trading at Rs 560, a decline of 2.94 per cent from the issue price on t... [1005 chars]",
-        "url": "https://www.freepressjournal.in/business/capillary-technologies-indias-shares-end-5-higher-against-issue-price-of-577-after-a-muted-market-debut",
-        "image": "https://media.assettype.com/freepressjournal/2025-11-22/a0s497px/Capillary-TecH-0.jpg",
-        "publishedAt": "2025-11-22T02:52:58Z",
-        "lang": "en",
-        "source": {
-            "id": "7eeaf9a839918543cc708f2d331c3be4",
-            "name": "Free Press Journal",
-            "url": "https://www.freepressjournal.in",
-            "country": "in"
         }
     }
 ]
