@@ -1,5 +1,69 @@
 [
     {
+        "id": "d7c7d6e5b2fd962f38c9f664267ee8c1",
+        "title": "White House pauses executive order that would seek to preempt state laws on AI",
+        "description": "The White House has put on hold a draft executive order that would seek to preempt state laws on artificial intelligence through lawsuits and by withholding federal funds.",
+        "content": "The White House has put on hold a draft executive order that would seek to preempt state laws on artificial intelligence through lawsuits and by withholding federal funds, two sources said on Friday.\nThe draft order, which Reuters reported on earlier... [2767 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/white-house-pauses-executive-order-that-would-seek-to-preempt-state-laws-on-ai/article70310349.ece",
+        "image": "https://th-i.thgim.com/public/incoming/thosu5/article70310420.ece/alternates/LANDSCAPE_1200/2025-11-21T110051Z_2119360766_RC28X4AIJESL_RTRMADP_3_USA-BONDS-AI.JPG",
+        "publishedAt": "2025-11-22T05:03:32Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "06f8f58208834d4408257824108c922a",
+        "title": "U.S. considering letting Nvidia sell H200 chips to China",
+        "description": "The Trump administration is considering greenlighting sales of Nvidia's H200 artificial intelligence chips to China, people familiar with the matter said.",
+        "content": "The Trump administration is considering greenlighting sales of Nvidia's H200 artificial intelligence chips to China, people familiar with the matter said, as a bilateral detente boosts prospects for exports of advanced U.S. technology to China.\nThe C... [659 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/us-considering-letting-nvidia-sell-h200-chips-to-china/article70310347.ece",
+        "image": "https://th-i.thgim.com/public/incoming/o45ptf/article70310400.ece/alternates/LANDSCAPE_1200/2025-11-19T121759Z_705665479_RC2NZHAT250U_RTRMADP_3_TECH-CHIPS.JPG",
+        "publishedAt": "2025-11-22T04:52:04Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "771eb08610890dfd78c32c7740e90f90",
+        "title": "Google’s new Gemini 3 version rekindles AI race",
+        "description": "Google’s upcoming large language model (LLM) for artificial intelligence (AI), Gemini 3, reignited the AI race with its surpassing performance in independent",
+        "content": "Google’s upcoming large language model (LLM) for artificial intelligence (AI), Gemini 3, reignited the AI race with its surpassing performance in independent tests, surpassing ChatGPT.\nGoogle is launching its new generative AI model. Gemini, currentl... [1607 chars]",
+        "url": "https://www.nation.com.pk/22-Nov-2025/google-s-new-gemini-3-version-rekindles-ai-race",
+        "image": "https://www.nation.com.pk/digital_images/large/2025-11-22/google-s-new-gemini-3-version-rekindles-ai-race-1763786656-4139.jpg",
+        "publishedAt": "2025-11-22T04:44:34Z",
+        "lang": "en",
+        "source": {
+            "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+            "name": "The Nation",
+            "url": "https://www.nation.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "ab9322951bf507b91750c247dbbcadea",
+        "title": "The Science Behind Hyper-Realistic Face Swaps: Why Today’s AI Looks So Convincing",
+        "description": "Artificial intelligence has transformed the way digital media is created, edited, and shared. One of the most fascinating breakthroughs is hyper realistic face swap technology. What once required professional studios and complex visual effects can now be done in seconds with a single uploaded image. The results look remarkably convincing, often blending seamlessly with lighting, […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence has transformed the way digital media is created, edited, and shared. One of the most fascinating breakthroughs is hyper realistic face swap technology. What once required professional studios and... [7735 chars]",
+        "url": "https://techbullion.com/the-science-behind-hyper-realistic-face-swaps-why-todays-ai-looks-so-convincing/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/11/Screenshot-2025-11-21-zzzz.png",
+        "publishedAt": "2025-11-22T04:26:30Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "c0ef3790cd861570fb197e4e216da39e",
         "title": "Bubble Trouble: AI rally shows cracks as investors question risks",
         "description": "Recent stock market swings reveal potential cracks in the artificial intelligence rally. High valuations in AI stocks are causing concern about a speculative bubble. Investors are watching for signs of a pullback. Comparisons are being made to past market manias. Valuations remain elevated, with risks around spending and capacity. Some leaders dismiss bubble fears, while others acknowledge potential impacts.",
@@ -93,70 +157,6 @@
             "name": "NDTV.com",
             "url": "https://www.ndtv.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "eaadc6fd5dd92f9e0048db6324ec0c0f",
-        "title": "OpenAI and Taiwan's Foxconn to partner in AI hardware design and manufacturing in U.S.",
-        "description": "OpenAI and Taiwan electronics giant Foxconn have agreed to a partnership to design and manufacture key equipment for artificial intelligence data centers in the U.S. as part of ambitious plans to fortify American AI infrastructure. Foxconn, which makes AI servers for Nvidia and assembles Apple products including the iPhone, will…",
-        "content": "OpenAI and Taiwan electronics giant Foxconn have agreed to a partnership to design and manufacture key equipment for artificial intelligence data centers in the U.S. as part of ambitious plans to fortify American AI infrastructure.\nFoxconn, which mak... [2599 chars]",
-        "url": "https://japantoday.com/category/tech/openai-and-taiwan%27s-foxconn-to-partner-in-ai-hardware-design-and-manufacturing-in-the-us",
-        "image": "https://media.japantoday.com/img/store/e8/4c/5f3faccb7a1add6ff501d580602c2859dfe8/download/_w1700.jpeg",
-        "publishedAt": "2025-11-22T01:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "93df8bf5c7b5c78b6638940632a24ae6",
-        "title": "OpenAI and Taiwan's Foxconn to partner in AI hardware design and manufacturing in U.S.",
-        "description": "OpenAI and Taiwan electronics giant Foxconn have agreed to a partnership to design and manufacture key equipment for artificial intelligence data centers in the U.S. as part of ambitious plans to fortify American AI infrastructure. Foxconn, which makes AI servers for Nvidia and assembles Apple products including the iPhone, will…",
-        "content": "OpenAI and Taiwan electronics giant Foxconn have agreed to a partnership to design and manufacture key equipment for artificial intelligence data centers in the U.S. as part of ambitious plans to fortify American AI infrastructure.\nFoxconn, which mak... [2599 chars]",
-        "url": "https://japantoday.com/category/tech/openai-and-taiwan's-foxconn-to-partner-in-ai-hardware-design-and-manufacturing-in-the-us",
-        "image": "https://media.japantoday.com/img/store/e8/4c/5f3faccb7a1add6ff501d580602c2859dfe8/download/_w1700.jpeg",
-        "publishedAt": "2025-11-22T01:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "ece3ca912c88962f9b4b782cd2a9b77a",
-        "title": "From Steve Bannon to Elizabeth Warren, bipartisan backlash erupts over push to block states from regulating AI",
-        "description": "New efforts this week in Washington to effectively ban individual states from governing artificial intelligence have provoked bipartisan backlash.",
-        "content": "New efforts this week in Washington to effectively ban individual states from governing artificial intelligence have provoked bipartisan backlash.\nThe push from House Republicans and the White House to assert federal control over AI regulation, which... [6355 chars]",
-        "url": "https://www.nbcnews.com/tech/tech-news/steve-bannon-elizabeth-warren-bipartisan-backlash-erupts-push-block-st-rcna245040",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251115-trump-ch-1430-dba88a.jpg",
-        "publishedAt": "2025-11-22T00:41:39Z",
-        "lang": "en",
-        "source": {
-            "id": "77b86639d1384ac68141803ec5db27c0",
-            "name": "NBC News",
-            "url": "https://www.nbcnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c072c476f37f9a7d84ad6f97e7ec86a8",
-        "title": "East Bay man charged in alleged conspiracy to illegally ship powerful AI computer chips to China",
-        "description": "Powerful Nvidia computer-processor chips have become highly prized amid a global race for supremacy in artificial intelligence.",
-        "content": "Federal authorities arrested an East Bay man over an alleged scheme to evade national security-related technology export controls and send powerful, highly sought after computer chips made by Santa Clara company Nvidia to China.\nChinese citizen Cham ... [2410 chars]",
-        "url": "https://www.mercurynews.com/2025/11/21/east-bay-man-charged-conspiracy-ai-computer-chips-china/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2023/08/AP23234617861140.jpg?w=1024&h=683",
-        "publishedAt": "2025-11-21T23:51:14Z",
-        "lang": "en",
-        "source": {
-            "id": "17d7c2645f485578130862e0c8dd9480",
-            "name": "The Mercury News",
-            "url": "https://www.mercurynews.com",
-            "country": "us"
         }
     }
 ]
