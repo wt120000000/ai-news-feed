@@ -1,5 +1,37 @@
 [
     {
+        "id": "c072c476f37f9a7d84ad6f97e7ec86a8",
+        "title": "East Bay man charged in alleged conspiracy to illegally ship powerful AI computer chips to China",
+        "description": "Powerful Nvidia computer-processor chips have become highly prized amid a global race for supremacy in artificial intelligence.",
+        "content": "Federal authorities arrested an East Bay man over an alleged scheme to evade national security-related technology export controls and send powerful, highly sought after computer chips made by Santa Clara company Nvidia to China.\nChinese citizen Cham ... [2410 chars]",
+        "url": "https://www.mercurynews.com/2025/11/21/east-bay-man-charged-conspiracy-ai-computer-chips-china/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2023/08/AP23234617861140.jpg?w=1024&h=683",
+        "publishedAt": "2025-11-21T23:51:14Z",
+        "lang": "en",
+        "source": {
+            "id": "17d7c2645f485578130862e0c8dd9480",
+            "name": "The Mercury News",
+            "url": "https://www.mercurynews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3a6b4ed5e24d65bcd6f1e700d17fb597",
+        "title": "In less than 20 years none of us will be working at all thanks to artificial intelligence, says Elon Musk",
+        "description": "The world's richest man said the decision to work will become like a hobby such as sport or growing your own vegetables.",
+        "content": "Working will become optional in just 20 years thanks to advances in artificial intelligence and robotics, Elon Musk has claimed.\nThe world’s richest man said the decision to work will become like a hobby such as sport or growing your own vegetables.\n... [2081 chars]",
+        "url": "https://www.dailymail.co.uk/news/article-15314947/In-20-years-none-working-thanks-artificial-intelligence-says-Elon-Musk.html",
+        "image": "https://i.dailymail.co.uk/1s/2025/11/21/23/104094707-0-image-m-75_1763768323992.jpg",
+        "publishedAt": "2025-11-21T23:28:38Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "8a47b365a895188f517278db9bfeb3e7",
         "title": "White House pauses executive order that would seek to preempt state laws on AI, sources say",
         "description": "(Reuters) -The White House has put on hold a draft executive order that would seek to preempt state laws on artificial intelligence through lawsuits and by withholding federal funds, two sources said on Friday.",
@@ -125,38 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "fd63ede6e80b2d26979c88b93ed2b3cc",
-        "title": "What does 'agentic' AI mean? Tech's newest buzzword is a mix of marketing fluff and real promise",
-        "description": "For technology adopters looking for the next big thing, “agentic AI” is the future. At least, that's what the marketing pitches and tech industry T-shirts say. What makes an artificial intelligence product “agentic” depends on who's selling it. But the promise is usually that it's a step beyond today's generative…",
-        "content": "For technology adopters looking for the next big thing, “agentic AI” is the future. At least, that's what the marketing pitches and tech industry T-shirts say.\nWhat makes an artificial intelligence product “agentic” depends on who's selling it. But t... [5965 chars]",
-        "url": "https://japantoday.com/category/tech/what-does-'agentic'-ai-mean-tech's-newest-buzzword-is-a-mix-of-marketing-fluff-and-real-promise",
-        "image": "https://media.japantoday.com/img/store/cc/07/38569b9e6309eebca8d0effb65a6833a51e3/download/_w1700.jpeg",
-        "publishedAt": "2025-11-21T20:10:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "783890758f3b0a64f27fae188ec91ac9",
-        "title": "What does 'agentic' AI mean? Tech's newest buzzword is a mix of marketing fluff and real promise",
-        "description": "For technology adopters looking for the next big thing, “agentic AI” is the future. At least, that's what the marketing pitches and tech industry T-shirts say. What makes an artificial intelligence product “agentic” depends on who's selling it. But the promise is usually that it's a step beyond today's generative…",
-        "content": "For technology adopters looking for the next big thing, “agentic AI” is the future. At least, that's what the marketing pitches and tech industry T-shirts say.\nWhat makes an artificial intelligence product “agentic” depends on who's selling it. But t... [5965 chars]",
-        "url": "https://japantoday.com/category/tech/what-does-%27agentic%27-ai-mean-tech%27s-newest-buzzword-is-a-mix-of-marketing-fluff-and-real-promise",
-        "image": "https://media.japantoday.com/img/store/cc/07/38569b9e6309eebca8d0effb65a6833a51e3/download/_w1700.jpeg",
-        "publishedAt": "2025-11-21T20:10:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
