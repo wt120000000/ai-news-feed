@@ -1,5 +1,37 @@
 [
     {
+        "id": "559d7d86a090088a789c7db268fc6d69",
+        "title": "Bernie Sanders Asks Whether AI Will Really Serve Workers Or 'What Mr Musk And Mr Bezos Have In Mind' As Geoffrey Hinton Reveals The Real Risk",
+        "description": "Bernie Sanders and AI pioneer Geoffrey Hinton warned that while artificial intelligence could greatly benefit society, its future depends on whether it's shaped for the public good or aligned with \"what Mr. Musk and Mr. Bezos have in mind,\" as Washington moves to tighten federal control over the technology.",
+        "content": "This week, in a wide-ranging discussion at Georgetown University, Sen. Bernie Sanders (I-Vt) and AI pioneer Geoffrey Hinton warned that artificial intelligence could improve lives — but only if it's controlled by people whose interests extend beyond ... [3300 chars]",
+        "url": "https://www.benzinga.com/markets/tech/25/11/49020085/bernie-sanders-asks-whether-ai-will-really-serve-workers-or-what-mr-musk-and-mr-bezos-have-in-mind-as-geoffrey-hinton-reveals-the-real-risk",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/11/22/shutterstock-1453864013.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-11-22T07:26:44Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "18bc7da208b0607d4d3082b9da0ca4ca",
+        "title": "Man referred to prosecutors for alleged copyright infringement of AI image",
+        "description": "A 27-year-old man has been referred to prosecutors on suspicion of copying an image created by another person via specific prompts given to an artificial intelligence model, local police said. While he was not arrested, the case is likely the first of its kind to be sent to prosecutors over…",
+        "content": "A 27-year-old man has been referred to prosecutors on suspicion of copying an image created by another person via specific prompts given to an artificial intelligence model, local police said.\nWhile he was not arrested, the case is likely the first o... [1084 chars]",
+        "url": "https://japantoday.com/category/crime/man-referred-to-prosecutors-for-alleged-copyright-infringement-of-ai-image",
+        "image": "https://japantoday.com/images/japan-today-social.jpg",
+        "publishedAt": "2025-11-22T07:22:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "d7c7d6e5b2fd962f38c9f664267ee8c1",
         "title": "White House pauses executive order that would seek to preempt state laws on AI",
         "description": "The White House has put on hold a draft executive order that would seek to preempt state laws on artificial intelligence through lawsuits and by withholding federal funds.",
@@ -125,38 +157,6 @@
             "name": "The Canberra Times",
             "url": "https://www.canberratimes.com.au",
             "country": "au"
-        }
-    },
-    {
-        "id": "fedccc5b3f6b3081dcc70d8fc9bda571",
-        "title": "Artificial intelligence helps patients better comprehend medical findings",
-        "description": "Medical reports written in technical terminology can pose challenges for patients. A team at the Technical University of Munich (TUM) has investigated how artificial intelligence can make CT findings easier to understand.",
-        "content": "Medical reports written in technical terminology can pose challenges for patients. A team at the Technical University of Munich (TUM) has investigated how artificial intelligence can make CT findings easier to understand. In the study, reading time d... [3519 chars]",
-        "url": "https://www.news-medical.net/news/20251121/Artificial-intelligence-helps-patients-better-comprehend-medical-findings.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-        "publishedAt": "2025-11-22T01:17:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "f2a77d8e78315b3edd38704a9d2f9375",
-        "title": "Don't Let AI Do Your Homework, Pope Leo Tells US Youth",
-        "description": "Artificial intelligence may be a useful tool for learning, but don't use it for your homework, Pope Leo told about 15,000 U.S. youth during a question-and-answer session on Friday.",
-        "content": "Artificial intelligence may be a useful tool for learning, but don't use it for your homework, Pope Leo told about 15,000 US youth during a question-and-answer session on Friday.\nIn a live video transmission from the Vatican to a national Catholic yo... [1035 chars]",
-        "url": "https://www.ndtv.com/world-news/dont-let-ai-do-your-homework-pope-leo-tells-us-youth-9679939",
-        "image": "https://c.ndtvimg.com/2025-11/88ke5opg_pope-leo_625x300_18_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2025-11-22T01:11:25Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
-            "country": "in"
         }
     }
 ]
