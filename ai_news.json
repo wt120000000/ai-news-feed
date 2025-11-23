@@ -1,5 +1,21 @@
 [
     {
+        "id": "67651833aa9dc924741152f3b46a94f9",
+        "title": "Golden Guitars to review stance on AI after 2026 awards",
+        "description": "After a snap decision to ban generative tracks made using Artificial Intelligence for the 2026 Golden Guitar Awards, the Country Music Association of Australia is reviewing whether AI has a place in country music.",
+        "content": "It might not be able to strum a banjo, but could a computer ever win a coveted Golden Guitar?\nThat is the question facing the Country Music Association of Australia after AI-generated songs were submitted for the 2026 Golden Guitar Awards.\nAt the nom... [4073 chars]",
+        "url": "https://www.abc.net.au/news/2025-11-23/golden-guitar-awards-generative-ai-country-music/106023832",
+        "image": "https://live-production.wcms.abc-cdn.net.au/d083713429f1950bc7f4c877664558bd?impolicy=wcms_watermark_news&cropH=642&cropW=1142&xPos=0&yPos=135&width=862&height=485&imformat=generic",
+        "publishedAt": "2025-11-22T21:39:14Z",
+        "lang": "en",
+        "source": {
+            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+            "name": "ABC (Australian Broadcasting Corporation)",
+            "url": "https://www.abc.net.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "6bf48d171ef6f7060ee9e66e84516489",
         "title": "Memory chip crunch set to drive up smartphone prices",
         "description": "Shoppers could face higher prices for phones, laptops and other gadgets next year, manufacturers and analysts warn, as AI data centers hoover up memory chips used in consumer electronics. The world's biggest tech companies are plowing head-spinningly huge sums into building the hardware that powers artificial intelligence tools like ChatGPT.…",
@@ -141,22 +157,6 @@
             "name": "CBC.ca",
             "url": "https://www.cbc.ca",
             "country": "ca"
-        }
-    },
-    {
-        "id": "d3b2840f0afdd64a5db43a79e5d9a43b",
-        "title": "AI-driven system cuts fax processing time and speeds new patient onboarding in health care",
-        "description": "An emerging artificial intelligence-powered system developed at Penn Medicine has tripled the speed of fax processing and cut a full week off the new patient intake process-freeing up thousands of staff hours.",
-        "content": "An emerging artificial intelligence-powered system developed at Penn Medicine has tripled the speed of fax processing and cut a full week off the new patient intake process-freeing up thousands of staff hours. The system, called coordn8, was created ... [3762 chars]",
-        "url": "https://www.news-medical.net/news/20251122/AI-driven-system-cuts-fax-processing-time-and-speeds-new-patient-onboarding-in-health-care.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2025-11-22T14:37:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
         }
     }
 ]
