@@ -1,5 +1,37 @@
 [
     {
+        "id": "0a54d888522b5641359d204ff2bec113",
+        "title": "Global jurisprudence needs urgent evolution for emerging climate, tech phenomena: Jitendra Singh",
+        "description": "Lucknow, Nov 22 (PTI) Union Minister of State for Science and Technology Jitendra Singh on Saturday said that judicial leadership and global jurisprudence must urgently evolve to address emerging challenges like those of the deep ocean, space debris, and artificial intelligence. The minister said there are four vital changes required, beginning with “strengthening international environmental […]",
+        "content": "Singh said international environmental law can no longer function in silos as countries today face “interconnected crises” ranging from climate change to ocean degradation.\nHe stressed the need for regulations to govern emerging technologies such as ... [4049 chars]",
+        "url": "https://theprint.in/india/global-jurisprudence-needs-urgent-evolution-for-emerging-climate-tech-phenomena-jitendra-singh/2790073/",
+        "image": "https://static.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+        "publishedAt": "2025-11-22T12:31:55Z",
+        "lang": "en",
+        "source": {
+            "id": "34cc62608b4607dc3a776802caadb7bd",
+            "name": "ThePrint",
+            "url": "https://theprint.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "510761cf41ea0881ae3dc31b5cc16d2d",
+        "title": "AI-driven innovations in pediatric ultrasound imaging and analysis",
+        "description": "Announcing a new article publication for BIO Integration journal. The emerging application of artificial intelligence (AI) in pediatric ultrasound has shown significant potential to improve diagnostic accuracy and efficiency, particularly in addressing the challenges of conventional ultrasound in operator dependence, inconsistent image quality, and limited quantitative analysis capabilities.",
+        "content": "Announcing a new article publication for BIO Integration journal. The emerging application of artificial intelligence (AI) in pediatric ultrasound has shown significant potential to improve diagnostic accuracy and efficiency, particularly in addressi... [1185 chars]",
+        "url": "https://www.news-medical.net/news/20251122/AI-driven-innovations-in-pediatric-ultrasound-imaging-and-analysis.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+        "publishedAt": "2025-11-22T11:31:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "16f7c810b8843cbcbc1dfc2dfd12a87b",
         "title": "Google’s Gemini 3 unleashes a new era of AI search, build and think smarter",
         "description": "Google has launched Gemini 3, its most advanced artificial-intelligence model to date. Unlike previous model updates, Gemini 3 is embedded into Google Search from day one and available across multiple platforms. With benchmark-beating performance in reasoning, multimodal understanding and agentic coding, Google is signalling a pivot from pure research to revenue-driving AI applications. Gemini 3 brings, why it matters, and what the implications are for users, developers and the broader AI ecosystem.",
@@ -125,38 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "d7c7d6e5b2fd962f38c9f664267ee8c1",
-        "title": "White House pauses executive order that would seek to preempt state laws on AI",
-        "description": "The White House has put on hold a draft executive order that would seek to preempt state laws on artificial intelligence through lawsuits and by withholding federal funds.",
-        "content": "The White House has put on hold a draft executive order that would seek to preempt state laws on artificial intelligence through lawsuits and by withholding federal funds, two sources said on Friday.\nThe draft order, which Reuters reported on earlier... [2767 chars]",
-        "url": "https://www.thehindu.com/sci-tech/technology/white-house-pauses-executive-order-that-would-seek-to-preempt-state-laws-on-ai/article70310349.ece",
-        "image": "https://th-i.thgim.com/public/incoming/thosu5/article70310420.ece/alternates/LANDSCAPE_1200/2025-11-21T110051Z_2119360766_RC28X4AIJESL_RTRMADP_3_USA-BONDS-AI.JPG",
-        "publishedAt": "2025-11-22T05:03:32Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "06f8f58208834d4408257824108c922a",
-        "title": "U.S. considering letting Nvidia sell H200 chips to China",
-        "description": "The Trump administration is considering greenlighting sales of Nvidia's H200 artificial intelligence chips to China, people familiar with the matter said.",
-        "content": "The Trump administration is considering greenlighting sales of Nvidia's H200 artificial intelligence chips to China, people familiar with the matter said, as a bilateral detente boosts prospects for exports of advanced U.S. technology to China.\nThe C... [659 chars]",
-        "url": "https://www.thehindu.com/sci-tech/technology/us-considering-letting-nvidia-sell-h200-chips-to-china/article70310347.ece",
-        "image": "https://th-i.thgim.com/public/incoming/o45ptf/article70310400.ece/alternates/LANDSCAPE_1200/2025-11-19T121759Z_705665479_RC2NZHAT250U_RTRMADP_3_TECH-CHIPS.JPG",
-        "publishedAt": "2025-11-22T04:52:04Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
-            "country": "in"
         }
     }
 ]
