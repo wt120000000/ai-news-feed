@@ -1,5 +1,37 @@
 [
     {
+        "id": "fdd3b29b9f20ba11f09ff012b3b823a4",
+        "title": "TikTok getting a filter for ‘AI Slop’ computer generated content",
+        "description": "With artificial intelligence in the headlines every day, it appears that TikTok has put in some guardrails for users to help engineer out and filter AI-generated work.",
+        "content": "CLEVELAND, Ohio – Artificial Intelligence (AI) seems to be in the news every day. News of TikTok’s recent update allowing users to control how much AI-generated content appears in their “For You” (FYP) feeds seems to be creating some buzz.\nThe platfo... [1697 chars]",
+        "url": "https://www.cleveland.com/news/2025/11/tiktok-getting-a-filter-for-ai-slop-computer-generated-content.html",
+        "image": "https://www.cleveland.com/resizer/v2/YSD2E3FVWNCHPL5TD3HPABXSJY.jpg?auth=5e6a588528a48ded8a631772f86b08fd25cf3c6c1cbec9401cbadeaa52a971db&width=1280&smart=true&quality=90",
+        "publishedAt": "2025-11-23T18:06:51Z",
+        "lang": "en",
+        "source": {
+            "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
+            "name": "cleveland.com",
+            "url": "https://www.cleveland.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ae71375488a370e4d95cedcea6798bbb",
+        "title": "AI tool to offer career guidance to students",
+        "description": "Chennai: The Tamil Nadu school education department is planning to develop an artificial intelligence-based app to provide career guidance for school .",
+        "content": "Chennai: The Tamil Nadu school education department is planning to develop an artificial intelligence-based app to provide career guidance for school students studying in Classes IX to XII. This app will recommend courses for students based on their ... [1226 chars]",
+        "url": "https://timesofindia.indiatimes.com/city/chennai/ai-tool-to-offer-career-guidance-to-students/articleshow/125523480.cms",
+        "image": "https://static.toiimg.com/thumb/msid-125523479,width-1070,height-580,imgsize-43788,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+        "publishedAt": "2025-11-23T17:56:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "4214e5437992bb4fe7ae650da660dba2",
         "title": "How AI Is Reshaping Eye Care: The Next Evolution in Clinical Efficiency",
         "description": "Artificial intelligence is transforming healthcare at a scale never seen before — and eye care is becoming one of the biggest winners. Optical and ophthalmic practices that once relied on manual workflows, repetitive documentation, and slow administrative processes now have access to advanced automation that accelerates everything they do. AI-driven platforms like iTRUST (https://www.itrust.io) are […]",
@@ -13,6 +45,22 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
+        }
+    },
+    {
+        "id": "a9c2667a686018ea98a9c5bf87ada54e",
+        "title": "Should Investors Buy the Dip in BigBear.ai Stock (BBAI)? Here’s What Wall Street Says",
+        "description": "BigBear.ai Holdings (BBAI) stock has plunged about 24% over the past month amid concerns about the steep valuations of artificial intelligence (...",
+        "content": "BigBear.ai Holdings (BBAI) stock has plunged about 24% over the past month amid concerns about the steep valuations of artificial intelligence (AI) stocks. On Thursday, the AI-powered intelligence solutions provider signed a memorandum of understandi... [2860 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/should-investors-buy-the-dip-in-bigbear-ai-stock-bbai-here-s-what-wall-street-says-1035587731",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/11/bbai.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2025-11-23T16:55:00Z",
+        "lang": "en",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Markets Insider",
+            "url": "https://markets.businessinsider.com",
+            "country": "us"
         }
     },
     {
@@ -109,54 +157,6 @@
             "name": "Newsmax",
             "url": "https://www.newsmax.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "1f59cbbfe3f67a7e5815f8cd6feb2326",
-        "title": "Whitehall delegates to AI bots like Humphrey",
-        "description": "The dream of artificial intelligence being a productivity ‘game changer’ is now in doubt",
-        "content": "A year ago, Sir Keir Starmer said artificial intelligence would be a “game changer” that would make public services work better and civil servants more productive. So far, the jury is out.\n“The amount of AI slop is ridiculous,” one user writes on a R... [4827 chars]",
-        "url": "https://www.telegraph.co.uk/business/2025/11/23/whitehall-left-drowning-in-work-slop-as-civil-servants-turn/",
-        "image": "https://www.telegraph.co.uk/content/dam/briefs/2025/11/21/TELEMMGLPICT000407950226_17637291514860_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=OG-Standard",
-        "publishedAt": "2025-11-23T15:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "bff0cd3b8c64dceaada8841bea814f65",
-            "name": "The Telegraph",
-            "url": "https://www.telegraph.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "c9c80df84ade9ebfbe07e18174a9010d",
-        "title": "This Controversial AI Feature Is Back With iOS 26",
-        "description": "One of the most controversial Artificial Intelligence features included in iOS is back in the latest revision, but Apple warns it may still not be perfect.",
-        "content": "Apple launched iOS 26 in September 2025, along with a slew of updates for the mobile operating system, while also quietly removing AI summaries. This feature originally launched with the iOS 18.1 update in October 2024, but Apple removed it for news ... [2247 chars]",
-        "url": "https://www.slashgear.com/2030380/this-controversial-ai-feature-back-with-ios-26/",
-        "image": "https://www.slashgear.com/img/gallery/this-controversial-ai-feature-is-back-with-ios-26/l-intro-1763164629.jpg",
-        "publishedAt": "2025-11-23T14:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ca35c66a2b26e8274365e937357cf9c5",
-            "name": "SlashGear",
-            "url": "https://www.slashgear.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "fb2435a998806baefa63ba5f01c85314",
-        "title": "‘Rich Dad’ R.Kiyosaki warns these 2 sectors to crash after AI wipes out jobs",
-        "description": "Bestselling author Robert Kiyosaki has issued a warning about the disruptive impact of artificial intelligence (AI) on the global economy.",
-        "content": "Bestselling author and financial educator Robert Kiyosaki has issued a warning about the disruptive impact of artificial intelligence (AI) on the global economy.\nAccording to Kiyosaki, AI-driven automation is poised to eliminate millions of jobs, tri... [2203 chars]",
-        "url": "https://finbold.com/rich-dad-r-kiyosaki-warns-these-2-sectors-to-crash-after-ai-wipes-out-jobs/",
-        "image": "https://assets.finbold.com/uploads/2025/11/‘Rich-Dad-R.Kiyosaki-warns-these-2-sectors-to-crash-after-AI-wipes-out-jobs.jpg",
-        "publishedAt": "2025-11-23T12:58:52Z",
-        "lang": "en",
-        "source": {
-            "id": "72ea416416ab0eec8fe687d6262961e8",
-            "name": "Finbold",
-            "url": "https://finbold.com",
-            "country": "bg"
         }
     }
 ]
