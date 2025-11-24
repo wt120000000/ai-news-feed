@@ -1,5 +1,37 @@
 [
     {
+        "id": "30ba9aff3d2c619be4841dfc502bf211",
+        "title": "YTL explores IPP, data centre and AI prospects in South Africa",
+        "description": "NAIROBI: Multinational conglomerate YTL Group has been exploring opportunities in the independent power producer (IPP) sector, data centres and artificial intelligence (AI), said YTL Power International Bhd executive director Yeoh Keong Hann.",
+        "content": "NAIROBI: Multinational conglomerate YTL Group has been exploring opportunities in the independent power producer (IPP) sector, data centres and artificial intelligence (AI), said YTL Power International Bhd executive director Yeoh Keong Hann.\n\"Hopefu... [2785 chars]",
+        "url": "https://www.thestar.com.my/business/business-news/2025/11/24/ytl-explores-ipp-data-centre-and-ai-prospects-in-south-africa",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/24/3636848.jpg",
+        "publishedAt": "2025-11-24T01:21:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "a28b6c0b17bcdbed0b5dd93271042d83",
+        "title": "AI momentum is real: But what’s in it for investors?",
+        "description": "Big money is flowing into artificial intelligence, but hidden risks may test investor conviction soon. Learn whether AI stocks are overvalued and how much exposure Indian mutual funds and global ETFs have to this theme.",
+        "content": "Synopsis\nBig money is flowing into artificial intelligence, but hidden risks may test investor conviction soon. Learn whether AI stocks are overvalued and how much exposure Indian mutual funds and global ETFs have to this theme.\nGlobal chip giant Nvi... [9633 chars]",
+        "url": "https://economictimes.indiatimes.com/wealth/invest/ai-momentum-is-real-but-whats-in-it-for-investors/articleshow/125499438.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-119412,resizemode-75,msid-125499438/wealth/invest/ai-momentum-is-real-but-whats-in-it-for-investors.jpg",
+        "publishedAt": "2025-11-24T01:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "ce0bc398799c8da3aa586cc9f8eaa89d",
         "title": "Taiwan brings AI, smart energy expertise to Manila",
         "description": "TAIWAN’S Overseas Community Affairs Council (OCAC) brought its artificial intelligence (AI) and smart energy expertise to Manila from Nov. 13 to 15 through its “Economic and Trade Forum Tour,” organized in partnership with the Taiwan Association Inc. Philippines (TAP). The program featured Vivian Huang, international cooperation strategy officer at Taiwan’s Institute for Information Industry — a leading force behind Taiwan’s digital transformation and smart-city innovation.",
@@ -125,38 +157,6 @@
             "name": "The Dallas Morning News",
             "url": "https://www.dallasnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "337dd526242ec68f1982cb6822892f4c",
-        "title": "Need global compact on AI to prevent its misuse: PM Modi at G20",
-        "description": "Addressing G20 leaders during a session on “A Fair and a Just Future for All - Critical Minerals; Decent Work; Artificial Intelligence”on the second day of the summit in Johannesburg, PM Modi also extended an invitation to all G20 countries to participate in the AI Impact summit to be held in India in February 2026.",
-        "content": "“Under the India-AI Mission, we are developing accessible high-performance computing so that the benefits of AI reach every district and every language. This will provide both scale and speed to our efforts toward human development,” the Prime Minist... [2519 chars]",
-        "url": "https://indianexpress.com/article/india/need-global-compact-on-ai-to-prevent-its-misuse-pm-modi-at-g20-10382394/",
-        "image": "https://images.indianexpress.com/2025/11/g2000_20251123223208.jpg",
-        "publishedAt": "2025-11-23T22:35:36Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "721b43c75d43d74dc0e423af24d2f291",
-        "title": "Australian workers finding it harder to change jobs, with concerns AI will cause further disruption",
-        "description": "Australians are finding it harder to change jobs. It comes at a time when artificial intelligence is poised to further disrupt the workforce.",
-        "content": "Hairdresser Lisa Seeger is feeling the impact of a tough jobs market.\n\"I'm a sole income, single parent, paying a mortgage on my own,\" Ms Seeger said.\nFalling job mobility is making it harder for many Australians to secure better-paying positions and... [4639 chars]",
-        "url": "https://www.abc.net.au/news/2025-11-24/australians-switching-jobs-as-ai-changes-workforce/106036106",
-        "image": "https://live-production.wcms.abc-cdn.net.au/6f5f19547fc45251706928e3d2d7b783?impolicy=wcms_watermark_news&cropH=3213&cropW=5712&xPos=0&yPos=459&width=862&height=485&imformat=generic",
-        "publishedAt": "2025-11-23T22:01:47Z",
-        "lang": "en",
-        "source": {
-            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-            "name": "ABC (Australian Broadcasting Corporation)",
-            "url": "https://www.abc.net.au",
-            "country": "au"
         }
     }
 ]
