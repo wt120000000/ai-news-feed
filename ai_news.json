@@ -1,5 +1,21 @@
 [
     {
+        "id": "db78dfc1528d7020db4a565b09b0c609",
+        "title": "Trump Administration Ponders Over Allowing Nvidia To Trade H200 AI Chips With China",
+        "description": "The Trump administration reportedly contemplating the possibility of permitting Nvidia to trade its H200 artificial intelligence chips with China.",
+        "content": "President Donald Trump’s administration is reportedly contemplating the possibility of permitting Nvidia Corp. (NASDAQ:NVDA) to trade its H200 artificial intelligence chips with China.\nWhat Happened: According to a report, the Trump administration’s ... [1684 chars]",
+        "url": "https://www.benzinga.com/news/politics/25/11/49022638/trump-administration-ponders-allowing-nvidia-to-trade-h200-ai-chips-with-china",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/11/23/Nvidia-Employees-See-Massive-Wealth.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-11-23T18:51:44Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "fdd3b29b9f20ba11f09ff012b3b823a4",
         "title": "TikTok getting a filter for ‘AI Slop’ computer generated content",
         "description": "With artificial intelligence in the headlines every day, it appears that TikTok has put in some guardrails for users to help engineer out and filter AI-generated work.",
@@ -140,22 +156,6 @@
             "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
             "name": "Norfolk Virginian-Pilot",
             "url": "https://www.pilotonline.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1fe75cb653a369df5391ee22f7f57720",
-        "title": "AI Clash Opens Rift Between Trump, MAGA Base",
-        "description": "A new battle is brewing within the conservative movement as President Donald Trump’s strong push for rapid artificial intelligence expansion is prompting warnings from some of his longtime allies, The Washington Post reported Sunday.",
-        "content": "A new battle is emerging inside the conservative movement as President Donald Trump's full-throttle support for the rapid expansion of artificial intelligence is drawing warnings from some of his own longtime allies, The Washington Post reported Sund... [2969 chars]",
-        "url": "https://www.newsmax.com/newsfront/donald-trump-ai-expansion/2025/11/23/id/1235716/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=6270855b-66c4-4bf8-886f-30b9b1226897&SiteName=Newsmax",
-        "publishedAt": "2025-11-23T15:24:45Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
             "country": "us"
         }
     }
