@@ -1,5 +1,21 @@
 [
     {
+        "id": "721b43c75d43d74dc0e423af24d2f291",
+        "title": "Australian workers finding it harder to change jobs, with concerns AI will cause further disruption",
+        "description": "Australians are finding it harder to change jobs. It comes at a time when artificial intelligence is poised to further disrupt the workforce.",
+        "content": "Hairdresser Lisa Seeger is feeling the impact of a tough jobs market.\n\"I'm a sole income, single parent, paying a mortgage on my own,\" Ms Seeger said.\nFalling job mobility is making it harder for many Australians to secure better-paying positions and... [4639 chars]",
+        "url": "https://www.abc.net.au/news/2025-11-24/australians-switching-jobs-as-ai-changes-workforce/106036106",
+        "image": "https://live-production.wcms.abc-cdn.net.au/6f5f19547fc45251706928e3d2d7b783?impolicy=wcms_watermark_news&cropH=3213&cropW=5712&xPos=0&yPos=459&width=862&height=485&imformat=generic",
+        "publishedAt": "2025-11-23T22:01:47Z",
+        "lang": "en",
+        "source": {
+            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+            "name": "ABC (Australian Broadcasting Corporation)",
+            "url": "https://www.abc.net.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "2f14af141c4f70a66525c108d8b4d1a3",
         "title": "Greek secondary school teachers to receive AI training",
         "description": "Greece is taking significant steps to integrate artificial intelligence into secondary education, announcing a pilot programme to train teachers in AI…",
@@ -141,22 +157,6 @@
             "name": "Markets Insider",
             "url": "https://markets.businessinsider.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "56a4b5c9930dc2b2fb834ee2fa0de764",
-        "title": "PM Modi wraps up South Africa visit after attending G20 Summit, IBSA leaders summit | WATCH",
-        "description": "During the third session at the G20 Summit on Sunday, PM Modi cautioned against the misuse of artificial intelligence (AI), emphasising that critical technologies should be human-centric.",
-        "content": "Johannesburg:\nPrime Minister Narendra Modi emplaned for Delhi on Sunday after concluding his three-day visit to South Africa's Johannesburg during which he attended the G20 Summit, addressed the India-Brazil-South Africa (IBSA) leaders summit and hel... [2650 chars]",
-        "url": "https://www.indiatvnews.com/news/world/pm-modi-wraps-up-south-africa-visit-after-attending-g20-summit-ibsa-leaders-summit-watch-2025-11-23-1018772",
-        "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/11/pm-modi-1763915574.jpg",
-        "publishedAt": "2025-11-23T16:35:09Z",
-        "lang": "en",
-        "source": {
-            "id": "143b993b193f72147f3de29ebcfbf505",
-            "name": "India TV News",
-            "url": "https://www.indiatvnews.com",
-            "country": "in"
         }
     }
 ]
