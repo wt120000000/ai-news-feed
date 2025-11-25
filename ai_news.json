@@ -1,5 +1,53 @@
 [
     {
+        "id": "150c55264ef8264cb09a9ce3da646beb",
+        "title": "Trump’s ‘Genesis Mission’: What does this mean for AI, scientific innovations",
+        "description": "US President Donald Trump has signed an executive order on Monday to launch a federal project, aiming to turbocharge American artificial intelligence, development, and scientific innovations. Named...",
+        "content": "US President Donald Trump has signed an executive order on Monday to launch a federal project, aiming to turbocharge American artificial intelligence, development, and scientific innovations.\nNamed as “Genesis Mission”, this project can bring a parad... [2071 chars]",
+        "url": "https://www.thenews.com.pk/latest/1382537-trumps-genesis-mission-what-does-this-mean-for-ai-scientific-innovations",
+        "image": "https://www.thenews.com.pk/assets/uploads/updates/2025-11-25/1382537_121305_updates.jpg",
+        "publishedAt": "2025-11-25T07:12:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "45363347fe3647647c4a2e8f0904d93d",
+        "title": "Amazon announces massive investment in AI infrastructure for US federal agencies",
+        "description": "On Monday Amazon unveiled an investment plan of up to $50bn to strengthen its artificial intelligence infrastructure serving the US government. Driven by Amazon Web Services , the program will begin...",
+        "content": "On Monday Amazon unveiled an investment plan of up to $50bn to strengthen its artificial intelligence infrastructure serving the US government. Driven by Amazon Web Services (AWS), the program will begin in 2026, with the construction of data centers... [1337 chars]",
+        "url": "https://www.marketscreener.com/news/amazon-announces-massive-investment-in-ai-infrastructure-for-us-federal-agencies-ce7d5eddda89fe2d",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-05-01T222900Z_1_LYNXMPEL4024S_RTROPTP_4_GERMANY-INDUSTRY-HANOVER.JPG",
+        "publishedAt": "2025-11-25T06:49:46Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "210f46d8b1ba0a5c12e1b0a20cfd717f",
+        "title": "What Is Genesis Mission? All You Need To Know About Trump's New AI Project",
+        "description": "US President Donald Trump signed an executive order on Monday, Nov. 24, creating the “Genesis Mission”. It is a Federal programme designed to accelerate innovation through artificial intelligence. The new executive order unveiling the Genesis Mission lays out a comprehensive plan to enhance computational capacity, broaden access to extensive federal datasets and advance impactful AI applications, especially within scientific research.",
+        "content": "US President Donald Trump signed an executive order on Monday, Nov. 24, creating the “Genesis Mission”. It is a Federal programme designed to accelerate innovation through artificial intelligence.\nThe new executive order unveiling the Genesis Mission... [2781 chars]",
+        "url": "https://www.ndtvprofit.com/technology/what-is-genesis-mission-all-you-need-to-know-about-trumps-new-ai-project",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-11-14%2Fqrowrsp0%2Fsec-ai.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-11-25T06:44:39Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "d9a6c16fa3690d3d98d68fdf6227c5c2",
         "title": "‘All thanks to Nalanda’-tracing ancient university's influence in today’s math & AI at Jindal Lit Fest",
         "description": "Poet-turned-historian Abhay K speaks of Nalanda’s role in shaping today’s education, architecture, and even artificial intelligence.",
@@ -109,54 +157,6 @@
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "86d7ede48bd6b196db300c30c3621dd5",
-        "title": "AI Solutions Provider Fractal Analytics, SaaS Firm Amagi Media Labs, & Cardiac Stent Maker Sahajanand Medical Receive SEBI Nod For IPOs",
-        "description": "Artificial intelligence solutions provider Fractal Analytics, SaaS firm Amagi Media Labs, and cardiac stent maker Sahajanand Medical Technologies received Sebi",
-        "content": "New Delhi: Artificial intelligence solutions provider Fractal Analytics, SaaS firm Amagi Media Labs, and cardiac stent maker Sahajanand Medical Technologies have received Sebi's clearance to launch their initial public offerings, an update with the m... [2787 chars]",
-        "url": "https://www.freepressjournal.in/business/ai-solutions-provider-fractal-analytics-saas-firm-amagi-media-labs-cardiac-stent-maker-sahajanand-medical-receive-sebi-nod-for-ipos",
-        "image": "https://media.assettype.com/freepressjournal/2025-11-25/jjqkcaie/Fractal-Amagi.jpg",
-        "publishedAt": "2025-11-25T02:46:23Z",
-        "lang": "en",
-        "source": {
-            "id": "7eeaf9a839918543cc708f2d331c3be4",
-            "name": "Free Press Journal",
-            "url": "https://www.freepressjournal.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "24c981ea842cd7d7e145758a809d4dbc",
-        "title": "New platform enables unbiased evaluation of AI algorithms for diabetic eye screening",
-        "description": "Researchers have developed the world's first real-world head-to-head testing platform to determine whether commercial artificial intelligence (AI) algorithms are fit for NHS use to detect disease in a fair, equitable, transparent and trustworthy way, using diabetic eye disease as the first example.",
-        "content": "Researchers have developed the world's first real-world head-to-head testing platform to determine whether commercial artificial intelligence (AI) algorithms are fit for NHS use to detect disease in a fair, equitable, transparent and trustworthy way,... [6815 chars]",
-        "url": "https://www.news-medical.net/news/20251124/New-platform-enables-unbiased-evaluation-of-AI-algorithms-for-diabetic-eye-screening.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
-        "publishedAt": "2025-11-25T02:25:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "7bd8ae2d0eb467adf67a32d839837061",
-        "title": "Keysight has best quarter in years with AI, 6G wireless push",
-        "description": "Santa Rosa-based Keysight Technologies' fiscal fourth-quarter earnings beat Wall Street estimates, driven by artificial intelligence and 6G wireless demand.",
-        "content": "Keysight Technologies (NYSE: KEYS) on Monday Nov. 24 said it capped its fiscal year with its best quarterly results since the business slowdown two years ago.\nThe Santa Rosa-based electronics test-and-measurement equipment and software company report... [3985 chars]",
-        "url": "https://www.pressdemocrat.com/2025/11/24/keysight-sonoma-q4-2025/",
-        "image": "https://www.pressdemocrat.com/wp-content/uploads/2025/08/D998160D-F5DF-4DD6-8EE7-94FBF75DB63F.jpg?w=1024&h=670",
-        "publishedAt": "2025-11-25T02:20:52Z",
-        "lang": "en",
-        "source": {
-            "id": "6f68e6d7cd20b33baacb487a0e911008",
-            "name": "Santa Rosa Press Democrat",
-            "url": "https://www.pressdemocrat.com",
-            "country": "us"
         }
     }
 ]
