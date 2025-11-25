@@ -1,5 +1,69 @@
 [
     {
+        "id": "2a7a44d8e885d999b2425d3329f880b9",
+        "title": "AI stock gains boost California revenue by $11 billion",
+        "description": "A surge in artificial intelligence stock prices has boosted California’s tax collections by about $11 billion, yet the state’s deficit is still on track to swell to about $18 billion next fiscal year, officials said.",
+        "content": "A surge in artificial intelligence stock prices has boosted California’s tax collections by about $11 billion, yet the state’s deficit is still on track to swell to about $18 billion next fiscal year, officials said.\nThe state’s Legislative Analyst’s... [4284 chars]",
+        "url": "https://www.latimes.com/business/story/2025-11-24/ai-stock-gains-boost-california-revenue-by-11-billion",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/fdd247b/2147483647/strip/true/crop/3803x1997+0+269/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe8%2Feb%2F9bcc748d4076b691e87694866eec%2Fopenai-95475.jpg",
+        "publishedAt": "2025-11-24T20:45:19Z",
+        "lang": "en",
+        "source": {
+            "id": "492abf277b7277432148b61b21ddc836",
+            "name": "Los Angeles Times",
+            "url": "https://www.latimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7873a90515fa8506408065d6a893d990",
+        "title": "Amazon to Invest $15 Billion in New Indiana Data-Center Campuses",
+        "description": "Amazon.com plans to invest $15 billion to build new data-center campuses in Northern Indiana, expanding infrastructure to support artificial intelligence and cloud computing.\nThe project will add...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/amazon-to-invest-15-billion-in-new-indiana-data-center-campuses-ce7d5eddd98df622",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2025-11-24T20:41:24Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "cedf2270ee38a136c2ce0a6c8122fa88",
+        "title": "North Dakota’s Grand Farm Earns Another $7 Million in State Funding",
+        "description": "North Dakota is investing $7 million into Grand Farm to promote research on robotics, artificial intelligence, and other technology for autonomous agriculture.",
+        "content": "By Jeff Beach\nNorth Dakota is investing $7 million into Grand Farm to promote research on robotics, artificial intelligence, and other technology for autonomous agriculture.\nGreg Tehven, chair of the Grand Farm board, said the top priority is buildin... [2377 chars]",
+        "url": "https://www.agriculture.com/partners-north-dakota-s-grand-farm-earns-another-usd7-million-in-state-funding-11856042",
+        "image": "https://www.agriculture.com/thmb/IVoFLtGkVOyJU4YNBWPw1R0AR7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/49035871198_32f490cc96_o-2dbf8dbc3ee749898c1ad90bb6214cb3.jpg",
+        "publishedAt": "2025-11-24T20:40:35Z",
+        "lang": "en",
+        "source": {
+            "id": "5e6bd4c944df27891bc90557bfcd116f",
+            "name": "Successful Farming",
+            "url": "https://www.agriculture.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2d8df020208d8491363acea86732ff9a",
+        "title": "Amazon to invest $15 billion in Indiana to boost data center infrastructure",
+        "description": "Amazon.com is planning to invest about $15 billion in Northern Indiana to build data center campuses, the tech giant said as it looks to boost its cloud computing capacity to support booming artificial intelligence demand.",
+        "content": "The new data center project, which comes on top of an $11 billion outlay announced last year, will add 2.4 gigawatts of capacity in the region, Amazon said on Monday. It is also expected to create 1,100 jobs.\nSign up here.\nThe e-commerce behemoth, wh... [829 chars]",
+        "url": "https://www.reuters.com/business/retail-consumer/amazon-invest-15-billion-indiana-boost-data-center-infrastructure-2025-11-24/",
+        "image": "https://www.reuters.com/resizer/v2/IG4KKMSMB5J6JFECFOTDA4KKXE.jpg?auth=25a566169993ee6f50597aa2e4391dd61485bc4d41bea15b1f9c54fc8ca55d03&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-11-24T20:33:19Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "2b846d07a5944473a4ab8a5c6236fc54",
         "title": "Trump weighing whether to allow Nvidia to sell advanced AI chips to China: Report",
         "description": "WASHINGTON: US President Donald Trump is considering whether to allow Nvidia to sell its advanced artificial intelligence chips to China, Commerce Secretary Howard Lutnick said in an interview publis",
@@ -87,70 +151,6 @@
         "url": "https://timesofindia.indiatimes.com/city/gurgaon/man-from-assam-held-for-circulating-ai-morphed-photos-of-gurgaon-woman-on-social-media/articleshow/125549673.cms",
         "image": "https://static.toiimg.com/thumb/msid-117516393,width-1070,height-580,imgsize-97786,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
         "publishedAt": "2025-11-24T19:54:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a2e1a24e05b9b401f91603f7d2017505",
-        "title": "Surgent CPE Launches First-of-Its-Kind Agentic AI CPE Series for Accounting and Finance Professionals",
-        "description": "New courses equip CPAs, accountants and tax practitioners with practical, real-world skills for integrating agentic artificial intelligence into daily workflows",
-        "content": "New courses equip CPAs, accountants and tax practitioners with practical, real-world skills for integrating agentic artificial intelligence into daily workflows\nRADNOR, Pa., Nov. 24, 2025 (GLOBE NEWSWIRE) -- Surgent CPE, a division of KnowFully Learn... [4475 chars]",
-        "url": "https://www.manilatimes.net/2025/11/25/tmt-newswire/globenewswire/surgent-cpe-launches-first-of-its-kind-agentic-ai-cpe-series-for-accounting-and-finance-professionals/2230715",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/25/841419.jpg",
-        "publishedAt": "2025-11-24T19:48:15Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "a8b94ab726f2654e12620907740d730e",
-        "title": "Investors Rally Behind Alphabet Stock as Mark Benioff Endorses Gemini 3",
-        "description": "Alphabet stock has been on a tear in recent weeks, following a strong earnings report, a new bet on the tech giant from Warren Buffett, and the release of its newest artificial intelligence model.",
-        "content": "Alphabet (GOOGL) stock has been on a tear. That run continued Monday.\nDrivers in recent session have included a strong earnings report, a new bet on the tech giant from Warren Buffett, and the release of the Google parent's newest artificial intellig... [905 chars]",
-        "url": "https://www.investopedia.com/investors-rally-behind-alphabet-stock-as-mark-benioff-endorses-gemini-3-googl-goog-11855574",
-        "image": "https://www.investopedia.com/thmb/rKV5EymToRkhxoSQUalSR2S7M5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2247406412-54b145d59aa34267ab3eeff53cd6af78.jpg",
-        "publishedAt": "2025-11-24T19:47:06Z",
-        "lang": "en",
-        "source": {
-            "id": "c24832368cd2d9132598ad4bef08e0ab",
-            "name": "Investopedia",
-            "url": "https://www.investopedia.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0b0b700f778bb6685b562c3fa8e8fd92",
-        "title": "India, Canada can deepen ties in AI, critical minerals, nuclear energy: Piyush Goyal",
-        "description": "Exciting developments are on the horizon as India and Canada prepare to elevate their trade and investment relationship. With talks on a free trade agreement rekindled, both nations recognize the untapped potential in sectors like critical minerals, nuclear energy, and artificial intelligence.",
-        "content": "Synopsis\nExciting developments are on the horizon as India and Canada prepare to elevate their trade and investment relationship. With talks on a free trade agreement rekindled, both nations recognize the untapped potential in sectors like critical m... [3763 chars]",
-        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-canada-can-deepen-ties-in-ai-critical-minerals-nuclear-energy-piyush-goyal/articleshow/125549495.cms",
-        "image": "https://img.etimg.com/thumb/msid-125549541,width-1200,height-630,imgsize-67388,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2025-11-24T19:43:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "35c4621b3dedeac09de1703027414420",
-        "title": "Eye on global partners, US tech firms set up in Goa",
-        "description": "Panaji: A US-based company specialising in artificial intelligence (AI) and a fintech firm from South Carolina started operations in Goa. The two tech.",
-        "content": "Panaji: A US-based company specialising in artificial intelligence (AI) and a fintech firm from South Carolina started operations in Goa. The two tech companies, McLaren Strategic Solutions and Omnumi, set up a base in Goa to cater to international b... [1410 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/goa/eye-on-global-partners-us-tech-firms-set-up-in-goa/articleshow/125548683.cms",
-        "image": "https://static.toiimg.com/thumb/msid-125548703,width-1070,height-580,imgsize-30058,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-        "publishedAt": "2025-11-24T19:05:00Z",
         "lang": "en",
         "source": {
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
