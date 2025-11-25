@@ -1,5 +1,37 @@
 [
     {
+        "id": "f8ea9bce4acdf9d210fc092267cdadac",
+        "title": "Amazon to spend $50 billion to expand AI services to US agencies",
+        "description": "Amazon.com Inc. says it will spend as much as $50 billion expanding its capacity to provide artificial intelligence and high-performance computing services to US government entities.",
+        "content": "AWS will offer agencies Amazon’s family of AI tools, one from close partner Anthropic and chips from both Nvidia Corp. and Amazon’s in-house chipmaking arm.\nBy Bloomberg\nAmazon.com Inc. says it will spend as much as $50 billion expanding its capacity... [1189 chars]",
+        "url": "https://www.cnbctv18.com/business/amazon-to-spend-50-billion-to-expand-ai-services-to-us-agencies-19771359.htm",
+        "image": "https://images.cnbctv18.com/uploads/2025/10/2025-10-20t081820z-1637449743-rc2j7hatv9us-rtrmadp-3-amazon-outages-aws-2025-10-75ccba3db8eef8a0b6d34416105807ad-scaled.jpg?im=FitAndFill,width=500,height=300",
+        "publishedAt": "2025-11-25T01:15:59Z",
+        "lang": "en",
+        "source": {
+            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+            "name": "CNBC TV18",
+            "url": "https://www.cnbctv18.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "f665af8b8dd7b8cc0a656cb7a13cb3bc",
+        "title": "Michael Burry Defends His Nvidia Criticism As Company Pushes Back",
+        "description": "Michael Burry is standing by his criticism of Nvidia Corp. even after a report said the leading artificial intelligence company pushed back on his analysis. Burry, who became famous for his bets against the housing market during the 2008 financial crisis, last week in a post on X called out the company for its stock-based compensation dilution and stock buybacks. Nvidia responded by sending a memo to Wall Street analysts over the weekend to address such claims, according to a Barron’s report.",
+        "content": "Michael Burry is standing by his criticism of Nvidia Corp. even after a report said the leading artificial intelligence company pushed back on his analysis.\nBurry, who became famous for his bets against the housing market during the 2008 financial cr... [2248 chars]",
+        "url": "https://www.ndtvprofit.com/technology/michael-burry-defends-his-nvidia-criticism-as-company-pushes-back",
+        "image": "https://media.assettype.com/bloombergquint%2F2025-06-04%2Fi97fk78e%2FGhSPrfXWUAEeJAk.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-11-25T01:11:56Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "f9f43d8e4c99d5af5dd3b2ccaac7e2b6",
         "title": "China’s AI Promise Lures Top Asia Fund Away From Korea, Taiwan",
         "description": "A top-performing Asian money manager is boosting exposure to artificial-intelligence stocks in China while retreating from those in South Korea and Taiwan, citing relatively better valuations and outlook.",
@@ -125,38 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "daa2c402155216abea9f5364057b5e6d",
-        "title": "New platform tests AI fairness and accuracy in diabetic eye disease screening",
-        "description": "Researchers have developed the world's first real-world head-to-head testing platform to determine whether commercial artificial intelligence (AI) algorithms are fit for NHS use to detect disease in a fair, equitable, transparent and trustworthy way, using diabetic eye disease as the first example.",
-        "content": "Researchers have developed the world's first real-world head-to-head testing platform to determine whether commercial artificial intelligence (AI) algorithms are fit for NHS use to detect disease in a fair, equitable, transparent and trustworthy way,... [6797 chars]",
-        "url": "https://medicalxpress.com/news/2025-11-platform-ai-fairness-accuracy-diabetic.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2019/4-eye.jpg",
-        "publishedAt": "2025-11-24T23:30:04Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "fc6704183dc65b9e294161ca2d3f3927",
-        "title": "Zoom lifts annual outlook on growing demand for AI tools in hybrid work",
-        "description": "Zoom Communications raised its annual revenue and profit forecasts on Monday, benefiting from hybrid work trends and the integration of artificial intelligence into its products.\nShares...",
-        "content": "(Reuters) -Zoom Communications raised its annual revenue and profit forecasts on Monday, benefiting from hybrid work trends and the integration of artificial intelligence into its products.\nShares of the company rose 3.5% in extended trading.\nZoom ha... [1767 chars]",
-        "url": "https://www.marketscreener.com/news/zoom-lifts-annual-outlook-on-growing-demand-for-ai-tools-in-hybrid-work-ce7d5eddd88bf220",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-16T201531Z_1_LYNXMPEL3F0YU_RTROPTP_4_IPO-ZOOM.JPG",
-        "publishedAt": "2025-11-24T23:23:14Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
