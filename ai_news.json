@@ -1,5 +1,37 @@
 [
     {
+        "id": "9caa7bec5dc5479736292dca24864f8d",
+        "title": "Singapore firm’s AI teddy bear back on sale after shock sex talk",
+        "description": "FoloToy had pulled its ChatGPT-assisted Teddy Kumma – along with the rest of its artificial intelligence-enabled plushies – from its website after criticism.",
+        "content": "Jakarta | An artificial-intelligence-enabled teddy bear sold by a Singapore-based company is back on the shelves after researchers discovered it chats unprompted about sexual fetishes and other unsuitable topics.\nFoloToy this month pulled Teddy Kumma... [265 chars]",
+        "url": "https://www.afr.com/world/asia/singapore-firm-s-ai-teddy-bear-back-on-sale-after-shock-sex-talk-20251127-p5nitc",
+        "image": "https://static.ffx.io/images/$zoom_0.961%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_166/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/988d7391a0261d096c83c2ca3b5719ff4238035c",
+        "publishedAt": "2025-11-26T21:21:41Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "20aa323cdb170c149384008cd8128345",
+        "title": "AI Opens Faster Path to Trump Shipbuilding Goal, HD Hyundai Says",
+        "description": "South Korean conglomerate HD Hyundai sees an opportunity to accelerate America’s shipbuilding revival by deploying artificial intelligence.",
+        "content": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world\nConnecting decision makers to a dynamic network of infor... [605 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-26/ai-opens-faster-path-to-trump-shipbuilding-goal-hd-hyundai-says",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if0ZgFXxRC_s/v1/1200x800.jpg",
+        "publishedAt": "2025-11-26T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "3f33e7a067b5e8037e32d0213baa729b",
         "title": "Tech Firms From Dell to HP Warn of Memory Chip Squeeze From AI",
         "description": "Dell Technologies Inc., HP Inc. and other tech companies are warning of potential memory-chip supply shortages in the coming year due to soaring demand from the buildout of artificial intelligence infrastructure.",
@@ -125,38 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "3e0f1a45e535b401c511334dabb7a771",
-        "title": "How Elon Musk’s xAI Plans to Power Its Colossus Data Center",
-        "description": "Elon Musk’s artificial intelligence company, xAI (PC:XAIIQ), recently told officials in Memphis that it plans to build a solar farm next to its ...",
-        "content": "Elon Musk’s artificial intelligence company, xAI (PC:XAIIQ), recently told officials in Memphis that it plans to build a solar farm next to its Colossus data center. The solar farm would take up 88 acres of land to the west and south of the data cent... [2270 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/how-elon-musk-s-xai-plans-to-power-its-colossus-data-center-1035598881",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2025/11/image-2917-1024x768.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2025-11-26T19:14:30Z",
-        "lang": "en",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Markets Insider",
-            "url": "https://markets.businessinsider.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "20f80c89503833abe1d160c0afa91ba0",
-        "title": "Amazon Workers Issue Warning About Company’s ‘All-Costs-Justified’ Approach to AI Development",
-        "description": "Amazon Employees for Climate Justice says that over 1,000 workers have signed a petition raising “serious concerns” about the company’s “aggressive rollout” of artificial intelligence tools.",
-        "content": "The Trump Administration’s Data Center Push Could Open the Door for New Forever Chemicals\nThe EPA is prioritizing review of new chemicals to be used in data centers. Experts say this could lead to the fast approval of new types of forever chemicals—w... [1739 chars]",
-        "url": "https://www.wired.com/story/amazon-employees-open-letter-artificial-intelligence-layoffs/",
-        "image": "https://media.wired.com/photos/692633a52a28299e7369f58a/191:100/w_1280,c_limit/Amazon-Employees-Sign-Letter-Objecting-to-Company-Use-of-AI-Business-2243392135.jpg",
-        "publishedAt": "2025-11-26T19:04:54Z",
-        "lang": "en",
-        "source": {
-            "id": "b683218c3952d77a76b7bda7512f2f6e",
-            "name": "WIRED",
-            "url": "https://www.wired.com",
-            "country": "us"
         }
     }
 ]
