@@ -1,5 +1,69 @@
 [
     {
+        "id": "a7ad45016a63c7f4b718ffed0fd7a3b8",
+        "title": "Reliance JV to invest $11 billion in AI centre in Andhra Pradesh",
+        "description": "A joint venture between India's Reliance Industries and Canadian and U.S. companies will invest $11 billion to develop an artificial intelligence data centre",
+        "content": "A joint venture between India's Reliance Industries and Canadian and US companies will invest $11 billion to develop an artificial intelligence data centre in southeastern India, the state government said on Wednesday.\nThe five-year investment is for... [1570 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/reliance-jv-to-invest-11-billion-in-ai-centre-in-andhra-pradesh/article70328697.ece",
+        "image": "https://th-i.thgim.com/public/incoming/4lnkel/article70328699.ece/alternates/LANDSCAPE_1200/2025-10-24T110353Z_1908887640_RC22F9AISLD3_RTRMADP_3_CHINA-BATTERY-EXPORTS.JPG",
+        "publishedAt": "2025-11-27T04:09:03Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "bbb7204dc3d4eea37f869e2b9e8f578c",
+        "title": "SoftBank Group Shares Rise as Fears About Potential AI Bubble Ease",
+        "description": "By Kosaku Narioka\nSoftBank Group shares rose, extending gains from the previous session, as market fears about a potential bubble in artificial-intelligence stocks have receded for now.\n...",
+        "content": "By Kosaku Narioka\nSoftBank Group shares rose, extending gains from the previous session, as market fears about a potential bubble in artificial-intelligence stocks have receded for now.\nShares were recently up 3.9% at 16,895 yen, equivalent to $107.9... [1762 chars]",
+        "url": "https://www.marketscreener.com/news/softbank-group-shares-rise-as-fears-about-potential-ai-bubble-ease-ce7d5ed3dc8bf520",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2025-11-27T04:01:13Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "37f96c885675c35da2c33913010693b5",
+        "title": "'Ruthless' state plan to capitalise on AI revolution",
+        "description": "A state has hatched an plan to reap the economic benefits of the looming boom in artificial intelligence.",
+        "content": "Millions will be poured into a state plan, billed as the first of its kind in Australia, to capture a bigger slice of the artificial intelligence pie.\nVictorian Premier Jacinta Allan used the state of the state address on Thursday to announce her gov... [2058 chars]",
+        "url": "https://www.perthnow.com.au/news/politics/ruthless-state-plan-to-capitalise-on-ai-revolution-c-20812385",
+        "image": "https://images.perthnow.com.au/publication/C-20812385/60a03232e3d9d30f7343fe850376a09d300ccb44-16x9-x0y0w1280h720.jpg?imwidth=1200",
+        "publishedAt": "2025-11-27T03:59:26Z",
+        "lang": "en",
+        "source": {
+            "id": "7f6e8514e9d8f8376aaa9a7229861518",
+            "name": "PerthNow",
+            "url": "https://www.perthnow.com.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "223e643c6ec4e34d69762637f639303f",
+        "title": "'Ruthless' state plan to capitalise on AI revolution",
+        "description": "A state has hatched an plan to reap the economic benefits of the looming boom in artificial intelligence.",
+        "content": "Premier Jacinta Allan wants Victoria to be a national leader in data centre investment. Photo: Joel Carrett/AAP PHOTOS\nMillions will be poured into a state plan, billed as the first of its kind in Australia, to capture a bigger slice of the artificia... [4287 chars]",
+        "url": "https://www.canberratimes.com.au/story/9121580/ruthless-state-plan-to-capitalise-on-ai-revolution/",
+        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/883921ab-17c5-4a25-82c4-41a40835b52e.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+        "publishedAt": "2025-11-27T03:57:20Z",
+        "lang": "en",
+        "source": {
+            "id": "92021aca7322dc2b29226023c35d9a4a",
+            "name": "The Canberra Times",
+            "url": "https://www.canberratimes.com.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "6366d17ccf3470287287e663230d9296",
         "title": "Taiwan, Florida cities deploy AI to address rising urbanization challenges",
         "description": "TAIPEI, TAIWAN - Media-OutReach Newswire - 18 November 2025 - In Taoyuan's traffic control center, dozens of monitors display green lights cascading through city streets. When an ambulance races toward a hospital, artificial intelligence clears its path in seconds, turning life-threatening traffic jams into seamless journeys.",
@@ -92,70 +156,6 @@
             "id": "5ac5f32ba74846cef441099f666f2d98",
             "name": "Fast Company",
             "url": "https://www.fastcompany.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0fcf9ab5ed4babc995b786db94c0df8d",
-        "title": "Why AIOps must evolve into multi agent ecosystems",
-        "description": "GUEST OPINION: Traditional artificial intelligence (AI) for IT operations (AIOps) platforms were built on the premise of centralised intelligence, whe...",
-        "content": "The sheer scale and complexity outpace what a single system or agent can manage effectively as enterprises increasingly operate across multiple cloud environments, containers, edge deployments, and microservices.\nThe future now is to distribute intel... [4041 chars]",
-        "url": "https://itwire.com/guest-articles/guest-opinion/why-aiops-must-evolve-into-multi-agent-ecosystems.html",
-        "image": "https://itwire.com/media/k2/items/cache/3dd81ce45bf01cb5099b008ecad9d5bd_XS.jpg",
-        "publishedAt": "2025-11-27T00:47:55Z",
-        "lang": "en",
-        "source": {
-            "id": "10cbfb3760cfcdeb78c733c527f0e814",
-            "name": "iTWire",
-            "url": "https://itwire.com",
-            "country": "au"
-        }
-    },
-    {
-        "id": "690582df486247726cdefe1c76af7420",
-        "title": "Burst in AI bubble could blow £26bn hole in Rachel Reeve's hopes of balancing the books",
-        "description": "It was the first time the Office for Budget Responsibility has outlined how public finances could be affected if the rally in tech stocks sparked by the boom in artificial intelligence crashes.",
-        "content": "A burst in the AI 'bubble' on the stock market could deliver a £26billion borrowing shock and hobble the Chancellor's hopes of balancing the books, experts warned on Wednesday.\nIt was the first time the Office for Budget Responsibility has outlined h... [2284 chars]",
-        "url": "https://www.dailymail.co.uk/news/article-15330211/Burst-AI-bubble-26bn-hole-Rachel-Reeves-balancing-books.html",
-        "image": "https://i.dailymail.co.uk/1s/2025/11/27/00/104225543-0-image-a-44_1764202617101.jpg",
-        "publishedAt": "2025-11-27T00:19:04Z",
-        "lang": "en",
-        "source": {
-            "id": "0c9364fff53c0e5a3450947d9a54e795",
-            "name": "Daily Mail Online",
-            "url": "https://www.dailymail.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "6740f3dbeed6e73f10765da38a1cf2fc",
-        "title": "Osaka Gas Targets US Power Plants to Meet AI and Data Center Demand",
-        "description": "Osaka Gas plans to invest in more American gas-fired power plants to meet the rising electricity needs of the United States' booming artificial intelligence and data center sectors, Bloomberg News...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/osaka-gas-targets-us-power-plants-to-meet-ai-and-data-center-demand-ce7d5ed3dd8df320",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2025-11-27T00:11:47Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "a2be3a10972b94d39520ddfb900f68ee",
-        "title": "Artificial Intelligence of Things (AIoT) Market Trends &",
-        "description": "As AIoT evolves, solutions emphasize adaptability, security, and cost-efficiency to support global digital transformation initiatives...",
-        "content": "Dublin, Nov. 27, 2025 (GLOBE NEWSWIRE) -- The \"Artificial Intelligence of Things (AIoT) Market - A Global and Regional Analysis: Focus on Components, Technology, Application, Vertical, and Regional Analysis - Analysis and Forecast, 2025-2034\" has bee... [6670 chars]",
-        "url": "https://www.globenewswire.com/news-release/2025/11/27/3195755/28124/en/Artificial-Intelligence-of-Things-AIoT-Market-Trends-Investment-Opportunities-2025-2034-Featuring-Strategic-Analysis-of-Google-IBM-Microsoft-Oracle-AWS-and-More.html",
-        "image": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-        "publishedAt": "2025-11-27T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "8e9ab8327c5f7903cc1b50470411d165",
-            "name": "GlobeNewswire",
-            "url": "https://www.globenewswire.com",
             "country": "us"
         }
     }
