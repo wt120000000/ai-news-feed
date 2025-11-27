@@ -1,5 +1,85 @@
 [
     {
+        "id": "0fcf9ab5ed4babc995b786db94c0df8d",
+        "title": "Why AIOps must evolve into multi agent ecosystems",
+        "description": "GUEST OPINION: Traditional artificial intelligence (AI) for IT operations (AIOps) platforms were built on the premise of centralised intelligence, whe...",
+        "content": "The sheer scale and complexity outpace what a single system or agent can manage effectively as enterprises increasingly operate across multiple cloud environments, containers, edge deployments, and microservices.\nThe future now is to distribute intel... [4041 chars]",
+        "url": "https://itwire.com/guest-articles/guest-opinion/why-aiops-must-evolve-into-multi-agent-ecosystems.html",
+        "image": "https://itwire.com/media/k2/items/cache/3dd81ce45bf01cb5099b008ecad9d5bd_XS.jpg",
+        "publishedAt": "2025-11-27T00:47:55Z",
+        "lang": "en",
+        "source": {
+            "id": "10cbfb3760cfcdeb78c733c527f0e814",
+            "name": "iTWire",
+            "url": "https://itwire.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "690582df486247726cdefe1c76af7420",
+        "title": "Burst in AI bubble could blow £26bn hole in Rachel Reeve's hopes of balancing the books",
+        "description": "It was the first time the Office for Budget Responsibility has outlined how public finances could be affected if the rally in tech stocks sparked by the boom in artificial intelligence crashes.",
+        "content": "A burst in the AI 'bubble' on the stock market could deliver a £26billion borrowing shock and hobble the Chancellor's hopes of balancing the books, experts warned on Wednesday.\nIt was the first time the Office for Budget Responsibility has outlined h... [2284 chars]",
+        "url": "https://www.dailymail.co.uk/news/article-15330211/Burst-AI-bubble-26bn-hole-Rachel-Reeves-balancing-books.html",
+        "image": "https://i.dailymail.co.uk/1s/2025/11/27/00/104225543-0-image-a-44_1764202617101.jpg",
+        "publishedAt": "2025-11-27T00:19:04Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "6740f3dbeed6e73f10765da38a1cf2fc",
+        "title": "Osaka Gas Targets US Power Plants to Meet AI and Data Center Demand",
+        "description": "Osaka Gas plans to invest in more American gas-fired power plants to meet the rising electricity needs of the United States' booming artificial intelligence and data center sectors, Bloomberg News...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/osaka-gas-targets-us-power-plants-to-meet-ai-and-data-center-demand-ce7d5ed3dd8df320",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2025-11-27T00:11:47Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "fabfd8c1091a3260aac5d6c1c6bd37af",
+        "title": "Former Lawmakers Launch PACs to Push AI Safeguards",
+        "description": "Aimed at supporting candidates who favor stronger oversight of artificial intelligence, two former members of Congress have announced the creation of two super PACs.",
+        "content": "Two former members of Congress have announced the creation of two super PACs aimed at supporting candidates who favor stronger oversight of artificial intelligence.\nFormer Rep. Chris Stewart, R-Utah, and former Rep. Brad Carson, D-Okla., plan to form... [1797 chars]",
+        "url": "https://www.newsmax.com/us/ai-chris-stewart-brad-carson/2025/11/26/id/1236199/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=3af559b8-f99c-4db0-b3a6-6271aa316ace&SiteName=Newsmax",
+        "publishedAt": "2025-11-26T23:57:26Z",
+        "lang": "en",
+        "source": {
+            "id": "a8984f03fe66dae9745793f6560aa444",
+            "name": "Newsmax",
+            "url": "https://www.newsmax.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "63f2fb607217c7a346fa75d99ce97a41",
+        "title": "Tech firms from Dell to HP warn of memory chip squeeze from AI",
+        "description": "Dell Technologies Inc., HP Inc. and other tech companies are warning of potential memory-chip supply shortages in the coming year due to soaring demand from the buildout of artificial intelligence infrastructure.",
+        "content": "(Bloomberg/Debby Wu, Dina Bass and Yoolim Lee) — Dell Technologies Inc., HP Inc. and other tech companies are warning of potential memory-chip supply shortages in the coming year due to soaring demand from the buildout of artificial intelligence infr... [5531 chars]",
+        "url": "https://www.mercurynews.com/2025/11/26/tech-firms-from-dell-to-hp-warn-of-memory-chip-squeeze-from-ai/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2016/08/20120222__ssjm0222hp1.jpg?w=400&h=293",
+        "publishedAt": "2025-11-26T23:38:15Z",
+        "lang": "en",
+        "source": {
+            "id": "17d7c2645f485578130862e0c8dd9480",
+            "name": "The Mercury News",
+            "url": "https://www.mercurynews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "5ea14ddca588458ca60124bb8eb35eb1",
         "title": "AI Most Likely to Be Named TIME's 2025 Person of the Year at 36% Odds, Beating Trump and Pope Leo",
         "description": "Artificial intelligence leads the race for TIME's 2025 Person of the Year with a 36% chance, ahead of NVIDIA's Jensen Huang, Pope Leo XIV, and Donald Trump.",
@@ -77,86 +157,6 @@
             "name": "Baltimore News",
             "url": "https://foxbaltimore.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "dce20a7cc93d5a2a25944aa4c7a2f444",
-        "title": "Mexico unveils plans to build supercomputer it claims will be Latin America's most powerful",
-        "description": "MEXICO CITY,  Nov 26: Mexico unveiled plans Wednesday to build what it claims will be Latin America’s most powerful supercomputer — a project the government says will help the country capitalise on the rapidly evolving uses of artificial intelligence and exponentially expand the country’s computing capacity. Dubbed “Coatlicue” for the Mexica goddess considered the earth mother, the supercomputer would be seven times more powerful than the region’s current leader in Brazil, Jose Merino, head of the Telecommunications and Digital Transformation […]",
-        "content": "MEXICO CITY, Nov 26: Mexico unveiled plans Wednesday to build what it claims will be Latin America’s most powerful supercomputer — a project the government says will help the country capitalise on the rapidly evolving uses of artificial intelligence ... [928 chars]",
-        "url": "https://www.dailyexcelsior.com/mexico-unveils-plans-to-build-supercomputer-it-claims-will-be-latin-americas-most-powerful/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2025/11/latina.jpg",
-        "publishedAt": "2025-11-26T22:30:16Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "0dfa71df155f7c5f095d71981b442bf5",
-        "title": "AI is transforming crime, too",
-        "description": "By the midpoint of 2025, the U.S. was on track to set a new yearly record in the number of reported data breaches.That’s according to data compiled by the Identity Theft Resource Center.One reason is the proliferation of artificial intelligence, which has made the work of criminal hackers easier, cheaper and scalable.What does that mean for the rest of us?Cooper Katz McKim dove deep into the world of AI-supercharged crime for NPR’s daily economics podcast The Indicator, and introduces us to what he’s found.Listen to the Indicator’s Vice WeekFighting AI with AIWhat’s supercharging data breaches? When cartels start to diversifyHow AI might mess with financial marketsScam compounds, sewing patterns and stolen dimesFor sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Connor Donevan. It was edited by Kate Concannon and Patrick Jarenwattananon. It features additional reporting by Darien Woods. Our executive producer is Sami Yenigun.",
-        "content": "By the midpoint of 2025, the U.S. was on track to set a new yearly record in the number of reported data breaches.\nThat’s according to data compiled by the Identity Theft Resource Center.\nOne reason is the proliferation of artificial intelligence, wh... [820 chars]",
-        "url": "https://www.npr.org/2025/11/26/nx-s1-5619270/ai-is-transforming-crime-too",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2Fca%2Fa61a5a1443ddaa76f52a2d31f0c4%2F617fce45-3941-4545-8042-276c0752895a.jpg",
-        "publishedAt": "2025-11-26T22:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "b41851fb2662ea502db29f71ec4d1583",
-            "name": "NPR",
-            "url": "https://www.npr.org",
-            "country": "us"
-        }
-    },
-    {
-        "id": "70be105a5c9a0481ca653b7336b345c6",
-        "title": "Tech funds double down on AI shares even as bubble fears erupt",
-        "description": "As stocks were dumped this month on worries about excessive valuations, Australia’s top technology investors topped up their artificial intelligence holdings.",
-        "content": "Australia’s largest technology investors are brushing off concerns about a bubble forming in artificial intelligence stocks, with some fund managers using this month’s pullback to increase their exposure to the sector.\nThe tech-heavy Nasdaq tumbled i... [258 chars]",
-        "url": "https://www.afr.com/markets/equity-markets/tech-funds-double-down-on-ai-shares-even-as-bubble-fears-erupt-20251126-p5nijy",
-        "image": "https://static.ffx.io/images/$zoom_0.378%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_685%2C$y_135/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/d168a1cd1b6e3a3c21cb59d88919d1d0fbc34446",
-        "publishedAt": "2025-11-26T22:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "Australian Financial Review",
-            "url": "https://www.afr.com",
-            "country": "au"
-        }
-    },
-    {
-        "id": "279e0af26f92aed7c8032b066a5f899d",
-        "title": "Morgan Stanley Warns Oracle Credit Protection Nearing Record High",
-        "description": "A gauge of risk on Oracle Corp.’s debt reached a three-year high in November, and things are only going to get worse in 2026 unless the database giant is able to assuage investor anxiety about a massive artificial intelligence spending spree, according to Morgan Stanley.",
-        "content": "A gauge of risk on Oracle Corp.’s debt reached a three-year high in November, and things are only going to get worse in 2026 unless the database giant is able to assuage investor anxiety about a massive artificial intelligence spending spree, accordi... [374 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-11-26/morgan-stanley-warns-oracle-credit-protection-nearing-record-high",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.EC1qFfoecs/v0/1200x800.jpg",
-        "publishedAt": "2025-11-26T21:52:23Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9caa7bec5dc5479736292dca24864f8d",
-        "title": "Singapore firm’s AI teddy bear back on sale after shock sex talk",
-        "description": "FoloToy had pulled its ChatGPT-assisted Teddy Kumma – along with the rest of its artificial intelligence-enabled plushies – from its website after criticism.",
-        "content": "Jakarta | An artificial-intelligence-enabled teddy bear sold by a Singapore-based company is back on the shelves after researchers discovered it chats unprompted about sexual fetishes and other unsuitable topics.\nFoloToy this month pulled Teddy Kumma... [265 chars]",
-        "url": "https://www.afr.com/world/asia/singapore-firm-s-ai-teddy-bear-back-on-sale-after-shock-sex-talk-20251127-p5nitc",
-        "image": "https://static.ffx.io/images/$zoom_0.961%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_166/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/988d7391a0261d096c83c2ca3b5719ff4238035c",
-        "publishedAt": "2025-11-26T21:21:41Z",
-        "lang": "en",
-        "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "Australian Financial Review",
-            "url": "https://www.afr.com",
-            "country": "au"
         }
     }
 ]
