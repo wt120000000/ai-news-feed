@@ -1,5 +1,21 @@
 [
     {
+        "id": "93fe2db156d66c18a9ecbe993cd98579",
+        "title": "Taiwan, Florida cities deploy AI to address rising urbanization challenges",
+        "description": "TAIPEI, TAIWAN - Media-OutReach Newswire - 18 November 2025 - In Taoyuan's traffic control center, dozens of monitors display green lights cascading through city streets. When an ambulance races toward a hospital, artificial intelligence clears its path in seconds, turning life-threatening traffic jams into seamless journeys.",
+        "content": "TAIPEI, TAIWAN - Media-OutReach Newswire - 18 November 2025 - In Taoyuan's traffic control center, dozens of monitors display green lights cascading through city streets. When an ambulance races toward a hospital, artificial intelligence clears its p... [2382 chars]",
+        "url": "https://www.manilatimes.net/2025/11/28/tmt-newswire/media-outreach-newswire/taiwan-florida-cities-deploy-ai-to-address-rising-urbanization-challenges/2232963",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/28/846158.jpg",
+        "publishedAt": "2025-11-27T22:17:53Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "217aac67281a337e62b3928c123e41cf",
         "title": "MIT Study: AI Could Replace 11.7% of U.S. Jobs and Put $1.2 Trillion in Wages at Risk",
         "description": "Artificial intelligence has long been framed as a future disruption. A new study from the Massachusetts Institute of Technology (MIT) argues the future is already here. According to MIT, existing AI systems are capable of replacing or directly impacting 11.7% of the U.S. labor market, putting as much as $1.2 trillion in wages at risk",
@@ -141,22 +157,6 @@
             "name": "The Boston Globe",
             "url": "https://www.bostonglobe.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "fa231023e1a97d3ef6250c1de383be47",
-        "title": "AI An 'Add-On': Anil Agarwal Calls Artificial Intelligence A Supplement To Human DNA",
-        "description": "Vedanta Group Chairman Anil Agarwal views Artificial Intelligence not as a threat to human roles, but as a powerful supplemental tool, or an \"add on,\" to Human Intelligence. In his recent post on X, the industrialist emphasised that the key to unlocking maximum efficiency and the \"best outcome\" is to treat AI as a collaborative partner, instructing users to actively combine AI's speed with their own critical \"DNA.\"",
-        "content": "Vedanta Group Chairperson Anil Agarwal views artificial intelligence not as a threat to human roles, but as a powerful supplemental tool, or an \"add on\" to human intelligence.\nIn his recent post on X, the industrialist emphasised that the key to unlo... [1713 chars]",
-        "url": "https://www.ndtvprofit.com/technology/ai-an-add-on-anil-agarwal-calls-artificial-intelligence-a-supplement-to-human-dna",
-        "image": "https://media.assettype.com/bloombergquint%2F2025-11-27%2Frm5n0upr%2Figor-omilaev-gVQLAbGVB6Q-unsplash.jpg?rect=0%2C195%2C7680%2C4032&w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-11-27T18:12:59Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
         }
     }
 ]
