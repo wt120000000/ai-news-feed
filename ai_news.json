@@ -1,5 +1,53 @@
 [
     {
+        "id": "5ca4d279f73bc00419ce446566b8f983",
+        "title": "Morgan Stanley warns Oracle credit protection nearing record high",
+        "description": "A gauge of risk on Oracle Corp.’s debt reached a three-year high in November, and things are only going to get worse in 2026 unless the database giant is able to assuage investor anxiety about a massive artificial intelligence spending spree, according to Morgan Stanley.",
+        "content": "A gauge of risk on Oracle Corp.’s debt reached a three-year high in November, and things are only going to get worse in 2026 unless the database giant is able to assuage investor anxiety about a massive artificial intelligence spending spree, accordi... [3750 chars]",
+        "url": "https://www.latimes.com/business/story/2025-11-27/morgan-stanley-warns-oracle-credit-protection-nearing-record-high",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/8293d9a/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9a%2F7e%2F3d4a7ad64a98d1cae7de27f0f722%2F1x-1.jpg",
+        "publishedAt": "2025-11-27T20:12:51Z",
+        "lang": "en",
+        "source": {
+            "id": "492abf277b7277432148b61b21ddc836",
+            "name": "Los Angeles Times",
+            "url": "https://www.latimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "1ecd45966362360f6452036f66c114c9",
+        "title": "BI DeFi Launches New AI and Web3 Mobile App, Allowing Anyone to Earn BTC and XRP.",
+        "description": "Ahead of Thanksgiving in the US, amidst the trend of deep integration between AI and Web3, several industry experts pointed out at recent forums that with the continuous breakthroughs in artificial intelligence (AI) technology and the increasing maturity of the blockchain (Web3) ecosystem",
+        "content": "Ahead of Thanksgiving in the US, amidst the trend of deep integration between AI and Web3, several industry experts pointed out at recent forums that with the continuous breakthroughs in artificial intelligence (AI) technology and the increasing matu... [5702 chars]",
+        "url": "https://www.manilatimes.net/2025/11/28/tmt-newswire/globenewswire/bi-defi-launches-new-ai-and-web3-mobile-app-allowing-anyone-to-earn-btc-and-xrp/2232944",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/28/846134.png",
+        "publishedAt": "2025-11-27T20:09:43Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "171a1f08b36378cdfea16f1ca27436a3",
+        "title": "'Zero-click' searches on rise due to AI summaries: Japan survey",
+        "description": "More people are finding information from online searches without clicking links provided by search engines, indicating information summarized by generative artificial intelligence that now appears at the top of search results is being considered sufficient. A recent private sector survey in Japan showed \"zero-click\" searches have become the norm in…",
+        "content": "More people are finding information from online searches without clicking links provided by search engines, indicating information summarized by generative artificial intelligence that now appears at the top of search results is being considered suff... [1498 chars]",
+        "url": "https://japantoday.com/category/tech/zero-click-searches-on-rise-due-to-ai-summaries-japan-survey",
+        "image": "https://japantoday.com/images/japan-today-social.jpg",
+        "publishedAt": "2025-11-27T20:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "d560248f9bb1686945506e9a00835eec",
         "title": "Yale Student AI Cheating Suit Sees Discovery Halt as Judge Weighs Dismissal",
         "description": "A Connecticut federal judge has hit the brakes on discovery while she considers Yale University’s attempt to shut down a lawsuit filed by a student accused of using artificial intelligence to cheat on a final exam. In an order entered Tuesday, U.S. District Judge Sarah F. Russell said Yale and several university officials “have presented Judge pauses discovery as Yale Student AI Cheating Suit faces major bid for dismissal.",
@@ -109,54 +157,6 @@
             "name": "CNBC TV18",
             "url": "https://www.cnbctv18.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "f67d8d20f9b882570fab60119007da9e",
-        "title": "Fastest Audio to Text Converter: Turn MP3, MP4 & WAV Files Into Text",
-        "description": "In today’s fast-moving digital world, speed, accuracy, and convenience are essential. Whether you’re a student, business professional, podcaster, journalist, or creator, converting audio into written text is now a critical part of everyday productivity. The good news? You don’t need to spend hours typing manually. With the latest advancements in artificial intelligence, the fastest audio […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nIn today’s fast-moving digital world, speed, accuracy, and convenience are essential. Whether you’re a student, business professional, podcaster, journalist, or creator, converting audio into written text is now a critic... [6087 chars]",
-        "url": "https://techbullion.com/fastest-audio-to-text-converter-turn-mp3-mp4-wav-files-into-text/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/11/Screenshot-2025-11-27-222005.png",
-        "publishedAt": "2025-11-27T17:21:01Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "176a403ee16840fd8480a53f77a3d8f1",
-        "title": "AI scribes may reduce documentation time and improve physician well-being",
-        "description": "Artificial intelligence (AI) tools designed to automatically document patient visits show promise in reducing the time physicians spend on paperwork and may improve their work experience, according to a new randomized clinical trial conducted at UCLA Health.",
-        "content": "Artificial intelligence (AI) tools designed to automatically document patient visits show promise in reducing the time physicians spend on paperwork and may improve their work experience, according to a new randomized clinical trial conducted at UCLA... [4194 chars]",
-        "url": "https://medicalxpress.com/news/2025-11-ai-scribes-documentation-physician.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/physician-happy.jpg",
-        "publishedAt": "2025-11-27T17:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "724572ed78096e224d1e2073ee27a940",
-        "title": "Could the Anthropic partnership be Nvidia's most important AI deal yet?",
-        "description": "Nvidia just made another blockbuster artificial intelligence (AI) deal. Here's what you need to know.",
-        "content": "This article was originally published on Fool.com. All figures quoted in US dollars unless otherwise stated.\nNvidia (NASDAQ: NVDA) has asserted itself as the leader of the artificial intelligence (AI) data revolution, primarily because of the essenti... [3791 chars]",
-        "url": "https://www.fool.com.au/2025/11/28/could-the-anthropic-partnership-be-nvidias-most-important-ai-deal-yet-usfeed/",
-        "image": "https://www.fool.com.au/wp-content/uploads/2021/11/pondering-shares-16.9-1200x675.jpg",
-        "publishedAt": "2025-11-27T17:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c6075ba0dc9d123bb327faaa419d3d07",
-            "name": "The Motley Fool Australia",
-            "url": "https://www.fool.com.au",
-            "country": "au"
         }
     }
 ]
