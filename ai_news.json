@@ -1,5 +1,37 @@
 [
     {
+        "id": "0904b910105a85baf28f6f8d668886ff",
+        "title": "heat a key challenge for data centres",
+        "description": "The global boom in data centres as companies increasingly outsource information storage and ramp up use of energy-intensive artificial intelligence is creating a key challenge for the industry - how to keep cool.",
+        "content": "The global boom in data centres as companies increasingly outsource information storage and ramp up use of energy-intensive artificial intelligence is creating a key challenge for the industry - how to keep cool.\nAn outage at the world's biggest exch... [2993 chars]",
+        "url": "https://www.rte.ie/news/business/2025/1128/1546368-keeping-data-centres-cool/",
+        "image": "https://www.rte.ie/images/0022d5d6-1600.jpg",
+        "publishedAt": "2025-11-28T14:59:02Z",
+        "lang": "en",
+        "source": {
+            "id": "4c8b69bf547b577f84acbba5157b439c",
+            "name": "RTE.ie",
+            "url": "https://www.rte.ie",
+            "country": "ie"
+        }
+    },
+    {
+        "id": "8914c21b1f70531845690a8ac8569ad2",
+        "title": "9 more newspapers sue OpenAI, Microsoft, alleging stolen content used in AI apps",
+        "description": "ANAHEIM, Calif. — Nine newspapers owned or managed by MediaNews Group filed a civil lawsuit Wednesday, Nov. 26, against OpenAI and Microsoft, accusing the tech giants of violating copyright law by stealing the news publishers’ content to build and operate the large language models that power their artificial intelligence applications. The newspapers are the Los Angeles Daily News, The San ...",
+        "content": "ANAHEIM, Calif. — Nine newspapers owned or managed by MediaNews Group filed a civil lawsuit Wednesday, Nov. 26, against OpenAI and Microsoft, accusing the tech giants of violating copyright law by stealing the news publishers’ content to build and op... [2965 chars]",
+        "url": "https://www.spokesman.com/stories/2025/nov/28/9-more-newspapers-sue-openai-microsoft-alleging-st/",
+        "image": "https://thumb.spokesman.com/F3uBWAi_OgUCwNuF4D3EpGW7n78=/1200x630/smart/media.spokesman.com/photos/2025/11/28/692a3f4042448.hires.jpg",
+        "publishedAt": "2025-11-28T14:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c8c865ed042eb14694b8d596e22efe99",
+            "name": "Spokane Spokesman-Review",
+            "url": "https://www.spokesman.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d4055ba25011bb1e64a0f22804ad766e",
         "title": "SoftBank, ORCL, CRWV Take On $100B Debt to Fuel OpenAI’s Growth - Is It Worth the Risk?",
         "description": "OpenAI (OPAIQ), the company behind ChatGPT and one of the most influential players in artificial intelligence, is now linked to almost $100 bill...",
@@ -124,38 +156,6 @@
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "489c8ed808e44f7c94b4fefdd7cfd972",
-        "title": "India strengthens AI readiness with new military handbook, predictive disaster alert system",
-        "description": "Developed as a practical reference for senior military decision-makers, the Handbook breaks down complex concepts in Artificial Intelligence and Machine Learning, clearly distinguishing them from traditional automation.",
-        "content": "AI Handbook for Military Leaders, a comprehensive guide aimed at preparing commanders across all levels for the rapid transformation underway in the global security landscape due to the advent of Artificial Intelligence, was released by Defence Minis... [2741 chars]",
-        "url": "https://www.thestatesman.com/india/india-strengthens-ai-readiness-with-new-military-handbook-predictive-disaster-alert-system-1503518852.html",
-        "image": "https://www.thestatesman.com/wp-content/uploads/2025/11/Untitled-design-18-23.webp",
-        "publishedAt": "2025-11-28T12:07:05Z",
-        "lang": "en",
-        "source": {
-            "id": "23ca80edba9c670741bdbfc4acd3e991",
-            "name": "The Statesman",
-            "url": "https://www.thestatesman.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "fde2109435493f2d7173805122146eee",
-        "title": "\"It Will Be Beautiful and Impressive\": Nikas Safronov Unveils International Art Series in India",
-        "description": "New Delhi [India], November 28: This December, two inaugural exhibitions by People's Artist of the Russian Federation Nikas Safronov will be staged in India with the support of Rosneft Oil Company. According to the artist, the project will be realised to a high technological standard and will serve as the starting point of a significant international exhibition program. In an interview with the Russian newspaper Vedomosti, Safronov discussed his creative inspirations, his attitude toward commercial success in art, and the use of artificial intelligence in painting.",
-        "content": "PNN\nNew Delhi [India], November 28: This December, two inaugural exhibitions by People's Artist of the Russian Federation Nikas Safronov will be staged in India with the support of Rosneft Oil Company. According to the artist, the project will be rea... [6290 chars]",
-        "url": "https://www.tribuneindia.com/news/business/it-will-be-beautiful-and-impressive-nikas-safronov-unveils-international-art-series-in-india/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ2ZWYyNzIwLWNjNTEtMTFmMC1hNWYzLWU1NWZlMzk3YzBhZi5qcGc=",
-        "publishedAt": "2025-11-28T12:00:24Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
             "country": "in"
         }
     }
