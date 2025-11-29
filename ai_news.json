@@ -1,5 +1,21 @@
 [
     {
+        "id": "aee7231e0697472ede5cbda35da404d7",
+        "title": "Late Rally Pushes Stocks Back Near Record High",
+        "description": "A midmonth stumble, driven by worries about the frenzy around artificial intelligence, was reversed as investors inched back into stocks this week.",
+        "content": "A five-day rally in the stock market gave investors a reason to be thankful at the end of November, reversing a midmonth swoon for the S&P 500 and pushing the index back near its record high.\nThe S&P 500 rose 0.5 percent on Friday, in a shortened tra... [2124 chars]",
+        "url": "https://www.nytimes.com/2025/11/28/business/stock-markets-november-sp500.html",
+        "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+        "publishedAt": "2025-11-28T18:07:31Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f2f47924e34a23a24f362fb088d2f21f",
         "title": "Google’s AI progress drives MediaTek to best week since 2002",
         "description": "MediaTek Inc. shares posted their best week since 2002, as artificial intelligence advances at its client Google help reshape the growth outlook for the Taiwanese chipmaker.",
@@ -141,22 +157,6 @@
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "30df82cce6e244e6cc4bf830230eec14",
-        "title": "Minister of Tourism Introduces \"MaiA,\" an Artificial Intelligence Designed Specifically for Tourism",
-        "description": "JAKARTA, Indonesia, Nov. 28, 2025 /PRNewswire/ -- Minister of Tourism Widiyanti Putri Wardhana introduced and launched the MaiA artificial intelligence system (Meticulous Artificial Intelligence of Indonesia) as part of the priority Tourism 5.0 program at the Sapta Pesona Building in Jakarta on Friday (28/11).",
-        "content": "JAKARTA, Indonesia, Nov. 28, 2025 /PRNewswire/ -- Minister of Tourism Widiyanti Putri Wardhana introduced and launched the MaiA artificial intelligence system (Meticulous Artificial Intelligence of Indonesia) as part of the priority Tourism 5.0 progr... [2723 chars]",
-        "url": "https://www.manilatimes.net/2025/11/28/tmt-newswire/pr-newswire/minister-of-tourism-introduces-maia-an-artificial-intelligence-designed-specifically-for-tourism/2233408",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/28/847092.jpg",
-        "publishedAt": "2025-11-28T15:51:33Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
