@@ -1,5 +1,37 @@
 [
     {
+        "id": "2fe9428ee9bb75149859f44da5d7f2b1",
+        "title": "How AI May Be Undermining Your Investments",
+        "description": "Lawyers, consultants, and programmers have both made high-profile mistakes in using artificial intelligence in reports. What corporate decisions are led astray?",
+        "content": "For the second time this year, Deloitte reportedly used generative artificial intelligence to “find” research citations that would help support their contracted reports to governments. The story is ultimately larger and has a lesson for how people ma... [5394 chars]",
+        "url": "https://www.forbes.com/sites/eriksherman/2025/11/28/how-ai-may-be-undermining-your-investments/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/692a3f11ebf640b743bf923f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-11-29T00:33:59Z",
+        "lang": "en",
+        "source": {
+            "id": "a0300bc9a6e9d5b317bd6f614767231f",
+            "name": "Forbes",
+            "url": "https://www.forbes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "682aa1d5d6f81cad946f066d124167f4",
+        "title": "‘Clair Obscur’ tops best game list",
+        "description": "It’s been a difficult year for the people who create video games, with layoffs persisting while the tech industry tries to force us to use artificial intelligence for everything. But great games emerged nonetheless — and I can’t imagine AI ever being able to deliver the kind of thrilling, rewarding adventures we’ve seen in 2025. […]",
+        "content": "It’s been a difficult year for the people who create video games, with layoffs persisting while the tech industry tries to force us to use artificial intelligence for everything. But great games emerged nonetheless — and I can’t imagine AI ever being... [5249 chars]",
+        "url": "https://www.altoonamirror.com/life/area-life/2025/11/clair-obscur-tops-best-game-list/",
+        "image": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2025/11/28161452/AP25328672731609-800x450.jpg",
+        "publishedAt": "2025-11-29T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "68e8a9c1e60db86af8601f08c15463a0",
+            "name": "Altoona Mirror",
+            "url": "https://www.altoonamirror.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "53807a4fb2491df84bb3b2aeec056473",
         "title": "Wall St Week Ahead: Investors on watch for AI updates",
         "description": "Investors will look in the coming week for signals about profitability for artificial intelligence companies, as well as the broader economy's health, to steady the US equity market.",
@@ -125,38 +157,6 @@
             "name": "BOL News",
             "url": "https://www.bolnews.com",
             "country": "pk"
-        }
-    },
-    {
-        "id": "aee7231e0697472ede5cbda35da404d7",
-        "title": "Late Rally Pushes Stocks Back Near Record High",
-        "description": "A midmonth stumble, driven by worries about the frenzy around artificial intelligence, was reversed as investors inched back into stocks this week.",
-        "content": "A five-day rally in the stock market gave investors a reason to be thankful at the end of November, reversing a midmonth swoon for the S&P 500 and pushing the index back near its record high.\nThe S&P 500 rose 0.5 percent on Friday, in a shortened tra... [2124 chars]",
-        "url": "https://www.nytimes.com/2025/11/28/business/stock-markets-november-sp500.html",
-        "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-        "publishedAt": "2025-11-28T18:07:31Z",
-        "lang": "en",
-        "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f2f47924e34a23a24f362fb088d2f21f",
-        "title": "Google’s AI progress drives MediaTek to best week since 2002",
-        "description": "MediaTek Inc. shares posted their best week since 2002, as artificial intelligence advances at its client Google help reshape the growth outlook for the Taiwanese chipmaker.",
-        "content": "(Bloomberg/Sangmi Cha) — MediaTek Inc. shares posted their best week since 2002, as artificial intelligence advances at its client Google help reshape the growth outlook for the Taiwanese chipmaker.\nThe stock rose for a fifth-straight day Friday in T... [2334 chars]",
-        "url": "https://www.mercurynews.com/2025/11/28/googles-ai-progress-drives-mediatek-to-best-week-since-2002/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2016/08/20091029__mediatek1.jpg?w=400&h=267",
-        "publishedAt": "2025-11-28T17:03:05Z",
-        "lang": "en",
-        "source": {
-            "id": "17d7c2645f485578130862e0c8dd9480",
-            "name": "The Mercury News",
-            "url": "https://www.mercurynews.com",
-            "country": "us"
         }
     }
 ]
