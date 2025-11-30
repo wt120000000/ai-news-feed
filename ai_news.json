@@ -1,5 +1,21 @@
 [
     {
+        "id": "2d88fda13bcb70ff57ce0465abb7d332",
+        "title": "AI-assisted shopping is the talk of the holiday shopping season",
+        "description": "Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season",
+        "content": "NEW YORK -- Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season, hoping to give consumers an easier gift-buying experience and themselves an augmented share of onlin... [7106 chars]",
+        "url": "https://abcnews.go.com/Technology/wireStory/ai-assisted-shopping-talk-holiday-shopping-season-127976859",
+        "image": "https://i.abcnewsfe.com/a/1b595f64-f4ca-43c6-b715-bb7d1bde3c41/wirestory_0722dce44b4a479ec4ce476bbd15dfa9_16x9.jpg?w=1600",
+        "publishedAt": "2025-11-30T03:02:12Z",
+        "lang": "en",
+        "source": {
+            "id": "c792dadf7373fad5b316a63a77688de1",
+            "name": "ABC News",
+            "url": "https://abcnews.go.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "62c13e6dcbb61c20b448cf4a056f8e88",
         "title": "Indian-origin xAI leader defends 36-hour shift claim at Elon Musk’s AI startup: ‘Let us cook’",
         "description": "A post by an xAI engineer claiming he worked 36 hours without sleep has triggered a debate on work culture at Elon Musk’s artificial intelligence company.",
@@ -140,22 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "0f4c2b9dd966a9db4e09a713241d213e",
-        "title": "AI Cannot Replace Natural Creativity Of Human Beings: Javed Akhtar",
-        "description": "Noted lyricist and writer Javed Akhtar on Saturday said artificial intelligence (AI) cannot replace the natural creativity of human beings. He said artificial intelligence has limitations and is dependent on data.",
-        "content": "\"I cannot say what will happen in future. But, for now, I am sure that the AI in no way can replace the creativity of human beings. The Artificial Intelligence technology had no conscience. It depends on how you use it,\" Akhtar said at a literary fes... [1707 chars]",
-        "url": "https://www.ndtvprofit.com/nation/ai-cannot-replace-natural-creativity-of-human-beings-javed-akhtar",
-        "image": "https://media.assettype.com/bloombergquint%2F2025-11-29%2Ft4skd3sy%2FJavedAkhtaratthe2025JaipurLiteratureFestival.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-11-29T18:17:59Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
             "country": "in"
         }
     }
