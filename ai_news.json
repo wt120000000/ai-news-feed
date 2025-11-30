@@ -1,5 +1,37 @@
 [
     {
+        "id": "e535dc0e8e85ece8ffec07f69d28b62b",
+        "title": "Figma AI controversy triggers corporate data warnings",
+        "description": "A DATA protection company based in Singapore warned organiztaions that confidential business information may already be training external artificial intelligence systems, following global controversy over design platform Figma and a class-action lawsuit filed in the United States.",
+        "content": "A DATA protection company based in Singapore warned organiztaions that confidential business information may already be training external artificial intelligence systems, following global controversy over design platform Figma and a class-action laws... [2098 chars]",
+        "url": "https://www.manilatimes.net/2025/11/30/business/sunday-business-it/figma-ai-controversy-triggers-corporate-data-warnings/2233598",
+        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2025-11-29T16:02:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "d394b0e6d89daf6873958d69d71d6792",
+        "title": "Online threats for kids growing",
+        "description": "PETALING JAYA: Within just the first half of this year, there were about 440,000 reports on Artificial intelligence (AI)-generated child sexual abuse material (CSAM).",
+        "content": "PETALING JAYA: Within just the first half of this year, there were about 440,000 reports on Artificial intelligence (AI)-generated child sexual abuse material (CSAM).\nThis was over a 6,000% increase from just 7,000 reports last year, according to glo... [3383 chars]",
+        "url": "https://www.thestar.com.my/news/nation/2025/11/30/online-threats-for-kids-growing",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/11/30/3647686.jpg",
+        "publishedAt": "2025-11-29T16:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "847bd12cb4082a5c7159df255e2703a3",
         "title": "Javed Akhtar on AI: No Substitute for Human Creativity",
         "description": "Renowned lyricist Javed Akhtar emphasized at a literary festival that artificial intelligence (AI) cannot supplant human creativity. Despite technological advances, AI lacks the conscience and intrinsic creativity of human beings. Akhtar cautioned about AI's dependence on data and highlighted its dual potential, akin to nuclear energy.",
@@ -125,38 +157,6 @@
             "name": "Finbold",
             "url": "https://finbold.com",
             "country": "bg"
-        }
-    },
-    {
-        "id": "4d8bc51c39fa752a21790f86bd91fce1",
-        "title": "Taiwan revises 2025 growth forecast to 7.37%, on rising AI demand",
-        "description": "Soaring demand for artificial intelligence (AI) is boosting both exports and investment, prompting the Directorate-General of Budget, Accounting and Statistics (DGBAS) on Friday to sharply revise up Taiwan's 2025 economic growth forecast to 7.37 per cent.",
-        "content": "Taipei [Taiwan], November 29 (ANI): Soaring demand for artificial intelligence (AI) is boosting both exports and investment, prompting the Directorate-General of Budget, Accounting and Statistics (DGBAS) on Friday to sharply revise up Taiwan's 2025 e... [3908 chars]",
-        "url": "https://www.tribuneindia.com/news/business/taiwan-revises-2025-growth-forecast-to-7-37-on-rising-ai-demand/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg1ZjA2MzYwLWNkMTAtMTFmMC1hNWYzLWU1NWZlMzk3YzBhZi5qcGc=",
-        "publishedAt": "2025-11-29T10:45:24Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "5260117347fbc6a6db1e8b5ced03df0a",
-        "title": "Taiwan revises 2025 growth forecast to 7.37%, on rising AI demand",
-        "description": "Taiwan revises 2025 growth forecast to 7.37%, on rising AI demand - Taipei [Taiwan], November 29 : Soaring demand for artificial intelligence (AI) is boosting both exports and investment, prompting the ... Get Latest News on Business only on lokmattimes.com",
-        "content": "Taipei [Taiwan], November 29 : Soaring demand for artificial intelligence (AI) is boosting both exports and investment, prompting the Directorate-General of Budget, Accounting and Statistics (DGBAS) on Friday to sharply revise up Taiwan's 2025 econom... [3872 chars]",
-        "url": "https://www.lokmattimes.com/business/taiwan-revises-2025-growth-forecast-to-737-on-rising-ai-demand/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251129104038_202511.jpg",
-        "publishedAt": "2025-11-29T10:40:50Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
-            "country": "in"
         }
     }
 ]
