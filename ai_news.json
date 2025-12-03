@@ -1,5 +1,85 @@
 [
     {
+        "id": "878c593c49e1c3886e1ceb144b73e5d0",
+        "title": "AI Melania: First lady rolls out audiobook of first memoir in Spanish",
+        "description": "First lady Melania Trump is launching a Spanish-language edition of the audiobook of her memoir using artificial intelligence (AI) audio technology to tell her story.",
+        "content": "NEWYou can now listen to Fox News articles!\nEXCLUSIVE: First lady Melania Trump is launching a Spanish-language edition of the audiobook of her memoir using artificial intelligence (AI) audio technology to bring her story to millions of Spanish-speak... [2848 chars]",
+        "url": "https://www.foxnews.com/politics/melania-trump-rolls-out-ai-audiobook-memoir-spanish-amazing-journey",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/melania-trump-displaced-children-russia-ukraine.jpg",
+        "publishedAt": "2025-12-02T20:19:16Z",
+        "lang": "en",
+        "source": {
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "adf373350e64acf9b856527f6b41e858",
+        "title": "Amazon unveils new AI chip in battle against Nvidia",
+        "description": "Amazon Web Services launched its in-house-built Trainium3 AI chip on Tuesday, marking a significant push to compete with Nvidia in the lucrative market for artificial intelligence computing power. The move intensifies competition in the AI chip market, where Nvidia currently dominates with an estimated 80- to 90-percent market share for…",
+        "content": "Amazon Web Services launched its in-house-built Trainium3 AI chip on Tuesday, marking a significant push to compete with Nvidia in the lucrative market for artificial intelligence computing power.\nThe move intensifies competition in the AI chip marke... [2613 chars]",
+        "url": "https://japantoday.com/category/tech/amazon-unveils-new-ai-chip-in-battle-against-nvidia",
+        "image": "https://media.japantoday.com/img/store/a0/55/296f3ae02cc803f6b17a398d5da258c7a178/48d3d00ea790c4bc7b53a424e03e6f9415b44b99/_w1700.jpeg",
+        "publishedAt": "2025-12-02T20:03:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "99ee03b1940637a83bdcd7c8e0985fbc",
+        "title": "Vultr to invest $1 billion in Ohio AI cluster using AMD chips",
+        "description": "Cloud infrastructure company Vultr said on Tuesday it would invest more than $1 billion to launch a new artificial intelligence cluster powered by Advanced Micro Devices' processors at a new data center in Springfield, Ohio.",
+        "content": "The new cluster is a 50-megawatt, 24,000-chip facility that will deploy AMD's Instinct MI355X graphics processing units, which will be interconnected with ethernet-based fabric that improves data transfer speed and traffic flow.\nSign up here.\nVultr i... [1498 chars]",
+        "url": "https://www.reuters.com/business/vultr-invest-1-billion-ohio-ai-cluster-using-amd-chips-2025-12-02/",
+        "image": "https://www.reuters.com/resizer/v2/AUMJPLFKRFI2RHUOP4FOJAXYGY.jpg?auth=1f785a50c1944a6215f102584671d1b3509a9791f2e506c2eaf17943b3737ec8&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-12-02T19:55:30Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d097ac4ead67aac41dda34daf36a9df6",
+        "title": "Vultr to invest $1 billion in Ohio AI cluster using AMD chips",
+        "description": "Cloud infrastructure company Vultr\nsaid on Tuesday it would invest more than $1 billion to launch a\nnew artificial intelligence cluster powered by Advanced Micro\nDevices' processors at a new data...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/vultr-to-invest-1-billion-in-ohio-ai-cluster-using-amd-chips-ce7d51d9de8fff2d",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2025-12-02T19:54:15Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "ebc814ad9d735d46d224a8cb746c4f5c",
+        "title": "Mistral launches a new generation of AI models to take on the world's giants",
+        "description": "The French AI startup Mistral, specializing in artificial intelligence, has unveiled a new range of AI models designed to compete with sector heavyweights such as OpenAI, Alphabet or DeepSeek. This...",
+        "content": "The French AI startup Mistral, specializing in artificial intelligence, has unveiled a new range of AI models designed to compete with sector heavyweights such as OpenAI, Alphabet or DeepSeek. This announcement comes shortly after a strategic partner... [1474 chars]",
+        "url": "https://www.marketscreener.com/news/mistral-launches-a-new-generation-of-ai-models-to-take-on-the-world-s-giants-ce7d51d9de8ff420",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_3131267_800.jpg",
+        "publishedAt": "2025-12-02T19:39:13Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "6247c64c247703932eda0741b332fc4e",
         "title": "Is college worth the cost? A majority of Americans say no",
         "description": "Americans' changing outlook on higher education comes amid rising tuition costs and growing concerns about artificial intelligence.",
@@ -77,86 +157,6 @@
             "name": "Reuters",
             "url": "https://www.reuters.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "6db0881a69add4b5761708142917226a",
-        "title": "Fashion House Valentino criticised over ‘disturbing’ AI handbag ads",
-        "description": "ROME  -  Italian luxury fashion house Valentino is facing criticism after posting “disturbing” adverts made using artificial intelligence (AI) for",
-        "content": "ROME - Italian luxury fashion house Valentino is facing criticism after posting “disturbing” adverts made using artificial intelligence (AI) for one of its luxury handbags online. The brand announced a collaboration with digital artists as part of wh... [3218 chars]",
-        "url": "https://www.nation.com.pk/03-Dec-2025/fashion-house-valentino-criticised-disturbing-ai-handbag-ads",
-        "image": "https://www.nation.com.pk/print_images/large/2025-12-03/fashion-house-valentino-criticised-disturbing-ai-handbag-ads-1764723350-8402.jpg",
-        "publishedAt": "2025-12-02T19:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-            "name": "The Nation",
-            "url": "https://www.nation.com.pk",
-            "country": "pk"
-        }
-    },
-    {
-        "id": "c5231f904901ae5f64630be9976742a4",
-        "title": "AI-assisted ultrasounds greatly improve detection of congenital heart defects",
-        "description": "Doctors in the Raquel and Jaime Gilinski Department of Obstetrics, Gynecology and Reproductive Science at Mount Sinai have become the first in New York City to implement an artificial intelligence (AI) tool that enhances ultrasounds on a large scale-resulting in earlier detection and better care for babies and families.",
-        "content": "Doctors in the Raquel and Jaime Gilinski Department of Obstetrics, Gynecology and Reproductive Science at Mount Sinai have become the first in New York City to implement an artificial intelligence (AI) tool that enhances ultrasounds on a large scale-... [3426 chars]",
-        "url": "https://www.news-medical.net/news/20251202/AI-assisted-ultrasounds-greatly-improve-detection-of-congenital-heart-defects.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg",
-        "publishedAt": "2025-12-02T18:59:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "f8c80a96bc8446aa86c9083fb7ec1120",
-        "title": "Anthropic acquires developer tool startup Bun to scale AI coding",
-        "description": "Artificial intelligence startup Anthropic said on Tuesday it has acquired Bun, which helps developers run and manage codes more effectively, as the Claude maker looks to boost the speed and stability...",
-        "content": "Dec 2 (Reuters) - Artificial intelligence startup Anthropic said on Tuesday it has acquired Bun, which helps developers run and manage codes more effectively, as the Claude maker looks to boost the speed and stability of its coding agent.\nBun is expe... [1277 chars]",
-        "url": "https://www.marketscreener.com/news/anthropic-acquires-developer-tool-startup-bun-to-scale-ai-coding-ce7d51d9de8af424",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-30T200202Z_1_LYNXNPEL4T10W_RTROPTP_4_ANTHROPIC-AI.JPG",
-        "publishedAt": "2025-12-02T18:58:17Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "4fbf8c9567219bdfd2dff59e124beccd",
-        "title": "Artificial Intelligence a powerful equaliser if women actively shape & adopt it: Experts",
-        "description": "Bengaluru: Artificial Intelligence (AI) has the potential to be a powerful equaliser for women, but this can only happen if they actively participate .",
-        "content": "Bengaluru: Artificial Intelligence (AI) has the potential to be a powerful equaliser for women, but this can only happen if they actively participate in shaping and adopting it, say experts. At the three-day Grace Hopper Celebration 2025, held at KTP... [1108 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/bengaluru/artificial-intelligence-a-powerful-equaliser-if-women-actively-shape-adopt-it-experts/articleshow/125726447.cms",
-        "image": "https://static.toiimg.com/thumb/msid-125726446,width-1070,height-580,imgsize-94778,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-        "publishedAt": "2025-12-02T18:54:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "4f2b9094a848d1d900acd222208094d2",
-        "title": "How to target China's AI rush through ASX investing",
-        "description": "According to the team at VanEck, China is well-placed for long term growth in the artificial intelligence (AI) boom.",
-        "content": "Fresh analysis from VanEck has shed light on the \"AI Euphoria\" sweeping the US.\nBut there might be another market set to benefit long term.\nAlice Shen, Portfolio Manager at VanEck said in a recent report that Nvidia Inc (NASDAQ: NVDA) posted gravity-... [2366 chars]",
-        "url": "https://www.fool.com.au/2025/12/03/how-to-target-chinas-ai-rush-through-asx-investing/",
-        "image": "https://www.fool.com.au/wp-content/uploads/2025/05/tariff-16.9.png",
-        "publishedAt": "2025-12-02T18:52:48Z",
-        "lang": "en",
-        "source": {
-            "id": "c6075ba0dc9d123bb327faaa419d3d07",
-            "name": "The Motley Fool Australia",
-            "url": "https://www.fool.com.au",
-            "country": "au"
         }
     }
 ]
