@@ -1,5 +1,69 @@
 [
     {
+        "id": "8553589a24ca642dd6bfac57547763d8",
+        "title": "Anthropic plans an IPO as early as 2026, FT reports",
+        "description": "Anthropic, the artificial intelligence startup backed by Alphabet's Google and Amazon.com , has hired the law firm Wilson Sonsini to prepare for an initial public offering that could take place as early as 2026, the Financial Times reported on Tuesday.",
+        "content": "Dec 2 (Reuters) - Anthropic, the artificial intelligence startup backed by Alphabet's Google (GOOGL.O), opens new tab and Amazon.com (AMZN.O), opens new tab, has hired the law firm Wilson Sonsini to prepare for an initial public offering that could t... [791 chars]",
+        "url": "https://www.reuters.com/business/retail-consumer/anthropic-plans-an-ipo-early-2026-ft-reports-2025-12-03/",
+        "image": "https://www.reuters.com/resizer/v2/CCWRQCGNJZK3HJYI7LLNQLPF5Q.jpg?auth=c8e80be0019af6ad0b73be6a2d8e949b6e87568fdc9459c0f07dd370f4452e60&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2025-12-03T00:49:11Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "65573475d65e9d3bea2de41409afafb9",
+        "title": "AI’s impact could worsen world’s rich and poor gaps: UN report",
+        "description": "behind the hoopla over the promise of artificial intelligence lay difficult realities, including how such technology might affect people already disadvantaged in a data-driven world. a new report by the united nations development programme notes most of the gains from ai are likely to be reaped by wealthy nations unless steps are taken to use its power to help close gaps in access to basic needs, as well as such advanced know-how. the report released on tuesday likens the situation to the “great divergence”",
+        "content": "BANGKOK :\nBEHIND the hoopla over the promise of artificial intelligence lay difficult realities, including how such technology might affect people already disadvantaged in a data-driven world. A new report by the United Nations Development Programme ... [2450 chars]",
+        "url": "https://www.thehitavada.com/Encyc/2025/12/3/ais-impact-could-worsen-worlds-rich-and-poor-gaps-un-report.html",
+        "image": "https://www.thehitavada.com/Encyc/2025/12/3/AIs-impact-could-worsen-worlds--rich-and-poor-gapsUN-report_202512031117510932_H@@IGHT_640_W@@IDTH_1280.jpg",
+        "publishedAt": "2025-12-03T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "2ff4b6327735b249ca9fe9bb8f044251",
+            "name": "The Hitavada",
+            "url": "https://www.thehitavada.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b0faf73060f1e5a14f45797f7516bc2a",
+        "title": "Vultr to invest $1 billion in Ohio AI cluster using AMD chips",
+        "description": "Dec 2 (Reuters) - Cloud infrastructure company Vultr said on Tuesday it would invest more than $1 billion to launch a new artificial intelligence cluster powered by Advanced Micro Devices' processors at a new data center in Springfield, Ohio.",
+        "content": "Dec 2 (Reuters) - Cloud infrastructure company Vultr said on Tuesday it would invest more than $1 billion to launch a new artificial intelligence cluster powered by Advanced Micro Devices' processors at a new data center in Springfield, Ohio.\nThe new... [1729 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/12/03/vultr-to-invest-1-billion-in-ohio-ai-cluster-using-amd-chips",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/03/3652403.jpg",
+        "publishedAt": "2025-12-02T23:39:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "cff228c32c217be0606401f1fbce21a3",
+        "title": "Anthropic acquires developer tool startup Bun to scale AI coding",
+        "description": "Dec 2 (Reuters) - Artificial intelligence startup Anthropic said on Tuesday it has acquired Bun, which helps developers run and manage codes more effectively, as the Claude maker looks to boost the speed and stability of its coding agent.",
+        "content": "Dec 2 (Reuters) - Artificial intelligence startup Anthropic said on Tuesday it has acquired Bun, which helps developers run and manage codes more effectively, as the Claude maker looks to boost the speed and stability of its coding agent.\nBun is expe... [1277 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/12/03/anthropic-acquires-developer-tool-startup-bun-to-scale-ai-coding",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/03/3652388.jpg",
+        "publishedAt": "2025-12-02T23:28:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "09cbb93ccfc87ea747872d795b64befd",
         "title": "The New Bubble: How AI and Passive Investing Have Turned the Market into a Powder Keg",
         "description": "Discover why AI (Artificial Intelligence) is influencing the US equity market bubble and affecting investment strategies today.",
@@ -87,70 +151,6 @@
         "url": "https://www.bloomberg.com/news/articles/2025-12-02/oracle-credit-fear-gauge-hits-highest-since-2009-on-ai-bubble-fears",
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQGVlDSCVuzo/v1/1200x800.jpg",
         "publishedAt": "2025-12-02T22:18:54Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1e785dc35e13fd8c654d42ad44b1a856",
-        "title": "Tech Industry Drive to Block State AI Laws Hits Wall in Congress",
-        "description": "A powerful coalition of tech companies backed by the White House’s artificial intelligence chief appears to have failed to persuade lawmakers to use a must-pass defense bill to block state governments from regulating artificial intelligence, a key congressional Republican signaled Tuesday.",
-        "content": "A powerful coalition of tech companies backed by the White House’s artificial intelligence chief appears to have failed to persuade lawmakers to use a must-pass defense bill to block state governments from regulating artificial intelligence, a key co... [262 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-12-02/tech-industry-drive-to-block-state-ai-laws-hits-wall-in-congress",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1DpCXYgWnkQ/v1/1200x800.jpg",
-        "publishedAt": "2025-12-02T22:02:17Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4344f5bc7b9288cc4b9a8731b73601b1",
-        "title": "White House Summit Aims to De-Risk AI Supply Chain Vulnerabilities",
-        "description": "The United States and eight allied nations are launching a major diplomatic effort, culminating in a December 12 summit, to secure resilient, end-to-end supply chains for critical minerals and semiconductors to safeguard the burgeoning artificial intelligence sector against geopolitical risks from C",
-        "content": "The United States is launching a pivotal diplomatic push with eight allied nations to forge secure, end-to-end supply chains for the critical minerals and advanced semiconductors that underpin the burgeoning artificial intelligence (AI) sector. The e... [4492 chars]",
-        "url": "https://oilprice.com/Energy/Energy-General/White-House-Summit-Aims-to-De-Risk-AI-Supply-Chain-Vulnerabilities.html",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-02_61bhj9nuhk.jpg",
-        "publishedAt": "2025-12-02T22:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
-            "name": "OilPrice",
-            "url": "https://oilprice.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a46ab1caf333e20971132988e3267be5",
-        "title": "Comparing DNA language models to guide optimal AI selection for genomics",
-        "description": "Researchers at The University of Texas MD Anderson Cancer Center have performed a comprehensive evaluation of five artificial intelligence (AI) models trained on genomic sequences, known as DNA foundation language models. These comparisons provide valuable insights into their strengths and weaknesses and offer a framework for selecting appropriate models based on specific genomic tasks.",
-        "content": "Researchers at The University of Texas MD Anderson Cancer Center have performed a comprehensive evaluation of five artificial intelligence (AI) models trained on genomic sequences, known as DNA foundation language models. These comparisons provide va... [2427 chars]",
-        "url": "https://medicalxpress.com/news/2025-12-dna-language-optimal-ai-genomics.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/comparing-dna-language.jpg",
-        "publishedAt": "2025-12-02T21:46:25Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "89fc7a2302d99ff0dea5cfd2146abf16",
-        "title": "Marvell (MRVL) Stock Rises on Deal to Buy Startup Celestial AI",
-        "description": "Marvell Technology Inc. announced plans to acquire startup Celestial AI for at least $3.25 billion, part of a push to capture more of the runaway spending on artificial intelligence computing.",
-        "content": "AI\nMarvell to Buy Celestial AI; Shares Jump on Bullish Remarks\nMarvell Technology Inc. announced plans to acquire startup Celestial AI for at least $3.25 billion, part of a push to capture more of the runaway spending on artificial intelligence compu... [306 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-12-02/marvell-to-buy-chip-startup-celestial-ai-for-about-3-25-billion",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itW0icpRxfMQ/v1/1200x800.jpg",
-        "publishedAt": "2025-12-02T21:20:19Z",
         "lang": "en",
         "source": {
             "id": "7006f2c40c7cc01195608dbfd60259b3",
