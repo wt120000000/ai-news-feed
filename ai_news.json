@@ -1,5 +1,101 @@
 [
     {
+        "id": "89fc7a2302d99ff0dea5cfd2146abf16",
+        "title": "Marvell (MRVL) Stock Rises on Deal to Buy Startup Celestial AI",
+        "description": "Marvell Technology Inc. announced plans to acquire startup Celestial AI for at least $3.25 billion, part of a push to capture more of the runaway spending on artificial intelligence computing.",
+        "content": "AI\nMarvell to Buy Celestial AI; Shares Jump on Bullish Remarks\nMarvell Technology Inc. announced plans to acquire startup Celestial AI for at least $3.25 billion, part of a push to capture more of the runaway spending on artificial intelligence compu... [306 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-02/marvell-to-buy-chip-startup-celestial-ai-for-about-3-25-billion",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itW0icpRxfMQ/v1/1200x800.jpg",
+        "publishedAt": "2025-12-02T21:20:19Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ce2694afa857043ac9169d079468fbd8",
+        "title": "Amazon announces new AI chips, closer Nvidia ties - but it's cloud capacity that matters most",
+        "description": "Amazon Web Services' two-track approach to artificial intelligence came into better focus Tuesday.",
+        "content": "Amazon Web Services' two-track approach to artificial intelligence came into better focus Tuesday as the world's biggest cloud pushed forward with its own custom chips and got closer to Nvidia . During Amazon 's annual AWS Re:Invent 2025 conference i... [5032 chars]",
+        "url": "https://www.cnbc.com/2025/12/02/amazon-announces-new-ai-chips-closer-nvidia-ties-but-its-cloud-capacity-that-matters-most.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108234913-1764645561370-gettyimages-2188101070-776246284_01_u86qe5ms.jpeg?v=1764702899&w=1920&h=1080",
+        "publishedAt": "2025-12-02T21:20:13Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d2aae8d9ef9046b5026b507fe170ff33",
+        "title": "Chipmaker Marvell forecasts fourth-quarter revenue above estimates",
+        "description": "Marvell Technology forecast\nfourth-quarter revenue above Wall Street estimates on Tuesday,\nsignaling robust demand for its custom artificial intelligence\nchips from large cloud computing clients.\n...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/chipmaker-marvell-forecasts-fourth-quarter-revenue-above-estimates-ce7d51d9d188f12c",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2025-12-02T21:08:19Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "a8bf26b2a0d3978eee624b47bd3678ae",
+        "title": "Japan aims to raise usage of AI to 80% to catch up with global peers",
+        "description": "The Japanese government aims to eventually raise the individual usage of generative artificial intelligence to 80 percent from around 25 percent in fiscal 2024, as the country lags in the use of the technology, draft guidelines for AI use showed Tuesday. According to the draft, the government plans to increase…",
+        "content": "The Japanese government aims to eventually raise the individual usage of generative artificial intelligence to 80 percent from around 25 percent in fiscal 2024, as the country lags in the use of the technology, draft guidelines for AI use showed Tues... [1972 chars]",
+        "url": "https://japantoday.com/category/tech/corrected-japan-aims-to-raise-usage-of-ai-to-80-to-catch-up-with-global-peers",
+        "image": "https://media.japantoday.com/img/store/6e/74/d57e9d10668d933f2e2d37d1a72009aa5d51/istock-1281389422/_w1700.jpeg",
+        "publishedAt": "2025-12-02T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "7cf20a64a57f98779d89c028d9b0b5f4",
+        "title": "Who’s Afraid of the AI Boogeyman?",
+        "description": "Understand the benefits and fears surrounding Artificial Intelligence (AI) and its potential to replace human jobs in various sectors.",
+        "content": "It is becoming ever more obvious that many people fear rapidly developing Artificial Intelligence (AI), for various reasons, such as its supposed superiority, compared to humans, as far as processing and manipulating information is concerned, as well... [16067 chars]",
+        "url": "https://www.activistpost.com/whos-afraid-of-the-ai-boogeyman/",
+        "image": "https://www.activistpost.com/wp-content/uploads/2025/01/favico.png",
+        "publishedAt": "2025-12-02T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "435d508bebcc8689d5c7711d44865b80",
+            "name": "Activist Post",
+            "url": "https://www.activistpost.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6abd05a817fc24823331e9b13f45ca61",
+        "title": "Salesforce AI, Data Momentum Key Ahead of Earnings, Truist Says",
+        "description": "Salesforce will report fiscal Q3 results on Wednesday, and Truist Securities said it is watching for updates on key artificial intelligence and data metrics that underpin the company's Agentic...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/salesforce-ai-data-momentum-key-ahead-of-earnings-truist-says-ce7d51d9d189f325",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2025-12-02T20:41:14Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "878c593c49e1c3886e1ceb144b73e5d0",
         "title": "AI Melania: First lady rolls out audiobook of first memoir in Spanish",
         "description": "First lady Melania Trump is launching a Spanish-language edition of the audiobook of her memoir using artificial intelligence (AI) audio technology to tell her story.",
@@ -61,102 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "ebc814ad9d735d46d224a8cb746c4f5c",
-        "title": "Mistral launches a new generation of AI models to take on the world's giants",
-        "description": "The French AI startup Mistral, specializing in artificial intelligence, has unveiled a new range of AI models designed to compete with sector heavyweights such as OpenAI, Alphabet or DeepSeek. This...",
-        "content": "The French AI startup Mistral, specializing in artificial intelligence, has unveiled a new range of AI models designed to compete with sector heavyweights such as OpenAI, Alphabet or DeepSeek. This announcement comes shortly after a strategic partner... [1474 chars]",
-        "url": "https://www.marketscreener.com/news/mistral-launches-a-new-generation-of-ai-models-to-take-on-the-world-s-giants-ce7d51d9de8ff420",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_3131267_800.jpg",
-        "publishedAt": "2025-12-02T19:39:13Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "6247c64c247703932eda0741b332fc4e",
-        "title": "Is college worth the cost? A majority of Americans say no",
-        "description": "Americans' changing outlook on higher education comes amid rising tuition costs and growing concerns about artificial intelligence.",
-        "content": "Most Americans no longer hold the optimistic view of higher education they once did.\nA new poll published by NBC News found nearly two-thirds of Americans (63%) believe a four-year college degree is \"not worth the cost because people often graduate w... [3072 chars]",
-        "url": "https://www.usatoday.com/story/news/nation/2025/12/02/college-degree-worth-cost-poll/87567664007/",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/02/USAT/87567895007-usatsi-27088269.jpg?crop=3199,1800,x0,y189&width=3199&height=1800&format=pjpg&auto=webp",
-        "publishedAt": "2025-12-02T19:22:37Z",
-        "lang": "en",
-        "source": {
-            "id": "eaeed30dacd1269c1893de860c94a7e7",
-            "name": "USA TODAY",
-            "url": "https://www.usatoday.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4fdea588c23ea26b3fec92007adff6a3",
-        "title": "This is how holiday shoppers are trying AI for better choices and prices",
-        "description": "Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season",
-        "content": "Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season, hoping to give consumers an easier gift-buying experience and themselves an augmented share of online spending.\n... [7365 chars]",
-        "url": "https://www.latimes.com/business/story/2025-12-02/this-is-how-holiday-shoppers-are-trying-ai-for-better-choices-prices",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/0f70c5e/2147483647/strip/true/crop/2910x1528+0+206/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F40%2Fe1%2F6f9cddf04d66ada8c93a1e1b85cb%2F16a354b951004bbbb41acb33725a0d19.jpg",
-        "publishedAt": "2025-12-02T19:08:49Z",
-        "lang": "en",
-        "source": {
-            "id": "492abf277b7277432148b61b21ddc836",
-            "name": "Los Angeles Times",
-            "url": "https://www.latimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e10f46fac886fb322c33c715f5eab690",
-        "title": "Apple shakes up AI team as exec John Giannandrea steps down",
-        "description": "Apple’s artificial intelligence chief John Giannandrea is stepping down from his role as part of a major shakeup of the troubled division, the company announced late Monday.",
-        "content": "Apple’s longtime artificial intelligence chief is leaving as the iPhone maker and its Siri voice assistant scramble to play catchup with AI rivals, the company said.\nJohn Giannandrea, who had served as Apple’s senior vice president of machine learnin... [2087 chars]",
-        "url": "https://nypost.com/2025/12/02/business/apple-shakes-up-ai-team-as-exec-john-giannandrea-steps-down/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116584867.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2025-12-02T19:06:42Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9cd125ebd946b141f8873b0a2b7b1868",
-        "title": "NetApp Collaborates With AWS to Streamline Operations for Enterprises",
-        "description": "NetApp said Tuesday it has launched a collaboration with Amazon.com's Amazon Web Services to allow enterprises to connect AWS's artificial intelligence and analytics services directly with their...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/netapp-collaborates-with-aws-to-streamline-operations-for-enterprises-ce7d51d9de8af226",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2025-12-02T19:04:25Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "a0c5ffba7da739d8b4ecc9dcde002bb3",
-        "title": "Anthropic acquires developer tool startup Bun to scale AI coding",
-        "description": "Artificial intelligence startup Anthropic said on Tuesday it has acquired Bun, which helps developers run and manage codes more effectively, as the Claude maker looks to boost the speed and stability of its coding agent.",
-        "content": "Dec 2 (Reuters) - Artificial intelligence startup Anthropic said on Tuesday it has acquired Bun, which helps developers run and manage codes more effectively, as the Claude maker looks to boost the speed and stability of its coding agent.\nBun is expe... [943 chars]",
-        "url": "https://www.reuters.com/business/media-telecom/anthropic-acquires-developer-tool-startup-bun-scale-ai-coding-2025-12-02/",
-        "image": "https://www.reuters.com/resizer/v2/CCWRQCGNJZK3HJYI7LLNQLPF5Q.jpg?auth=c8e80be0019af6ad0b73be6a2d8e949b6e87568fdc9459c0f07dd370f4452e60&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-12-02T19:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
         }
     }
 ]
