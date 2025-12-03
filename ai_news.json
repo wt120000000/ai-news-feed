@@ -1,5 +1,85 @@
 [
     {
+        "id": "1de07940707098988c99dbfb63fb1231",
+        "title": "Some ChatGPT users see temporary outage",
+        "description": "OpenAI confirmed that its artificial intelligence chatbot service saw a spike in errors before it applied fixes it was keeping an eye on.",
+        "content": "Dec. 2 (UPI) -- ChatGPT malfunctioned for some users on Tuesday, before the company that operates the popular artificial intelligence chatbot announced fixes.\nMore than 3,000 users of ChatGPT reported problems getting the artificial intelligence mode... [1214 chars]",
+        "url": "https://www.upi.com/Top_News/US/2025/12/02/chatgpt-outage/7791764713060/",
+        "image": "https://cdnph.upi.com/sv/ph/og/upi_com/7791764713060/2025/1/a73648ec6a9de3add134a88fb759b08a/v1.5/Some-ChatGPT-users-see-temporary-outage.jpg",
+        "publishedAt": "2025-12-02T22:19:10Z",
+        "lang": "en",
+        "source": {
+            "id": "79baacd62152cf257ee35e8c0bec19a2",
+            "name": "UPI News",
+            "url": "https://www.upi.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ccacc7487a39eebd196ae1453450a216",
+        "title": "Oracle Fear Gauge Closes at Highest Since 2009 on AI Worries",
+        "description": "A risk gauge on Oracle Corp. debt closed at the highest level since the financial crisis after a flood of bond sales from tech giants amplified concerns that a bubble is forming in the artificial-intelligence industry.",
+        "content": "A risk gauge on Oracle Corp. debt closed at the highest level since the financial crisis after a flood of bond sales from tech giants amplified concerns that a bubble is forming in the artificial-intelligence industry.\nThe cost of protecting Oracle’s... [347 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-02/oracle-credit-fear-gauge-hits-highest-since-2009-on-ai-bubble-fears",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQGVlDSCVuzo/v1/1200x800.jpg",
+        "publishedAt": "2025-12-02T22:18:54Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "1e785dc35e13fd8c654d42ad44b1a856",
+        "title": "Tech Industry Drive to Block State AI Laws Hits Wall in Congress",
+        "description": "A powerful coalition of tech companies backed by the White House’s artificial intelligence chief appears to have failed to persuade lawmakers to use a must-pass defense bill to block state governments from regulating artificial intelligence, a key congressional Republican signaled Tuesday.",
+        "content": "A powerful coalition of tech companies backed by the White House’s artificial intelligence chief appears to have failed to persuade lawmakers to use a must-pass defense bill to block state governments from regulating artificial intelligence, a key co... [262 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-02/tech-industry-drive-to-block-state-ai-laws-hits-wall-in-congress",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1DpCXYgWnkQ/v1/1200x800.jpg",
+        "publishedAt": "2025-12-02T22:02:17Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "4344f5bc7b9288cc4b9a8731b73601b1",
+        "title": "White House Summit Aims to De-Risk AI Supply Chain Vulnerabilities",
+        "description": "The United States and eight allied nations are launching a major diplomatic effort, culminating in a December 12 summit, to secure resilient, end-to-end supply chains for critical minerals and semiconductors to safeguard the burgeoning artificial intelligence sector against geopolitical risks from C",
+        "content": "The United States is launching a pivotal diplomatic push with eight allied nations to forge secure, end-to-end supply chains for the critical minerals and advanced semiconductors that underpin the burgeoning artificial intelligence (AI) sector. The e... [4492 chars]",
+        "url": "https://oilprice.com/Energy/Energy-General/White-House-Summit-Aims-to-De-Risk-AI-Supply-Chain-Vulnerabilities.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-02_61bhj9nuhk.jpg",
+        "publishedAt": "2025-12-02T22:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
+            "name": "OilPrice",
+            "url": "https://oilprice.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a46ab1caf333e20971132988e3267be5",
+        "title": "Comparing DNA language models to guide optimal AI selection for genomics",
+        "description": "Researchers at The University of Texas MD Anderson Cancer Center have performed a comprehensive evaluation of five artificial intelligence (AI) models trained on genomic sequences, known as DNA foundation language models. These comparisons provide valuable insights into their strengths and weaknesses and offer a framework for selecting appropriate models based on specific genomic tasks.",
+        "content": "Researchers at The University of Texas MD Anderson Cancer Center have performed a comprehensive evaluation of five artificial intelligence (AI) models trained on genomic sequences, known as DNA foundation language models. These comparisons provide va... [2427 chars]",
+        "url": "https://medicalxpress.com/news/2025-12-dna-language-optimal-ai-genomics.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/comparing-dna-language.jpg",
+        "publishedAt": "2025-12-02T21:46:25Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "89fc7a2302d99ff0dea5cfd2146abf16",
         "title": "Marvell (MRVL) Stock Rises on Deal to Buy Startup Celestial AI",
         "description": "Marvell Technology Inc. announced plans to acquire startup Celestial AI for at least $3.25 billion, part of a push to capture more of the runaway spending on artificial intelligence computing.",
@@ -77,86 +157,6 @@
             "name": "Activist Post",
             "url": "https://www.activistpost.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "6abd05a817fc24823331e9b13f45ca61",
-        "title": "Salesforce AI, Data Momentum Key Ahead of Earnings, Truist Says",
-        "description": "Salesforce will report fiscal Q3 results on Wednesday, and Truist Securities said it is watching for updates on key artificial intelligence and data metrics that underpin the company's Agentic...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/salesforce-ai-data-momentum-key-ahead-of-earnings-truist-says-ce7d51d9d189f325",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2025-12-02T20:41:14Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "878c593c49e1c3886e1ceb144b73e5d0",
-        "title": "AI Melania: First lady rolls out audiobook of first memoir in Spanish",
-        "description": "First lady Melania Trump is launching a Spanish-language edition of the audiobook of her memoir using artificial intelligence (AI) audio technology to tell her story.",
-        "content": "NEWYou can now listen to Fox News articles!\nEXCLUSIVE: First lady Melania Trump is launching a Spanish-language edition of the audiobook of her memoir using artificial intelligence (AI) audio technology to bring her story to millions of Spanish-speak... [2848 chars]",
-        "url": "https://www.foxnews.com/politics/melania-trump-rolls-out-ai-audiobook-memoir-spanish-amazing-journey",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/melania-trump-displaced-children-russia-ukraine.jpg",
-        "publishedAt": "2025-12-02T20:19:16Z",
-        "lang": "en",
-        "source": {
-            "id": "8da923084554b2821233d6c5c5f02c97",
-            "name": "Fox News",
-            "url": "https://www.foxnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "adf373350e64acf9b856527f6b41e858",
-        "title": "Amazon unveils new AI chip in battle against Nvidia",
-        "description": "Amazon Web Services launched its in-house-built Trainium3 AI chip on Tuesday, marking a significant push to compete with Nvidia in the lucrative market for artificial intelligence computing power. The move intensifies competition in the AI chip market, where Nvidia currently dominates with an estimated 80- to 90-percent market share for…",
-        "content": "Amazon Web Services launched its in-house-built Trainium3 AI chip on Tuesday, marking a significant push to compete with Nvidia in the lucrative market for artificial intelligence computing power.\nThe move intensifies competition in the AI chip marke... [2613 chars]",
-        "url": "https://japantoday.com/category/tech/amazon-unveils-new-ai-chip-in-battle-against-nvidia",
-        "image": "https://media.japantoday.com/img/store/a0/55/296f3ae02cc803f6b17a398d5da258c7a178/48d3d00ea790c4bc7b53a424e03e6f9415b44b99/_w1700.jpeg",
-        "publishedAt": "2025-12-02T20:03:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "99ee03b1940637a83bdcd7c8e0985fbc",
-        "title": "Vultr to invest $1 billion in Ohio AI cluster using AMD chips",
-        "description": "Cloud infrastructure company Vultr said on Tuesday it would invest more than $1 billion to launch a new artificial intelligence cluster powered by Advanced Micro Devices' processors at a new data center in Springfield, Ohio.",
-        "content": "The new cluster is a 50-megawatt, 24,000-chip facility that will deploy AMD's Instinct MI355X graphics processing units, which will be interconnected with ethernet-based fabric that improves data transfer speed and traffic flow.\nSign up here.\nVultr i... [1498 chars]",
-        "url": "https://www.reuters.com/business/vultr-invest-1-billion-ohio-ai-cluster-using-amd-chips-2025-12-02/",
-        "image": "https://www.reuters.com/resizer/v2/AUMJPLFKRFI2RHUOP4FOJAXYGY.jpg?auth=1f785a50c1944a6215f102584671d1b3509a9791f2e506c2eaf17943b3737ec8&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-12-02T19:55:30Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d097ac4ead67aac41dda34daf36a9df6",
-        "title": "Vultr to invest $1 billion in Ohio AI cluster using AMD chips",
-        "description": "Cloud infrastructure company Vultr\nsaid on Tuesday it would invest more than $1 billion to launch a\nnew artificial intelligence cluster powered by Advanced Micro\nDevices' processors at a new data...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/vultr-to-invest-1-billion-in-ohio-ai-cluster-using-amd-chips-ce7d51d9de8fff2d",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2025-12-02T19:54:15Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
