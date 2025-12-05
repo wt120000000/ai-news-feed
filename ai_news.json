@@ -1,5 +1,53 @@
 [
     {
+        "id": "ef08e435ce9b3a51b5a7fd69a870cce3",
+        "title": "Govt launches ‘Delhi AI Grind’ to teach AI skills to students from Class 6 onwards",
+        "description": "The initiative aims to increase artificial intelligence (AI) related awareness and train the students to solve real-world problems using AI, said the DoE. | Latest News Delhi",
+        "content": "The Directorate of Education (DoE) in a circular dated December 3 said the initiative, a part of its New Era of Entrepreneurial Ecosystem and Vision (NEEEV), will be implemented between December to March.\n“Delhi AI Grind, a citywide AI innovation ini... [969 chars]",
+        "url": "https://www.hindustantimes.com/cities/delhi-news/govt-launches-delhi-ai-grind-to-teach-ai-skills-to-students-from-class-6-onwards-101764872032652.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2025/12/04/1600x900/logo/The-DoE-has-released-a-detailed-timeline-for-the-i_1764872030644.jpg",
+        "publishedAt": "2025-12-04T23:08:14Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "1f9f9e4af212e93ebd8ecab8ebcc35ac",
+        "title": "Tech Up Amid Mixed AI Earnings Reports -- Tech Roundup",
+        "description": "Shares of technology companies ticked up after mixed reports from the front lines of the artificial-intelligence boom.\nSalesforce rallied after the maker of business software posted robust growth...",
+        "content": "Shares of technology companies ticked up after mixed reports from the front lines of the artificial-intelligence boom.\nSalesforce rallied after the maker of business software posted robust growth in sales of agentic products, AI products that act lik... [847 chars]",
+        "url": "https://www.marketscreener.com/news/tech-up-amid-mixed-ai-earnings-reports-tech-roundup-ce7d51dcd989f721",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2025-12-04T23:07:19Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "cb2382e121c10ba860abb3321f10676e",
+        "title": "AI tailwind meets economic realism",
+        "description": "The global economy is being reshaped by a combination of rising economic nationalism, renewed fiscal activism and rapid advances in artificial intelligence.",
+        "content": "Craig says this shift has implications for inflation and funding costs over the coming decade. “You can think about all that increase in debt as something that would increase the outlook for inflation and those inflation concerns or potentially infla... [6573 chars]",
+        "url": "https://www.afr.com/companies/financial-services/ai-tailwind-meets-economic-realism-20251201-p5njtg",
+        "image": "https://static.ffx.io/images/$zoom_0.776%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/2d2d96966e5e52bb5e738c6ed6c4959b08b898e680374365c18f17d4521863b1",
+        "publishedAt": "2025-12-04T23:04:35Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "0e945fd5abd0ec54ec1fca859980c62b",
         "title": "Senators Seek to Block Nvidia From Selling Top AI Chips to China",
         "description": "Nvidia Corp. would be barred from shipping advanced artificial intelligence chips to China under bipartisan legislation unveiled Thursday in a bid to codify existing US restrictions on exports of advanced semiconductors to the Chinese market.",
@@ -109,54 +157,6 @@
             "name": "The Associated Press",
             "url": "https://apnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "6a3a21abeb9f224d7db5699a051b7807",
-        "title": "US health department unveils strategy to expand its adoption of AI technology",
-        "description": "The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence.",
-        "content": "NEW YORK – The U.S. Department of Health and Human Services on Thursday outlined a strategy to expand its use of artificial intelligence, building on the Trump administration’s enthusiastic embrace of the rapidly advancing technology while raising qu... [4864 chars]",
-        "url": "https://www.clickondetroit.com/health/2025/12/04/us-health-department-unveils-strategy-to-expand-its-adoption-of-ai-technology/",
-        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/STCEYH5RJZF7LBPMREKV7EFMSY.jpg?_a=DATAg1eAZAA0",
-        "publishedAt": "2025-12-04T21:47:29Z",
-        "lang": "en",
-        "source": {
-            "id": "35515662ec044d3f94b543cd8802d63f",
-            "name": "WDIV ClickOnDetroit",
-            "url": "https://www.clickondetroit.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ab73d3cba7e67151d0a1245e35fe427b",
-        "title": "US Health Department Unveils Strategy to Expand Its Adoption of AI Technology",
-        "description": "NEW YORK (AP) — The U.S. Department of Health and Human Services on Thursday outlined a strategy to expand its use of artificial intelligence, building on the Trump administration’s enthusiastic embrace of the rapidly advancing technology while raising questions about how health information would be protected.",
-        "content": "NEW YORK (AP) — The U.S. Department of Health and Human Services on Thursday outlined a strategy to expand its use of artificial intelligence, building on the Trump administration’s enthusiastic embrace of the rapidly advancing technology while raisi... [5002 chars]",
-        "url": "https://www.usnews.com/news/health-news/articles/2025-12-04/us-health-department-unveils-strategy-to-expand-its-adoption-of-ai-technology",
-        "image": "https://www.usnews.com/dims4/USNEWS/8b30a5e/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fdf%2F81a0192e1796baa25e833b267ec064%2F4a9403cb1cd34b278db4eac861648693Western_Governors_12956.jpg",
-        "publishedAt": "2025-12-04T21:47:00Z",
-        "lang": "en",
-        "source": {
-            "id": "37128a060981dbbe79321f096e7d1108",
-            "name": "U.S. News & World Report",
-            "url": "https://www.usnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3a74e868d9e06956cd8a489b102b8c7e",
-        "title": "US senators unveil bill to keep Trump from allowing AI chip sales to China",
-        "description": "The bill comes as the Trump gov’t mulls greenlighting sales of Nvidia’s H200 artificial intelligence chips to China.",
-        "content": "A bipartisan group of United States senators, including prominent Republican China hawk Tom Cotton, has unveiled a bill that would block the administration of President Donald Trump from loosening rules restricting Beijing’s access to artificial inte... [2242 chars]",
-        "url": "https://www.aljazeera.com/economy/2025/12/4/us-senators-unveil-bill-to-keep-trump-from-allowing-ai-chip-sales-to-china",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2022/10/2022-10-05T043447Z_921512572_RC2XQS933LTO_RTRMADP_3_TAIWAN-ECONOMY-CHIPS.jpg?resize=1920%2C1440",
-        "publishedAt": "2025-12-04T21:37:45Z",
-        "lang": "en",
-        "source": {
-            "id": "8ed6c6b6dec4f35a4963354fb78b9754",
-            "name": "Al Jazeera",
-            "url": "https://www.aljazeera.com",
-            "country": "qa"
         }
     }
 ]
