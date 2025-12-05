@@ -1,5 +1,37 @@
 [
     {
+        "id": "ba525c60357e3baba424fcbd9615a2de",
+        "title": "Cornell study warns AI chatbots could sway elections, even persuading opposing voters more easily",
+        "description": "Research has shown that artificial intelligence (AI) chatbots like ChatGPT and Gemini can be highly successful in shifting voter opinion. While at first the AI does back its claims with facts, it can also make up information just to persuade the voter.",
+        "content": "The use of artificial intelligence (AI) chatbots like ChatGPT and Google Gemini is only increasing. All of us are using chatbots to gain information, or in some cases, even advice and AI, it seems, is happy to oblige. Recent research shows AI can giv... [2542 chars]",
+        "url": "https://www.indiatoday.in/technology/news/story/study-warns-ai-chatbots-could-sway-elections-even-persuading-opposing-voters-more-easily-2831176-2025-12-05",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/representational-image-made-with-ai-051301290-16x9_0.png?VersionId=o1zjzd1sOcpW51pA9.LOfhN1DIwnGBtR",
+        "publishedAt": "2025-12-05T07:14:30Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "0600f5a764bde28849eeebe3422f671d",
+        "title": "Meta partners with news outlets to expand AI content",
+        "description": "Meta announced Friday it will integrate content from major news organizations into its artificial intelligence assistant to provide Facebook, Instagram",
+        "content": "Meta announced Friday it will integrate content from major news organizations into its artificial intelligence assistant to provide Facebook, Instagram and WhatsApp users with real-time information.\nThe social media giant said Meta AI will offer brea... [1889 chars]",
+        "url": "https://www.breitbart.com/news/meta-partners-with-news-outlets-to-expand-ai-content/",
+        "image": "https://media.breitbart.com/media/2025/12/wi/afp/meta-ai-offer-breaking-news-entertainment-lifestyle-stories-users-news-questions-drawing-640x335.jpg",
+        "publishedAt": "2025-12-05T06:41:25Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b5e4bda8c132e392a53e41847fa321fe",
         "title": "NITI Aayog’s Frontier Tech Hub Releases Roadmap On Transforming India Into A Leading Quantum-Powered Economy",
         "description": "NITI Aayog’s Frontier Tech Hub released a roadmap on transforming India into a leading quantum-powered economy, noting that quantum technologies stand at the threshold of becoming one of the most transformative forces of our time. Quantum is not just another sector of innovation; it is the foundation of the next era of artificial intelligence, biotechnology, and advanced materials.",
@@ -125,38 +157,6 @@
             "name": "India Today",
             "url": "https://www.indiatoday.in",
             "country": "in"
-        }
-    },
-    {
-        "id": "67f505bd9b07119d15a0d9f9de4d662f",
-        "title": "Anthropic Chief Scientist Jared Kaplan warns AI could replace most white-collar jobs within 3 years: Here’s why",
-        "description": "According to Anthropic chief scientist Jared Kaplan, artificial intelligence is rapidly evolving into a system capable of handling not just simple office tasks but also complex reasoning-analysis.",
-        "content": "Artificial intelligence is advancing at a pace that few people have only expected, and several experts now warn that major changes to white-collar jobs could arrive much sooner than anticipated.\nAccording to Anthropic chief scientist Jared Kaplan, ar... [2375 chars]",
-        "url": "https://www.financialexpress.com/life/technology-anthropic-chief-scientist-jared-kaplan-warns-ai-could-replace-most-white-collar-jobs-within-3-years-heres-why-4066504/",
-        "image": "https://images.financialexpressdigital.com/2025/12/Untitled-design-2025-12-05T095828.152.jpg?quality=100",
-        "publishedAt": "2025-12-05T04:46:52Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "58a10b322d526d79fd38998cfe68d0e4",
-        "title": "ZTE's AI Phone Sells Out on Launch",
-        "description": "A ZTE manufactured artificial intelligence phone sold out within a day of its launch in China, Nikkei reported Friday.\nZTE's Nubia M153 handset, which was available via pre-order for 3,499 yuan,...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/zte-s-ai-phone-sells-out-on-launch-ce7d51dcd889fe24",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2025-12-05T03:42:19Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
