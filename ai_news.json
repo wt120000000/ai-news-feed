@@ -1,5 +1,37 @@
 [
     {
+        "id": "44a2b56966236bdfdf2941a3038537cb",
+        "title": "'AI will not shape judicial decisions': SC",
+        "description": "India's Supreme Court judges are exercising extreme caution with artificial intelligence. They have stated that AI will not be allowed to dictate judicial decisions. The court acknowledged concerns about AI citing non-existent case laws. Judges will cross-check AI outputs. This awareness is part of judicial training. The bar and judges will adapt over time.",
+        "content": "Synopsis\nIndia's Supreme Court judges are exercising extreme caution with artificial intelligence. They have stated that AI will not be allowed to dictate judicial decisions. The court acknowledged concerns about AI citing non-existent case laws. Jud... [1906 chars]",
+        "url": "https://economictimes.indiatimes.com/news/india/ai-will-not-shape-judicial-decisions-sc/articleshow/125794979.cms",
+        "image": "https://img.etimg.com/thumb/msid-125794998,width-1200,height-630,imgsize-34716,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-12-05T19:01:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "192a4e1c9feb647902b5be2cd1546e29",
+        "title": "AI Daily: Senators aim to bar Nvidia from selling AI chips to China",
+        "description": "Catch up on the top artificial intelligence news and commentary by Wall Street analysts on publicly traded companies in the space with this dail...",
+        "content": "Catch up on the top artificial intelligence news and commentary by Wall Street analysts on publicly traded companies in the space with this daily recap compiled by The Fly:\nTipRanks Cyber Monday Sale\nClaim 60% off TipRanks Premium for data-backed ins... [4137 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/ai-daily-senators-aim-to-bar-nvidia-from-selling-ai-chips-to-china-1035623540",
+        "image": "https://markets.businessinsider.com/favicon-32x32.png",
+        "publishedAt": "2025-12-05T18:35:28Z",
+        "lang": "en",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Markets Insider",
+            "url": "https://markets.businessinsider.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "fee05d215e8c40b490005ffcb2524bc2",
         "title": "The spread of AI in UK journalism comes with reservations",
         "description": "Professor Neil Thurman and Sina Thäsler-Kordonouri from the Department of Media and Communication (IfKW) at LMU have published comprehensive findings on the perception and professional use of artificial intelligence by journalists.",
@@ -125,38 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "644cc6ca88ba079e15977bbebb122d63",
-        "title": "Researchers call for clear regulations on AI tools used for mental health interactions",
-        "description": "Artificial Intelligence (AI) can converse, mirror emotions, and simulate human engagement. Publicly available large language models (LLMs)—often used as personalized chatbots or AI characters—are increasingly involved in mental health-related interactions. While these tools offer new possibilities, they also pose significant risks, especially for vulnerable users.",
-        "content": "Artificial Intelligence (AI) can converse, mirror emotions, and simulate human engagement. Publicly available large language models (LLMs)—often used as personalized chatbots or AI characters—are increasingly involved in mental health-related interac... [5196 chars]",
-        "url": "https://medicalxpress.com/news/2025-12-ai-tools-mental-health-interactions.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2025/researchers-call-for-c.jpg",
-        "publishedAt": "2025-12-05T16:44:34Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "0ac9db5844fb234998fd94c785d329d8",
-        "title": "NYT, Chicago Tribune Sue Perplexity AI As Copyright War Rages On",
-        "description": "The New York Times Co. and the Chicago Tribune sued Perplexity AI Inc., saying the artificial intelligence search startup is copying and distributing their exclusive content, the latest in a wave of lawsuits against AI developers. The New York Times complaint filed on Friday says Perplexity’s “large-scale, unlawful copying and distribution” of its content threatens its reputation.",
-        "content": "The New York Times Co. and the Chicago Tribune sued Perplexity AI Inc., saying the artificial intelligence search startup is copying and distributing their exclusive content, the latest in a wave of lawsuits against AI developers.\nThe New York Times ... [1510 chars]",
-        "url": "https://www.ndtvprofit.com/technology/nyt-chicago-tribune-sue-perplexity-ai-as-copyright-war-rages-on",
-        "image": "https://media.assettype.com/bloombergquint%2F2025-12-05%2Fu5j0ueq1%2F445518133.jpg?rect=0%2C52%2C900%2C473&w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-12-05T16:13:08Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
         }
     }
 ]
