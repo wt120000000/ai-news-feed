@@ -1,5 +1,85 @@
 [
     {
+        "id": "162b531b7982e507fab100e198568536",
+        "title": "Marketing in the age of disruption",
+        "description": "Artificial intelligence (AI) tools are also adding their own level of disruption to the marketing process as they compress timelines and increase outcomes. Redundancies are a growing concern in marketing departments.",
+        "content": "A recent study by consultancy firm EY India noted that more than 50% of domestic consumers were switching products quickly, opting for private labels as they sought better value, price and pack sizes. This behaviour, the consultancy noted, is expecte... [3393 chars]",
+        "url": "https://www.financialexpress.com/business/industry-marketing-in-the-age-of-disruption-4067386/",
+        "image": "https://images.financialexpressdigital.com/2025/12/Copy-of-Gallery-2025-12-05T223617.461.jpg?quality=100",
+        "publishedAt": "2025-12-05T17:09:06Z",
+        "lang": "en",
+        "source": {
+            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+            "name": "The Financial Express",
+            "url": "https://www.financialexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b9f9576b8d6703e0d57593a3ed1c24d2",
+        "title": "AI in the classroom: Research focuses on technology rather than the needs of young people",
+        "description": "Generative artificial intelligence (AI) such as ChatGPT has arrived in classrooms and sparked an intense debate about its role in education. These technologies raise the fundamental question of which human skills will still matter in the future.",
+        "content": "Generative artificial intelligence (AI) such as ChatGPT has arrived in classrooms and sparked an intense debate about its role in education. These technologies raise the fundamental question of which human skills will still matter in the future.\nA ne... [3980 chars]",
+        "url": "https://phys.org/news/2025-12-ai-classroom-focuses-technology-young.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/classroom-4.jpg",
+        "publishedAt": "2025-12-05T16:53:31Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "713ad7d811e2c641a863f1e555e8c7c8",
+        "title": "AI Startup Parloa Said to Seek $200 Million in New Funding Round",
+        "description": "Parloa, a German startup developing artificial intelligence for customer service, is looking to raise new funding that would significantly increase its valuation from May, according to people familiar with the matter.",
+        "content": "Parloa, a German startup developing artificial intelligence for customer service, is looking to raise new funding that would significantly increase its valuation from May, according to people familiar with the matter.\nThe company, which has offices i... [324 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-05/ai-startup-parloa-said-to-seek-200-million-in-new-funding-round",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioAT5Wi2yEyU/v1/1200x800.jpg",
+        "publishedAt": "2025-12-05T16:51:12Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "631977db3212f0bedef74f7b1fb3e735",
+        "title": "New York Times sues Perplexity AI for 'illegal' copying of content",
+        "description": "Dec 5 (Reuters) - The New York Times filed a lawsuit against Perplexity AI on Friday, claiming that the artificial intelligence startup was copying, distributing and displaying millions of its articles without permission to power its generative AI products.",
+        "content": "Dec 5 (Reuters) - The New York Times filed a lawsuit against Perplexity AI on Friday, claiming that the artificial intelligence startup was copying, distributing and displaying millions of its articles without permission to power its generative AI pr... [2451 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/12/06/new-york-times-sues-perplexity-ai-for-039illegal039-copying-of-content",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/06/3657688.jpg",
+        "publishedAt": "2025-12-05T16:47:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "644cc6ca88ba079e15977bbebb122d63",
+        "title": "Researchers call for clear regulations on AI tools used for mental health interactions",
+        "description": "Artificial Intelligence (AI) can converse, mirror emotions, and simulate human engagement. Publicly available large language models (LLMs)—often used as personalized chatbots or AI characters—are increasingly involved in mental health-related interactions. While these tools offer new possibilities, they also pose significant risks, especially for vulnerable users.",
+        "content": "Artificial Intelligence (AI) can converse, mirror emotions, and simulate human engagement. Publicly available large language models (LLMs)—often used as personalized chatbots or AI characters—are increasingly involved in mental health-related interac... [5196 chars]",
+        "url": "https://medicalxpress.com/news/2025-12-ai-tools-mental-health-interactions.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2025/researchers-call-for-c.jpg",
+        "publishedAt": "2025-12-05T16:44:34Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "0ac9db5844fb234998fd94c785d329d8",
         "title": "NYT, Chicago Tribune Sue Perplexity AI As Copyright War Rages On",
         "description": "The New York Times Co. and the Chicago Tribune sued Perplexity AI Inc., saying the artificial intelligence search startup is copying and distributing their exclusive content, the latest in a wave of lawsuits against AI developers. The New York Times complaint filed on Friday says Perplexity’s “large-scale, unlawful copying and distribution” of its content threatens its reputation.",
@@ -77,86 +157,6 @@
             "name": "Live 5 News WCSC",
             "url": "https://www.live5news.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "54476f873d2282b41c26e1de40935023",
-        "title": "US health department unveils strategy to expand its adoption of AI technology",
-        "description": "The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence.",
-        "content": "NEW YORK (AP) — The U.S. Department of Health and Human Services on Thursday outlined a strategy to expand its use of artificial intelligence, building on the Trump administration’s enthusiastic embrace of the rapidly advancing technology while raisi... [4869 chars]",
-        "url": "https://www.weau.com/2025/12/05/us-health-department-unveils-strategy-expand-its-adoption-ai-technology/",
-        "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/RLY2HF2XCFHNBMNUDJNHWWGQKA.jpg?auth=c5fbdb40ae1dcde246793f670d1bb5699ba7b15b5f40f2a6378b4d9275e9af4f&width=1200&height=600&smart=true",
-        "publishedAt": "2025-12-05T15:46:42Z",
-        "lang": "en",
-        "source": {
-            "id": "3f09ae62ee37a33ab191a698fec83f4b",
-            "name": "WEAU",
-            "url": "https://www.weau.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5e06f5697dc7c4b5cc721dd5b45ca891",
-        "title": "US health department unveils strategy to expand its adoption of AI technology",
-        "description": "The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence.",
-        "content": "NEW YORK (AP) — The U.S. Department of Health and Human Services on Thursday outlined a strategy to expand its use of artificial intelligence, building on the Trump administration’s enthusiastic embrace of the rapidly advancing technology while raisi... [4869 chars]",
-        "url": "https://www.wistv.com/2025/12/05/us-health-department-unveils-strategy-expand-its-adoption-ai-technology/",
-        "image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/RLY2HF2XCFHNBMNUDJNHWWGQKA.jpg?auth=c5fbdb40ae1dcde246793f670d1bb5699ba7b15b5f40f2a6378b4d9275e9af4f&width=1200&height=600&smart=true",
-        "publishedAt": "2025-12-05T15:46:42Z",
-        "lang": "en",
-        "source": {
-            "id": "04c17c43a7507fac95fd9ba5d47715b5",
-            "name": "WIS10",
-            "url": "https://www.wistv.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a1db92e297f96414abb5e6509394b76f",
-        "title": "China’s AI-Driven Civil-Military Fusion - A Significant Advantage, but Not the End of the War",
-        "description": "China is advancing its goal of becoming a “world-class military” by investing heavily in artificial intelligence, machine learning, robotics, swarming systems, unmanned platforms, and missile technology.",
-        "content": "China is advancing its goal of becoming a “world-class military” by investing heavily in artificial intelligence, machine learning, robotics, swarming systems, unmanned platforms, and missile technology.\nMany of these developments are autonomous or “... [6078 chars]",
-        "url": "https://www.thegatewaypundit.com/2025/12/chinas-ai-driven-civil-military-fusion-significant-advantage/",
-        "image": "https://www.thegatewaypundit.com/wp-content/uploads/2025/12/sacks-2.jpg",
-        "publishedAt": "2025-12-05T15:45:07Z",
-        "lang": "en",
-        "source": {
-            "id": "c7b3fd167c575deb5133f19df6ed778f",
-            "name": "The Gateway Pundit",
-            "url": "https://www.thegatewaypundit.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "73fff2e3128f5a96dde8d8ac8a094350",
-        "title": "How Artificial Intelligence is Reshaping the Education Sector",
-        "description": "Education is no longer about libraries and expensive academies. Today, it’s data, algorithms, and machines that help us. According to the Digital Education Council, 86% of students worldwide already use AI tools in their studies. In fact, 54% of them use them weekly. That’s why the global market for artificial intelligence in education is set […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nEducation is no longer about libraries and expensive academies. Today, it’s data, algorithms, and machines that help us.\nAccording to the Digital Education Council, 86% of students worldwide already use AI tools in their... [5084 chars]",
-        "url": "https://techbullion.com/how-artificial-intelligence-is-reshaping-the-education-sector/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/12/artficial.png",
-        "publishedAt": "2025-12-05T15:32:34Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "11ebdc3eee9bdfc3cc548a63eda0e2c3",
-        "title": "CEO Matthew Prince In Focus As Cloudflare Recovers From Global Disruption",
-        "description": "According to Matthew Prince the era dominated by search engines is ending, suggesting the next 30 years will be shaped by artificial intelligence.",
-        "content": "Internet infrastructure company Cloudflare announced on Friday that it had fully restored services after a brief outage earlier in the day that disrupted major global platforms including LinkedIn, Zoom, and several others. The incident marked the com... [1793 chars]",
-        "url": "https://www.ndtv.com/feature/ceo-matthew-prince-in-focus-as-cloudflare-recovers-from-global-disruption-9758774",
-        "image": "https://c.ndtvimg.com/2025-12/jcs1d8d_matthew-prince-ceo-of-cloudflare_625x300_05_December_25.jpeg",
-        "publishedAt": "2025-12-05T15:27:21Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
-            "country": "in"
         }
     }
 ]
