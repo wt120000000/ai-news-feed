@@ -1,5 +1,21 @@
 [
     {
+        "id": "62fbd7f50fdaad713334ef9b36ca1db9",
+        "title": "Google Must Limit Default Contracts to One Year, Judge Rules",
+        "description": "Alphabet Inc.’s Google must renegotiate any contract to make its search engine or artificial intelligence app the default for smartphones and other devices every year, a federal judge ruled.",
+        "content": "Alphabet Inc.’s Google must renegotiate any contract to make its search engine or artificial intelligence app the default for smartphones and other devices every year, a federal judge ruled.\nJudge Amit Mehta in Washington sided with the US Justice De... [328 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-05/google-must-limit-default-contracts-to-one-year-judge-rules",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itphh5qjBkH4/v1/1200x800.jpg",
+        "publishedAt": "2025-12-05T22:24:42Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "62a8bfbec0111e6081658200ca9addd2",
         "title": "AI can dramatically speed up digitizing natural history collections",
         "description": "A new study from UNC-Chapel Hill researchers shows that advanced artificial intelligence tools, specifically large language models (LLMs), can accurately determine the locations where plant specimens were originally collected, a process known as georeferencing.",
@@ -141,22 +157,6 @@
             "name": "CHEK News",
             "url": "https://cheknews.ca",
             "country": "ca"
-        }
-    },
-    {
-        "id": "5b036bf79c15d011c7b428fbc646670f",
-        "title": "Meta partners with news outlets to expand AI content",
-        "description": "Meta announced Friday it will integrate content from major news organizations into its artificial intelligence assistant to provide Facebook, Instagram and WhatsApp users with real-time information. The social media giant said Meta AI will offer breaking news, entertainment and lifestyle stories when users ask news-related questions, drawing from partnerships with…",
-        "content": "Meta announced Friday it will integrate content from major news organizations into its artificial intelligence assistant to provide Facebook, Instagram and WhatsApp users with real-time information.\nThe social media giant said Meta AI will offer brea... [3103 chars]",
-        "url": "https://japantoday.com/category/tech/meta-partners-with-news-outlets-to-expand-ai-content1",
-        "image": "https://media.japantoday.com/img/store/9e/ff/80cb28f7258d8f5ebf017d7be1c1307a32eb/48cd1513aa18e11c7789a1dcb740a5ba34fb56b9/_w1700.jpeg",
-        "publishedAt": "2025-12-05T20:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
