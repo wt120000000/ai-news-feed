@@ -1,5 +1,37 @@
 [
     {
+        "id": "83e9d6293b4c565db7207232eb18ed57",
+        "title": "'Changing every sector of society'",
+        "description": "The growth of artificial intelligence and its energy demands threatens to outpace the industry's clean energy efforts.",
+        "content": "The growth of artificial intelligence and its energy demands threatens to outpace the industry’s clean energy efforts.\nWhat’s happening?\nIn just five years, the AI industry’s net-zero pollution goal may be “out of reach,” according to the Cornell Chr... [3064 chars]",
+        "url": "https://www.europesays.com/2615659/",
+        "image": "https://www.europesays.com/wp-content/uploads/2025/12/AI-environmental-impactimage-recgrQtgJ7bTXL2Ee.jpg",
+        "publishedAt": "2025-12-06T05:18:18Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "08e040e91095f5cd4faffbc6907b904c",
+        "title": "Amazon Expects Its $12.7 bn AI Investment to Benefit 15 mn Small Biz in India by 2030",
+        "description": "Amazon projects that its $12.7bn artificial intelligence investment will help 15 million small businesses in India by 2030, boosting digital adoption and innovation.",
+        "content": "Big tech firm Amazon expects its planned investment of USD 12.7 billion in building local cloud and AI infrastructure to benefit 15 million small businesses in India by 2030, a senior company official said on Friday.\nThe company has set a target to t... [1512 chars]",
+        "url": "https://www.outlookbusiness.com/corporate/amazon-expects-its-127-bn-ai-investment-to-benefit-15-mn-small-biz-in-india-by-2030",
+        "image": "https://media.assettype.com/outlookbusiness/import/imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Amazon__1642430162.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2025-12-06T04:58:10Z",
+        "lang": "en",
+        "source": {
+            "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+            "name": "Outlook Business",
+            "url": "https://www.outlookbusiness.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "ac478d8667a8c3f52026c56a0529529c",
         "title": "Govt deploys AI tools to improve crop productivity, farmer livelihoods",
         "description": "Govt deploys AI tools to improve crop productivity, farmer livelihoods - New Delhi, Dec 6 The government has employed Artificial Intelligence (AI) methods to improve crop productivity, sustainability and ... Get Latest News on National only on lokmattimes.com",
@@ -124,38 +156,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "62a8bfbec0111e6081658200ca9addd2",
-        "title": "AI can dramatically speed up digitizing natural history collections",
-        "description": "A new study from UNC-Chapel Hill researchers shows that advanced artificial intelligence tools, specifically large language models (LLMs), can accurately determine the locations where plant specimens were originally collected, a process known as georeferencing.",
-        "content": "A new study from UNC-Chapel Hill researchers shows that advanced artificial intelligence tools, specifically large language models (LLMs), can accurately determine the locations where plant specimens were originally collected, a process known as geor... [2618 chars]",
-        "url": "https://phys.org/news/2025-12-ai-digitizing-natural-history.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/unc-chapel-hill-study-1.jpg",
-        "publishedAt": "2025-12-05T22:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "f5b9b5d546ec1230576196f9aa7ea48f",
-        "title": "To AI or not to AI? Do college students appreciate the question?",
-        "description": "Students are using AI tools more than ever. An Angelo State University professor designed a way to figure out if his students were using artificial intelligence on a recent paper.We speak with Will Teague, who says students are sacrificing their own agency to artificial intelligence. For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Henry Larson and Karen Zamora, with additional reporting by Ayana Archie and Lee V. Gaines. It was edited by Justine Kenin and Courtney Dorning. Our executive producer is Sami Yenigun.",
-        "content": "Students are using AI tools more than ever.\nAn Angelo State University professor designed a way to figure out if his students were using artificial intelligence on a recent paper.\nWe speak with Will Teague, who says students are sacrificing their own... [393 chars]",
-        "url": "https://www.npr.org/2025/12/05/nx-s1-5634649/to-ai-or-not-to-ai-do-college-students-appreciate-the-question",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3508x1973+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2Fd7%2Fa41f150b4621b238aa2907b432c7%2F5972d6e2-48b5-4ffb-bf6b-e690e365e9f6.jpg",
-        "publishedAt": "2025-12-05T21:32:53Z",
-        "lang": "en",
-        "source": {
-            "id": "b41851fb2662ea502db29f71ec4d1583",
-            "name": "NPR",
-            "url": "https://www.npr.org",
             "country": "us"
         }
     }
