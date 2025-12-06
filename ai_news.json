@@ -1,5 +1,53 @@
 [
     {
+        "id": "01d55451374cdd24d30f8f4ac16934e8",
+        "title": "EU backslides on AI rules - what does it mean for Switzerland?",
+        "description": "The European Commission wants to delay implementing parts of its new Artificial Intelligence Act, giving big tech companies more time to harness citizens’ data. The move could also affect Switzerland, whose digital policies often follow Brussels’ lead.",
+        "content": "The European Commission wants to delay implementing parts of its new Artificial Intelligence Act, giving big tech companies more time to harness citizens’ data. The move could also affect Switzerland, whose digital policies often follow Brussels’ lea... [7577 chars]",
+        "url": "https://www.swissinfo.ch/eng/swiss-ai/eu-backslides-on-ai-rules-what-does-it-mean-for-switzerland/90588011",
+        "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/12/GettyImages-2246856471.jpg?ver=abafe8f3&fit=1200,800",
+        "publishedAt": "2025-12-06T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "dcb757ba5480d7edec9ca152d58b7d3d",
+            "name": "Swissinfo (EN)",
+            "url": "https://www.swissinfo.ch",
+            "country": "ch"
+        }
+    },
+    {
+        "id": "b72e5c6362dd93c795ed313f3fb2639c",
+        "title": "How Pluribus nails AI’s great flattening effect",
+        "description": "What lessons does the hivemind in the drama Pluribus have for humanity in thrall to artificial intelligence?",
+        "content": "Spoilers follow, if you care about such things and have not tuned into any of the discourse around the series. In Pluribus, an alien virus takes over humanity and turns people into zombies—only, these are the nicest, kindest zombies ever seen in fict... [915 chars]",
+        "url": "https://www.livemint.com/mint-lounge/business-of-life/pluribus-apple-tv-plus-vince-gilligan-hivemind-ai-metaphor-11764915160246.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/12/05/1600x900/logo/Pluribus_AI_1764923449793_1764923462985.jpg",
+        "publishedAt": "2025-12-06T08:30:12Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "a0ccf62113756ee95066e4f7cf454f8e",
+        "title": "Tim Cook's AI Reset Will Pay Off, Gene Munster Says- Predicts Apple's Top Mag 7 Performance",
+        "description": "On Friday, Deepwater Asset Management's Gene Munster says Apple Inc.'s (NASDAQ: AAPL) sweeping leadership shake-up is a strategic reset designed to strengthen its position in artificial intelligence — and he believes the company's stock will lead the Magnificent 7 through spring.",
+        "content": "On Friday, Deepwater Asset Management's Gene Munster says Apple Inc.'s (NASDAQ:AAPL) sweeping leadership shake-up is a strategic reset designed to strengthen its position in artificial intelligence — and he believes the company's stock will lead the ... [3403 chars]",
+        "url": "https://www.benzinga.com/markets/tech/25/12/49245674/tim-cooks-ai-reset-will-pay-off-gene-munster-says-predicts-apples-top-mag-7-performance",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/12/06/West-Bangal--India---April-20--2022--App.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-12-06T08:30:02Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "9864da540f5a7e209c7dadd5dfa6a37c",
         "title": "\"Projection, Not Always Prognostication\": S Jaishankar On How AI's Role In Diplomacy",
         "description": "Foreign Minister S Jaishankar, on Saturday,offered a candid reflection on the growing influence of artificial intelligence in global diplomacy during a conversation with NDTV's CEO and Editor-in-Chief Rahul Kanwal at the HT Leadership Summit.",
@@ -109,54 +157,6 @@
             "name": "Free Press Journal",
             "url": "https://www.freepressjournal.in",
             "country": "in"
-        }
-    },
-    {
-        "id": "2c15e96ba2364904a0f79ba1c9c979c2",
-        "title": "Meta partners with news outlets to expand AI content",
-        "description": "Meta announced Friday it will integrate content from major news organisations into its artificial intelligence assistant",
-        "content": "Meta announced Friday it will integrate content from major news organisations into its artificial intelligence assistant to provide Facebook, Instagram and WhatsApp users with real-time information.\nThe social media giant said Meta AI will offer brea... [3094 chars]",
-        "url": "https://www.thehindu.com/sci-tech/technology/meta-partners-with-news-outlets-to-expand-ai-content/article70364566.ece",
-        "image": "https://th-i.thgim.com/public/incoming/7bi54l/article70364567.ece/alternates/LANDSCAPE_1200/2025-12-04T142430Z_1709368493_RC2P9IAFMKIB_RTRMADP_3_META-PLATFORMS-AI.JPG",
-        "publishedAt": "2025-12-06T06:00:18Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1ec5daaa3bd58b085bc80b5c387ca192",
-        "title": "Bernie Sanders Echoes Pope Leo's Warning On AI, Says Technology Must Serve The Common Good- Not Concentrate Wealth And Power In Big Tech",
-        "description": "Sen. Bernie Sanders (I-Vt.) echoed Pope Leo XIV's call for ethical artificial intelligence (AI) development on Friday.",
-        "content": "Sen. Bernie Sanders (I-Vt.) echoed Pope Leo XIV's call for ethical artificial intelligence (AI) development on Friday.\nPope Warns Of AI's Human Impact\nPope Leo XIV stressed that humans are \"called to be co-workers in the work of creation, not merely ... [2684 chars]",
-        "url": "https://www.benzinga.com/markets/tech/25/12/49245484/bernie-sanders-echoes-pope-leos-warning-on-ai-says-technology-must-serve-the-common-good-not-concentrate-wealth-and-power-in-big-tech",
-        "image": "https://cdn.benzinga.com/files/images/story/2025/12/06/Rome--Italy---May-11--2025-Pope-Leo-Xiv-.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2025-12-06T05:31:47Z",
-        "lang": "en",
-        "source": {
-            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-            "name": "Benzinga",
-            "url": "https://www.benzinga.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "90d859d266457770240145a38d2cadd8",
-        "title": "The final frontier for computing: Google’s cosmic gambit for AI",
-        "description": "Google has announced Project Suncatcher, an initiative to build solar-powered data centers in space, with plans to launch initial hardware by 2027. The move is a response to the massive and growing energy demands of artificial intelligence, which are straining terrestrial power grids. Tech leaders like Elon Musk and Jeff Bezos have endorsed the concept, […]",
-        "content": "Google has announced Project Suncatcher, an initiative to build solar-powered data centers in space, with plans to launch initial hardware by 2027.\nThe move is a response to the massive and growing energy demands of artificial intelligence, which are... [5720 chars]",
-        "url": "https://www.naturalnews.com/2025-12-06-final-frontier-computing-googles-cosmic-gambit-ai.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Editorial-Use-Google-Office.jpg",
-        "publishedAt": "2025-12-06T05:21:22Z",
-        "lang": "en",
-        "source": {
-            "id": "188e9ebf53d05fc7ba360240a0b28154",
-            "name": "Natural News",
-            "url": "https://www.naturalnews.com",
-            "country": "us"
         }
     }
 ]
