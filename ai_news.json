@@ -1,5 +1,37 @@
 [
     {
+        "id": "8f7c62045fb04fe741ffb5e013c6d651",
+        "title": "Japan's Nikkei edges lower, big tech shares drag amid valuation worries",
+        "description": "Japan's Nikkei share average\nedged lower on Monday, weighed by tech stocks amid continued\ninvestor caution about sky-high valuations for artificial\nintelligence-related shares.\nAt the same time, a...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/japan-s-nikkei-edges-lower-big-tech-shares-drag-amid-valuation-worries-ce7d51dddd89f225",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2025-12-08T03:47:18Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "a72e74c5097335540ed3005e3bb91035",
+        "title": "America's AI race success depends on winning the energy race first: expert",
+        "description": "America's artificial intelligence competitiveness depends on energy infrastructure, with natural gas projected to meet 60% of AI data center power demand growth.",
+        "content": "America’s ability to compete in the global artificial intelligence (AI) race may depend less on computing power and more on the energy required to sustain it.\n\"The AI race is definitely an energy race, and one of the things that we've said is that in... [2290 chars]",
+        "url": "https://www.foxbusiness.com/energy/americas-ai-dominance-depends-winning-power-race-against-china-energy-expert-warns",
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/nathan-lord-data-centers.jpg?ve=1&tl=1",
+        "publishedAt": "2025-12-08T03:34:54Z",
+        "lang": "en",
+        "source": {
+            "id": "1b97b25c0ec482f85326378f82f7f815",
+            "name": "Fox Business",
+            "url": "https://www.foxbusiness.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "24e47123f6fe645ebc80bce627baf3c4",
         "title": "Is AI a bubble that’s about to pop? – podcast",
         "description": "For months there have been fears that artificial intelligence is a bubble and that it is about to burst.",
@@ -125,38 +157,6 @@
             "name": "Hindustan Times",
             "url": "https://www.hindustantimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "fb81277a79ab8312564afab11cfa52ed",
-        "title": "Prediction: Nvidia stock is going to soar past $300 in 2026",
-        "description": "Nvidia is gearing up to launch a new range of artificial intelligence chips next year.",
-        "content": "This article was originally published on Fool.com. All figures quoted in US dollars unless otherwise stated.\nNvidia's (NASDAQ: NVDA) graphics processing units (GPUs) for data centers are the gold standard for developing artificial intelligence (AI) m... [4557 chars]",
-        "url": "https://www.fool.com.au/2025/12/08/prediction-nvidia-stock-is-going-to-soar-past-300-in-2026-usfeed/",
-        "image": "https://www.fool.com.au/wp-content/uploads/2024/08/chip-1200x675.jpg",
-        "publishedAt": "2025-12-08T01:14:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c6075ba0dc9d123bb327faaa419d3d07",
-            "name": "The Motley Fool Australia",
-            "url": "https://www.fool.com.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "f193aa89e0336a559b9b0af278d58f71",
-        "title": "Artificially intelligent: The evolving threat of deepfakes",
-        "description": "With artificial intelligence increasingly being used to augment and sometimes create photos and videos populating social media feeds, how can you tell what's authentic and what's not? Experts weigh in with some pointers.",
-        "content": "An awkward-looking celebrity endorses a sketchy investment plan. Another odd clip shows snowy weather in central Kuala Lumpur. Do those videos come off as plausible, or are they plain preposterous?\nWith the current state of artificial intelligence (A... [11372 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2025/12/08/artificially-intelligent-the-evolving-threat-of-deepfakes",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/07/3659662.jpg",
-        "publishedAt": "2025-12-08T01:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
