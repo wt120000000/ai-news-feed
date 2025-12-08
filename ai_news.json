@@ -1,5 +1,21 @@
 [
     {
+        "id": "6615df42c150f287113b2db84fbca749",
+        "title": "OpenAI strikes deal on $4.6 bil AI center in Australia",
+        "description": "ChatGPT maker OpenAI and an Australian data center operator have agreed to develop a multibillion-dollar AI center in Sydney. Brisbane-headquartered NextDC said it signed a memorandum of understanding with OpenAI to develop an artificial intelligence campus and a \"supercluster\" of graphics processing units. The two firms will collaborate on planning,…",
+        "content": "ChatGPT maker OpenAI and an Australian data center operator have agreed to develop a multibillion-dollar AI center in Sydney.\nBrisbane-headquartered NextDC said it signed a memorandum of understanding with OpenAI to develop an artificial intelligence... [937 chars]",
+        "url": "https://japantoday.com/category/tech/openai-strikes-deal-on-us-4.6-bn-ai-centre-in-australia",
+        "image": "https://media.japantoday.com/img/store/29/6e/22e1f61e9cc37b499006fbcb264696d982cc/c95f4b31c178a1c7c518568d06038f2050179166-1/_w1700.jpeg",
+        "publishedAt": "2025-12-07T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "d8cc23ef7bf173d01039d84ef697df1e",
         "title": "Jamie Dimon predicts AI will benefit mankind if properly regulated",
         "description": "Jamie Dimon told Fox News' Maria Bartiromo on Sunday that artificial intelligence will likely create more jobs \"in the short run\" given the technology is properly regulated.",
@@ -140,22 +156,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "718aa290765c75d83e63a7fdaced91e0",
-        "title": "Big Tech May Soon Have Monopoly On Power As America Faces Energy Crisis",
-        "description": "As Big Tech develops more artificial intelligence (AI) data centers, advocates flaunt the promise of more jobs and innovation, while others warn about the impending power crunch and potential antitrust issues as a handful of companies could dominate the power sector.",
-        "content": "From THE DAILY CALLER\nAudrey Streb\nDCNF Energy Reporter\nAs Big Tech develops more artificial intelligence (AI) data centers, advocates flaunt the promise of more jobs and innovation, while others warn about the impending power crunch and potential an... [5084 chars]",
-        "url": "https://wattsupwiththat.com/2025/12/07/big-tech-may-soon-have-monopoly-on-power-as-america-faces-energy-crisis/",
-        "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/12/232151774_m.webp?fit=1024%2C512&quality=75&ssl=1",
-        "publishedAt": "2025-12-07T14:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c85e15f10f76e6bbc0ee7df63f5e2b27",
-            "name": "Watts Up With That",
-            "url": "https://wattsupwiththat.com",
             "country": "us"
         }
     }
