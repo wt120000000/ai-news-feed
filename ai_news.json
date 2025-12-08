@@ -1,5 +1,85 @@
 [
     {
+        "id": "31dd1f52ce4d02ae4a1fb32a8596c3ab",
+        "title": "Five Reasons Investors Are Feeling Good About Stocks Again",
+        "description": "Recent gains reflect more than just optimism about artificial intelligence.",
+        "content": "Stocks are back near records, recovering from a slump spurred by fears that the excitement about the artificial-intelligence boom has outstripped the potential profits.\nOptimism about AI has proved durable. But other important factors are also poweri... [5054 chars]",
+        "url": "https://www.livemint.com/global/five-reasons-investors-are-feeling-good-about-stocks-again-11765157542952.html",
+        "image": "https://www.livemint.com/lm-img/img/2025/12/08/1600x900/logo/US-STOCKS-13_1765157683760_1765157697255.jpg",
+        "publishedAt": "2025-12-08T01:36:22Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "21b18b24f617f24ded246264a1187a16",
+        "title": "Godfather of AI Geoffrey Hinton Says CS Degrees Still Matter-Even as AI Reshapes Coding Careers",
+        "description": "Geoffrey Hinton, best known as the “Godfather of AI,” is pushing back against the growing belief that artificial intelligence is making computer science degrees obsolete. Speaking to Business Insider, Geoffrey Hinton argued that while AI is rapidly transforming coding jobs, now is not the time for students to abandon computer science as a field of",
+        "content": "Geoffrey Hinton, best known as the “Godfather of AI,” is pushing back against the growing belief that artificial intelligence is making computer science degrees obsolete. Speaking to Business Insider, Geoffrey Hinton argued that while AI is rapidly t... [866 chars]",
+        "url": "https://usaherald.com/godfather-of-ai-geoffrey-hinton-says-cs-degrees-still-matter-even-as-ai-reshapes-coding-careers/",
+        "image": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+        "publishedAt": "2025-12-08T01:35:41Z",
+        "lang": "en",
+        "source": {
+            "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+            "name": "USA Herald",
+            "url": "https://usaherald.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "1da60fbbd764840ee31f21cbe8c71798",
+        "title": "Putin Wanted AI Supremacy. Now Russia Is Struggling to Stay in the Race.",
+        "description": "Moscow finds itself even more dependent on China as war and sanctions curb artificial-intelligence efforts. | World News",
+        "content": "Western sanctions choked off Russia’s access to critical hardware such as computer chips and hamstrung its domestic production abilities. Russian companies now depend on middlemen in third countries to secure everything from high-end chips to even a ... [6298 chars]",
+        "url": "https://www.hindustantimes.com/world-news/putin-wanted-ai-supremacy-now-russia-is-struggling-to-stay-in-the-race-101765157122449.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2025/12/08/1600x900/logo/im-74738846_1765157265589_1765157273289.jpg",
+        "publishedAt": "2025-12-08T01:28:17Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "fb81277a79ab8312564afab11cfa52ed",
+        "title": "Prediction: Nvidia stock is going to soar past $300 in 2026",
+        "description": "Nvidia is gearing up to launch a new range of artificial intelligence chips next year.",
+        "content": "This article was originally published on Fool.com. All figures quoted in US dollars unless otherwise stated.\nNvidia's (NASDAQ: NVDA) graphics processing units (GPUs) for data centers are the gold standard for developing artificial intelligence (AI) m... [4557 chars]",
+        "url": "https://www.fool.com.au/2025/12/08/prediction-nvidia-stock-is-going-to-soar-past-300-in-2026-usfeed/",
+        "image": "https://www.fool.com.au/wp-content/uploads/2024/08/chip-1200x675.jpg",
+        "publishedAt": "2025-12-08T01:14:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c6075ba0dc9d123bb327faaa419d3d07",
+            "name": "The Motley Fool Australia",
+            "url": "https://www.fool.com.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "f193aa89e0336a559b9b0af278d58f71",
+        "title": "Artificially intelligent: The evolving threat of deepfakes",
+        "description": "With artificial intelligence increasingly being used to augment and sometimes create photos and videos populating social media feeds, how can you tell what's authentic and what's not? Experts weigh in with some pointers.",
+        "content": "An awkward-looking celebrity endorses a sketchy investment plan. Another odd clip shows snowy weather in central Kuala Lumpur. Do those videos come off as plausible, or are they plain preposterous?\nWith the current state of artificial intelligence (A... [11372 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/12/08/artificially-intelligent-the-evolving-threat-of-deepfakes",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/07/3659662.jpg",
+        "publishedAt": "2025-12-08T01:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "0bee24e550d510db174812b64e0bf10e",
         "title": "The government AI that stopped 400kg of drugs at the border",
         "description": "Home Affairs stopped more than 400 kilograms of illegal drugs entering Australia over the past two years with the help of its own artificial intelligence model.",
@@ -77,86 +157,6 @@
             "name": "Daily Excelsior",
             "url": "https://www.dailyexcelsior.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "ff3fba32d2fa04231914aa9588e89e89",
-        "title": "AI/MI-based apps will play key role in power distribution: Manohar Lal",
-        "description": "NEW DELHI, Dec 7 : Artificial Intelligence (AI) and Machine Learning (ML)-based applications will play a pivotal role in building intelligent, consumer-centric, self-optimising distribution networks, Power Minister Manohar Lal said on Sunday. The minister was addressing participants at a two-day national conference focusing on the use of AI/ML technologies in the power distribution sector, here on Sunday, a power ministry statement said. He noted that the AI/ML-based solutions, smart meter analytics, digital twins, predictive maintenance, theft detection intelligence, appliance-level consumer […]",
-        "content": "NEW DELHI, Dec 7 : Artificial Intelligence (AI) and Machine Learning (ML)-based applications will play a pivotal role in building intelligent, consumer-centric, self-optimising distribution networks, Power Minister Manohar Lal said on Sunday.\nThe min... [2460 chars]",
-        "url": "https://www.dailyexcelsior.com/ai-mi-based-apps-will-play-key-role-in-power-distribution-manohar-lal/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2025/12/Manohar-Lal.jpg",
-        "publishedAt": "2025-12-07T22:30:05Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "0da1154414178319afba48c359d91a7e",
-        "title": "City Fires Up ‘AI Grind’ To Code, Craft & Create Future Thinkers",
-        "description": "New Delhi: The capital is stepping into the era of artificial intelligence with an initiative designed to turn students into innovators, problem-solve.",
-        "content": "New Delhi: The capital is stepping into the era of artificial intelligence with an initiative designed to turn students into innovators, problem-solvers and future tech leaders. On Sunday, chief minister Rekha Gupta launched ‘Delhi AI Grind' at Centr... [3178 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/delhi/city-fires-up-ai-grind-to-code-craft-create-future-thinkers/articleshow/125819583.cms",
-        "image": "https://static.toiimg.com/thumb/msid-125819582,width-1070,height-580,imgsize-50058,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-        "publishedAt": "2025-12-07T22:24:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6615df42c150f287113b2db84fbca749",
-        "title": "OpenAI strikes deal on $4.6 bil AI center in Australia",
-        "description": "ChatGPT maker OpenAI and an Australian data center operator have agreed to develop a multibillion-dollar AI center in Sydney. Brisbane-headquartered NextDC said it signed a memorandum of understanding with OpenAI to develop an artificial intelligence campus and a \"supercluster\" of graphics processing units. The two firms will collaborate on planning,…",
-        "content": "ChatGPT maker OpenAI and an Australian data center operator have agreed to develop a multibillion-dollar AI center in Sydney.\nBrisbane-headquartered NextDC said it signed a memorandum of understanding with OpenAI to develop an artificial intelligence... [937 chars]",
-        "url": "https://japantoday.com/category/tech/openai-strikes-deal-on-us-4.6-bn-ai-centre-in-australia",
-        "image": "https://media.japantoday.com/img/store/29/6e/22e1f61e9cc37b499006fbcb264696d982cc/c95f4b31c178a1c7c518568d06038f2050179166-1/_w1700.jpeg",
-        "publishedAt": "2025-12-07T21:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "d8cc23ef7bf173d01039d84ef697df1e",
-        "title": "Jamie Dimon predicts AI will benefit mankind if properly regulated",
-        "description": "Jamie Dimon told Fox News' Maria Bartiromo on Sunday that artificial intelligence will likely create more jobs \"in the short run\" given the technology is properly regulated.",
-        "content": "JPMorgan Chase CEO Jamie Dimon offered an optimistic outlook on artificial intelligence (AI), predicting the technology will not \"dramatically reduce\" jobs over the next year — provided it is properly regulated.\nDimon was asked by Fox News' Maria Bar... [2376 chars]",
-        "url": "https://www.foxbusiness.com/media/jamie-dimon-predicts-ai-not-dramatically-reduce-jobs-next-year",
-        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/0/0/jamie-dimon-at-america-business-forum.jpg?ve=1&tl=1",
-        "publishedAt": "2025-12-07T19:06:12Z",
-        "lang": "en",
-        "source": {
-            "id": "1b97b25c0ec482f85326378f82f7f815",
-            "name": "Fox Business",
-            "url": "https://www.foxbusiness.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "880c4e0dfe5b6ee7bb04d1a4220ded70",
-        "title": "Tech tip: Up your Christmas shopping game with AI tools",
-        "description": "Shopping assistant chatbots were a novelty a year ago. Now, they’re everywhere. After rolling out AI-powered assistants, online retailers and tech companies have been adding more artificial intelligence features to make online shopping easier and more convenient. The latest crop of AI-powered shopping services and tools made their debut in…",
-        "content": "Shopping assistant chatbots were a novelty a year ago. Now, they’re everywhere.\nAfter rolling out AI-powered assistants, online retailers and tech companies have been adding more artificial intelligence features to make online shopping easier and mor... [7170 chars]",
-        "url": "https://japantoday.com/category/tech/one-tech-tip-up-your-christmas-shopping-game-with-ai-tools",
-        "image": "https://media.japantoday.com/img/store/c7/61/6ffe67036ece53b5b79451194d4a5a616f14/download/_w1700.jpeg",
-        "publishedAt": "2025-12-07T18:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
