@@ -1,5 +1,37 @@
 [
     {
+        "id": "87f176851b7b4c66318778de3aed4a9e",
+        "title": "Could AI replace seasonal workers?",
+        "description": "Artificial intelligence could reduce seasonal hiring by 20%-30% as companies like ReverseLogix automate returns processing, replacing manual workers with AI systems.",
+        "content": "Artificial intelligence isn’t just reshaping corporate America – it could also change how companies hire seasonal workers.\nReverseLogix CEO Gaurav Saran is helping a growing list of retailers make their returns process more efficient by automating th... [4135 chars]",
+        "url": "https://www.foxbusiness.com/lifestyle/could-ai-replace-seasonal-workers",
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/0/0/amazon-factory-employee.jpg?ve=1&tl=1",
+        "publishedAt": "2025-12-08T11:00:21Z",
+        "lang": "en",
+        "source": {
+            "id": "1b97b25c0ec482f85326378f82f7f815",
+            "name": "Fox Business",
+            "url": "https://www.foxbusiness.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "61ceeef49545754fab2adddd2794ede8",
+        "title": "Optimizing the Unseen: How Data-Driven Rigor Secures Trillion-Parameter AI Performance",
+        "description": "Every leap in artificial intelligence depends on hardware operating at the edge of physics. Beneath the software that trains trillion-parameter models lies an architecture measured in nanometers, where a single irregular atom can disrupt the stability of entire systems. Inside that threshold between precision and probability, Deepak Musuwathi Ekanath has built a framework that keeps the world’s most demanding processors consistent, reliable, and predictable.",
+        "content": "Share\nShare\nShare\nShare\nEmail\nPhoto Courtesy of Deepak Musuwathi Ekanath\nEvery leap in artificial intelligence depends on hardware operating at the edge of physics. Beneath the software that trains trillion-parameter models lies an architecture measu... [5971 chars]",
+        "url": "https://techbullion.com/optimizing-the-unseen-how-data-driven-rigor-secures-trillion-parameter-ai-performance/",
+        "image": "https://techbullion.com/wp-content/uploads/2025/12/Deepak-Musuwathi-Ekanath-798x600.jpg",
+        "publishedAt": "2025-12-08T10:27:58Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "126b1636351a7dab6d9db16fada71bd1",
         "title": "Montreal hosts G7 ministers to talk about AI",
         "description": "Artificial intelligence is likely to take up much of the agenda as industry, digital and technology ministers from the world’s most powerful Western countries meet in Montreal this week.",
@@ -125,38 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "9f8deb5a7c91ee60ce29dd2eb0c2225c",
-        "title": "Montreal hosts G7 ministers to talk about artificial intelligence, quantum",
-        "description": "OTTAWA — Artificial intelligence is likely to take up much of the agenda as industry, digital and technology ministers from the world’s most powerful Western countries meet in Montreal this week.",
-        "content": "OTTAWA — Artificial intelligence is likely to take up much of the agenda as industry, digital and technology ministers from the world’s most powerful Western countries meet in Montreal this week.\nThe two-day event is part of a series of ministerial m... [4927 chars]",
-        "url": "https://www.sootoday.com/national-news/montreal-hosts-g7-ministers-to-talk-about-artificial-intelligence-quantum-11592657",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/12/e02339e415a3b979eb6eed44b976d4747542139e89859d354bfe8f9faf85d601.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-12-08T09:00:07Z",
-        "lang": "en",
-        "source": {
-            "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-            "name": "SooToday",
-            "url": "https://www.sootoday.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "d7509b4021eb01bf60e23c3ed04b0d19",
-        "title": "Montreal hosts G7 ministers to talk about artificial intelligence, quantum",
-        "description": "OTTAWA — Artificial intelligence is likely to take up much of the agenda as industry, digital and technology ministers from the world’s most powerful Western countries meet in Montreal this week.",
-        "content": "OTTAWA — Artificial intelligence is likely to take up much of the agenda as industry, digital and technology ministers from the world’s most powerful Western countries meet in Montreal this week.\nThe two-day event is part of a series of ministerial m... [4927 chars]",
-        "url": "https://www.baytoday.ca/national-news/montreal-hosts-g7-ministers-to-talk-about-artificial-intelligence-quantum-11592657",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/12/e02339e415a3b979eb6eed44b976d4747542139e89859d354bfe8f9faf85d601.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2025-12-08T09:00:07Z",
-        "lang": "en",
-        "source": {
-            "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-            "name": "BayToday",
-            "url": "https://www.baytoday.ca",
-            "country": "ca"
         }
     }
 ]
