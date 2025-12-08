@@ -1,5 +1,37 @@
 [
     {
+        "id": "24e47123f6fe645ebc80bce627baf3c4",
+        "title": "Is AI a bubble that’s about to pop? – podcast",
+        "description": "For months there have been fears that artificial intelligence is a bubble and that it is about to burst.",
+        "content": "For months there have been fears that artificial intelligence is a bubble and that it is about to burst.\nAs the Guardian US tech editor Blake Montgomery explains, the magnificent seven – Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla – ma... [474 chars]",
+        "url": "https://www.europesays.com/2619884/",
+        "image": "https://www.europesays.com/wp-content/uploads/2025/12/1765163437_6024.jpg",
+        "publishedAt": "2025-12-08T03:10:27Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "624b1322cfb7a0d940878161b6f3b852",
+        "title": "Strong methane rules can support US competitiveness while mitigating risk in the digital age",
+        "description": "With data centers expanding rapidly across the United States to power cloud computing and artificial intelligence, utilities and grid operators are scrambling",
+        "content": "With data centers expanding rapidly across the United States to power cloud computing and artificial intelligence, utilities and grid operators are scrambling to keep pace.\nRenewable energy like solar and wind is the fastest, cleanest, and least expe... [6202 chars]",
+        "url": "https://www.europesays.com/2619842/",
+        "image": "https://www.europesays.com/wp-content/uploads/2025/12/shutterstock_2458145137.jpeg",
+        "publishedAt": "2025-12-08T02:39:20Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f410c71961720426bf3a155454969183",
         "title": "Todd Howard Confirms Bethesda Uses AI, But Emphasizes \"Human Intention\" Behind It",
         "description": "Bethesda's Todd Howard compares artificial intelligence in game development to using a newer version of Photoshop.",
@@ -125,38 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "0bee24e550d510db174812b64e0bf10e",
-        "title": "The government AI that stopped 400kg of drugs at the border",
-        "description": "Home Affairs stopped more than 400 kilograms of illegal drugs entering Australia over the past two years with the help of its own artificial intelligence model.",
-        "content": "Home Affairs stopped more than 400 kilograms of illegal drugs entering Australia over the past two years with the help of its own artificial intelligence model.\nBlack Friday Offers\nSubscribe today for the news that matters\nor signup to continue readi... [4340 chars]",
-        "url": "https://www.canberratimes.com.au/story/9121063/ai-adoption-must-keep-public-trust-public-service-commissioner/",
-        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/232169359/bbf5752b-92ad-4c71-853b-a438b6fab75b.jpg/r0_189_6000_3339_w1200_h630_fmax.jpg",
-        "publishedAt": "2025-12-08T00:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "92021aca7322dc2b29226023c35d9a4a",
-            "name": "The Canberra Times",
-            "url": "https://www.canberratimes.com.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "6b30ab5a73c0ced2cf8f83983f53a3be",
-        "title": "Britain ready to hunt Russian submarines under major multi-million pound plan",
-        "description": "The groundbreaking Atlantic Bastion programme will combine autonomous vessels and artificial intelligence (AI) with warships and aircraft to create a highly advanced hybrid force",
-        "content": "The groundbreaking Atlantic Bastion programme will combine autonomous vessels and artificial intelligence (AI) with warships and aircraft to create a highly advanced hybrid force\nBritain is ready to hunt Russian submarines across vast areas of oceans... [2596 chars]",
-        "url": "https://www.mirror.co.uk/news/politics/britain-ready-hunt-russian-submarines-36364670",
-        "image": "https://i2-prod.mirror.co.uk/article36364052.ece/ALTERNATES/s1200/0_INDIA-RUSSIA-POLITICS-DIPLOMACY.jpg",
-        "publishedAt": "2025-12-08T00:01:00Z",
-        "lang": "en",
-        "source": {
-            "id": "105bb16685822879671e4bad332aeec9",
-            "name": "The Mirror",
-            "url": "https://www.mirror.co.uk",
-            "country": "gb"
         }
     }
 ]
