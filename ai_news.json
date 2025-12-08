@@ -1,5 +1,21 @@
 [
     {
+        "id": "0da1154414178319afba48c359d91a7e",
+        "title": "City Fires Up ‘AI Grind’ To Code, Craft & Create Future Thinkers",
+        "description": "New Delhi: The capital is stepping into the era of artificial intelligence with an initiative designed to turn students into innovators, problem-solve.",
+        "content": "New Delhi: The capital is stepping into the era of artificial intelligence with an initiative designed to turn students into innovators, problem-solvers and future tech leaders. On Sunday, chief minister Rekha Gupta launched ‘Delhi AI Grind' at Centr... [3178 chars]",
+        "url": "https://timesofindia.indiatimes.com/city/delhi/city-fires-up-ai-grind-to-code-craft-create-future-thinkers/articleshow/125819583.cms",
+        "image": "https://static.toiimg.com/thumb/msid-125819582,width-1070,height-580,imgsize-50058,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+        "publishedAt": "2025-12-07T22:24:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "6615df42c150f287113b2db84fbca749",
         "title": "OpenAI strikes deal on $4.6 bil AI center in Australia",
         "description": "ChatGPT maker OpenAI and an Australian data center operator have agreed to develop a multibillion-dollar AI center in Sydney. Brisbane-headquartered NextDC said it signed a memorandum of understanding with OpenAI to develop an artificial intelligence campus and a \"supercluster\" of graphics processing units. The two firms will collaborate on planning,…",
@@ -140,22 +156,6 @@
             "id": "3a3847d645a619320aa3b3484581e395",
             "name": "CBS News",
             "url": "https://www.cbsnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4f76ff09edc963d1bbfab2b1fa281a05",
-        "title": "OpenAI Goes From Stock Market Savior to Burden as AI Risks Mount",
-        "description": "Wall Street’s sentiment toward companies associated with artificial intelligence is shifting, and it’s all about two companies: OpenAI is down, and Alphabet Inc. is up.",
-        "content": "Wall Street’s sentiment toward companies associated with artificial intelligence is shifting, and it’s all about two companies: OpenAI is down, and Alphabet Inc. is up.\nThe maker of ChatGPT is no longer seen as being on the cutting edge of AI technol... [266 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-12-07/openai-goes-from-stock-market-savior-to-anchor-as-ai-risks-mount",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id4vro1xdlNM/v1/1200x800.jpg",
-        "publishedAt": "2025-12-07T14:00:07Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
             "country": "us"
         }
     }
