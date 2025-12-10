@@ -1,5 +1,101 @@
 [
     {
+        "id": "fc0bad672d781e4f74d241b95b31d5e9",
+        "title": "Data centers for AI could nearly triple San Jose’s energy use. Who foots the bill?",
+        "description": "San Jose, the symbolic capital of Silicon Valley, is now ground zero in California’s battle over how to govern the rise of data centers used to power artificial intelligence.",
+        "content": "San Jose, the symbolic capital of Silicon Valley, is now ground zero in California’s battle over how to govern the rise of data centers used to power artificial intelligence.\nThe county seat of Santa Clara is touting its partnership with Pacific Gas ... [9423 chars]",
+        "url": "https://apnews.com/article/industry-regulation-california-data-management-and-storage-pg-e-corp-san-jose-61b9752878ef885fd7f0142e003138a8",
+        "image": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "publishedAt": "2025-12-09T20:26:27Z",
+        "lang": "en",
+        "source": {
+            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+            "name": "The Associated Press",
+            "url": "https://apnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "995f88b08559d4281ad7d16feccb64d6",
+        "title": "Trump’s Reprieve for Nvidia’s H200 Spurred by Huawei’s AI Gains",
+        "description": "President Donald Trump decided to let Nvidia Corp. sell its H200 artificial intelligence chips to China after concluding the move carried a lower security risk because the company’s Chinese archrival, Huawei Technologies Co., already offers AI systems with comparable performance, according to a person familiar with the deliberations.",
+        "content": "President Donald Trump decided to let Nvidia Corp. sell its H200 artificial intelligence chips to China after concluding the move carried a lower security risk because the company’s Chinese archrival, Huawei Technologies Co., already offers AI system... [573 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-09/trump-s-reprieve-for-nvidia-s-h200-spurred-by-huawei-s-ai-gains",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYx.DZfBla4I/v0/1200x800.jpg",
+        "publishedAt": "2025-12-09T20:17:57Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "0b7e0eacddf679d05680453612add996",
+        "title": "Limitations of AI-based material prediction: Crystallographic disorder represents a stumbling block",
+        "description": "Computer simulations and artificial intelligence often make significant errors when predicting the properties of new, high-performance materials, according to a new international study led by the University of Bayreuth. In their research, published in Advanced Materials, the scientists provide tools to address this issue.",
+        "content": "Computer simulations and artificial intelligence often make significant errors when predicting the properties of new, high-performance materials, according to a new international study led by the University of Bayreuth. In their research, published i... [3701 chars]",
+        "url": "https://phys.org/news/2025-12-limitations-ai-based-material-crystallographic.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-study-reveals-limi.jpg",
+        "publishedAt": "2025-12-09T20:07:19Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "fc3b61fcd5e95a14ef42b4c217aa9c52",
+        "title": "28% of U.S. teens say they use AI chatbots daily, poll says",
+        "description": "The survey from Pew Research Center found that ChatGPT was the most popular artificial intelligence app among teens.",
+        "content": "Artificial intelligence chatbots have entered many teenagers’ daily routines.\n64% U.S. teens say they use AI chatbots such as ChatGPT or Google Gemini, with about 28% saying they use chatbots daily, according to survey results released Tuesday by the... [3057 chars]",
+        "url": "https://www.nbcnews.com/tech/social-media/28-us-teens-say-use-ai-chatbots-daily-poll-says-rcna248133",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251208-teen-phone-voice-mn-2300-d248f1.jpg",
+        "publishedAt": "2025-12-09T20:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6a354820878d435b31296a25a861e9e5",
+        "title": "Could Time crown AI? Polymarket bets point to a non-human Person of the Year for the first time since 1982",
+        "description": "A prediction suggests Artificial Intelligence could be named Time Magazine's Person of the Year. This would mark the second time a non-human entity receives the honor. AI is reportedly favored over human contenders like Jen Huang and President Trump. Time editors make the final decision on the influential figure or movement.",
+        "content": "Synopsis\nA prediction suggests Artificial Intelligence could be named Time Magazine's Person of the Year. This would mark the second time a non-human entity receives the honor. AI is reportedly favored over human contenders like Jen Huang and Preside... [4487 chars]",
+        "url": "https://economictimes.indiatimes.com/news/international/us/could-time-crown-ai-polymarket-bets-point-to-a-non-human-person-of-the-year-for-the-first-time-since-1982/articleshow/125876816.cms",
+        "image": "https://img.etimg.com/thumb/msid-125877029,width-1200,height-630,imgsize-842558,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-12-09T19:45:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "c0f8bf98bda85da90de8205d7f93dab9",
+        "title": "OpenAI Names Slack CEO Dresser as First Chief of Revenue as ChatGPT Maker Aims to Make a Profit",
+        "description": "SAN FRANCISCO (AP) — OpenAI said Tuesday it has picked Slack CEO Denise Dresser as its first chief of revenue, a message to wary investors that the ChatGPT maker is serious about making a profit from its artificial intelligence technology.",
+        "content": "SAN FRANCISCO (AP) — OpenAI said Tuesday it has picked Slack CEO Denise Dresser as its first chief of revenue, a message to wary investors that the ChatGPT maker is serious about making a profit from its artificial intelligence technology.\nOpenAI sai... [2052 chars]",
+        "url": "https://www.usnews.com/news/business/articles/2025-12-09/openai-names-slack-ceo-dresser-as-first-chief-of-revenue-as-chatgpt-maker-aims-to-make-a-profit",
+        "image": "https://www.usnews.com/dims4/USNEWS/1c91150/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fbf%2F4f686c3b1df63014fc6f73bdb1aae0%2Fe2fffaf895f54ca2bcd5734c9bd873f6OpenAI-Chief_Revenue_Officer_83141.jpg",
+        "publishedAt": "2025-12-09T19:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "37128a060981dbbe79321f096e7d1108",
+            "name": "U.S. News & World Report",
+            "url": "https://www.usnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "4268909c10d91a0c769b0690237a3f34",
         "title": "Prince George's County Schools launches pilot with Colin Kaepernick's AI program Lumi",
         "description": "Prince George’s County Public Schools (PGCPS) has launched a pilot program that will allow kids to use an artificial intelligence-powered graphic design tool.",
@@ -61,102 +157,6 @@
             "name": "The Nation",
             "url": "https://www.nation.com.pk",
             "country": "pk"
-        }
-    },
-    {
-        "id": "5b884323ca067d84c26d124cb9aeae7f",
-        "title": "European Union probes Google for possible 'anticompetitive' use of copyrighted material for AI-generated summaries",
-        "description": "Google faces a fresh antitrust investigation in Brussels over whether it ripped off copyrighted material to train its artificial intelligence models without properly compensating publishers, the European Commission announced Tuesday.",
-        "content": "Google faces a fresh antitrust investigation in Brussels over whether it ripped off copyrighted material to train its artificial intelligence models without properly compensating publishers, the European Commission announced Tuesday.\nThe European Uni... [2158 chars]",
-        "url": "https://nypost.com/2025/12/09/business/european-union-probes-google-for-possible-anticompetitive-use-of-copyrighted-material-for-ai-generated-summaries/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/117041306.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2025-12-09T18:52:53Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e97c6a8de116eeb9568fb2c7b810b67a",
-        "title": "LSU students present AI solutions for local industry",
-        "description": "LSU students developed artificial intelligence solutions for Baton Rouge-area industries and presented them to sponsors Monday night as part of the College of Engineering’s AI Showcase.",
-        "content": "Overlooking Tiger Stadium and the Mississippi River, students in LSU’s artificial intelligence capstone course presented their business-focused AI solutions to industry partners in the Baton Rouge area.\nOne project envisioned an AI-driven career mapp... [2628 chars]",
-        "url": "https://www.theadvocate.com/baton_rouge/news/education/lsu-students-present-ai-solutions-for-local-industry/article_519d3cce-b3dd-4b36-89b7-95d6698c65bc.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/4/6a/46af8489-1f19-5a90-b9dc-397105fa0bf6/6937a00a8d466.image.jpg?crop=1585%2C832%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2025-12-09T18:36:00Z",
-        "lang": "en",
-        "source": {
-            "id": "98150e04c55a140a5ed9c214b3184d4c",
-            "name": "Baton Rouge Advocate",
-            "url": "https://www.theadvocate.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c3dbbcfaf08d4234716f8b0e16ce7b18",
-        "title": "Microsoft investing $17.5 billion in India for AI and cloud infrastructure",
-        "description": "Microsoft on Tuesday announced its biggest-ever Asia investment, amounting to $17.5 billion, in India over the next four years to advance the country’s cloud and artificial intelligence infrastructure. CEO Satya Nadella revealed this in an X post after meeting with Indian Prime Minister Narendra Modi in New Delhi. Nadella said…",
-        "content": "Microsoft on Tuesday announced its biggest-ever Asia investment, amounting to $17.5 billion, in India over the next four years to advance the country’s cloud and artificial intelligence infrastructure.\nCEO Satya Nadella revealed this in an X post aft... [2063 chars]",
-        "url": "https://japantoday.com/category/tech/microsoft-investing-17.5-billion-in-india-for-ai-and-cloud-infrastructure",
-        "image": "https://media.japantoday.com/img/store/ab/8e/8d59460b066a8819a0faf752cfabdae20aef/download/_w1700.jpeg",
-        "publishedAt": "2025-12-09T18:35:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "c8b509d695f7f06a61855c73a15364ad",
-        "title": "AI earns high marks in law school grading",
-        "description": "Artificial intelligence is pretty good at taking law school exams, according to a growing body of research. Should it be used to grade them?",
-        "content": "Dec 9 (Reuters) - Artificial intelligence is pretty good at taking law school exams, according to a growing body of research. Should it be used to grade them?\nSix law professors from across the country put OpenAI’s ChatGPT-5 to the test, using it to ... [1843 chars]",
-        "url": "https://www.reuters.com/legal/legalindustry/ai-earns-high-marks-law-school-grading-2025-12-09/",
-        "image": "https://www.reuters.com/resizer/v2/5BDSHGBPXVPR5PBKIUAB6XZZDQ.jpg?auth=10beb1a346c2047465572abd24f1cc2e6d626485fe8236d483ed7997b89802e7&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-12-09T18:18:11Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "11f23719c6834b5403d8afb39b8ba703",
-        "title": "San Francisco 49ers: Stake sale to OpenAI chair values NFL team at $9bn",
-        "description": "The San Francisco 49ers have been valued at more than $9bn after the chairman of artificial intelligence behemoth OpenAI agreed to acquire a stake in the NFL franchise.",
-        "content": "The San Francisco 49ers have been valued at more than $9bn after the chairman of artificial intelligence behemoth OpenAI agreed to acquire a stake in the NFL franchise.\nBret Taylor – who is also the co-founder and chief executive of fellow AI busines... [1502 chars]",
-        "url": "https://www.cityam.com/san-francisco-49ers-stake-sale-to-openai-chair-values-nfl-team-at-9bn/",
-        "image": "https://www.cityam.com/wp-content/uploads/2025/12/GettyImages-2248303022-e1765303532855.jpg",
-        "publishedAt": "2025-12-09T18:08:50Z",
-        "lang": "en",
-        "source": {
-            "id": "996b4ad0804caad8f61702c5d7917ec0",
-            "name": "City A.M.",
-            "url": "https://www.cityam.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "5ff5bf8277d44cb88ca5fad4c1179bc4",
-        "title": "Users Find A Way To Remove AI From Windows 11",
-        "description": "RemoveWindowsAI is a new opensource script that is gaining widespread attention among Windows 11 users seeking to eliminate artificial intelligence...",
-        "content": "RemoveWindowsAI is a new opensource script that is gaining widespread attention among Windows 11 users seeking to eliminate artificial intelligence components integrated into Microsoft’s operating system. Created by the developer @zoicware and hosted... [2078 chars]",
-        "url": "https://www.ubergizmo.com/2025/12/remove-ai-from-windows-11/",
-        "image": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2025/12/remove-windows-11-AI-thumb-scaled-e1765303317976.png",
-        "publishedAt": "2025-12-09T18:04:29Z",
-        "lang": "en",
-        "source": {
-            "id": "6bc94426ae0cbbdb312f14c0f86b4708",
-            "name": "Ubergizmo",
-            "url": "https://www.ubergizmo.com",
-            "country": "us"
         }
     }
 ]
