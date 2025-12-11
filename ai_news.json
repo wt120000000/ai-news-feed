@@ -1,5 +1,53 @@
 [
     {
+        "id": "9c3216220b961346052c33017f1b8814",
+        "title": "US DOE announces $320 million investment in AI for Science",
+        "description": "The US Department of Energy (DOE) has announced more than $320 million in investments to advance the Genesis Mission’s artificial intelligence (AI) capabilities",
+        "content": "AI datacentre\nCredit: connect-world/Shutterstock\nThe US Department of Energy (DOE) has announced more than $320 million in investments to advance the Genesis Mission’s artificial intelligence (AI) capabilities\nRegister for FREE to keep reading\nJoin 1... [477 chars]",
+        "url": "https://www.scientific-computing.com/article/us-doe-announces-320-million-investment-ai-science",
+        "image": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
+        "publishedAt": "2025-12-11T08:18:21Z",
+        "lang": "en",
+        "source": {
+            "id": "63fec970d50112ee9b8bc1418d9c5872",
+            "name": "Scientific Computing World",
+            "url": "https://www.scientific-computing.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2d1e3eee161fec49c239c19feb1f555b",
+        "title": "AI-based tool predicts future cardiovascular events in patients with angina",
+        "description": "Reduced coronary blood flow, measured with an artificial intelligence-based imaging tool, predicted future cardiovascular events in patients with suspected stable coronary artery disease. These findings were presented at EACVI 2025, the congress of the European Association of Cardiovascular Imaging (EACVI).",
+        "content": "Reduced coronary blood flow, measured with an artificial intelligence-based imaging tool, predicted future cardiovascular events in patients with suspected stable coronary artery disease. These findings were presented at EACVI 2025, the congress of t... [4179 chars]",
+        "url": "https://medicalxpress.com/news/2025-12-ai-based-tool-future-cardiovascular.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2024/cardiovascular-disease.jpg",
+        "publishedAt": "2025-12-11T08:10:02Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "d4b23f424c0a657fea29318a799efde0",
+        "title": "Why Big Tech is doubling down on investing in India",
+        "description": "A slogan related to Artificial Intelligence (AI) is displayed on a screen in Intel pavilion, during the 54th annual meeting of the World Economic Forum in",
+        "content": "Big Tech is doubling down on investing billions in India, drawn by its abundance of resources for building data centers, a large talent and digital user pool, and market opportunity.\nIn under 24 hours, Microsoft and Amazon pledged more than $50 billi... [4140 chars]",
+        "url": "https://www.europesays.com/2626702/",
+        "image": "https://www.europesays.com/wp-content/uploads/2025/12/108221495-1762298690773-gettyimages-2236984488-chatterjee-notitle250925_npHwu.jpeg",
+        "publishedAt": "2025-12-11T07:59:19Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "1ee366a7e9901b4712a756dccf075b25",
         "title": "Why Ray Dalio says artificial intelligence has guided his decisions for decades",
         "description": "Billionaire investor Ray Dalio says he began using computer systems to support decision-making more than 35 years ago and believes early artificial intelligence helped shape his successful career at Bridgewater Associates.",
@@ -109,54 +157,6 @@
             "name": "Republic World",
             "url": "https://www.republicworld.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "f50aea974b6fdac81474549d6b2dd60e",
-        "title": "Phare Bio and Basilea Announce Landmark Partnership to Develop Next-Generation Broad-Spectrum Antibiotic Using AI",
-        "description": "Phare Bio, a biotech social venture harnessing artificial intelligence to accelerate antibiotic discovery and development, and Basilea Pharmaceutica, a comme...",
-        "content": "BOSTON--(BUSINESS WIRE)--Phare Bio, a biotech social venture harnessing artificial intelligence to accelerate antibiotic discovery and development, and Basilea Pharmaceutica, a commercial-stage biopharmaceutical company committed to meeting the needs... [2545 chars]",
-        "url": "https://www.businesswire.com/news/home/20251210007089/en/Phare-Bio-and-Basilea-Announce-Landmark-Partnership-to-Develop-Next-Generation-Broad-Spectrum-Antibiotic-Using-AI",
-        "image": "https://mms.businesswire.com/media/20251210007089/en/2665829/22/DarkBlue.jpg",
-        "publishedAt": "2025-12-11T06:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "d4773b92da0613b8ffc2fc9c46229534",
-            "name": "Business Wire",
-            "url": "https://www.businesswire.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5ec5eb02a466fec8c8f0d61ddc6869b2",
-        "title": "Ireland’s AI crossroads - regulation and the race for talent",
-        "description": "Without affordable housing, visas and coherent ICT infrastructure, artificial intelligence researchers will move overseas, say experts",
-        "content": "When Andrew Hines talks about Ireland’s artificial intelligence (AI) future, he doesn’t start with algorithms or supercomputers. He starts with housing and the cost of living.\n“PhDs can’t afford to live here,” says the assistant professor at Universi... [7358 chars]",
-        "url": "https://www.irishtimes.com/science/2025/12/11/irelands-ai-crossroads-regulation-and-the-race-for-talent/",
-        "image": "https://www.irishtimes.com/resizer/v2/5WCHJ7S2PZGMFJLGYGI5TY3O2I.jpg?smart=true&auth=30111e6374c913b387a4773c3a217d944b40d5265bf574f70adb43b0aa06ed57&width=1200&height=630",
-        "publishedAt": "2025-12-11T06:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "dd1d806725f45e4403e75c1bb23b447a",
-            "name": "The Irish Times",
-            "url": "https://www.irishtimes.com",
-            "country": "ie"
-        }
-    },
-    {
-        "id": "030256dc304649f8e42c84aa7ba12add",
-        "title": "Bitcoin dips below $90,000 as AI worries dent risk appetite",
-        "description": "SINGAPORE, Dec 11 (Reuters) - Cryptocurrencies tumbled on Thursday and bitcoin fell back below the $90,000 threshold in a renewed signal of market jitters as fresh concerns about artificial intelligence profits weighed on technology stocks.",
-        "content": "SINGAPORE, Dec 11 (Reuters) - Cryptocurrencies tumbled on Thursday and bitcoin fell back below the $90,000 threshold in a renewed signal of market jitters as fresh concerns about artificial intelligence profits weighed on technology stocks.\nRisk sent... [1389 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2025/12/11/bitcoin-dips-below-90000-as-ai-worries-dent-risk-appetite",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/11/3666724.jpg",
-        "publishedAt": "2025-12-11T05:49:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
