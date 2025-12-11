@@ -1,5 +1,37 @@
 [
     {
+        "id": "eb1b2ec20a52bb2e25c1addd917f0ea6",
+        "title": "Why Big Tech is doubling down on India with billions in investment",
+        "description": "Despite being a laggard in some key areas of artificial intelligence, India is becoming a major investment destination for Big Tech companies.",
+        "content": "Big Tech is doubling down on investing billions in India, drawn by its abundance of resources for building data centers, a large talent and digital user pool, and market opportunity.\nIn under 24 hours, Microsoft and Amazon pledged more than $50 billi... [4140 chars]",
+        "url": "https://www.cnbc.com/2025/12/11/big-tech-microsoft-amazon-google-india-billions-in-investment.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108221495-1762298690773-gettyimages-2236984488-chatterjee-notitle250925_npHwu.jpeg?v=1762298703&w=1920&h=1080",
+        "publishedAt": "2025-12-11T05:25:59Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "15ac94f01329b7adea07fcf0f8bfd449",
+        "title": "Time magazine set to name 2025 person of the year",
+        "description": "Time magazine is set to name its person of the year for 2025. Among those in the running according to prediction markets is artificial intelligence itself, along with tech CEOs Jensen Huang of Nvidia and Sam Altman of OpenAI.",
+        "content": "NEW YORK (AP) — Time magazine is set to name its person of the year for 2025 on Thursday.\nAmong those in the running according to prediction markets is artificial intelligence itself, along with tech CEOs Jensen Huang of Nvidia and Sam Altman of Open... [586 chars]",
+        "url": "https://apnews.com/article/time-person-of-year-2025-77ec65c6792bc99ec2ce1919c5f421ea",
+        "image": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "publishedAt": "2025-12-11T05:01:45Z",
+        "lang": "en",
+        "source": {
+            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+            "name": "The Associated Press",
+            "url": "https://apnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "0ab76f0e1a4f88b755d6bd7f784b18d3",
         "title": "How Chinese entities are already using Nvidia's powerful H200 AI chips",
         "description": "U.S. President Donald Trump’s move to allow exports to China of Nvidia’s second-best artificial intelligence chip, the H200, will spur strong demand from the country’s tech giants, research institutes, and its defence-industrial complex.",
@@ -124,38 +156,6 @@
             "id": "3bd4bd306c42647825fa42989624c036",
             "name": "Livemint",
             "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "43e74b968bfba58d6c2188fb66598259",
-        "title": "Google DeepMind's Leap into UK Science: AI Lab Revolution",
-        "description": "Google DeepMind is partnering with the UK to establish an automated science lab, aiming to leverage artificial intelligence. UK Prime Minister Keir Starmer strongly opposes returning to the EU customs union, citing potential disruption to trade deals. UK's energy costs could drop significantly by 2050 due to renewable energy.",
-        "content": "Google DeepMind has announced plans to open an automated materials science lab in the UK. This is part of a strategic partnership with the UK government aimed at advancing the country's artificial intelligence capabilities across various sectors.\nIn ... [625 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3726893-google-deepminds-leap-into-uk-science-ai-lab-revolution",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=920&format=jpeg",
-        "publishedAt": "2025-12-11T02:52:59Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "06d01bbe29fee1f30a8b8f162a7f7825",
-        "title": "Cisco, once at the centre of dot com revolution, in focus as shares hit record after more than 25 years",
-        "description": "Thanks in part to the surge in artificial intelligence investment, Cisco Systems Inc., a symbol of the dot-com technology revolution, has hit a record after 25 years. Investors and market analysts are comparing today's Magnificent Seven-led rally to the previous time it reached an all-time high, which coincides with Cisco's ascent to a new record.",
-        "content": "On Wednesday, shares increased 0.9% to $80.25, surpassing a peak that had stood for more than 25 years. Up until late 2015, the tech-heavy Nasdaq 100 Index reached its peak on March 27, 2000, which many consider to be the peak of the dot-com bubble.\n... [1929 chars]",
-        "url": "https://www.cnbctv18.com/market/cisco-once-at-the-centre-of-dot-com-revolution-in-focus-as-shares-hit-record-after-more-than-25-years-19787959.htm",
-        "image": "https://images.cnbctv18.com/uploads/2025/12/445764120-2025-12-76c833108b60a28ea3ec2849f3614375-scaled.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2025-12-11T02:44:25Z",
-        "lang": "en",
-        "source": {
-            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-            "name": "CNBC TV18",
-            "url": "https://www.cnbctv18.com",
             "country": "in"
         }
     }
