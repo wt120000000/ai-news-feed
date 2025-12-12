@@ -1,5 +1,85 @@
 [
     {
+        "id": "626e97775bebc53b21678a2de680cc43",
+        "title": "Trump signs executive order to block \"excessive\" state AI regulations",
+        "description": "President Trump has signed an executive order to block states from regulating artificial intelligence.",
+        "content": "President Trump signed an executive order Thursday aimed at restricting states from crafting their own regulations for artificial intelligence, saying the burgeoning industry is at risk of being stifled by a patchwork of onerous rules while in a batt... [3380 chars]",
+        "url": "https://www.cbsnews.com/news/trump-signs-executive-order-to-block-state-ai-regulations/",
+        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/12/4e595979-5405-4edd-a679-e4eaf4aef94f/thumbnail/1200x630/04e56cd070e0d3bc860da1c3c34e766c/ap25345851926108.jpg",
+        "publishedAt": "2025-12-12T02:11:00Z",
+        "lang": "en",
+        "source": {
+            "id": "3a3847d645a619320aa3b3484581e395",
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "4b8384a60effacac772551633df6a30b",
+        "title": "Meta’s Shift From Open Source to Profit",
+        "description": "Meta Platforms has spent years positioning itself as one of the strongest champions of open-source artificial intelligence. By releasing powerful AI models to",
+        "content": "Meta Platforms has spent years positioning itself as one of the strongest champions of open-source artificial intelligence. By releasing powerful AI models to developers and researchers, the company built goodwill, accelerated innovation, and challen... [5986 chars]",
+        "url": "https://mashviral.com/metas-shift-from-open-source-to-profit-driven-ai/",
+        "image": "https://mashviral.com/wp-content/uploads/2025/12/julio-lopez-kUATfFyJQQ4-unsplash-scaled.jpg",
+        "publishedAt": "2025-12-12T02:03:52Z",
+        "lang": "en",
+        "source": {
+            "id": "736870a2b1a320473f05d8f8015bf089",
+            "name": "Mash Viral",
+            "url": "https://mashviral.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3d16f3aa46cbe1d992c0945723dae4d4",
+        "title": "Ensuring a National Policy Framework for Artificial Intelligence - The White House",
+        "description": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+        "content": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:\nSection 1. Purpose. United States leadership in Artificial Intelligence (AI) will promote United States national and ec... [8668 chars]",
+        "url": "https://www.europesays.com/2628263/",
+        "image": "https://www.europesays.com/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
+        "publishedAt": "2025-12-12T02:03:30Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "adaecc3d33ffd06f9df04fe685e7edeb",
+        "title": "S&P 500, Dow Jones rise, NASDAQ falls as Wall Street hits record highs: Triller Group rises by 180%, Oriental Culture Holding sees big drop; check top gainers and losers",
+        "description": "The movements in the stock market were dictated by disappointing Oracle results and worries about a potential bubble in artificial-intelligence technology.",
+        "content": "Wall Street set records on Thursday (December 12, 2025) as two of the three key indices – S&P 500 and Dow Jones – ended green. The other key index NASDAQ composite, however, lagged and slipped 0.3% because of the weakness for AI stocks. The S&P 500 i... [948 chars]",
+        "url": "https://www.europesays.com/2628242/",
+        "image": "https://www.europesays.com/wp-content/uploads/2025/12/1765504290_articleshow.jpg",
+        "publishedAt": "2025-12-12T01:51:23Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "74e80e904d13f6a19ef807040f7c10d9",
+        "title": "Trump Signs Executive Order Targeting 'Excessive State Regulation' of AI, Will Launch Task Force To Challenge Laws 'Inconsistent' With Federal Policy",
+        "description": "President Donald Trump signed a sweeping executive order aimed at creating a single national framework for artificial intelligence, moving to sideline state-level rules he argued were hindering America's ability to maintain its leadership in this space.",
+        "content": "President Donald Trump signed a sweeping executive order aimed at creating a single national framework for artificial intelligence, moving to sideline state-level rules he argued were hindering America's ability to maintain its leadership in this spa... [2071 chars]",
+        "url": "https://www.benzinga.com/news/legal/25/12/49352671/trump-signs-executive-order-targeting-excessive-state-regulation-of-ai-will-launch-task-force-to-challenge-laws-inconsistent-with-federal-policy",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/12/11/Washington--February-22--2025-President-_0.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-12-12T01:42:32Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f339308c814ce2b5bd10e59b959a247e",
         "title": "Trump signs executive order to block \"patchwork\" of state AI laws, seeks single national standard",
         "description": "US President Donald Trump on Thursday (local time) signed a sweeping Executive Order aimed at preventing a 'patchwork' of state-level artificial intelligence regulations, asserting that inconsistent rules threaten American innovation and weaken the country's global competitiveness in emerging technologies.",
@@ -77,86 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "90939b8bce19dad586caafadd0a6307d",
-        "title": "Time magazine names its ‘person’ of the year. Here’s who the editors chose",
-        "description": "The “Architects of AI” were named Time’s person of the year Thursday, with the magazine citing 2025 as when the potential of artificial intelligence “roared...",
-        "content": "The “Architects of AI” were named Time’s person of the year Thursday, with the magazine citing 2025 as when the potential of artificial intelligence “roared into view” with no turning back.\n“For delivering the age of thinking machines, for wowing and... [3662 chars]",
-        "url": "https://www.dallasnews.com/business/technology/2025/12/11/time-magazine-names-its-person-of-the-year-heres-who-the-editors-chose/",
-        "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/JDEB77SRVVEPFABFUC3WFBTDJE.jpg?auth=3aac8597fd2f72fc3cbc447a31cc56b4e182fb8731e1a79463ac1736d932b764&quality=80&width=1200&height=630&smart=true",
-        "publishedAt": "2025-12-12T01:05:11Z",
-        "lang": "en",
-        "source": {
-            "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
-            "name": "The Dallas Morning News",
-            "url": "https://www.dallasnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "122406c8cb2777b56ad866835804f17c",
-        "title": "Trump signs executive order blocking states from enforcing their own regulations around AI",
-        "description": "President Donald Trump has signed an executive order that blocks states from enforcing their own regulations around artificial intelligence.",
-        "content": "President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a \"single national framework\" for AI.\n\"This is an executive order that orde... [3788 chars]",
-        "url": "https://abc7.com/post/trump-signs-executive-order-blocking-states-enforcing-own-regulations-around-ai/18277390/",
-        "image": "https://cdn.abcotvs.com/dip/images/18277364_121125-WLS-TRUMP-RAW-AI-AP-RAW-vid.jpg?w=1600",
-        "publishedAt": "2025-12-12T01:02:59Z",
-        "lang": "en",
-        "source": {
-            "id": "8500efae8310099b1bcee1ef95a0434e",
-            "name": "KABC-TV",
-            "url": "https://abc7.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d7d9cba570bb07bea35c06677bce0d5e",
-        "title": "Trump signs order to block state AI regulations",
-        "description": "President Donald Trump has signed an executive order to block states from regulating artificial intelligence.",
-        "content": "President Donald Trump signed an executive order Thursday aimed at blocking states from crafting their own regulations for artificial intelligence, saying the burgeoning industry is at risk of being stifled by a patchwork of onerous rules while in a ... [2116 chars]",
-        "url": "https://apnews.com/article/trump-ai-regulation-executive-order-state-laws-9cb4dd1bc249e404260b3dc233217388",
-        "image": "https://dims.apnews.com/dims4/default/0714def/2147483647/strip/true/crop/5879x3307+0+307/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdc%2F29%2F8492447e6b3f9cbc763fc0b97acf%2F36a2b25ff7c647c7aa33166ba24507c1",
-        "publishedAt": "2025-12-12T00:55:34Z",
-        "lang": "en",
-        "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5a5c0b55b417ff20a6267bebddde43dc",
-        "title": "Trump signs executive order to block state AI regulations",
-        "description": "President Donald Trump has signed an executive order to block states from regulating artificial intelligence.",
-        "content": "President Donald Trump signed an executive order Thursday aimed at blocking states from crafting their own regulations for artificial intelligence, saying the burgeoning industry is at risk of being stifled by a patchwork of onerous rules while in a ... [2116 chars]",
-        "url": "https://www.clickondetroit.com/news/politics/2025/12/12/trump-signs-executive-order-to-block-state-ai-regulations/",
-        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VTIKTKUYYBE7DBS5ZISXZXFAZY.jpg?_a=DATAg1eAZAA0",
-        "publishedAt": "2025-12-12T00:55:33Z",
-        "lang": "en",
-        "source": {
-            "id": "35515662ec044d3f94b543cd8802d63f",
-            "name": "WDIV ClickOnDetroit",
-            "url": "https://www.clickondetroit.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d8791bd5da01960d4f83add197a61f1c",
-        "title": "Trump Signs Executive Order to Block State AI Regulations",
-        "description": "President Donald Trump signed an executive order Thursday aimed at blocking states from crafting their own regulations for artificial intelligence, saying the burgeoning industry is at risk of being stifled by a patchwork of onerous rules while in a battle with Chinese competitors for supremacy.",
-        "content": "President Donald Trump signed an executive order Thursday aimed at blocking states from crafting their own regulations for artificial intelligence, saying the burgeoning industry is at risk of being stifled by a patchwork of onerous rules while in a ... [2477 chars]",
-        "url": "https://www.usnews.com/news/politics/articles/2025-12-11/trump-signs-executive-order-to-block-state-ai-regulations",
-        "image": "https://www.usnews.com/dims4/USNEWS/79ab1cb/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F76%2F72e38bf43df0d3ba4d949973cfa65e%2F36a2b25ff7c647c7aa33166ba24507c1Trump_05228.jpg",
-        "publishedAt": "2025-12-12T00:55:00Z",
-        "lang": "en",
-        "source": {
-            "id": "37128a060981dbbe79321f096e7d1108",
-            "name": "U.S. News & World Report",
-            "url": "https://www.usnews.com",
-            "country": "us"
         }
     }
 ]
