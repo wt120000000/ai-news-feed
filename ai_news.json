@@ -1,12 +1,28 @@
 [
     {
-        "id": "859a4b39bd028e797c01a7a362a1eb56",
-        "title": "Dow, S&P 500 mark record closes, Oracle drags on Nasdaq",
-        "description": "The S&P 500 and the Dow boasted record closing highs on Thursday after a Federal Reserve policy update that was less hawkish than expected while the tech-heavy Nasdaq underperformed as Oracle's financial update made investors wary of artificial intelligence bets.",
-        "content": "NEW YORK: The S&P 500 and the Dow boasted record closing highs on Thursday after a Federal Reserve policy update that was less hawkish than expected while the tech-heavy Nasdaq underperformed as Oracle's financial update made investors wary of artifi... [3845 chars]",
-        "url": "https://www.thestar.com.my/business/2025/12/12/dow-sp-500-mark-record-closes-oracle-drags-on-nasdaq",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/12/3668219.JPG",
-        "publishedAt": "2025-12-11T22:54:00Z",
+        "id": "40ffdcf1f435d292b24bae35cbd6ccd4",
+        "title": "Trump signs order aimed at curbing state AI regulations",
+        "description": "WASHINGTON (Reuters) -- U.S. President Donald Trump on Thursday signed an executive order on artificial intelligence that will attempt to preempt a gr",
+        "content": "WASHINGTON (Reuters) -- U.S. President Donald Trump on Thursday signed an executive order on artificial intelligence that will attempt to preempt a growing number of state laws governing the technology with a national standard.\n\"We want to have one c... [1382 chars]",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/trump-signs-order-aimed-at-curbing-state-ai-regulations",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F0%2F7%2F5%2F11815700-2-eng-GB%2F72e263882cf3-2025-12-11T234413Z_838016420_RC2NEIA0782I_RTRMADP_3_USA-TRUMP.JPG?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+        "publishedAt": "2025-12-12T00:43:10Z",
+        "lang": "en",
+        "source": {
+            "id": "8b41f671a9a237f65861978dca3609d0",
+            "name": "Nikkei Asia",
+            "url": "https://asia.nikkei.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "5758acf820a84a5022425e3fbdde8254",
+        "title": "OpenAI launches GPT-5.2 after 'code red' push to counter Google's Gemini 3",
+        "description": "Dec 11 (Reuters) - OpenAI on Thursday launched its GPT-5.2 artificial intelligence model, after CEO Sam Altman reportedly issued an internal \"code red\" in early December pausing non‑core projects and redirecting teams to accelerate development in response to Google's Gemini 3.",
+        "content": "Dec 11 (Reuters) - OpenAI on Thursday launched its GPT-5.2 artificial intelligence model, after CEO Sam Altman reportedly issued an internal \"code red\" in early December pausing non‑core projects and redirecting teams to accelerate development in res... [1292 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/12/12/openai-launches-gpt-52-ai-model-with-improved-capabilities",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/12/3668272.jpg",
+        "publishedAt": "2025-12-12T00:37:00Z",
         "lang": "en",
         "source": {
             "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -16,147 +32,131 @@
         }
     },
     {
-        "id": "1f3935c094d388e7cc49a1e9571e6739",
-        "title": "Disney Sends Google Cease-and-Desist Letter Over Alleged Copyright Infringement Using AI",
-        "description": "Walt Disney has sent a cease-and-desist letter to Alphabet's Google over alleged artificial intelligence-related copyright infringement, Variety reported Thursday, citing a letter it...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/disney-sends-google-cease-and-desist-letter-over-alleged-copyright-infringement-using-ai-ce7d50dbdc8af424",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2025-12-11T22:47:45Z",
+        "id": "211e8c5fa633abedca820901534d9da2",
+        "title": "Trump signs executive order blocking states from enforcing their own regulations around AI",
+        "description": "President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.",
+        "content": "President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.\n“This is an executive order that orde... [2806 chars]",
+        "url": "https://edition.cnn.com/2025/12/11/tech/ai-trump-states-executive-order",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2025-12-11t232848z-2050997561-rc2neiae32ma-rtrmadp-3-usa-trump.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-12T00:20:32Z",
         "lang": "en",
         "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "eee6cf7b793d374ad0f2841f8b850b03",
-        "title": "AI firms MiniMax, Zhipu target Hong Kong IPOs in 2026",
-        "description": "Two Chinese artificial intelligence startups, MiniMax and Zhipu, are preparing for initial public offerings (IPOs) on the Hong Kong Stock Exchange in early 2026.",
-        "content": "Two Chinese artificial intelligence startups, MiniMax and Zhipu, are preparing for initial public offerings (IPOs) on the Hong Kong Stock Exchange in early 2026.\nThe firms have received approval from the China Securities Regulatory Commission (CSRC) ... [986 chars]",
-        "url": "https://crypto.news/china-ai-firms-minimax-zhipu-hong-kong-ipos-2026/",
-        "image": "https://media.crypto.news/2025/12/generated-1765483968785.webp",
-        "publishedAt": "2025-12-11T22:38:33Z",
-        "lang": "en",
-        "source": {
-            "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
-            "name": "Crypto News",
-            "url": "https://crypto.news",
-            "country": "lt"
-        }
-    },
-    {
-        "id": "f663af48bce5f2da6daa60d602c34e10",
-        "title": "GOP Sen. McCormick Disputes Trump's AI Chip Sale to China",
-        "description": "Sen. Dave McCormick, R-Pa., is dubious about President Donald Trump's decision to allow the export of NVIDIA's H200-class artificial intelligence chips to China as part of broader negotiations on agricultural market access.",
-        "content": "Sen. Dave McCormick, R-Pa., questioned President Donald Trump's decision to allow the export of Nvidia's H200-class artificial intelligence chips to China as part of broader negotiations on agricultural market access.\nMediaite reported that McCormick... [2445 chars]",
-        "url": "https://www.newsmax.com/newsfront/dave-mccormick-donald-trump-ai-chips/2025/12/11/id/1237991/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=b9c7bdb0-71da-4aec-be4a-bf6dceb90afb&SiteName=Newsmax",
-        "publishedAt": "2025-12-11T22:37:18Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
+            "id": "26269dbc42635df9af8c24f3cdab8e37",
+            "name": "Cable News Network",
+            "url": "https://edition.cnn.com",
             "country": "us"
         }
     },
     {
-        "id": "96af66ca41cd01f677ea7d43cd96b487",
-        "title": "Trump signs executive order to block state AI regulations",
-        "description": "President Donald Trump signed an executive order Thursday aimed at blocking states from crafting their own regulations for artificial intelligence, saying the burgeoning industry is at risk of being stifled by a patchwork of onerous rules while in a battle with Chinese competitors for supremacy. Members of Congress from both",
-        "content": "President Donald Trump signed an executive order Thursday aimed at blocking states from crafting their own regulations for artificial intelligence, saying the burgeoning industry is at risk of being stifled by a patchwork of onerous rules while in a ... [2344 chars]",
-        "url": "https://triblive.com/business/technology/trump-signs-executive-order-to-block-state-ai-regulations/",
-        "image": "https://assets-varnish.triblive.com/2025/12/9122932_web1_9122932-36a2b25ff7c647c7aa33166ba24507c1.jpg",
-        "publishedAt": "2025-12-11T22:36:26Z",
+        "id": "6411b38a78ad712254baf4b0bb95de94",
+        "title": "Trump signs executive order blocking states from enforcing their own regulations around AI",
+        "description": "By Samantha Waldenberg, Hadas Gold, Clare Duffy, CNN (CNN) — President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI. “This is an executive order that orders aspects of your administration to take decisive",
+        "content": "By Samantha Waldenberg, Hadas Gold, Clare Duffy, CNN\n(CNN) — President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single nati... [3748 chars]",
+        "url": "https://abc17news.com/money/cnn-business-consumer/2025/12/11/trump-signs-executive-order-blocking-states-from-enforcing-their-own-regulations-around-ai/",
+        "image": "https://abc17news.b-cdn.net/abc17news.com/2025/12/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWoyMm9qeHcwMDBjMzU2cDYyM2xmcDF3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtajIybzRpaTAwM3IyNnFoM25haTFsZHI-860x575.jpg",
+        "publishedAt": "2025-12-12T00:20:32Z",
         "lang": "en",
         "source": {
-            "id": "b1fa63410571207862faad9daf9b4527",
-            "name": "Pittsburgh Tribune-Review",
-            "url": "https://triblive.com",
+            "id": "d5a02d07558c5563d72576efc406e608",
+            "name": "ABC17News.com",
+            "url": "https://abc17news.com",
             "country": "us"
         }
     },
     {
-        "id": "f71f0c1ffce6c7fbb796fa42ebde7f03",
-        "title": "India on track to become largest GitHub community by 2030: Satya Nadella",
-        "description": "BENGALURU, Dec 11 : India is quickly emerging as a proving ground for the next generation of artificial intelligence, and Microsoft is making a big bet on it. The tech giant has announced strategic partnerships with leading IT companies Cognizant, Infosys, TCS, and Wipro to deploy over 50,000 Microsoft Copilot licenses across the country. The move sets a new benchmark for enterprise-scale AI adoption and comes as part of Microsoft’s $17.5 billion investment plan in AI and cloud infrastructure in […]",
-        "content": "BENGALURU, Dec 11 : India is quickly emerging as a proving ground for the next generation of artificial intelligence, and Microsoft is making a big bet on it.\nThe tech giant has announced strategic partnerships with leading IT companies Cognizant, In... [3026 chars]",
-        "url": "https://www.dailyexcelsior.com/india-on-track-to-become-largest-github-community-by-2030-satya-nadella/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2025/01/Satya-Nadella.jpg",
-        "publishedAt": "2025-12-11T22:31:51Z",
+        "id": "ee05c1382b6da01603a21ce153f496ab",
+        "title": "Trump signs order aimed at curbing US state AI laws",
+        "description": "US President Donald Trump has signed an executive order aimed at overriding state regulations on artificial intelligence.",
+        "content": "US President Donald Trump has signed an executive order on artificial intelligence that will attempt ⁠to pre-empt a growing number of state laws governing the technology with a national standard.\n\"We want to have one central source of approval,\" Trum... [1361 chars]",
+        "url": "https://www.perthnow.com.au/news/politics/trump-signs-order-aimed-at-curbing-us-state-ai-laws-c-20977838",
+        "image": "https://images.perthnow.com.au/publication/C-20977838/a95fac6c36a898b4d099861d4c4de4f9d22eb9ca-16x9-x0y0w1280h720.jpg?imwidth=1200",
+        "publishedAt": "2025-12-12T00:19:01Z",
         "lang": "en",
         "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
+            "id": "7f6e8514e9d8f8376aaa9a7229861518",
+            "name": "PerthNow",
+            "url": "https://www.perthnow.com.au",
+            "country": "au"
         }
     },
     {
-        "id": "d09c6454007c23d2f527c2112ac008e7",
-        "title": "Disney Licenses Characters to OpenAI, Takes $1 Billion Stake",
-        "description": "Disney is licensing iconic characters, including Mickey Mouse and Cinderella, to OpenAI for use on its artificial intelligence video platform and has agreed to take a $1 billion stake in the...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/disney-licenses-characters-to-openai-takes-1-billion-stake-ce7d50dbdc88f324",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3522637.png",
-        "publishedAt": "2025-12-11T22:14:23Z",
+        "id": "20e1a2a1f8075e3c15623bcb899d0133",
+        "title": "Trump signs order aimed at curbing US state AI laws",
+        "description": "US President Donald Trump has signed an executive order aimed at overriding state regulations on artificial intelligence.",
+        "content": "Donald Trump signed an executive order that seeks to limit the ability of US states to regulate AI. Photo: AP PHOTO\nUS President Donald Trump has signed an executive order on artificial intelligence that will attempt ⁠to pre-empt a growing number of ... [3417 chars]",
+        "url": "https://www.canberratimes.com.au/story/9132524/trump-signs-order-aimed-at-curbing-us-state-ai-laws/",
+        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/e8ba10f3-f205-40f6-b4d5-21c180de15ec.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+        "publishedAt": "2025-12-12T00:17:13Z",
         "lang": "en",
         "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
+            "id": "92021aca7322dc2b29226023c35d9a4a",
+            "name": "The Canberra Times",
+            "url": "https://www.canberratimes.com.au",
+            "country": "au"
         }
     },
     {
-        "id": "3f8d31f258f3ab471ac5cd820b013b01",
-        "title": "Musical Chairs: AI Race Led To Key Executive Changes At Apple, Tesla And Meta In 2025",
-        "description": "Lagging artificial intelligence developments pushed top researchers and company executives out of Apple, Tesla and Meta.",
-        "content": "Most American workers may be holding on tight to their current jobs, but executives and top researchers at some of the largest technology companies in the artificial intelligence race are not staying put. Some are leaving after failing to deliver tim... [4067 chars]",
-        "url": "https://www.forbes.com/sites/mariagraciasantillanalinares/2025/12/11/musical-chairs-ai-race-led-to-key-executive-changes-at-apple-tesla-and-meta-in-2025/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/693b4127498effd3722622c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-12-11T22:12:25Z",
+        "id": "898ffadb1518ad759bf1210c898e6ec1",
+        "title": "ChatGPT chatbot's shocking response to alleged role in murder-suicide",
+        "description": "The artificial intelligence said it bore some responsibility for the murder of Suzanne Eberson Adams after reviewing news stories and a lawsuit.",
+        "content": "Aye aye aye, AI!\nChatGPT’s chatbot admitted bearing “some responsibility” in the terrifying murder of an elderly Connecticut mom — whose killer son’s paranoid delusions were allegedly fueled by the artificial intelligence program.\n“What I think is re... [3685 chars]",
+        "url": "https://nypost.com/2025/12/11/us-news/chatgpt-chatbots-shocking-response-to-alleged-role-in-murder-suicide/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/117158296.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2025-12-12T00:00:20Z",
         "lang": "en",
         "source": {
-            "id": "a0300bc9a6e9d5b317bd6f614767231f",
-            "name": "Forbes",
-            "url": "https://www.forbes.com",
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
             "country": "us"
         }
     },
     {
-        "id": "559e773d0e591b5ce243b660a75c5166",
-        "title": "Azio AI Advances Sovereign AI Infrastructure Strategy, Supporting Philippines' National Investment Fund Modernization and Positioning for Long-Term Public-Sector Growth",
-        "description": "LOS ANGELES, Dec. 11, 2025 /PRNewswire/ -- Azio AI, the artificial intelligence compute and GPU infrastructure subsidiary of Azio, today announced its active participation in early-stage technical and...",
-        "content": "LOS ANGELES, Dec. 11, 2025 /PRNewswire/ -- Azio AI, the artificial intelligence compute and GPU infrastructure subsidiary of Azio, today announced its active participation in early-stage technical and infrastructure discussions supporting the Philipp... [4310 chars]",
-        "url": "https://www.marketscreener.com/news/azio-ai-advances-sovereign-ai-infrastructure-strategy-supporting-philippines-national-investment-f-ce7d50dbdc88f522",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2025-12-11T22:08:08Z",
+        "id": "53f21ca4839d562a9f5971a26d7697aa",
+        "title": "Trump Signs Executive Order to Neuter State A.I. Laws",
+        "description": "The order would create one federal regulatory framework for artificial intelligence, Mr. Trump told reporters in the Oval Office.",
+        "content": "President Trump signed an executive order on Thursday that aims to neuter state laws that place limits on the artificial intelligence industry, a win for tech companies that have lobbied against regulation of the booming technology.\nMr. Trump, who ha... [1704 chars]",
+        "url": "https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html",
+        "image": "https://static01.nyt.com/images/2025/12/11/multimedia/00BIZ-AI-EO-HFO-qghj/00BIZ-AI-EO-HFO-qghj-facebookJumbo.jpg",
+        "publishedAt": "2025-12-11T23:57:41Z",
         "lang": "en",
         "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
         }
     },
     {
-        "id": "f9e5393e7d188a3f843ffdc468b203a3",
-        "title": "AI-Powered Toys for Kids Trigger Safety Warnings",
-        "description": "A wave of artificial-intelligence-powered toys hitting holiday shelves is drawing sharp warnings from child safety advocates, who say the chatbot technology inside talking robots and stuffed animals is untested and may expose young children to explicit content, dangerous advice, and foreign propaganda.",
-        "content": "A wave of artificial intelligence-powered toys hitting holiday shelves is drawing sharp warnings from child safety advocates, who say the chatbot technology inside talking robots and stuffed animals is untested and may expose young children to explic... [2723 chars]",
-        "url": "https://www.newsmax.com/finance/streettalk/ai-toys-safety/2025/12/11/id/1237981/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=043c9c45-e9d9-4c75-a5c0-ba1693fb6def&SiteName=Newsmax",
-        "publishedAt": "2025-12-11T21:53:42Z",
+        "id": "9853fda788bde87bbccefac976e65ced",
+        "title": "Signed an executive order",
+        "description": "U.S. President Donald Trump on Thursday signed an executive order on artificial intelligence that will attempt to preempt a growing number of state laws governing the technology with a national standard.",
+        "content": "WASHINGTON - U.S. President Donald Trump on Thursday signed an executive order on artificial intelligence that will attempt to preempt a growing number of state laws governing the technology with a national standard.\n“We want to have one central sour... [1215 chars]",
+        "url": "https://www.cp24.com/news/world/2025/12/11/trump-signs-order-aimed-at-curbing-state-ai-laws/",
+        "image": "https://www.cp24.com/resizer/v2/H66LU6W4UZYDIZ5CAW4WQK73WU.jpg?smart=true&auth=2c3589879f5080ca5df12fb7ba6489db8bc13b58d3cc2e813cc5b30e8fcf8057&width=1200&height=630",
+        "publishedAt": "2025-12-11T23:44:45Z",
         "lang": "en",
         "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "9a42c692ee4d50c02ff5773480dd510a",
+        "title": "Signed an executive order",
+        "description": "U.S. President Donald Trump on Thursday signed an executive order on artificial intelligence that will attempt to preempt a growing number of state laws governing the technology with a national standard.",
+        "content": "WASHINGTON - U.S. President Donald Trump on Thursday signed an executive order on artificial intelligence that will attempt to preempt a growing number of state laws governing the technology with a national standard.\n“We want to have one central sour... [1215 chars]",
+        "url": "https://www.bnnbloomberg.ca/business/technology/2025/12/11/trump-signs-order-aimed-at-curbing-state-ai-laws/",
+        "image": "https://www.bnnbloomberg.ca/resizer/v2/H66LU6W4UZYDIZ5CAW4WQK73WU.jpg?smart=true&auth=2c3589879f5080ca5df12fb7ba6489db8bc13b58d3cc2e813cc5b30e8fcf8057&width=1200&height=630",
+        "publishedAt": "2025-12-11T23:44:45Z",
+        "lang": "en",
+        "source": {
+            "id": "1b697445987e8a33f6c82842e17d60d9",
+            "name": "Bnn Bloomberg",
+            "url": "https://www.bnnbloomberg.ca",
+            "country": "ca"
         }
     }
 ]
