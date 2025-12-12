@@ -1,5 +1,53 @@
 [
     {
+        "id": "340090a73b224c0faea8609e19c722bc",
+        "title": "Open AI, Microsoft face lawsuit over ChatGPT's alleged role in US murder-suicide",
+        "description": "The heirs of an 83-year-old Connecticut woman are suing ChatGPT maker OpenAI and its business partner Microsoft for wrongful death, alleging that the artificial intelligence chatbot intensified her son's \"paranoid delusions\" and helped direct them at his mother before he killed her.",
+        "content": "SAN FRANCISCO: The heirs of an 83-year-old Connecticut woman are suing ChatGPT maker OpenAI and its business partner Microsoft for wrongful death, alleging that the artificial intelligence chatbot intensified her son's \"paranoid delusions” and helped... [6457 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/12/12/open-ai-microsoft-face-lawsuit-over-chatgpt039s-alleged-role-in-us-murder-suicide",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/11/3667195.jpg",
+        "publishedAt": "2025-12-12T04:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "c82c8bd6eb78244669f0451f193486c0",
+        "title": "OpenAI launches GPT-5.2 Pro and GPT-5.2 Thinking in AI race with Google",
+        "description": "OpenAI released its latest artificial intelligence models on Thursday, shrugging off worries about how it will cash in on massive spending in its technology race with Google.",
+        "content": "OpenAI released its latest artificial intelligence models on Thursday, shrugging off worries about how it will cash in on massive spending in its technology race with Google.\nThe San Francisco-based AI superstar touted GPT-5.2 Pro and GPT-5.2 Thinkin... [2053 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/openai-launches-gpt-52-pro-and-gpt-52-thinking-in-ai-race-with-google/article70387144.ece",
+        "image": "https://th-i.thgim.com/public/incoming/m3gie5/article70387155.ece/alternates/LANDSCAPE_1200/OpenAI_Death_Lawsuit_78993.jpg",
+        "publishedAt": "2025-12-12T03:37:25Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "daad3b026f57095b115134f8941a8809",
+        "title": "OpenAI launches GPT 5.2 with advanced capabilities, to compete with Google’s Gemini 3",
+        "description": "Tech News News: ChatGPT-maker OpenAI has launched GPT-5.2 artificial intelligence model, days after CEO Sam Altman issued an internal \\\"code red\\\" pausing internal proj.",
+        "content": "ChatGPT-maker OpenAI has launched GPT-5.2 artificial intelligence model, days after CEO Sam Altman issued an internal \"code red\" pausing internal projects and redirecting teams to accelerate development. This comes as a response to Google's Gemini 3 ... [1475 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-launches-gpt-5-2-with-advanced-capabilities-to-compete-with-googles-gemini-3/articleshow/125925004.cms",
+        "image": "https://static.toiimg.com/thumb/msid-125925014,width-1070,height-580,imgsize-743367,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+        "publishedAt": "2025-12-12T03:28:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "686f10dd6df6e400a4087df2c52a05af",
         "title": "Trump signs order blocking states from enforcing own AI rules",
         "description": "US President Donald Trump has signed an executive order aimed at blocking states from enforcing their own artificial intelligence (AI) regulations.",
@@ -109,54 +157,6 @@
             "name": "WEAU",
             "url": "https://www.weau.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "3bdd840f732071e2f210e878af803b2d",
-        "title": "Trump signs executive order blocking state AI laws",
-        "description": "The order would create one federal regulatory framework for artificial intelligence, President Trump told reporters in the Oval Office.",
-        "content": "WASHINGTON — President Donald Trump signed an executive order Thursday that aims to neuter state laws limiting the artificial intelligence industry, a win for tech companies that have lobbied against regulation of the booming technology.\nThe order gr... [4404 chars]",
-        "url": "https://www.bostonglobe.com/2025/12/11/business/trump-executive-order-state-ai-restrictions/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/XUGPUX2C4XTNQZMG66T6B3V6ZE.jpg?auth=89257b2557a22d48b5b30961b014bb5d5c9470fe495975fa996cec2e4c3eccd4&width=1440",
-        "publishedAt": "2025-12-12T02:34:34Z",
-        "lang": "en",
-        "source": {
-            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-            "name": "The Boston Globe",
-            "url": "https://www.bostonglobe.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a06510993d38acead49ed8e7c3f6ecd3",
-        "title": "Trump orders creation of litigation task force to challenge state AI laws",
-        "description": "On Thursday evening, President Donald Trump signed an executive order calling for a single regulatory framework governing artificial intelligence in the US at the expense of different states to regulate the nascent technology.",
-        "content": "On Thursday evening, President Donald Trump signed an executive order calling for a single, nationwide regulatory framework governing artificial intelligence at the expense of the ability of different states to regulate the nascent technology. “To wi... [1632 chars]",
-        "url": "https://www.engadget.com/ai/trump-orders-creation-of-litigation-task-force-to-challenge-state-ai-laws-022657022.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/8031Yg9u9.LYzDzeXfF2zw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjg-/https://d29szjachogqwa.cloudfront.net/images/2025-12/688e7aaf-f8b9-4786-a6c8-4178fb6195a8",
-        "publishedAt": "2025-12-12T02:26:57Z",
-        "lang": "en",
-        "source": {
-            "id": "549a7a859b2345bbe231b00e7244ef99",
-            "name": "Engadget",
-            "url": "https://www.engadget.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ef8ede6cf27ff36bb684eec51740b5b5",
-        "title": "Donald Trump inks executive order to try and limit state",
-        "description": "President Donald Trump enacted a directive designed to prevent state regulations of artificial intelligence through legal actions and funding reductions, marking a victory for tech industry executives who have advocated for overriding local regulations.",
-        "content": "Donald Trump inks executive order to try and limit state-level AI regulation\nTrump has embraced AI as a critical technology, working closely with US companies to boost investment in a sector where China has also made great strides. But critics worry ... [3197 chars]",
-        "url": "https://www.cnbctv18.com/world/donald-trump-inks-executive-order-to-try-and-limit-state-level-ai-regulation-19789085.htm",
-        "image": "https://images.cnbctv18.com/uploads/2025/12/ap25346055572763-2025-12-4f46fe5abc88a65340006c9387c083e1.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2025-12-12T02:23:18Z",
-        "lang": "en",
-        "source": {
-            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-            "name": "CNBC TV18",
-            "url": "https://www.cnbctv18.com",
-            "country": "in"
         }
     }
 ]
