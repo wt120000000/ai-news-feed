@@ -1,5 +1,21 @@
 [
     {
+        "id": "496d2b4c036ba8efe16e38d0c8a07c9c",
+        "title": "States Set to Defy Trump AI Order, Brace for Legal Fight",
+        "description": "Despite an executive order from President Donald Trump intended to rein in state-level oversight, states are pressing ahead with their own artificial intelligence regulations — setting the stage for prolonged legal and political clashes that could keep U.S. AI policy fragmented and uncertain absent congressional action.",
+        "content": "States are moving forward with their own artificial intelligence laws despite President Donald Trump's executive order aimed at curbing state-level regulation, setting up a wave of legal and political battles that could leave U.S. AI rules unsettled ... [2970 chars]",
+        "url": "https://www.newsmax.com/politics/ai-donald-trump-executive-order/2025/12/12/id/1238129/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=278219ce-229d-4d42-8b45-7eade3621502&SiteName=Newsmax",
+        "publishedAt": "2025-12-12T21:38:08Z",
+        "lang": "en",
+        "source": {
+            "id": "a8984f03fe66dae9745793f6560aa444",
+            "name": "Newsmax",
+            "url": "https://www.newsmax.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "34c0a40fea387cfdc5cd2519429d9417",
         "title": "NVDA Stock Forecast: Analysts Say Nvidia Could Hit $258, Up 43% from Current Levels",
         "description": "Nvidia (NVDA) stock remains in the spotlight amid growing concerns over an artificial intelligence (AI) bubble. The chipmaker’s shares have alre...",
@@ -141,22 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "00a96bf853616e9be3e46c3e12023b92",
-        "title": "Trump's order targeting state AI laws faces political and legal hurdles",
-        "description": "U.S. President Donald Trump's executive order seeking to bar state laws on artificial intelligence that he says slow innovation will face political and legal opposition from states seeking to preserve...\n-December 12, 2025 at 03:09 pm EST\n- MarketScreener",
-        "content": "Dec 12 (Reuters) - U.S. President Donald Trump's executive order seeking to bar state laws on artificial intelligence that he says slow innovation will face political and legal opposition from states seeking to preserve their right to regulate the ra... [3133 chars]",
-        "url": "https://www.marketscreener.com/news/trump-s-order-targeting-state-ai-laws-faces-political-and-legal-hurdles-ce7d50d8da8ff420",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-12/2025-12-12T183346Z_1_LYNXMPELBB11W_RTROPTP_4_USA-TRUMP-AI-LEGAL.JPG",
-        "publishedAt": "2025-12-12T20:09:28Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
