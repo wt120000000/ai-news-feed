@@ -1,5 +1,21 @@
 [
     {
+        "id": "e9058e3c775e74709c01b9ae748fa74d",
+        "title": "Congress questions India’s omission from US-led Pax Silica initiative, calls it a ‘missed opportunity’",
+        "description": "According to the US State Department, the initiative seeks to reduce coercive dependencies, protect materials and capabilities foundational to artificial intelligence (AI), and ensure that aligned nations can develop and deploy transformative technologies at scale.",
+        "content": "Congress General Secretary Jairam Ramesh highlighted the issue on X, stating that it would have been to India’s advantage to be part of the group. He wrote: “According to some news reports, the US has excluded India from a nine-nation initiative it h... [2077 chars]",
+        "url": "https://indianexpress.com/article/india/congress-india-omission-united-states-pax-silica-missed-opportunity-10418266/",
+        "image": "https://images.indianexpress.com/2025/12/Trump-India-Russia-oil-1_20251213072258.jpg",
+        "publishedAt": "2025-12-13T08:14:08Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "1eaa3757f8e55b6a2c4972709d1f87ae",
         "title": "Agentic AI transforms banks frontline sales, boosts productivity and revenue: Report",
         "description": "Agentic artificial intelligence (AI) systems are rapidly reshaping how banks manage frontline sales, offering a potential breakthrough for relationship managers long burdened by inefficient systems, weak leads, and heavy administrative workloads, noted a McKinsey report.",
@@ -140,22 +156,6 @@
             "id": "2f5884e252590f739df55c0e7db375df",
             "name": "WJLA",
             "url": "https://wjla.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "7dbc9f638163b60ffbeb2f5d8e3980e3",
-        "title": "President Trump signs AI executive order; aims to help US win global dominance",
-        "description": "President Trump has banned states from regulating artificial intelligence.",
-        "content": "President Trump has banned states from regulating artificial intelligence. Trump signed an executive order this week that aims to create a single national framework for AI. The move comes as the U.S. pushes for global dominance in the AI sector.\nEver... [2552 chars]",
-        "url": "https://foxbaltimore.com/news/nation-world/president-trump-signs-ai-executive-order-aims-to-help-us-win-global-dominance-innovation-interior-secretary-doug-burgum-china-artificial-intelligence-iran-israel-democrats-republicans-congress",
-        "image": "https://foxbaltimore.com/resources/media2/16x9/5879/1320/0x307/90/533232a4-74e2-40f9-8769-4e8075a54fc7-AP25345852605228.jpg",
-        "publishedAt": "2025-12-13T03:02:46Z",
-        "lang": "en",
-        "source": {
-            "id": "9f53afb019d44feb16bcc7da150e679a",
-            "name": "Baltimore News",
-            "url": "https://foxbaltimore.com",
             "country": "us"
         }
     }
