@@ -1,5 +1,21 @@
 [
     {
+        "id": "aaf02d7bb6472591792ecb5295646a1a",
+        "title": "President Trump signs AI executive order; aims to help US win global dominance",
+        "description": "WASHINGTON (TNND) — President Trump has banned states from regulating artificial intelligence. Trump signed an executive order this week that aims to create a",
+        "content": "WASHINGTON (TNND) — President Trump has banned states from regulating artificial intelligence. Trump signed an executive order this week that aims to create a single national framework for AI. The move comes as the U.S. pushes for global dominance in... [2570 chars]",
+        "url": "https://www.europesays.com/2630328/",
+        "image": "https://www.europesays.com/wp-content/uploads/2025/12/533232a4-74e2-40f9-8769-4e8075a54fc7-AP25345852605228.jpg",
+        "publishedAt": "2025-12-13T04:11:23Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "4d050f76ef533ee7bd4c579dc3604471",
         "title": "Venture Blueprint, A Vision to Make Startups the New Economic Engine",
         "description": "Korea’s venture movement is entering a new era. With artificial intelligence transforming global industries, the Korean government has set its sights on",
@@ -141,22 +157,6 @@
             "name": "Livemint",
             "url": "https://www.livemint.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "98a1668401786193402c3cf3cce4ce84",
-        "title": "AI Infrastructure Company EverMind Released EverMemOS, Responding to Profound Challenges in AI",
-        "description": "SAN MATEO, Calif., Dec. 13, 2025 /PRNewswire/ -- AI infrastructure company EverMind has recently released EverMemOS, an open-source Memory Operating System designed to address one of artificial intelligence's most profound challenges: equipping machines with scalable, long-term memory.",
-        "content": "SAN MATEO, Calif., Dec. 13, 2025 /PRNewswire/ -- AI infrastructure company EverMind has recently released EverMemOS, an open-source Memory Operating System designed to address one of artificial intelligence's most profound challenges: equipping machi... [4879 chars]",
-        "url": "https://www.manilatimes.net/2025/12/13/tmt-newswire/pr-newswire/ai-infrastructure-company-evermind-released-evermemos-responding-to-profound-challenges-in-ai/2242775",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/13/865944.jpg",
-        "publishedAt": "2025-12-13T01:25:51Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
