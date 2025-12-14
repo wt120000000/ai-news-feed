@@ -1,5 +1,37 @@
 [
     {
+        "id": "b0da043dd6135afd1378714a571d011e",
+        "title": "The future of work, according to Anthropic",
+        "description": "The workplace is changing as artificial intelligence expands. A new study from Anthropic offers clues to what is coming in the AI world.",
+        "content": "You have to hand it to Anthropic. Since earlier this year, the company has been at the forefront of talking about how artificial intelligence is affecting work and using its own employees as examples. In a study released last week, Anthropic reported... [3801 chars]",
+        "url": "https://www.deseret.com/opinion/2025/12/13/future-of-work-ai-anthropic-study/",
+        "image": "https://www.deseret.com/resizer/v2/EA3CRQJ4WNHCLAJGECP4QF72PM.JPG?focal=1493%2C1005&auth=0bc3e7b7023901c9f3ded366041ad7e13a76777e8ca67b113ac675ce6c0346a5&width=630",
+        "publishedAt": "2025-12-13T20:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "aaa6f2928e430ec2ed450ed89cc822f5",
+            "name": "Salt Lake City Deseret News",
+            "url": "https://www.deseret.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e6d73e0be0544fde77b8c1be10f53ab8",
+        "title": "Artificial Intelligence lies fuel conflict and endanger UK freedoms",
+        "description": "AI has been turned into a weapon which is making crises even more dangerous while threatening UK democracy",
+        "content": "Online lies spread using Artificial Intelligence are causing havoc in conflict zones and resulting in deaths, the Freedom Association has warned. Fake reports of atrocities in countries including Sudan shatter trust and stop people making donations w... [2494 chars]",
+        "url": "https://www.express.co.uk/news/politics/2145939/artificial-intelligence-lies-fuel-conflict",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/139/1200x630/6611984.jpg",
+        "publishedAt": "2025-12-13T19:52:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c97ef3cad273a1993c998ca7ddcc5212",
+            "name": "Daily Express",
+            "url": "https://www.express.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "0e5a983dea3f54a0d484af83c3c9af52",
         "title": "Israel joins US-led 'Pax Silica' initiative to cooperate on securing AI supply chains",
         "description": "PM's economic adviser touts 'mark of distinction for Israel,' as US, seven allies launch effort to 'shape a new, sustainable economic order for the age of artificial intelligence'",
@@ -125,38 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "9e0d818d780a5ad42f0d9affa06613df",
-        "title": "Apollo bet against software makers exposed to AI (APO:NYSE)",
-        "description": "Apollo Global Management (APO) bet against software makers vulnerable to artificial intelligence and cut its credit exposure to the sector. Read more here.",
-        "content": "Apollo reportedly bet against debt of software makers exposed to AI\nDec. 13, 2025 9:18 AM ETApollo Global Management, Inc. (APO) StockKKRBy : Dulan Lokuwithana, SA News Editor\nComments\nApollo Global Management (APO) has taken bearish bets on several ... [272 chars]",
-        "url": "https://seekingalpha.com/news/4531224-apollo-bet-against-software-makers-exposed-ai",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2236865789/image_2236865789.jpg?io=getty-c-w630",
-        "publishedAt": "2025-12-13T14:18:23Z",
-        "lang": "en",
-        "source": {
-            "id": "a6d401909ca644c4ffb332486c9cfaea",
-            "name": "Seeking Alpha",
-            "url": "https://seekingalpha.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "21f3b3e6a90c43c687d930a100e6187f",
-        "title": "Investment Boom: From Google To Microsoft, Why Tech Companies Are Investing In India",
-        "description": "India is emerging as a key global hub for artificial intelligence investment, with some of the world’s most powerful technology companies turning their attention to the country. Industry heavyweights are committing significant resources, drawn by India’s young demographic and its expanding digital ecosystem.",
-        "content": "India is emerging as a key global hub for artificial intelligence investment, with some of the world’s most powerful technology companies turning their attention to the country. Industry heavyweights are committing significant resources, drawn by Ind... [2491 chars]",
-        "url": "https://www.ndtvprofit.com/technology/investment-boom-from-google-to-microsoft-why-tech-companies-are-investing-in-india",
-        "image": "https://media.assettype.com/bloombergquint%2F2025-03-18%2Fom7ti2ml%2Fai-71118021280.jpg?rect=0%2C0%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-12-13T13:56:47Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
         }
     }
 ]
