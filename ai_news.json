@@ -1,5 +1,85 @@
 [
     {
+        "id": "0fd7918591a158e0ad7b09724193ce2f",
+        "title": "New AI tool identifies not just genetic mutations, but the diseases they may cause",
+        "description": "Scientists at the Icahn School of Medicine at Mount Sinai have developed a novel artificial intelligence tool that not only identifies disease-causing genetic mutations but also predicts the type of disease those mutations may trigger.",
+        "content": "Scientists at the Icahn School of Medicine at Mount Sinai have developed a novel artificial intelligence tool that not only identifies disease-causing genetic mutations but also predicts the type of disease those mutations may trigger.\nThe method, ca... [3848 chars]",
+        "url": "https://medicalxpress.com/news/2025-12-ai-tool-genetic-mutations-diseases.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2022/genetics.jpg",
+        "publishedAt": "2025-12-15T10:00:10Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "2d928e152b77d9f9e330db3f7e36ffc9",
+        "title": "AI adoption can make India's manufacturing take the next big leap, say industry leaders",
+        "description": "Experts at the CII Smart Manufacturing Summit said India's industries are now entering a crucial phase where artificial intelligence (AI) must guide the country's next big leap in manufacturing. Speaking at the summit on Monday, industry leaders explained why AI-driven transformation can no longer wait, and India needs to strengthen its place in global manufacturing and move up the value chain.",
+        "content": "New Delhi [India], December 15 (ANI): Experts at the CII Smart Manufacturing Summit said India's industries are now entering a crucial phase where artificial intelligence (AI) must guide the country's next big leap in manufacturing. Speaking at the s... [2651 chars]",
+        "url": "https://www.tribuneindia.com/news/business/ai-adoption-can-make-indias-manufacturing-take-the-next-big-leap-say-industry-leaders/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ0M2Y2MjAwLWQ5OWEtMTFmMC05MjU0LTk5MGM4YWQ1MGZlOS5qcGc=",
+        "publishedAt": "2025-12-15T09:45:40Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "44b2aab71eb25ec6a83ccbf4049d0e2f",
+        "title": "AI breakthrough may help cancer patients avoid chemotherapy: Here’s how",
+        "description": "Researchers in a recent breakthrough have identified a better and more advanced way to examine cancer biopsies by using artificial intelligence . A Norwegian start-up, DoMore Diagnostics, is...",
+        "content": "Researchers in a recent breakthrough have identified a better and more advanced way to examine cancer biopsies by using artificial intelligence (AI).\nA Norwegian start-up, DoMore Diagnostics, is deploying a cutting-edge AI tool to revolutionize the w... [2131 chars]",
+        "url": "https://www.thenews.com.pk/latest/1384925-ai-breakthrough-may-help-cancer-patients-avoid-chemotherapy-heres-how",
+        "image": "https://www.thenews.com.pk/assets/uploads/updates/2025-12-15/1384925_023836_updates.jpg",
+        "publishedAt": "2025-12-15T09:38:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "c52c762d29bb004cbc478fd4ceaa467b",
+        "title": "Study reveals why the human brain still outperforms AI",
+        "description": "Even in the age of advanced artificial intelligence, the human brain continues to outperform machines where it matters most adaptability.",
+        "content": "Even in the age of advanced artificial intelligence, the human brain continues to outperform machines where it matters most adaptability.\nA new study reveals how the brain’s unique design allows it to learn faster and apply skills across unfamiliar t... [1248 chars]",
+        "url": "https://www.bolnews.com/technology/study-reveals-why-the-human-brain-still-outperforms-ai/",
+        "image": "https://www.bolnews.com/wp-content/uploads/2025/12/human-brain-AI.webp",
+        "publishedAt": "2025-12-15T09:35:41Z",
+        "lang": "en",
+        "source": {
+            "id": "e98c4d2585c4c5661ffe60fed4d51930",
+            "name": "BOL News",
+            "url": "https://www.bolnews.com",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "6ab6f4bbf698050b6eb59e1e7d9626a5",
+        "title": "AI firms believe mammograms can spot multiple health risks",
+        "description": "As AI adoption soars in radiology, artificial intelligence firms believe mammograms can be used to spot cardiovascular disease as well as breast cancer.",
+        "content": "CHICAGO — Over the last several years, artificial intelligence has slowly snuck into the annual screening mammograms that women are recommended to get starting in their 40s. At certain practices, women can pay $40 or $50 out of pocket for an AI add-o... [629 chars]",
+        "url": "https://www.statnews.com/2025/12/15/mammogram-ai-predictive-models-both-breast-cancer-heart-disease/",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/12/AP184433899449-1024x576.jpg",
+        "publishedAt": "2025-12-15T09:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "8867e8e7dcb6466620736bb48c455572",
+            "name": "STAT",
+            "url": "https://www.statnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "45aae6b650d503b99769d4672e7976c4",
         "title": "OpenAI Codex Lead Says Typing Speed Of Humans Is Slowing Down AGI Development, All Details Here",
         "description": "Despite rapid advancements in AI, achieving Artificial General Intelligence (AGI) remains a distant goal, primarily due to human limitations, according to OpenAI Codex head Alexander Embiricos. , Technology & Science, Times Now",
@@ -76,86 +156,6 @@
             "id": "f2ddccedc9e60d844e7a1045928cad48",
             "name": "Lokmat Times",
             "url": "https://www.lokmattimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "0ddc0e7184315748f1573c6ee0603e62",
-        "title": "Japan's Nikkei sinks as tech shares track US peers lower",
-        "description": "The Nikkei slid 1.3% to end the day at 50,168.11, with artificial intelligence (AI)-focused startup investor SoftBank Group and chip-testing-tool maker Advantest - an Nvidia supplier - the biggest drags on the index by a wide margin.",
-        "content": "IRFC Share Price113.29-47.3%-0.53(-0.47%) Upside Suzlon Energy Share Price53.2339.0%0.21(0.4%) Upside IREDA Share Price135.4328.5%-0.75(-0.56%) Upside Tata Motors PV Share Price346.3522.3%-1.1(-0.32%) Upside YES Bank Share Price21.79-15.6%-0.14(-0.6%... [2242 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-sinks-as-tech-shares-track-us-peers-lower/articleshow/125974038.cms",
-        "image": "https://img.etimg.com/thumb/msid-125974038,width-1200,height-630,imgsize-76206,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2025-12-15T07:42:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "9d6d51ed4640ed947a3e7ef82d2f3208",
-        "title": "Merriam-Webster’s 2025 Word Of The Year Is Slop, Here's All You Need To Know",
-        "description": "Slop was first used in the 1700s to mean soft mud, but it evolved more generally to mean something of little value. The definition has since expanded to mean 'digital content of low quality that is produced usually in quantity by means of artificial intelligence.'",
-        "content": "Creepy, zany and demonstrably fake content is often called “slop.” The word's proliferation online, in part thanks to the widespread availability of generative artificial intelligence, landed it Merriam-Webster's 2025 word of the year .\n“It’s such an... [6349 chars]",
-        "url": "https://www.republicworld.com/lifestyle/art-culture/merriam-websters-2025-word-of-the-year-is-slop-here-s-all-you-need-to-know",
-        "image": "https://img.republicworld.com/all_images/merriam-websters-2025-word-is-1765780864114-16_9.webp",
-        "publishedAt": "2025-12-15T06:41:09Z",
-        "lang": "en",
-        "source": {
-            "id": "e479ce8332aab31d8bac6ba9584cedbb",
-            "name": "Republic World",
-            "url": "https://www.republicworld.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "f64ccd793d30d5fb93200bd5427e086e",
-        "title": "Job apocalypse? Humbug! AI is creating brand new occupations",
-        "description": "Despite widespread fears of job losses owing to the rise of artificial-intelligence (AI) agents, it is not all gallows humour.| Business News",
-        "content": "A mock job advertisement that has done the rounds recently calls for a “killswitch engineer” for OpenAI, maker of ChatGPT. The description requires the successful applicant to stand by servers all day and unplug them “if this thing turns on us”. Usef... [3577 chars]",
-        "url": "https://www.hindustantimes.com/business/job-apocalypse-humbug-ai-is-creating-brand-new-occupations-101765780388355.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2025/12/15/550x309/artificial_intelligence_1740651874425_1765780461123.jpg",
-        "publishedAt": "2025-12-15T06:35:04Z",
-        "lang": "en",
-        "source": {
-            "id": "21468bec836de1ebb209ff6f78fbfe3e",
-            "name": "Hindustan Times",
-            "url": "https://www.hindustantimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "276ed4f1682035506252c3a800efe45d",
-        "title": "Webster’s 2025 word of the year is ‘slop’",
-        "description": "Creepy, zany and demonstrably fake content is often called “slop”. The word’s proliferation online, in part thanks to the widespread availability of generative artificial intelligence, landed it Merriam-Webster’s 2025 word of the year.",
-        "content": "Creepy, zany and demonstrably fake content is often called “slop”. The word’s proliferation online, in part thanks to the widespread availability of generative artificial intelligence, landed it Merriam-Webster’s 2025 word of the year.\n“It’s such an ... [3378 chars]",
-        "url": "https://www.tribuneindia.com/news/trending/merriam-websters-2025-word-of-the-year-is-slop/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTRiZDRhODYwLWQ5N2UtMTFmMC05MjU0LTk5MGM4YWQ1MGZlOS5qcGc=",
-        "publishedAt": "2025-12-15T06:21:19Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a24c904d45ccb4782b2053938e01073d",
-        "title": "KPMG in India receives ISO 42001 Certification for Artificial Intelligence Management from SGS",
-        "description": "The certification provides confidence to clients, stakeholders and regulators that AI technologies are being managed in accordance with established globally recognised practices.Commenting on the achievement, Sub-Regional Director Business Assurance for SGS in India, Nilesh Jadhav, said, The ISO 42001 certification awarded to KPMG in India, underscores our aligned commitment to advancing responsible AI adoption.",
-        "content": "SGS is pleased to announce that it has certified KPMG in India for the ISO 42001:2023 Artificial Intelligence Management System (AIMS) standard for its Gurugram and Noida offices. This international standard, developed by the International Organizati... [4462 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3730987-kpmg-in-india-receives-iso-42001-certification-for-artificial-intelligence-management-from-sgs",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg?width=920&format=jpeg",
-        "publishedAt": "2025-12-15T06:02:39Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
             "country": "in"
         }
     }
