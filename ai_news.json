@@ -1,5 +1,37 @@
 [
     {
+        "id": "ef86c6acc198269d645a09b6fd4a417b",
+        "title": "Militant groups are experimenting with AI, and the risks are expected to grow",
+        "description": "As the rest of the world rushes to harness the power of artificial intelligence, militant groups also are experimenting with the technology, even if they aren't sure exactly what to do with it. For extremist organizations, AI could be a powerful tool for recruiting new members, churning out realistic deepfake…",
+        "content": "As the rest of the world rushes to harness the power of artificial intelligence, militant groups also are experimenting with the technology, even if they aren't sure exactly what to do with it.\nFor extremist organizations, AI could be a powerful tool... [5063 chars]",
+        "url": "https://japantoday.com/category/world/militant-groups-are-experimenting-with-ai-and-the-risks-are-expected-to-grow",
+        "image": "https://media.japantoday.com/img/store/2e/4a/7b407937e2462f0e5159961ca36cb0ecba08/download/_w1700.jpeg",
+        "publishedAt": "2025-12-15T03:10:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "57fbb0f6d9f442ade0c83341a8a19d29",
+        "title": "China's smaller manufacturers look to catch the automation wave",
+        "description": "China is already the world's largest market for industrial robots, and the government is pouring billions of dollars into robotics and artificial intelligence to boost its presence in the sector.",
+        "content": "YANCHENG, China: In a light-filled workshop in eastern China, a robotic arm moved a partially assembled autonomous vehicle as workers calibrated its cameras, typical of the incremental automation being adopted even across smaller factories in the wor... [4248 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/12/15/china039s-smaller-manufacturers-look-to-catch-the-automation-wave",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/15/3672626.jpg",
+        "publishedAt": "2025-12-15T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "b73cc2b326d098b98f4cd2e80dc18f49",
         "title": "Nvidia Looks to Add More H200 Capacity to Accommodate Large Orders But China Rejects",
         "description": "Nvidia has informed its clients in China that it is adding capacity to accommodate large orders for its second-best artificial intelligence chip, Reuters reported Friday, citing two sources briefed...",
@@ -125,38 +157,6 @@
             "name": "Daily Excelsior",
             "url": "https://www.dailyexcelsior.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "66eb7918443a6a2eca170ddde6ad918b",
-        "title": "Militant groups are experimenting with AI, and the risks are expected to grow",
-        "description": "The Islamic State group and other militant organizations are experimenting with artificial intelligence as a tool to boost recruitment and refine their",
-        "content": "The Islamic State group and other militant organizations are experimenting with artificial intelligence as a tool to boost recruitment and refine their operations\nMilitant groups are experimenting with AI, and the risks are expected to growBy DAVID K... [5322 chars]",
-        "url": "https://www.breitbart.com/news/militant-groups-are-experimenting-with-ai-and-the-risks-are-expected-to-grow/",
-        "image": "https://media.breitbart.com/media/2025/12/wi/ap/artificial-intelligence-extremist-43794-artificial-intelligence-extremist-demonstrators-chant-640x335.jpg",
-        "publishedAt": "2025-12-14T21:56:27Z",
-        "lang": "en",
-        "source": {
-            "id": "85b540771682043e2a9f294068f5345b",
-            "name": "Breitbart News Network",
-            "url": "https://www.breitbart.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "007c8089fc62b8a55806f812cb703b5f",
-        "title": "Will AI Take Jobs or Create New Opportunities?",
-        "description": "The rise of artificial intelligence has sparked one of the most heated debates of our generation: Will AI be the great job destroyer, or will it unlock",
-        "content": "The rise of artificial intelligence has sparked one of the most heated debates of our generation: Will AI be the great job destroyer, or will it unlock unprecedented opportunities for human workers? As algorithms become increasingly sophisticated and... [7481 chars]",
-        "url": "https://www.europesays.com/2633450/",
-        "image": "https://www.europesays.com/wp-content/uploads/2025/12/693ddc8eaeda45001dc7dc1b-768x512.jpg",
-        "publishedAt": "2025-12-14T20:48:34Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
         }
     }
 ]
