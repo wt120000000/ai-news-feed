@@ -1,5 +1,37 @@
 [
     {
+        "id": "05839c85342964cf506d486d520727c1",
+        "title": "Satyajit Das: AI - Artificial Intelligence or Absolute Insanity?",
+        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+        "content": "Authored by Satyajit Das via NakedCapitalism.com,\nAI is tracing the familiar, weary boom and bust trajectory identified in 1837 by Lord Overstone of quiescence, improvement, confidence, prosperity, excitement, overtrading, convulsion, pressure, stagn... [11985 chars]",
+        "url": "https://www.zerohedge.com/ai/satyajit-das-ai-artificial-intelligence-or-absolute-insanity",
+        "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-12/1350191_9947044_Revolutionary-nu.jpg?itok=2_0xG2uo",
+        "publishedAt": "2025-12-16T19:05:00Z",
+        "lang": "en",
+        "source": {
+            "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+            "name": "ZeroHedge",
+            "url": "https://www.zerohedge.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a547ec452bcf97e230564ea32b073ec7",
+        "title": "Goldman Revamps Tech Banking Group as AI Infrastructure Booms",
+        "description": "Goldman Sachs Group Inc. is reorganizing some of its technology, media and telecom investment-banking group as the artificial intelligence industry — and all the infrastructure that serves that business — takes off.",
+        "content": "Goldman Sachs Group Inc. is reorganizing some of its technology, media and telecom investment-banking group as the artificial intelligence industry — and all the infrastructure that serves that business — takes off.\nYasmine Coupal and Jason Tofsky wi... [258 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-16/goldman-revamps-tech-banking-group-as-ai-infrastructure-booms",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwRoQrC0usHI/v0/1200x800.jpg",
+        "publishedAt": "2025-12-16T19:04:06Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "888d69b7dd29de12bb61de09615215f3",
         "title": "AI that predicts sequences within antibodies could lead to new therapeutic treatments",
         "description": "A new artificial intelligence model could help design antibodies that better protect the body against viruses and disease. The AI model, known as ImmunoMatch, can predict and identify correct protein pairings within antibodies, potentially helping to strengthen the immune system. The research was conducted by a team from the University of Surrey and University College London and is published in Nature Methods.",
@@ -125,38 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "5ecfd696a05c5f3a5815c652145d21e0",
-        "title": "DoorDash Tests AI Social App to Help Users Find Restaurants",
-        "description": "DoorDash Inc. is experimenting with a standalone artificial intelligence-powered app for users to find new restaurants, expanding its reach beyond its flagship food-delivery service.",
-        "content": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world\nConnecting decision makers to a dynamic network of infor... [770 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-12-16/doordash-launches-zesty-an-ai-powered-app-for-finding-new-restaurants",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itK0StTB6_fU/v1/1200x900.jpg",
-        "publishedAt": "2025-12-16T17:28:32Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a5df6f87d8c6e5ecb2e215a47917736b",
-        "title": "AI investment to keep rising and boost world economy, OECD says",
-        "description": "The surge in artificial intelligence investment that has buoyed world growth is set to continue and deliver longer-term gains, OECD Secretary General Mathias Cormann said.",
-        "content": "(Bloomberg/William Horobin, Anna Edwards and Lizzy Burden) — The surge in artificial intelligence investment that has buoyed world growth is set to continue and deliver longer-term gains, OECD Secretary General Mathias Cormann said.\nThe Paris-based o... [1015 chars]",
-        "url": "https://www.mercurynews.com/2025/12/16/ai-investment-to-keep-rising-and-boost-world-economy-oecd-says/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2025/09/SJM-Z-OPED-CALDWELL-0930-JPEG1.jpg?w=1024&h=683",
-        "publishedAt": "2025-12-16T17:26:14Z",
-        "lang": "en",
-        "source": {
-            "id": "17d7c2645f485578130862e0c8dd9480",
-            "name": "The Mercury News",
-            "url": "https://www.mercurynews.com",
-            "country": "us"
         }
     }
 ]
