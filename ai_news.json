@@ -1,5 +1,85 @@
 [
     {
+        "id": "1dd94fd4376990656dba0565918655c4",
+        "title": "The Environmental Price of Intelligence: How AI Infrastructure Creates Systemic Ecological Risk",
+        "description": "A major assessment by the Gesellschaft für Informatik argues that artificial intelligence has become planetary-scale infrastructure whose environmental harms are systemic, arising not just from energy use but from power concentration, weak governance, rebound effects, and deep integration into economic and ecological systems. Without precautionary governance, transparency, and limits aligned with planetary boundaries, AI risks reinforcing ecological degradation rather than helping to solve it.",
+        "content": "Artificial intelligence is increasingly framed as a tool for solving climate change and sustainability challenges, yet a major expert assessment by the Gesellschaft für Informatik (GI), produced within the federally funded Systemic and Existential Ri... [5043 chars]",
+        "url": "https://www.devdiscourse.com/article/science-environment/3731452-the-environmental-price-of-intelligence-how-ai-infrastructure-creates-systemic-ecological-risk",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_12_2025_09_08_20_5270166.png?width=920&format=jpeg",
+        "publishedAt": "2025-12-17T04:29:40Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "cbd55a0ee6937f847d5f04bd21a19cca",
+        "title": "From Automation to Accountability: The Promise and Perils of AI in Social Security Systems",
+        "description": "The OECD report shows that artificial intelligence is already improving efficiency and access in social security systems across Europe, from automating eligibility checks to streamlining document processing, when applied to well-defined tasks with human oversight. It concludes that AI can strengthen social protection only if backed by strong governance, high-quality data, workforce readiness, and transparency to maintain public trust.",
+        "content": "Produced by the OECD’s Public Governance Directorate and Employment, Labour and Social Affairs Directorate, in collaboration with the European Commission and social security institutions in France (CNAF, CNAM, MSA), Italy (INPS), Finland (Kela) and G... [5316 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3730855-from-automation-to-accountability-the-promise-and-perils-of-ai-in-social-security-systems",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_12_2025_09_17_45_979451.png?width=920&format=jpeg",
+        "publishedAt": "2025-12-17T04:28:35Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "17bc1f5c4747def3a5dc877737ba3a21",
+        "title": "Amazon Eyes $10 Billion Stake in OpenAI as Valuation Soars",
+        "description": "Amazon is in talks to invest $10 billion in OpenAI, potentially valuing the artificial intelligence firm at over $500 billion. This comes as OpenAI prepares for a possible IPO, aiming for a $1 trillion valuation. The deal highlights OpenAI's expanding partnerships and strategic positioning in the AI sector.",
+        "content": "Amazon.com Inc is reportedly in discussions to make a significant investment in OpenAI, the creators of ChatGPT, with the potential deal valuing the AI company at over $500 billion.\nThis strategic move comes as OpenAI lays groundwork for a prospectiv... [402 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3732761-amazon-eyes-10-billion-stake-in-openai-as-valuation-soars",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/11_07_2024_12_24_40_1825041.png?width=920&format=jpeg",
+        "publishedAt": "2025-12-17T04:04:08Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "2f5337c1adcbfe73116404de9b7ca7bb",
+        "title": "Researchers demonstrate breakthroughs in cancer treatment quality through AI-enhanced data analytics",
+        "description": "Cancer researchers at the University of Tennessee Health Science Center have published three new studies demonstrating how advanced artificial intelligence and population health analytics can identify and address barriers to quality cancer care.",
+        "content": "Cancer researchers at the University of Tennessee Health Science Center have published three new studies demonstrating how advanced artificial intelligence and population health analytics can identify and address barriers to quality cancer care.\nThe ... [5080 chars]",
+        "url": "https://medicalxpress.com/news/2025-12-breakthroughs-cancer-treatment-quality-ai.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-demonstrat-18.jpg",
+        "publishedAt": "2025-12-17T03:40:02Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "f2140a2a5e31fad992dfaec5e76d9bf3",
+        "title": "‘LLMs extract meaning, but only at a superficial level’: Godfather of AI Yann LeCun",
+        "description": "Yann LeCun, one of the pioneers of artificial intelligence, argues that today’s large language models only mimic understanding rather than truly grasping the world.",
+        "content": "LeCun went on to explain that LLMs are trained on 30 trillion words, which represent nearly all public text on the internet. According to the scientist, it would take a human over 500,000 years to read that much. But a four-year-old child sees just a... [4033 chars]",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/llms-extract-meaning-but-only-at-a-superficial-level-godfather-of-ai-yann-lecun-10423168/",
+        "image": "https://images.indianexpress.com/2025/12/Yann-LeCun.jpg",
+        "publishedAt": "2025-12-17T03:35:14Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "7d23bb2723b2429175699f9a14005d33",
         "title": "DeMeo as CEO, looks to add AI features to Firefox",
         "description": "Mozilla has appointed long-time Firefox executive Anthony Enzor-DeMeo as chief executive at a time of rapid change in web browsing. He replaces interim boss Laura Chambers as rivals race to add artificial intelligence tools to their browsers. Enzor-DeMeo aims to build new AI-driven products and reduce reliance on Google search income.",
@@ -77,86 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "e08f880ced45826614cb0bfcefe48d12",
-        "title": "Robotware.ai Advances AI Poultry Disease Detection PoC in Malaysia with SDEC",
-        "description": "KUALA LUMPUR, Malaysia, Dec. 17, 2025 /PRNewswire/ -- Robotware.ai , a Korea-based artificial intelligence company specializing in livestock intelligence solutions, is advancing its proof-of-concept (PoC) deployment in Malaysia in collaboration with Sarawak Digital Economy Corporation (SDEC) , following the successful implementation of its system at local poultry farms.",
-        "content": "KUALA LUMPUR, Malaysia, Dec. 17, 2025 /PRNewswire/ -- Robotware.ai , a Korea-based artificial intelligence company specializing in livestock intelligence solutions, is advancing its proof-of-concept (PoC) deployment in Malaysia in collaboration with ... [3340 chars]",
-        "url": "https://www.manilatimes.net/2025/12/17/tmt-newswire/pr-newswire/robotwareai-advances-ai-poultry-disease-detection-poc-in-malaysia-with-sdec/2244924",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-12-17T01:28:56Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "a1e2afc39b4383ff0bfd322c2ac819ce",
-        "title": "Craftsmanship in the age of AI",
-        "description": "“Craftsmanship stands on golden soil” — an old German saying that fits into the current times. While artificial intelligence is massively changing a number of sectors, trades are experiencing a new appreciation. The German-Swiss family company Germax in Sydney has been manufacturing high-quality carpentry products for the Australian and Asian markets for decades. In conversation project manager Adrian Alpert talks about the annual pre-Christmas rush in the workshop, the value of crafts and possible applications for AI in the industry.",
-        "content": "Projektmanager Adrian Alpert arbeitet seit vielen Jahren für das Unternehmen Germax und hat ein waches Auge auf neueste Entwicklungen und mögliche Anwendungsbereiche für Künstliche Intelligenz. Credit: SBS German\n“Craftsmanship stands on golden soil”... [986 chars]",
-        "url": "https://www.sbs.com.au/language/german/en/podcast-episode/craftsmanship-in-the-age-of-ai/kyvlozzmg",
-        "image": "https://images.sbs.com.au/dims4/default/70be95a/2147483647/strip/true/crop/1920x1080+0+192/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F43%2Fd7%2Fcc93592b48388575c65d16c058bb%2Fthumbnail-img-0677.jpg",
-        "publishedAt": "2025-12-17T00:14:50Z",
-        "lang": "en",
-        "source": {
-            "id": "94466d37d8c67a438250646866df36df",
-            "name": "SBS Australia",
-            "url": "https://www.sbs.com.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "480f9a1c6fb44168a61408f10fb636be",
-        "title": "LDS Church updates handbook with guidelines for A.I. use",
-        "description": "The LDS Church makes changes to its guidelines for local lay leaders, including a new section on the proper use of artificial intelligence.",
-        "content": "In the latest updates to its General Handbook, The Church of Jesus Christ of Latter-day Saints has unveiled new guidelines for the latest technological craze: artificial intelligence.\n“Interactions with A.I. cannot substitute for meaningful relations... [3784 chars]",
-        "url": "https://www.sltrib.com/religion/2025/12/16/lds-church-updates-handbook-with/",
-        "image": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FYZWKNRZ5GNGFBAXRSKSGTCCOAE.png?auth=18e57f47f98f2c7d18eaad7a61f731c4af28ba0f660325d581a4071fcdd45e21&width=1200",
-        "publishedAt": "2025-12-17T00:01:07Z",
-        "lang": "en",
-        "source": {
-            "id": "eff9eddd8bffd06060c9c7ba12fd8a16",
-            "name": "Salt Lake Tribune",
-            "url": "https://www.sltrib.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "23167d37bc7a7279abe051f615d48fc5",
-        "title": "74 pc of Indian business leaders choose AI as top tech adoption",
-        "description": "around 74 per cent of corporate leaders in india ranked artificial intelligence (ai) among their top three technology adoption choices, a report said on tuesday. the report from standard chartered bank said that ai was followed by cloud computing at 64 per cent and digital assets at 46 per cent as next top choices. on a global scale, approximately seven in 10 corporate leaders are focusing on building strong foundational systems of emerging technologies in the short to medium term — notably cloud computing.",
-        "content": "NEW DELHI :\nAROUND 74 per cent of corporate leaders in India ranked artificial intelligence (AI) among their top three technology adoption choices, a report said on Tuesday. The report from Standard Chartered bank said that AI was followed by cloud c... [1824 chars]",
-        "url": "https://www.thehitavada.com/Encyc/2025/12/17/74-pc-of-indian-business-leaders-choose-ai-as-top-tech-adoption.html",
-        "image": "https://www.thehitavada.com/Encyc/2025/12/17/74-pc-of-Indian-business-leaders-choose-AI-as-top-tech-adoption_202512171213475051_H@@IGHT_720_W@@IDTH_1280.jpg",
-        "publishedAt": "2025-12-17T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "2ff4b6327735b249ca9fe9bb8f044251",
-            "name": "The Hitavada",
-            "url": "https://www.thehitavada.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "4c40ee6e3bd69f68ff1c4dfc7236ddbe",
-        "title": "Artificial intelligence used by Middlesbrough Council will not replace human decision-making",
-        "description": "Middlesbrough Council documents make clear that AI must ‘never’ replace human judgement",
-        "content": "Middlesbrough Council documents make clear that AI must ‘never’ replace human judgement\nThe mayor of Middlesbrough is being asked to approve an artificial intelligence (AI) policy, set to last until 2028. Approval by Chris Cooke will allow the head o... [2944 chars]",
-        "url": "https://www.gazettelive.co.uk/news/teesside-news/artificial-intelligence-used-middlesbrough-council-33067737",
-        "image": "https://i2-prod.gazettelive.co.uk/article33067756.ece/ALTERNATES/s1200/0_JS389569045.jpg",
-        "publishedAt": "2025-12-17T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "07cbbb72338d7ac11b498589c4d49af8",
-            "name": "Teessidelive",
-            "url": "https://www.gazettelive.co.uk",
-            "country": "gb"
         }
     }
 ]
