@@ -1,5 +1,21 @@
 [
     {
+        "id": "a4b6dd316795bee7704328e16026222a",
+        "title": "Amazon plans 370 job cuts at European HQ in Luxembourg: Who could be affected",
+        "description": "Amazon is reducing its workforce in Luxembourg by 370 employees. This move represents about 8.5% of its local staff. The company cited business needs and local strategies for the adjustments. Software developers are expected to be primarily affected. Amazon is offering severance packages that exceed industry standards. The tech giant continues to integrate artificial intelligence into its operations.",
+        "content": "Synopsis\nAmazon is reducing its workforce in Luxembourg by 370 employees. This move represents about 8.5% of its local staff. The company cited business needs and local strategies for the adjustments. Software developers are expected to be primarily ... [2254 chars]",
+        "url": "https://economictimes.indiatimes.com/us/news/amazon-plans-370-job-cuts-at-european-hq-in-luxembourg-who-could-be-affected/articleshow/126032918.cms",
+        "image": "https://img.etimg.com/thumb/msid-126032924,width-1200,height-630,imgsize-66236,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-12-17T06:53:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "a752a0cda6bb6d8e176b7f7b93030b34",
         "title": "The AI Companion Market in 2025: JuicyChat’s Positioning",
         "description": "The AI companion market has transformed dramatically over the past few years and is now one of the fastest-growing branches of consumer-facing artificial intelligence. What began as basic chatbots designed to answer questions or simulate simple conversation has evolved into sophisticated digital companions capable of adapting to personal preferences, sustaining long-term interactions, and delivering experiences that […]",
@@ -141,22 +157,6 @@
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "f2140a2a5e31fad992dfaec5e76d9bf3",
-        "title": "‘LLMs extract meaning, but only at a superficial level’: Godfather of AI Yann LeCun",
-        "description": "Yann LeCun, one of the pioneers of artificial intelligence, argues that today’s large language models only mimic understanding rather than truly grasping the world.",
-        "content": "LeCun went on to explain that LLMs are trained on 30 trillion words, which represent nearly all public text on the internet. According to the scientist, it would take a human over 500,000 years to read that much. But a four-year-old child sees just a... [4033 chars]",
-        "url": "https://indianexpress.com/article/technology/artificial-intelligence/llms-extract-meaning-but-only-at-a-superficial-level-godfather-of-ai-yann-lecun-10423168/",
-        "image": "https://images.indianexpress.com/2025/12/Yann-LeCun.jpg",
-        "publishedAt": "2025-12-17T03:35:14Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
         }
     }
 ]
