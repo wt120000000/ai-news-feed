@@ -1,5 +1,37 @@
 [
     {
+        "id": "bbd9ac02c1435c52f49733d294088649",
+        "title": "China’s Hottest IPO In Years? This AI Chipmaker’s Shares Soared 755% After Listing; Here's Why",
+        "description": "MetaX focuses on graphics processing units used in artificial intelligence development, gaming graphics, and advanced visualisation. , Markets, Times Now",
+        "content": "MetaX shares skyrocketed by as much as 755 per cent intraday after the company raised 585.8 million in its initial public offering, as per the report. (Image Source: Pexels)\nMetaX Integrated Circuits Shanghai Co. delivered a stunning stock market deb... [3756 chars]",
+        "url": "https://www.timesnownews.com/business-economy/markets/china-hottest-ipo-in-years-metax-ai-chipmakers-shares-soared-755-percent-after-listing-here-is-why-article-153304994",
+        "image": "https://images.timesnownews.com/thumb/msid-153304994,width-1280,height-720,resizemode-75/153304994.jpg",
+        "publishedAt": "2025-12-17T05:07:06Z",
+        "lang": "en",
+        "source": {
+            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+            "name": "Times Now",
+            "url": "https://www.timesnownews.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "fa76802832705928978876bbae28de8d",
+        "title": "OpenAI in talks with Amazon about investment could top $10 billion",
+        "description": "OpenAI is in discussions with Amazon about a potential investment and an agreement to use its artificial intelligence chips, CNBC confirmed.",
+        "content": "OpenAI is in discussions with Amazon about a potential investment and an agreement to use its artificial intelligence chips, CNBC confirmed on Tuesday.\nThe details are fluid and still subject to change but the investment could exceed $10 billion, acc... [1790 chars]",
+        "url": "https://www.cnbc.com/2025/12/16/openai-in-talks-with-amazon-about-investment-could-top-10-billion.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108204530-1758900517239-gettyimages-2236544077-STARGATE_DATA_CENTER.jpeg?v=1765907645&w=1920&h=1080",
+        "publishedAt": "2025-12-17T04:42:44Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "1dd94fd4376990656dba0565918655c4",
         "title": "The Environmental Price of Intelligence: How AI Infrastructure Creates Systemic Ecological Risk",
         "description": "A major assessment by the Gesellschaft für Informatik argues that artificial intelligence has become planetary-scale infrastructure whose environmental harms are systemic, arising not just from energy use but from power concentration, weak governance, rebound effects, and deep integration into economic and ecological systems. Without precautionary governance, transparency, and limits aligned with planetary boundaries, AI risks reinforcing ecological degradation rather than helping to solve it.",
@@ -125,38 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "148306bbf9a9837265e30cd9a36abb13",
-        "title": "AI tool reveals hidden proteins in Earth’s vital microalgae",
-        "description": "Scientists at NYU Abu Dhabi have developed a powerful new artificial intelligence tool called LA⁴SR that can rapidly identify previously overlooked proteins in microalgae - tiny organisms that produce much of the Earth's oxygen and support entire aquatic ecosystems.",
-        "content": "Scientists at NYU Abu Dhabi have developed a powerful new artificial intelligence tool called LA⁴SR that can rapidly identify previously overlooked proteins in microalgae - tiny organisms that produce much of the Earth's oxygen and support entire aqu... [1595 chars]",
-        "url": "https://www.news-medical.net/news/20251216/AI-tool-reveals-hidden-proteins-in-Earthe28099s-vital-microalgae.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2025-12-17T02:21:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "09ea99706c5b67e6938c9eacf5cf1a12",
-        "title": "OpenAI taps former UK finance minister George Osborne to lead global Stargate expansion",
-        "description": "OpenAI has named former UK chancellor George Osborne to lead its work with governments on national AI plans. He will head the OpenAI for Countries programme, focused on overseas expansion and public sector partnerships. The move highlights how artificial intelligence is increasingly seen as vital national infrastructure.",
-        "content": "Synopsis\nOpenAI has named former UK chancellor George Osborne to lead its work with governments on national AI plans. He will head the OpenAI for Countries programme, focused on overseas expansion and public sector partnerships. The move highlights h... [1173 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-taps-former-uk-finance-minister-george-osborne-to-lead-global-stargate-expansion/articleshow/126029010.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-89062,resizemode-75,msid-126029010/tech/artificial-intelligence/openai-taps-former-uk-finance-minister-george-osborne-to-lead-global-stargate-expansion.jpg",
-        "publishedAt": "2025-12-17T02:19:37Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
