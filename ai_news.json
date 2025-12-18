@@ -1,5 +1,101 @@
 [
     {
+        "id": "d1e8fc8c03c4d3b3add6ed102607b702",
+        "title": "Amazon has a new leader for its ‘AGI’ group as it plays catch-up on AI",
+        "description": "Amazon’s head of artificial general intelligence, Rohit Prasad, is leaving the company as it revamps its strategy in the AI race. Peter DeSantis, a senior VP at Amazon Web Services, will take Prasad’s place.",
+        "content": "Amazon’s head of artificial general intelligence (AGI), Rohit Prasad, is leaving the company next year as it reaches an “inflection point” in its development of the technology, CEO Andy Jassy announced on Wednesday. As part of the change, Peter DeSan... [1504 chars]",
+        "url": "https://www.theverge.com/news/846721/amazon-new-agi-leader-peter-desantis-rohit-prasad",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935560/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-12-17T20:28:29Z",
+        "lang": "en",
+        "source": {
+            "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+            "name": "The Verge",
+            "url": "https://www.theverge.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "72aec3c5f03d70ba3d6efcb72db6bfcf",
+        "title": "A 'scientific sandbox' lets researchers explore the evolution of vision systems",
+        "description": "Why did humans evolve the eyes we have today? While scientists can't go back in time to study the environmental pressures that shaped the evolution of the diverse vision systems that exist in nature, a new computational framework developed by MIT researchers allows them to explore this evolution in artificial intelligence agents.",
+        "content": "Why did humans evolve the eyes we have today? While scientists can't go back in time to study the environmental pressures that shaped the evolution of the diverse vision systems that exist in nature, a new computational framework developed by MIT res... [6537 chars]",
+        "url": "https://phys.org/news/2025-12-scientific-sandbox-explore-evolution-vision.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/a-scientific-sandbox-l.jpg",
+        "publishedAt": "2025-12-17T20:22:24Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "8ba7e57dff8659681bdfd04f89cf9a04",
+        "title": "Amazon shakes up AI team as veteran Prasad leaves, DeSantis promoted",
+        "description": "Amazon is shaking up its\nartificial intelligence team with one long-time veteran heading\nfor the exit and another taking over a more expansive group that\nincludes AI models, custom silicon and quantum...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/amazon-shakes-up-ai-team-as-veteran-prasad-leaves-desantis-promoted-ce7d50dfde8df022",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2025-12-17T20:16:34Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "8391cda66a766890b23101c0637e537b",
+        "title": "Will Nvidia Turbocharge China’s AI Military?",
+        "description": "President Donald Trump’s decision to approve previously banned exports of Nvidia Corp.’s powerful H200 artificial intelligence chips to China could turbocharge the People’s Liberation Army’s technological ambitions, narrowing America’s edge in military supremacy. Over time, this risks shifting the balance of power in the Indo-Pacific, the primary region in which Washington competes with Beijing for influence and power.",
+        "content": "President Donald Trump’s decision to approve previously banned exports of Nvidia Corp.’s powerful H200 artificial intelligence chips to China could turbocharge the People’s Liberation Army’s technological ambitions, narrowing America’s edge in milita... [537 chars]",
+        "url": "https://www.bloomberg.com/opinion/articles/2025-12-17/nvidia-chips-will-china-s-military-get-an-ai-turbocharge",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibCRwwlbzZG4/v1/1200x800.jpg",
+        "publishedAt": "2025-12-17T20:00:05Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ea4d8d8876d5c9bb8549d90014e351d7",
+        "title": "AI is now answering Akron police’s non-emergency calls",
+        "description": "Residents seeking non-emergency services from Akron police will now find themselves speaking first to “Ava,” an artificial intelligence virtual assistant, the department said.",
+        "content": "CLEVELAND, Ohio — Residents seeking non-emergency services from Akron police will now be routed to “Ava,” an artificial intelligence virtual assistant, the department said.\nThose who call 911, however, will still speak to a person.\nAva works by gathe... [1239 chars]",
+        "url": "https://www.cleveland.com/news/2025/12/ai-is-now-answering-akron-polices-non-emergency-calls.html",
+        "image": "https://www.cleveland.com/resizer/v2/23JLUQFFTJATHNJYG7HBJDJ4Z4.png?auth=c48e5150542a3be54072b26faf6fe9fd83301714f729b1269d2b78bcfcfc5e01&width=1280&smart=true&quality=90",
+        "publishedAt": "2025-12-17T19:59:18Z",
+        "lang": "en",
+        "source": {
+            "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
+            "name": "cleveland.com",
+            "url": "https://www.cleveland.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c033e5860e56e0cddc6c320c4040675d",
+        "title": "RNA-based molecule enhances therapies against pancreatic cancer",
+        "description": "A research group at the Italian Institute of Technology (IIT-Istituto Italiano di Tecnologia) has identified a candidate molecule that could improve current therapies against pancreatic cancer. The team designed the new molecule, called Apt1, using artificial intelligence tools and tested it in in vitro experiments, demonstrating its effectiveness in making tumor cells more vulnerable to chemotherapy drugs.",
+        "content": "A research group at the Italian Institute of Technology (IIT-Istituto Italiano di Tecnologia) has identified a candidate molecule that could improve current therapies against pancreatic cancer. The team designed the new molecule, called Apt1, using a... [3450 chars]",
+        "url": "https://medicalxpress.com/news/2025-12-rna-based-molecule-therapies-pancreatic.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2025/a-rna-based-molecule-e.jpg",
+        "publishedAt": "2025-12-17T19:38:32Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "f9c97dd10da974b543825322ad765ae2",
         "title": "CoreWeave Stock Slides As AI Concerns Rise: What's Happening?",
         "description": "CoreWeave, Inc. (NASDAQ:CRWV) is trading lower Wednesday, falling alongside artificial intelligence stocks following reports suggesting that Blue Owl Capital will not provide funding for a $10 billion Oracle data center.",
@@ -60,102 +156,6 @@
             "id": "da5c26287bdd02563a2c32b55cb12051",
             "name": "Reuters",
             "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "32895bfce183d86a99d1f8303f9826f2",
-        "title": "Amazon taps veteran Peter DeSantis to lead AI, chip and quantum push",
-        "description": "Amazon on Wednesday tapped\nlong-time cloud executive Peter DeSantis to lead a new unit that\nwould oversee its most advanced technologies, including\nartificial intelligence models, custom silicon and...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/amazon-taps-veteran-peter-desantis-to-lead-ai-chip-and-quantum-push-ce7d50dfde88f121",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2025-12-17T18:28:13Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "623f15c8cc9aace62aab65727a0fb686",
-        "title": "Tech stocks plunge as AI angst returns",
-        "description": "Stocks dropped sharply on Wednesday as jitters about the booming artificial intelligence sector once again returned to the top of investors' minds",
-        "content": "Stocks dropped sharply on Wednesday as jitters about the booming artificial intelligence sector once again returned to the top of investors' minds.\nThe catalyst for the tumble was, once again, a story about cloud computing giant Oracle.\nBefore the op... [2886 chars]",
-        "url": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251217-new-york-stock-exchange-vl-1210p-f88e71.jpg",
-        "publishedAt": "2025-12-17T18:13:39Z",
-        "lang": "en",
-        "source": {
-            "id": "77b86639d1384ac68141803ec5db27c0",
-            "name": "NBC News",
-            "url": "https://www.nbcnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c789cdcee2feffeaa2433b1d6ef4faa3",
-        "title": "AI Toys Put Kids at Risk, Senators Warn",
-        "description": "Sens. Marsha Blackburn, R-Tenn., and Richard Blumenthal, D-Conn., are demanding information from prominent toy manufacturers about the use of artificial intelligence.",
-        "content": "Sens. Marsha Blackburn, R-Tenn., and Richard Blumenthal, D-Conn., are demanding information from prominent toy manufacturers about the use of artificial intelligence.\nThe senators sent a Tuesday letter to the CEOs of Little Learners Toys, Mattel, Mik... [2665 chars]",
-        "url": "https://www.newsmax.com/finance/newsfront/marsha-blackburn-richard-blumenthal-ai/2025/12/17/id/1238699/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=c98dc23d-e64f-4c30-acf8-158f2a0a7508&SiteName=Newsmax",
-        "publishedAt": "2025-12-17T18:04:04Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "31ca24778a85ca1b1e93f22cb1d3dafc",
-        "title": "Amazon says AI chief Rohit Prasad is leaving, Peter DeSantis to lead 'AGI' group",
-        "description": "Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, will leave the company at the end of this year, the company confirmed.",
-        "content": "Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, is leaving the company at the end of this year, the company confirmed Wednesday.\nAs part of the move, Amazon CEO Andy Jassy said in a blog post that the company... [280 chars]",
-        "url": "https://www.cnbc.com/2025/12/17/amazon-ai-chief-prasad-leaving-peter-desantis-agi-group.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108243095-1765993729604-gettyimages-1244423126-BE6_1083.jpeg?v=1765993790&w=1920&h=1080",
-        "publishedAt": "2025-12-17T17:52:45Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "8f0217c8d2a2db947130f00445a2dc51",
-        "title": "WHO seeks evidence for traditional medicine",
-        "description": "The World Health Organization opens a major conference on traditional medicine on Wednesday, arguing that new technologies, including artificial intelligence, can bring scientific scrutiny to centuries-old healing practices.",
-        "content": "The World Health Organization opens a major conference on traditional medicine on Wednesday, arguing that new technologies, including artificial intelligence, can bring scientific scrutiny to centuries-old healing practices.\nThe meeting in New Delhi ... [3524 chars]",
-        "url": "https://www.cp24.com/news/world/2025/12/17/ancient-cures-and-ai-who-seeks-evidence-for-traditional-medicine/",
-        "image": "https://www.cp24.com/resizer/v2/SZXUXPNDJ4TZ4VXKWTXYTA7WL4.jpg?smart=true&auth=be2e984dba252ef2f1caed51a9a77cf83d012016f97afe8a208bad78483e825e&width=1200&height=630",
-        "publishedAt": "2025-12-17T17:50:06Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "4ca1dabcd11ca23205be99bb8c2716ed",
-        "title": "Amazon Names New AI Chief Amid Battle to Take on Tech Rivals",
-        "description": "Amazon.com Inc. is reorganizing teams working on artificial intelligence projects, putting a top leader from the company’s cloud division in charge of a new unit.",
-        "content": "Amazon.com Inc. is reorganizing teams working on artificial intelligence projects, putting a top leader from the company’s cloud division in charge of a new unit.\nPeter DeSantis will lead the new group, Amazon Chief Executive Officer Andy Jassy said ... [341 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-12-17/amazon-names-new-ai-chief-amid-battle-to-take-on-tech-rivals",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_5WOncOj3jQ/v1/1200x800.jpg",
-        "publishedAt": "2025-12-17T17:47:53Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
             "country": "us"
         }
     }
