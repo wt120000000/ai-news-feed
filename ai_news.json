@@ -1,5 +1,21 @@
 [
     {
+        "id": "41599803a5a0f23d6001fd64b27ab020",
+        "title": "Singer Performs With Dancing Robots In Futuristic China Concert, Wows Internet",
+        "description": "The concert aimed to showcase how artificial intelligence and robotics can amplify artistic expression rather than replace human performers.",
+        "content": "In a fascinating spectacle, several Unitree G1 humanoid robots joined Chinese-American singer Wang Leehom on stage for a futuristic dance performance during his 'Best Place Tour' concert in China's Chengdu. The robots, dressed in baggy pants and spar... [1779 chars]",
+        "url": "https://www.ndtv.com/offbeat/viral-video-singer-performs-with-dancing-robots-in-futuristic-china-concert-wows-internet-9853697",
+        "image": "https://c.ndtvimg.com/2025-12/qqo67r44_robots-dancing_625x300_20_December_25.jpeg",
+        "publishedAt": "2025-12-20T08:48:35Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "22c8711e67f51ff4a601b5063613b342",
         "title": "OpenAI CEO Sam Altman believes ‘infinite memory’ matters more than smarter AI reasoning",
         "description": "OpenAI CEO Sam Altman says the next major leap in artificial intelligence won’t come from better reasoning, but from AI systems that can remember users, preferences, and interactions over time.",
@@ -141,22 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "07872594262ea9ad428108ca9e60ff8c",
-        "title": "Why Some Believe An All-Out AGI Versus AGI Battle Will Determine The True Alpha AGI",
-        "description": "If we attain AGI (artificial general intelligence) some believe that multiple AGIs will battle for dominance. Here's the inside scoop and what we need to do about it.",
-        "content": "In today’s column, I address an intriguing speculation that once we’ve advanced AI to become AGI (artificial general intelligence), the odds are that AGI will go into a fierce battle with AGI. Say what? Yes, the theory is that whatever AGI exists, wh... [10677 chars]",
-        "url": "https://www.forbes.com/sites/lanceeliot/2025/12/20/why-some-believe-an-all-out-agi-versus-agi-battle-will-determine-the-true-alpha-agi/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/682eacfa384d42c645dede9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-12-20T05:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a0300bc9a6e9d5b317bd6f614767231f",
-            "name": "Forbes",
-            "url": "https://www.forbes.com",
-            "country": "us"
         }
     }
 ]
