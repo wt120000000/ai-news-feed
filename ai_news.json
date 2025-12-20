@@ -1,5 +1,37 @@
 [
     {
+        "id": "a8c3175ed27b9599b299c517842c6b01",
+        "title": "Microsoft, Constellation Energy restart Three Mile Island nuclear reactor",
+        "description": "Microsoft and Constellation Energy partner to restart Three Mile Island nuclear reactor with $1 billion federal loan to power artificial intelligence operations.",
+        "content": "Microsoft and Constellation Energy are teaming up to restart the long-dormant Three Mile Island nuclear reactor in Pennsylvania.\nThe companies are backed by a $1 billion federal energy loan, part of what Constellation CEO Joe Dominguez calls a nuclea... [3151 chars]",
+        "url": "https://www.foxnews.com/media/three-mile-island-nuclear-plant-makes-dramatic-comeback-1b-federal-backing-ai-power",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/faulkner-three-mile-island-tour-fox-news.jpg",
+        "publishedAt": "2025-12-19T19:19:18Z",
+        "lang": "en",
+        "source": {
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e99a886fd899d26b6e480eb1c6ffc395",
+        "title": "1 unstoppable artificial intelligence (AI) stock you'll want to own next year",
+        "description": "This AI giant is exiting 2025 with great momentum across all of its businesses.",
+        "content": "This article was originally published on Fool.com. All figures quoted in US dollars unless otherwise stated.\nArtificial intelligence (AI) has been the driving force behind many of the stock market's biggest winners over the last three years. Big comp... [5548 chars]",
+        "url": "https://www.fool.com.au/2025/12/20/1-unstoppable-artificial-intelligence-ai-stock-youll-want-to-own-next-year-usfeed/",
+        "image": "https://www.fool.com.au/wp-content/uploads/2022/02/ai-16.9-1200x675.jpg",
+        "publishedAt": "2025-12-19T19:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c6075ba0dc9d123bb327faaa419d3d07",
+            "name": "The Motley Fool Australia",
+            "url": "https://www.fool.com.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "937192b7301e1083cc48383a06ac4bbb",
         "title": "AI boom drives data-center dealmaking to record high, says report",
         "description": "Global data-center dealmaking surged to a record high through November this year, driven by an insatiable demand for computing infrastructure to meet the boom in artificial intelligence usage.",
@@ -125,38 +157,6 @@
             "name": "Bnn Bloomberg",
             "url": "https://www.bnnbloomberg.ca",
             "country": "ca"
-        }
-    },
-    {
-        "id": "9cc082d6c69b081c4bffa78239805ad7",
-        "title": "AI boom drives data-centre dealmaking to record high",
-        "description": "Global data-center dealmaking surged to a record high through November this year, driven by an insatiable demand for computing infrastructure to meet the boom in artificial intelligence usage",
-        "content": "Global data-centre dealmaking surged to a record high through November this year, driven by an insatiable demand for computing infrastructure to meet the boom in artificial intelligence usage.\nData from S&P Global Market Intelligence showed that ther... [879 chars]",
-        "url": "https://www.cp24.com/news/money/2025/12/19/ai-boom-drives-data-centre-dealmaking-to-record-high-says-report/",
-        "image": "https://www.cp24.com/resizer/v2/FDL75QN53IXZMVCR6AL2NHQPRY.jpg?smart=true&auth=128170e0eddffb9be86537dc5d56194cebc363f65fadfba09bde0177d64caaef&width=1200&height=630",
-        "publishedAt": "2025-12-19T16:54:48Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "c9b281fa0231eeeb491ab9e1e7b89586",
-        "title": "US Energy Department signs AI collaboration deals with Big Tech for Genesis Mission",
-        "description": "The mission is a national program aimed at using artificial intelligence to accelerate scientific research ‌and strengthen U.S. ‌energy and security capabilities.",
-        "content": "Synopsis\nThe mission is a national program aimed at using artificial intelligence to accelerate scientific research ‌and strengthen U.S. ‌energy and security capabilities.\nListen to this article in summarized format\nThe U.S. Department of ‍Energy sai... [2061 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/us-energy-department-signs-ai-collaboration-deals-with-big-tech-for-genesis-mission/articleshow/126080783.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-19100,resizemode-75,msid-126080783/tech/technology/us-energy-department-signs-ai-collaboration-deals-with-big-tech-for-genesis-mission.jpg",
-        "publishedAt": "2025-12-19T16:26:58Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
