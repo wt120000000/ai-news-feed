@@ -1,5 +1,21 @@
 [
     {
+        "id": "22c8711e67f51ff4a601b5063613b342",
+        "title": "OpenAI CEO Sam Altman believes ‘infinite memory’ matters more than smarter AI reasoning",
+        "description": "OpenAI CEO Sam Altman says the next major leap in artificial intelligence won’t come from better reasoning, but from AI systems that can remember users, preferences, and interactions over time.",
+        "content": "For those unfamiliar, ChatGPT’s Memory feature allows the AI chatbot to retain information shared across conversations, reducing the need for users to repeat the same details every time they start a new chat.\n“I think we have no conception because th... [886 chars]",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-ceo-sam-altman-ai-memory-personalised-10430008/",
+        "image": "https://images.indianexpress.com/2025/12/OpenAI-Sam-Altman.png",
+        "publishedAt": "2025-12-21T03:45:41Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "8e9623fcb98052d0232190ac961523e0",
         "title": "Beyond M.AX: Korea’s SMEs Seek Tangible Relief from Tariffs to Stay Competitive in the AI Transformation Era",
         "description": "Amid Korea’s drive to transform its manufacturing base through artificial intelligence, small and medium-sized enterprises (SMEs) are demanding immediate",
@@ -141,22 +157,6 @@
             "name": "EUROPE SAYS",
             "url": "https://www.europesays.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "c4946f85aaec54c5d57d2de7704d778e",
-        "title": "JU Scholars conferred ‘Best Research Paper Award’",
-        "description": "Excelsior Correspondent JAMMU, Dec 20: At an international conference held on ‘Artificial Intelligence for Innovation, Insight, Integration and Impact for Sustainable Business’ at Chandigarh University in collaboration with Capilano University, Canada, Scholars from the Department of Law at University of Jammu (JU) were awarded Best Research Paper Award. A handout stated that Parul Sharma and Sheetal Priya, PhD Scholars were conferred the award. Under the guidance of Prof. Sanjay Gupta and Dr. Raj Kumar, the Scholars presented a research paper […]",
-        "content": "By\nDaily Excelsior\n-\nExcelsior Correspondent\nJAMMU, Dec 20: At an international conference held on ‘Artificial Intelligence for Innovation, Insight, Integration and Impact for Sustainable Business’ at Chandigarh University in collaboration with Capil... [682 chars]",
-        "url": "https://www.dailyexcelsior.com/ju-scholars-conferred-best-research-paper-award/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2025/12/Page13-1-3.jpg",
-        "publishedAt": "2025-12-20T22:30:03Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
         }
     }
 ]
