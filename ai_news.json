@@ -1,5 +1,37 @@
 [
     {
+        "id": "dd4185e71c6e3b9b9802cafd8f29e4bd",
+        "title": "Prime Video just added one of the most underrated sci-fi movies ever - and it’s a visual treat",
+        "description": "Prime Video just added the movie “The Creator,” a visually striking sci-fi epic that sees a former soldier drawn back into a brutal war between humanity and artificial intelligence.",
+        "content": "“The Creator” arrived in fall 2023 with a hefty budget but failed to make much of a dent at the box office, which is seriously unfortunate because this underappreciated sci-fi action movie deserved far more attention. In a landscape crowded with sequ... [4040 chars]",
+        "url": "https://www.tomsguide.com/entertainment/prime-video/prime-video-just-added-one-of-the-most-underrated-sci-fi-movies-ever-and-its-a-visual-treat",
+        "image": "https://cdn.mos.cms.futurecdn.net/SaNEzDqKrt4bFagaKBp7qP-2000-80.jpg",
+        "publishedAt": "2025-12-21T07:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "dcc4f4c6eb081eb8a9ee9cca215517f5",
+            "name": "Tom's Guide",
+            "url": "https://www.tomsguide.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "34123a034edaa838d5abe6fa1939dc18",
+        "title": "Zara goes digital: AI transforms fashion shoots",
+        "description": "Zara is stepping boldly into the future of fashion by harnessing artificial intelligence (AI) to create dynamic images of models in various outfits, revolutionizing the speed and efficiency of fashion photography.",
+        "content": "Zara is stepping boldly into the future of fashion by harnessing artificial intelligence (AI) to create dynamic images of models in various outfits, revolutionizing the speed and efficiency of fashion photography.\nThis move signals a major industry s... [1238 chars]",
+        "url": "https://www.bolnews.com/technology/zara-goes-digital-ai-transforms-fashion-shoots/",
+        "image": "https://www.bolnews.com/wp-content/uploads/2025/12/Zara-AI.webp",
+        "publishedAt": "2025-12-21T06:34:04Z",
+        "lang": "en",
+        "source": {
+            "id": "e98c4d2585c4c5661ffe60fed4d51930",
+            "name": "BOL News",
+            "url": "https://www.bolnews.com",
+            "country": "pk"
+        }
+    },
+    {
         "id": "af770682532e6cc7df682507cf770b24",
         "title": "TCS, Google, Amazon, Microsoft and more: Biggest tech job cuts of 2025 explained",
         "description": "Companies including TCS, Google, Amazon, Microsoft and several others have announced significant workforce cuts as they restructure operations, cut costs, and increase focus on automation and artificial intelligence.",
@@ -125,38 +157,6 @@
             "name": "EUROPE SAYS",
             "url": "https://www.europesays.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "1951f7ddf1564361716da840c2ff5e3d",
-        "title": "‘Lawful protests are fine, but free speech doesn’t mean you can break rules’: USC president",
-        "description": "Kim discusses sustaining USC's long standing relationship with Indian students, their current anxieties, layoffs, Artificial Intelligence in classrooms, and why he believes universities must remain places where difficult conversations are not avoided but encouraged.",
-        "content": "The Trump administration’s proposed federal research cuts come at a time when USC is investing heavily in Alzheimer’s research and trustworthy AI. How vulnerable is your research ecosystem to this kind of federal volatility?\nYes, higher education as ... [13383 chars]",
-        "url": "https://indianexpress.com/article/education/lawful-protests-are-fine-but-free-speech-doesnt-mean-you-can-break-rules-usc-president-10431041/",
-        "image": "https://images.indianexpress.com/2025/12/PK-20251209-Beong_Soo_Kim-208.jpg",
-        "publishedAt": "2025-12-20T23:04:56Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1179bdff96e8f447957dfce91e6a61dd",
-        "title": "AI at work: The human edge",
-        "description": "As artificial intelligence reshapes the workplace, many young people worry about job security while graduating students question the value of their degrees in the employment market. Are there any jobs that are 'AI-safe' anymore?",
-        "content": "WHEN 23-year-old Nurul Aini Arief began job-hunting after graduating as a communications major, she thought she only needed to prove her writing skills to land a role in content and digital strategy.\nInstead, she found employers who acknowledged her ... [6869 chars]",
-        "url": "https://www.thestar.com.my/news/focus/2025/12/21/ai-at-work-the-human-edge",
-        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/21/3683352.jpg",
-        "publishedAt": "2025-12-20T23:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
