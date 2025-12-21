@@ -1,5 +1,85 @@
 [
     {
+        "id": "1951f7ddf1564361716da840c2ff5e3d",
+        "title": "‘Lawful protests are fine, but free speech doesn’t mean you can break rules’: USC president",
+        "description": "Kim discusses sustaining USC's long standing relationship with Indian students, their current anxieties, layoffs, Artificial Intelligence in classrooms, and why he believes universities must remain places where difficult conversations are not avoided but encouraged.",
+        "content": "The Trump administration’s proposed federal research cuts come at a time when USC is investing heavily in Alzheimer’s research and trustworthy AI. How vulnerable is your research ecosystem to this kind of federal volatility?\nYes, higher education as ... [13383 chars]",
+        "url": "https://indianexpress.com/article/education/lawful-protests-are-fine-but-free-speech-doesnt-mean-you-can-break-rules-usc-president-10431041/",
+        "image": "https://images.indianexpress.com/2025/12/PK-20251209-Beong_Soo_Kim-208.jpg",
+        "publishedAt": "2025-12-20T23:04:56Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "1179bdff96e8f447957dfce91e6a61dd",
+        "title": "AI at work: The human edge",
+        "description": "As artificial intelligence reshapes the workplace, many young people worry about job security while graduating students question the value of their degrees in the employment market. Are there any jobs that are 'AI-safe' anymore?",
+        "content": "WHEN 23-year-old Nurul Aini Arief began job-hunting after graduating as a communications major, she thought she only needed to prove her writing skills to land a role in content and digital strategy.\nInstead, she found employers who acknowledged her ... [6869 chars]",
+        "url": "https://www.thestar.com.my/news/focus/2025/12/21/ai-at-work-the-human-edge",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/21/3683352.jpg",
+        "publishedAt": "2025-12-20T23:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "a88b921f198fb0463376579485319f81",
+        "title": "Artificial intelligence and financial stability: A revisit to the central bank role",
+        "description": "AI brings new opportunities and risks to the financial system. Artificial intelligence software, algorithms and tools are continuously being used to improve",
+        "content": "AI brings new opportunities and risks to the financial system. Artificial intelligence software, algorithms and tools are continuously being used to improve risk management, investment management, fraud detection, anti-money laundering compliance, le... [5246 chars]",
+        "url": "https://www.europesays.com/2646805/",
+        "image": "https://www.europesays.com/wp-content/uploads/2025/12/panorama_1.png",
+        "publishedAt": "2025-12-20T22:45:40Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c4946f85aaec54c5d57d2de7704d778e",
+        "title": "JU Scholars conferred ‘Best Research Paper Award’",
+        "description": "Excelsior Correspondent JAMMU, Dec 20: At an international conference held on ‘Artificial Intelligence for Innovation, Insight, Integration and Impact for Sustainable Business’ at Chandigarh University in collaboration with Capilano University, Canada, Scholars from the Department of Law at University of Jammu (JU) were awarded Best Research Paper Award. A handout stated that Parul Sharma and Sheetal Priya, PhD Scholars were conferred the award. Under the guidance of Prof. Sanjay Gupta and Dr. Raj Kumar, the Scholars presented a research paper […]",
+        "content": "By\nDaily Excelsior\n-\nExcelsior Correspondent\nJAMMU, Dec 20: At an international conference held on ‘Artificial Intelligence for Innovation, Insight, Integration and Impact for Sustainable Business’ at Chandigarh University in collaboration with Capil... [682 chars]",
+        "url": "https://www.dailyexcelsior.com/ju-scholars-conferred-best-research-paper-award/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2025/12/Page13-1-3.jpg",
+        "publishedAt": "2025-12-20T22:30:03Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "54c3ceca74f4d0808da9b9589c4ffc35",
+        "title": "AFMS to roll out AI-based diabetic eye screening in Pune, Mumbai and other cities",
+        "description": "Pune: The Armed Forces Medical Services (AFMS) has launched an Artificial Intelligence (AI)–driven community screening programme for diabetic retinopa.",
+        "content": "Pune: The Armed Forces Medical Services (AFMS) has launched an Artificial Intelligence (AI)–driven community screening programme for diabetic retinopathy (DR). The nationwide initiative will cover retired military personnel, their dependents, and the... [3455 chars]",
+        "url": "https://timesofindia.indiatimes.com/city/pune/afms-to-roll-out-ai-based-diabetic-eye-screening-in-pune-mumbai-and-other-cities/articleshow/126097427.cms",
+        "image": "https://static.toiimg.com/thumb/msid-126097905,width-1070,height-580,imgsize-32102,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+        "publishedAt": "2025-12-20T22:24:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "51992f7b261a6a43fc18b8f33debde1c",
         "title": "Commentary: Open source could pop the AI bubble - and soon",
         "description": "Open-source artificial intelligence models are catching up with closed models in terms of performance, says Mark Surman for the Financial Times.",
@@ -77,86 +157,6 @@
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "7588b16b31747a21b41e7e3f74119989",
-        "title": "How to detect AI-generated writing",
-        "description": "Once you spot the telltale signs of writing generated by artificial intelligence, you can’t unsee them.",
-        "content": "New subscriber benefit!\nCopied to clipboard\nOut of gifts for the month\nUnfortunately you've used all of your gifts this month. Your counter will reset on the first day of next month.\nShare this article paywall-free\nEmail\nCopy Link\nLove\n0\nFunny\n0\nWow\n... [250 chars]",
-        "url": "https://qctimes.com/life-entertainment/nation-world/technology/article_6843aa54-b3bf-59a4-b7d5-508f6f151ca9.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/84/6843aa54-b3bf-59a4-b7d5-508f6f151ca9/69418982d354a.preview.jpg?crop=1983%2C1041%2C3%2C0&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2025-12-20T18:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "720c8090279dd552e56c637e16f9926a",
-            "name": "Davenport Quad-City Times",
-            "url": "https://qctimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "7cf9fec387ccf06200dba54398bcaf5e",
-        "title": "India needs to lead in AI while prioritising empathy in tech adoption, says Mukesh Ambani",
-        "description": "Mukesh Ambani calls for India to become a global leader in artificial intelligence. He stresses the importance of empathy in adopting new technologies. Reliance Industries is nearing solutions for India's energy challenges using solar power and storage. The company aims to provide abundant and affordable green energy for India and the world. RIL is transforming into an innovation-led, deep-tech company.",
-        "content": "Synopsis\nMukesh Ambani calls for India to become a global leader in artificial intelligence. He stresses the importance of empathy in adopting new technologies. Reliance Industries is nearing solutions for India's energy challenges using solar power ... [4209 chars]",
-        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/india-needs-to-lead-in-ai-while-prioritising-empathy-in-tech-adoption-says-mukesh-ambani/articleshow/126096876.cms",
-        "image": "https://img.etimg.com/thumb/msid-126096887,width-1200,height-630,imgsize-25750,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2025-12-20T18:08:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a7e0a44bfec3526e8f34c649fed9911c",
-        "title": "Here are 5 key events that drove the stock market last week",
-        "description": "Stocks finished higher Friday, lifted by the volatile artificial intelligence trade, leading the market to the upside for the week.",
-        "content": "Stocks finished higher Friday, lifted by the volatile artificial intelligence trade, leading the market to the upside for the week. The S & P 500 eked out a 0.1% weekly gain, while the Nasdaq gained 0.5%. While logging three positive weeks in the pas... [4465 chars]",
-        "url": "https://www.cnbc.com/2025/12/20/here-are-5-key-events-that-drove-the-stock-market-last-week.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108236004-1764778210744-gettyimages-628978458-000111795433_Unapproved.jpeg?v=1766175969&w=1920&h=1080",
-        "publishedAt": "2025-12-20T16:45:42Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "00b73a2567ea90975d36f3bca2066dd9",
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Empowering Growth: AI and Development at Chintan Shivir",
-        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
-        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
-        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2025-12-20T16:37:17Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "78cf63756da9b0db6f6e9d9597f62790",
-        "title": "Why the architects of AI matter more than the tools",
-        "description": "ARTIFICIAL intelligence is often described as if it arrived on its own, an inevitable upgrade — a wave no one could stop. In the Philippines, from BPO floors to sari-sari store Facebook pages, AI is already slipping into daily routines. We increasingly treat it as something we simply have to accept.",
-        "content": "ARTIFICIAL intelligence is often described as if it arrived on its own, an inevitable upgrade — a wave no one could stop. In the Philippines, from BPO floors to sari-sari store Facebook pages, AI is already slipping into daily routines. We increasing... [4224 chars]",
-        "url": "https://www.manilatimes.net/2025/12/21/business/sunday-business-it/why-the-architects-of-ai-matter-more-than-the-tools/2247422",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/20/875502.jpg",
-        "publishedAt": "2025-12-20T16:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
