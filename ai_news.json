@@ -1,5 +1,21 @@
 [
     {
+        "id": "a7e0a44bfec3526e8f34c649fed9911c",
+        "title": "Here are 5 key events that drove the stock market last week",
+        "description": "Stocks finished higher Friday, lifted by the volatile artificial intelligence trade, leading the market to the upside for the week.",
+        "content": "Stocks finished higher Friday, lifted by the volatile artificial intelligence trade, leading the market to the upside for the week. The S & P 500 eked out a 0.1% weekly gain, while the Nasdaq gained 0.5%. While logging three positive weeks in the pas... [4465 chars]",
+        "url": "https://www.cnbc.com/2025/12/20/here-are-5-key-events-that-drove-the-stock-market-last-week.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108236004-1764778210744-gettyimages-628978458-000111795433_Unapproved.jpeg?v=1766175969&w=1920&h=1080",
+        "publishedAt": "2025-12-20T16:45:42Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "78cf63756da9b0db6f6e9d9597f62790",
         "title": "Why the architects of AI matter more than the tools",
         "description": "ARTIFICIAL intelligence is often described as if it arrived on its own, an inevitable upgrade — a wave no one could stop. In the Philippines, from BPO floors to sari-sari store Facebook pages, AI is already slipping into daily routines. We increasingly treat it as something we simply have to accept.",
@@ -140,22 +156,6 @@
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "43c384c3e53b1402dfd1fd328ad0d5f0",
-        "title": "We must become world leaders in AI, says Mukesh Ambani, underscores need empathy & compassion",
-        "description": "If there is another word that has captured not just the imagination of millions but flooded both classroom and boardroom conversations alike in 2025, it is the pathbreaking technology that is Artificial Intelligence, or simply AI.",
-        "content": "Mukesh Ambani also touched upon the country's largest telecom company, Reliance Jio and said that there were many disbelievers in Jio, but the company eventually catapulted today's India into the digital mainstream\nBy CNBCTV18.com\nIf there is another... [2067 chars]",
-        "url": "https://www.cnbctv18.com/india/we-must-become-world-leaders-in-ai-says-mukesh-ambani-underscores-need-empathy-compassion-19797999.htm",
-        "image": "https://images.cnbctv18.com/uploads/2023/04/RTX14GNU.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2025-12-20T14:58:59Z",
-        "lang": "en",
-        "source": {
-            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-            "name": "CNBC TV18",
-            "url": "https://www.cnbctv18.com",
             "country": "in"
         }
     }
