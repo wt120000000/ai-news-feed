@@ -1,5 +1,53 @@
 [
     {
+        "id": "8ff367bb878ca1d271840d2398843c3f",
+        "title": "New York Times reporter sues Google, xAI, OpenAI over chatbot training",
+        "description": "Dec 22 (Reuters) - An ‌investigative reporter best known for exposing fraud at Silicon Valley blood-testing startup Theranos ‌sued Elon Musk's xAI, Anthropic, Google, OpenAI, Meta Platforms and Perplexity on Monday for using ‌copyrighted books without permission to train their artificial intelligence systems.",
+        "content": "Dec 22 (Reuters) - An ‌investigative reporter best known for exposing fraud at Silicon Valley blood-testing startup Theranos ‌suedElon Musk's xAI,Anthropic, Google, OpenAI, Meta Platforms and Perplexity on Monday for using ‌copyrighted books without ... [2036 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/12/23/new-york-times-reporter-sues-google-xai-openai-over-chatbot-training",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/23/3686367.jpg",
+        "publishedAt": "2025-12-23T01:36:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "4980146e91dc4d7f977a5c894f66e4e4",
+        "title": "Defence, AI to shape next phase of India",
+        "description": "Defence, AI to shape next phase of India-US ties: Expert - Washington, Dec 23 Defence cooperation, artificial intelligence and emerging technologies are likely to anchor the next phase of ... Get Latest News on International only on lokmattimes.com",
+        "content": "Washington, Dec 23 Defence cooperation, artificial intelligence and emerging technologies are likely to anchor the next phase of India-United States engagement as the two sides seek to sustain momentum in strategic sectors despite unresolved politica... [3987 chars]",
+        "url": "https://www.lokmattimes.com/international/defence-ai-to-shape-next-phase-of-india-us-ties-expert/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202512233616260_202512.jpg",
+        "publishedAt": "2025-12-23T01:08:07Z",
+        "lang": "en",
+        "source": {
+            "id": "f2ddccedc9e60d844e7a1045928cad48",
+            "name": "Lokmat Times",
+            "url": "https://www.lokmattimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "10282d1befa8e8fdf15f884901c26239",
+        "title": "Early identification of nutrition risk in ICU patients using artificial intelligence",
+        "description": "A new study by researchers at the Icahn School of Medicine at Mount Sinai suggests that artificial intelligence (AI) could help predict which critically ill patients on ventilators are at risk of underfeeding,",
+        "content": "A new study by researchers at the Icahn School of Medicine at Mount Sinai suggests that artificial intelligence (AI) could help predict which critically ill patients on ventilators are at risk of underfeeding, potentially enabling clinicians to adjus... [3899 chars]",
+        "url": "https://www.news-medical.net/news/20251222/Early-identification-of-nutrition-risk-in-ICU-patients-using-artificial-intelligence.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/6/Diet-620x480.jpg",
+        "publishedAt": "2025-12-23T00:57:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "2eb774e666b128644b95e64c1626a5b0",
         "title": "Future wars will be multi-domain, tech-driven: CDS Anil Chauhan",
         "description": "General Chauhan spoke about a new phase of military transformation, which he described as “convergence warfare”, driven by technologies such as artificial intelligence, robotics, quantum computing, hypersonics, advanced materials and data analytics | Mumbai news",
@@ -29,6 +77,22 @@
             "name": "Firstpost",
             "url": "https://www.firstpost.com",
             "country": "in"
+        }
+    },
+    {
+        "id": "8faa19d891111fafcbc9414e997b1ca5",
+        "title": "AI ‘Bill of Rights’ emerges in State Senate",
+        "description": "News Service of Florida — In a priority of Gov. Ron DeSantis, a Senate Republican on Monday filed a proposal dubbed the “Artificial Intelligence Bill of Rights.”",
+        "content": "News Service of Florida — In a priority of Gov. Ron DeSantis, a Senate Republican on Monday filed a proposal dubbed the “Artificial Intelligence Bill of Rights.”\nThe proposal (Senate Bill 482), filed by Sen. Tom Leek, R-Ormond Beach, includes such th... [3245 chars]",
+        "url": "https://www.aroundosceola.com/index.php/news-statewide-news/ai-bill-rights-emerges-state-senate",
+        "image": "http://www.aroundosceola.com/sites/aroundosceola.com/files/2025-12/Tom%20Leek.jpg",
+        "publishedAt": "2025-12-23T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "4ecbadd82aa9fe7a52c0a3b5454020ab",
+            "name": "Around Osceola",
+            "url": "https://www.aroundosceola.com",
+            "country": "us"
         }
     },
     {
@@ -92,70 +156,6 @@
             "id": "da5c26287bdd02563a2c32b55cb12051",
             "name": "Reuters",
             "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "07ff3c53bcee59a28a33ceac3552ad6d",
-        "title": "Railway authorities detect fake unreserved tickets created with AI",
-        "description": "Excelsior Correspondent JAMMU, Dec 22: For the first time, cases of fake UTS unreserved tickets created with the help of Artificial Intelligence (AI) have come into light in Jammu Division of the Northern Railway. These were detected during a special drive launched in Jammu Division after a case of fake ticket created using the AI came into light in the Jaipur Division of North Western Railway. Under this campaign, more than 2200 (UTS) unreserved tickets were checked across all railway […]",
-        "content": "Excelsior Correspondent\nJAMMU, Dec 22: For the first time, cases of fake UTS unreserved tickets created with the help of Artificial Intelligence (AI) have come into light in Jammu Division of the Northern Railway.\nThese were detected during a special... [1379 chars]",
-        "url": "https://www.dailyexcelsior.com/railway-authorities-detect-fake-unreserved-tickets-created-with-ai/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2025/11/Northern-Railway.jpg",
-        "publishedAt": "2025-12-22T22:53:48Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "5fe6f16b1fd3e8adc61f173663b02663",
-        "title": "CPP, Goodman to Invest $2.6 Billion in European Data Centers",
-        "description": "The Canada Pension Plan Investment Board and Australia’s Goodman Group agreed to set up a multibillion dollar European data center business, as the rise of artificial intelligence drives demand for power and storage sites.",
-        "content": "The Canada Pension Plan Investment Board and Australia’s Goodman Group agreed to set up a multibillion dollar European data center business, as the rise of artificial intelligence drives demand for power and storage sites.\nUnder the partnership, the ... [264 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-12-22/cpp-goodman-to-invest-2-6-billion-in-european-data-center-unit",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP48yDwh4CKM/v0/1200x800.jpg",
-        "publishedAt": "2025-12-22T22:05:21Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "47300cd7d7a83eb11a7f283e988afc58",
-        "title": "China’s Weather Superpower Bid Takes Aim at Top AI Model Dataset",
-        "description": "China’s push to be a weather superpower has seen authorities accelerate efforts to end reliance on a European dataset, promoting a homegrown alternative for the era of artificial intelligence-fueled forecasting.",
-        "content": "China’s push to be a weather superpower has seen authorities accelerate efforts to end reliance on a European dataset, promoting a homegrown alternative for the era of artificial intelligence-fueled forecasting.\nEurope’s ERA5 is considered the benchm... [328 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2025-12-22/china-builds-climate-dataset-to-break-dependence-on-europe-s-era5",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXToiL7LxXPo/v0/1200x800.jpg",
-        "publishedAt": "2025-12-22T22:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9f6c124d03a6160429d712bcca985870",
-        "title": "SpaceX Eyes $1.5 Trillion IPO to Double Musk's Wealth, Boost Tesla AI",
-        "description": "Elon Musk’s empire spans rockets, electric vehicles, and artificial intelligence, but the impending initial public offering of SpaceX at a staggering $1.5",
-        "content": "Elon Musk’s empire spans rockets, electric vehicles, and artificial intelligence, but the impending initial public offering of SpaceX at a staggering $1.5 trillion valuation could redefine the interplay between his ventures. Recent reports indicate t... [8561 chars]",
-        "url": "https://www.europesays.com/2651115/",
-        "image": "https://www.europesays.com/wp-content/uploads/2025/12/article-4606-1766438458.jpeg",
-        "publishedAt": "2025-12-22T21:58:31Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
             "country": "us"
         }
     }
