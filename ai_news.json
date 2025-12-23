@@ -1,5 +1,85 @@
 [
     {
+        "id": "5fe6f16b1fd3e8adc61f173663b02663",
+        "title": "CPP, Goodman to Invest $2.6 Billion in European Data Centers",
+        "description": "The Canada Pension Plan Investment Board and Australia’s Goodman Group agreed to set up a multibillion dollar European data center business, as the rise of artificial intelligence drives demand for power and storage sites.",
+        "content": "The Canada Pension Plan Investment Board and Australia’s Goodman Group agreed to set up a multibillion dollar European data center business, as the rise of artificial intelligence drives demand for power and storage sites.\nUnder the partnership, the ... [264 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-22/cpp-goodman-to-invest-2-6-billion-in-european-data-center-unit",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP48yDwh4CKM/v0/1200x800.jpg",
+        "publishedAt": "2025-12-22T22:05:21Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "47300cd7d7a83eb11a7f283e988afc58",
+        "title": "China’s Weather Superpower Bid Takes Aim at Top AI Model Dataset",
+        "description": "China’s push to be a weather superpower has seen authorities accelerate efforts to end reliance on a European dataset, promoting a homegrown alternative for the era of artificial intelligence-fueled forecasting.",
+        "content": "China’s push to be a weather superpower has seen authorities accelerate efforts to end reliance on a European dataset, promoting a homegrown alternative for the era of artificial intelligence-fueled forecasting.\nEurope’s ERA5 is considered the benchm... [328 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-22/china-builds-climate-dataset-to-break-dependence-on-europe-s-era5",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXToiL7LxXPo/v0/1200x800.jpg",
+        "publishedAt": "2025-12-22T22:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "9f6c124d03a6160429d712bcca985870",
+        "title": "SpaceX Eyes $1.5 Trillion IPO to Double Musk's Wealth, Boost Tesla AI",
+        "description": "Elon Musk’s empire spans rockets, electric vehicles, and artificial intelligence, but the impending initial public offering of SpaceX at a staggering $1.5",
+        "content": "Elon Musk’s empire spans rockets, electric vehicles, and artificial intelligence, but the impending initial public offering of SpaceX at a staggering $1.5 trillion valuation could redefine the interplay between his ventures. Recent reports indicate t... [8561 chars]",
+        "url": "https://www.europesays.com/2651115/",
+        "image": "https://www.europesays.com/wp-content/uploads/2025/12/article-4606-1766438458.jpeg",
+        "publishedAt": "2025-12-22T21:58:31Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "edcfd40eb7d7fa5b37345c9940fbb993",
+        "title": "Teachers test-drive AI as schools give mixed signals on rules",
+        "description": "At a New York City training, educators explored how artificial intelligence could support teaching.",
+        "content": "NEW YORK — Huddled around tables on the 19th floor of a Manhattan office building, about 50 public school teachers recently grilled their newest classroom assistants — questioning them on lesson plans, student privacy laws and even water consumption.... [10085 chars]",
+        "url": "https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251221-triptych-ai-teacher-training-vl-425p-95c96a.jpg",
+        "publishedAt": "2025-12-22T21:56:40Z",
+        "lang": "en",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6afdad163aa75d17a83ee11074816b11",
+        "title": "AI: What Excites And Concerns These 6 Leaders",
+        "description": "How artificial intelligence is being used in practice, where it boosts productivity, and why ethics, safety, governance, regulation, and trust will shape its future.",
+        "content": "The following six leaders explain how they use AI in their work, the benefits they’ve seen, and the concerns they have.\nDo you use artificial intelligence in your work?\n“Yes. I use AI in a limited capacity, mostly for experimentation and staying up t... [5792 chars]",
+        "url": "https://www.forbes.com/sites/bruceweinstein/2025/12/22/ai-what-excites-and-concerns-these-6-leaders/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66b3d36b4ce67072a9848537/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-12-22T21:55:09Z",
+        "lang": "en",
+        "source": {
+            "id": "a0300bc9a6e9d5b317bd6f614767231f",
+            "name": "Forbes",
+            "url": "https://www.forbes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "aceea2a29a5671bb480f01d509b528ad",
         "title": "AI-powered wearable boosts preventative care for elderly",
         "description": "University of Arizona researchers in the Gutruf Lab have developed a comfortable, easy-to-use wearable device that incorporates artificial intelligence to detect subtle warning signs of frailty, signifying a leap forward in elderly care.",
@@ -77,86 +157,6 @@
             "name": "The New York Times",
             "url": "https://www.nytimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "75ee8fbf4d3f1b2399026f4103e27e02",
-        "title": "The rise of deepfake cyberbullying poses a growing problem for schools",
-        "description": "Schools are facing a growing problem of students using artificial intelligence to transform innocent images of classmates into sexually explicit deepfakes. The fallout from the spread of the manipulated photos and videos can create a nightmare for the victims. The challenge for schools was highlighted this fall when AI-generated nude…",
-        "content": "Schools are facing a growing problem of students using artificial intelligence to transform innocent images of classmates into sexually explicit deepfakes.\nThe fallout from the spread of the manipulated photos and videos can create a nightmare for th... [4935 chars]",
-        "url": "https://japantoday.com/category/world/the-rise-of-deepfake-cyberbullying-poses-a-growing-problem-for-schools",
-        "image": "https://media.japantoday.com/img/store/15/be/d9b813f16d32f33bd53b930ba152dfd19f4a/download/_w1700.jpeg",
-        "publishedAt": "2025-12-22T20:20:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "856b1b0f26f92e1082e8e7744261a2c2",
-        "title": "AI could help predict nutrition risks in ICU patients",
-        "description": "A new study by researchers at the Icahn School of Medicine at Mount Sinai suggests that artificial intelligence (AI) could help predict which critically ill patients on ventilators are at risk of underfeeding, potentially enabling clinicians to adjust nutrition early and improve patient care. Details of the study were published in the December 17 online issue of Nature Communications.",
-        "content": "A new study by researchers at the Icahn School of Medicine at Mount Sinai suggests that artificial intelligence (AI) could help predict which critically ill patients on ventilators are at risk of underfeeding, potentially enabling clinicians to adjus... [3864 chars]",
-        "url": "https://medicalxpress.com/news/2025-12-ai-nutrition-icu-patients.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-could-help-predict.jpg",
-        "publishedAt": "2025-12-22T20:08:25Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "ec3dc00ccd443315a9b061a3ca59bde7",
-        "title": "Artificial intelligence & 20,000 cops to police New Year revelry in Bengaluru",
-        "description": "Bengaluru: As it gears up to ring in the New Year, the city will come under an unprecedented security blanket on the night of Dec 31, with at least 20.",
-        "content": "Bengaluru: As it gears up to ring in the New Year, the city will come under an unprecedented security blanket on the night of Dec 31, with at least 20,000 police personnel deployed across key stretches, party hubs, and residential areas to ensure cel... [1129 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/bengaluru/artificial-intelligence-20000-cops-to-police-new-year-revelry-in-bengaluru/articleshow/126126994.cms",
-        "image": "https://static.toiimg.com/thumb/msid-126126993,width-1070,height-580,imgsize-61882,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-        "publishedAt": "2025-12-22T20:07:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6594236f444fe37c3cea0d03a2f1a477",
-        "title": "The Tech and Business Landscape of 2025: From AI Search Wars to the New Space Economy",
-        "description": "The technology sector is currently experiencing one of its most dynamic periods in history. As we navigate through 2025 and look toward 2026, the convergence of artificial intelligence, fintech, and advanced manufacturing is reshaping how global industries operate. From the intensifying battle for digital search dominance to billion-dollar investments in space travel, the headlines on […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nThe technology sector is currently experiencing one of its most dynamic periods in history. As we navigate through 2025 and look toward 2026, the convergence of artificial intelligence, fintech, and advanced manufacturin... [8124 chars]",
-        "url": "https://techbullion.com/the-tech-and-business-landscape-of-2025-from-ai-search-wars-to-the-new-space-economy/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/12/the-first-half-of-2025-in-space.jpg",
-        "publishedAt": "2025-12-22T19:58:22Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "6841f08d34cea2b48e035c634936c616",
-        "title": "Bank of America’s Moynihan Says AI’s Economic Benefit Is ‘Kicking In More’",
-        "description": "Bank of America Corp. Chief Executive Officer Brian Moynihan said that artificial intelligence is starting to have a bigger impact on the US economy.",
-        "content": "(Bloomberg) -- Bank of America Corp. Chief Executive Officer Brian Moynihan said that artificial intelligence is starting to have a bigger impact on the US economy.\n“The AI investment’s been building during the year and is probably a bigger contribut... [1807 chars]",
-        "url": "https://www.livemint.com/companies/news/bank-of-america-s-moynihan-says-ai-s-economic-benefit-is-kicking-in-more-11766432428354.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
-        "publishedAt": "2025-12-22T19:40:28Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
         }
     }
 ]
