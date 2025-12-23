@@ -1,5 +1,21 @@
 [
     {
+        "id": "91af2a06ae786450c6acfab382facd48",
+        "title": "Citi Downgrades China Stocks, Lifts Taiwan on AI and Earnings",
+        "description": "Citigroup Inc. has upgraded its recommendation on Taiwan equities, while cutting its view on China, citing stronger links to global artificial-intelligence supply chains and a more favorable earnings outlook.",
+        "content": "Citigroup Inc. has upgraded its recommendation on Taiwan equities, while cutting its view on China, citing stronger links to global artificial-intelligence supply chains and a more favorable earnings outlook.\nStrategists including David Groman raised... [256 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-23/citi-downgrades-china-stocks-lifts-taiwan-on-earnings-outlook",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia26GBxFRKwI/v1/1200x800.jpg",
+        "publishedAt": "2025-12-23T02:08:37Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "8ff367bb878ca1d271840d2398843c3f",
         "title": "New York Times reporter sues Google, xAI, OpenAI over chatbot training",
         "description": "Dec 22 (Reuters) - An ‌investigative reporter best known for exposing fraud at Silicon Valley blood-testing startup Theranos ‌sued Elon Musk's xAI, Anthropic, Google, OpenAI, Meta Platforms and Perplexity on Monday for using ‌copyrighted books without permission to train their artificial intelligence systems.",
@@ -140,22 +156,6 @@
             "id": "bce8b9fcd331f3552e3dcf603b83b80e",
             "name": "Markets Insider",
             "url": "https://markets.businessinsider.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "01c431e3dfbf9218deef58ca627a8ed5",
-        "title": "New York Times reporter sues Google, xAI, OpenAI over chatbot training",
-        "description": "An investigative reporter best known for exposing fraud at Silicon Valley blood-testing startup Theranos sued Elon Musk's xAI, Anthropic, Google , OpenAI, Meta Platforms and Perplexity on Monday for using copyrighted books without permission to train their artificial intelligence systems.",
-        "content": "Sign up here.\nThe lawsuit is one of several copyright cases brought by authors and other copyright owners against tech companies over the use of their work in AI training. The case is the first to name xAI as a defendant.\nSpokespeople for the defenda... [1764 chars]",
-        "url": "https://www.reuters.com/legal/government/new-york-times-reporter-sues-google-xai-openai-over-chatbot-training-2025-12-22/",
-        "image": "https://www.reuters.com/resizer/v2/M2QTLGBJGNMDNCGXZWXVRRLSNM.jpg?auth=961376a49ba7807872f36ca40471ad27c20e30d412a8ccd2f853f9906e539b50&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2025-12-22T23:06:48Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
             "country": "us"
         }
     }
