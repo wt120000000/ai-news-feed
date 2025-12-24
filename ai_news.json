@@ -1,5 +1,37 @@
 [
     {
+        "id": "e901610bfc61796641aace8ba59bdef5",
+        "title": "Can AI surpass humans? Google DeepMind CEO claims AI can match human learning, Elon Musk backs the view",
+        "description": "Google DeepMind CEO has suggested that artificial intelligence is capable of learning anything humans can, a view that has drawn support from Elon Musk, adding fresh momentum to the debate over how far AI can ultimately rival human intelligence.",
+        "content": "Artificial intelligence is once again in the spotlight. A new debate has started over whether AI can one day learn and think like humans. Some top technology leaders believe this could happen in the future, while others are not so sure.\nIn comments t... [2206 chars]",
+        "url": "https://www.financialexpress.com/life/technology-can-ai-surpass-humans-google-deepmind-ceo-claims-ai-can-match-human-learning-elon-musk-backs-the-view-4086832/",
+        "image": "https://images.financialexpressdigital.com/2025/12/Untitled-design-2025-12-24T083115.043.jpg?quality=100",
+        "publishedAt": "2025-12-24T04:09:42Z",
+        "lang": "en",
+        "source": {
+            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+            "name": "The Financial Express",
+            "url": "https://www.financialexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "cdd622cefb8940e7dd2806e529c73124",
+        "title": "AGI debate heats up as Demis Hassabis calls Yann LeCun’s view ‘plain incorrect’",
+        "description": "The exchange between LeCun and Hassabis underscores broader differences in how the pair view the path to achieving artificial general intelligence (AGI).",
+        "content": "“We think of ourselves as being general, but it’s simply an illusion because all of the problems that we can apprehend are the ones that we can think of,” the Turing Award winner said in a recent podcast appearance.\nResponding to his remarks, Google ... [2368 chars]",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/agi-debate-heats-up-as-demis-hassabis-calls-yann-lecuns-view-plain-incorrect-10435097/",
+        "image": "https://images.indianexpress.com/2025/12/Tech-featured-image14.jpg",
+        "publishedAt": "2025-12-24T03:42:59Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "17b3b1c86422fbce0469c39f3917625e",
         "title": "Economist Acemoglu to Newsmax: AI Faces Trillion-Dollar Gamble",
         "description": "Nobel Prize-winning economist Daron Acemoglu told Newsmax on Tuesday that artificial intelligence might have a path to profitability but warned it is an increasingly unlikely one given the staggering capital required to build and maintain the infrastructure.",
@@ -125,38 +157,6 @@
             "name": "ZeroHedge",
             "url": "https://www.zerohedge.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "095e4ffd983aa562ffa10c660e752228",
-        "title": "Artificial intelligence improves risk stratification in oropharyngeal cancer",
-        "description": "A team led by investigators at Mass General Brigham and Dana-Farber Cancer Institute has developed and validated an artificial intelligence (AI)–based noninvasive tool that can predict the likelihood that a patient's oropharyngeal cancer-a type of head and neck cancer that develops in the throat-will spread, thereby signaling which patients should receive aggressive treatment.",
-        "content": "A team led by investigators at Mass General Brigham and Dana-Farber Cancer Institute has developed and validated an artificial intelligence (AI)–based noninvasive tool that can predict the likelihood that a patient's oropharyngeal cancer-a type of he... [2011 chars]",
-        "url": "https://www.news-medical.net/news/20251223/Artificial-intelligence-improves-risk-stratification-in-oropharyngeal-cancer.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-        "publishedAt": "2025-12-24T01:52:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "06aad8acd8623a5c43b3d502a01cf8e0",
-        "title": "AI is creating a new billionaire class with a record number of founders under 30",
-        "description": "Tech News News: Artificial intelligence is rewriting the script on how we work and build wealth, but the story reads very differently depending on who you are. For mo.",
-        "content": "Artificial intelligence is rewriting the script on how we work and build wealth, but the story reads very differently depending on who you are. For most young professionals just starting out, the rise of AI brings a distinct sense of unease. There is... [3106 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-is-creating-a-new-billionaire-class-with-a-record-number-of-founders-under-30/articleshow/126150740.cms",
-        "image": "https://static.toiimg.com/thumb/msid-126150756,width-1070,height-580,imgsize-54198,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-        "publishedAt": "2025-12-24T01:16:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
