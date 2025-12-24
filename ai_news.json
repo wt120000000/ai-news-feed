@@ -1,5 +1,37 @@
 [
     {
+        "id": "40133c7630cb88b2d65e0b8e2f6426b5",
+        "title": "PNW offers STEM Discovery Day for area high schoolers",
+        "description": "More than 200 area high school students immersed themselves in the fundamentals and real-world applications of artificial intelligence, cybersecurity robotics and more at a recent Purdue University Northwest annual “AI, Cybersecurity, and STEM Discovery Day” event.",
+        "content": "More than 200 area high school students immersed themselves in the fundamentals and real-world applications of artificial intelligence, cybersecurity robotics and more at a recent Purdue University Northwest annual “AI, Cybersecurity, and STEM Discov... [1585 chars]",
+        "url": "https://www.chicagotribune.com/2025/12/23/pnw-offers-stem-discovery-day-for-area-high-schoolers/",
+        "image": "https://www.chicagotribune.com/wp-content/uploads/2025/12/PTB-L-PNW-DISCOVERY-1224-02.jpg?w=481&h=640",
+        "publishedAt": "2025-12-23T22:00:23Z",
+        "lang": "en",
+        "source": {
+            "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+            "name": "Chicago Tribune",
+            "url": "https://www.chicagotribune.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "19dc0d569be485729b1b90de207cdc53",
+        "title": "How Janice Dickinson, 70, would REALLY look if she never had any cosmetic enhancements",
+        "description": "Artificial intelligence analyzed photos of the star when she was young and predicted what her appearance would be at age 70 had she kept everything natural... and the results were shocking.",
+        "content": "AI photos have imagined what Janice Dickinson would look like if she had not had any cosmetic enhancements.\nThe model, 70, has been open about the plastic surgery and beauty procedures she's gotten over the years.\nNow, dramatic new computer-generated... [2097 chars]",
+        "url": "https://www.dailymail.co.uk/lifestyle/beauty/article-15410361/janice-dickinson-plastic-surgery-cosmetic-enhancements-ai-photos.html",
+        "image": "https://i.dailymail.co.uk/1s/2025/12/23/21/104984765-0-image-m-115_1766525665642.jpg",
+        "publishedAt": "2025-12-23T21:34:46Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "f48ef281bdb12a7ab6f6e212e55d2dbc",
         "title": "New AI tool gives military members 'sandbox' to prepare for next war: Expert",
         "description": "The new GenAI platform gives U.S. troops a secure environment to learn AI tools as global rivals rapidly experiment with artificial intelligence, a military expert explained.",
@@ -125,38 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "b022ceb13ddcc50b2fcc9ad4b92b3a69",
-        "title": "Fed chair candidate Hassett says U.S behind the curve on lowering rates",
-        "description": "Hassett said the artificial intelligence boom is boosting economic growth while simultaneously putting downward pressure on inflation.",
-        "content": "National Economic Council Director Kevin Hassett said Tuesday that the Federal Reserve is not cutting interest rates quickly enough, even as the U.S. economy grew at a much faster pace than expected in the third quarter.\nThe top White House economic ... [1147 chars]",
-        "url": "https://www.cnbc.com/2025/12/23/fed-chair-candidate-hassett-says-us-behind-the-curve-on-lowering-rates.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108242435-1765899087859-gettyimages-2252210961-imgl5287_uvkbxxxc.jpeg?v=1765899110&w=1920&h=1080",
-        "publishedAt": "2025-12-23T17:14:10Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "10f4e61f18dcfd2ab64817a6f752a3c8",
-        "title": "From Nvidia to DeepSeek: Why global investors are quietly turning to China’s AI companies",
-        "description": "Global investors are beginning to rethink their exposure to artificial intelligence. The change is subtle, almost understated, yet it shows up in portfolio decisions, fund launches, and new listings across China’s tech markets. A recent Reuters report said capital that once crowded into U.S. AI leaders is starting to look east, driven by a mix",
-        "content": "Global investors are beginning to rethink their exposure to artificial intelligence. The change is subtle, almost understated, yet it shows up in portfolio decisions, fund launches, and new listings across China’s tech markets. A recent Reuters repor... [5871 chars]",
-        "url": "https://techstartups.com/2025/12/23/from-nvidia-to-deepseek-why-global-investors-are-quietly-turning-to-chinas-ai-companies/",
-        "image": "https://techstartups.com/wp-content/uploads/2025/12/Deepseek.jpg",
-        "publishedAt": "2025-12-23T17:05:57Z",
-        "lang": "en",
-        "source": {
-            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-            "name": "TechStartups.com",
-            "url": "https://techstartups.com",
-            "country": "us"
         }
     }
 ]
