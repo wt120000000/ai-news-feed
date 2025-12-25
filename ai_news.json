@@ -1,5 +1,37 @@
 [
     {
+        "id": "7b941493d8f2864c21a3f0b4b10e638f",
+        "title": "AI Won't Fix Your People Problems",
+        "description": "Artificial Intelligence is changing how businesses operate. Emotional Intelligence is still what makes them succeed.",
+        "content": "When the AI boom began, many leaders felt the rush. Tasks that once took hours suddenly took minutes. Hiring pipelines felt manageable again. Content became easier to produce. Naturally, leaders started asking, If AI can do all this, what else can we... [5456 chars]",
+        "url": "https://www.entrepreneur.com/leadership/ai-wont-fix-your-people-problems-heres-what-im/500351",
+        "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2025/12/1766514843-emotional-intelligence-1225-g-2210224592-edit.jpg?resize=1024,682",
+        "publishedAt": "2025-12-24T20:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "839b9d172147498877bab641815b0631",
+            "name": "Entrepreneur",
+            "url": "https://www.entrepreneur.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "093e4ec1e3e6d879defb2c50ab5277bd",
+        "title": "Japan antitrust watchdog to launch investigation into AI search services",
+        "description": "Japan's antitrust watchdog will launch an investigation into the search services of major domestic and foreign IT companies that use generative artificial intelligence, officials said Tuesday citing possible violations of the antimonopoly law. The Japan Fair Trade Commission is expected to target companies such as Japanese tech giant LY Corp…",
+        "content": "Japan's antitrust watchdog will launch an investigation into the search services of major domestic and foreign IT companies that use generative artificial intelligence, officials said Tuesday citing possible violations of the antimonopoly law.\nThe Ja... [1474 chars]",
+        "url": "https://japantoday.com/category/tech/japan-antitrust-watchdog-to-launch-investigation-into-ai-search-services",
+        "image": "https://media.japantoday.com/img/store/da/a8/afb30102a78d9a0d6f562e040e5ec83734a0/istock-1701199686-1/_w1700.jpeg",
+        "publishedAt": "2025-12-24T20:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "a35824df6d6a2a610ccd558ed99fbf4b",
         "title": "Tech Up on AI Boom Bets -- Tech Roundup",
         "description": "Shares of technology companies ticked up as traders bet an artificial-intelligence boom would continue.\nThe Roundhill Magnificent Seven exchange-traded fund, which tracks the seven companies...",
@@ -125,38 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "6865503cc0ffec0ae6ee7a6a8d086f06",
-        "title": "Which stocks could drive the $1 trillion semiconductor milestone? Bank of America’s top bets",
-        "description": "The global semiconductor industry is heading into what analysts believe could be its most powerful growth phase yet. Artificial intelligence is no longer a niche driver. It is now the core engine reshaping chip demand across data centers, cloud computing, autonomous systems, and advanced enterprise software. According to Bank of America, global semiconductor revenues are on track to cross the historic $1 trillion mark in 2026.",
-        "content": "Synopsis\nThe global semiconductor industry is heading into what analysts believe could be its most powerful growth phase yet. Artificial intelligence is no longer a niche driver. It is now the core engine reshaping chip demand across data centers, cl... [7771 chars]",
-        "url": "https://economictimes.indiatimes.com/news/international/us/which-stocks-could-drive-the-1-trillion-semiconductor-milestone-bank-of-americas-1-trillion-semiconductor-forecast-is-here/articleshow/126162525.cms",
-        "image": "https://img.etimg.com/thumb/msid-126162552,width-1200,height-630,imgsize-1843018,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2025-12-24T16:18:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c535293b7381a12b4ffb00b02c5aa103",
-        "title": "Brokerage forecasts for S&P 500, global GDP",
-        "description": "Top brokerages expect the benchmark S&P 500 index to extend its rally in 2026, as investors pile into artificial intelligence plays and bet on reduced borrowing costs to sustain the momentum.",
-        "content": "Top brokerages expect the benchmark S&P 500 index to extend its rally in 2026, as investors pile into artificial intelligence plays and bet on reduced borrowing costs to sustain the momentum.\nThe benchmark index will rise nearly 12 per cent to 7,490 ... [1395 chars]",
-        "url": "https://www.bnnbloomberg.ca/business/2025/12/24/what-to-expect-in-2026-brokerage-forecasts-for-sp-500-global-gdp/",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/VJW6KTWMXTTW4T7FY7GV7ZP42U.jpg?smart=true&auth=5d8965cc2d8499fedaa67b5f1cc6dc8ad78e6ad26b095e9bd691fa6ed6bdc83f&width=1200&height=630",
-        "publishedAt": "2025-12-24T15:12:49Z",
-        "lang": "en",
-        "source": {
-            "id": "1b697445987e8a33f6c82842e17d60d9",
-            "name": "Bnn Bloomberg",
-            "url": "https://www.bnnbloomberg.ca",
-            "country": "ca"
         }
     }
 ]
