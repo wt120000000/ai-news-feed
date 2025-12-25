@@ -1,5 +1,37 @@
 [
     {
+        "id": "560224b150d7afce54d3ece0dd78f3d0",
+        "title": "Novel AI tool offers prognosis for patients with head and neck cancer",
+        "description": "A team led by investigators at Mass General Brigham and Dana-Farber Cancer Institute has developed and validated an artificial intelligence (AI)–based noninvasive tool that can predict the likelihood that a patient's oropharyngeal cancer—a type of head and neck cancer that develops in the throat—will spread, thereby signaling which patients should receive aggressive treatment.",
+        "content": "A team led by investigators at Mass General Brigham and Dana-Farber Cancer Institute has developed and validated an artificial intelligence (AI)–based noninvasive tool that can predict the likelihood that a patient's oropharyngeal cancer—a type of he... [2378 chars]",
+        "url": "https://medicalxpress.com/news/2025-12-ai-tool-prognosis-patients-neck.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/cancer-2.jpg",
+        "publishedAt": "2025-12-25T00:30:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "2e09d3f320bf74bba734c432a0f39e14",
+        "title": "Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up",
+        "description": "Nvidia will license Groq’s technology and hire its top executives, adding to the Silicon Valley giant’s heft in artificial intelligence chips.",
+        "content": "Nvidia, the maker of artificial intelligence chips and the world’s most valuable public company, agreed to license the technology of the chip start-up Groq and hire its top executives.\nIn an announcement on Wednesday, Groq called the deal with Nvidia... [2212 chars]",
+        "url": "https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html",
+        "image": "https://static01.nyt.com/images/2025/12/24/multimedia/24Biz-Nvidia-Groq-hbzt/24Biz-Nvidia-Groq-hbzt-facebookJumbo.jpg",
+        "publishedAt": "2025-12-25T00:00:31Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b9f39d3e8b5db56c101a3c90c6530b5c",
         "title": "Nvidia Reaches Technology Licensing Deal With Startup Groq",
         "description": "Nvidia Corp. agreed to a licensing deal with artificial intelligence startup Groq, furthering its investments in companies connected to the AI boom and gaining the right to add a new type of technology to its products.",
@@ -125,38 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "d262ce19b89cc14a11622f8c2e6dd5c6",
-        "title": "AI model predicts blood loss in liposuction",
-        "description": "A newly developed artificial intelligence (AI) model is highly accurate in predicting blood loss in patients undergoing high-volume liposuction, reports a study in the Plastic and Reconstructive Surgery journal.",
-        "content": "A newly developed artificial intelligence (AI) model is highly accurate in predicting blood loss in patients undergoing high-volume liposuction, reports a study in the Plastic and Reconstructive Surgery journal.\nThe development of an AI model to pred... [3102 chars]",
-        "url": "https://medicalxpress.com/news/2025-12-ai-blood-loss-liposuction.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-model-predicts-bloo.jpg",
-        "publishedAt": "2025-12-24T18:50:01Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "5d6ee17ae8719c7c86d2638c4b6b8b83",
-        "title": "The Top 10 Most Popular Tech News Headlines of 2025: A Year in Review",
-        "description": "As we approach the end of 2025, it’s a natural moment to step back and reflect on the technology news headlines that shaped the year. What stood out was not a single breakthrough, but the cumulative effect of change across artificial intelligence, robotics, energy infrastructure, and public policy. In 2025, artificial intelligence moved decisively from",
-        "content": "2. The Elon Musk Political Saga: Rise, DOGE, and Fall\nIn early 2025, the creation of the Department of Government Efficiency (DOGE) marked one of the most unusual intersections of Silicon Valley culture and U.S. governance in recent memory. Framed as... [16174 chars]",
-        "url": "https://techstartups.com/2025/12/24/the-top-10-most-popular-tech-news-headlines-of-2025-a-year-in-review/",
-        "image": "https://techstartups.com/wp-content/uploads/2025/12/The-Top-10-Most-Popular-Tech-Headlines-of-2025-960x536.jpg",
-        "publishedAt": "2025-12-24T18:30:28Z",
-        "lang": "en",
-        "source": {
-            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-            "name": "TechStartups.com",
-            "url": "https://techstartups.com",
-            "country": "us"
         }
     }
 ]
