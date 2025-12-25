@@ -1,5 +1,37 @@
 [
     {
+        "id": "a35824df6d6a2a610ccd558ed99fbf4b",
+        "title": "Tech Up on AI Boom Bets -- Tech Roundup",
+        "description": "Shares of technology companies ticked up as traders bet an artificial-intelligence boom would continue.\nThe Roundhill Magnificent Seven exchange-traded fund, which tracks the seven companies...",
+        "content": "Shares of technology companies ticked up as traders bet an artificial-intelligence boom would continue.\nThe Roundhill Magnificent Seven exchange-traded fund, which tracks the seven companies driving the AI boom, is up about 26% for the year to date, ... [711 chars]",
+        "url": "https://www.marketscreener.com/news/tech-up-on-ai-boom-bets-tech-roundup-ce7e59dadd8eff25",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2025-12-24T19:23:16Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "d262ce19b89cc14a11622f8c2e6dd5c6",
+        "title": "AI model predicts blood loss in liposuction",
+        "description": "A newly developed artificial intelligence (AI) model is highly accurate in predicting blood loss in patients undergoing high-volume liposuction, reports a study in the Plastic and Reconstructive Surgery journal.",
+        "content": "A newly developed artificial intelligence (AI) model is highly accurate in predicting blood loss in patients undergoing high-volume liposuction, reports a study in the Plastic and Reconstructive Surgery journal.\nThe development of an AI model to pred... [3102 chars]",
+        "url": "https://medicalxpress.com/news/2025-12-ai-blood-loss-liposuction.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-model-predicts-bloo.jpg",
+        "publishedAt": "2025-12-24T18:50:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "5d6ee17ae8719c7c86d2638c4b6b8b83",
         "title": "The Top 10 Most Popular Tech News Headlines of 2025: A Year in Review",
         "description": "As we approach the end of 2025, it’s a natural moment to step back and reflect on the technology news headlines that shaped the year. What stood out was not a single breakthrough, but the cumulative effect of change across artificial intelligence, robotics, energy infrastructure, and public policy. In 2025, artificial intelligence moved decisively from",
@@ -125,38 +157,6 @@
             "name": "Bnn Bloomberg",
             "url": "https://www.bnnbloomberg.ca",
             "country": "ca"
-        }
-    },
-    {
-        "id": "f56a0eb759cc46695afecca4931a655e",
-        "title": "Op-Ed | New York City must lead on artificial intelligence",
-        "description": "Since the beginning, New York City has been a place where change is forged and embraced. Our brand is synonymous with innovation and global leadership, and",
-        "content": "Since the beginning, New York City has been a place where change is forged and embraced. Our brand is synonymous with innovation and global leadership, and our government has always been on the leading-edge, making society better both here and as an ... [3098 chars]",
-        "url": "https://www.amny.com/law/op-ed-new-york-city-must-lead-on-artificial-intelligence/",
-        "image": "https://www.amny.com/wp-content/uploads/2025/12/Michael-Pastor-Headshot.jpg?quality=51&w=1200&p=q",
-        "publishedAt": "2025-12-24T14:30:58Z",
-        "lang": "en",
-        "source": {
-            "id": "5d57a4bf494b772aa2d7d0cd3ed9d7c0",
-            "name": "AM New York",
-            "url": "https://www.amny.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b2e059e4d894bc17820e4e23de1e138f",
-        "title": "Trump Says 'I Love AI' as Boom Bets Fuel Bubble Fears",
-        "description": "The stock market turned uneasy in early November as investors once again questioned whether Big Tech’s enormous investments in artificial intelligence were racing ahead of real-world results. Inside the White House, however, the turbulence appeared to draw little notice.",
-        "content": "The stock market was jittery in early November as investors again questioned whether Big Tech's massive artificial intelligence spending was outpacing reality. But inside the White House, the volatility barely seemed to matter.\nAsked whether he feare... [2754 chars]",
-        "url": "https://www.newsmax.com/newsfront/donald-trump-economy-ai/2025/12/24/id/1239536/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=8b1dc0af-31dc-415b-acb7-705c789332cc&SiteName=Newsmax",
-        "publishedAt": "2025-12-24T13:58:22Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
         }
     }
 ]
