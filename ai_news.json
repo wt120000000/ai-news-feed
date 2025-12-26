@@ -1,5 +1,37 @@
 [
     {
+        "id": "a73f701d0518401e0a4b1f9a19464602",
+        "title": "India Inc wants to tech all its employees to the future",
+        "description": "As India approaches 2026, companies such as Zensar Technologies, Godrej Consumer Products, and Tata Motors are proactively enhancing their workforce through training initiatives. By prioritizing skills in data, artificial intelligence, and analytics, these businesses aim to prepare their employees for the inevitable technological transformations.",
+        "content": "Synopsis\nAs India approaches 2026, companies such as Zensar Technologies, Godrej Consumer Products, and Tata Motors are proactively enhancing their workforce through training initiatives. By prioritizing skills in data, artificial intelligence, and a... [4546 chars]",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/india-inc-wants-to-tech-all-its-employees-to-the-future/articleshow/126177621.cms",
+        "image": "https://img.etimg.com/thumb/msid-126177699,width-1200,height-630,imgsize-59690,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-12-25T18:24:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "80bd903422b474e0aa093b46b2b3df71",
+        "title": "Samsung rules out India listing, to go big on interest-free EMIS to fuel growth",
+        "description": "Company says it will instead focus on accelerating artificial intelligence adoption across its products and expanding its consumer finance arm to drive sales in",
+        "content": "Even as one of its closest competitors LG Electronics India got listed in October this year, Samsung Electronics has ruled out listing its India business for now, saying it will instead focus on accelerating artificial intelligence adoption across it... [2474 chars]",
+        "url": "https://www.newindianexpress.com/business/2025/Dec/25/samsung-rules-out-india-listing-to-go-big-on-interest-free-emis-to-fuel-growth",
+        "image": "https://media.newindianexpress.com/TNIE%2Fimport%2F2016%2F9%2F14%2F13%2Foriginal%2FSouth%20Korea%20Samsung%20B_Mukh.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2025-12-25T18:12:24Z",
+        "lang": "en",
+        "source": {
+            "id": "448094ed3f9461bb87a99a218cdaecfe",
+            "name": "The New Indian Express",
+            "url": "https://www.newindianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "49f481008ce29982c41ccfcde512ed93",
         "title": "Nvidia Joins Big Tech Deal Spree to License Chip Technology from Groq",
         "description": "Groq specialises in what is known as inference, where artificial intelligence models that have already been trained respond to requests from users.",
@@ -124,38 +156,6 @@
             "id": "c5725557f39c24c8b029ee39900a8406",
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "5daef91b535726da728376b3129212c8",
-        "title": "Policy reforms, digital surge power Indias insurance sector in 2025: Leaders",
-        "description": "In 2025, India's insurance sector saw major shifts with the Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025 enabling 100% FDI, fostering competition, alongside tech booms in Artificial Intelligence/Machine Learning (AI/ML) for underwriting & claims, a surge in digital policy issuance, new products like usage-based & embedded insurance, and a significant push for enhanced regulatory governance and financial inclusion, driving massive capital inflow and market growth.",
-        "content": "New Delhi [India], : As the year 2025 comes to a wrap, the insurance industry leaders bid farewell to the eventful year, calling it an inflection point mirroring broader resilience with the wider economy and are set to welcome the New Year 2026 with ... [4542 chars]",
-        "url": "https://www.livemint.com/companies/news/policy-reforms-digital-surge-power-indias-insurance-sector-in-2025-leaders-11766666271438.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
-        "publishedAt": "2025-12-25T12:37:51Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "9fea7d0b28d6e475f0ff55b308a5401d",
-        "title": "Indian FSI moving from AI pilots to production; Agentic AI to be future driver: AWS's Kiran Jagannath",
-        "description": "Kiran Jagannath, Head of FSI and Conglomerates at AWS India and South Asia, stated that while the initial conversation around Artificial Intelligence (AI) focused on productivity, the narrative is shifting toward \"agentic AI\", autonomous agents that can execute complex tasks, which he predicts will be the dominant technology narrative in Indian banking over the next three years.",
-        "content": "Synopsis\nKiran Jagannath, Head of FSI and Conglomerates at AWS India and South Asia, stated that while the initial conversation around Artificial Intelligence (AI) focused on productivity, the narrative is shifting toward \"agentic AI\", autonomous age... [3865 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/indian-fsi-moving-from-ai-pilots-to-production-agentic-ai-to-be-future-driver-awss-kiran-jagannath/articleshow/126174089.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-488454,resizemode-75,msid-126174089/tech/technology/indian-fsi-moving-from-ai-pilots-to-production-agentic-ai-to-be-future-driver-awss-kiran-jagannath.jpg",
-        "publishedAt": "2025-12-25T12:29:21Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
