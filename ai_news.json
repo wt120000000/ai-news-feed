@@ -1,5 +1,21 @@
 [
     {
+        "id": "7f5707d7739fb8c89696b2742ef6bf7a",
+        "title": "Nvidia strikes $20B licensing and asset deal with AI chip startup Groq, acqui",
+        "description": "Nvidia has struck a sweeping $20 billion licensing and asset deal with AI chip startup Groq, according to an exclusive report from CNBC, signaling how inference has moved to the center of the artificial intelligence race. The agreement gives Nvidia access to Groq’s inference technology and key intellectual property, while bringing Groq founder and CEO",
+        "content": "Nvidia has struck a sweeping $20 billion licensing and asset deal with AI chip startup Groq, according to an exclusive report from CNBC, signaling how inference has moved to the center of the artificial intelligence race.\nThe agreement gives Nvidia a... [5142 chars]",
+        "url": "https://techstartups.com/2025/12/25/nvidia-strikes-20b-licensing-and-asset-deal-with-ai-chip-startup-groq-acqui-hires-founder-jonathan-ross/",
+        "image": "https://techstartups.com/wp-content/uploads/2025/12/ceo.jpg",
+        "publishedAt": "2025-12-26T01:27:05Z",
+        "lang": "en",
+        "source": {
+            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+            "name": "TechStartups.com",
+            "url": "https://techstartups.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b95242755f37164974e315a2d8da6f3c",
         "title": "Nvidia expands AI empire with Groq talent grab",
         "description": "SAN FRANCISCO—Nvidia has hired the leadership of a promising AI chip startup, a statement said Wednesday, as the artificial intelligence giant expands its",
@@ -140,22 +156,6 @@
             "id": "5464668c1f0466950a0b2fab5249ec6c",
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "80bd903422b474e0aa093b46b2b3df71",
-        "title": "Samsung rules out India listing, to go big on interest-free EMIS to fuel growth",
-        "description": "Company says it will instead focus on accelerating artificial intelligence adoption across its products and expanding its consumer finance arm to drive sales in",
-        "content": "Even as one of its closest competitors LG Electronics India got listed in October this year, Samsung Electronics has ruled out listing its India business for now, saying it will instead focus on accelerating artificial intelligence adoption across it... [2474 chars]",
-        "url": "https://www.newindianexpress.com/business/2025/Dec/25/samsung-rules-out-india-listing-to-go-big-on-interest-free-emis-to-fuel-growth",
-        "image": "https://media.newindianexpress.com/TNIE%2Fimport%2F2016%2F9%2F14%2F13%2Foriginal%2FSouth%20Korea%20Samsung%20B_Mukh.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2025-12-25T18:12:24Z",
-        "lang": "en",
-        "source": {
-            "id": "448094ed3f9461bb87a99a218cdaecfe",
-            "name": "The New Indian Express",
-            "url": "https://www.newindianexpress.com",
             "country": "in"
         }
     }
