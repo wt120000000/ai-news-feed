@@ -1,5 +1,21 @@
 [
     {
+        "id": "b95242755f37164974e315a2d8da6f3c",
+        "title": "Nvidia expands AI empire with Groq talent grab",
+        "description": "SAN FRANCISCO—Nvidia has hired the leadership of a promising AI chip startup, a statement said Wednesday, as the artificial intelligence giant expands its",
+        "content": "SAN FRANCISCO—Nvidia has hired the leadership of a promising AI chip startup, a statement said Wednesday, as the artificial intelligence giant expands its tech empire.\nChip maker Groq said the departure of its top executives was part of a non-exclusi... [1922 chars]",
+        "url": "https://manilastandard.net/business/314684832/nvidia-expands-ai-empire-with-groq-talent-grab.html",
+        "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/07/Nvidia.jpeg",
+        "publishedAt": "2025-12-26T00:40:00Z",
+        "lang": "en",
+        "source": {
+            "id": "e9207083a357fb7e76b38e485888ebe7",
+            "name": "manilastandard.net",
+            "url": "https://manilastandard.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "f71fed34b40c653833f31690a6744ba9",
         "title": "Fabrizio Poll: Backing National AI Standard Boosts Candidates",
         "description": "Polling by Fabrizio Ward on behalf of Building America’s Future indicates that congressional candidates who champion a unified national framework for artificial intelligence — framed around child protection and parental empowerment — secure a clear electoral advantage.",
@@ -140,22 +156,6 @@
             "id": "448094ed3f9461bb87a99a218cdaecfe",
             "name": "The New Indian Express",
             "url": "https://www.newindianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "49f481008ce29982c41ccfcde512ed93",
-        "title": "Nvidia Joins Big Tech Deal Spree to License Chip Technology from Groq",
-        "description": "Groq specialises in what is known as inference, where artificial intelligence models that have already been trained respond to requests from users.",
-        "content": "Nvidia has agreed to license chip technology from startup Groq and hire away its CEO, a veteran of Alphabet's Google, Groq said in a blog post on Wednesday.\nThe deal follows a familiar pattern in recent years where the world's biggest technology firm... [2925 chars]",
-        "url": "https://www.republicworld.com/tech/nvidia-joins-big-tech-deal-spree-to-license-chip-technology-from-groq",
-        "image": "https://img.republicworld.com/all_images/nvidia-1765347749767-16_9.webp",
-        "publishedAt": "2025-12-25T16:02:09Z",
-        "lang": "en",
-        "source": {
-            "id": "e479ce8332aab31d8bac6ba9584cedbb",
-            "name": "Republic World",
-            "url": "https://www.republicworld.com",
             "country": "in"
         }
     }
