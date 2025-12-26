@@ -1,5 +1,21 @@
 [
     {
+        "id": "32321b69ff765a94239a3bcfb673f2f9",
+        "title": "Smart manufacturing moves beyond Industry 4.0, forcing a rethink of industrial strategy",
+        "description": "Manufacturing technologies have been the first domain to experience this transformation. The review documents how artificial intelligence and machine learning have overtaken conventional statistical approaches in process optimization. Data-driven models now capture complex, nonlinear relationships between process parameters and output quality, enabling manufacturers to balance competing objectives such as surface quality, productivity, energy consumption, and defect reduction.",
+        "content": "Manufacturing is moving deeper into the era of intelligent systems. What was once defined by automation and efficiency is now evolving into a complex ecosystem where production, energy use, human oversight, and environmental performance are tightly i... [7555 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3736117-smart-manufacturing-moves-beyond-industry-40-forcing-a-rethink-of-industrial-strategy",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_12_2025_17_48_36_2932901.png?width=920&format=jpeg",
+        "publishedAt": "2025-12-26T03:29:41Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "6bd2175d98b43a5aae70cb99fbf9dce9",
         "title": "Vibe-coding with AI brings coding to everyone, with potential and pitfalls",
         "description": "Artificial-intelligence tools that assist with software development are upending the industry",
@@ -141,22 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "e6eb5ef91040ebf700f2a852d36a68de",
-        "title": "Five-Star Analyst Picks His Top 6 Chip Stocks for 2026",
-        "description": "The artificial intelligence boom is not slowing down and may still be in its early stages, according to five-star Bank of America (BAC) analyst ...",
-        "content": "The artificial intelligence boom is not slowing down and may still be in its early stages, according to five-star Bank of America (BAC) analyst Vivek Arya. While some investors are worried that valuations have become rich, Arya argues that the indust... [1829 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/five-star-analyst-picks-his-top-6-chip-stocks-for-2026-1035670560",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2025/12/image-2503-1024x539.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2025-12-25T22:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Markets Insider",
-            "url": "https://markets.businessinsider.com",
-            "country": "us"
         }
     }
 ]
