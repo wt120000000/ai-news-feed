@@ -1,5 +1,21 @@
 [
     {
+        "id": "da067a8479a7054a4180838f7837906b",
+        "title": "AI videos have flooded social media. No one was ready",
+        "description": "Fake videos created by artificial intelligence are fooling people on social media. These deceptive clips are spreading rapidly, raising alarms about a new wave of disinformation. While platforms have policies, they are struggling to keep up with the technology. Experts say companies need to do more to label AI content and moderate it effectively.",
+        "content": "Synopsis\nFake videos created by artificial intelligence are fooling people on social media. These deceptive clips are spreading rapidly, raising alarms about a new wave of disinformation. While platforms have policies, they are struggling to keep up ... [5277 chars]",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-videos-have-flooded-social-media-no-one-was-ready/articleshow/126194520.cms",
+        "image": "https://img.etimg.com/thumb/msid-126194693,width-1200,height-630,imgsize-49998,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-12-26T18:19:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "f534da5dddcec7544de9a538a1056fcd",
         "title": "Think layoffs are bad now? Executives warn millions of jobs could be axed in 2026",
         "description": "Many companies may cut jobs in 2026 as they use more artificial intelligence. A new survey shows big firms are planning layoffs, especially in marketing roles. Unemployment is already high, and hiring is slowing. Some CEOs warn workers to learn AI skills, while others say AI will mostly change tasks, not replace jobs.",
@@ -141,22 +157,6 @@
             "name": "Fox News",
             "url": "https://www.foxnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "3fabd6d39863acd0e5de21e6480a41f9",
-        "title": "Pediatric surgeons weigh AI benefits against ethical challenges and practical barriers",
-        "description": "Artificial intelligence (AI) is rapidly advancing across modern healthcare, yet its role in pediatric surgery remains limited and ethically complex.",
-        "content": "Artificial intelligence (AI) is rapidly advancing across modern healthcare, yet its role in pediatric surgery remains limited and ethically complex. This study reveals that although surgeons recognize AI's potential to enhance diagnostic precision, s... [4675 chars]",
-        "url": "https://www.news-medical.net/news/20251226/Pediatric-surgeons-weigh-AI-benefits-against-ethical-challenges-and-practical-barriers.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2025-12-26T14:33:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
         }
     }
 ]
