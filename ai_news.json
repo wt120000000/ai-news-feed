@@ -1,5 +1,21 @@
 [
     {
+        "id": "473ca4dfdb5f1b2226a2ca57ee105063",
+        "title": "Data centre surge reaches India as American tech giants invest billions",
+        "description": "US tech giants are pouring tens of billions into Indian data centres as artificial intelligence use explodes. Microsoft, Amazon, Google and Meta see huge growth in a fast expanding population despite power, water and trade worries. India wants local servers for security and speed, and cities like Hyderabad are competing hard to host them.",
+        "content": "Synopsis\nUS tech giants are pouring tens of billions into Indian data centres as artificial intelligence use explodes. Microsoft, Amazon, Google and Meta see huge growth in a fast expanding population despite power, water and trade worries. India wan... [5092 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/data-centre-surge-reaches-india-as-american-tech-giants-invest-billions/articleshow/126198794.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-138048,resizemode-75,msid-126198794/tech/technology/data-centre-surge-reaches-india-as-american-tech-giants-invest-billions.jpg",
+        "publishedAt": "2025-12-27T02:36:49Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "9b3d6c424609b39f2af8c2e8a0c14660",
         "title": "Weekly Tech Wrap: Expedition 33 Loses GOTY, Gaming Outage, Xiaomi 17 Ultra Launch, iPhone 18 Rumours",
         "description": "This week began with a step-back for artificial intelligence, wherein Clair Obscur: Expedition 33 was stripped of its Game of the Year award at the Indie Game Awards due to generative AI use. While reports surfaced about the delay of Samsung’s Galaxy S26 launch, there were rumours abound regarding Apple preponing its iPhone 18 launch. Gamers were left blank on Christmas day due to an outage, even as Xiaomi 17 Ultra was released in China.",
@@ -140,22 +156,6 @@
             "id": "016c9538dd6aa60fb4f29fca8674d6b7",
             "name": "Mechanicsburg Patriot News ",
             "url": "https://www.pennlive.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "561edafdb6a7c850f6a6081713c5c3ec",
-        "title": "Federalizing AI—It’s All in the Side Acts",
-        "description": "On December 11, 2025, President Donald Trump issued a new executive order, “Ensuring a National Policy Framework for Artificial Intelligence.” The new Trump",
-        "content": "On December 11, 2025, President Donald Trump issued a new executive order, “Ensuring a National Policy Framework for Artificial Intelligence.” The new Trump AI order follows Executive Order No. 14179, “Removing Barriers to American Leadership in Arti... [6829 chars]",
-        "url": "https://www.europesays.com/2658520/",
-        "image": "https://www.europesays.com/wp-content/uploads/2025/12/og.13905_60.jpg",
-        "publishedAt": "2025-12-26T19:43:33Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
             "country": "us"
         }
     }
