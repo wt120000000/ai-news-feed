@@ -1,5 +1,37 @@
 [
     {
+        "id": "a869dd3fa3355276958936e65ff800ff",
+        "title": "As AI companies borrow billions, debt investors grow wary",
+        "description": "Stock markets remain upbeat about artificial intelligence, but debt investors are far more cautious. New and smaller AI firms are being charged high interest rates on the money they borrow, indicating investors' scepticism when new, unproven AI businesses take on large debts. While big firms like Amazon borrow cheaply, riskier AI companies face rising yields and falling bond prices.",
+        "content": "Synopsis\nStock markets remain upbeat about artificial intelligence, but debt investors are far more cautious. New and smaller AI firms are being charged high interest rates on the money they borrow, indicating investors' scepticism when new, unproven... [7539 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/as-ai-companies-borrow-billions-debt-investors-grow-wary/articleshow/126199471.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-50672,resizemode-75,msid-126199471/tech/artificial-intelligence/as-ai-companies-borrow-billions-debt-investors-grow-wary.jpg",
+        "publishedAt": "2025-12-27T04:17:28Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "c35c3218d549e3a731d1fa986e417baf",
+        "title": "The Real War Of The Century: Artificial Intelligence",
+        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+        "content": "Authored by Joaquim Couto via The Brownstone Institute,\nThere was a time when debates about determinism and free will belonged to philosophy departments and late-night dorm room conversations.\nThey were enjoyable precisely because they seemed harmles... [4049 chars]",
+        "url": "https://www.zerohedge.com/ai/real-war-century-artificial-intelligence",
+        "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-12/Shutterstock_2581073383-800x450.jpg?itok=g8Znf-gV",
+        "publishedAt": "2025-12-27T03:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+            "name": "ZeroHedge",
+            "url": "https://www.zerohedge.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "473ca4dfdb5f1b2226a2ca57ee105063",
         "title": "Data centre surge reaches India as American tech giants invest billions",
         "description": "US tech giants are pouring tens of billions into Indian data centres as artificial intelligence use explodes. Microsoft, Amazon, Google and Meta see huge growth in a fast expanding population despite power, water and trade worries. India wants local servers for security and speed, and cities like Hyderabad are competing hard to host them.",
@@ -124,38 +156,6 @@
             "id": "95a96a1867c4dac6f720e9d08d4c1b96",
             "name": "New York Post",
             "url": "https://nypost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "877b0a81e05e719c5a6585b5b9798a35",
-        "title": "No takers for Trump’s initiatives",
-        "description": "Apropos of ‘2025: The year of Trumpism’; President Trump’s policies on trade, tariffs, immigration, artificial intelligence and defence have caused desperation and disappointment among US citizens. His pronouncements regarding the global situation have found no encouragement among world leaders. His soft attitude towards China and Russia have not produced any tangible results either in achieving peace. The National Security Strategy seems unviable and very expensive. Nor does it have any positive effect on international diplomatic and military scenario. It will be interesting to see how Trump shapes the future domination of the US although his MAGA policy has failed to achieve significant prosperity and welfare of Americans.",
-        "content": "Apropos of ‘2025: The year of Trumpism’; President Trump’s policies on trade, tariffs, immigration, artificial intelligence and defence have caused desperation and disappointment among US citizens. His pronouncements regarding the global situation ha... [3954 chars]",
-        "url": "https://www.tribuneindia.com/news/letters/no-takers-for-trumps-initiatives/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJkOTU2ZjUwLWUyOWYtMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc=",
-        "publishedAt": "2025-12-26T21:13:21Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "3a2dba8478fc7284e0cb1bb47d3399db",
-        "title": "Stocks dip slightly as investors return from Christmas holiday in light trading",
-        "description": "The S&P 500 has climbed nearly 18% this year, driven by deregulatory policies and optimism about artificial intelligence.",
-        "content": "NEW YORK (AP) — Stocks moved slightly lower in afternoon Friday trading as investors returned from the Christmas holiday in extremely light trading.\nThe S&P 500 index was down 0.1% as of 2:30 p.m. ET, the Dow Jones Industrial Average was down 0.2%, a... [1445 chars]",
-        "url": "https://www.pennlive.com/business/2025/12/stocks-dip-slightly-as-investors-return-from-christmas-holiday-in-light-trading.html",
-        "image": "https://www.pennlive.com/resizer/v2/V2YWBZ6R7JEYND5YIADFCD2IJM.jpg?auth=7921d70ac932d5c3df9ad6241f469ba70bc08eb2462bafe36f8935f64ed18ab1&width=1280&smart=true&quality=90",
-        "publishedAt": "2025-12-26T20:12:42Z",
-        "lang": "en",
-        "source": {
-            "id": "016c9538dd6aa60fb4f29fca8674d6b7",
-            "name": "Mechanicsburg Patriot News ",
-            "url": "https://www.pennlive.com",
             "country": "us"
         }
     }
