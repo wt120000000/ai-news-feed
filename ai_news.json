@@ -1,5 +1,37 @@
 [
     {
+        "id": "3a2dba8478fc7284e0cb1bb47d3399db",
+        "title": "Stocks dip slightly as investors return from Christmas holiday in light trading",
+        "description": "The S&P 500 has climbed nearly 18% this year, driven by deregulatory policies and optimism about artificial intelligence.",
+        "content": "NEW YORK (AP) — Stocks moved slightly lower in afternoon Friday trading as investors returned from the Christmas holiday in extremely light trading.\nThe S&P 500 index was down 0.1% as of 2:30 p.m. ET, the Dow Jones Industrial Average was down 0.2%, a... [1445 chars]",
+        "url": "https://www.pennlive.com/business/2025/12/stocks-dip-slightly-as-investors-return-from-christmas-holiday-in-light-trading.html",
+        "image": "https://www.pennlive.com/resizer/v2/V2YWBZ6R7JEYND5YIADFCD2IJM.jpg?auth=7921d70ac932d5c3df9ad6241f469ba70bc08eb2462bafe36f8935f64ed18ab1&width=1280&smart=true&quality=90",
+        "publishedAt": "2025-12-26T20:12:42Z",
+        "lang": "en",
+        "source": {
+            "id": "016c9538dd6aa60fb4f29fca8674d6b7",
+            "name": "Mechanicsburg Patriot News ",
+            "url": "https://www.pennlive.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "561edafdb6a7c850f6a6081713c5c3ec",
+        "title": "Federalizing AI—It’s All in the Side Acts",
+        "description": "On December 11, 2025, President Donald Trump issued a new executive order, “Ensuring a National Policy Framework for Artificial Intelligence.” The new Trump",
+        "content": "On December 11, 2025, President Donald Trump issued a new executive order, “Ensuring a National Policy Framework for Artificial Intelligence.” The new Trump AI order follows Executive Order No. 14179, “Removing Barriers to American Leadership in Arti... [6829 chars]",
+        "url": "https://www.europesays.com/2658520/",
+        "image": "https://www.europesays.com/wp-content/uploads/2025/12/og.13905_60.jpg",
+        "publishedAt": "2025-12-26T19:43:33Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b073ff184a40bd4d562c2d0ec942aba4",
         "title": "Intellect Design targets Rs 1,000 crore from Purple Fabric AI",
         "description": "Tech News News: Intellect Design Arena is aiming to generate Rs 1,000 crore in revenue over the next four years from its artificial intelligence platform, Purple Fabr.",
@@ -125,38 +157,6 @@
             "name": "Santa Ana Orange County Register",
             "url": "https://www.ocregister.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "1b068582547cc9dabb865d65cb14505a",
-        "title": "Nvidia reaches technology licensing deal with startup Groq",
-        "description": "Nvidia Corp. agreed to a licensing deal with artificial intelligence startup Groq, furthering its investments in companies connected to the AI boom and gaining the right to add a new type of technology to its products.",
-        "content": "(Bloomberg/Ian King) — Nvidia Corp. agreed to a licensing deal with artificial intelligence startup Groq, furthering its investments in companies connected to the AI boom and gaining the right to add a new type of technology to its products.\nThe worl... [3195 chars]",
-        "url": "https://www.mercurynews.com/2025/12/26/nvidia-reaches-technology-licensing-deal-with-startup-groq/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2025/02/Nvidia-Wall_Street_Worries_77924.jpg?w=1024&h=682",
-        "publishedAt": "2025-12-26T17:00:49Z",
-        "lang": "en",
-        "source": {
-            "id": "17d7c2645f485578130862e0c8dd9480",
-            "name": "The Mercury News",
-            "url": "https://www.mercurynews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "296df685e49265f740a314864ed8d663",
-        "title": "How specialised agencies are helping AI companies to bypass the 2,000",
-        "description": "Tech News News: A new \\\"cottage industry\\\" of specialised agencies for artificial intelligence (AI) companies has reportedly emerged in China. These agencies are helpin.",
-        "content": "AI generated image for representation\nA new \"cottage industry\" of specialised agencies for artificial intelligence (AI) companies has reportedly emerged in China. These agencies are helping AI companies to pass rigorous government ideological tests r... [3344 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-specialised-agencies-are-helping-ai-companies-to-bypass-the-2000-question-chinese-regulation-test/articleshow/126191176.cms",
-        "image": "https://static.toiimg.com/thumb/msid-126191232,width-1070,height-580,imgsize-66668,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-        "publishedAt": "2025-12-26T17:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
