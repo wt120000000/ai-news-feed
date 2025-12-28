@@ -1,5 +1,69 @@
 [
     {
+        "id": "5a37e1032605fbba43265ebfe6c499f1",
+        "title": "Nasa chief offers high school student a job & jet ride for discovery of 1.5 million stars",
+        "description": "Nasa director Jared Isaacman has offered a high school student a job and a fighter jet ride following his identification of 1.5 million cosmic bodies. Matteo Paz utilised artificial intelligence to analyse decommissioned mission data, uncovering celestial phenomena previously missed by researchers.",
+        "content": "Scientific progress sometimes emerges from unexpected quarters. In this instance, Matteo Paz, a high school student from the United States, harnessed artificial intelligence with data from Nasa’s decommissioned Neowise mission.\nThe result: the identi... [2074 chars]",
+        "url": "https://www.indiatoday.in/science/story/nasa-chief-jared-isaacman-matteo-paz-nasa-job-offer-fighter-jet-ai-discovery-neowise-1-5-million-stars-2842864-2025-12-28",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/high-school-student-matteo-paz-received-a-direct-recruitment-offer-from-nasa-chief-jared-isaacman-af-285335652-16x9_0.jpg?VersionId=73j0hLtVmWfvBxox6KTUJgd9XzTIHi_0",
+        "publishedAt": "2025-12-28T06:16:37Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "ade69c24fa890aa13fab98a249504c23",
+        "title": "‘Artificial’ label obscures human responsibility in medical AI",
+        "description": "AI intelligence is not artificial in the sense of being detached from organic origins. The study reframes intelligence as a property defined by organization and adaptability rather than by the material substrate on which it operates. From this perspective, intelligence expressed through silicon circuits can still be fundamentally organic in nature because it is derived from human cognitive processes.",
+        "content": "A new opinion study warns that mischaracterizing AI as non-human obscures both its origins and its risks. The research, titled From Artificial to Organic: Rethinking the Roots of Intelligence for Digital Health, published in PLOS Digital Health, argu... [6703 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3742722-artificial-label-obscures-human-responsibility-in-medical-ai",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/27_12_2025_13_48_27_6882557.png?width=920&format=jpeg",
+        "publishedAt": "2025-12-28T05:47:12Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "887bc2a1dd31d66fb61d37dc0acfeb18",
+        "title": "Adani inaugurates Sharad Pawar-named AI centre in Baramati, Pawar family in attendance",
+        "description": "Industrialist Gautam Adani opened the Sharadchandra Pawar Centre of Excellence in Artificial Intelligence in Baramati. The Adani Group chairman funded the centre. It is established under Vidya Pratishthan, an institute governed by the Pawar family. Sharad Pawar, Supriya Sule, Ajit Pawar, and Sunetra Pawar attended the inauguration. Adani had previously visited Baramati in 2022.",
+        "content": "Synopsis\nIndustrialist Gautam Adani opened the Sharadchandra Pawar Centre of Excellence in Artificial Intelligence in Baramati. The Adani Group chairman funded the centre. It is established under Vidya Pratishthan, an institute governed by the Pawar ... [1583 chars]",
+        "url": "https://economictimes.indiatimes.com/news/india/adani-inaugurates-sharad-pawar-named-ai-centre-in-baramati-pawar-family-in-attendance/articleshow/126212540.cms",
+        "image": "https://img.etimg.com/thumb/msid-126212583,width-1200,height-630,imgsize-103020,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-12-28T05:32:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "00b73a2567ea90975d36f3bca2066dd9",
+        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Adani Inaugurates AI Excellence Hub in Baramati",
+        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
+        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
+        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
+        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
+        "publishedAt": "2025-12-28T05:25:08Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "cde4728c90c38113c2f004905d0d62af",
         "title": "New Book “Spiritual Zombie Apocalypse” Suggests Modern Life Is Draining Human Awareness in the AI Era",
         "description": "United States — Amid growing public debate over artificial intelligence and its role in society, a new book is reframing the conversation. Instead of focusing on economic disruption or future technological threats, Spiritual Zombie Apocalypse examines how AI-driven systems may already be altering the human inner experience. Written by U.S. author Bill Fedorich, Spiritual Zombie […]",
@@ -93,70 +157,6 @@
             "name": "Lokmat Times",
             "url": "https://www.lokmattimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "715c48612d8e05a840522d215a531e01",
-        "title": "like AI systems to have socialist values",
-        "description": "China News: Looking to tighten rules around the use of human-like artificial intelligence, China on Saturday said service providers must inform users that they ar.",
-        "content": "Representative image\nLooking to tighten rules around the use of human-like artificial intelligence, China on Saturday said service providers must inform users that they are dealing with AI when they log in to a service, and at two-hour intervals, or ... [353 chars]",
-        "url": "https://timesofindia.indiatimes.com/world/china/china-wants-human-like-ai-systems-to-have-socialist-values/articleshow/126211347.cms",
-        "image": "https://static.toiimg.com/thumb/msid-126211361,width-1070,height-580,imgsize-1510193,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-        "publishedAt": "2025-12-28T01:21:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d482f19acd28d0682f2cb5a8ac273f3e",
-        "title": "China proposes stricter safeguard for AI tools; issues draft rules",
-        "description": "Tech News News: China has issued draft rules aimed to regulate artificial intelligence (AI) for public comments, reports Reuters. According to the news agency, the mo.",
-        "content": "China has issued draft rules aimed to regulate artificial intelligence (AI) for public comments, reports Reuters. According to the news agency, the move highlights the country’s efforts to shape rapid rollout of consumer-centric AI. The draft rules a... [1271 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/china-proposes-stricter-safeguard-for-ai-tools-issues-draft-rules/articleshow/126207320.cms",
-        "image": "https://static.toiimg.com/thumb/msid-126207315,width-1070,height-580,imgsize-49380,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-        "publishedAt": "2025-12-27T23:38:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "eb947e1788bdbdd219d33578e26930c9",
-        "title": "SK Telecom Unveils A.X K1, Korea's First 500B-Scale Hyperscale AI Model",
-        "description": "SKT consortium conducts Korean government's 'Sovereign AI Foundation Model' project with A.X K1, positioning Korea for Global Top 3 AI PowersA.X K1: Korea's first 'Teacher Model' for smaller and specialized applicationsSK Telecom realizes AI as public good, advancing Korean government's 'AI for Everyone' with 20 million-user service foundationSKT consortium's full-stack AI ecosystem positioned to serve as national AI infrastructureSEOUL, South Korea, Dec. 28, 2025 /PRNewswire/ -- SK Telecom (NYSE: SKM) today unveiled 'A.X K1,' Korea's first hyperscale artificial intelligence (AI) model with 519 billion (519B) parameters.",
-        "content": "SKT consortium conducts Korean government's 'Sovereign AI Foundation Model' project with A.X K1, positioning Korea for Global Top 3 AI Powers\nA.X K1: Korea's first 'Teacher Model' for smaller and specialized applications\nSK Telecom realizes AI as pub... [5810 chars]",
-        "url": "https://www.manilatimes.net/2025/12/28/tmt-newswire/pr-newswire/sk-telecom-unveils-ax-k1-koreas-first-500b-scale-hyperscale-ai-model/2250048",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2025-12-27T23:25:18Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "a8820fb9b89a13d16b651f4aab17633c",
-        "title": "Samsung SDS Partners with OpenAI as First ChatGPT Enterprise Reseller in South Korea",
-        "description": "In a move that underscores South Korea’s accelerating push into artificial intelligence, Samsung SDS, the IT services arm of the sprawling Samsung",
-        "content": "In a move that underscores South Korea’s accelerating push into artificial intelligence, Samsung SDS, the IT services arm of the sprawling Samsung conglomerate, has inked a landmark deal with OpenAI to become the first reseller of ChatGPT Enterprise ... [10463 chars]",
-        "url": "https://www.europesays.com/2660739/",
-        "image": "https://www.europesays.com/wp-content/uploads/2025/12/article-4863-1766820251.jpeg",
-        "publishedAt": "2025-12-27T22:52:21Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
         }
     }
 ]
