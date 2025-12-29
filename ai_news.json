@@ -1,5 +1,21 @@
 [
     {
+        "id": "3590cc836f4d2a2c07172498f784bc76",
+        "title": "Institutes of higher learning expand industry partnerships to prepare students for tech-driven media landscape",
+        "description": "Schools are partnering up to 50 per cent more organisations than before to help them navigate new trends brought on by technology and artificial intelligence.",
+        "content": "SINGAPORE: For the first time at Temasek Polytechnic, first-year students can take a course next year that combines artificial intelligence and data analytics.\nThe institute of higher learning (IHL) is looking to reshape how it trains future media pr... [4268 chars]",
+        "url": "https://www.channelnewsasia.com/singapore/media-talent-industry-industry-partnerships-schools-tech-ai-5721356",
+        "image": "https://dam.mediacorp.sg/image/upload/s--PjgegCUd--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/12/26/screenshot_2025-12-26_172540.png?itok=VUqU9SuF",
+        "publishedAt": "2025-12-29T01:19:23Z",
+        "lang": "en",
+        "source": {
+            "id": "09131c39169c9c96230862dc4c1fa727",
+            "name": "CNA",
+            "url": "https://www.channelnewsasia.com",
+            "country": "sg"
+        }
+    },
+    {
         "id": "ad2905ff15e6fd36c88f24f06edfc5cb",
         "title": "Fabless chip companies eye surveillance market play via edge-AI silicon",
         "description": "Indian startups are designing advanced chips for video surveillance. These chips will process artificial intelligence locally on devices. This focus on edge AI is a first step towards a wider automation vision. Companies like Netrasemi, BigEndian, and Sensesemi are developing specialized silicon. Their goal is to create secure, domestically designed surveillance systems for India by 2030.",
@@ -141,22 +157,6 @@
             "name": "The Nation",
             "url": "https://www.nation.com.pk",
             "country": "pk"
-        }
-    },
-    {
-        "id": "84b2b7d24a91b8323da0f304a8da5e47",
-        "title": "Artificial intelligence's breakout year for India, minus the breakthrough",
-        "description": "Despite robust investment and experimentation, enterprises are still searching for scalable AI-driven value; 2026 could change that",
-        "content": "Despite widespread experimentation and investment, AI has struggled to translate early adoption into meaningful, scalable business value, exposing a widening gap between enthusiasm and impact.\nThe McKinsey Global Survey on the state of AI shows that ... [6257 chars]",
-        "url": "https://www.business-standard.com/technology/tech-news/artificial-intelligence-s-breakout-year-for-india-minus-the-breakthrough-125122900001_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/28/thumb/fitandfill/1200X630/1766946429-5281.jpg",
-        "publishedAt": "2025-12-28T18:30:57Z",
-        "lang": "en",
-        "source": {
-            "id": "44d394a4e765f82b49b452e4302a72b0",
-            "name": "Business Standard",
-            "url": "https://www.business-standard.com",
-            "country": "in"
         }
     }
 ]
