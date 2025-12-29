@@ -1,5 +1,37 @@
 [
     {
+        "id": "ed6cbaecb903686ef9478b4bde2cbcb9",
+        "title": "Artificial intelligence helping to cut waiting times in hospital A&E departments this winter",
+        "description": "Around 50 NHS organisations are using the A&E Admissions Forecasting Tool, which predicts potential upcoming surges in admissions. | ITV National News",
+        "content": "Hospitals in England are using artificial intelligence (AI) to help cut waiting times in emergency departments this winter, officials have said.\nThe AI tool, which was launched in 2024, provides hospitals in England with anticipated A&E admissions th... [2779 chars]",
+        "url": "https://www.itv.com/news/2025-12-28/ai-helping-to-cut-waiting-times-in-a-and-e-this-winter",
+        "image": "https://images.ctfassets.net/pjshm78m9jt4/3LdRq5FUchFyTWJ4ixqN8p/4e9e3abdc2e5b71bd14330f2878e588e/01J0BMH99DJB9FQZDPG57RHJJE.jpg?fm=jpg&fit=fill&w=1600&h=900&q=80",
+        "publishedAt": "2025-12-28T17:26:41Z",
+        "lang": "en",
+        "source": {
+            "id": "8058567c977e70457c45c65529cb9946",
+            "name": "ITV News",
+            "url": "https://www.itv.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "79c51aac6daa731ee5b0ab8a46d5c8e6",
+        "title": "Eight ways AI affected pop culture in 2025",
+        "description": "Artificial intelligence made a significant impact on pop culture in 2025. AI-generated music topped charts, and films used AI for accent enhancement. Classic movies were reimagined with AI, and podcast hosts cloned their voices. Deceased celebrities appeared in AI-generated videos, sparking debate. Hollywood grappled with AI's role, with some directors opposing its use.",
+        "content": "Synopsis\nArtificial intelligence made a significant impact on pop culture in 2025. AI-generated music topped charts, and films used AI for accent enhancement. Classic movies were reimagined with AI, and podcast hosts cloned their voices. Deceased cel... [8488 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eight-ways-ai-affected-pop-culture-in-2025/articleshow/126217533.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38456,resizemode-75,msid-126217533/tech/artificial-intelligence/eight-ways-ai-affected-pop-culture-in-2025.jpg",
+        "publishedAt": "2025-12-28T16:45:37Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "ee9fa80bc0ba5d568c8298a65956eb66",
         "title": "Will AI wipe out the working class, and recast our view of ourselves?",
         "description": "IN the United States, a group of super-billionaires, led by Elon Musk, the world’s richest human being, reportedly worth at least $700 billion, is said to be investing heavily in the rapid advancement of artificial intelligence (AI) and robotics, and predicts the end of poverty and the arrival of utopia as AI and robots take over the work of human beings and make work, as we know it, completely optional. At least 100 million of these jobs are expected to end in robots’ hands within the next 10 years, beginning with nurses, truck drivers, accountants, teaching assistants, and fast-food workers.",
@@ -124,38 +156,6 @@
             "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
             "name": "Times Now",
             "url": "https://www.timesnownews.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1d59f7ce631d3932ac3376bfe54d0625",
-        "title": "‘I think there’s no winning of AGI,’ says Microsoft AI Chief on Artificial General Intelligence hype",
-        "description": "Suleyman’s remarks appear to be a direct counter-message to the theory often promoted by competitors like OpenAI’s Sam Altman and Meta’s Mark Zuckerberg, who have framed AGI as the ultimate technological trophy.",
-        "content": "Mustafa Suleyman, the CEO of Microsoft’s newly formed AI division, is pushing back against the tech industry’s intensifying obsession with Artificial General Intelligence (AGI), characterising the “race” to reach it as a flawed and potentially harmfu... [2103 chars]",
-        "url": "https://www.financialexpress.com/life/technology-i-think-theres-no-winning-of-agi-says-microsoft-ai-chief-on-artificial-general-intelligence-hype-4090621/",
-        "image": "https://images.financialexpressdigital.com/2025/12/Mustafa-Suleyman-1.jpg?quality=100",
-        "publishedAt": "2025-12-28T12:18:56Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6a8714f03cd0aeb57350f3f4516fe468",
-        "title": "China accused of weaponising AI to undermine Taiwan's democracy",
-        "description": "China accused of weaponising AI to undermine Taiwan's democracy - Taipei [Taiwan], December 28 : New revelations have raised serious concerns over China's alleged use of artificial intelligence to ... Get Latest News on International only on lokmattimes.com",
-        "content": "Taipei [Taiwan], December 28 : New revelations have raised serious concerns over China's alleged use of artificial intelligence to interfere in Taiwan's democratic processes, with investigators warning that sophisticated digital tools are being deplo... [2362 chars]",
-        "url": "https://www.lokmattimes.com/international/china-accused-of-weaponising-ai-to-undermine-taiwans-democracy/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251228120645_202512.png",
-        "publishedAt": "2025-12-28T12:11:47Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
             "country": "in"
         }
     }
