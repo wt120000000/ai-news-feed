@@ -1,5 +1,21 @@
 [
     {
+        "id": "1c7ee8acef2947a141b3e1b0fa82b860",
+        "title": "Sanders warns AI running the world not science-fiction, calls for slow down",
+        "description": "Senator Bernie Sanders told CNN that \"science-fiction\" fears about artificial intelligence are not outrageous on Sunday, and called for a moratorium on data centers.",
+        "content": "NEWYou can now listen to Fox News articles!\nSen. Bernie Sanders, I-Vt., said the \"science-fiction fear\" of Artificial Intelligence (AI) running the world was not an outrageous concept during an interview on Sunday, as he argued there hasn't been enou... [2699 chars]",
+        "url": "https://www.foxnews.com/media/sanders-says-science-fiction-fear-ai-running-world-not-quite-so-outrageous",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/bernie-sanders-ai.jpg",
+        "publishedAt": "2025-12-28T22:00:51Z",
+        "lang": "en",
+        "source": {
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "1adc41b738ec831f729b542115bd9dc8",
         "title": "PLTR vs. NBIS vs. CRWV: Which AI Stock Is the Best Pick for 2026, According to Analysts?",
         "description": "Artificial intelligence (AI) stocks attracted significant attention this year, given robust growth prospects. However, elevated valuations of se...",
@@ -141,22 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "c675e49e7352a1b539295a009bc60c3f",
-        "title": "DeSantis Emerges as AI Skeptic in Clash With Trump",
-        "description": "With one year left in his term, DeSantis has made regulating artificial intelligence a top priority.",
-        "content": "As President Donald Trump and congressional Republicans push to accelerate artificial intelligence development nationwide, Florida Gov. Ron DeSantis is emerging as one of the GOP’s most prominent skeptics.\nWith one year left in his term, DeSantis has... [2677 chars]",
-        "url": "https://www.newsmax.com/newsfront/desantis-ai-florida/2025/12/28/id/1239916/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=35a33e40-945e-4b51-9027-b5223753dc20&SiteName=Newsmax",
-        "publishedAt": "2025-12-28T15:42:17Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
         }
     }
 ]
