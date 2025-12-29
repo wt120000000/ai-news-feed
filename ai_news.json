@@ -1,5 +1,21 @@
 [
     {
+        "id": "c895a54c1d20b5fe028c2b31dbe32234",
+        "title": "China to crack down on AI chatbots around suicide, gambling",
+        "description": "The proposed rules come as Chinese artificial intelligence chatbot startups Minimax and Z.ai have this month filed for Hong Kong IPOs.",
+        "content": "Jade Gao | Afp | Getty Images\nBEIJING — China plans to restrict artificial intelligence-powered chatbots from influencing human emotions in ways that could lead to suicide or self-harm, according to draft rules released Saturday.\nThe proposed regulat... [3871 chars]",
+        "url": "https://www.cnbc.com/2025/12/29/china-ai-chatbot-rules-emotional-influence-suicide-gambling-zai-minimax-talkie-xingye-zhipu.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108246077-1766970862214-gettyimages-1998839799-AFP_34HJ6JF.jpeg?v=1766970902&w=1920&h=1080",
+        "publishedAt": "2025-12-29T07:06:35Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d95b1139f117351b34ee025273ba2c65",
         "title": "Tech in 2026: The era of AI coworker and Connected Intelligence beckons",
         "description": "Tech News News: We’ll soon turn our calendars to 2026, looking back at the global technology landscape that underwent a profound structural shift in 2025. Artificial .",
@@ -140,22 +156,6 @@
             "id": "b33a42ef1c098421f66aad47a76d6a3c",
             "name": "The Hindu",
             "url": "https://www.thehindu.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "272748f655973f7c6833ea448363988f",
-        "title": "AI reshaping commerce industry from assisted buying to autonomous transactions: Report",
-        "description": "Artificial Intelligence is starting to reshape the commerce sector, with the shift moving beyond recommendations and customer support to AI agents that can independently complete purchases on behalf of consumers and businesses, highlighted a report by Global Payments Inc., which provides technology and services for processing payments.",
-        "content": "New Delhi [India], December 29 (ANI): Artificial Intelligence is starting to reshape the commerce sector, with the shift moving beyond recommendations and customer support to AI agents that can independently complete purchases on behalf of consumers ... [2660 chars]",
-        "url": "https://www.livemint.com/companies/news/ai-reshaping-commerce-industry-from-assisted-buying-to-autonomous-transactions-report-11766977822447.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
-        "publishedAt": "2025-12-29T03:10:21Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
             "country": "in"
         }
     }
