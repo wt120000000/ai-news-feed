@@ -1,5 +1,37 @@
 [
     {
+        "id": "d9de3661b6080add376f93e621917ddf",
+        "title": "How a US startup is using AI to stop human trafficking",
+        "description": "Human trafficking networks are complex. But for more than a decade, artificial intelligence has helped one Pittsburgh startup unravel the complexity to spot trends that can help rescue victims and even prosecute those responsible for their exploitation.",
+        "content": "Human trafficking networks are complex.\nBut for more than a decade, artificial intelligence has helped one Pittsburgh startup unravel the complexity to spot trends that can help rescue victims and even prosecute those responsible for their exploitati... [4704 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2025/12/31/how-a-us-startup-is-using-ai-to-stop-human-trafficking",
+        "image": "https://apicms.thestar.com.my/uploads/images/2025/12/30/3696857.jpg",
+        "publishedAt": "2025-12-31T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "340cfca13e8911c0bfee7d98fc2f5fea",
+        "title": "Many in favour of AI being used to create new work from musicians who have died",
+        "description": "More than half of UK adults are in favour of artificial intelligence (AI) being used to create new music from musicians who have died, such as John Lennon, Elvis Presley and Freddie Mercury, research has found.",
+        "content": "More than half of UK adults are in favour of artificial intelligence (AI) being used to create new music from musicians who have died, such as John Lennon, Elvis Presley and Freddie Mercury, research has found.\nThe findings from the Royal Philharmoni... [255 chars]",
+        "url": "https://www.belfasttelegraph.co.uk/entertainment/news/many-in-favour-of-ai-being-used-to-create-new-work-from-musicians-who-have-died/a355193664.html",
+        "image": "https://focus.belfasttelegraph.co.uk/thumbor/uCFoFwrE-vm0znGczdW9Y9h2YAg=/0x795:3480x3115/629x0/prod-mh-ireland/ef6df529-acc1-4dfd-b123-eacd53aca5f2/c25745be-34e0-4c98-b5cd-eda2107fa381/3d0b67c8-4f21-4dc3-8e6a-3cdaec3038fd.jpg",
+        "publishedAt": "2025-12-31T02:50:08Z",
+        "lang": "en",
+        "source": {
+            "id": "a1dd1cfddd85ce2d4ada87bc9f6a9d43",
+            "name": "Belfast Telegraph",
+            "url": "https://www.belfasttelegraph.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "a49b7fb13fd39fab84fbbabbbb92f732",
         "title": "We cannot afford any complacency: Even a new year free of shake-ups would test our resolve",
         "description": "In a world shaken up by tariffs, wars and artificial intelligence (AI), India’s economy fared remarkably well in 2025. The public policy response was sharp, but the private sector must ask itself why it was largely missing in action. It’s time for Corporate India to step up and show determination.",
@@ -125,38 +157,6 @@
             "name": "Newsmax",
             "url": "https://www.newsmax.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "31076a65b36ce5cd5d27be8d8a2e0904",
-        "title": "Elon Musk's xAI Buys Third Building To Expand AI Compute Power",
-        "description": "Elon Musk said on Tuesday his artificial intelligence startup xAI has bought a third building to expand its infrastructure, aiming to boost training capacity to nearly 2 gigawatts of compute power.",
-        "content": "Elon Musk said on Tuesday his artificial intelligence startup xAI has bought a third building to expand its infrastructure, aiming to boost training capacity to nearly 2 gigawatts of compute power.\nThe latest expansion underscores xAI's ambitious pus... [1217 chars]",
-        "url": "https://www.ndtv.com/world-news/elon-musks-xai-buys-third-building-to-expand-ai-compute-power-10120113",
-        "image": "https://c.ndtvimg.com/2025-12/17l79et8_-elon-musk_625x300_21_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2025-12-30T23:54:45Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "2ad8d4c670916dfe4bf395adbe0dac05",
-        "title": "AI wants your job! Positions that are at risk in 2026 - the big tech takeover",
-        "description": "Artificial intelligence has advanced so rapidly, it has already started to reshape employment and education worldwide. Experts predict major headway in task…",
-        "content": "Artificial intelligence has advanced so rapidly, it has already started to reshape employment and education worldwide. Experts predict major headway in task automation by 2026, directly affecting specific roles and educational choices. Reports highli... [5402 chars]",
-        "url": "https://euroweeklynews.com/2025/12/31/ai-wants-your-job-positions-that-are-at-risk-in-2026-the-big-tech-takeover/",
-        "image": "https://cdn.euroweeklynews.com/wp-content/uploads/2025/12/597391157_1469963411796226_3309403570175178354_n-2-e1767138441563.jpg",
-        "publishedAt": "2025-12-30T23:52:08Z",
-        "lang": "en",
-        "source": {
-            "id": "49a7f1ba9210f605feb836064eb8351e",
-            "name": "Euro Weekly News",
-            "url": "https://euroweeklynews.com",
-            "country": "es"
         }
     }
 ]
