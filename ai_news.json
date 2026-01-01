@@ -1,5 +1,37 @@
 [
     {
+        "id": "90afac8a8cd4665d92748e1b07dfcec7",
+        "title": "Should artificial intelligence be used in job recruitment?",
+        "description": "The use of AI in recruitment is on the rise, with almost two thirds of Australian organisations believed to be using the technology in their job hiring processes. There are growing concerns over the risks of discrimination.",
+        "content": "The use of AI in recruitment is on the rise, with almost two thirds of Australian organisations believed to be using the technology in their job hiring processes. There are growing concerns over the risks of discrimination.\nListen to Australian and w... [5859 chars]",
+        "url": "https://www.sbs.com.au/news/podcast-episode/should-artificial-intelligence-be-used-in-job-recruitment/qcbd4zrqq",
+        "image": "https://images.sbs.com.au/dims4/default/27f8b2e/2147483647/strip/true/crop/3024x1701+0+1166/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Ff8%2F46%2F7008391147ca915fea8332f22b3e%2Fsisterworks-ceo-ifrin-fittock-and-program-participant-fatemeh-zahra-hazrati-supplied.jpeg",
+        "publishedAt": "2025-12-31T20:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "94466d37d8c67a438250646866df36df",
+            "name": "SBS Australia",
+            "url": "https://www.sbs.com.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "5304d4fbd132bd4d6440537e2069310e",
+        "title": "Maryland looks to AI as SNAP rules tighten",
+        "description": "(The Center Square) – Maryland officials say they are exploring how artificial intelligence could be used to support parts of the state’s food assistance",
+        "content": "The effort is being led by the Maryland Department of Human Services, along with the Maryland Department of Health, Maryland Benefits and the Maryland Health Benefit Exchange, as part of a multi-state project. State officials said the work will invol... [1934 chars]",
+        "url": "https://www.washingtonexaminer.com/news/4379172/maryland-looks-to-ai-as-snap-rules-tighten/",
+        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/09/wex_yoast_1200_v4.png?resize=1200,683",
+        "publishedAt": "2025-12-31T19:34:58Z",
+        "lang": "en",
+        "source": {
+            "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+            "name": "Washington Examiner",
+            "url": "https://www.washingtonexaminer.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "3a057089ea73461758e2ae3fde4fd9d4",
         "title": "The Faith of the Tech Elite",
         "description": "Do moguls like Masayoshi Son, Sam Altman, and Larry Ellison actually believe Artificial Super Intelligence is imminent?",
@@ -125,38 +157,6 @@
             "name": "The Financial Express",
             "url": "https://www.financialexpress.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "767366e6b6f9df071162309edfa49e00",
-        "title": "Xi Touts China's AI, Chip Wins In Triumphant New Year's Speech",
-        "description": "President Xi Jinping highlighted China’s achievements in artificial intelligence and the chip industry in a triumphant New Year’s Eve speech as he called for more confidence in the country’s development path in the year ahead. “China has become one of the world’s fastest-rising economies in terms of innovative capacity,” he declared in a televised address on Wednesday beamed to the nation’s 1.4 billion people.",
-        "content": "President Xi Jinping highlighted China’s achievements in artificial intelligence and the chip industry in a triumphant New Year’s Eve speech as he called for more confidence in the country’s development path in the year ahead.\n“China has become one o... [4719 chars]",
-        "url": "https://www.ndtvprofit.com/global-economics/xi-touts-chinas-ai-chip-wins-in-triumphant-new-years-speech",
-        "image": "https://media.assettype.com/bloombergquint%2F2025-12-31%2Flothkrf2%2F446969821.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2025-12-31T16:42:32Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "db52f77a3fd69e23880c1d31225d1476",
-        "title": "Brookfield to start cloud business amid AI frenzy, The Information reports",
-        "description": "Dec 31 (Reuters) - Brookfield is ‌starting its own cloud business to lease chips inside ‌data centers directly to artificial intelligence developers, The Information reported ‌on Wednesday, in a bid to gain end-to-end control of the AI value chain.",
-        "content": "Dec 31 (Reuters) - Brookfield is ‌starting its own cloud business to lease chips inside ‌data centers directly to artificial intelligence developers, The Information reported ‌on Wednesday, in a bid to gain end-to-end control of the AI value chain.\nT... [1493 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/01/01/brookfield-to-start-cloud-business-amid-ai-frenzy-the-information-reports",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/01/01/3699180.jpg",
-        "publishedAt": "2025-12-31T16:24:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
