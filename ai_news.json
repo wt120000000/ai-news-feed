@@ -1,5 +1,21 @@
 [
     {
+        "id": "b2121dc4389865654efa0db3209c075a",
+        "title": "First AI-generated song in Sindhi language released",
+        "description": "HYDERABAD   -   Artificial intelligence (AI) technology has made an important breakthrough in the field of Sindhi music, with the first-ever",
+        "content": "HYDERABAD - Artificial intelligence (AI) technology has made an important breakthrough in the field of Sindhi music, with the first-ever AI-generated song in the Sindhi language having been produced. The song has been created by senior cartoonist and... [550 chars]",
+        "url": "https://www.nation.com.pk/03-Jan-2026/first-ai-generated-song-sindhi-language-released",
+        "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+        "publishedAt": "2026-01-02T19:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+            "name": "The Nation",
+            "url": "https://www.nation.com.pk",
+            "country": "pk"
+        }
+    },
+    {
         "id": "32efe044c9926b90f179871572e82131",
         "title": "What Has BigBear.AI Been Up To?",
         "description": "BigBear.ai recently acquired Ask Sage, a generative artificial intelligence platform with agentic AI capabilities.",
@@ -141,22 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "f3ce1733224d4935d962b8ad2b372bbc",
-        "title": "Elon Musk chatbot Grok notes safeguard lapses",
-        "description": "Elon Musk’s xAI artificial intelligence chatbot Grok said on Friday lapses in safeguards had resulted in “images depicting minors in minimal clothing” on social media platform X and that improvements were being made to prevent this.",
-        "content": "Elon Musk’s xAI artificial intelligence chatbot Grok said on Friday lapses in safeguards had resulted in “images depicting minors in minimal clothing” on social media platform X and that improvements were being made to prevent this.\nScreenshots share... [936 chars]",
-        "url": "https://www.bnnbloomberg.ca/business/technology/2026/01/02/grok-says-safeguard-lapses-led-to-images-of-minors-in-minimal-clothing-on-x/",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/64HGX6HX7ZEUBCPG4L5BCMS4VI.JPG?smart=true&auth=47349e5d9b23e8ddec2a0b4ba638d47ce83babc4cb80ab2731b1f9273b4f4d6d&width=1200&height=630",
-        "publishedAt": "2026-01-02T16:15:25Z",
-        "lang": "en",
-        "source": {
-            "id": "1b697445987e8a33f6c82842e17d60d9",
-            "name": "Bnn Bloomberg",
-            "url": "https://www.bnnbloomberg.ca",
-            "country": "ca"
         }
     }
 ]
