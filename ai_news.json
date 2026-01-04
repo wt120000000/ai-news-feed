@@ -1,5 +1,21 @@
 [
     {
+        "id": "a53686a4e7b843f253b8f047b883b954",
+        "title": "Editorial: AI is changing the job hunt",
+        "description": "Artificial intelligence is everywhere. The technology is being used to refine medicine, science, business and industry. At the same time, concerns about how fast AI is evolving — and what that means for jobs, the environment and daily life — are growing. In Springdale and other communities, those concerns are",
+        "content": "Artificial intelligence is everywhere.\nThe technology is being used to refine medicine, science, business and industry. At the same time, concerns about how fast AI is evolving — and what that means for jobs, the environment and daily life — are grow... [2867 chars]",
+        "url": "https://triblive.com/opinion/editorial-ai-is-changing-the-job-hunt/",
+        "image": "https://assets-varnish.triblive.com/2026/01/9171147_web1_vnd-AIJobHunting-122125.jpg",
+        "publishedAt": "2026-01-04T06:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "b1fa63410571207862faad9daf9b4527",
+            "name": "Pittsburgh Tribune-Review",
+            "url": "https://triblive.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d364ae0b662414a2a0dd7540fd88f886",
         "title": "Even the sky may not be the limit for AI data centers",
         "description": "SAN FRANCISCO – If the architects of the artificial intelligence boom are right, it is only a matter of time before data centers – the giant computing facilities that power AI – will float in orbit and be visible in the night sky like planets.",
@@ -141,22 +157,6 @@
             "name": "The Motley Fool Australia",
             "url": "https://www.fool.com.au",
             "country": "au"
-        }
-    },
-    {
-        "id": "a8986848660344596de5b0c9d3b50a10",
-        "title": "GIMS starts state’s first govt AI clinic in Noida to treat critical illnesses",
-        "description": "Noida: Govt Institute of Medical Sciences (GIMS) in Kasna has launched a clinic that will use artificial intelligence and genetic screening to detect .",
-        "content": "Noida: Govt Institute of Medical Sciences (GIMS) in Kasna has launched a clinic that will use artificial intelligence and genetic screening to detect and treat serious diseases such as cancer and heart, kidney and liver ailments at an early stage. Of... [1518 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/noida/gims-starts-states-first-govt-ai-clinic-in-noida-to-treat-critical-illnesses/articleshow/126326912.cms",
-        "image": "https://static.toiimg.com/thumb/msid-117514723,width-1070,height-580,imgsize-95595,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-        "publishedAt": "2026-01-03T22:09:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
