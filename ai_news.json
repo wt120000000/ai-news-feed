@@ -1,5 +1,21 @@
 [
     {
+        "id": "105858771f9970cef688414d06cb65b9",
+        "title": "How artificial intelligence became real estate's new secret weapon",
+        "description": "Across the US, real estate agents are weaving AI into almost every aspect of the job, and the technology is reshaping the industry faster than many expected.",
+        "content": "CRANBERRY TOWNSHIP: Coldwell Banker agent Georgie Smigel used to spend hours digging through spreadsheets and old inquiry lists trying to figure out who might be interested in a new listing.\nNow she simply asks her artificial intelligence software wh... [5438 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/01/04/how-artificial-intelligence-became-real-estate039s-new-secret-weapon",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/01/02/3701443.jpg",
+        "publishedAt": "2026-01-04T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "9551ce68e3e03cb48e550f73f43feeda",
         "title": "Pkl police to get AI training, modern tools",
         "description": "Panchkula: In a major push towards tech-driven policing, Panchkula police will soon undergo training in artificial intelligence (AI) applications, adv.",
@@ -141,22 +157,6 @@
             "name": "SBS Australia",
             "url": "https://www.sbs.com.au",
             "country": "au"
-        }
-    },
-    {
-        "id": "fe1448a1f02b090ecdd1d7e41e65d367",
-        "title": "Asia factory activity ends 2025 on firmer footing",
-        "description": "Euro zone manufacturing activity shrank further in December but Asia’s factory powerhouses closed 2025 on a firmer footing backed by a rebound in export orders and growing demand for artificial intelligence, private surveys showed.",
-        "content": "Euro zone manufacturing activity shrank further in December but Asia's factory powerhouses closed 2025 on a firmer footing backed by a rebound in export orders and growing demand for artificial intelligence, private surveys showed.\nFactory activity i... [3889 chars]",
-        "url": "https://www.thedailystar.net/business/global-economy/news/asia-factory-activity-ends-2025-firmer-footing-4072481",
-        "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/images/2026/01/04/asia-factory.jpg",
-        "publishedAt": "2026-01-03T18:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1372a9fd77f0fff4a3c189f9c23179cd",
-            "name": "The Daily Star",
-            "url": "https://www.thedailystar.net",
-            "country": "bd"
         }
     }
 ]
