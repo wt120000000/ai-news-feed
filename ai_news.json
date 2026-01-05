@@ -1,5 +1,69 @@
 [
     {
+        "id": "d596ed45d9dffd324252cf72d60253eb",
+        "title": "AI is guzzling water and power. Here’s what we can do about it",
+        "description": "Science News: Artificial intelligence is easily the most deceptive technological innovation of the 21st century. Its ease of use and the lightning-fast reflexes wit.",
+        "content": "Artificial intelligence is easily the most deceptive technological innovation of the 21st century. Its ease of use and the lightning-fast reflexes with which it spits out responses belie its enormous appetite for water and energy. ChatGPT took the wo... [3361 chars]",
+        "url": "https://timesofindia.indiatimes.com/science/ai-is-guzzling-water-and-power-heres-what-we-can-do-about-it/articleshow/126343602.cms",
+        "image": "https://static.toiimg.com/thumb/msid-126343731,width-1070,height-580,imgsize-95148,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+        "publishedAt": "2026-01-05T03:23:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "ae04e3699ccaf3d1cc14a0d48da9b1f2",
+        "title": "Exclusive-Samsung to double mobile devices powered by Google's Gemini to 800 million units this year",
+        "description": "SEOUL, Jan 5 (Reuters) - Samsung Electronics plans to double this ‌year the number of its mobile devices with AI features powered by Google's Gemini, its co-CEO said, which would give the U.S. firm ‌an edge over rivals as the global race in artificial intelligence hots up.",
+        "content": "SEOUL, Jan 5 (Reuters) - Samsung Electronics plans to double this ‌year the number of its mobile devices with AI features powered by Google's Gemini, its co-CEO said, which would give the U.S. firm ‌an edge over rivals as the global race in artificia... [3596 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/01/05/exclusive-samsung-to-double-mobile-devices-powered-by-google039s-gemini-to-800-million-units-this-year",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/01/05/3704710.jpg",
+        "publishedAt": "2026-01-05T03:14:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "5ddb05a734f5a0d52a5b307b2f4f99a4",
+        "title": "Exclusive: Samsung to double mobile devices powered by Google's Gemini to 800 mln units this year",
+        "description": "Samsung Electronics plans to double this year the number of its mobile devices with AI features powered by Google's Gemini, its co-CEO said, which would give the U.S. firm an edge over rivals as the global race in artificial intelligence hots up.",
+        "content": "SEOUL, Jan 5 (Reuters) - Samsung Electronics plans to double this year the number of its mobile devices with AI features powered by Google's Gemini, its co-CEO said, which would give the U.S. firm an edge over rivals as the global race in artificial ... [2812 chars]",
+        "url": "https://www.reuters.com/world/china/samsung-double-mobile-devices-powered-by-googles-gemini-800-mln-units-this-year-2026-01-05/",
+        "image": "https://www.reuters.com/resizer/v2/SQHKADCGHBNA3OJ5FAIRY33GNI.jpg?auth=940f73d83d4fdbd10dafcc2a13ecd8e42be4f6ea4740ea0640b3f071580200aa&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-01-05T03:03:32Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7cbe0206ba85d74aff754afeaf7b4c1a",
+        "title": "Big Tech's fast-expanding plans for data centres are running into stiff community opposition",
+        "description": "Tech companies and developers looking to plunge billions of dollars into ever-bigger data centres to power artificial intelligence and cloud computing are increasingly losing fights in communities where people don't want to live next to them, or even near them.",
+        "content": "SPRING CITY, Pennsylvania: Tech companies and developers looking to plunge billions of dollars into ever-bigger data centres to power artificial intelligence and cloud computing are increasingly losing fights in communities where people don’t want to... [6635 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/01/05/big-tech039s-fast-expanding-plans-for-data-centres-are-running-into-stiff-community-opposition",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/01/05/3704556.jpg",
+        "publishedAt": "2026-01-05T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "771f21daff075870397defdab04d935b",
         "title": "Sprawling CES gadgetfest a world stage for AI and its hype",
         "description": "Dreams about the vast potential of artificial intelligence will collide with cold, hard reality as the Consumer Electronics Show kicks off in Las Vegas on Jan 6.",
@@ -93,70 +157,6 @@
             "name": "USA Herald",
             "url": "https://usaherald.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "ebfd4b57082594091f230d58f11564e3",
-        "title": "AI, chips boom sent Korean exports soaring",
-        "description": "SEAOL—Soaring global demand for semiconductors fueled by a boom in artificial intelligence sent South Korea’s exports to their highest-ever level in 2025,",
-        "content": "SEAOL—Soaring global demand for semiconductors fueled by a boom in artificial intelligence sent South Korea’s exports to their highest-ever level in 2025, official data showed Thursday.\nTotal exports last year were valued at over $700 billion, accord... [836 chars]",
-        "url": "https://manilastandard.net/business/314687567/ai-chips-boom-sent-korean-exports-soaring.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/06/generative-artificial-intelligence.jpg",
-        "publishedAt": "2026-01-04T17:50:00Z",
-        "lang": "en",
-        "source": {
-            "id": "e9207083a357fb7e76b38e485888ebe7",
-            "name": "manilastandard.net",
-            "url": "https://manilastandard.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "eff3878a087e912bde3d2b2f451a9c08",
-        "title": "Artificial intelligence the tip of the iceberg, students must be future",
-        "description": "Artificial intelligence the tip of the iceberg, students must be future-ready: Assam CM - Guwahati, Jan 4 Describing the sweeping changes brought about by artificial intelligence and machine learning as merely “the ... Get Latest News on National only on lokmattimes.com",
-        "content": "Guwahati, Jan 4 Describing the sweeping changes brought about by artificial intelligence and machine learning as merely “the tip of the iceberg,” Assam Chief Minister Himanta Biswa Sarma on Sunday cautioned students to stay vigilant and future-ready ... [2556 chars]",
-        "url": "https://www.lokmattimes.com/national/artificial-intelligence-the-tip-of-the-iceberg-students-must-be-future-ready-assam-cm/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601043628117_202601.jpg",
-        "publishedAt": "2026-01-04T17:06:18Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "22b0653c5b564b70726791bbc77291fe",
-        "title": "The ‘electronic nose’ inspired by dogs that sniff out cancer",
-        "description": "Scientists have struggled to apply dogs’ detection skills on a large scale in real-world medicine. A device that uses artificial intelligence may change that",
-        "content": "• What’s causing bowel cancer in the under-50s?\nScientists believe this could lay the foundation for a revolution in cancer detection. They have worked with the dogs to create an electronic version of a labrador’s nose, which has “the potential to sa... [4038 chars]",
-        "url": "https://www.thetimes.com/uk/healthcare/article/scientists-dogs-sniff-cancer-96ptwbrp9",
-        "image": "https://www.thetimes.com/imageserver/image/%2Faa449b40-54bd-4fff-9ac3-b25f23a5a8e3.jpg?crop=7008%2C3942%2C0%2C540&resize=1200",
-        "publishedAt": "2026-01-04T16:45:25Z",
-        "lang": "en",
-        "source": {
-            "id": "b419a989918b3665a34559f5047546b6",
-            "name": "The Sunday Times",
-            "url": "https://www.thetimes.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "038af92898c982b00b100281a889b307",
-        "title": "From ‘AI Slop’ to substance: Satya Nadella says 2026 will be a pivotal point for artificial intelligence",
-        "description": "In a new personal blog series titled “sn scratchpad,” Nadella argues that the next phase of AI development will be defined not by spectacle, but by outcomes. His first entry, “Looking Ahead to 2026,” lays out Microsoft’s thinking as AI moves from experimentation into everyday deployment.",
-        "content": "After a year dominated by debates over fake images, low-quality text, and the credibility of AI-generated content, the conversation around artificial intelligence is beginning to change. Microsoft CEO Satya Nadella believes the industry is at an infl... [3247 chars]",
-        "url": "https://www.businesstoday.in/technology/news/story/from-ai-slop-to-substance-satya-nadella-says-2026-will-be-a-pivotal-point-for-artificial-intelligence-509335-2026-01-04",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202601/695a9755adc73-nadella-argues-for-treating-ai-as-scaffolding-for-human-potential-rather-than-a-substitute-for-human-04373616-16x9.jpg",
-        "publishedAt": "2026-01-04T16:38:02Z",
-        "lang": "en",
-        "source": {
-            "id": "76a2f820b104591b97fed1b0932cec38",
-            "name": "Business Today",
-            "url": "https://www.businesstoday.in",
-            "country": "in"
         }
     }
 ]
