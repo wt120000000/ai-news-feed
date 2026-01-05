@@ -1,5 +1,21 @@
 [
     {
+        "id": "6aa1c2e77a09db89404f7f8a2420bc88",
+        "title": "American billionaire who predicts AI will replace 80% of doctors",
+        "description": "Trending News: Silicon Valley billionaire Vinod Khosla says the world is coming closer to a future where artificial intelligence does most of the work done by doctor.",
+        "content": "In an inspiring vision, tech visionary Vinod Khosla believes that artificial intelligence will transform healthcare, enabling machines to take over diagnostics and decision-making tasks, allowing physicians to devote more time to compassionate patien... [2401 chars]",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/meet-vinod-khosla-indian-american-billionaire-who-predicts-ai-will-replace-80-of-doctors/articleshow/126342134.cms",
+        "image": "https://static.toiimg.com/thumb/msid-126342134,width-1070,height-580,imgsize-693127,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+        "publishedAt": "2026-01-05T00:21:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "253ea39c584086a98738b7efb9d2c3dc",
         "title": "Sprawling CES gadgetfest a world stage for AI and its hype",
         "description": "Dreams about the vast potential of artificial intelligence will collide with cold, hard reality as the Consumer Electronics Show kicks off in Las Vegas on Tuesday. Science fiction portrays AI as superintelligence that can operate faster and better than people can, and do it autonomously. However, the technology for now…",
@@ -141,22 +157,6 @@
             "name": "Albuquerque Journal",
             "url": "https://www.abqjournal.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "23d3be5e7588fa065afab61df20305c6",
-        "title": "Is the AI boom a bubble waiting to pop? Here's what history says",
-        "description": "As the artificial intelligence trade continues to push the stock market to new highs, investors are increasingly asking if we’re living through another financial bu…",
-        "content": "Article content\n(Bloomberg) — As the artificial intelligence trade continues to push the stock market to new highs, investors are increasingly asking if we’re living through another financial bubble that’s destined to burst.\nTHIS CONTENT IS RESERVED ... [4580 chars]",
-        "url": "https://calgaryherald.com/pmn/business-pmn/is-the-ai-boom-a-bubble-waiting-to-pop-heres-what-history-says/wcm/ced2cd7c-fa01-4dc9-8569-346d86e14b73",
-        "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/01/the-ai-rally-already-outlasts-many-bubbles-in-history.jpg",
-        "publishedAt": "2026-01-04T14:25:48Z",
-        "lang": "en",
-        "source": {
-            "id": "f1bf32bc7d2c9750240a24442fde5232",
-            "name": "Calgary Herald",
-            "url": "https://calgaryherald.com",
-            "country": "ca"
         }
     }
 ]
