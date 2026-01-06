@@ -1,5 +1,21 @@
 [
     {
+        "id": "0a0de91c607174cf20dfecc815a32b7b",
+        "title": "Nvidia CEO Huang says next generation of chips is in full production",
+        "description": "Nvidia CEO Jensen Huang said on Monday that the company's next generation of chips is in full production, saying they can deliver five times the artificial-intelligence computing of the company's...",
+        "content": "LAS VEGAS, Jan 5 (Reuters) - Nvidia CEO Jensen Huang said on Monday that the company's next generation of chips is in \"full production,\" saying they can deliver five times the artificial-intelligence computing of the company's previous chips when ser... [3323 chars]",
+        "url": "https://www.marketscreener.com/news/nvidia-ceo-huang-says-next-generation-of-chips-is-in-full-production-ce7e59dedf80f52d",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-05T220947Z_1_LYNXMPEM0416L_RTROPTP_4_TECH-CES-NVIDIA.JPG",
+        "publishedAt": "2026-01-05T22:47:31Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "2535dcc91e38358ea048a0fb7c5f1ca6",
         "title": "Millions Use ChatGPT for Health Questions, OpenAI Says",
         "description": "More than 40 million Americans are turning to ChatGPT each day for health-related information, OpenAI reports, underscoring how rapidly artificial intelligence is becoming a go-to tool for people trying to navigate the U.S. healthcare system.",
@@ -140,22 +156,6 @@
             "id": "8fac888ae06647c3a7d6093c60c9d9b5",
             "name": "San Diego Union-Tribune",
             "url": "https://www.sandiegouniontribune.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "71c199b5a58080c9427759b25c4fe23f",
-        "title": "“Get Beyond the Arguments of Slop Vs. Sophistication”: Microsoft Stock (NASDAQ:MSFT) Gains in Support of AI",
-        "description": "“AI Slop” is a common phrase these days, generally leveled at creatives who put artificial intelligence (AI) to work in producing art, whether v...",
-        "content": "“AI Slop” is a common phrase these days, generally leveled at creatives who put artificial intelligence (AI) to work in producing art, whether visual or text-based. Given the investment that tech giant Microsoft (MSFT) has made in AI, it certainly do... [2538 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/get-beyond-the-arguments-of-slop-vs-sophistication-microsoft-stock-nasdaq-msft-gains-in-support-of-ai-1035685018",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/01/Screenshot-2026-01-05-at-13-28-32-Microsoft-MSFT-Stock-Forecast-Price-Targets-and-Analysts-Predictions-1024x755.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-01-05T18:31:37Z",
-        "lang": "en",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Markets Insider",
-            "url": "https://markets.businessinsider.com",
             "country": "us"
         }
     }
