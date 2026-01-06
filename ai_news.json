@@ -1,5 +1,21 @@
 [
     {
+        "id": "62a1c837cb962a29c4d34192df3262bc",
+        "title": "Next generation of chips in full production",
+        "description": "Nvidia chief executive Jensen Huang said the company's next generation of chips is in \"full production\", saying they can deliver five times the artificial-intelligence computing of the company's previous chips when serving up chatbots and other AI apps.",
+        "content": "Nvidia chief executive Jensen Huang said the company's next generation of chips is in \"full production\", saying they can deliver five times the artificial-intelligence computing of the company’s previous chips when serving up chatbots and other AI ap... [3889 chars]",
+        "url": "https://www.rte.ie/news/business/2026/0106/1551660-nvidia-ceo-address-at-ces/",
+        "image": "https://www.rte.ie/images/0023b373-1600.jpg",
+        "publishedAt": "2026-01-06T08:14:11Z",
+        "lang": "en",
+        "source": {
+            "id": "4c8b69bf547b577f84acbba5157b439c",
+            "name": "RTE.ie",
+            "url": "https://www.rte.ie",
+            "country": "ie"
+        }
+    },
+    {
         "id": "41288fb239ccd5bfecd3fe1d91420c13",
         "title": "Can AI Legally Turn $100,000 Into $1 Million? Microsoft AI CEO Mustafa Suleyman Says That's The Real Test Of Intelligence",
         "description": "Microsoft AI CEO Mustafa Suleyman says the modern test of artificial intelligence is not whether it can sound human but whether an AI agent can legally turn $100,000 into $1 million, as Big Tech intensifies its race toward AGI amid a fierce talent war.",
@@ -141,22 +157,6 @@
             "name": "The Hindu",
             "url": "https://www.thehindu.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "2f122d3dad3756dcb9aeceef80f5a053",
-        "title": "EU condemns Elon Musk's Grok over AI-generated sexualised images of minors",
-        "description": "The European Union is taking a \"very serious\" look at Elon Musk's Grok after the artificial intelligence-powered chatbot generated sexualised images of people including minors on the social media platform X.",
-        "content": "The European Union is taking a \"very serious\" look at Elon Musk's Grok after the artificial intelligence-powered chatbot generated sexualised images of people including minors on the social media platform X.\n\"We are aware of the fact that X or Grok i... [301 chars]",
-        "url": "https://www.independent.ie/business/world/eu-condemns-elon-musks-grok-over-ai-generated-sexualised-images-of-minors/a225365948.html",
-        "image": "https://focus.independent.ie/thumbor/aOA7Ox-TnkKm1xY5Vn9kKtUQ4kY=/0x37:3129x2123/629x0/prod-mh-ireland/66b26fbe-2f55-407f-94a3-1f4ff972b64c/6d2f84db-d5d1-4f1c-be62-d90566e4638b/66b26fbe-2f55-407f-94a3-1f4ff972b64c.jpg",
-        "publishedAt": "2026-01-06T05:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ead461b236347a41a0e3561761126583",
-            "name": "Independent.ie",
-            "url": "https://www.independent.ie",
-            "country": "ie"
         }
     }
 ]
