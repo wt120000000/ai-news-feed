@@ -1,5 +1,53 @@
 [
     {
+        "id": "3675e30f3a3644599c3409d428e4775c",
+        "title": "Elon Musk's xAI raises $20 billion in Nvidia-backed funding round",
+        "description": "Elon Musk's artificial intelligence startup xAI announced Tuesday it has raised $20 billion in its latest funding round",
+        "content": "Elon Musk's artificial intelligence startup xAI announced Tuesday it has raised $20 billion in its latest funding round, surpassing its initial $15 billion target as the company accelerates development of its Grok AI models.\nFounded by Musk, xAI comp... [1631 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-xai-raises-20-billion-in-nvidia-backed-funding-round/article70480679.ece",
+        "image": "https://th-i.thgim.com/public/incoming/9gvuvb/article70480682.ece/alternates/LANDSCAPE_1200/2026-01-06T153352Z_1990038048_RC2NMDAK2G6T_RTRMADP_3_XAI-GROK-BRITAIN.JPG",
+        "publishedAt": "2026-01-07T04:17:05Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "3a27716b559a3e08a24eee3d0087a300",
+        "title": "The Rise of Intelligent Greenhouses Using IoT, AI, and Robotics for Sustainable Farming",
+        "description": "The review shows that smart greenhouses using IoT, artificial intelligence, and robotics can greatly improve crop yields, resource efficiency, and sustainability by enabling real-time monitoring, intelligent decision-making, and automation. However, widespread adoption is still limited by high costs, data gaps, and weak integration between these technologies, pointing to the need for simpler and more scalable solutions.",
+        "content": "This review, produced by researchers from Sultan Qaboos University in Oman, spanning the Department of Soils, Water, and Agricultural Engineering, the Remote Sensing and GIS Research Center, and the Department of Mechanical and Industrial Engineering... [4275 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3750975-the-rise-of-intelligent-greenhouses-using-iot-ai-and-robotics-for-sustainable-farming",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/06_01_2026_13_55_39_1632962.png?width=920&format=jpeg",
+        "publishedAt": "2026-01-07T03:59:05Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "179fffe74b76b163de842b0b4137c4c7",
+        "title": "Lenovo expands AI push with Nvidia tie-up, unveils Qira personal AI platform",
+        "description": "Lenovo has announced a strategic partnership with Nvidia to speed up the deployment of AI data centres, alongside unveiling Qira, a personal AI platform designed to work across Lenovo and Motorola devices, as the company ramps up its artificial intelligence ambitions at CES in Las Vegas.",
+        "content": "China’s Lenovo,, the world’s largest personal computer maker, on Tuesday said it has teamed up with U.S. AI chip leader Nvidia to help AI cloud providers quickly put data centres into operation, as it strives to establish itself in AI. The technology... [429 chars]",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/lenovo-expands-ai-push-with-nvidia-tie-up-unveils-qira-personal-ai-platform-10459456/",
+        "image": "https://images.indianexpress.com/2026/01/Nvidia.jpg",
+        "publishedAt": "2026-01-07T03:47:21Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "462780c4d4b115b0b1cd4ea44ccfd44d",
         "title": "Elon Musk’s xAI closes $20 billion funding with Nvidia backing",
         "description": "The Qatar Investment Authority, Valour Equity Partners, Nvidia Corp., and other investors concluded a $20 billion investment round for Elon Musk's artificial intelligence business, xAI.",
@@ -109,54 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "b3fe2cbe7a2e9d92522a1c9607527e2a",
-        "title": "The best (and weirdest) tech at CES 2026",
-        "description": "The Consumer Electronics Show is a place where robots roam free, TVs tower over footsore onlookers, and artificial intelligence lurks around every corner.",
-        "content": "Here’s what has stood out from the crowd so far.\nThe ride-booking giant’s road to robotaxis has been a complicated one: An early Uber self-driving test vehicle killed a pedestrian in 2018. The company sold off its autonomous driving project in 2020 a... [4554 chars]",
-        "url": "https://www.bostonglobe.com/2026/01/06/business/ces-best-and-weirdest/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/ZYELHMR5FBEARAXMXNJJIDZUUA.jpg?auth=171d04dff4affa53a3f168c225188aaf95d287fd293420bce46d33e09907e3b5&width=1440",
-        "publishedAt": "2026-01-07T02:20:59Z",
-        "lang": "en",
-        "source": {
-            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-            "name": "The Boston Globe",
-            "url": "https://www.bostonglobe.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "cfa3c48dd04cfb6bcdaabd95117640ef",
-        "title": "Elon Musk’s xAI raises $20 billion to expand data centers and research",
-        "description": "Elon Musk’s artificial intelligence startup xAI has raised $20 billion from investors, a funding round that could value the company above $230 billion and deepen the intensifying race to build the world’s most powerful AI systems.",
-        "content": "The company said it would use the funding to “expand its decisive compute advantage” as it built data centers to power its technology and to “fuel groundbreaking research.”\nThe funding is part of a frenzy over AI companies, with investors plowing eno... [2116 chars]",
-        "url": "https://indianexpress.com/article/technology/elon-musks-xai-raises-20-billion-to-expand-data-centers-and-research-10459379/",
-        "image": "https://images.indianexpress.com/2025/12/musk_20251201083048.jpg",
-        "publishedAt": "2026-01-07T02:20:45Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c1d0d6abc6e6ae56299c7a59a10e9c41",
-        "title": "AI assistant Grok under fire for generating fake nude images of public figures",
-        "description": "X’s artificial intelligence assistant, Grok, is facing trouble after reportedly generating fake nude or revealing images of public figures, including British ro",
-        "content": "X’s artificial intelligence assistant, Grok, is facing trouble after reportedly generating fake nude or revealing images of public figures, including British royal Kate Middleton.\nGrok had a rocky start in November 2023, when reports emerge that the ... [1747 chars]",
-        "url": "https://foxbaltimore.com/news/nation-world/ai-assistant-grok-under-fire-for-generating-fake-nude-images-of-public-figures",
-        "image": "https://foxbaltimore.com/resources/media2/16x9/5744/1320/0x350/90/9eb753d0-6645-4e3c-b5af-5a9f6c3a87f2-GettyImages2224118122.jpg",
-        "publishedAt": "2026-01-07T02:16:09Z",
-        "lang": "en",
-        "source": {
-            "id": "9f53afb019d44feb16bcc7da150e679a",
-            "name": "Baltimore News",
-            "url": "https://foxbaltimore.com",
-            "country": "us"
         }
     }
 ]
