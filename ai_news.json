@@ -1,5 +1,69 @@
 [
     {
+        "id": "b586224e514d6e5ce8166ed94a39f2b5",
+        "title": "Regulating AI in the Real World: Why Capacity Building Matters More Than Rules",
+        "description": "UNESCO’s report argues that artificial intelligence cannot be governed with traditional, one-time regulatory checks, and that supervisory authorities must instead build continuous, learning-based institutions capable of interpreting AI behaviour in real-world contexts. It concludes that capacity building, through tools like observatory units, monitoring systems, and regulatory sandboxes is the key to making AI oversight effective, trustworthy, and aligned with public values.",
+        "content": "An UNESCO report, \"Pathways on Capacity Building for AI Supervisory Authorities,\" was produced by UNESCO in partnership with the Dutch Authority for Digital Infrastructure (RDI), with financial support from the European Union’s Technical Support Inst... [5237 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3763092-regulating-ai-in-the-real-world-why-capacity-building-matters-more-than-rules",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/08_01_2026_10_06_24_1582435.png?width=920&format=jpeg",
+        "publishedAt": "2026-01-09T04:06:32Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "d5afa6c2022dd9e3f14a31ab6ee94d7f",
+        "title": "From Strategy to Safeguards: Assessing Vietnam’s Readiness for Ethical AI Adoption",
+        "description": "Vietnam is rapidly embracing artificial intelligence as a core driver of economic growth and digital transformation, backed by strong political commitment, expanding research capacity, and growing adoption across sectors. However, UNESCO’s assessment finds that gaps in binding AI governance, ethics enforcement, inclusion, talent development, and environmental safeguards must be addressed to ensure AI delivers fair, sustainable, and inclusive benefits for all.",
+        "content": "Vietnam is stepping decisively into the age of artificial intelligence, guided by a growing coalition of government agencies, research institutes, universities, and private firms. The UNESCO Artificial Intelligence Readiness Assessment Report is the ... [5018 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3763390-from-strategy-to-safeguards-assessing-vietnams-readiness-for-ethical-ai-adoption",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/08_01_2026_14_31_32_5665748.png?width=920&format=jpeg",
+        "publishedAt": "2026-01-09T04:06:26Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "ccbfe85778c03658b15edd55e10ad723",
+        "title": "‘Whoever wins AI war will lead the world’: Trump predicts ‘so many jobs we won’t have enough people’",
+        "description": "US President Donald Trump says artificial intelligence will create so many jobs that humans won’t be enough to fill them, predicting robots will step in as AI reshapes the global economy.",
+        "content": "While prominent figures in the tech world have warned about AI’s role in unemployment, US President Donald Trump said he believes artificial intelligence will create so many jobs that there won’t be enough people to fill them. He even suggested that ... [2657 chars]",
+        "url": "https://www.financialexpress.com/world-news/us-news/whoever-wins-ai-war-will-lead-the-world-trump-predicts-so-many-jobs-we-wont-have-enough-people/4101722/",
+        "image": "https://images.financialexpressdigital.com/2026/01/Trump-15.jpg?quality=100",
+        "publishedAt": "2026-01-09T04:01:45Z",
+        "lang": "en",
+        "source": {
+            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+            "name": "The Financial Express",
+            "url": "https://www.financialexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "a5a03b1b66aadda5a2644ddd792eed64",
+        "title": "Elon Musk's xAI quarterly net loss widens to $1.46 billion: Report",
+        "description": "Elon Musk’s ​artificial intelligence startup xAI reported ‌a net loss ​of $1.46 billion for the September quarter, compared with a loss of $1 billion in the previous three months, Bloomberg News reported",
+        "content": "Elon Musk’s ​artificial intelligence startup xAI reported ‌a net loss ​of $1.46 billion for the September quarter, compared with a loss of $1 billion in the previous three months, Bloomberg News reported on Thursday, citing internal ​documents.\nReven... [740 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-xai-quarterly-net-loss-widens-to-146-billion-report/article70489308.ece",
+        "image": "https://th-i.thgim.com/public/incoming/p9zezc/article70489310.ece/alternates/LANDSCAPE_1200/2026-01-07T230419Z_1101899995_RC2PVCA4ERWO_RTRMADP_3_MUSK-OPENAI-COURT.JPG",
+        "publishedAt": "2026-01-09T03:53:50Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "88a44063b388c8c806162acc6ef3246b",
         "title": "Google adds new AI features to Gmail, turning it into a personal assistant",
         "description": "More artificial intelligence is being implanted into Gmail as Google tries to turn the world's most popular email service into a personal assistant that can improve writing, summarize far-flung information buried in inboxes and deliver daily to-do lists.",
@@ -93,70 +157,6 @@
             "name": "Australian Financial Review",
             "url": "https://www.afr.com",
             "country": "au"
-        }
-    },
-    {
-        "id": "23b32497e01f95609bbbe5a568bca6e0",
-        "title": "AI-Driven Future Innovation Experience -- TCL Showcases Microsoft AI-Powered Smart Terminals at CES 2026",
-        "description": "LAS VEGAS, Jan. 9, 2026 /PRNewswire/ -- At CES 2026, TCL unveiled a range of smart terminal products featuring artificial intelligence technologies, spanning smart displays, mobile devices, wearables, and smart home appliances. TCL is actively integrating capabilities from multiple AI technology partners, including Microsoft, to accelerate AI innovation and multi-scenario applications, delivering more efficient and convenient experiences for users worldwide.",
-        "content": "LAS VEGAS, Jan. 9, 2026 /PRNewswire/ -- At CES 2026, TCL unveiled a range of smart terminal products featuring artificial intelligence technologies, spanning smart displays, mobile devices, wearables, and smart home appliances. TCL is actively integr... [3435 chars]",
-        "url": "https://www.manilatimes.net/2026/01/09/tmt-newswire/pr-newswire/ai-driven-future-innovation-experience-tcl-showcases-microsoft-ai-powered-smart-terminals-at-ces-2026/2255862",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/09/893400.jpg",
-        "publishedAt": "2026-01-09T02:07:21Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "80601b896057e748e5f0468bd35c2f5e",
-        "title": "China AI firm MiniMax soars 50% in Hong Kong debut",
-        "description": "Chinese artificial intelligence model developer MiniMax Group jumped 50% in its Hong Kong market debut on Friday after raising HK$4.8 billion .\nFounded in early 2022 by former SenseTime...",
-        "content": "SINGAPORE/HONG KONG, Jan 9 (Reuters) - Chinese artificial intelligence model developer MiniMax Group jumped 50% in its Hong Kong market debut on Friday after raising HK$4.8 billion ($620 million).\nFounded in early 2022 by former SenseTime executive Y... [530 chars]",
-        "url": "https://www.marketscreener.com/news/china-ai-firm-minimax-soars-50-in-hong-kong-debut-ce7e59d2d988ff27",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-12/2025-12-15T090241Z_1_LYNXMPELBE0FC_RTROPTP_4_HASHKEY-IPO.JPG",
-        "publishedAt": "2026-01-09T01:59:16Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "7e30fd3d69f465cbd1b34bb9056c92b1",
-        "title": "SEC Official Says Investment Advisors Can Use AI For Proxy Votes",
-        "description": "Investment advisers can use artificial intelligence to help them make proxy voting decisions, a Securities and Exchange Commission official said.",
-        "content": "Investment advisers can use artificial intelligence to help them make proxy voting decisions, a Securities and Exchange Commission official said.\n“As advisers grapple with the scale and complexity of proxy voting — especially across large portfolios ... [2202 chars]",
-        "url": "https://www.ndtvprofit.com/world/sec-official-says-investment-advisors-can-use-ai-for-proxy-votes",
-        "image": "https://media.assettype.com/bloombergquint%2F2026-01-09%2Ftzsyfg0t%2F447315892.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-        "publishedAt": "2026-01-09T01:53:18Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "07a1ba75b8d68c36c0f26c8ae5601590",
-        "title": "AI-Driven Future Innovation Experience -- TCL Showcases Microsoft AI-Powered Smart Terminals at CES 2026",
-        "description": "/PRNewswire/ -- At CES 2026, TCL unveiled a range of smart terminal products featuring artificial intelligence technologies, spanning smart displays, mobile...",
-        "content": "LAS VEGAS, Jan. 9, 2026 /PRNewswire/ -- At CES 2026, TCL unveiled a range of smart terminal products featuring artificial intelligence technologies, spanning smart displays, mobile devices, wearables, and smart home appliances. TCL is actively integr... [3840 chars]",
-        "url": "https://www.prnewswire.co.uk/news-releases/ai-driven-future-innovation-experience--tcl-showcases-microsoft-ai-powered-smart-terminals-at-ces-2026-302657000.html",
-        "image": "https://mma.prnewswire.com/media/2857940/AI_Driven_Future_Innovation_Experience___TCL_Showcases_Microsoft_AI_Powered_Smart_Terminals_at_CES_2.jpg?p=facebook",
-        "publishedAt": "2026-01-09T01:53:00Z",
-        "lang": "en",
-        "source": {
-            "id": "f4d035ae0463df22c36ae97972a33ba6",
-            "name": "PR Newswire UK",
-            "url": "https://www.prnewswire.co.uk",
-            "country": "gb"
         }
     }
 ]
