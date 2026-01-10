@@ -1,5 +1,37 @@
 [
     {
+        "id": "eaf96af7c407689108538037fb2e8d26",
+        "title": "Rewiring Democracy: ‘Citizen acceptance and trust in AI matters as much as AI capabilities’",
+        "description": "The authors’ excitement for artificial intelligence is infectious and their understanding affords a glimpse beyond the hazards",
+        "content": "The core message of this book is succinctly captured in one sentence on page 100: “citizen acceptance and trust in AI matters as much as AI capabilities”. There is a lot more covered in Rewiring Democracy that sits behind this statement – the fact th... [2147 chars]",
+        "url": "https://www.irishtimes.com/culture/books/review/2026/01/10/rewiring-democracy-citizen-acceptance-and-trust-in-ai-matters-as-much-as-ai-capabilities/",
+        "image": "https://www.irishtimes.com/resizer/v2/JEUYTKGH2WDWIW4T2EJJ2IRLBA.jpg?smart=true&auth=7793afe6f946b5fd80d1e3bfd720bd8c609e3a8a661a4ecc5c387b94872ff26d&width=1200&height=630",
+        "publishedAt": "2026-01-10T04:17:00Z",
+        "lang": "en",
+        "source": {
+            "id": "dd1d806725f45e4403e75c1bb23b447a",
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com",
+            "country": "ie"
+        }
+    },
+    {
+        "id": "96d714add1488980d20ed4dc140c755c",
+        "title": "AI steals the show at CES 2026: Innovations unveiled",
+        "description": "Discover how artificial intelligence powered everything from coffee makers to personalized scents and tennis robots at CES 2026. Read more at straitstimes.com.",
+        "content": "LAS VEGAS - Artificial intelligence (AI)\ntook over Consumer Electronics Show (CES) 2026\n, powering coffee machines to brew the perfect espresso, a device to create your perfect scent, and ball-hitting tennis robots that make you forget it is human ag... [2815 chars]",
+        "url": "https://www.straitstimes.com/world/united-states/brew-smell-and-serve-ai-steals-the-show-at-ces-2026",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b6aaaacc209338aa72927ef002e84f8a0b6ec82e4faf42b8a43f88829b127827",
+        "publishedAt": "2026-01-10T03:25:00Z",
+        "lang": "en",
+        "source": {
+            "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+            "name": "The Straits Times",
+            "url": "https://www.straitstimes.com",
+            "country": "sg"
+        }
+    },
+    {
         "id": "7a6328efa6f7dfeb1d4c02d20f693085",
         "title": "Meta Purchases Nuclear Power Energy for Its AI Infrastructure, Including Bill Gates' TerraPower",
         "description": "Meta has signed three new deals to purchase nuclear power energy for its artificial intelligence infrastructure.",
@@ -112,22 +144,6 @@
         }
     },
     {
-        "id": "db3a7d620a217e32ab5d74a97da51a65",
-        "title": "DOJ creates task force to challenge state AI regulations",
-        "description": "A new group within the Justice Department will target state artificial intelligence laws that it says hinder innovation, according to a memo.",
-        "content": "The Justice Department on Friday announced to employees it is creating an artificial intelligence taskforce to challenge state-level regulations so that AI companies can \"be free to innovate without cumbersome regulation,\" according to an internal me... [2119 chars]",
-        "url": "https://www.cbsnews.com/sacramento/news/doj-creates-task-force-to-challenge-state-ai-regulations/",
-        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/07/27/bf5aa47a-7a98-4f47-8935-90e580ac4255/thumbnail/1200x630g8/bf09c6d5a20199dcb0abd26df09829b5/gettyimages-2212809348-1.jpg",
-        "publishedAt": "2026-01-09T23:01:45Z",
-        "lang": "en",
-        "source": {
-            "id": "3a3847d645a619320aa3b3484581e395",
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com",
-            "country": "us"
-        }
-    },
-    {
         "id": "b082b7564f0ef2090bdeb39335aa793b",
         "title": "DOJ creates task force to challenge state AI regulations",
         "description": "A new group within the Justice Department will target state artificial intelligence laws that it says hinder innovation, according to a memo.",
@@ -141,22 +157,6 @@
             "name": "CBS News",
             "url": "https://www.cbsnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "641745b780281287acae6616a11e5a70",
-        "title": "Can AI Shape India's Next Leap in Human Development?",
-        "description": "Dr. Rahul Kundal rahulkundal@uok.edu.in As Artificial Intelligence (AI) reshapes industries and social systems, India stands at a critical juncture. Recognised as a future AI powerhouse and lauded for its human development progress, the country now faces an essential question: Will AI serve as an engine of inclusive growth, or will it widen the gaps we’ve struggled to narrow? The Human Development Report (HDR) 2025 highlights the urgency of this dilemma. It calls for a revived interest on human agency and […]",
-        "content": "Dr. Rahul Kundal\nrahulkundal@uok.edu.in\nAs Artificial Intelligence (AI) reshapes industries and social systems, India stands at a critical juncture. Recognised as a future AI powerhouse and lauded for its human development progress, the country now f... [5459 chars]",
-        "url": "https://www.dailyexcelsior.com/can-ai-shape-indias-next-leap-in-human-development/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/01/page6-1-1.jpg",
-        "publishedAt": "2026-01-09T22:53:54Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
         }
     }
 ]
