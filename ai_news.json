@@ -1,5 +1,37 @@
 [
     {
+        "id": "3daa5cba89baba78b7fffc65e85ea0cf",
+        "title": "AI toymakers urge caution at CES after chatbot teddy bear sparks alarm",
+        "description": "Toymakers at CES urged caution over AI-powered toys after a watchdog report found chatbot teddy bears giving sexual and violent advice, raising concerns over child safety, privacy, data sharing and the risks of unchecked generative artificial intelligence in playrooms.",
+        "content": "Amid the Grok controversy, and sudden glitches in the artificial intelligence sector, toy makers at the Consumer Electronics Show were adamant about being careful to ensure that their fun creations infused with generative artificial intelligence don’... [2154 chars]",
+        "url": "https://www.firstpost.com/tech/ai-toymakers-urge-caution-at-ces-after-chatbot-teddy-bear-sparks-alarm-13967562.html",
+        "image": "https://images.firstpost.com/uploads/2026/01/Untitled-design-65-2026-01-d7d94b191e3b1f3076b645ff3f89e515-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-01-11T06:15:44Z",
+        "lang": "en",
+        "source": {
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "a94545c95e5f3ce401acc75fcb1ba2d9",
+        "title": "Motley Fool: Microsoft for the long term",
+        "description": "Microsoft (Nasdaq: MSFT) is a ubiquitous brand in computing, and that works to its advantage in the age of artificial intelligence. Hundreds of millions of people use Microsoft Office and Windows-based software products, providing a large installed base of users to help pay back its AI investments.",
+        "content": "Microsoft (Nasdaq: MSFT) is a ubiquitous brand in computing, and that works to its advantage in the age of artificial intelligence. Hundreds of millions of people use Microsoft Office and Windows-based software products, providing a large installed b... [4017 chars]",
+        "url": "https://www.spokesman.com/stories/2026/jan/11/motley-fool-microsoft-for-the-long-term/",
+        "image": "https://thumb.spokesman.com/KD8g_4Yu4TRiGmss38JBN_vUeqU=/1200x630/smart/media.spokesman.com/photos/2026/01/08/68d43b6d20705.hires.jpg",
+        "publishedAt": "2026-01-11T06:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c8c865ed042eb14694b8d596e22efe99",
+            "name": "Spokane Spokesman-Review",
+            "url": "https://www.spokesman.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "1b753f284064debec87f307639ebea87",
         "title": "How Artificial Intelligence Is Changing the Way Small Businesses Operate",
         "description": "Technology has always shaped how businesses work. From computers to the internet to mobile apps every shift has changed daily operations. Today artificial intelligence is creating another major change. Unlike older tools AI does not just follow instructions. It learns from data and improves over time. This makes it especially useful for small businesses that […]",
@@ -124,38 +156,6 @@
             "id": "fd3677545b80d5db7541de8e111d27ba",
             "name": "Moneycontrol",
             "url": "https://www.moneycontrol.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "660ce627943fe361dd88acf0c189c931",
-        "title": "‘AI will change society the most’: Bill Gates issues stark warning about bioweapons, major job losses",
-        "description": "He said that although predictions about artificial general intelligence (AGI) keep getting delayed, AI progress will “not plateau before exceeding human levels”.",
-        "content": "Microsoft co-founder Bill Gates has raised concerns about how AI could be misused by bad actors to create dangerous bioweapons and how it could also threaten jobs. Gates shared these thoughts in his 2026 annual letter, where he also said he is still ... [2995 chars]",
-        "url": "https://www.financialexpress.com/artificial-intelligence/ai-will-change-society-the-most-bill-gates-issues-stark-warning-about-bioweapons-major-job-losses/4103459/",
-        "image": "https://images.financialexpressdigital.com/2026/01/diya-0001-2025-10-13T062651.222-2025-12-19T124949.225-2026-01-11T055843.889.jpg?quality=100",
-        "publishedAt": "2026-01-11T01:12:41Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "51564c83cac06ae807c85fd557117413",
-        "title": "Robot Assisted Surgery A Leap Into The Future Of Knee Replacement",
-        "description": "Dr Mohit Arora Knee replacement surgery is one of the most successful surgery of millennium, but due to early onset of arthritis, there was need for longlasting joint and better range of motion. Advancements in medical technology have transformed knee replacement surgery, making it more precise, predictable and patient-centric than ever before. Among these innovations, Artificial Intelligence, ROBOTIC-ASSISTED SYSTEMS have emerged as powerful tools that enhance surgical accuracy and improve long-term outcomes. Robotic systems further enhanced this precision, accuracy and […]",
-        "content": "Dr Mohit Arora\nKnee replacement surgery is one of the most successful surgery of millennium, but due to early onset of arthritis, there was need for longlasting joint and better range of motion.\nAdvancements in medical technology have transformed kne... [2154 chars]",
-        "url": "https://www.dailyexcelsior.com/robot-assisted-surgery-a-leap-into-the-future-of-knee-replacement/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/01/13-1.gif",
-        "publishedAt": "2026-01-10T22:57:32Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
             "country": "in"
         }
     }
