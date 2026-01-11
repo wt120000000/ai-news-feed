@@ -1,5 +1,37 @@
 [
     {
+        "id": "9f8e10957f1e719bcbd7358082c781d4",
+        "title": "Are IIT faculty ready to teach AI at scale: Here's what IITs say",
+        "description": "As artificial intelligence reshapes engineering education, India’s IITs face tough questions about whether they are nurturing original thinkers or merely training students to use fast-changing tools. With AI now a core skill, faculty readiness, curriculum agility and large-scale upskilling are under sharp focus.",
+        "content": "As artificial intelligence (AI) accelerates into every corridor of engineering and industry, India’s Indian Institutes of Technology (IITs), the nation’s flagbearers of technical excellence, face a pivotal question: Are they producing independent thi... [6224 chars]",
+        "url": "https://www.indiatoday.in/education-today/news/story/iit-faculty-readiness-for-ai-can-curricula-and-upskilling-match-the-pace-2850114-2026-01-11",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/iit-seats-doubled-from-65-000-to-135-lakh-over-past-decade-education-minister-124810449-16x9.jpg?VersionId=w8kkKSiOQJPmq2YqaM1AQppPonbE4lGt",
+        "publishedAt": "2026-01-11T09:15:26Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "20233ede99689bab645d230a1db65abe",
+        "title": "Mahayuti unveils BMC poll manifesto: 'Flood-free Mumbai', 50% concession on bus fares for women, more",
+        "description": "A key focus of the manifesto is the use of artificial intelligence (AI) to curb corruption, speed up clearances and improve service delivery",
+        "content": "Pitching a tech-led governance for India's financial capital, the Mahayuti alliance on Sunday, 11 January, unveiled a wide-ranging manifesto for the upcoming civic body elections in Mumbai.\nFrom promising a 50% concession on bus fares for women trave... [1302 chars]",
+        "url": "https://www.livemint.com/news/india/mahayuti-unveils-bmc-poll-manifesto-flood-free-mumbai-50-concession-on-bus-fares-for-women-more-11768121077835.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/01/11/1600x900/logo/Fadnavis-was-speaking-at-a-BJP-rally-in-Akurdi-org_1768122362554_1768122370278.jpg",
+        "publishedAt": "2026-01-11T09:01:22Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "4e4c3826afcf0bd1355983492c2add9e",
         "title": "AADE: Six new digital “weapons” against tax evasion in 2026",
         "description": "Target: 72,800 audits and additional revenues of €2.5 billion with Artificial Intelligence, real-time monitoring, and preventive risk analysis",
@@ -125,38 +157,6 @@
             "name": "The Herald",
             "url": "https://www.heraldscotland.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "2fa6d3c97825740b29403ef270ec5db3",
-        "title": "AI toys look for bright side after troubled start",
-        "description": "Toy makers at the Consumer Electronics Show were adamant about being careful to ensure that their fun creations infused with generative artificial intelligence don't turn naughty. Toy giant Mattel, meanwhile, made no mention of the report in mid-December when it postponed the release of its first toy developed in partnership with ChatGPT-maker OpenAI.",
-        "content": "Synopsis\nToy makers at the Consumer Electronics Show were adamant about being careful to ensure that their fun creations infused with generative artificial intelligence don't turn naughty. Toy giant Mattel, meanwhile, made no mention of the report in... [3629 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-toys-look-for-bright-side-after-troubled-start/articleshow/126461513.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-145408,resizemode-75,msid-126461513/tech/artificial-intelligence/ai-toys-look-for-bright-side-after-troubled-start.jpg",
-        "publishedAt": "2026-01-11T04:52:36Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "56d78cd6bd2f46a98ca480cfd4ea07d4",
-        "title": "BTech AI vs. BTech Machine Learning: Which degree is better for today’s tech careers?",
-        "description": "News News: Artificial intelligence is no longer a future idea. It is already part of daily life. Students use it when they search online, watch videos, shop on a.",
-        "content": "BTech AI vs. BTech Machine Learning\nArtificial intelligence is no longer a future idea. It is already part of daily life. Students use it when they search online, watch videos, shop on apps, or talk to chatbots. Because of this growing use, many Clas... [4522 chars]",
-        "url": "https://timesofindia.indiatimes.com/education/news/btech-ai-vs-btech-machine-learning-which-degree-is-better-for-todays-tech-careers/articleshow/126461336.cms",
-        "image": "https://static.toiimg.com/thumb/msid-126461338,width-1070,height-580,imgsize-169427,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-        "publishedAt": "2026-01-11T04:28:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
