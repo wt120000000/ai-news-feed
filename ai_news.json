@@ -1,5 +1,21 @@
 [
     {
+        "id": "c99389a6806abb3827dffb860d66a02e",
+        "title": "Are we in an AI Bubble? Tech leaders warn today’s frenzy mirrors the Dot",
+        "description": "Late last year, we flagged early signs of an AI bubble as investors began sounding the alarm over sky-high startup valuations. At the time, the artificial intelligence boom was already dominating headlines. Massive funding rounds. Eye-popping deal sizes. Predictions that bordered on sci-fi. Then, in August, OpenAI CEO Sam Altman stepped off the hype train and",
+        "content": "Late last year, we flagged early signs of an AI bubble as investors began sounding the alarm over sky-high startup valuations. At the time, the artificial intelligence boom was already dominating headlines. Massive funding rounds. Eye-popping deal si... [3370 chars]",
+        "url": "https://techstartups.com/2026/01/10/are-we-in-an-ai-bubble-tech-leaders-warn-todays-frenzy-mirrors-the-dot-com-era/",
+        "image": "https://techstartups.com/wp-content/uploads/2026/01/AI-Bubble.jpg",
+        "publishedAt": "2026-01-11T03:15:18Z",
+        "lang": "en",
+        "source": {
+            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+            "name": "TechStartups.com",
+            "url": "https://techstartups.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "798c3ee23eb3f09b955221891ebb48ff",
         "title": "Musk says X to make algorithm open source in days",
         "description": "The company has also been working to incorporate more artificial intelligence into its recommendation algorithm for X, using Grok, Musk’s AI chatbot.",
@@ -141,22 +157,6 @@
             "name": "OilPrice",
             "url": "https://oilprice.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "84400d87fbb4a2fb55a0cb52616690de",
-        "title": "Lammy says Vance agrees that sexualised AI images on X are ‘despicable’",
-        "description": "JD Vance believes the sexualised manipulation of images of women and children by the Grok artificial intelligence chatbot are “entirely unacceptable”, David Lammy said after talks with the US vice president.",
-        "content": "Elon Musk, the boss of Grok’s creator xAI and the X social media platform where images have been shared, has accused the UK Government of being “fascist” and trying to curb free speech after ministers stepped up threats to effectively block his websi... [3537 chars]",
-        "url": "https://www.belfasttelegraph.co.uk/news/uk/lammy-says-vance-agrees-that-sexualised-ai-images-on-x-are-despicable/a1310152355.html",
-        "image": "https://focus.belfasttelegraph.co.uk/thumbor/0VO_J6L0sXbKKz91P3EFcq__B7A=/0x0:5500x3666/629x0/prod-mh-ireland/b1d952f5-b583-4a8e-9310-1054a5015d70/d97821c4-3dd6-49db-b9da-4b9a9505e4b9/2.81244540.jpg",
-        "publishedAt": "2026-01-10T19:00:08Z",
-        "lang": "en",
-        "source": {
-            "id": "a1dd1cfddd85ce2d4ada87bc9f6a9d43",
-            "name": "Belfast Telegraph",
-            "url": "https://www.belfasttelegraph.co.uk",
-            "country": "gb"
         }
     }
 ]
