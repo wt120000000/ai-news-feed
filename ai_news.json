@@ -1,5 +1,37 @@
 [
     {
+        "id": "d7bcf082b2f984363495751b4507a8ad",
+        "title": "New York Seeks Ban on A.I.-Generated Images of Candidates",
+        "description": "Last year, the Cuomo campaign released a video created by artificial intelligence that depicted Zohran Mamdani eating rice with his hands. Gov. Kathy Hochul wants to ban such tactics.",
+        "content": "As the use of images created by artificial intelligence explodes, Gov. Kathy Hochul of New York announced on Sunday that she would seek limits on how political campaigns can employ the technology before elections.\nMs. Hochul specifically wants to pro... [1375 chars]",
+        "url": "https://www.nytimes.com/2026/01/11/nyregion/ny-hochul-ai-candidates.html",
+        "image": "https://static01.nyt.com/images/2026/01/11/multimedia/11met-hochul-AI-pwkz/11met-hochul-AI-pwkz-facebookJumbo.jpg",
+        "publishedAt": "2026-01-11T10:01:11Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "67f0c53e9e92c1f92188bffe9c4d2430",
+        "title": "World’s first AI minister explains why those aged 40-60 have a unique edge",
+        "description": "Omar Sultan Al Olama, the UAE’s youngest minister and the world’s first minister of artificial intelligence, recently shared his views on how artificial intelligence (AI) is reshaping jobs, human cognition, and generational strengths. He was speaking with Zerodha co-founder Nikhil Kamath at the India Global Forum in Dubai.",
+        "content": "Trending 18 min ago\nThis is an AI assisted summary.\nOmar Sultan Al Olama, the UAE’s youngest minister and the world’s first minister of artificial intelligence, recently shared his views on how artificial intelligence (AI) is reshaping jobs, human co... [22874 chars]",
+        "url": "https://indianexpress.com/shorts/trending/trending-globally/the-best-generation-world-first-ai-minister-omar-sultan-al-olama-explains-why-those-aged-40-60-have-a-unique-edge-nikhil-kamath-podcast-10467404/",
+        "image": "https://images.indianexpress.com/2026/01/World-first-AI-minister-Nikhil-Kamath-interview.jpg",
+        "publishedAt": "2026-01-11T09:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "9f8e10957f1e719bcbd7358082c781d4",
         "title": "Are IIT faculty ready to teach AI at scale: Here's what IITs say",
         "description": "As artificial intelligence reshapes engineering education, India’s IITs face tough questions about whether they are nurturing original thinkers or merely training students to use fast-changing tools. With AI now a core skill, faculty readiness, curriculum agility and large-scale upskilling are under sharp focus.",
@@ -125,38 +157,6 @@
             "name": "Spokane Spokesman-Review",
             "url": "https://www.spokesman.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "1b753f284064debec87f307639ebea87",
-        "title": "How Artificial Intelligence Is Changing the Way Small Businesses Operate",
-        "description": "Technology has always shaped how businesses work. From computers to the internet to mobile apps every shift has changed daily operations. Today artificial intelligence is creating another major change. Unlike older tools AI does not just follow instructions. It learns from data and improves over time. This makes it especially useful for small businesses that […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nTechnology has always shaped how businesses work. From computers to the internet to mobile apps every shift has changed daily operations. Today artificial intelligence is creating another major change. Unlike older tools... [7616 chars]",
-        "url": "https://techbullion.com/how-artificial-intelligence-is-changing-the-way-small-businesses-operate/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/01/download-1-2-1000x600.png",
-        "publishedAt": "2026-01-11T05:16:43Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "4f3fd9333d863c0553440f31d55456db",
-        "title": "Artificial intelligence is already reshaping Scotland’s economy",
-        "description": "Edinburgh-based author and entrepreneur Ronee Hulk argues Scotland must move faster, think bigger and decide whether it leads the AI era or merely…",
-        "content": "There are moments when you can feel that something in the air has changed, long before it becomes apparent why.\nLike the quiet that sweeps across a pub in the moments before a penalty is taken. You don’t need a briefing, you already know something bi... [11198 chars]",
-        "url": "https://www.heraldscotland.com/news/25753424.artificial-intelligence-already-reshaping-scotlands-economy/",
-        "image": "https://www.heraldscotland.com/resources/images/20404534.jpg?type=og-image",
-        "publishedAt": "2026-01-11T05:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "00c6ccd3af71b81a3028aaaf8dab27fa",
-            "name": "The Herald",
-            "url": "https://www.heraldscotland.com",
-            "country": "gb"
         }
     }
 ]
