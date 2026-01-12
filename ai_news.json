@@ -1,5 +1,21 @@
 [
     {
+        "id": "0eff04abd65a8df79477bfc6cde2e7f7",
+        "title": "Anthropic Adds Features for Doctors, Patients in Health Care Push",
+        "description": "Anthropic is making it easier for patients and clinicians to use its artificial intelligence chatbot to access medical information, part of a broader push into the lucrative health care sector. The San Francisco-based company on Sunday said that its Claude product is launching a new health care offering that is compliant with the Health Insurance Portability and Accountability Act, or HIPAA, and can be used by hospitals, medical providers and consumers to field protected health data. Anthropic h",
+        "content": "Anthropic is making it easier for patients and clinicians to use its artificial intelligence chatbot to access medical information, part of a broader push into the lucrative health care sector.\nThe San Francisco-based company on Sunday said that its ... [575 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-01-11/anthropic-adds-features-for-doctors-patients-in-health-care-push",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH87NqKa6UNE/v1/1200x800.jpg",
+        "publishedAt": "2026-01-11T22:00:15Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d804f0ad1a69ae599a8e2e64c64150d8",
         "title": "DeepSeek's AI gains traction in developing nations, Microsoft report says",
         "description": "DeepSeek, the Chinese tech startup that rivals OpenAI's ChatGPT, has been gaining ground in many developing nations in a trend that could narrow the gap of artificial intelligence adoption with advanced economies, a new report suggested. In the report, researchers from Microsoft said global adoption of generative AI tools reached…",
@@ -140,22 +156,6 @@
             "id": "fd3677545b80d5db7541de8e111d27ba",
             "name": "Moneycontrol",
             "url": "https://www.moneycontrol.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "22d85011bc318172e3d79e7a5816df90",
-        "title": "After Indonesia, Musk’s Grok AI blocked in Malaysia over obscene images",
-        "description": "Indonesia and Malaysia restricted access to Elon Musk’s Grok AI over the weekend, becoming the first countries to ban the artificial intelligence system over its generation of obscene content",
-        "content": "Indonesia and Malaysia restricted access to Elon Musk’s Grok AI over the weekend, becoming the first countries to ban the artificial intelligence system over its generation of obscene content.\nIndonesia’s Communications and Digital Affairs Ministry i... [2158 chars]",
-        "url": "https://www.livemint.com/companies/news/after-indonesia-musk-s-grok-ai-blocked-in-malaysia-over-obscene-images-11768150378615.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/01/11/1600x900/logo/grok_1767960562516_1767960562750_1768152844561.jpg",
-        "publishedAt": "2026-01-11T17:34:41Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
             "country": "in"
         }
     }
