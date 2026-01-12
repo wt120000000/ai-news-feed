@@ -1,5 +1,21 @@
 [
     {
+        "id": "41441f553b70e9027aa425b20b04bf3b",
+        "title": "In the Network, AI has Shifted from Hype to Reality",
+        "description": "GUEST OPINION:  Artificial intelligence has swept through corporate Australia with unmistakable momentum. However, while its influence has b...",
+        "content": "AI is already reshaping the way networks are designed, deployed and managed, laying the groundwork for a new era of autonomous, multi-agent systems that promise to redefine business operations.\nFor organisations wrestling with the competing pressures... [5181 chars]",
+        "url": "https://itwire.com/business-it-news/data/in-the-network,-ai-has-shifted-from-hype-to-reality.html",
+        "image": "https://itwire.com/media/k2/items/cache/806d30128119b52a1233e6cb2614a48e_XS.jpg",
+        "publishedAt": "2026-01-12T00:39:53Z",
+        "lang": "en",
+        "source": {
+            "id": "10cbfb3760cfcdeb78c733c527f0e814",
+            "name": "iTWire",
+            "url": "https://itwire.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "9b7fffd050e2dbbff3082598cfc9bb16",
         "title": "Swami Vivekananda in Age of Artificial Intelligence",
         "description": "Dr. Vishal Sharma vishal.sharma@fulbrightmail.org Swami Vivekananda famously remarked: “Education is not the amount of information that is put into your brain and runs riot there, undigested, all your life. We must have life-building, man-making, character-making assimilation of ideas.” In this age of intelligence, where the power of Artificial Intelligence (AI) lies in processing large amounts of data at lightning speed, this understanding of education has become more crucial than ever. Swami Vivekananda’s birth anniversary on 12 January has been observed […]",
@@ -141,22 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "7d6a3e716bf80816be5118a144ed8a97",
-        "title": "How AI can detect health risks - just from the way you sleep",
-        "description": "All it takes is one night’s sleep in a laboratory, during which physiological signals are recorded, for a new artificial intelligence model to be able to estimate a person’s risk for about 130 diseases later in life. That includes risks for Parkinson’s...",
-        "content": "All it takes is one night’s sleep in a laboratory, during which physiological signals are recorded, for a new artificial intelligence model to be able to estimate a person’s risk for about 130 diseases later in life. That includes risks for Parkinson... [5264 chars]",
-        "url": "https://www.dhakatribune.com/world/400815/how-ai-can-detect-health-risks-%E2%80%94-just-from-the-way",
-        "image": "https://ecdn.dhakatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/11/9ca2a2c00c3231582cbe3abfa9a34c81-6963e0c215c9e.jpg",
-        "publishedAt": "2026-01-11T17:44:45Z",
-        "lang": "en",
-        "source": {
-            "id": "0dfa8762c076d0f2506ce5b436c473e1",
-            "name": "Dhaka Tribune",
-            "url": "https://www.dhakatribune.com",
-            "country": "bd"
         }
     }
 ]
