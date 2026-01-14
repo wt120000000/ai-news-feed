@@ -1,5 +1,21 @@
 [
     {
+        "id": "c6d7bef53596b3c8f2403f51b6d075f7",
+        "title": "AI model identifies how every country can improve its cancer outcomes",
+        "description": "For the first time, researchers have used machine learning—a type of artificial intelligence (AI)—to identify the most important drivers of cancer survival in nearly all the countries in the world.",
+        "content": "For the first time, researchers have used machine learning—a type of artificial intelligence (AI)—to identify the most important drivers of cancer survival in nearly all the countries in the world.\nThe study, published in Annals of Oncology, provides... [7602 chars]",
+        "url": "https://medicalxpress.com/news/2026-01-ai-country-cancer-outcomes.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-model-identifies-ho.jpg",
+        "publishedAt": "2026-01-14T00:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "3f707adff1be4493c4af2c006bb65663",
         "title": "Britain seeks 'reset' in copyright battle between AI and creators",
         "description": "LONDON, Jan 13 (Reuters) - British technology ‌minister Liz Kendall said on Tuesday the government was seeking a \"reset\" ‌on plans to overhaul copyright rules to accommodate artificial intelligence, pledging ‌to protect creators while unlocking AI's economic potential.",
@@ -140,22 +156,6 @@
             "id": "8da923084554b2821233d6c5c5f02c97",
             "name": "Fox News",
             "url": "https://www.foxnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4385523dfb04063c1ba39f1c996e66c8",
-        "title": "AI Chip Startup Etched Raises $500 Million to Take on Nvidia",
-        "description": "AI chip startup Etched raised about $500 million in a new funding round, according to people familiar with the matter, part of an effort to compete with Nvidia Corp. in the booming market for artificial intelligence processors.",
-        "content": "AI chip startup Etched raised about $500 million in a new funding round, according to people familiar with the matter, part of an effort to compete with Nvidia Corp. in the booming market for artificial intelligence processors .\nThe round, which was ... [290 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-01-13/ai-chip-startup-etched-raises-500-million-to-take-on-nvidia",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAa.HpU5GApM/v1/1200x800.jpg",
-        "publishedAt": "2026-01-13T20:53:48Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
             "country": "us"
         }
     }
