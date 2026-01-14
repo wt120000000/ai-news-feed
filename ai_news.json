@@ -1,5 +1,21 @@
 [
     {
+        "id": "fc3c08a5ffd6b684334e3bb65f84fe7e",
+        "title": "Oxford researchers developing phone and AI diagnostic tool",
+        "description": "An Oxford academic is looking into how smartphones and artificial intelligence could help diagnose rare brain conditions.",
+        "content": "Researchers at the University of Oxford are developing a tool to diagnose progressive supranuclear palsy (PSP) and corticobasal degeneration (CBD), with support from a £24,312 grant from the PSP Association (PSPA).\nThe study, led by Professor Michele... [1165 chars]",
+        "url": "https://www.oxfordmail.co.uk/news/25763002.oxford-researchers-developing-phone-ai-diagnostic-tool/",
+        "image": "https://www.oxfordmail.co.uk/resources/images/20416433.jpg?type=og-image",
+        "publishedAt": "2026-01-14T05:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6b5c45eb50a6698dcc6711c82d72fb2e",
+            "name": "Oxford Mail",
+            "url": "https://www.oxfordmail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "4ffb9463b46568dd74235025174606c2",
         "title": "AstraZeneca Buys US-based Modella AI",
         "description": "AstraZeneca purchased US-based biomedical artificial intelligence company Modella AI for an undisclosed sum.\nThe pharmaceutical company will leverage Modella AI's generative and agentic AI...",
@@ -141,22 +157,6 @@
             "name": "Republic World",
             "url": "https://www.republicworld.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "50b647cd880dadb4a3993e4dd4024461",
-        "title": "Global analysis uses machine learning to map drivers of cancer outcomes",
-        "description": "For the first time, researchers have used machine learning – a type of artificial intelligence (AI) – to identify the most important drivers of cancer survival in nearly all the countries in the world.",
-        "content": "For the first time, researchers have used machine learning – a type of artificial intelligence (AI) – to identify the most important drivers of cancer survival in nearly all the countries in the world.\nThe study, which is published in the leading can... [7513 chars]",
-        "url": "https://www.news-medical.net/news/20260113/Global-analysis-uses-machine-learning-to-map-drivers-of-cancer-outcomes.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-        "publishedAt": "2026-01-14T02:59:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
         }
     }
 ]
