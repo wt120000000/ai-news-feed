@@ -1,5 +1,69 @@
 [
     {
+        "id": "d4a99e159d3b96138d9fff1bb08b5b21",
+        "title": "Nvidia AI chips in China! US approves sale of H200 chips; commerce dept sets strict limitations",
+        "description": "International Business News: Nvidia has received the green signal to export advanced artificial intelligence chips to China! The US commerce department on Tuesday, signalled a pol.",
+        "content": "Nvidia has received the green signal to export advanced artificial intelligence chips to China! The US commerce department on Tuesday, signalled a policy shift, approving the tech giant to sell its H200 chips to Beijing, under certain restrictions. T... [2718 chars]",
+        "url": "https://timesofindia.indiatimes.com/business/international-business/nvidia-ai-chips-in-china-us-approves-sale-of-h200-chips-commerce-dept-sets-strict-limitations/articleshow/126515749.cms",
+        "image": "https://static.toiimg.com/thumb/msid-126516002,width-1070,height-580,imgsize-256718,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+        "publishedAt": "2026-01-14T02:21:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "1eaa5aefdf75b01fd93d653464d8c2b1",
+        "title": "Vibe coding lets non-coders set foot in a world previously inaccessible",
+        "description": "Vibe coding is what happens when someone uses artificial intelligence (AI) tools like Google’s Gemini, OpenAI’s ChatGPT, or other large language models to create software simply by describing what they want.",
+        "content": "By Siddharth Pai\nThere was a time when learning to code felt like acquiring a second language, one you had to practice for years before you could build anything meaningful. You needed to understand logic structures, syntax peculiarities, and the uniq... [6849 chars]",
+        "url": "https://www.financialexpress.com/opinion/vibe-codingnbsplets-non-coders-set-foot-in-a-world-previously-inaccessible/4106450/",
+        "image": "https://images.financialexpressdigital.com/2026/01/Vibe-coding.jpg?quality=100",
+        "publishedAt": "2026-01-14T01:53:37Z",
+        "lang": "en",
+        "source": {
+            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+            "name": "The Financial Express",
+            "url": "https://www.financialexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "901cd520bb112b7ea188fd9daa89c5e9",
+        "title": "Apple turns to Google to power AI upgrade for Siri",
+        "description": "Tech News News: After a nearly yearlong delay to its efforts to compete in artificial intelligence, Apple said on Monday that it planned to base its AI products on te.",
+        "content": "After a nearly yearlong delay to its efforts to compete in artificial intelligence, Apple said on Monday that it planned to base its AI products on technology developed by Google. The upcoming versions of Apple Foundation Models - the company's model... [1434 chars]",
+        "url": "https://timesofindia.indiatimes.com/tech-news/apple-turns-to-google-to-power-ai-upgrade-for-siri/articleshow/126515736.cms",
+        "image": "https://static.toiimg.com/thumb/msid-126515763,width-1070,height-580,imgsize-629453,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+        "publishedAt": "2026-01-14T01:52:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "2f48c2f55a8ccbdc8a2d5c5d7ad707c2",
+        "title": "Illumina unveils massive cell atlas to speed up drug discovery",
+        "description": "Illumina introduced the Billion Cell Atlas: the most comprehensive map of human disease biology to date. By mapping how cells react to hundreds of diseases, the new data set, paired with artificial intelligence, aims to accelerate drug discovery.",
+        "content": "Illumina on Tuesday unveiled what it calls the world’s largest functional cell dictionary that, when paired with artificial intelligence, will help accelerate drug discovery.\nDubbed the Billion Cell Atlas, the data set shows how cells react to specif... [2681 chars]",
+        "url": "https://www.sandiegouniontribune.com/2026/01/13/illumina-unveils-massive-cell-atlas-to-speed-up-drug-discovery/",
+        "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/01/SUT-L-ILLUMINA-MISEQ-1012-01.jpg?w=1024&h=768",
+        "publishedAt": "2026-01-14T01:42:45Z",
+        "lang": "en",
+        "source": {
+            "id": "8fac888ae06647c3a7d6093c60c9d9b5",
+            "name": "San Diego Union-Tribune",
+            "url": "https://www.sandiegouniontribune.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "7ee900dab823a0365bb8b192b9c01389",
         "title": "Govt to promote use of AI in health sector on priority: Pathak",
         "description": "Lucknow: Deputy chief minister Brajesh Pathak on Tuesday underlined the growing role of artificial intelligence (AI) in transforming healthcare delive.",
@@ -92,70 +156,6 @@
             "id": "da5c26287bdd02563a2c32b55cb12051",
             "name": "Reuters",
             "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b6d982956904d82aefad2ceca88e9d89",
-        "title": "ROI-Talent, not territory will define AI future: Taosha Wang",
-        "description": "In the final days of 2025,\none deal cut through the holiday noise: Meta's\nacquisition of Manus, a Chinese-founded artificial intelligence\nstartup, reportedly for more than $2 billion. This...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/roi-talent-not-territory-will-define-ai-future-taosha-wang-ce7e58d8db88f22d",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-01-13T23:01:31Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "52cb818b36409b92b29f1945adc58a88",
-        "title": "Utilities Up on Demand Optimism -- Utilities Roundup",
-        "description": "Shares of power producers rose amid optimism about artificial-intelligence infrastructure demand.\nMicrosoft unveiled a new initiative called the Community-First AI Infrastructure plan, in which it...",
-        "content": "Shares of power producers rose amid optimism about artificial-intelligence infrastructure demand.\nMicrosoft unveiled a new initiative called the Community-First AI Infrastructure plan, in which it made a number of promises to help local municipalitie... [257 chars]",
-        "url": "https://www.marketscreener.com/news/utilities-up-on-demand-optimism-utilities-roundup-ce7e58d8db88f520",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-09-22T200856Z_1_LYNXNPEC8L1HT_RTROPTP_2_USA-STOCKS.JPG",
-        "publishedAt": "2026-01-13T22:52:23Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "2f6a002ac0a63a87844195af035234f0",
-        "title": "GIGABYTE Redefines Human-AI Interaction at CES 2026 with a Fully Immersive, Participatory Experience",
-        "description": "TAIPEI, Jan. 14, 2026 /PRNewswire/ -- GIGABYTE unveils a new vision for how people engage with artificial intelligence at CES 2026, taking place from January 6 to January 9. Under the theme 'The World as Prompt,' the company presents an immersive, AI-driven experience that brings together advanced laptop technologies, intelligent software, and human-centered interaction to explore new models of human-AI collaboration.",
-        "content": "TAIPEI, Jan. 14, 2026 /PRNewswire/ -- GIGABYTE unveils a new vision for how people engage with artificial intelligence at CES 2026, taking place from January 6 to January 9. Under the theme \"The World as Prompt,\" the company presents an immersive, AI... [2201 chars]",
-        "url": "https://www.manilatimes.net/2026/01/14/tmt-newswire/pr-newswire/gigabyte-redefines-human-ai-interaction-at-ces-2026-with-a-fully-immersive-participatory-experience/2258479",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/14/898672.jpg",
-        "publishedAt": "2026-01-13T22:34:50Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "5ceb624996ad75e4075b5da1cdf1575a",
-        "title": "5 Legal Issues Likely to Arise Due to AI",
-        "description": "Artificial intelligence is no longer the preserve of science fiction films and novels. The disruptive technology provides efficiency and innovation, but it",
-        "content": "Artificial intelligence is no longer the preserve of science fiction films and novels. The disruptive technology provides efficiency and innovation, but it also raises questions about the law.\nConsider these five important legal issues rearing their ... [4308 chars]",
-        "url": "https://www.nextbigfuture.com/2026/01/5-legal-issues-likely-to-arise-due-to-ai.html",
-        "image": "https://nextbigfuture.s3.amazonaws.com/uploads/2018/05/03788926b85b3f9a00e11cf4b0d51e9b.jpg",
-        "publishedAt": "2026-01-13T22:34:38Z",
-        "lang": "en",
-        "source": {
-            "id": "21cef40ac6c3ef9110c7f509a6f6e7f6",
-            "name": "NextBigFuture.com",
-            "url": "https://www.nextbigfuture.com",
             "country": "us"
         }
     }
