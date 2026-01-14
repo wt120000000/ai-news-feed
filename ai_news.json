@@ -1,5 +1,37 @@
 [
     {
+        "id": "faec8203479f28178e022ae376341347",
+        "title": "How a Techno-Optimist Became a Grave Skeptic",
+        "description": "Understand how artificial intelligence (AI) fits into the narrative of technological optimism and societal adaptation over time.",
+        "content": "Before Covid, I would have described myself as a technological optimist. New technologies almost always arrive amid exaggerated fears. Railways were supposed to cause mental breakdowns, bicycles were thought to make women infertile or insane, and ear... [7473 chars]",
+        "url": "https://www.activistpost.com/how-a-techno-optimist-became-a-grave-skeptic/",
+        "image": "https://www.activistpost.com/wp-content/uploads/2025/01/favico.png",
+        "publishedAt": "2026-01-14T02:59:00Z",
+        "lang": "en",
+        "source": {
+            "id": "435d508bebcc8689d5c7711d44865b80",
+            "name": "Activist Post",
+            "url": "https://www.activistpost.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "50b647cd880dadb4a3993e4dd4024461",
+        "title": "Global analysis uses machine learning to map drivers of cancer outcomes",
+        "description": "For the first time, researchers have used machine learning – a type of artificial intelligence (AI) – to identify the most important drivers of cancer survival in nearly all the countries in the world.",
+        "content": "For the first time, researchers have used machine learning – a type of artificial intelligence (AI) – to identify the most important drivers of cancer survival in nearly all the countries in the world.\nThe study, which is published in the leading can... [7513 chars]",
+        "url": "https://www.news-medical.net/news/20260113/Global-analysis-uses-machine-learning-to-map-drivers-of-cancer-outcomes.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+        "publishedAt": "2026-01-14T02:59:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "d4a99e159d3b96138d9fff1bb08b5b21",
         "title": "Nvidia AI chips in China! US approves sale of H200 chips; commerce dept sets strict limitations",
         "description": "International Business News: Nvidia has received the green signal to export advanced artificial intelligence chips to China! The US commerce department on Tuesday, signalled a pol.",
@@ -125,38 +157,6 @@
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "3f707adff1be4493c4af2c006bb65663",
-        "title": "Britain seeks 'reset' in copyright battle between AI and creators",
-        "description": "LONDON, Jan 13 (Reuters) - British technology ‌minister Liz Kendall said on Tuesday the government was seeking a \"reset\" ‌on plans to overhaul copyright rules to accommodate artificial intelligence, pledging ‌to protect creators while unlocking AI's economic potential.",
-        "content": "LONDON, Jan 13 (Reuters) - British technology ‌minister Liz Kendall said on Tuesday the government was seeking a \"reset\" ‌on plans to overhaul copyright rules to accommodate artificial intelligence, pledging ‌to protect creators while unlocking AI's ... [1722 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/01/14/britain-seeks-039reset039-in-copyright-battle-between-ai-and-creators",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/01/14/3718990.jpg",
-        "publishedAt": "2026-01-13T23:11:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "58ec3f89429fafd458fe7bd4b443902a",
-        "title": "Talent, not territory will define AI future: Taosha Wang",
-        "description": "In the final days of 2025, one deal cut through the holiday noise: Meta's acquisition of Manus, a Chinese-founded artificial intelligence startup, reportedly for more than $2 billion. This acquisition challenges the widespread narrative of U.S.-China tech decoupling and could signal a new modus operandi in the future of AI.",
-        "content": "Manus specializes in agentic AI, systems that can autonomously plan and execute complex digital tasks, much like a capable human assistant. Founded in 2022 in Wuhan and now based in Singapore, Manus burst into public view in early 2025 when a preview... [3604 chars]",
-        "url": "https://www.reuters.com/technology/artificial-intelligence/talent-not-territory-will-define-ai-future-taosha-wang-2026-01-13/",
-        "image": "https://www.reuters.com/resizer/v2/TXISGFH4PVJJZLMW2F5BRZBVZ4.jpg?auth=917b3f33b7cb3fc08cefc7abd74a842e9c1748d89bf0a345f01014a0fd2ef0e2&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-01-13T23:08:04Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
         }
     }
 ]
