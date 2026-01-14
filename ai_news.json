@@ -1,5 +1,37 @@
 [
     {
+        "id": "b16825dac55d0c42f4b6d1af3a297f74",
+        "title": "NDP leadership candidate apologizes for using AI to respond to Reddit questions",
+        "description": "Despite being concerned artificial intelligence is replacing workers, NDP leadership candidate and union leader Rob Ashton used AI in his campaign messaging during an \"ask me anything\" event on Reddit.",
+        "content": "Despite being concerned artificial intelligence is replacing workers, NDP leadership candidate and union leader Rob Ashton used AI during an online campaign event on Sunday.\nAttentive users of the discussion platform Reddit noticed several of Ashton'... [1639 chars]",
+        "url": "https://www.cbc.ca/news/politics/rob-ashton-artificial-intelligence-ndp-ama-9.7043887",
+        "image": "https://i.cbc.ca/ais/362e446a-a048-4083-9fba-ca73147f4071,1768332564007/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3BResize%3D620",
+        "publishedAt": "2026-01-13T20:05:35Z",
+        "lang": "en",
+        "source": {
+            "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+            "name": "CBC.ca",
+            "url": "https://www.cbc.ca",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "e629995b394891485bfce4a79d181108",
+        "title": "AI to move from pilots to production, see wider adoption in 2026: Neysa CEO",
+        "description": "Neysa, a Mumbai-based AI and cloud infrastructure startup, sees enterprises moving from AI experiments to full-scale adoption. CEO Sharad Sanghi expects artificial general intelligence by 2027 as model reliability improves. Citing a recent MIT study which found that 95% of agentic AI deployments are yet to move to production, Sanghi said that that will change over the next 12 months, marking a major shift in enterprise adoption this year.",
+        "content": "Synopsis\nNeysa, a Mumbai-based AI and cloud infrastructure startup, sees enterprises moving from AI experiments to full-scale adoption. CEO Sharad Sanghi expects artificial general intelligence by 2027 as model reliability improves. Citing a recent M... [4395 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-to-move-from-pilots-to-production-see-wider-adoption-in-2026-neysa-ceo/articleshow/126512478.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-22892,resizemode-75,msid-126512478/tech/artificial-intelligence/ai-to-move-from-pilots-to-production-see-wider-adoption-in-2026-neysa-ceo.jpg",
+        "publishedAt": "2026-01-13T19:31:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "2f853979cc2ccedb136a68b4a0b47553",
         "title": "Peering into the future of an uncertain world",
         "description": "Among all forces, artificial intelligence (AI) may be the most transformative — and unsettling. Previous revolutions replaced muscle power; AI replaces brainpower. It will reshape not just industries but identities.",
@@ -125,38 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "f4846600e043a28d76ff99cc87ee22b8",
-        "title": "Meta mulls doubling output of Ray",
-        "description": "Meta and EssilorLuxottica are considering doubling the production capacity ‍of their artificial intelligence-powered ​smart glasses to 20 million units annually by ⁠the end of this year, Bloomberg News reported on Tuesday. Meanwhile, Meta is also cutting more than 1,000 jobs from the company's Reality Labs division.",
-        "content": "Synopsis\nMeta and EssilorLuxottica are considering doubling the production capacity ‍of their artificial intelligence-powered ​smart glasses to 20 million units annually by ⁠the end of this year, Bloomberg News reported on Tuesday. Meanwhile, Meta is... [1893 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/meta-mulls-doubling-output-of-ray-ban-glasses-by-year-end-report/articleshow/126511366.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-91342,resizemode-75,msid-126511366/tech/technology/meta-mulls-doubling-output-of-ray-ban-glasses-by-year-end-report.jpg",
-        "publishedAt": "2026-01-13T18:15:53Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "14843c093812c7ba9cc177cc579533ca",
-        "title": "Britain seeks 'reset' in copyright battle between AI and creators",
-        "description": "British technology minister Liz Kendall said on Tuesday the ‍government was seeking a \"reset\" on ​plans to overhaul copyright rules to accommodate artificial intelligence, ⁠pledging to protect creators while unlocking AI's economic potential.",
-        "content": "Synopsis\nBritish technology minister Liz Kendall said on Tuesday the ‍government was seeking a \"reset\" on ​plans to overhaul copyright rules to accommodate artificial intelligence, ⁠pledging to protect creators while unlocking AI's economic potential... [2012 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/britain-seeks-reset-in-copyright-battle-between-ai-and-creators/articleshow/126511089.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-84508,resizemode-75,msid-126511089/tech/technology/britain-seeks-reset-in-copyright-battle-between-ai-and-creators.jpg",
-        "publishedAt": "2026-01-13T18:06:03Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
