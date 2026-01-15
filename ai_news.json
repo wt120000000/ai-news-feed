@@ -1,5 +1,69 @@
 [
     {
+        "id": "8d1910d9496b50b330ab6209c12abbcf",
+        "title": "Oracle sued by bondholders over losses tied to AI buildout",
+        "description": "Oracle was sued on Wednesday by bondholders ​who say they suffered losses because the company ‌chaired by billionaire Larry Ellison failed to disclose it needed to sell significant additional debt to build out its artificial intelligence infrastructure.",
+        "content": "The proposed class action was filed in ‌a New York state court in Manhattan on ​behalf of investors who bought $18 billion of notes and bonds that Oracle issued on Sept. 25, two weeks after ‍Oracle announced a $300 billion, five-year contract to supp... [971 chars]",
+        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/oracle-sued-by-bondholders-over-losses-tied-ai-buildout-2026-01-14/",
+        "image": "https://www.reuters.com/resizer/v2/DC5T6IXKGBMRFCTPFHVMYYCMGQ.jpg?auth=ac58f3d3600a8bf254f839ddadb88cec535a1fd53ac31e32030c1dd415a612e2&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-01-14T18:33:50Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c031129622ed5c2c26c35a5ababb0773",
+        "title": "California launches investigation into child porn on Elon Musk’s AI site",
+        "description": "Gov. Gavin Newsom on Wednesday called the state to investigate Elon Musk’s artificial intelligence company xAI, saying that the social media site owned by the billionaire is a \"breeding ground for predators to spread nonconsenual sexually explicit AI deepfakes.\"",
+        "content": "California announced an investigation into Elon Musk’s artificial intelligence company xAI on Wednesday, with Gov. Gavin Newsom saying that the social media site owned by the billionaire is a “breeding ground for predators to spread nonconsenual sexu... [1856 chars]",
+        "url": "https://www.latimes.com/california/story/2026-01-14/newsom-calls-for-investigation-into-social-media-site",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/fde1c43/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb0%2Ff5%2F146b6caa44cbb931c185542639ce%2Fnewsom-09012.jpg",
+        "publishedAt": "2026-01-14T18:27:54Z",
+        "lang": "en",
+        "source": {
+            "id": "492abf277b7277432148b61b21ddc836",
+            "name": "Los Angeles Times",
+            "url": "https://www.latimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7c816f63b9c35915a37fe3d7db3202de",
+        "title": "Amazon's Cloud Growth Tied To AI Advances, Analyst Says",
+        "description": "Amazon is pulling back following a recent analyst report on potential growth in AWS driven by advancements in artificial intelligence.",
+        "content": "Amazon.com Inc (NASDAQ:AMZN) shares are down on Wednesday. The stock is pulling back following a recent bullish analyst report that highlights potential growth in Amazon Web Services (AWS) driven by advancements in artificial intelligence.\nWednesday’... [3737 chars]",
+        "url": "https://www.benzinga.com/trading-ideas/movers/26/01/49915019/amazons-cloud-growth-tied-to-ai-advances-analyst-says",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/01/14/Amazon-com-Inc_3.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2026-01-14T17:43:07Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3b90223e24f5e3c8cc752a9847073db2",
+        "title": "China's customs agents on entry of Nvidia's H200 chips: Wording from the officials is so severe that it is basically ...",
+        "description": "Tech News News: Chinese customs authorities have reportedly instructed agents that Nvidia’s high-end H200 artificial intelligence chips are currently prohibited from .",
+        "content": "Chinese customs authorities have reportedly instructed agents that Nvidia’s high-end H200 artificial intelligence chips are currently prohibited from entering the country, as the silicon trade war escalates between Washington and Beijing. Citing sour... [1925 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/chinas-customs-agents-on-entry-of-nvidias-h200-chips-wording-from-the-officials-is-so-severe-that-it-is-basically-/articleshow/126532125.cms",
+        "image": "https://static.toiimg.com/thumb/msid-126532109,width-1070,height-580,imgsize-204906,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+        "publishedAt": "2026-01-14T17:36:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "e5fd8eefe3807d154ae005f52dfe816b",
         "title": "Oracle sued by bondholders over losses tied to AI buildout",
         "description": "Oracle was sued on Wednesday by bondholders who say they suffered losses because the company led by billionaire Larry Ellison failed to disclose it needed to sell significant additional debt to build out its artificial intelligence infrastructure.",
@@ -93,70 +157,6 @@
             "name": "The Street",
             "url": "https://www.thestreet.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "1bca17813a62a73886fcf49dc5a932da",
-        "title": "US, European regulators set principles for 'good AI practice' in drug development",
-        "description": "The U.S. Food and Drug Administration and the European Medicines Agency jointly issued principles for safe and responsible use of artificial intelligence in developing medicines, aiming to speed up innovation while safeguarding patients.",
-        "content": "Jan 14 (Reuters) - The U.S. Food and Drug Administration and the European Medicines Agency jointly issued principles for safe and responsible use of artificial intelligence in developing medicines, aiming to speed up innovation while safeguarding pat... [1276 chars]",
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-european-regulators-set-principles-good-ai-practice-drug-development-2026-01-14/",
-        "image": "https://www.reuters.com/resizer/v2/KA4CTZYXBRIJRA52DRUA3BCTU4.jpg?auth=fff31faadbd26c04ea3fa0354d0e75088875fd16a976e88c032388b119ce4d70&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-01-14T16:32:54Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b641590325c913f1133973eb2350a904",
-        "title": "AI is boosting scientific careers but shrinking studies",
-        "description": "Artificial intelligence could be good for scientists but bad for science as a whole, a study has found, as it narrows the scope of research.",
-        "content": "Scientists who use artificial intelligence tools publish three times as many papers and climb the academic ranks more than a year faster than peers who do not use the technology.\nBut AI could be having a detrimental impact on scientific research as t... [2486 chars]",
-        "url": "https://www.perthnow.com.au/news/technology/ai-is-boosting-scientific-careers-but-shrinking-studies-c-21310691",
-        "image": "https://images.perthnow.com.au/publication/C-21310691/7eb879a6fe5d5cc4a820f119897ff0110eea0872-16x9-x0y0w1280h720.jpg?imwidth=1200",
-        "publishedAt": "2026-01-14T16:32:50Z",
-        "lang": "en",
-        "source": {
-            "id": "7f6e8514e9d8f8376aaa9a7229861518",
-            "name": "PerthNow",
-            "url": "https://www.perthnow.com.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "d41df060c276c2bc8efd6c5ea4b303c2",
-        "title": "US, European regulators set principles for 'good AI practice' in drug development",
-        "description": "The U.S. Food and Drug Administration and the European Medicines Agency jointly issued principles for safe and responsible use of artificial intelligence in developing medicines, aiming to speed up...",
-        "content": "Jan 14 (Reuters) - The U.S. Food and Drug Administration and the European Medicines Agency jointly issued principles for safe and responsible use of artificial intelligence in developing medicines, aiming to speed up innovation while safeguarding pat... [1526 chars]",
-        "url": "https://www.marketscreener.com/news/us-european-regulators-set-principles-for-good-ai-practice-in-drug-development-ce7e58d9d98cf320",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-12/2025-12-09T205944Z_1_LYNXMPELB819S_RTROPTP_4_USA-HEALTH-FDA.JPG",
-        "publishedAt": "2026-01-14T16:31:42Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "a50bf74038d313de5995f20ba90ee381",
-        "title": "AI is boosting scientific careers but shrinking studies",
-        "description": "Artificial intelligence could be good for scientists but bad for science as a whole, a study has found,...",
-        "content": "Using AI tools can affect scientists' careers as well as the scope of their work, a study found. Photo: Matt Turner/AAP PHOTOS\nScientists who use artificial intelligence tools publish three times as many papers and climb the academic ranks more than ... [4798 chars]",
-        "url": "https://www.canberratimes.com.au/story/9152739/ai-is-boosting-scientific-careers-but-shrinking-studies/",
-        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/098b7bbb-97a9-42ac-94e3-e00706a5a7ff.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-        "publishedAt": "2026-01-14T16:30:40Z",
-        "lang": "en",
-        "source": {
-            "id": "92021aca7322dc2b29226023c35d9a4a",
-            "name": "The Canberra Times",
-            "url": "https://www.canberratimes.com.au",
-            "country": "au"
         }
     }
 ]
