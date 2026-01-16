@@ -1,5 +1,37 @@
 [
     {
+        "id": "986ff602c86b6f03d60982b0e756aed6",
+        "title": "State, federal lawmakers want data centers to pay more for energy",
+        "description": "A growing body of research suggests that the rapid growth of data centers to support the development of artificial intelligence is beginning to drive up electricity costs for residents and small businesses in some places.",
+        "content": "And on Thursday, Senator Chris Van Hollen, a Democrat of Maryland, introduced legislation that he said would ensure that technology companies paid their fair share of costs for upgrades to the electric grid that are needed to provide energy to data c... [4886 chars]",
+        "url": "https://www.bostonglobe.com/2026/01/15/business/lawmakers-data-centers-energy/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/DDMBQEEMVIZWIAZPO25GO5CGIM.jpg?auth=a3c5681ea7acffc44dd3946aa827797f24490736b1b3e07479e2b93ca164f616&width=1440",
+        "publishedAt": "2026-01-15T23:12:15Z",
+        "lang": "en",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6991c29cd24ef6b5fe0b818ec8122416",
+        "title": "Stock Market Today: Dow, S&P Live Updates for January 16",
+        "description": "Asian stocks are set for their longest weekly winning streak since May, with a regional gauge of technology shares climbing to a record as investors step up bets on artificial intelligence.",
+        "content": "Asian stocks are set for their longest weekly winning streak since May, with a regional gauge of technology shares climbing to a record as investors step up bets on artificial intelligence.\nThe MSCI Asia Pacific Index is poised for a fourth week of g... [275 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-01-15/asian-tech-stocks-to-rise-on-renewed-ai-optimism-markets-wrap",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iszGEbiuxPzU/v0/1200x675.png",
+        "publishedAt": "2026-01-15T22:40:15Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "825e2c9ff58ab12a335fd237894f1e3f",
         "title": "Federal privacy commissioner looking into sexualized deepfakes on X platform",
         "description": "The federal privacy commissioner will investigate the proliferation of sexualized deepfakes created by artificial intelligence chatbot Grok and shared on X.",
@@ -125,38 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "278dcb000e3383d21d07d8cbed2e5439",
-        "title": "DIAGNOS Announces the Engagement of IBN",
-        "description": "BROSSARD, Quebec, Jan. 15, 2026 (GLOBE NEWSWIRE) -- Diagnos Inc. ('DIAGNOS” or the 'Corporation”) (TSX Venture: ADK, OTCQB: DGNOF, FWB: 4D4A), a pioneer in early detection of critical health issues using advanced technology based on Artificial Intelligence (AI), announces the engagement of Investor Brand Network ('IBN”) to provide corporate communication and awareness solutions to the Corporation.",
-        "content": "BROSSARD, Quebec, Jan. 15, 2026 (GLOBE NEWSWIRE) -- Diagnos Inc. (\"DIAGNOS” or the \"Corporation”) (TSX Venture: ADK, OTCQB: DGNOF, FWB: 4D4A), a pioneer in early detection of critical health issues using advanced technology based on Artificial Intell... [2322 chars]",
-        "url": "https://www.manilatimes.net/2026/01/16/tmt-newswire/globenewswire/diagnos-announces-the-engagement-of-ibn/2259993",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/16/901670.png",
-        "publishedAt": "2026-01-15T20:36:55Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "6953033beb0129d7a6503751bce84d67",
-        "title": "AI Coding Startup Replit Nears Funding at $9 Billion Valuation",
-        "description": "Replit Inc., an artificial intelligence coding startup, is nearing a deal for a new round of funding that would roughly triple its valuation to $9 billion, including the money raised, according to people familiar with the matter.",
-        "content": "Replit Inc., an artificial intelligence coding startup, is nearing a deal for a new round of funding that would roughly triple its valuation to $9 billion, including the money raised, according to people familiar with the matter.\nThe company is in ad... [340 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-01-15/ai-coding-startup-replit-nears-funding-at-9-billion-valuation",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibCzSroV7wQo/v1/1200x800.jpg",
-        "publishedAt": "2026-01-15T20:30:40Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
         }
     }
 ]
