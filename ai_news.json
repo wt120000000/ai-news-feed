@@ -1,5 +1,21 @@
 [
     {
+        "id": "db30d5e164b258b8b563863948727b88",
+        "title": "Trump declares war on Tech Giants to halt soaring electric bills, forces data centers to fund new power plants",
+        "description": "In an unprecedented emergency intervention, the Trump administration is preparing to confront the nation’s spiraling electricity crisis by directly targeting the trillion-dollar technology industry. Facing a grid pushed to its breaking point by an insatiable demand from artificial intelligence data centers, President Trump is aligning with a bipartisan coalition of state governors to force tech […]",
+        "content": "In an unprecedented emergency intervention, the Trump administration is preparing to confront the nation’s spiraling electricity crisis by directly targeting the trillion-dollar technology industry. Facing a grid pushed to its breaking point by an in... [4845 chars]",
+        "url": "https://www.naturalnews.com/2026-01-17-trump-to-halt-soaring-electric-bills.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/01/Power-Plant-Grid-Electricity.jpg",
+        "publishedAt": "2026-01-17T05:45:10Z",
+        "lang": "en",
+        "source": {
+            "id": "188e9ebf53d05fc7ba360240a0b28154",
+            "name": "Natural News",
+            "url": "https://www.naturalnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "20e69a203910d29f0ca72a907ff6731e",
         "title": "97% of listeners ‘can’t tell real music from AI creations’",
         "description": "A staggering 97% of listeners are unable to distinguish between music created by artificial intelligence and tracks composed by humans, a survey conducted by the music streaming service Deezer and the market research firm Ipsos has found.",
@@ -80,6 +96,22 @@
         }
     },
     {
+        "id": "36675e8999ac2a0554ad25d7aeb779d2",
+        "title": "From pilots to deployment: OpenAI’s nonprofit push targets AI scale in India",
+        "description": "With its four-city nonprofit workshop tour, OpenAI aims to accelerate the integration of artificial intelligence into India’s social sector.",
+        "content": "For Misra, the tour addresses a dissonance she has observed since joining the company in April 2024. “I have seen, whenever we have had interactions with nonprofits, it is the same set of people that show up,” Misra said. “They are really leaning int... [5457 chars]",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/openais-nonprofit-push-targets-ai-scale-in-india-10477735/",
+        "image": "https://images.indianexpress.com/2026/01/OpenAI-Nonprofit-Jam.jpg",
+        "publishedAt": "2026-01-17T03:30:08Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "cd67c35606faf8da90f9b7e13a8809b2",
         "title": "WEF economists see modest global recovery amid AI and debt risks",
         "description": "The global economic outlook has improved modestly but remains clouded by high debt levels and uncertainty surrounding artificial intelligence valuations,",
@@ -125,38 +157,6 @@
             "name": "The Straits Times",
             "url": "https://www.straitstimes.com",
             "country": "sg"
-        }
-    },
-    {
-        "id": "f662cfa3b8255e31bc43e0ec11b5fd40",
-        "title": "Global sports face challenges from 'AI slop' misinformation",
-        "description": "A study by AI risk management platform Alethea into the surge in artificial intelligence-generated fake content, dubbed \"AI slop,\" has warned sports teams, leagues and fans of the risks posed by increasingly sophisticated digital misinformation.",
-        "content": "Jan 16 (Reuters) - A study by AI risk management platform Alethea into the surge in artificial intelligence-generated fake content, dubbed \"AI slop,\" has warned sports teams, leagues and fans of the risks posed by increasingly sophisticated digital m... [3890 chars]",
-        "url": "https://www.reuters.com/sports/global-sports-face-challenges-ai-slop-misinformation-2026-01-17/",
-        "image": "https://www.reuters.com/resizer/v2/NTXWJUOGCRPS5NI3VXHSM3XP5M.jpg?auth=44a5d3cfe4d802732be5d24e37d69433ebb18b9c93984df5d06b360fe7f4255e&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-01-17T00:15:43Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "7387532180f2a81fede58cb7bda5816b",
-        "title": "Global sports face challenges from 'AI slop' misinformation",
-        "description": "Jan 16 (Reuters) - A study by AI risk management ‌platform Alethea into the surge in artificial intelligence-generated fake content, dubbed \"AI slop,\" has warned sports teams, leagues and fans of the risks posed by ‌increasingly sophisticated digital misinformation.",
-        "content": "Jan 16 (Reuters) - A study by AI risk management ‌platform Alethea into the surge in artificial intelligence-generated fake content, dubbed \"AI slop,\" has warned sports teams, leagues and fans of the risks posed by ‌increasingly sophisticated digital... [4120 chars]",
-        "url": "https://www.thestar.com.my/sport/others/2026/01/17/global-sports-face-challenges-from-039ai-slop039-misinformation",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/01/17/3724738.jpg",
-        "publishedAt": "2026-01-17T00:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
