@@ -1,5 +1,37 @@
 [
     {
+        "id": "cbf201f55a690d7404abd83ce5d9e995",
+        "title": "Trauma of AI misuse: AI tools are being used to generate sexual images, with woman & kids becoming victims",
+        "description": "With generative artificial intelligence becoming a tool to produce sexually explicit content and women having to face the horrific consequences, the onus lies on tech firms and law enforcement agencies to make online space safer.",
+        "content": "One of the most alarming threats invading the digital space today is the misuse of generative AI — artificial intelligence that mimics human learning patterns to create non-consensual explicit imagery. At the receiving end recently was Chhattisgarh-b... [8952 chars]",
+        "url": "https://www.tribuneindia.com/news/in-depth/trauma-of-ai-misuse-ai-tools-are-being-used-to-generate-sexual-images-with-woman-kids-becoming-victims/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkyNDMxMzcwLWYzZjItMTFmMC1hMDFiLTY5ODE4NmI1ZTViMy5qcGc=",
+        "publishedAt": "2026-01-17T22:19:09Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "f2a45651c98b27b6def64bf9452d2caa",
+        "title": "The AI power list: the 14 most influential people reshaping our world",
+        "description": "From Elon Musk to Sam Altman, from chip builders to a self-driving taxi pioneer, Danny Fortson introduces the key men and women powering the artificial intelligence revolution — and making billions in the process",
+        "content": "Yet for every eyeroll-inducing prediction, there are signs of the very real changes AI has begun to unleash. In “AI-exposed fields”, the Stanford Digital Economy Lab has already found a 13 per cent drop in hiring for young graduates. Millions of peop... [26550 chars]",
+        "url": "https://www.thetimes.com/business/technology/article/ai-power-list-elon-musk-sam-altman-jensen-huang-jqwqrqsc7",
+        "image": "https://www.thetimes.com/imageserver/image/%2F82a4e32b-61cc-40ac-b0be-417f0e61fec2.gif?crop=1600%2C900%2C0%2C0&resize=1200",
+        "publishedAt": "2026-01-17T22:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "b419a989918b3665a34559f5047546b6",
+            "name": "The Sunday Times",
+            "url": "https://www.thetimes.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "bd3308ca629dd902e9ae7673d24fa887",
         "title": "Here's what Chaim Bloom had to say on trades, goals, AI, more at Cardinals Winter Warm-up",
         "description": "Cardinals president of baseball operations Chaim Bloom, in a wide-ranging interview Saturday at Cardinals Winter Warm-up, spoke about fans, the rebuild, artificial intelligence and a potential Brendan Donovan trade.",
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "c61363369bfde126b3522b13c325967b",
-        "title": "Nvidia H200 chip parts suppliers halt output after China blocks shipments",
-        "description": "SUPPLIERS of parts for Nvidia’s H200 have paused production after Chinese customs officials blocked shipments of the newly approved artificial intelligence processors from entering China, the Financial Times reported on Friday.",
-        "content": "SUPPLIERS of parts for Nvidia’s H200 have paused production after Chinese customs officials blocked shipments of the newly approved artificial intelligence processors from entering China, the Financial Times reported on Friday.\nNvidia had expected mo... [1076 chars]",
-        "url": "https://www.manilatimes.net/2026/01/18/business/top-business/nvidia-h200-chip-parts-suppliers-halt-output-after-china-blocks-shipments/2260692",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/17/903473.jpg",
-        "publishedAt": "2026-01-17T16:10:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "c09e9e00c326faf7601a5316609f70ce",
-        "title": "Agentic AI: The Force Multiplier Philippine CISOs need now",
-        "description": "ARTIFICIAL intelligence (AI) has become an accelerant in cybersecurity, empowering defenders while also supercharging adversaries. Threat actors are already weaponizing agentic AI to orchestrate adaptive, autonomous attacks that move at machine speed. Phishing campaigns evolve in real time, malware rewrites itself midstrike, and deepfakes impersonate executives with increasing precision.",
-        "content": "ARTIFICIAL intelligence (AI) has become an accelerant in cybersecurity, empowering defenders while also supercharging adversaries. Threat actors are already weaponizing agentic AI to orchestrate adaptive, autonomous attacks that move at machine speed... [6333 chars]",
-        "url": "https://www.manilatimes.net/2026/01/18/business/sunday-business-it/agentic-ai-the-force-multiplier-philippine-cisos-need-now/2260737",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/18/903520.jpg",
-        "publishedAt": "2026-01-17T16:09:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
