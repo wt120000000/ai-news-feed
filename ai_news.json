@@ -1,5 +1,53 @@
 [
     {
+        "id": "8d1d6ba3748563810f349d2972c1d937",
+        "title": "Musk seeks up to $134 billion damages from OpenAI, Microsoft",
+        "description": "Musk left OpenAI’s board in 2018, launched his own artificial intelligence company in 2023 and began legal proceedings in 2024.",
+        "content": "Elon Musk wants OpenAI and Microsoft to pay him damages in the range of $79 billion to $134 billion over his claims that the generative AI company defrauded him by abandoning its nonprofit roots and partnering with the software giant.\nMusk’s lawyer d... [528 chars]",
+        "url": "https://www.japantimes.co.jp/business/2026/01/18/musk-damages-openai-microsoft/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/01/18/517717.JPG?v=3.1",
+        "publishedAt": "2026-01-18T10:01:11Z",
+        "lang": "en",
+        "source": {
+            "id": "4b9101ef61d45607a32072a7504f5fb0",
+            "name": "The Japan Times ",
+            "url": "https://www.japantimes.co.jp",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "e796a040ba3a127a9571861e5b69b5d6",
+        "title": "At Davos, Global Leaders Gather to Ponder the Future of a Messy World",
+        "description": "At its 56th annual meeting in Davos, the World Economic Forum will wrestle with war, economics, artificial intelligence and other pressing issues.",
+        "content": "Advertisement\nSKIP ADVERTISEMENT\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\nGlobal Leaders Gather in Switzerland to Ponder the Future of a Messy World\n... [1999 chars]",
+        "url": "https://www.nytimes.com/2026/01/18/business/davos-world-economic-forum-trump.html",
+        "image": "https://static01.nyt.com/images/2026/01/19/multimedia/19sp-davos-lede-inyt-03-gphj/19sp-davos-lede-inyt-03-gphj-facebookJumbo.jpg",
+        "publishedAt": "2026-01-18T10:00:44Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "742768d75059a32d89ffb6c930de9321",
+        "title": "AI adoption outpaces training; 71% professionals expect role changes: Report",
+        "description": "Artificial Intelligence is rapidly changing workplaces. Many professionals expect their jobs to evolve significantly in the coming years due to AI. However, a large number feel their companies are not providing adequate training on AI tools. This lack of guidance leads to uncertainty about AI's role.",
+        "content": "Synopsis\nArtificial Intelligence is rapidly changing workplaces. Many professionals expect their jobs to evolve significantly in the coming years due to AI. However, a large number feel their companies are not providing adequate training on AI tools.... [2590 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-adoption-outpaces-training-71-professionals-expect-role-changes-report/articleshow/126640163.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-25928,resizemode-75,msid-126640163/tech/artificial-intelligence/ai-adoption-outpaces-training-71-professionals-expect-role-changes-report.jpg",
+        "publishedAt": "2026-01-18T09:50:34Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "947efd3911d23a85d6f721bf1420ea9b",
         "title": "‘No explanation, just wasted time’: Indian entrepreneur rails against no-show new hires",
         "description": "Amid the talk on work-life balance, the job scene in India has transformed over the last few years. While several professionals have expressed disappointment over artificial intelligence, companies look for candidates who can keep pace with the ever-changing technology.",
@@ -108,54 +156,6 @@
             "id": "c73686fdf0e30639d57eddaf7a77236e",
             "name": "India Today",
             "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "aab565290e457589915de9018134a063",
-        "title": "‘I sent xAI a cease-and-desist letter’: California’s Attorney General takes action against Grok amid major backlash",
-        "description": "California Attorney General Robert Bonta on Friday sent a cease-and-desist letter to xAI demanding the company stop the creation and distribution of artificial intelligence-generated nonconsensual sexualized imagery by its Grok chatbot.",
-        "content": "The Attorney General of California Robert Bonta on Friday announced that it is investigating xAI over Grok using its chatbot to create the sexually explicit images of women and young girls.\nCease-and-desist letter\nThe government sent a cease-and-desi... [1618 chars]",
-        "url": "https://www.firstpost.com/tech/i-sent-xai-a-cease-and-desist-letter-californias-attorney-general-takes-action-against-grok-amid-major-backlash-13969826.html",
-        "image": "https://images.firstpost.com/uploads/2026/01/2026-01-10T071240Z_1643871076_RC2PVCA7FSED_RTRMADP_3_XAI-GROK-INDONESIA-2026-01-3dc4de39deecff39461176d3e508c1e9-1200x675.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-01-18T06:10:24Z",
-        "lang": "en",
-        "source": {
-            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-            "name": "Firstpost",
-            "url": "https://www.firstpost.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "7fd85ea76c9345cd9bb8f5c5cebddf25",
-        "title": "‘I use ChatGPT like a lifecoach ... It has helped me avoid a lot of arguments’",
-        "description": "Hundreds of millions of users are turning to artificial intelligence for advice, help and emotional support",
-        "content": "When Claudia Zedda decided she wanted to run a half marathon, she turned to artificial intelligence.\nShe asked the AI bot ChatGPT to create a plan for her 21km run.\n“I didn’t have a running coach. I didn’t have running background,” says the Sardinian... [8776 chars]",
-        "url": "https://www.irishtimes.com/health/2026/01/18/i-use-chatgpt-like-a-lifecoach-it-has-helped-me-avoid-a-lot-of-arguments/",
-        "image": "https://www.irishtimes.com/resizer/v2/HGV2WCD34JDEXEQU36SGFNE6R4.jpeg?smart=true&auth=e519e97220a9ad372504fc37731154207610efb01b8f0e28d0dff525654002eb&width=1200&height=630",
-        "publishedAt": "2026-01-18T06:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "dd1d806725f45e4403e75c1bb23b447a",
-            "name": "The Irish Times",
-            "url": "https://www.irishtimes.com",
-            "country": "ie"
-        }
-    },
-    {
-        "id": "10282710e40d582f0a49ddbca69444e4",
-        "title": "AI investment surge to drive power demand, net job gains: WEF",
-        "description": "Artificial intelligence investments led by the United States and China will shape Davos 2026, with WEF highlighting global job and energy impacts.",
-        "content": "Artificial intelligence investments are accelerating globally, led largely by the United States and China, which together account for nearly 65% of total global AI spending, according to Cathy Li, Head of AI, Data and Metaverse and Member of the Exec... [1736 chars]",
-        "url": "https://www.cnbctv18.com/world/ai-investment-surge-to-drive-power-demand-net-job-gains-wef-ws-el-19823112.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/01/image-2026-01-8789328ecb9a8328429a589b3d0fecbc.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-01-18T05:56:48Z",
-        "lang": "en",
-        "source": {
-            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-            "name": "CNBC TV18",
-            "url": "https://www.cnbctv18.com",
             "country": "in"
         }
     }
