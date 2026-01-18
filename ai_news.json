@@ -1,5 +1,37 @@
 [
     {
+        "id": "c61363369bfde126b3522b13c325967b",
+        "title": "Nvidia H200 chip parts suppliers halt output after China blocks shipments",
+        "description": "SUPPLIERS of parts for Nvidia’s H200 have paused production after Chinese customs officials blocked shipments of the newly approved artificial intelligence processors from entering China, the Financial Times reported on Friday.",
+        "content": "SUPPLIERS of parts for Nvidia’s H200 have paused production after Chinese customs officials blocked shipments of the newly approved artificial intelligence processors from entering China, the Financial Times reported on Friday.\nNvidia had expected mo... [1076 chars]",
+        "url": "https://www.manilatimes.net/2026/01/18/business/top-business/nvidia-h200-chip-parts-suppliers-halt-output-after-china-blocks-shipments/2260692",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/17/903473.jpg",
+        "publishedAt": "2026-01-17T16:10:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "c09e9e00c326faf7601a5316609f70ce",
+        "title": "Agentic AI: The Force Multiplier Philippine CISOs need now",
+        "description": "ARTIFICIAL intelligence (AI) has become an accelerant in cybersecurity, empowering defenders while also supercharging adversaries. Threat actors are already weaponizing agentic AI to orchestrate adaptive, autonomous attacks that move at machine speed. Phishing campaigns evolve in real time, malware rewrites itself midstrike, and deepfakes impersonate executives with increasing precision.",
+        "content": "ARTIFICIAL intelligence (AI) has become an accelerant in cybersecurity, empowering defenders while also supercharging adversaries. Threat actors are already weaponizing agentic AI to orchestrate adaptive, autonomous attacks that move at machine speed... [6333 chars]",
+        "url": "https://www.manilatimes.net/2026/01/18/business/sunday-business-it/agentic-ai-the-force-multiplier-philippine-cisos-need-now/2260737",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/18/903520.jpg",
+        "publishedAt": "2026-01-17T16:09:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "ee932b77634d67b1cf9347c6257fd237",
         "title": "Resident reports fake AI images of himself on social media; man with suspected drugs faces charges: Brook Park police blotter",
         "description": "A Brook Park resident told police reported Jan. 2 that an unidentified person had been posting artificial-intelligence-generated images of him on various social media platforms. Also, A Cleveland man may face charges after police found a plastic bag containing what they believed were illegal drugs in his Ford Edge.",
@@ -124,38 +156,6 @@
             "id": "5464668c1f0466950a0b2fab5249ec6c",
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "85ecbca7feecff36d418862004812902",
-        "title": "Startup Day 2026: How technology, talent, and policy are shaping the next wave of Indian startups",
-        "description": "Technology, particularly artificial intelligence and data-driven platforms, has become a baseline capability rather than a differentiator. Easy access to cloud infrastructure, digital public platforms, and open APIs has raised expectations across sectors.",
-        "content": "National Startup Day 2026 arrives at a moment of quiet yet decisive transformation for India’s entrepreneurial ecosystem. The narrative has clearly shifted from rapid user acquisition and valuation-led growth to one anchored in depth, durability, and... [3829 chars]",
-        "url": "https://www.businesstoday.in/entrepreneurship/start-up/story/startup-day-2026-how-technology-talent-and-policy-are-shaping-the-next-wave-of-indian-startups-511345-2026-01-17",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202601/696b8d11ec5ff-as-startup-day-2026-underscores--indias-startup-story-is-no-longer-about-catching-up-it-is-about-b-17222096-16x9.jpg",
-        "publishedAt": "2026-01-17T13:24:20Z",
-        "lang": "en",
-        "source": {
-            "id": "76a2f820b104591b97fed1b0932cec38",
-            "name": "Business Today",
-            "url": "https://www.businesstoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "97b839ffd1cd81f8ee8fa81de78c38bc",
-        "title": "Elon Musk’s xAI data centre’s rapid construction may face ‘problem' with this updated US law",
-        "description": "Tech News News: The US Environmental Protection Agency (EPA) has closed a loophole that was reportedly exploited by Elon Musk’s artificial intelligence startup xAI. T.",
-        "content": "Elon Musk's xAI faces a setback as the EPA closes a loophole allowing its Memphis data center to operate gas turbines without permits. This move could slow expansion, impacting AI development. Local residents and environmental groups had raised conce... [3437 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-xai-data-centres-rapid-construction-may-face-problem-with-this-updated-us-law/articleshow/126612231.cms",
-        "image": "https://static.toiimg.com/thumb/msid-126612231,width-1280,height-720,imgsize-20874,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-01-17T13:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     }
