@@ -1,5 +1,21 @@
 [
     {
+        "id": "26e5d542b5d2ceb2cfec145546e70e3d",
+        "title": "OpenAI to test ads in ChatGPT in bid to boost revenue",
+        "description": "The money-losing startup plans to spend more than $1 trillion on artificial intelligence infrastructure by 2030, but has not given details on how it plans to fund it.",
+        "content": "The money-losing startup plans to spend more than $1 trillion on artificial intelligence infrastructure by 2030, but has not given details on how it plans to fund it.\nAnalysts said that ads could unlock a ‌significant revenue stream from ChatGPT’s 80... [1131 chars]",
+        "url": "https://indianexpress.com/article/technology/openai-to-test-ads-in-chatgpt-in-bid-to-boost-revenue-10478807/",
+        "image": "https://images.indianexpress.com/2026/01/IE-2026-01-17T094013.875.jpg",
+        "publishedAt": "2026-01-18T04:04:45Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "cbf201f55a690d7404abd83ce5d9e995",
         "title": "Trauma of AI misuse: AI tools are being used to generate sexual images, with woman & kids becoming victims",
         "description": "With generative artificial intelligence becoming a tool to produce sexually explicit content and women having to face the horrific consequences, the onus lies on tech firms and law enforcement agencies to make online space safer.",
@@ -141,22 +157,6 @@
             "name": "ScienceAlert",
             "url": "https://www.sciencealert.com",
             "country": "au"
-        }
-    },
-    {
-        "id": "59a778bb34fcac1ed4b2e18801f97aa1",
-        "title": "AIX Ventures cofounder Shaun Johnson departs",
-        "description": "AIX Ventures — a venture capital firm that has backed artificial intelligence startups including Perplexity, Windsurf and Ideogram — saw cofounder Shaun Johnson exit the firm last month.",
-        "content": "Synopsis\nAIX Ventures — a venture capital firm that has backed artificial intelligence startups including Perplexity, Windsurf and Ideogram — saw cofounder Shaun Johnson exit the firm last month.\nAIX Ventures — a venture capital firm that has backed ... [1122 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/startups/aix-ventures-cofounder-shaun-johnson-departs/articleshow/126623688.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-39716,resizemode-75,msid-126623688/tech/startups/aix-ventures-cofounder-shaun-johnson-departs.jpg",
-        "publishedAt": "2026-01-17T17:56:27Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
