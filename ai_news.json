@@ -1,5 +1,21 @@
 [
     {
+        "id": "a0ff63b84b4c898e66e40fdc216e5753",
+        "title": "AI model detects prediabetes using ECG data without need for blood tests",
+        "description": "DiaCardia, a novel artificial intelligence model that can accurately identify individuals with prediabetes using either 12-lead or single-lead electrocardiogram (ECG) data, has been developed. This breakthrough holds promise for future home-based prediabetes screening using consumer wearable devices, without requiring invasive blood tests.",
+        "content": "DiaCardia, a novel artificial intelligence model that can accurately identify individuals with prediabetes using either 12-lead or single-lead electrocardiogram (ECG) data, has been developed. This breakthrough holds promise for future home-based pre... [4525 chars]",
+        "url": "https://medicalxpress.com/news/2026-01-ai-prediabetes-ecg-blood.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/diacardia-scalable-and.jpg",
+        "publishedAt": "2026-01-19T21:10:05Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "e37325bf99f554f1d6107131878fe0aa",
         "title": "Atomistic simulation software CP2K enables AI models",
         "description": "The CP2K open-source package is among the top three most widely used research software suites worldwide for simulating the behavior of atoms and molecules. Among other applications, CP2K plays an important role in generating data used to train artificial intelligence (AI)-based models that determine molecular energies and forces.",
@@ -141,22 +157,6 @@
             "name": "CNBC",
             "url": "https://www.cnbc.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "258021d0530ea08516175682a9ce3878",
-        "title": "Why AI-Driven Wellness Will Fail Without Biological Personalization",
-        "description": "Artificial intelligence is rapidly transforming healthcare. From predictive diagnostics to virtual coaching, AI-powered wellness platforms promise smarter, faster, more scalable health solutions. Yet most of these platforms are built on a fragile assumption: that human biology is sufficiently uniform for generalized algorithms to work. It isn’t. Without true biological personalization, AI-driven wellness is not just […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence is rapidly transforming healthcare. From predictive diagnostics to virtual coaching, AI-powered wellness platforms promise smarter, faster, more scalable health solutions.\nYet most of these platfo... [4400 chars]",
-        "url": "https://techbullion.com/why-ai-driven-wellness-will-fail-without-biological-personalization/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/01/ssg-1000x600.png",
-        "publishedAt": "2026-01-19T18:11:45Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
         }
     }
 ]
