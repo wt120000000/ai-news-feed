@@ -1,5 +1,37 @@
 [
     {
+        "id": "86ea0408ca35ccef4075fd0bb0d54c3c",
+        "title": "Stock Market Today: Dow, S&P Live Updates for Jan. 20",
+        "description": "Treasuries fell and stocks pulled back as President Donald Trump’s Greenland-related tariff threats reignited trade tensions, testing market confidence after a rally fueled by investments in artificial intelligence.",
+        "content": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world\nConnecting decision makers to a dynamic network of infor... [709 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-01-19/stock-market-today-dow-s-p-live-updates",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isbO3B2jzSpw/v0/1200x675.png",
+        "publishedAt": "2026-01-19T22:24:47Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ea920b931eda9a302b197abff6c13fd9",
+        "title": "It's becoming harder to determine what's real online",
+        "description": "Artificial intelligence is so good that pretty much anything can be created on a laptop by the average person and posted online. Read more.",
+        "content": "Article content\nWe live in the age of the death of truth.\nAdvertisement 2\nStory continues below\nThis advertisement has not loaded yet, but your article continues below.\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\nSubscribe now to read the latest ne... [5815 chars]",
+        "url": "https://torontosun.com/opinion/columnists/reality-becoming-hard-to-determine-online",
+        "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2025/01/cda-deepseek-tech-20250128.jpg",
+        "publishedAt": "2026-01-19T21:50:25Z",
+        "lang": "en",
+        "source": {
+            "id": "09dc1bda762f4f787cec10477a894d96",
+            "name": "Toronto Sun",
+            "url": "https://torontosun.com",
+            "country": "ca"
+        }
+    },
+    {
         "id": "a0ff63b84b4c898e66e40fdc216e5753",
         "title": "AI model detects prediabetes using ECG data without need for blood tests",
         "description": "DiaCardia, a novel artificial intelligence model that can accurately identify individuals with prediabetes using either 12-lead or single-lead electrocardiogram (ECG) data, has been developed. This breakthrough holds promise for future home-based prediabetes screening using consumer wearable devices, without requiring invasive blood tests.",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "22afb35222ab1bcd398f1f2bacb919d4",
-        "title": "‘Diabolical’: Elon Musk reacts to claims ChatGPT ‘convinced’ man to commit murder",
-        "description": "US News: Elon Musk weighed in on the row around artificial intelligence (AI) after a US lawsuit alleged that OpenAI’s ChatGPT made an already mentally unwell m.",
-        "content": "Elon Musk weighed in on the row around artificial intelligence (AI) after a US lawsuit alleged that OpenAI’s ChatGPT made an already mentally unwell man commit a murder, then commit suicide. “This is diabolical. OpenAI’s ChatGPT convinced a guy to do... [504 chars]",
-        "url": "https://timesofindia.indiatimes.com/world/us/diabolical-elon-musk-reacts-to-claims-chatgpt-convinced-man-to-commit-murder-suicide/articleshow/126710301.cms",
-        "image": "https://static.toiimg.com/thumb/msid-126710301,width-1280,height-720,imgsize-1001932,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-01-19T18:41:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "daa7a65e85cda1553a0dd71fc98908bd",
-        "title": "OpenAI to focus on 'practical adoption' in 2026, says finance chief Sarah Friar",
-        "description": "OpenAI will make 2026 its year of \"practical adoption,\" the artificial intelligence startup's finance chief said in a blog Sunday.",
-        "content": "OpenAI will make 2026 its year of \"practical adoption,\" the artificial intelligence startup's finance chief said in a blog Sunday.\n\"The priority is closing the gap between what AI now makes possible and how people, companies, and countries are using ... [2751 chars]",
-        "url": "https://www.cnbc.com/2026/01/19/openai-to-focus-on-practical-adoption-in-2026-says-finance-chief-sarah-friar.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108188496-1755694394550-SG-Friar-01.jpg?v=1755694558&w=1920&h=1080",
-        "publishedAt": "2026-01-19T18:26:44Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
         }
     }
 ]
