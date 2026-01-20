@@ -1,5 +1,21 @@
 [
     {
+        "id": "e37325bf99f554f1d6107131878fe0aa",
+        "title": "Atomistic simulation software CP2K enables AI models",
+        "description": "The CP2K open-source package is among the top three most widely used research software suites worldwide for simulating the behavior of atoms and molecules. Among other applications, CP2K plays an important role in generating data used to train artificial intelligence (AI)-based models that determine molecular energies and forces.",
+        "content": "The CP2K open-source package is among the top three most widely used research software suites worldwide for simulating the behavior of atoms and molecules. Among other applications, CP2K plays an important role in generating data used to train artifi... [5432 chars]",
+        "url": "https://phys.org/news/2026-01-atomistic-simulation-software-cp2k-enables.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/atomistic-simulation-s.jpg",
+        "publishedAt": "2026-01-19T19:47:22Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
         "id": "b6d39daa35c293518de3859572cffb96",
         "title": "Google’s Gemini enters IPL as sponsor in Rs 270 crore, three-year deal",
         "description": "Google-owned Gemini has secured a three-year sponsorship deal with the Indian Premier League (IPL) worth an estimated Rs 270 crore. This significant partnership highlights the growing influence of artificial intelligence platforms in Indian cricket, following ChatGPT's sponsorship of the Women's Premier League.",
@@ -141,22 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "5f67d63b94de51438dc246e6888f02fe",
-        "title": "Major IT Companies Face ₹5,400 Crore Impact from New Labour Codes in Q3 FY26",
-        "description": "India's six largest IT companies absorbed a combined ₹5,400 crore one-time charge in Q3 FY26 due to new labour code implementation, with TCS facing the highest impact at ₹2,128 crore. Despite significant profit declines across most firms, the sector demonstrated strong operational resilience with robust revenue growth, healthy AI-driven demand, and strong deal pipelines. Companies reported continued momentum in artificial intelligence services and maintained optimistic outlook for future growth despite ongoing margin pressures from regulatory changes.",
-        "content": "India's top six IT services companies faced a substantial financial impact in Q3 FY26, absorbing a combined ₹5,400 crore one-time charge due to the implementation of new labour codes. The regulatory changes, which consolidate 29 existing labour laws,... [9269 chars]",
-        "url": "https://scanx.trade/stock-market-news/earnings/major-it-companies-face-5-400-crore-impact-from-new-labour-codes-in-q3-fy26/30391890",
-        "image": "http://news-images.dhan.co/major-it-companies-face-5-400-crore-impact-from-new-labour-codes-in-q3-fy26.jpg",
-        "publishedAt": "2026-01-19T18:11:30Z",
-        "lang": "en",
-        "source": {
-            "id": "f746366686e467440a63dd26dbb72053",
-            "name": "scanx.trade",
-            "url": "https://scanx.trade",
-            "country": "in"
         }
     }
 ]
