@@ -1,5 +1,21 @@
 [
     {
+        "id": "9956deb90fefb9d8c74ef249d8393b13",
+        "title": "$10 billion data centre planned for Hazelwood in Victoria's Latrobe Valley",
+        "description": "Victoria's east is set to become home to a $10 billion data centre that will support the technology necessary for artificial intelligence systems.",
+        "content": "Victoria's Gippsland region will soon be home to one of the largest pieces of artificial intelligence infrastructure in Australia.\nSingaporean asset manager and operator Keppel Ltd plans to build a 720-megawatt data centre worth $10 billion at a 123-... [3558 chars]",
+        "url": "https://www.abc.net.au/news/2026-01-22/keppel-data-centre-latrobe-valley/106123748",
+        "image": "https://live-production.wcms.abc-cdn.net.au/72e583376d6eed0bf597adb17536db45?impolicy=wcms_watermark_news&cropH=348&cropW=618&xPos=3&yPos=32&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-01-21T21:45:17Z",
+        "lang": "en",
+        "source": {
+            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+            "name": "ABC (Australian Broadcasting Corporation)",
+            "url": "https://www.abc.net.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "c1808099fe5ecdee17f22d415e08b1ae",
         "title": "AI helps fuel new era of medical self-testing",
         "description": "Beyond smart watches and rings, artificial intelligence is being used to make self-testing for major diseases more readily available -- from headsets that detect early signs of Alzheimer's to an iris-scanning app that helps spot cancer. \"The reason preventive medicine doesn't work right now is because you don't want to…",
@@ -141,22 +157,6 @@
             "name": "Hindustan Times",
             "url": "https://www.hindustantimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "2b05113d373b675f2bac3c17437c7721",
-        "title": "Apple is reportedly overhauling Siri to be an AI chatbot",
-        "description": "Apple has been spinning its wheels for many months over its approach to artificial intelligence, but a strategy finally appears to be emerging for the company.",
-        "content": "Apple has been spinning its wheels for many months over its approach to artificial intelligence, but a strategy finally appears to be emerging for the company. Bloomberg's Mark Gurman reported today that Apple's long-awaited Siri overhaul will allege... [1226 chars]",
-        "url": "https://www.engadget.com/ai/apple-is-reportedly-overhauling-siri-to-be-an-ai-chatbot-205303818.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/OeX3xG3SrX_IlXYn011dPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-01/30fb3554-9656-4275-9def-0bb0d222a88c",
-        "publishedAt": "2026-01-21T20:53:03Z",
-        "lang": "en",
-        "source": {
-            "id": "549a7a859b2345bbe231b00e7244ef99",
-            "name": "Engadget",
-            "url": "https://www.engadget.com",
-            "country": "us"
         }
     }
 ]
