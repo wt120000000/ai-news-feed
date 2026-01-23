@@ -1,5 +1,37 @@
 [
     {
+        "id": "356f5978da440eadfe4d3b540c6fcef3",
+        "title": "Canada Pension Plan's investment arm criticized over funding for Elon Musk's xAI, maker of Grok",
+        "description": "The Canada Pension Plan Investment Board (CPPIB) is facing criticism for having provided $300 million US for the funding of infrastructure for Elon Musk's xAI, the company behind the controversial Grok artificial intelligence chatbot tool.",
+        "content": "The Canada Pension Plan Investment Board (CPPIB) is facing criticism for having provided $300 million US for the funding of infrastructure for Elon Musk's xAI, the company behind the controversial Grok artificial intelligence chatbot tool.\nMusk's xAI... [2603 chars]",
+        "url": "https://www.cbc.ca/news/business/cppib-xai-infrstructure-funding-musk-9.7057078",
+        "image": "https://i.cbc.ca/ais/dff4e9cb-c599-41e9-be15-731bf5231b0b,1769134309289/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C246%2C4724%2C2657%29%3BResize%3D620",
+        "publishedAt": "2026-01-23T03:31:56Z",
+        "lang": "en",
+        "source": {
+            "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+            "name": "CBC.ca",
+            "url": "https://www.cbc.ca",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "5ea88c96b336bf60c9326577b5214cd7",
+        "title": "Is Your AI an ROI Disappointment? You're Probably Aiming Too Low",
+        "description": "Businesses that have an eye on increasing profits try to implement artificial intelligence in any number of ways, but in too many cases, their AI expectations are shattered.",
+        "content": "Businesses that have an eye on increasing profits try to implement artificial intelligence in any number of ways, but in too many cases, their AI expectations are shattered.\nRAND Corp. research reports that, by some estimates, more than 80% of AI pro... [6282 chars]",
+        "url": "https://www.ibtimes.com/your-ai-roi-disappointment-youre-probably-aiming-too-low-3796123",
+        "image": "https://d.ibtimes.com/en/full/4641571/your-ai-roi-disappointment.jpg",
+        "publishedAt": "2026-01-23T03:31:38Z",
+        "lang": "en",
+        "source": {
+            "id": "933344203c2b862af768b5e662a162a4",
+            "name": "International Business Times",
+            "url": "https://www.ibtimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "ec7ec17510fe218f7e6c6e522dd8de6f",
         "title": "Google offers users option to plug AI mode into their photos, email for more personalised answers",
         "description": "Google is leveraging its artificial intelligence technology to open a new peephole for its dominant search engine to tailor answers that draw upon people's interests, habits, travel itineraries and photo libraries.",
@@ -124,38 +156,6 @@
             "id": "5464668c1f0466950a0b2fab5249ec6c",
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "085a81350df6712021fdf9b8c6cc15c7",
-        "title": "Davos 2026: 'You don't use AI to do the same thing you do today,' PwC chairman Kande sees tech reimagining biz",
-        "description": "Artificial intelligence is transforming professional services. PwC's Mohamed Kande states AI is not just augmenting jobs but redefining them. Firms must adapt by embracing AI to focus on outcomes. This requires rethinking business models and service delivery. India is a key investment market, but needs to scale up and boost productivity. Companies cannot afford to wait and see.",
-        "content": "Synopsis\nArtificial intelligence is transforming professional services. PwC's Mohamed Kande states AI is not just augmenting jobs but redefining them. Firms must adapt by embracing AI to focus on outcomes. This requires rethinking business models and... [4055 chars]",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/davos-2026-you-dont-use-ai-to-do-the-same-thing-you-do-today-pwc-chairman-kande-sees-tech-reimagining-biz/articleshow/127219378.cms",
-        "image": "https://img.etimg.com/thumb/msid-127220378,width-1200,height-630,imgsize-66840,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-01-23T02:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "fda8245e2b54adf531ab264a95c464ae",
-        "title": "How playing Pokémon became the ultimate test of AI’s intelligence",
-        "description": "Nintendo’s original Pokémon games are becoming a popular and strangely effective way to test and benchmark new artificial-intelligence models. “We’re all a whole bunch of nerds,” said the man behind the trend.",
-        "content": "Among the world’s top AI labs, Nintendo’s original Pokémon games are emerging as a popular way to track the progress and abilities of AI models and figure out how to deploy them toward time-consuming complex goals.\n“It provides us with like this grea... [4450 chars]",
-        "url": "https://www.livemint.com/ai/how-playing-pok-mon-became-the-ultimate-test-of-ai-s-intelligence-11769133398103.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/01/23/1600x900/logo/im-75559769_1769133402103_1769133457776.jpg",
-        "publishedAt": "2026-01-23T01:57:41Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
             "country": "in"
         }
     }
