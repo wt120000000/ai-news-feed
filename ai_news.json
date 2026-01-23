@@ -1,5 +1,85 @@
 [
     {
+        "id": "ec7ec17510fe218f7e6c6e522dd8de6f",
+        "title": "Google offers users option to plug AI mode into their photos, email for more personalised answers",
+        "description": "Google is leveraging its artificial intelligence technology to open a new peephole for its dominant search engine to tailor answers that draw upon people's interests, habits, travel itineraries and photo libraries.",
+        "content": "SAN FRANCISCO: Google is leveraging its artificial intelligence technology to open a new peephole for its dominant search engine to tailor answers that draw upon people's interests, habits, travel itineraries and photo libraries.\nThe new option rolli... [3000 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/01/23/google-offers-users-option-to-plug-ai-mode-into-their-photos-email-for-more-personalised-answers",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/01/23/3733955.jpg",
+        "publishedAt": "2026-01-23T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "2b620c49f9ac4a07c1a19f6db46af485",
+        "title": "Nvidia CEO Huang says AI buildout needs trillions more",
+        "description": "Nvidia CEO Jensen Huang said trillions of dollars more will be needed to build the energy and computing backbone for artificial intelligence.",
+        "content": "Jan. 22 (Asia Today) -- Nvidia Chief Executive Officer Jensen Huang said trillions of dollars more will be needed to build the energy and computing backbone for artificial intelligence, calling the push \"the largest infrastructure construction projec... [1952 chars]",
+        "url": "https://www.upi.com/Top_News/World-News/2026/01/22/nvidia-ceo-speaks-ai-infra-davos/1441769136467/",
+        "image": "https://cdnph.upi.com/sv/ph/og/upi_com/1441769136467/2026/1/ed3773e45726432d98b04e12bdfe5e7c/v1.5/Nvidia-CEO-Huang-says-AI-buildout-needs-trillions-more.jpg",
+        "publishedAt": "2026-01-23T02:55:42Z",
+        "lang": "en",
+        "source": {
+            "id": "79baacd62152cf257ee35e8c0bec19a2",
+            "name": "UPI News",
+            "url": "https://www.upi.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "32678d6983e44aa04abf1eea20aff103",
+        "title": "Singapore launches framework to safeguard against rogue AI agents",
+        "description": "SINGAPORE: The capacity for an artificial intelligence (AI) system to draw from multiple databases and act independently has introduced new risks, such as potential unauthorised payments and personal data theft.",
+        "content": "SINGAPORE: The capacity for an artificial intelligence (AI) system to draw from multiple databases and act independently has introduced new risks, such as potential unauthorised payments and personal data theft.\nSuch risks, as well as guardrails to p... [4053 chars]",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/01/23/singapore-launches-framework-to-safeguard-against-rogue-ai-agents",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/01/23/3734076.jpg",
+        "publishedAt": "2026-01-23T02:48:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "0697921aebf9f70570fe165fdb5f40a3",
+        "title": "ChatGPT can embrace authoritarian ideas after just one prompt, researchers say",
+        "description": "Artificial intelligence chatbot ChatGPT can quickly absorb and reflect back authoritarian ideas, according to a new report",
+        "content": "Artificial intelligence chatbot ChatGPT can quickly absorb and reflect back authoritarian ideas, according to a new report.\nResearchers with the University of Miami and the Network Contagion Research Institute released a report Thursday finding that ... [7180 chars]",
+        "url": "https://www.nbcnews.com/tech/security/chatgpt-can-embrace-authoritarian-ideas-just-one-prompt-researchers-sa-rcna255206",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260122-ai-amplifying-lr-d51656.jpg",
+        "publishedAt": "2026-01-23T02:37:03Z",
+        "lang": "en",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "1bc1638c4e6dfd63aec889dcaa6ae262",
+        "title": "OpenAI employee warns AI will hit research jobs before engineering or sales roles: Here’s why",
+        "description": "An OpenAI employee has warned that artificial intelligence is likely to disrupt research roles before engineering or sales jobs.",
+        "content": "The debate around artificial intelligence taking away jobs has taken a new turn. This time, the concern is coming from within the AI industry itself. According to a recent claim shared online, AI may replace human researchers before it affects engine... [2656 chars]",
+        "url": "https://www.financialexpress.com/life/technology-openai-employee-warns-ai-will-hit-research-jobs-before-engineering-or-sales-roles-heres-why-4116549/",
+        "image": "https://images.financialexpressdigital.com/2025/10/diya-0001-2025-10-07T062050.325.jpg?quality=100",
+        "publishedAt": "2026-01-23T02:35:41Z",
+        "lang": "en",
+        "source": {
+            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+            "name": "The Financial Express",
+            "url": "https://www.financialexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "47cc27da456eeb9c103e181f62558095",
         "title": "New job loss data proves AI is still the big story to watch in 2026",
         "description": "Forget Donald Trump and Sussan Ley; artificial intelligence is the headline act of 2026 for three reasons: job losses, the data centre boom, and super’s exposure.",
@@ -77,86 +157,6 @@
             "name": "Livemint",
             "url": "https://www.livemint.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "03fb023d1d9be84900e6168ae108ba21",
-        "title": "Tesla Robotaxi Rides Without Safety Monitors Begin In Austin | Watch Video",
-        "description": "Chief Executive Officer Elon Musk touted the development in an X post Thursday, sharing a video from an ex-Tesla artificial intelligence engineer. The CEO announced last month that testing without any occupants in the companys cars was underway.",
-        "content": "Tesla Inc. is beginning to offer actual robotaxi rides in Austin, a milestone for the carmaker that launched a service seven months ago with vehicles that have relied on human supervisors sitting in front seats.\nChief Executive Officer Elon Musk tout... [1945 chars]",
-        "url": "https://www.ndtvprofit.com/business/tesla-robotaxi-rides-without-safety-monitors-begin-in-austin-watch-video-10846539",
-        "image": "https://c.ndtvimg.com/2026-01/u2m2jbis_tesla_625x300_23_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-        "publishedAt": "2026-01-23T01:53:42Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8885be37b6e39f288be6d9825b9c777c",
-        "title": "Tesla Robotaxi Rides Without Safety Monitors Begin In Austin | Watch Video",
-        "description": "Chief Executive Officer Elon Musk touted the development in an X post Thursday, sharing a video from an ex-Tesla artificial intelligence engineer. The CEO announced last month that testing without any occupants in the companys cars was underway.",
-        "content": "Tesla Inc. is beginning to offer actual robotaxi rides in Austin, a milestone for the carmaker that launched a service seven months ago with vehicles that have relied on human supervisors sitting in front seats.\nChief Executive Officer Elon Musk tout... [1945 chars]",
-        "url": "https://www.ndtvprofit.com/world/tesla-robotaxi-rides-without-safety-monitors-begin-in-austin-watch-video-10846539",
-        "image": "https://c.ndtvimg.com/2026-01/u2m2jbis_tesla_625x300_23_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-        "publishedAt": "2026-01-23T01:53:42Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "7598502d06f6584040c8f17a220acfbb",
-        "title": "Capital One to Acquire Fintech Company Brex for $5.15 Billion",
-        "description": "The deal brings a startup-focused spend platform with artificial intelligence and stablecoin capabilities into a major U.S. bank.",
-        "content": "Capital One said Thursday it has agreed to acquire San Francisco-based fintech firm Brex in a $5.15 billion stock-and-cash deal, expanding the bank’s push into business payments and expense management as it competes more directly with software-driven... [2359 chars]",
-        "url": "https://decrypt.co/355595/capital-one-acquire-fintech-company-brex-5-15-billion",
-        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-08-gID_7.png",
-        "publishedAt": "2026-01-23T01:27:39Z",
-        "lang": "en",
-        "source": {
-            "id": "6956007add5fc13a6721202ec906b1c4",
-            "name": "Decrypt",
-            "url": "https://decrypt.co",
-            "country": "us"
-        }
-    },
-    {
-        "id": "dd2281338a8490c886105a312aae8817",
-        "title": "Fei-Fei Li’s AI Startup World Labs in Funding Talks at $5 Billion Valuation",
-        "description": "Artificial intelligence pioneer Fei-Fei Li has had discussions with investors to raise hundreds of millions in funding for her startup, World Labs, at a valuation of about $5 billion, according to people familiar with the discussion.",
-        "content": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world\nConnecting decision makers to a dynamic network of infor... [719 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-01-23/fei-fei-li-s-ai-startup-world-labs-in-funding-talks-at-5-billion-valuation",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i50T2Z.bVcvs/v0/1200x800.jpg",
-        "publishedAt": "2026-01-23T01:22:10Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "cb4e3da4de981f16e2ea1300c7badeee",
-        "title": "Aifa WhatsApp service down two hours for maintenance, says MCMC",
-        "description": "PUTRAJAYA: The Artificial Intelligence Fact-Checking Assistant (AIFA) service on WhatsApp will be temporarily disrupted due to scheduled system maintenance, the Malaysian Communications and Multimedia Commission (MCMC) said.",
-        "content": "PUTRAJAYA: The Artificial Intelligence Fact-Checking Assistant (AIFA) service on WhatsApp will be temporarily disrupted due to scheduled system maintenance, the Malaysian Communications and Multimedia Commission (MCMC) said.\nIn a statement on Friday ... [416 chars]",
-        "url": "https://www.thestar.com.my/news/nation/2026/01/23/aifa-whatsapp-service-down-two-hours-for-maintenance-says-mcmc",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/01/23/3734014.jpg",
-        "publishedAt": "2026-01-23T01:13:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
