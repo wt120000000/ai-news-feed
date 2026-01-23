@@ -1,12 +1,76 @@
 [
     {
-        "id": "7ef1156008ba754d10a531ca1807358e",
-        "title": "WTO Chief Sees AI Boom Driving Potential Upside For 2026 Trade",
-        "description": "The head of the World Trade Organization said the rapid acceleration of artificial intelligence may underpin global merchandise trade this year, helping overcome US tariff headwinds and lead to higher overall growth than currently projected.",
-        "content": "The head of the World Trade Organization said the rapid acceleration of artificial intelligence may underpin global merchandise trade this year, helping overcome US tariff headwinds and lead to higher overall growth than currently projected.\nAbout 42... [269 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-01-23/wto-chief-sees-potential-upside-for-2026-trade-fueled-by-ai-boom",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imyuqOebLQsk/v0/1200x800.jpg",
-        "publishedAt": "2026-01-23T10:03:41Z",
+        "id": "fa8dd8ecf3f6176ea4253c3197c5f063",
+        "title": "Google offers users option to plug AI mode into their photos, email for more personalized answers",
+        "description": "By MICHAEL LIEDTKE SAN FRANCISCO (AP) — Google is leveraging its artificial intelligence technology to open a new peephole for its dominant search engine to tailor answers that draw upon people’s interests, habits, travel itineraries and photo libraries. The new option rolling out Thursday will give millions of people the option of turning on a […]",
+        "content": "By MICHAEL LIEDTKE\nSAN FRANCISCO (AP) — Google is leveraging its artificial intelligence technology to open a new peephole for its dominant search engine to tailor answers that draw upon people’s interests, habits, travel itineraries and photo librar... [2752 chars]",
+        "url": "https://www.courant.com/2026/01/23/google-offers-users-option-to-plug-ai-mode-into-their-photos-email-for-more-personalized-answers/",
+        "image": "https://www.courant.com/wp-content/uploads/2026/01/Apple_Google_Artificial_Intelligence_82007_b5f830.jpg?w=1024&h=683",
+        "publishedAt": "2026-01-23T11:15:32Z",
+        "lang": "en",
+        "source": {
+            "id": "494f687bd1dfaa9f7b4a705c860671d0",
+            "name": "Hartford Courant",
+            "url": "https://www.courant.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "0a49b4d053c0ecb341eb56c8d73285d6",
+        "title": "Fed, big earnings week loom for markets as global tensions muddy outlook",
+        "description": "Investors who have been consumed by geopolitical turmoil to start the year may switch focus in the coming week to prospects for artificial intelligence-related profits and the path for interest rates,...",
+        "content": "NEW YORK, Jan 23 (Reuters) - Investors who have been consumed by geopolitical turmoil to start the year may switch focus in the coming week to prospects for artificial intelligence-related profits and the path for interest rates, with a huge crop of ... [4186 chars]",
+        "url": "https://www.marketscreener.com/news/fed-big-earnings-week-loom-for-markets-as-global-tensions-muddy-outlook-ce7e5bdad88af121",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-23T110219Z_1_LYNXMPEM0M0L3_RTROPTP_4_USA-STOCKS.JPG",
+        "publishedAt": "2026-01-23T11:07:02Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "f4a28348a67fe0eca70f52b7d73a1c8e",
+        "title": "Microsoft Paint can now make AI coloring books",
+        "description": "Microsoft is giving Paint and Notepad apps on Windows new artificial intelligence capabilities for editing text and making digital illustrations.",
+        "content": "Microsoft is giving its Paint and Notepad apps on Windows new AI capabilities for editing text and making digital illustrations. The updates are currently rolling out to Windows Insiders in the Windows 11 Canary and Dev channels, and include features... [1671 chars]",
+        "url": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Microsoft-Paint-Coloring-book-feature.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-01-23T11:06:39Z",
+        "lang": "en",
+        "source": {
+            "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+            "name": "The Verge",
+            "url": "https://www.theverge.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c402e97381dcd16a62d487cd582ebcad",
+        "title": "Wall St Week Ahead-Fed, big earnings week loom for markets as global tensions muddy outlook",
+        "description": "Investors who have been\nconsumed by geopolitical turmoil to start the year may switch\nfocus in the coming week to prospects for artificial\nintelligence-related profits and the path for interest...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/wall-st-week-ahead-fed-big-earnings-week-loom-for-markets-as-global-tensions-muddy-outlook-ce7e5bdad88af323",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2026-01-23T11:05:23Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "7aec641867723bd5fecc4f3591e640db",
+        "title": "China Tells Alibaba, Top Tech Firms to Prep Nvidia H200 Orders",
+        "description": "Chinese officials have told the country’s largest tech firms including Alibaba Group Holding Ltd. they can prepare orders for Nvidia Corp.’s H200 AI chips, suggesting Beijing is close to formally approving imports of components essential to powering artificial intelligence.",
+        "content": "Chinese officials have told the country’s largest tech firms including Alibaba Group Holding Ltd. they can prepare orders for Nvidia Corp.’s H200 AI chips, suggesting Beijing is close to formally approving imports of components essential to powering ... [556 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-01-23/china-tells-alibaba-top-tech-firms-to-prep-nvidia-h200-orders",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiJ0JG9c7a0w/v0/1200x800.jpg",
+        "publishedAt": "2026-01-23T11:04:32Z",
         "lang": "en",
         "source": {
             "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -16,147 +80,83 @@
         }
     },
     {
-        "id": "af9da3c8efae4245385f95309c7a15c4",
-        "title": "Five Ways People Are Using Claude Code",
-        "description": "The artificial intelligence tool generates computer code when people type prompts, so those with no coding experience can create their own programs and apps.",
-        "content": "Claude Code, an artificial intelligence tool that can generate computer code when people type a prompt, is having a viral moment.\nThe tool, which the A.I. start-up Anthropic introduced in May, has shown record growth over the past two weeks, the comp... [1666 chars]",
-        "url": "https://www.nytimes.com/2026/01/23/technology/claude-code.html",
-        "image": "https://static01.nyt.com/images/2026/01/21/multimedia/CLAUDE-CODE-1-pztw/CLAUDE-CODE-1-pztw-facebookJumbo.jpg",
-        "publishedAt": "2026-01-23T10:02:59Z",
+        "id": "e241512a5a32ac0135aca1c1bad4cb00",
+        "title": "Wall St Week Ahead Fed, big earnings week loom for markets as global tensions muddy outlook",
+        "description": "Investors who have been consumed by geopolitical turmoil to start the year may switch focus in the coming week to prospects for artificial intelligence-related profits ​and the path for interest rates, with a huge crop of earnings reports and a Federal Reserve meeting on tap.",
+        "content": "NEW YORK, Jan 23 (Reuters) - Investors who have been consumed by geopolitical turmoil to start the year may switch focus in the coming week to prospects for artificial intelligence-related profits ​and the path for interest rates, with a huge crop of... [4027 chars]",
+        "url": "https://www.reuters.com/business/wall-st-week-ahead-fed-big-earnings-week-loom-markets-global-tensions-muddy-2026-01-23/",
+        "image": "https://www.reuters.com/resizer/v2/HCRXW23W3JMC3EDS52C5BUB5DE.jpg?auth=4a25028ed4d609855d2b19c202752c3fc70a4fe4946829200c898745bb6eba46&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-01-23T11:02:34Z",
         "lang": "en",
         "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
             "country": "us"
         }
     },
     {
-        "id": "56a6798842bf8d1ab97ffab938dbecb2",
-        "title": "Rwanda to test AI-powered technology in clinics",
-        "description": "Rwanda will test technology powered by artificial intelligence in more than 50 health clinics as part of a new initiative by the Gates Foundation to support 1,000 clinics across Africa with the aim to improve health care services.",
-        "content": "Rwanda will test technology powered by artificial intelligence in more than 50 health clinics as part of a new initiative by the Gates Foundation to support 1,000 clinics across Africa with the aim to improve health care services.\nThe technology is i... [1430 chars]",
-        "url": "https://www.africanews.com/2026/01/23/rwanda-to-test-ai-powered-technology-in-clinics/",
-        "image": "https://images.euronews.com/articles/stories/09/62/35/96/1024x538_cmsv2_0727325d-5132-55d8-b473-6aa29c551555-9623596.jpg",
-        "publishedAt": "2026-01-23T09:47:51Z",
+        "id": "b343ccc8b04f740b3479f2b749b321d9",
+        "title": "Meet the translation professionals losing their jobs to AI",
+        "description": "While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.",
+        "content": "As a rare Irish-language translator, Timothy McKeon enjoyed steady work for European Union institutions for years. But the rise of artificial intelligence tools that can translate text and, increasingly, speech nearly instantly has upended his liveli... [5864 chars]",
+        "url": "https://edition.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2023840777.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-01-23T11:00:47Z",
         "lang": "en",
         "source": {
-            "id": "4ee8a93f92a1be4ced3de6f96b13bcca",
-            "name": "Africanews",
-            "url": "https://www.africanews.com",
-            "country": "fr"
+            "id": "26269dbc42635df9af8c24f3cdab8e37",
+            "name": "Cable News Network",
+            "url": "https://edition.cnn.com",
+            "country": "us"
         }
     },
     {
-        "id": "93bfe36fce38b6fe641ca40f8c4540f6",
-        "title": "India’s life sciences leaders scaling AI, digital transformation: Report",
-        "description": "India’s life sciences leaders scaling AI, digital transformation: Report - New Delhi, Jan 22 Life sciences leaders in India are scaling artificial intelligence (AI) and digital transformation, said ... Get Latest News on Business only on lokmattimes.com",
-        "content": "New Delhi, Jan 22 Life sciences leaders in India are scaling artificial intelligence (AI) and digital transformation, said a report on Friday.\nThe report by KPMG, which surveyed 110 global Life Sciences leaders, noted that life sciences CEOs in India... [2149 chars]",
-        "url": "https://www.lokmattimes.com/business/indias-life-sciences-leaders-scaling-ai-digital-transformation-report/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601233648478_202601.jpg",
-        "publishedAt": "2026-01-23T09:44:42Z",
+        "id": "f81b2a5a153284fdc734b1a80d89a157",
+        "title": "American college faculty warn AI harming students' critical thinking",
+        "description": "A new survey finds 95% of faculty worry artificial intelligence makes students overly reliant on AI, with 90% saying it decreases critical thinking.",
+        "content": "NEWYou can now listen to Fox News articles!\nA new survey from the American Association of Colleges and Universities and Elon University’s Imagining the Digital Future Center found that an overwhelming majority of college faculty are concerned that ar... [3486 chars]",
+        "url": "https://www.foxnews.com/media/95-faculty-say-ai-making-students-dangerously-dependent-technology-learning-survey",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/1-rude-chatgpt-prompts-better-answers-what-the-data-says.jpg",
+        "publishedAt": "2026-01-23T11:00:34Z",
         "lang": "en",
         "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ce976b4ec57ef7ecf7765abcef08b7ff",
+        "title": "Is AI really stealing jobs? New hiring data tells a very different story",
+        "description": "Careers News: The headlines have repeatedly warned that artificial intelligence will take our jobs. We will be replaced by bots, and many of us have felt that famil.",
+        "content": "The headlines have repeatedly warned that artificial intelligence will take our jobs. We will be replaced by bots, and many of us have felt that familiar knot in the stomach. Apprehension about the future and the lingering question of “what next?” ha... [3351 chars]",
+        "url": "https://timesofindia.indiatimes.com/education/careers/news/is-ai-really-stealing-jobs-new-hiring-data-tells-a-very-different-story/articleshow/127267457.cms",
+        "image": "https://static.toiimg.com/thumb/msid-127268651,width-1280,height-720,imgsize-2081353,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-01-23T10:39:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     },
     {
-        "id": "d6614517f7b48078b90662f3998c87ad",
-        "title": "India’s life sciences leaders scaling AI, digital transformation: Report",
-        "description": "India’s life sciences leaders scaling AI, digital transformation: Report - New Delhi, Jan 22 Life sciences leaders in India are scaling artificial intelligence (AI) and digital transformation, said ... Get Latest News on Technology only on lokmattimes.com",
-        "content": "New Delhi, Jan 22 Life sciences leaders in India are scaling artificial intelligence (AI) and digital transformation, said a report on Friday.\nThe report by KPMG, which surveyed 110 global Life Sciences leaders, noted that life sciences CEOs in India... [2149 chars]",
-        "url": "https://www.lokmattimes.com/technology/indias-life-sciences-leaders-scaling-ai-digital-transformation-report-2/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601233648478_202601.jpg",
-        "publishedAt": "2026-01-23T09:44:42Z",
+        "id": "b91ca36d8a31695147598e925835f0e9",
+        "title": "AI at work: Why it’s helping the boss more than the rest of us",
+        "description": "Are AI's benefits unevenly distributed? Recent reports and discussions at Davos suggest that artificial intelligence may not be the universal boon as many expected. While some top executives claim it’s boosting efficiency and saving time, many employees paint a far less optimistic picture.",
+        "content": "Ever since artificial intelligence began weaving its way into our daily workflows — especially after the 2022 ChatGPT launch — the question of whether artificial intelligence (AI) will replace or empower humans has become the never-ending debate.\nWhi... [4491 chars]",
+        "url": "https://www.firstpost.com/tech/ai-at-work-why-its-helping-the-boss-more-than-the-rest-of-us-ws-e-13971767.html",
+        "image": "https://images.firstpost.com/uploads/2026/01/image-2026-01-a36742f1e572d38fb0a291d9886b806c-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-01-23T10:32:00Z",
         "lang": "en",
         "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "1b29a82b4381cb85fbb86e4df208722e",
-        "title": "India’s life sciences leaders scaling AI, digital transformation: Report",
-        "description": "India’s life sciences leaders scaling AI, digital transformation: Report - New Delhi, Jan 22 Life sciences leaders in India are scaling artificial intelligence (AI) and digital transformation, said ... Get Latest News on Health only on lokmattimes.com",
-        "content": "New Delhi, Jan 22 Life sciences leaders in India are scaling artificial intelligence (AI) and digital transformation, said a report on Friday.\nThe report by KPMG, which surveyed 110 global Life Sciences leaders, noted that life sciences CEOs in India... [2149 chars]",
-        "url": "https://www.lokmattimes.com/health/indias-life-sciences-leaders-scaling-ai-digital-transformation-report-1/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601233648478_202601.jpg",
-        "publishedAt": "2026-01-23T09:44:42Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6a3622ebd96634172039c4b082cdb33e",
-        "title": "India seen as growth anchor amid challenging global conditions: CII",
-        "description": "India was highlighted as a reliable long-term growth anchor at the World Economic Forum, owing to its macroeconomic stability and reform momentum. Discussions also centered on Artificial Intelligence, with India seen as well-positioned to leverage its digital market and STEM talent. The forum emphasized the need for supply chain resilience amidst geopolitical concerns.",
-        "content": "Synopsis\nIndia was highlighted as a reliable long-term growth anchor at the World Economic Forum, owing to its macroeconomic stability and reform momentum. Discussions also centered on Artificial Intelligence, with India seen as well-positioned to le... [3132 chars]",
-        "url": "https://economictimes.indiatimes.com/news/india/india-seen-as-growth-anchor-amid-challenging-global-conditions-cii/articleshow/127263013.cms",
-        "image": "https://img.etimg.com/thumb/msid-127265176,width-1200,height-630,imgsize-215968,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-01-23T09:39:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e81dc6f8f9972e1cf9d95ccddaa19ed6",
-        "title": "WEF 2026: India emerges as major AI force backed by reforms, digital infra, says IMF",
-        "description": "WEF 2026: India emerges as major AI force backed by reforms, digital infra, says IMF - New Delhi, Jan 23 India is emerging as one of the world’s major forces in artificial intelligence (AI), ... Get Latest News on Technology only on lokmattimes.com",
-        "content": "New Delhi, Jan 23 India is emerging as one of the world’s major forces in artificial intelligence (AI), supported by strong reforms, digital public infrastructure, and a skilled technology workforce, said Kristalina Georgieva, Managing Director of th... [1737 chars]",
-        "url": "https://www.lokmattimes.com/technology/wef-2026-india-emerges-as-major-ai-force-backed-by-reforms-digital-infra-says-imf-1/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601233648442_202601.jpg",
-        "publishedAt": "2026-01-23T09:29:02Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "4c524631e8d67513ef7a2bef872c0c89",
-        "title": "WEF 2026: India emerges as major AI force backed by reforms, digital infra, says IMF",
-        "description": "WEF 2026: India emerges as major AI force backed by reforms, digital infra, says IMF - New Delhi, Jan 23 India is emerging as one of the world’s major forces in artificial intelligence (AI), ... Get Latest News on Business only on lokmattimes.com",
-        "content": "New Delhi, Jan 23 India is emerging as one of the world’s major forces in artificial intelligence (AI), supported by strong reforms, digital public infrastructure, and a skilled technology workforce, said Kristalina Georgieva, Managing Director of th... [1737 chars]",
-        "url": "https://www.lokmattimes.com/business/wef-2026-india-emerges-as-major-ai-force-backed-by-reforms-digital-infra-says-imf/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202601233648442_202601.jpg",
-        "publishedAt": "2026-01-23T09:29:02Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8b7a4c8e0e30005f255aa384c120644d",
-        "title": "NDP leadership candidate Avi Lewis goes after AI data centres",
-        "description": "NDP leadership candidate Avi Lewis is calling for a moratorium on data centres along with other measures in a bid to rein in emerging generative artificial intelligence (AI) companies that he says are stealing private data, threatening jobs and harming the environment.",
-        "content": "NDP leadership candidate Avi Lewis is calling for a moratorium on data centres along with other measures in a bid to rein in emerging generative artificial intelligence (AI) companies that he says are stealing private data, threatening jobs and harmi... [5299 chars]",
-        "url": "https://www.cbc.ca/news/politics/avi-lewis-ndp-ai-artificial-intelligence-9.7057161",
-        "image": "https://i.cbc.ca/ais/422ea008-da7d-43c5-aa13-38c17faf9d79,1769121821647/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C280%2C5373%2C3022%29%3BResize%3D620",
-        "publishedAt": "2026-01-23T09:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
-            "name": "CBC.ca",
-            "url": "https://www.cbc.ca",
-            "country": "ca"
         }
     }
 ]
