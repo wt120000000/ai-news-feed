@@ -1,5 +1,69 @@
 [
     {
+        "id": "fef8dfe7f94ebb8894d3eb55d933a2c8",
+        "title": "Look forward to continuing our conversation at Summit: Google DeepMind CEO meets Ashwini Vaishnaw in Davos",
+        "description": "Google DeepMind CEO and Co-founder Demis Hassabis confirmed his participation in the upcoming AI Impact Summit in New Delhi following a meeting with Union Minister of Electronics and Information Technology Ashwini Vaishnaw at the World Economic Forum in Davos. The summit, scheduled for February 2026, focuses on India's role in the global development and implementation of artificial intelligence technologies.",
+        "content": "Synopsis\nGoogle DeepMind CEO and Co-founder Demis Hassabis confirmed his participation in the upcoming AI Impact Summit in New Delhi following a meeting with Union Minister of Electronics and Information Technology Ashwini Vaishnaw at the World Econo... [2242 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/look-forward-to-continuing-our-conversation-at-summit-google-deepmind-ceo-after-meeting-with-ashwini-vaishnaw-in-davos/articleshow/127234473.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-53714,resizemode-75,msid-127234473/tech/technology/look-forward-to-continuing-our-conversation-at-summit-google-deepmind-ceo-after-meeting-with-ashwini-vaishnaw-in-davos.jpg",
+        "publishedAt": "2026-01-23T04:57:48Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "3f09dd0d165edd3ddc7e42b75e80450e",
+        "title": "Look forward to continuing our conversation at Summit: Google DeepMind CEO after meeting with Ashwini Vaishnaw in Davos",
+        "description": "Google DeepMind CEO and Co-founder Demis Hassabis confirmed his participation in the upcoming AI Impact Summit in New Delhi following a meeting with Union Minister of Electronics and Information Technology Ashwini Vaishnaw at the World Economic Forum in Davos. The summit, scheduled for February 2026, focuses on India's role in the global development and implementation of artificial intelligence technologies.",
+        "content": "Davos [Switzerland], January 23 (ANI): Google DeepMind CEO and Co-founder Demis Hassabis confirmed his participation in the upcoming AI Impact Summit in New Delhi following a meeting with Union Minister of Electronics and Information Technology Ashwi... [1947 chars]",
+        "url": "https://www.tribuneindia.com/news/business/look-forward-to-continuing-our-conversation-at-summit-google-deepmind-ceo-after-meeting-with-ashwini-vaishnaw-in-davos/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBiODMzNWQwLWY4MTctMTFmMC1hMDFiLTY5ODE4NmI1ZTViMy5qcGc=",
+        "publishedAt": "2026-01-23T04:50:25Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "6bf63e9c097cccaa82ab2c5af44be839",
+        "title": "Spotify launches AI-driven 'prompted playlist' for premium users in US, Canada",
+        "description": "Spotify on Thursday rolled out “prompted playlist”, an artificial intelligence-powered feature ‍in the United States and ​Canada",
+        "content": "Spotify on Thursday rolled out “prompted playlist”, an artificial intelligence-powered feature ‍in the United States and ​Canada that allows premium users to tailor ‌playlists using their listening ​habits and commands.\nAfter its successful run in Ne... [1037 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/spotify-launches-ai-driven-prompted-playlist-for-premium-users-in-us-canada/article70540844.ece",
+        "image": "https://th-i.thgim.com/public/incoming/s4i1kd/article70540846.ece/alternates/LANDSCAPE_1200/2026-01-15T112524Z_1227293390_RC2EQ4A0T5FG_RTRMADP_3_SPOTIFY-TECH-PRICES.JPG",
+        "publishedAt": "2026-01-23T04:44:08Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "e8d1cbc1ccb8c4bdf90702818d140668",
+        "title": "South Korean law to regulate AI takes effect",
+        "description": "South Korea became the first country to have a wide-ranging law regulating artificial intelligence take full effect on Thursday",
+        "content": "South Korea became the first country to have a wide-ranging law regulating artificial intelligence take full effect on Thursday, including specific provisions targeting deepfakes.\nThe country, home to memory chip powerhouses Samsung and SK hynix, has... [2944 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/south-korean-law-to-regulate-ai-takes-effect/article70540858.ece",
+        "image": "https://th-i.thgim.com/public/incoming/ozm6cm/article70540859.ece/alternates/LANDSCAPE_1200/2026-01-02T000016Z_1718283288_RC22MHAQ3KPL_RTRMADP_3_CHINA-SOUTHKOREA.JPG",
+        "publishedAt": "2026-01-23T04:38:03Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "356f5978da440eadfe4d3b540c6fcef3",
         "title": "Canada Pension Plan's investment arm criticized over funding for Elon Musk's xAI, maker of Grok",
         "description": "The Canada Pension Plan Investment Board (CPPIB) is facing criticism for having provided $300 million US for the funding of infrastructure for Elon Musk's xAI, the company behind the controversial Grok artificial intelligence chatbot tool.",
@@ -93,70 +157,6 @@
             "name": "NBC News",
             "url": "https://www.nbcnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "1bc1638c4e6dfd63aec889dcaa6ae262",
-        "title": "OpenAI employee warns AI will hit research jobs before engineering or sales roles: Here’s why",
-        "description": "An OpenAI employee has warned that artificial intelligence is likely to disrupt research roles before engineering or sales jobs.",
-        "content": "The debate around artificial intelligence taking away jobs has taken a new turn. This time, the concern is coming from within the AI industry itself. According to a recent claim shared online, AI may replace human researchers before it affects engine... [2656 chars]",
-        "url": "https://www.financialexpress.com/life/technology-openai-employee-warns-ai-will-hit-research-jobs-before-engineering-or-sales-roles-heres-why-4116549/",
-        "image": "https://images.financialexpressdigital.com/2025/10/diya-0001-2025-10-07T062050.325.jpg?quality=100",
-        "publishedAt": "2026-01-23T02:35:41Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "47cc27da456eeb9c103e181f62558095",
-        "title": "New job loss data proves AI is still the big story to watch in 2026",
-        "description": "Forget Donald Trump and Sussan Ley; artificial intelligence is the headline act of 2026 for three reasons: job losses, the data centre boom, and super’s exposure.",
-        "content": "After an extraordinary week dominated by the apparent disintegration of the global rules-based order in Davos and the federal Coalition in Canberra, it feels like we’re limping into the Australia Day long weekend with a pretty good idea of the bigges... [502 chars]",
-        "url": "https://www.afr.com/technology/new-job-loss-data-proves-ai-is-still-the-big-story-to-watch-in-2026-20251219-p5np43",
-        "image": "https://static.ffx.io/images/$zoom_0.1338%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_analysis_no_age_social_wm/e6d0b5a14371021ccc4d592f1bff28864407f50645efbcb7d0f14570e6a3a369",
-        "publishedAt": "2026-01-23T02:25:57Z",
-        "lang": "en",
-        "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "Australian Financial Review",
-            "url": "https://www.afr.com",
-            "country": "au"
-        }
-    },
-    {
-        "id": "990bae91031da61341b969c54e66b2c8",
-        "title": "Travis Scott explains why his kids are off-limits from AI",
-        "description": "Travis Scott is sharing a rare parenting insight into why he wants to keep his kids, Stormi and Aire, to keep a distance from Artificial Intelligence while they are still young.The rapper recently...",
-        "content": "Travis Scott is sharing a rare parenting insight into why he wants to keep his kids, Stormi and Aire, to keep a distance from Artificial Intelligence while they are still young.\nThe rapper recently sat down with Rolling Stone and talked about his fat... [1078 chars]",
-        "url": "https://www.thenews.com.pk/latest/1389472-travis-scott-believes-ai-could-harm-kids-growthheres-why",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-01-23/1389472_072045_updates.jpg",
-        "publishedAt": "2026-01-23T02:21:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-            "name": "The News International",
-            "url": "https://www.thenews.com.pk",
-            "country": "pk"
-        }
-    },
-    {
-        "id": "4716b767c02b9747ff9d03154a5ccd8a",
-        "title": "India's AI-way seeks smooth infrastructure, backbone being built: Industry leaders at Davos",
-        "description": "India's artificial intelligence growth depends on infrastructure, data quality, and organizational readiness. Industry leaders at Davos highlighted these crucial factors. CEOs are now directly involved in AI decisions, recognizing its importance for future business models. India's entrepreneurial spirit and focus on use cases offer a unique advantage in AI adoption and global export.",
-        "content": "Synopsis\nIndia's artificial intelligence growth depends on infrastructure, data quality, and organizational readiness. Industry leaders at Davos highlighted these crucial factors. CEOs are now directly involved in AI decisions, recognizing its import... [4928 chars]",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/indias-ai-way-seeks-smooth-infrastructure-backbone-being-built-industry-leaders/articleshow/127219434.cms",
-        "image": "https://img.etimg.com/thumb/msid-127221004,width-1200,height-630,imgsize-68370,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-01-23T02:10:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
