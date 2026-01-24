@@ -1,5 +1,21 @@
 [
     {
+        "id": "ea023f75c0fb7f00debc598c9d61fa79",
+        "title": "Saturday Feeling: How AI is rewriting the script in Indian cinema",
+        "description": "Artificial Intelligence has made deep inroads into Indian cinema without the audience really noticing. It's transforming the filmmaking process but are directors asking questions about the changes AI is making to the art form?",
+        "content": "In a surprisingly short period of time, Artificial Intelligence has ripped into every aspect of life, business, arts, leisure, society, entertainment. Every so often, Lounge reports on the chatbots that are replacing partners, friends, family and wor... [2770 chars]",
+        "url": "https://www.livemint.com/mint-lounge/ideas/saturday-feeling-ai-impact-on-filmmaking-bollywood-indian-cinema-11769159528846.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/01/23/1600x900/logo/ai_indian_cinema_astitva_1769160097758_1769160097870.jpg",
+        "publishedAt": "2026-01-24T01:30:37Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "00b73a2567ea90975d36f3bca2066dd9",
         "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Meta's Temporary Restriction on AI Characters for Teens",
         "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
@@ -141,22 +157,6 @@
             "name": "Global News",
             "url": "https://globalnews.ca",
             "country": "ca"
-        }
-    },
-    {
-        "id": "6b3c9fe7f0d507abe0c940f72f9925aa",
-        "title": "‘AI and robotics revolutionising modern medicine’",
-        "description": "Prayagraj: Artificial Intelligence, when combined with robotics, has the potential to revolutionise modern medicine by making diagnoses faster, safer .",
-        "content": "Prayagraj: Artificial Intelligence, when combined with robotics, has the potential to revolutionise modern medicine by making diagnoses faster, safer and more reliable, said experts. This and many other facts were discussed during the 3-day 6th Inter... [1846 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/allahabad/ai-and-robotics-revolutionising-modern-medicine/articleshow/127317355.cms",
-        "image": "https://static.toiimg.com/thumb/msid-127317355,width-1280,height-720,imgsize-null,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-01-23T20:35:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
