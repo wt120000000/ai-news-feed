@@ -1,5 +1,53 @@
 [
     {
+        "id": "22aaf4a2d0461e07c4da2f7326b192b0",
+        "title": "‘Like a tsunami’: IMF Chief warns AI threatens 40% of jobs worldwide",
+        "description": "The IMF Managing Director Kristalina Georgieva has discussed the potential impacts of artificial intelligence on workforce and labour markets globally at the World Economic Forum in Davos.Dubbing...",
+        "content": "The IMF Managing Director Kristalina Georgieva has discussed the potential impacts of artificial intelligence on workforce and labour markets globally at the World Economic Forum in Davos.\nDubbing AI as a powerful “tsunami”, Georgieva said, “the AI w... [1211 chars]",
+        "url": "https://www.thenews.com.pk/latest/1389619-like-a-tsunami-imf-chief-warns-ai-threatens-40-of-jobs-worldwide",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-01-24/1389619_011950_updates.jpg",
+        "publishedAt": "2026-01-24T08:19:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "40ed4d7ae8d4017b56708d0c1d4cbc01",
+        "title": "Reliant, Inclusive Growth – Outlook Business",
+        "description": "From AI tutors and MSMEs to defence, agriculture, and sovereign data, a roadmap to make artificial intelligence an equaliser—not a divider",
+        "content": "India stands poised for a transformative AI era that will be uniquely our own. It will not mimic the elite, closed systems of Silicon Valley or the massive state-driven scale of Beijing. Instead, it will speak in our 22 languages (and multiple dialec... [6483 chars]",
+        "url": "https://www.outlookbusiness.com/columns/indias-ai-leap-a-practical-10-point-plan-for-self-reliant-inclusive-growth",
+        "image": "https://media.assettype.com/outlookbusiness/2026-01-24/hzqzzyrl/ChatGPT-Image-Jan-24-2026-125618-PM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-01-24T07:30:39Z",
+        "lang": "en",
+        "source": {
+            "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+            "name": "Outlook Business",
+            "url": "https://www.outlookbusiness.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "f9424d014fd66c039293c48d114cda0f",
+        "title": "IIT Madras launches 'AI for All' with six free Hindi courses; apply at swayam",
+        "description": "News News: IIT Madras has launched AI for All, a national digital learning initiative offering six free artificial intelligence courses entirely in Hindi through.",
+        "content": "IIT Madras offers free Hindi AI courses nationwide under AI for All initiative\nIIT Madras has launched AI for All, a national digital learning initiative offering six free artificial intelligence courses entirely in Hindi through its SWAYAM Plus plat... [2611 chars]",
+        "url": "https://timesofindia.indiatimes.com/education/news/iit-madras-launches-ai-for-all-with-six-free-hindi-courses-apply-at-swayam-plus-swayam2-ac-in/articleshow/127374477.cms",
+        "image": "https://static.toiimg.com/thumb/msid-127374353,width-1280,height-720,imgsize-57066,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-01-24T07:21:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "59d088138115cbce528bad9390892113",
         "title": "Label It Like You Mean It: How Data Labeling Solutions Supercharge AI Accuracy",
         "description": "The intelligence of artificial intelligence is no more intelligent than what it is trained on. The best algorithms in the world will not work in case the data provided to them is not clean, complete, or even labeled. This is where data labeling solutions would be helpful. Critically structured and annotated raw data enable […]",
@@ -109,54 +157,6 @@
             "name": "scanx.trade",
             "url": "https://scanx.trade",
             "country": "in"
-        }
-    },
-    {
-        "id": "de6c095980461cfa57cd6b2f69fbf8f1",
-        "title": "avos delegates stress AI’s employment upside as layoff fears linger",
-        "description": "At the World Economic Forum in Davos, business leaders discussed the potential of technology, specifically artificial intelligence, to create new jobs. Despite optimism, concerns were raised about the impact of AI on jobs and society. Top executives remained enthusiastic about the trillion-dollar expansion of AI, but also discussed potential negative effects.",
-        "content": "Technology 43 min ago\nThis is an AI assisted summary.\nAt the World Economic Forum in Davos, business leaders discussed the potential of technology, specifically artificial intelligence, to create new jobs. Despite optimism, concerns were raised about... [22904 chars]",
-        "url": "https://indianexpress.com/shorts/technology/avos-delegates-stress-ais-employment-upside-as-layoff-fears-linger-10491807/",
-        "image": "https://images.indianexpress.com/2026/01/IE-2026-01-24T085450.413.jpg",
-        "publishedAt": "2026-01-24T03:53:16Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "afbe0672595b54ead751374a733ba50a",
-        "title": "Demand for agentic AI skills surges; supply falls short by over 50%: Report",
-        "description": "Agentic AI is an advanced form of artificial intelligence focused on autonomous decision-making and action. Based on an analysis of more than 28,000 job postings, the report shows that Agentic AI roles are now firmly embedded within enterprise hiring, supported by the shift from GenAI pilots to production-grade autonomous workflows.",
-        "content": "Synopsis\nAgentic AI is an advanced form of artificial intelligence focused on autonomous decision-making and action. Based on an analysis of more than 28,000 job postings, the report shows that Agentic AI roles are now firmly embedded within enterpri... [3687 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/demand-for-agentic-ai-skills-surges-supply-falls-short-by-over-50-report/articleshow/127354853.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-68370,resizemode-75,msid-127354853/tech/artificial-intelligence/demand-for-agentic-ai-skills-surges-supply-falls-short-by-over-50-report.jpg",
-        "publishedAt": "2026-01-24T02:42:41Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "b7a5a1c0e71cabdceba090b90f47b029",
-        "title": "'Jobs, jobs, jobs' the AI mantra in Davos as fears take back seat",
-        "description": "Biting cold, political tensions and doubts about artificial intelligence did nothing to curb the enthusiasm of business leaders in Davos over technology's ability to create jobs.\nTop...",
-        "content": "DAVOS, Switzerland, Jan 23 (Reuters) - Biting cold, political tensions and doubts about artificial intelligence did nothing to curb the enthusiasm of business leaders in Davos over technology's ability to create jobs.\nTop executives at the World Econ... [4749 chars]",
-        "url": "https://www.marketscreener.com/news/jobs-jobs-jobs-the-ai-mantra-in-davos-as-fears-take-back-seat-ce7e5bdadf81f727",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-23T150415Z_1_LYNXMPEM0M0W0_RTROPTP_4_DAVOS-MEETING.JPG",
-        "publishedAt": "2026-01-24T02:36:21Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
