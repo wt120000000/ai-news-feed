@@ -1,5 +1,37 @@
 [
     {
+        "id": "afbe0672595b54ead751374a733ba50a",
+        "title": "Demand for agentic AI skills surges; supply falls short by over 50%: Report",
+        "description": "Agentic AI is an advanced form of artificial intelligence focused on autonomous decision-making and action. Based on an analysis of more than 28,000 job postings, the report shows that Agentic AI roles are now firmly embedded within enterprise hiring, supported by the shift from GenAI pilots to production-grade autonomous workflows.",
+        "content": "Synopsis\nAgentic AI is an advanced form of artificial intelligence focused on autonomous decision-making and action. Based on an analysis of more than 28,000 job postings, the report shows that Agentic AI roles are now firmly embedded within enterpri... [3687 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/demand-for-agentic-ai-skills-surges-supply-falls-short-by-over-50-report/articleshow/127354853.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-68370,resizemode-75,msid-127354853/tech/artificial-intelligence/demand-for-agentic-ai-skills-surges-supply-falls-short-by-over-50-report.jpg",
+        "publishedAt": "2026-01-24T02:42:41Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b7a5a1c0e71cabdceba090b90f47b029",
+        "title": "'Jobs, jobs, jobs' the AI mantra in Davos as fears take back seat",
+        "description": "Biting cold, political tensions and doubts about artificial intelligence did nothing to curb the enthusiasm of business leaders in Davos over technology's ability to create jobs.\nTop...",
+        "content": "DAVOS, Switzerland, Jan 23 (Reuters) - Biting cold, political tensions and doubts about artificial intelligence did nothing to curb the enthusiasm of business leaders in Davos over technology's ability to create jobs.\nTop executives at the World Econ... [4749 chars]",
+        "url": "https://www.marketscreener.com/news/jobs-jobs-jobs-the-ai-mantra-in-davos-as-fears-take-back-seat-ce7e5bdadf81f727",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-23T150415Z_1_LYNXMPEM0M0W0_RTROPTP_4_DAVOS-MEETING.JPG",
+        "publishedAt": "2026-01-24T02:36:21Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "9800b90df37ac07a035cd1fec3d017c8",
         "title": "Meta pauses teen access to AI characters",
         "description": "Meta has stopped giving teens access to artificial intelligence characters, the company wrote in a blog post Friday.",
@@ -124,38 +156,6 @@
             "id": "26f1ac0f127e346707d5f2a114f4ceaf",
             "name": "ZeroHedge",
             "url": "https://www.zerohedge.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c064f0247d42699536cdf0cc708f528a",
-        "title": "MP Satnam Sandhu launches AI portal for citizen engagement",
-        "description": "Member of Parliament (Rajya Sabha) Satnam Singh Sandhu has launched an AI-enabled web portal aimed at transforming citizen engagement by enabling the collection and analysis of public opinions, suggestions and grievances through advanced artificial intelligence (AI) tools.",
-        "content": "Speaking at the launch of his official portal, https://satnamsandhu.in/, Sandhu said the platform has been designed to ensure “smart” detection of emerging public issues and timely redressal of grievances across all sections of society. He explained ... [1838 chars]",
-        "url": "https://www.hindustantimes.com/cities/chandigarh-news/mp-satnam-sandhu-launches-ai-portal-for-citizen-engagement-101769193132563.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/01/23/550x309/Member-of-Parliament--Rajya-Sabha--Satnam-Singh-Sa_1769193127061.jpg",
-        "publishedAt": "2026-01-23T22:38:13Z",
-        "lang": "en",
-        "source": {
-            "id": "21468bec836de1ebb209ff6f78fbfe3e",
-            "name": "Hindustan Times",
-            "url": "https://www.hindustantimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "35373bd9ef981d7a54dde35016ddf169",
-        "title": "How Austin Public Schools is using artificial intelligence",
-        "description": "Austin Public Schools outlines new AI classroom rules, from AI-free work to AI-empowered projects, to protect students, uphold academic honesty, and train staff for ethical use.",
-        "content": "One of the main components of these guidelines is the AI Classroom Usage Continuum, which gives both students and staff a common way to talk about how AI should be used in their work. At the AI-Free level, everyone completes tasks on their own with n... [2140 chars]",
-        "url": "https://www.austindailyherald.com/opinion/how-austin-public-schools-is-using-artificial-intelligence-819233fc",
-        "image": "https://public-assets-prod.pubgen.ai/brand_68d2f4fc-1153-4d3c-afea-0cd7a48834f2/asset_aa3d3ad4-e0bc-5392-b18b-812533ad4f0d.jpg?w=1200",
-        "publishedAt": "2026-01-23T22:24:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c0bd1a4574680239d2d3abfae8ab749d",
-            "name": "Austin Daily Herald",
-            "url": "https://www.austindailyherald.com",
             "country": "us"
         }
     }
