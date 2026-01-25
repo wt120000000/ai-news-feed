@@ -1,5 +1,37 @@
 [
     {
+        "id": "79e6853bacd21ebf782f5009218b51b3",
+        "title": "Claude Code chief on Anthropic's new AI tool: Non",
+        "description": "Tech News News: Anthropic has recently launched a file management artificial intelligence (AI) agent named Cowork, designed for non-programmers. The AI startup develo.",
+        "content": "Anthropic has launched Cowork, an AI file manager for non-programmers, evolving from its popular developer tool, Claude Code. This new agent takes autonomous action, managing files and browser tasks, unlike previous AI assistants. The move signals An... [4740 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/claude-code-chief-on-anthropics-new-ai-tool-nonprogrammers-will-soon-/articleshow/127443137.cms",
+        "image": "https://static.toiimg.com/thumb/msid-127443137,width-1280,height-720,imgsize-13050,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-01-25T05:50:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "d88242f7a5f64ed50d848bd3b82d6ce1",
+        "title": "How Americans are using AI at work, according to a new Gallup poll",
+        "description": "A new Gallup poll finds that American workers have adopted artificial intelligence into their work lives at a remarkable pace over the past few years How",
+        "content": "A new Gallup poll finds that American workers have adopted artificial intelligence into their work lives at a remarkable pace over the past few years\nHow Americans are using AI at work, according to a new Gallup pollBy MATT O’BRIEN and LINLEY SANDERS... [6975 chars]",
+        "url": "https://www.breitbart.com/news/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll/",
+        "image": "https://media.breitbart.com/media/2026/01/wi/ap/polling-ai-workspace-92365-polling-ai-workspace-art-teacher-joyce-hatzidakis-poses-portrait-640x335.jpg",
+        "publishedAt": "2026-01-25T05:41:27Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "4bb28e3ff3e04c6249c926845d1b3ea1",
         "title": "Interest in US law schools is surging as AI makes payoff less certain",
         "description": "More students are applying to law school as a career hedge. However, they face increased costs and new federal loan limits. The rise of artificial intelligence also poses uncertainties for future legal jobs and salaries. This presents a significant challenge for a new generation of aspiring legal professionals.",
@@ -124,38 +156,6 @@
             "id": "c73686fdf0e30639d57eddaf7a77236e",
             "name": "India Today",
             "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "415f284cc4a183aad3e56564da59fedb",
-        "title": "Editorial | Hong Kong needs a centralised AI curriculum for its students",
-        "description": "The city has proactively adopted artificial intelligence in the school system, but courses still fall short on guiding proper use.",
-        "content": "New revelations about how widespread AI use is among Hong Kong students must be a wake-up call for the city. While the Education Bureau has been looking into curriculum changes, the research highlights the need for a more comprehensive and centralise... [1223 chars]",
-        "url": "https://www.scmp.com/opinion/comment/article/3340988/hong-kong-needs-centralised-ai-curriculum-its-students",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_editorial/public/d8/images/canvas/2026/01/23/7022d187-eecd-4bf2-a507-f5ec1ef8249e_7274dd00.jpg?itok=qvY3gLPH&v=1769160324",
-        "publishedAt": "2026-01-24T22:45:08Z",
-        "lang": "en",
-        "source": {
-            "id": "d6397b77175680e2678c0d60edcee7af",
-            "name": "South China Morning Post",
-            "url": "https://www.scmp.com",
-            "country": "hk"
-        }
-    },
-    {
-        "id": "af97c15f1fa516d4e7ff7fe90f9611a2",
-        "title": "Transition to use of AI in schools needs proper guidelines, holistic approach",
-        "description": "Session focuses on role of Artificial Intelligence in ensuring inclusive classroom learning.",
-        "content": "The Tribune Principals’ Meet\nTaking the Artificial Intelligence (AI) challenge head-on has become imperative for school heads today. As the world moves towards artificial intelligence at an unprecedented speed, principals and representatives of promi... [3389 chars]",
-        "url": "https://www.tribuneindia.com/news/amritsar/transition-to-use-of-ai-in-schools-needs-proper-guidelines-holistic-approach/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTUyMjM0MGQwLWY5NzQtMTFmMC1hMDFiLTY5ODE4NmI1ZTViMy5qcGc=",
-        "publishedAt": "2026-01-24T22:30:42Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
             "country": "in"
         }
     }
