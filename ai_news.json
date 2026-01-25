@@ -1,5 +1,21 @@
 [
     {
+        "id": "a1c03a8013de78f4a9b258de91f91442",
+        "title": "This AI tool is going viral. Five ways people are using it.",
+        "description": "Claude Code, an artificial intelligence tool that can generate computer code when people type a prompt, is having a viral moment. The tool, which the AI startup Anthropic introduced in May, has shown record growth over the past two weeks, the company said, without sharing its data. People had time to experiment with Claude Code […]",
+        "content": "Technology 6 min ago\nThis is an AI assisted summary.\nClaude Code, an artificial intelligence tool that can generate computer code when people type a prompt, is having a viral moment. The tool, which the AI startup Anthropic introduced in May, has sho... [23152 chars]",
+        "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/this-ai-tool-is-going-viral-five-ways-people-are-using-it-10493358/",
+        "image": "https://images.indianexpress.com/2026/01/Tech-featured-image65.jpg",
+        "publishedAt": "2026-01-25T04:18:20Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "3d9b478be00231b5a06cf6495823014f",
         "title": "Motley Fool: Powering artificial intelligence",
         "description": "Nvidia (Nasdaq: NVDA) may be the most well-known artificial intelligence and semiconductor stock on the planet. The tech giant makes the graphics processing units (GPUs) that fuel top AI tasks such as the training of large language models (LLMs), or inferencing – when an AI model applies that training to answer a question or solve a problem. Nvidia’s early entrance into the AI market gave it a huge advantage, and its focus on innovation has kept it in the top spot.",
@@ -141,22 +157,6 @@
             "name": "UPI News",
             "url": "https://www.upi.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "35119ca02f3160c745371290432d79a8",
-        "title": "It makes sense that people see AI as God",
-        "description": "Public discourse increasingly frames artificial intelligence in religious, even apocalyptic terms. Podcasters, writers and tech elites liken AI to messiahs, prophets or antichrists, reflecting humanity’s ancient impulse to anthropomorphize mysterious technologies and grant algorithms divine authority in contemporary media culture.",
-        "content": "Synopsis\nPublic discourse increasingly frames artificial intelligence in religious, even apocalyptic terms. Podcasters, writers and tech elites liken AI to messiahs, prophets or antichrists, reflecting humanity’s ancient impulse to anthropomorphize m... [13111 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/it-makes-sense-that-people-see-ai-as-god/articleshow/127416711.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-56806,resizemode-75,msid-127416711/tech/artificial-intelligence/it-makes-sense-that-people-see-ai-as-god.jpg",
-        "publishedAt": "2026-01-24T18:03:26Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
