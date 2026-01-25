@@ -1,5 +1,21 @@
 [
     {
+        "id": "aa489b40b2abc7e91961a4872456f3c0",
+        "title": "Liza Minnelli Says She Used AI Arrangements for her Latest Song",
+        "description": "Tony- and Oscar-winning actress and singer Liza Minnelli said she used artificial intelligence to create original music.",
+        "content": "(UPI) — Tony- and Oscar-winning actress and singer Liza Minnelli said she used artificial intelligence to create original music.\n“Hi Kids, I’m happy as a clam, laughing like hell and losing my mind! It’s all goin’ on at the time. Today, my first EDM ... [954 chars]",
+        "url": "https://www.breitbart.com/entertainment/2026/01/25/liza-minnelli-says-she-used-ai-arrangements-for-her-latest-song/",
+        "image": "https://media.breitbart.com/media/2026/01/Liza-Minnelli-640x335.jpg",
+        "publishedAt": "2026-01-25T07:38:18Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "7b7d77f7b5612356eecea89fcf5d640e",
         "title": "AI could reshape jobs globally by 2030, asserts WEF white paper",
         "description": "Artificial Intelligence (AI) is set to profoundly reshape global labour markets by the end of the decade, with outcomes ranging from productivity booms to widespread job displacement, according to a new World Economic Forum (WEF) white paper released this month.",
@@ -141,22 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "e538637ec99085e5ba534ada8fdf4aec",
-        "title": "Pope Leo warns against risks of AI algorithms",
-        "description": "Vatican City, Holy See—Pope Leo XIV on Saturday stressed the risks of generative artificial intelligence, how it could usurp human identities and",
-        "content": "Vatican City, Holy See—Pope Leo XIV on Saturday stressed the risks of generative artificial intelligence, how it could usurp human identities and relationships, influence public opinion and deepen social polarization.\nIn a message marking the World D... [1599 chars]",
-        "url": "https://manilastandard.net/news/world/314695391/pope-leo-warns-against-risks-of-ai-algorithms.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/01/pope-leo-xiv.jpg",
-        "publishedAt": "2026-01-25T04:47:54Z",
-        "lang": "en",
-        "source": {
-            "id": "e9207083a357fb7e76b38e485888ebe7",
-            "name": "manilastandard.net",
-            "url": "https://manilastandard.net",
-            "country": "ph"
         }
     }
 ]
