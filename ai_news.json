@@ -1,5 +1,37 @@
 [
     {
+        "id": "3d9b478be00231b5a06cf6495823014f",
+        "title": "Motley Fool: Powering artificial intelligence",
+        "description": "Nvidia (Nasdaq: NVDA) may be the most well-known artificial intelligence and semiconductor stock on the planet. The tech giant makes the graphics processing units (GPUs) that fuel top AI tasks such as the training of large language models (LLMs), or inferencing – when an AI model applies that training to answer a question or solve a problem. Nvidia’s early entrance into the AI market gave it a huge advantage, and its focus on innovation has kept it in the top spot.",
+        "content": "Nvidia (Nasdaq: NVDA) may be the most well-known artificial intelligence and semiconductor stock on the planet. The tech giant makes the graphics processing units (GPUs) that fuel top AI tasks such as the training of large language models (LLMs), or ... [3948 chars]",
+        "url": "https://www.spokesman.com/stories/2026/jan/25/motley-fool-powering-artificial-intelligence/",
+        "image": "https://thumb.spokesman.com/UNuxTgDiaCGqyFLyHZYvL3YJCNo=/1200x630/smart/media.spokesman.com/photos/2026/01/22/6972bf089ad24.hires.jpg",
+        "publishedAt": "2026-01-25T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c8c865ed042eb14694b8d596e22efe99",
+            "name": "Spokane Spokesman-Review",
+            "url": "https://www.spokesman.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "b09dccd72835af178721d393ca961d95",
+        "title": "Will skills, not degrees, decide who stays employable in the AI era?",
+        "description": "As artificial intelligence becomes embedded in everyday work, the debate around jobs is shifting from fear of replacement to readiness for change. Experts say India’s ability to stay competitive in the AI era will depend less on technology adoption and more on how quickly its workforce can reskill.",
+        "content": "As artificial intelligence rapidly reshapes industries, India’s workforce stands at a critical crossroads. With global studies estimating that nearly 40 percent of jobs could be impacted by automation by 2030, the question is no longer whether AI wil... [3581 chars]",
+        "url": "https://www.indiatoday.in/education-today/featurephilia/story/will-skills-not-degrees-decide-who-stays-employable-in-the-ai-era-2857222-2026-01-25",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/psychology-courses-abroad-205759163-16x9_1.jpg?VersionId=PiK802c2LvvQu4r7bfKYU9wKdKqIE6rk",
+        "publishedAt": "2026-01-25T02:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "415f284cc4a183aad3e56564da59fedb",
         "title": "Editorial | Hong Kong needs a centralised AI curriculum for its students",
         "description": "The city has proactively adopted artificial intelligence in the school system, but courses still fall short on guiding proper use.",
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "5936aed9ad2f9ce575bc9a10c8dc6803",
-        "title": "The First Real Conversation: AI and Human Explore Consciousness Together in Feature Film",
-        "description": "In the quiet, wood paneled workspace of an artist engineer in Colorado, a new kind of cinema has been born. It wasn’t created through a traditional production pipeline, but through a series of profound, unscripted philosophical exchanges. Kevin Cowan’s Coffee with Claude is not the first film to use artificial intelligence, but it is arguably […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nIn the quiet, wood paneled workspace of an artist engineer in Colorado, a new kind of cinema has been born. It wasn’t created through a traditional production pipeline, but through a series of profound, unscripted philos... [6570 chars]",
-        "url": "https://techbullion.com/the-first-real-conversation-ai-and-human-explore-consciousness-together-in-feature-film/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/01/Screenshot-2026-01-24-101643.png",
-        "publishedAt": "2026-01-24T17:17:10Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "4e34d8309886d4738bde65984ab66342",
-        "title": "Artificial Intelligence, crime and prisons: Mahmood revisits the panopticon",
-        "description": "When does the rot start in a politician?  For some, it commences the moment election to office is confirmed.  Others need to become cabinet ministers before being wholly blighted.  UK Home Secretar…",
-        "content": "When does the rot start in a politician? For some, it commences the moment election to office is confirmed. Others need to become cabinet ministers before being wholly blighted. UK Home Secretary Shabana Mahmood may provide a classic case study. Give... [5793 chars]",
-        "url": "https://www.middleeastmonitor.com/20260124-artificial-intelligence-crime-and-prisons-mahmood-revisits-the-panopticon/",
-        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2025/10/AA-20250930-39270839-39270836-LABOUR_CONFERENCE_2025_IN_LONDON.jpg?fit=920%2C613&ssl=1",
-        "publishedAt": "2026-01-24T16:15:35Z",
-        "lang": "en",
-        "source": {
-            "id": "e95f61df83ec26b9d965123c7b4cb57d",
-            "name": "Middle East Monitor",
-            "url": "https://www.middleeastmonitor.com",
-            "country": "gb"
         }
     }
 ]
