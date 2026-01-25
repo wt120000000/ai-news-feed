@@ -1,5 +1,37 @@
 [
     {
+        "id": "66d954ebce0003c623018903bd64d519",
+        "title": "Liza Minnelli says she used AI arrangements for her latest song",
+        "description": "Stage and screen icon Liza Minnelli said she used artificial intelligence to create the original dance track, \"Kids Wait Till You Hear This.\"",
+        "content": "Jan. 24 (UPI) -- Tony- and Oscar-winning actress and singer Liza Minnelli said she used artificial intelligence to create original music.\n\"Hi Kids, I'm happy as a clam, laughing like hell and losing my mind! It's all goin' on at the time. Today, my f... [758 chars]",
+        "url": "https://www.upi.com/Entertainment_News/Music/2026/01/24/liza-minnelli-artificial-intelligence/9761769275578/",
+        "image": "https://cdnph.upi.com/sv/ph/og/upi/9761769275578/2026/1/202bda806aabc8cd7147746a54b79b8b/v1.5/Liza-Minnelli-says-she-used-AI-arrangements-for-her-latest-song.jpg",
+        "publishedAt": "2026-01-24T18:18:03Z",
+        "lang": "en",
+        "source": {
+            "id": "79baacd62152cf257ee35e8c0bec19a2",
+            "name": "UPI News",
+            "url": "https://www.upi.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "35119ca02f3160c745371290432d79a8",
+        "title": "It makes sense that people see AI as God",
+        "description": "Public discourse increasingly frames artificial intelligence in religious, even apocalyptic terms. Podcasters, writers and tech elites liken AI to messiahs, prophets or antichrists, reflecting humanity’s ancient impulse to anthropomorphize mysterious technologies and grant algorithms divine authority in contemporary media culture.",
+        "content": "Synopsis\nPublic discourse increasingly frames artificial intelligence in religious, even apocalyptic terms. Podcasters, writers and tech elites liken AI to messiahs, prophets or antichrists, reflecting humanity’s ancient impulse to anthropomorphize m... [13111 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/it-makes-sense-that-people-see-ai-as-god/articleshow/127416711.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-56806,resizemode-75,msid-127416711/tech/artificial-intelligence/it-makes-sense-that-people-see-ai-as-god.jpg",
+        "publishedAt": "2026-01-24T18:03:26Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "5936aed9ad2f9ce575bc9a10c8dc6803",
         "title": "The First Real Conversation: AI and Human Explore Consciousness Together in Feature Film",
         "description": "In the quiet, wood paneled workspace of an artist engineer in Colorado, a new kind of cinema has been born. It wasn’t created through a traditional production pipeline, but through a series of profound, unscripted philosophical exchanges. Kevin Cowan’s Coffee with Claude is not the first film to use artificial intelligence, but it is arguably […]",
@@ -125,38 +157,6 @@
             "name": "The New York Times",
             "url": "https://www.nytimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "ccc27825189377b26a897d8ffa2ab79b",
-        "title": "'A fear of becoming obsolete'",
-        "description": "More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.",
-        "content": "Over the last few years, Emma Kobil, a trauma counselor in Denver, started noticing a new topic coming up with her patients: artificial intelligence.\n\"I've had clients lose their jobs due to AI, and it's something we've processed in our sessions,\" Ko... [2050 chars]",
-        "url": "https://www.cnbc.com/2026/01/24/ai-artificial-intelligence-worries-therapy.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108244680-1766412199045-gettyimages-1301280991-dsc02294.jpeg?v=1766412227&w=1920&h=1080",
-        "publishedAt": "2026-01-24T14:35:02Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4fdbd7724577325ee93e06fe1225ae58",
-        "title": "Wall St Week Ahead-Fed, big earnings week loom for markets as global tensions muddy outlook",
-        "description": "Investors who have been\nconsumed by geopolitical turmoil to start the year may switch\nfocus in the coming week to prospects for artificial\nintelligence-related profits and the path for interest...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/wall-st-week-ahead-fed-big-earnings-week-loom-for-markets-as-global-tensions-muddy-outlook-ce7e5bdad18cf320",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-01-24T14:01:19Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
