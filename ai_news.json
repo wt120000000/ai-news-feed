@@ -1,5 +1,37 @@
 [
     {
+        "id": "415f284cc4a183aad3e56564da59fedb",
+        "title": "Editorial | Hong Kong needs a centralised AI curriculum for its students",
+        "description": "The city has proactively adopted artificial intelligence in the school system, but courses still fall short on guiding proper use.",
+        "content": "New revelations about how widespread AI use is among Hong Kong students must be a wake-up call for the city. While the Education Bureau has been looking into curriculum changes, the research highlights the need for a more comprehensive and centralise... [1223 chars]",
+        "url": "https://www.scmp.com/opinion/comment/article/3340988/hong-kong-needs-centralised-ai-curriculum-its-students",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_editorial/public/d8/images/canvas/2026/01/23/7022d187-eecd-4bf2-a507-f5ec1ef8249e_7274dd00.jpg?itok=qvY3gLPH&v=1769160324",
+        "publishedAt": "2026-01-24T22:45:08Z",
+        "lang": "en",
+        "source": {
+            "id": "d6397b77175680e2678c0d60edcee7af",
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com",
+            "country": "hk"
+        }
+    },
+    {
+        "id": "af97c15f1fa516d4e7ff7fe90f9611a2",
+        "title": "Transition to use of AI in schools needs proper guidelines, holistic approach",
+        "description": "Session focuses on role of Artificial Intelligence in ensuring inclusive classroom learning.",
+        "content": "The Tribune Principals’ Meet\nTaking the Artificial Intelligence (AI) challenge head-on has become imperative for school heads today. As the world moves towards artificial intelligence at an unprecedented speed, principals and representatives of promi... [3389 chars]",
+        "url": "https://www.tribuneindia.com/news/amritsar/transition-to-use-of-ai-in-schools-needs-proper-guidelines-holistic-approach/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTUyMjM0MGQwLWY5NzQtMTFmMC1hMDFiLTY5ODE4NmI1ZTViMy5qcGc=",
+        "publishedAt": "2026-01-24T22:30:42Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "c24e2a7798b484f94973729db01be570",
         "title": "'I believe police team can finally solve 30",
         "description": "\"DCI Ben Lavender's team have gone back to the very beginning of the investigation and examined all the evidence through the modern lens and using artificial intelligence\"",
@@ -125,38 +157,6 @@
             "name": "Middle East Monitor",
             "url": "https://www.middleeastmonitor.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "3b6e599e23c72b6d1a1aa739afea6f55",
-        "title": "Jobs, jobs, jobs' is the AI mantra in Davos as fears take back seat",
-        "description": "DAVOS, Switzerland — Biting cold, political tensions and doubts about artificial intelligence did nothing to curb the enthusiasm of business leaders in Davos over technology’s ability to create jobs.",
-        "content": "DAVOS, Switzerland — Biting cold, political tensions and doubts about artificial intelligence did nothing to curb the enthusiasm of business leaders in Davos over technology’s ability to create jobs.\nTop executives at the World Economic Forum’s annua... [3972 chars]",
-        "url": "https://www.manilatimes.net/2026/01/25/business/top-business/jobs-jobs-jobs-is-the-ai-mantra-in-davos-as-fears-take-back-seat/2264670",
-        "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-01-24T16:09:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "ed5f0df4f91df288be68350c760da9f0",
-        "title": "OpenAI plans a new offering to business' efforts to use AI - The Information",
-        "description": "Jan 24 -\nOpenAI plans a new offering to business' efforts to use Artificial Intelligence - The Information\nOpenAI aims to counter rival Anthropic's strong traction with enterprise customers -...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/openai-plans-a-new-offering-to-business-efforts-to-use-ai-the-information-ce7e5bdad18ff720",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2026-01-24T16:08:16Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
