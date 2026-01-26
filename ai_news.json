@@ -1,5 +1,37 @@
 [
     {
+        "id": "5def1d78cc3990aed6bc325bc01d5d39",
+        "title": "'Jobs, jobs, jobs' the AI mantra in Davos",
+        "description": "Biting cold, political tensions and doubts about artificial intelligence did nothing to curb the enthusiasm of business leaders in Davos over technology's ability to create jobs.",
+        "content": "Biting cold, political tensions and doubts about artificial intelligence did nothing to curb the enthusiasm of business leaders in Davos over technology's ability to create jobs.\nTop executives at the World Economic Forum's annual meeting said that w... [4539 chars]",
+        "url": "https://www.rte.ie/news/business/2026/0126/1555100-jobs-jobs-jobs-the-ai-mantra-in-davos/",
+        "image": "https://www.rte.ie/images/0023c417-1600.jpg",
+        "publishedAt": "2026-01-26T10:14:17Z",
+        "lang": "en",
+        "source": {
+            "id": "4c8b69bf547b577f84acbba5157b439c",
+            "name": "RTE.ie",
+            "url": "https://www.rte.ie",
+            "country": "ie"
+        }
+    },
+    {
+        "id": "2ae2473de8a8fdcd42346df9a1dc75db",
+        "title": "Silicon Valley Wants to Build A.I. That Can Improve A.I. on Its Own",
+        "description": "Ricursive Intelligence, founded by two former Google researchers and valued at $4 billion, is among several efforts to automate the creation of artificial intelligence.",
+        "content": "One new start-up is called Recursive with an “e.” Another is called Ricursive with an “i.” They are trying to do the same thing: Build artificial intelligence that can improve itself without the help of humans, an obsession of Silicon Valley technolo... [640 chars]",
+        "url": "https://www.nytimes.com/2026/01/26/technology/recursive-ai-ricursive.html",
+        "image": "https://static01.nyt.com/images/2026/01/26/multimedia/26biz-ricursive-ai-vbwq/26biz-ricursive-ai-vbwq-facebookJumbo.jpg",
+        "publishedAt": "2026-01-26T10:02:25Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d1e356f29eeaf9ca076756c5106f4aba",
         "title": "EU and AI: Is it a lost battle? Take our poll",
         "description": "Has Europe already fallen behind in the global race for artificial intelligence? And how far should the EU go to catch up? Take our poll and share your view.",
@@ -125,38 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "a94e7581d9227862207d476d50a4eb08",
-        "title": "Malaysian ringgit, stocks hit highest since 2018 on AI, growth",
-        "description": "THE Malaysian ringgit rose to the strongest level in more than seven years, buoyed by optimism over the country's ties to the artificial intelligence supply chain and the nation's growth outlook. The benchmark equity index also advanced.",
-        "content": "The Malaysian ringgit rose to the strongest level in more than seven years, buoyed by optimism over the country’s ties to the artificial intelligence supply chain and the nation’s growth outlook. The benchmark equity index also advanced.\nThe currency... [1894 chars]",
-        "url": "https://www.thestar.com.my/business/business-news/2026/01/26/malaysian-ringgit-stocks-hit-highest-since-2018-on-ai-growth",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/01/26/3738560.jpeg",
-        "publishedAt": "2026-01-26T06:50:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "761972a6bd233421b61628b523b401c7",
-        "title": "AI is not UPI: Why going by the UPI model risks stalling progress on artificial intelligence",
-        "description": "Analysis challenges applying India's UPI success model to AI development, arguing that state-led compute provisioning and centralized control could stall innovation. Unlike UPI's standardized payment system, AI evolved through complex global supply chains involving multiple components. The piece cites failed US semiconductor controls on China as evidence that centralized approaches don't work, as Chinese firms adapted by reconfiguring supply chains. The authors warn against India's 'national champions' approach, suggesting AI sovereignty requires global participation rather than administrative control.",
-        "content": "A growing debate in India's technology policy circles centers on whether the country should apply its successful UPI model to artificial intelligence development. However, this reasoning presents fundamental flaws that could potentially stall rather ... [8785 chars]",
-        "url": "https://scanx.trade/stock-market-news/global/ai-is-not-upi-why-going-by-the-upi-model-risks-stalling-progress-on-artificial-intelligence/30955092",
-        "image": "http://news-images.dhan.co/ai-is-not-upi-why-going-by-the-upi-model-risks-stalling-progress-on-artificial-intelligence.jpg",
-        "publishedAt": "2026-01-26T06:38:12Z",
-        "lang": "en",
-        "source": {
-            "id": "f746366686e467440a63dd26dbb72053",
-            "name": "scanx.trade",
-            "url": "https://scanx.trade",
-            "country": "in"
         }
     }
 ]
