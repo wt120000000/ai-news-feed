@@ -1,5 +1,37 @@
 [
     {
+        "id": "d73313504faa1ca3e9528c62650dbdde",
+        "title": "Poll shows how Americans are using AI at work",
+        "description": "A poll finds that American workers have adopted artificial intelligence into their work lives at a remarkable pace over the past few years.",
+        "content": "American workers adopted artificial intelligence into their work lives at a remarkable pace over the past few years, according to a new poll.\nSome 12% of employed adults say they use AI daily in their job, according to a Gallup Workforce survey condu... [6176 chars]",
+        "url": "https://www.inquirer.com/business/ai-workplace-use-replace-poll-20260125.html",
+        "image": "https://www.inquirer.com/resizer/v2/FOYCY6Q52T7EZ3IVHXNPWEVB3A.jpg?auth=3b4adfe41f75cc41f17ded4c928033b0048f0064a014ad1bea996756bdd7fd2a&width=760&height=507&smart=true",
+        "publishedAt": "2026-01-25T19:17:55Z",
+        "lang": "en",
+        "source": {
+            "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+            "name": "The Philadelphia Inquirer",
+            "url": "https://www.inquirer.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "94a7b79ced4a5a6d2020952be98e8f32",
+        "title": "Ticker: Meta pauses teen access to AI characters; Mortgage rates edge higher",
+        "description": "Meta is halting teens' access to artificial intelligence characters, at least temporarily, the company said in a blog post.",
+        "content": "Meta is halting teens’ access to artificial intelligence characters, at least temporarily, the company said in a blog post.\nMeta Platforms Inc., which own Instagram and WhatsApp, said that starting in the “coming weeks,” teens will no longer be able ... [1468 chars]",
+        "url": "https://www.bostonherald.com/2026/01/25/ticker-meta-pauses-teen-access-to-ai-characters-mortgage-rates-edge-higher/",
+        "image": "https://www.bostonherald.com/wp-content/uploads/2026/01/Meta-Teens-AI_68963.jpg?w=1024&h=683",
+        "publishedAt": "2026-01-25T19:17:27Z",
+        "lang": "en",
+        "source": {
+            "id": "bc49d994b41ac710f5c89f6e6adeece4",
+            "name": "The Boston Herald",
+            "url": "https://www.bostonherald.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "7f04339716df419387d1913de77d45c1",
         "title": "My colleague the chatbot",
         "description": "American workers adopted artificial intelligence into their work lives at a remarkable pace over the past few years, according to a new poll.",
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "e46c35688cb7a97f8f8577434e69f0ce",
-        "title": "How Americans are using AI at work, according to a new Gallup poll",
-        "description": "A new Gallup poll finds that American workers have adopted artificial intelligence into their work lives at a remarkable pace over the past few years",
-        "content": "American workers adopted artificial intelligence into their work lives at a remarkable pace over the past few years, according to a new poll.\nSome 12% of employed adults say they use AI daily in their job, according to a Gallup Workforce survey condu... [1623 chars]",
-        "url": "https://www.ajc.com/news/2026/01/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll/",
-        "image": "https://images.ajc.com/resizer/v2/LDWZEQS6FZAVBAWY3NV357XR6A.jpg?auth=ac91ccc98ba52de60a30b566e3b3df2bda20db24e86c597b428e4ec7d0ea74fa&width=1200&height=630&smart=true",
-        "publishedAt": "2026-01-25T13:12:18Z",
-        "lang": "en",
-        "source": {
-            "id": "79e9a45376a66fd7e1a4e68bba928c39",
-            "name": "The Atlanta Journal-Constitution",
-            "url": "https://www.ajc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d7b999f2e110b3a6e23fc28deec1c5e0",
-        "title": "How Americans are using AI at work, according to a new Gallup poll",
-        "description": "American workers adopted artificial intelligence into their work lives at a remarkable pace over the past few years, according to a new poll. Some 12%",
-        "content": "American workers adopted artificial intelligence into their work lives at a remarkable pace over the past few years, according to a new poll.\nSome 12% of employed adults say they use AI daily in their job, according to a Gallup Workforce survey condu... [6821 chars]",
-        "url": "https://wtop.com/national/2026/01/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll/",
-        "image": "https://wtop.com/wp-content/uploads/2026/01/Polling_AI_In_the_Workspace_92365-scaled.jpg",
-        "publishedAt": "2026-01-25T13:03:51Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
-            "country": "us"
         }
     }
 ]
