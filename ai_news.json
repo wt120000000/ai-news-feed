@@ -1,5 +1,21 @@
 [
     {
+        "id": "3c999273456339d6d0fd27c7113b39a3",
+        "title": "How a New High-Tech Surveillance Grid Will Track Crime in Hinjewadi and MIDC Zones",
+        "description": "A high-powered committee of the Maharashtra State Government has approved an Artificial Intelligence (AI) enabled CCTV surveillance project for the entire jurisdiction of Pimpri-Chinchwad police commissionerate. The project will focus on surveillance in industrial and IT clusters and key pilgrimage centres among sensitive locations and will aid in real-time crime detection, investigation, traffic enforcement, crowd […]",
+        "content": "The comparatively new Pimpri-Chinchwad Police commissionerate which came into existence in 2018, has undertaken infrastructure expansion to catch up with rapid pace of urbanisation and population growth in its jurisdiction. This includes the establis... [2686 chars]",
+        "url": "https://indianexpress.com/article/cities/pune/high-powered-committee-ai-cctv-project-pimpri-chinchwad-police-jurisdiction-10494533/",
+        "image": "https://images.indianexpress.com/2026/01/ai-cctv.jpg",
+        "publishedAt": "2026-01-25T16:49:03Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "d2ae6e9f4af52da044be3ebdd52d36e6",
         "title": "Choose the Human Path for AI",
         "description": "To realize the greatest gains from artificial intelligence, we must make the future of work more human, not less.",
@@ -140,22 +156,6 @@
             "id": "35515662ec044d3f94b543cd8802d63f",
             "name": "WDIV ClickOnDetroit",
             "url": "https://www.clickondetroit.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "eba1e0ccf5597b6f7c65868ddee769f6",
-        "title": "How Americans Are Using AI at Work, According to a New Gallup Poll",
-        "description": "American workers adopted artificial intelligence into their work lives at a remarkable pace over the past few years, according to a new poll.",
-        "content": "American workers adopted artificial intelligence into their work lives at a remarkable pace over the past few years, according to a new poll.\nSome 12% of employed adults say they use AI daily in their job, according to a Gallup Workforce survey condu... [6688 chars]",
-        "url": "https://www.usnews.com/news/business/articles/2026-01-25/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll",
-        "image": "https://www.usnews.com/dims4/USNEWS/1b9e31e/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fc4%2F441f997aaffc5202fa437852e33df0%2Fbda6b9e6dbca49ceaa6353a58d43b3dcPolling_AI_In_the_Workspace_92365.jpg",
-        "publishedAt": "2026-01-25T13:01:00Z",
-        "lang": "en",
-        "source": {
-            "id": "37128a060981dbbe79321f096e7d1108",
-            "name": "U.S. News & World Report",
-            "url": "https://www.usnews.com",
             "country": "us"
         }
     }
