@@ -1,5 +1,37 @@
 [
     {
+        "id": "3ad60372957eb24d8ffe6a6f709e104c",
+        "title": "How Americans are using AI at work, according to a new Gallup poll",
+        "description": "American workers adopted artificial intelligence into their work lives at a remarkable pace over the past few years, according to a new poll.",
+        "content": "Home Depot store associate Gene Walinski is one of the employees embracing AI at work. The 70-year-old turns to an AI assistant on his personal phone roughly every hour on his shift so he can better answer questions about supplies that he is not “100... [5243 chars]",
+        "url": "https://www.bostonglobe.com/2026/01/25/nation/how-americans-are-using-ai-work-according-new-gallup-poll/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/X36BWZMRAXYGOXQU3U3DHFXBU4.jpg?auth=06a0c339079587539d488d2bb890c42f7c8209459a8aadc6b30d682459266627&width=1440",
+        "publishedAt": "2026-01-25T20:34:14Z",
+        "lang": "en",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c885f037c57d85ef039574b2ddb96e42",
+        "title": "Dazzling Chinese AI debuts mask growing pains",
+        "description": "Investor confidence in Chinese AI startups is riding high, but obstacles to their long-term success range from U.S. export controls to the puzzle of how to become profitable. This month, two leading players in China's artificial intelligence industry, Zhipu AI and MiniMax, made dazzling debuts on the Hong Kong stock…",
+        "content": "Investor confidence in Chinese AI startups is riding high, but obstacles to their long-term success range from U.S. export controls to the puzzle of how to become profitable.\nThis month, two leading players in China's artificial intelligence industry... [4090 chars]",
+        "url": "https://japantoday.com/category/tech/dazzling-chinese-ai-debuts-mask-growing-pains",
+        "image": "https://media.japantoday.com/img/store/9a/1a/e15da7abe2f99d432d44a0681350b383f0b3/bf7d33a2d73e95774531940447f21952c29b1008/_w1700.jpeg",
+        "publishedAt": "2026-01-25T20:31:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "d73313504faa1ca3e9528c62650dbdde",
         "title": "Poll shows how Americans are using AI at work",
         "description": "A poll finds that American workers have adopted artificial intelligence into their work lives at a remarkable pace over the past few years.",
@@ -124,38 +156,6 @@
             "id": "7daf04fa6272ed0a29583b211dcfe1d4",
             "name": "NDTV.com",
             "url": "https://www.ndtv.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "2a6bd839768753012da652e485ae92e0",
-        "title": "Bill Gates warns investors: Not all companies will be ...",
-        "description": "Tech News News: Bill Gates has warned investors that not every company riding the artificial intelligence (AI) wave will succeed. Speaking at the World Economic Forum.",
-        "content": "Bill Gates has warned investors that not every company riding the artificial intelligence (AI) wave will succeed. Speaking at the World Economic Forum in Davos, the Microsoft co-founder said some AI-focused firms may struggle to justify their high va... [2176 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-warns-investors-not-all-companies-will-be-/articleshow/127478442.cms",
-        "image": "https://static.toiimg.com/thumb/msid-127478437,width-1280,height-720,imgsize-36848,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-01-25T13:28:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "913d66d59457baa65d647a63709b6bad",
-        "title": "How Americans are using AI at work, according to a new Gallup poll",
-        "description": "American workers are using artificial intelligence at work, with many now relying on it daily for writing, research and admin tasks. Use is highest in technology, finance and education, while service jobs lag behind. Most workers are not afraid of losing jobs, though some roles face higher risk future.",
-        "content": "Synopsis\nAmerican workers are using artificial intelligence at work, with many now relying on it daily for writing, research and admin tasks. Use is highest in technology, finance and education, while service jobs lag behind. Most workers are not afr... [6597 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll/articleshow/127478223.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34716,resizemode-75,msid-127478223/tech/artificial-intelligence/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll.jpg",
-        "publishedAt": "2026-01-25T13:24:30Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
