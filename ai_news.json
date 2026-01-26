@@ -1,5 +1,21 @@
 [
     {
+        "id": "934e1fc05110794655856935a1c91700",
+        "title": "Trump pushes AI data centers, but the GOP is cool to one in Alabama",
+        "description": "Kenneth E. Gulley, the mayor of Bessemer, Ala., confesses to some befuddlement as to why the people in his community would oppose the construction of a $14.5 billion artificial intelligence data center in a woodland just outside of town.",
+        "content": "Morgan’s sentiments are echoed by his neighbor Marshall Killingsworth, who bought his own land 58 years ago and now fears that the hoot owls in his backyard will no longer serenade him at night. Also fretful is Ronnie Buchanan, a retired rubber plant... [6025 chars]",
+        "url": "https://www.bostonglobe.com/2026/01/25/nation/trump-pushes-ai-data-centers-gop-is-cool-one-alabama/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/BSOVR4XCHCF7ZU3DMRXQ4SBHBY.jpg?auth=fece7a28cfd139ea66fec3b61d7ea178b9e3833f959195019c4e16a2f8e7479e&width=1440",
+        "publishedAt": "2026-01-25T20:45:41Z",
+        "lang": "en",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "3ad60372957eb24d8ffe6a6f709e104c",
         "title": "How Americans are using AI at work, according to a new Gallup poll",
         "description": "American workers adopted artificial intelligence into their work lives at a remarkable pace over the past few years, according to a new poll.",
@@ -141,22 +157,6 @@
             "name": "Inc. Magazine",
             "url": "https://www.inc.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "ea0ffc548163e800cd38cbb834d79547",
-        "title": "AI Healthcare Models Should Be Tested On Diverse Populations To Ensure Trust And Accuracy, Says NHA CEO",
-        "description": "Artificial intelligence models in healthcare must be tested on large and diverse population datasets to ensure trust, accuracy and inclusion, National Health Authority (NHA) Chief Executive Officer Dr Sunil Kumar Barnwal, said on Sunday.",
-        "content": "New Delhi:\nArtificial intelligence models in healthcare must be tested on large and diverse population datasets before being deployed on the ground to ensure trust, accuracy and inclusion, National Health Authority (NHA) Chief Executive Officer Dr Su... [2254 chars]",
-        "url": "https://www.ndtv.com/health/ai-healthcare-models-should-be-tested-on-diverse-populations-to-ensure-trust-and-accuracy-says-nha-ceo-10881617",
-        "image": "https://c.ndtvimg.com/2026-01/b92u4nfo_ai-in-healthcare-services_625x300_20_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-01-25T13:40:08Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
-            "country": "in"
         }
     }
 ]
