@@ -1,5 +1,69 @@
 [
     {
+        "id": "d1e356f29eeaf9ca076756c5106f4aba",
+        "title": "EU and AI: Is it a lost battle? Take our poll",
+        "description": "Has Europe already fallen behind in the global race for artificial intelligence? And how far should the EU go to catch up? Take our poll and share your view.",
+        "content": "AI has shifted from a niche technology, to the backbone of global power. The US and China pour tens of billions into their AI growth, rolling out powerful models with the support of tech giants and massive data centres.\nEurope, by contrast, is still ... [1193 chars]",
+        "url": "https://www.euronews.com/my-europe/2026/01/26/eu-and-ai-is-it-a-lost-battle-take-our-poll",
+        "image": "https://images.euronews.com/articles/stories/09/61/76/29/1200x675_cmsv2_89546885-5a57-5ec4-9a15-6885b5dd4580-9617629.jpg",
+        "publishedAt": "2026-01-26T09:23:20Z",
+        "lang": "en",
+        "source": {
+            "id": "3d24c816061d69b2e23b8583aed9b447",
+            "name": "Euronews",
+            "url": "https://www.euronews.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "b3bd92f385a6a70173d7bfa334c5463b",
+        "title": "Nvidia-Backed AI Startup Synthesia Raises Funding at $4 Billion Valuation",
+        "description": "By Mauro Orru\nArtificial-intelligence company Synthesia raised $200 million at a $4 billion valuation, adding fresh capital to develop software that businesses can use to train employees through...",
+        "content": "By Mauro Orru\nArtificial-intelligence company Synthesia raised $200 million at a $4 billion valuation, adding fresh capital to develop software that businesses can use to train employees through interactive videos.\nThe Series E funding round included... [2713 chars]",
+        "url": "https://www.marketscreener.com/news/nvidia-backed-ai-startup-synthesia-raises-funding-at-4-billion-valuation-ce7e5bdbd88eff24",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2026-01-26T09:15:29Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "e6da4cca251a16ed20c3d4340b9deb44",
+        "title": "SOFTSWISS Appoints Chief Artificial Intelligence Officer",
+        "description": "/PRNewswire/ -- SOFTSWISS, a global tech leader in iGaming solutions, has strengthened its long-term technology strategy by appointing Denis Romanovskiy as its...",
+        "content": "ST. JULIAN'S, Malta, Jan. 26, 2026 /PRNewswire/ -- SOFTSWISS, a global tech leader in iGaming solutions, has strengthened its long-term technology strategy by appointing Denis Romanovskiy as its first Chief Artificial Intelligence Officer (CAIO). The... [2390 chars]",
+        "url": "https://www.prnewswire.co.uk/news-releases/softswiss-appoints-chief-artificial-intelligence-officer-302668031.html",
+        "image": "https://mma.prnewswire.com/media/2866433/SOFTSWISS_Chief_AI_Officer_Denis_Romanovskiy.jpg?p=facebook",
+        "publishedAt": "2026-01-26T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "f4d035ae0463df22c36ae97972a33ba6",
+            "name": "PR Newswire UK",
+            "url": "https://www.prnewswire.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "c4d94c9220123a6f436c0bd3f0c4848f",
+        "title": "AI is hitting UK harder than other big economies, study finds",
+        "description": "Britain is losing more jobs than it creates owing to artificial intelligence, Morgan Stanley research suggests",
+        "content": "The UK is losing more jobs than it is creating because of artificial intelligence and is being hit harder than rival large economies, new research suggests.\nBritish companies reported that AI had resulted in net job losses over the past 12 months, do... [1992 chars]",
+        "url": "https://www.theguardian.com/technology/2026/jan/26/ai-uk-jobs-us-japan-germany-australia",
+        "image": "https://i.guim.co.uk/img/media/3b18b09c0ec0f30881cf1f8a446df26abc463dd7/435_0_4386_3508/master/4386.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b19e1bcd5a193bde56fbf1a862c0c21",
+        "publishedAt": "2026-01-26T08:41:54Z",
+        "lang": "en",
+        "source": {
+            "id": "01558c024928d45cf320f6f75eede787",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "e31108bb42a6f6dc02a0e3c825c6e48b",
         "title": "Meta's Reality Labs layoffs show the harsh pivot from virtual reality to AI",
         "description": "As virtual reality app developers worry about the 'winter of VR,' the tech world moves on in its dizzying pivot to artificial intelligence technologies",
@@ -92,70 +156,6 @@
             "id": "f746366686e467440a63dd26dbb72053",
             "name": "scanx.trade",
             "url": "https://scanx.trade",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e768d3d946de2ab9e99400e534f37156",
-        "title": "AI is not UPI: Why going by the UPI model risks stalling progress on artificial intelligence",
-        "description": "India’s AI policy debate keeps returning to a comforting success story: UPI. If state-led scale worked for payments, why not for AI? A closer look at how AI actually evolves—globally, unevenly and beyond state control—suggests that this analogy could sabotage the very progress it seeks to accelerate",
-        "content": "This reasoning is flawed. The proposed analogy usually unfolds along familiar lines. AI development demands significant compute infrastructure—most notably high-end graphics processing units (GPUs), dominated today by Nvidia.\nThese are scarce and lar... [4461 chars]",
-        "url": "https://www.livemint.com/opinion/online-views/ai-not-upi-model-risks-progress-artificial-intelligence-ai-policy-11769282335632.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/01/25/1600x900/logo/2-0-1248136665-hires1-0_1679614153162_1769325492061.jpg",
-        "publishedAt": "2026-01-26T06:30:35Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "4fe27da817fc974488fade8bdb5ab114",
-        "title": "VEON Unveils the New Beeline Uzbekistan Network Operations Center, Launches BuildX to Accelerate Software Development in Uzbekistan",
-        "description": "Dubai and Tashkent, January 26, 2026: VEON Ltd. (Nasdaq: VEON), a global digital operator ('VEON” or, together with its subsidiaries, the 'VEON Group”), today unveiled the new network operations center for Beeline Uzbekistan in Tashkent, in a ceremony attended by Sherzod Shermatov, Minister of Digital Technologies of Uzbekistan, and Kaan Terzioglu, VEON Group CEO as well as Beeline Uzbekistan board members and its executive team. Today, VEON also launched BuildX, its new software development and artificial intelligence company in Uzbekistan.",
-        "content": "Dubai and Tashkent, January 26, 2026: VEON Ltd. (Nasdaq: VEON), a global digital operator (\"VEON” or, together with its subsidiaries, the \"VEON Group”), today unveiled the new network operations center for Beeline Uzbekistan in Tashkent, in a ceremon... [5894 chars]",
-        "url": "https://www.manilatimes.net/2026/01/26/tmt-newswire/globenewswire/veon-unveils-the-new-beeline-uzbekistan-network-operations-center-launches-buildx-to-accelerate-software-development-in-uzbekistan/2264956",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/26/912109.png",
-        "publishedAt": "2026-01-26T06:16:57Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "f7baaf1d347e18abb2bec90659c975c0",
-        "title": "AMG LIVA to Install Hybrid Energy Storage System Battery at Aramco Site",
-        "description": "Amsterdam, 26 January 2026 --- AMG Critical Materials N.V. ('AMG', EURONEXT AMSTERDAM: 'AMG') announces that its subsidiary, AMG LIVA, will install its industrial battery, namely the Hybrid Energy Storage System ('Hybrid ESS”), at Aramco’s Bulk Plant in Tabuk, Saudi Arabia. LIVA’s Hybrid ESS is an ecosystem combining Lithium-Ion and Vanadium Redox Flow batteries ('VRFB”) with artificial intelligence routines and self-learning algorithms to help increase efficiency, safety, reliability, and lifetime of the batteries. The Hybrid ESS will be integrated into an existing solar plant at Aramco’s facility in Tabuk.",
-        "content": "Amsterdam, 26 January 2026 --- AMG Critical Materials N.V. (\"AMG\", EURONEXT AMSTERDAM: \"AMG\") announces that its subsidiary, AMG LIVA, will install its industrial battery, namely the Hybrid Energy Storage System (\"Hybrid ESS”), at Aramco’s Bulk Plant... [4769 chars]",
-        "url": "https://www.manilatimes.net/2026/01/26/tmt-newswire/globenewswire/amg-liva-to-install-hybrid-energy-storage-system-battery-at-aramco-site/2264955",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/26/912108.png",
-        "publishedAt": "2026-01-26T06:16:56Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "e3c0de235b85426e848a4febf4e25480",
-        "title": "‘India to build 12 sovereign AI models to tackle national challenges’: Ashwini Vaishnaw",
-        "description": "India’s IT Minister Ashwini Vaishnaw at the World Economic Forum emphasised on how India is making progress at the tech zone and working to build 12 sovereign artificial intelligence models in reference to various national problems.",
-        "content": "India is working on building 12 sovereign artificial intelligence models in reference to various national problems, IT Minister Ashwini Vaishnaw said during the World Economic Forum, Davos.\nVaishnaw described the models as part of the five-layer nati... [1927 chars]",
-        "url": "https://www.firstpost.com/tech/india-to-build-12-sovereign-ai-models-to-tackle-national-challenges-ashwini-vaishnaw-13972540.html",
-        "image": "https://images.firstpost.com/uploads/2026/01/Untitled-design-43-2026-01-70324abd3467700f3766b594c7b75eaa-1200x675.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-01-26T06:00:53Z",
-        "lang": "en",
-        "source": {
-            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-            "name": "Firstpost",
-            "url": "https://www.firstpost.com",
             "country": "in"
         }
     }
