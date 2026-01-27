@@ -1,5 +1,21 @@
 [
     {
+        "id": "8cc8b3fcd50a9ec58d7009f320ac5b70",
+        "title": "Trump’s Transportation Department is using AI to write regulations.",
+        "description": "Google’s Gemini, in particular, according to ProPublica, citing internal communications. The regulations don’t even have to be that good, officials say; “We don’t need the perfect rule on XYZ. We don’t even need a very good rule on XYZ,” one official is reported to have said. This will surely end well.\n[Link: Government by AI? Trump Administration Plans to Write Regulations Using Artificial Intelligence | https://www.propublica.org/article/trump-artificial-intelligence-google-gemini-transportation-regulations?utm_source=bluesky&utm_medium=social&utm_campaign=propublica-bsky&utm_content=1-26 | ProPublica]",
+        "content": "A\nExternal Link\nTrump’s Transportation Department is using AI to write regulations.\nGoogle’s Gemini, in particular, according to ProPublica, citing internal communications. The regulations don’t even have to be that good, officials say; “We don’t nee... [684 chars]",
+        "url": "https://www.theverge.com/transportation/868383/trumps-transportation-department-is-using-ai-to-write-regulations",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+        "publishedAt": "2026-01-27T02:00:22Z",
+        "lang": "en",
+        "source": {
+            "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+            "name": "The Verge",
+            "url": "https://www.theverge.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f90f0a1747f8309641b40e7588c936c2",
         "title": "Zoom Stock (ZM) Jumps 10% as Investment in Anthropic Estimated at $4 Billion",
         "description": "Shares of Zoom Communications (ZM) are up 10% on Jan. 26 after analysts at Baird estimated the company’s investment in artificial intelligence s...",
@@ -141,22 +157,6 @@
             "name": "The daily Star",
             "url": "https://www.dailystar.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "3ed0f6ff42ee921e1d3b801fb0fba43b",
-        "title": "collar work will increase': Is the AI boom redefining career success?",
-        "description": "Careers News: At the World Economic Forum in Davos, Jensen Huang, the CEO of Nvidia, made a point. Artificial intelligence, he said, is more likely to raise the val.",
-        "content": "At the World Economic Forum in Davos, Jensen Huang, the CEO of Nvidia, made a point. Artificial intelligence, he said, is more likely to raise the value of blue-collar work. The claim is pretty familiar in parts of the labour debate. What makes it wo... [2133 chars]",
-        "url": "https://timesofindia.indiatimes.com/education/careers/news/nvidia-ceo-jensen-huang-says-the-value-of-blue-collar-work-will-increase-is-the-ai-boom-redefining-career-success/articleshow/127559175.cms",
-        "image": "https://static.toiimg.com/thumb/msid-127559404,width-1280,height-720,imgsize-53354,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-01-26T21:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
