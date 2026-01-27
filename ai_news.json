@@ -1,5 +1,37 @@
 [
     {
+        "id": "8d708cdc9c39f86a0db85ed32767bc1e",
+        "title": "Silicon Valley wants to build AI that can improve AI on its own",
+        "description": "Ricursive Intelligence, founded by two former Google researchers and valued at US$4bil, is among several efforts to automate the creation of artificial intelligence.",
+        "content": "SAN FRANCISCO: One new startup is called Recursive with an “e”. Another is called Ricursive with an “i”. They are trying to do the same thing: Build artificial intelligence that can improve itself without the help of humans, an obsession of Silicon V... [4203 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/01/27/silicon-valley-wants-to-build-ai-that-can-improve-ai-on-its-own",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/01/27/3740262.jpeg",
+        "publishedAt": "2026-01-27T04:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "17107c1edbbb1aa304f9dbaa0c0eac2f",
+        "title": "Fangzhou Raises HK$150 Million in Share Placement to Accelerate AI-Powered Chronic Care Platform",
+        "description": "HONG KONG, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Fangzhou Inc. ('Fangzhou” or the 'Company”) (HKEX: 06086), a leading provider of AI-driven Internet healthcare solutions, has successfully completed a HK$150 million share placement, strengthening its balance sheet to accelerate investment in artificial intelligence and platform upgrades.",
+        "content": "HONG KONG, Jan. 27, 2026 (GLOBE NEWSWIRE) -- Fangzhou Inc. (\"Fangzhou” or the \"Company”) (HKEX: 06086), a leading provider of AI-driven Internet healthcare solutions, has successfully completed a HK$150 million share placement, strengthening its bala... [2935 chars]",
+        "url": "https://www.manilatimes.net/2026/01/27/tmt-newswire/globenewswire/fangzhou-raises-hk150-million-in-share-placement-to-accelerate-ai-powered-chronic-care-platform/2265673",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/27/913565.png",
+        "publishedAt": "2026-01-27T03:56:47Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "4f67229e554c163535d7a00efdae8eef",
         "title": "How AI Is Revolutionizing Construction Site Operations",
         "description": "In recent years, Artificial Intelligence (AI) has made significant strides in various industries, and the construction sector is no exception. With the rapid advancement of AI technologies, construction sites are becoming more efficient, safer, and productive. From predictive analytics to AI-enhanced Ground Penetrating Radar (GPR), AI is changing the way construction projects are managed and […]",
@@ -125,38 +157,6 @@
             "name": "Daily Mail Online",
             "url": "https://www.dailymail.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "a7c96156967bb28cdc539b85a7c06b94",
-        "title": "AI tutors to be rolled out to UK schools in just two years in bid to help needy pupils",
-        "description": "Artificial intelligence (AI) tutors will be made available to schools in just two years, the Government has confirmed.",
-        "content": "Teachers and AI labs will work together to create tuition tools using the new tech this summer, with a view to rolling them out before the end of 2027.\nThe Department for Education (DfE) says that it expects trials in secondary schools to commence la... [2284 chars]",
-        "url": "https://www.lbc.co.uk/article/ai-tutors-in-schools-uk-5HjdRLb_2/",
-        "image": "https://images.globalplayer.com/images/787634?crop=16_9&width=1200&signature=1iw5bdg_GFaWHq0jyWVH1uXJfXg=",
-        "publishedAt": "2026-01-26T22:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "027234d3c0a6aefa3d7ab81380e63d86",
-            "name": "LBC",
-            "url": "https://www.lbc.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "c793115f5d1538f0f52cbffe4981c5cd",
-        "title": "EU Probes Musk's AI Chatbot Grok Over Sexual Deepfakes",
-        "description": "After his artificial intelligence chatbot Grok spewed nonconsensual sexualized deepfake images on X, the European Union opened a formal investigation into Elon Musk's social media platform on Monday.",
-        "content": "The European Union opened a formal investigation into Elon Musk's social media platform X on Monday after his artificial intelligence chatbot Grok spewed nonconsensual sexualized deepfake images on the platform.\nEuropean regulators also widened a sep... [4126 chars]",
-        "url": "https://www.newsmax.com/world/globaltalk/elon-musk-x-grok/2026/01/26/id/1243636/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=92662f95-3fe8-4f26-85e6-a585ca919689&SiteName=Newsmax",
-        "publishedAt": "2026-01-26T22:06:43Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
         }
     }
 ]
