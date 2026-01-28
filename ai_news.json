@@ -1,5 +1,85 @@
 [
     {
+        "id": "1c3a212654d8ff55f86e867b87303dcd",
+        "title": "Raymond James Launches Proprietary Digital AI Agent to Bolster Operational Excellence",
+        "description": "St. Petersburg, Fla., Jan. 27, 2026 (GLOBE NEWSWIRE) -- Building on its service-focused, long-term artificial intelligence (AI) strategy, Raymond James announced the launch of its proprietary digital AI operations agent, dubbed Rai. Rai leverages natural language processing and generative AI to provide immediate, curated natural language answers and guidance to operational questions based on multiple firm knowledge bases while intelligently evolving based on user activities and preferences.",
+        "content": "St. Petersburg, Fla., Jan. 27, 2026 (GLOBE NEWSWIRE) -- Building on its service-focused, long-term artificial intelligence (AI) strategy, Raymond James announced the launch of its proprietary digital AI operations agent, dubbed Rai. Rai leverages nat... [3124 chars]",
+        "url": "https://www.manilatimes.net/2026/01/28/tmt-newswire/globenewswire/raymond-james-launches-proprietary-digital-ai-agent-to-bolster-operational-excellence/2266500",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/28/915074.jpg",
+        "publishedAt": "2026-01-27T21:23:36Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "ec6e59d27404cbb06789f94c18892d7e",
+        "title": "Atomic scientists set Doomsday clock closer than ever to midnight blaming nuclear risks, AI and climate change",
+        "description": "They cited the nuclear threats from Putin, the use of artificial intelligence by the military and the climate crisis as risk factors",
+        "content": "Scientists who track global threats to humanity have pushed the symbolic Doomsday Clock closer to catastrophe than at any point since it was created.\nThe Bulletin of the Atomic Scientists announced on Tuesday that the clock now stands at less than a ... [2145 chars]",
+        "url": "https://www.standard.co.uk/news/world/doomsday-clock-change-atomic-scientists-b1268423.html",
+        "image": "https://static.standard.co.uk/2026/01/27/18/17/SEI282488090.jpg?width=1200&auto=webp&quality=75",
+        "publishedAt": "2026-01-27T21:10:59Z",
+        "lang": "en",
+        "source": {
+            "id": "e98e9648a83f865332ab00d9eab8cf1f",
+            "name": "Evening Standard",
+            "url": "https://www.standard.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "42b67f50108367bfb89b7ba54f41b400",
+        "title": "Finnish birdwatchers' app data fuel world's most accurate model for predicting bird occurrence",
+        "description": "New cutting-edge research, led by Academy Professor Otso Ovaskainen of the University of Jyväskylä and David Dunson at Duke University, combines citizen bird observations with artificial intelligence and the computing power of supercomputers at CSC—IT Center for Science. The international and multidisciplinary research team has developed the world's most accurate prediction model, capable of anticipating even small shifts in bird occurrence almost in real time.",
+        "content": "New cutting-edge research, led by Academy Professor Otso Ovaskainen of the University of Jyväskylä and David Dunson at Duke University, combines citizen bird observations with artificial intelligence and the computing power of supercomputers at CSC—I... [3049 chars]",
+        "url": "https://phys.org/news/2026-01-finnish-birdwatchers-app-fuel-world.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-worlds-most-accura.jpg",
+        "publishedAt": "2026-01-27T21:10:01Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "df4b3b233c75825afc429932533a34eb",
+        "title": "Despite its steep environmental costs, AI might also help save the planet",
+        "description": "The rapid growth of artificial intelligence has sharply increased electricity and water consumption, raising concerns about the technology’s environmental footprint and carbon emissions. But the story is more complicated than that. I study emerging technologies and how their development and deployment influence economic, institutional and societal outcomes, including environmental sustainability.…",
+        "content": "The rapid growth of artificial intelligence has sharply increased electricity and water consumption, raising concerns about the technology’s environmental footprint and carbon emissions. But the story is more complicated than that.\nI study emerging t... [7557 chars]",
+        "url": "https://japantoday.com/category/tech/despite-its-steep-environmental-costs-ai-might-also-help-save-the-planet",
+        "image": "https://media.japantoday.com/img/store/56/ae/bfccb23ae157da08dc6f52bed73581c2948a/istock-1447011226/_w1700.jpeg",
+        "publishedAt": "2026-01-27T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "700f0c5117c70b55a7a073cfaea3f45d",
+        "title": "This Startup Is Bringing Nvidia’s AI Tech Into the Operating Room",
+        "description": "Artificial intelligence is scrubbing in and entering the OR. The goal is to collect insight and help doctors focus exclusively on care.",
+        "content": "“This is an industry-first collaboration that brings AI into outpatient operating rooms to support surgeons in real time and improve efficiencies and outcomes across every step of the patient journey, from referral to recovery,” Oath founder and CEO ... [1970 chars]",
+        "url": "https://www.inc.com/chloe-aiello/this-startup-is-bringing-nvidias-ai-tech-into-the-operating-room/91293217",
+        "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/01/ai-surgery-nvidia-oath-inc.jpg",
+        "publishedAt": "2026-01-27T20:42:26Z",
+        "lang": "en",
+        "source": {
+            "id": "602d1de710d66397a00201d8efdd36ee",
+            "name": "Inc. Magazine",
+            "url": "https://www.inc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "a1dae44b83983f7066bae94f341b39eb",
         "title": "OpenAI Introduces AI Workspace Prism for Scientists",
         "description": "Microsoft-backed OpenAI said Tuesday it is launching Prism, a free, artificial intelligence workspace for scientists to easily use ChatGPT to draft research papers and collaborate with...",
@@ -77,86 +157,6 @@
             "name": "The Nation",
             "url": "https://www.nation.com.pk",
             "country": "pk"
-        }
-    },
-    {
-        "id": "cb999b4e529441cfd656103c6aa9dbf5",
-        "title": "Pinterest cites artificial intelligence in laying off 15% of workforce",
-        "description": "Pinterest is cutting costs to create more cash flow for AI-focused roles and AI‑powered products, the company said in a filing Tuesday.",
-        "content": "Pinterest plans to cut its workforce by 15% this year, a move the company said will allow it to reallocate resources to the build-out of its artificial intelligence capabilities.\nThe San Francisco-based company disclosed the plan in a regulatory fili... [1240 chars]",
-        "url": "https://www.cbsnews.com/news/pinterest-layoffs-workforce-artificial-intelligence/",
-        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/27/99451a2d-5abf-47b5-ab1b-4ddea199842e/thumbnail/1200x630/e08ded1280c8421e31b3b8c48212da32/gettyimages-1146250510.jpg",
-        "publishedAt": "2026-01-27T18:52:13Z",
-        "lang": "en",
-        "source": {
-            "id": "3a3847d645a619320aa3b3484581e395",
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "498475464a453f5c0a5b4981ef0461e8",
-        "title": "Pinterest cites artificial intelligence in laying off 15% of workforce",
-        "description": "Pinterest is cutting costs to create more cash flow for AI-focused roles and AI‑powered products, the company said in a filing Tuesday.",
-        "content": "Pinterest plans to cut its workforce by 15% this year, a move the company said will allow it to reallocate resources to the build-out of its artificial intelligence capabilities.\nThe San Francisco-based company disclosed the plan in a regulatory fili... [1240 chars]",
-        "url": "https://www.cbsnews.com/texas/news/pinterest-layoffs-workforce-artificial-intelligence/",
-        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/27/99451a2d-5abf-47b5-ab1b-4ddea199842e/thumbnail/1200x630/e08ded1280c8421e31b3b8c48212da32/gettyimages-1146250510.jpg",
-        "publishedAt": "2026-01-27T18:52:00Z",
-        "lang": "en",
-        "source": {
-            "id": "3a3847d645a619320aa3b3484581e395",
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "95e46add91a29b530f16b8ff1d0acc5e",
-        "title": "Pinterest cites artificial intelligence in laying off 15% of workforce",
-        "description": "Pinterest is cutting costs to create more cash flow for AI-focused roles and AI‑powered products, the company said in a filing Tuesday.",
-        "content": "Pinterest plans to cut its workforce by 15% this year, a move the company said will allow it to reallocate resources to the build-out of its artificial intelligence capabilities.\nThe San Francisco-based company disclosed the plan in a regulatory fili... [1240 chars]",
-        "url": "https://www.cbsnews.com/sacramento/news/pinterest-layoffs-workforce-artificial-intelligence/",
-        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/27/99451a2d-5abf-47b5-ab1b-4ddea199842e/thumbnail/1200x630/e08ded1280c8421e31b3b8c48212da32/gettyimages-1146250510.jpg",
-        "publishedAt": "2026-01-27T18:52:00Z",
-        "lang": "en",
-        "source": {
-            "id": "3a3847d645a619320aa3b3484581e395",
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "adf054b622b3782656e91d12c9d80e57",
-        "title": "Pinterest cites artificial intelligence in laying off 15% of workforce",
-        "description": "Pinterest is cutting costs to create more cash flow for AI-focused roles and AI‑powered products, the company said in a filing Tuesday.",
-        "content": "Pinterest plans to cut its workforce by 15% this year, a move the company said will allow it to reallocate resources to the build-out of its artificial intelligence capabilities.\nThe San Francisco-based company disclosed the plan in a regulatory fili... [1249 chars]",
-        "url": "https://www.cbsnews.com/losangeles/news/pinterest-layoffs-workforce-artificial-intelligence/",
-        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/27/99451a2d-5abf-47b5-ab1b-4ddea199842e/thumbnail/1200x630/e08ded1280c8421e31b3b8c48212da32/gettyimages-1146250510.jpg",
-        "publishedAt": "2026-01-27T18:52:00Z",
-        "lang": "en",
-        "source": {
-            "id": "3a3847d645a619320aa3b3484581e395",
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a9bc57de14ce6781bca26659aacd370a",
-        "title": "AI pushes Indian IT firms towards smaller, phased technology deals",
-        "description": "Executives across companies linked the trend to how artificial intelligence (AI) projects are being adopted",
-        "content": "Indian IT companies are seeing a clear change in how global clients are buying technology services in FY26, with large transformation contracts increasingly being split into smaller, faster-to-execute deals.\nExecutives across companies linked the tre... [2917 chars]",
-        "url": "https://www.newindianexpress.com/business/2026/Jan/27/ai-pushes-indian-it-firms-towards-smaller-phased-technology-deals",
-        "image": "https://media.newindianexpress.com/newindianexpress%2F2026-01-26%2F30se112m%2FC_53_1_CH1214_42640825.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-01-27T18:27:43Z",
-        "lang": "en",
-        "source": {
-            "id": "448094ed3f9461bb87a99a218cdaecfe",
-            "name": "The New Indian Express",
-            "url": "https://www.newindianexpress.com",
-            "country": "in"
         }
     }
 ]
