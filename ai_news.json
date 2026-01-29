@@ -1,5 +1,21 @@
 [
     {
+        "id": "006c8181e43cd9d4a54e95f702f9a220",
+        "title": "When AI meets law enforcement: The future of predictive policing",
+        "description": "New artificial intelligence systems are reshaping how police operate, offering efficiency gains while sparking debate among legal and ethics experts.",
+        "content": "Police in East Lansdowne, PA, are getting connected.\nIn October, the Philadelphia suburb’s police department deployed artificial intelligence-powered Axon Body4 cameras that offer two-way translation of over 50 foreign languages.\nEarlier this month, ... [5512 chars]",
+        "url": "https://www.thestreet.com/technology/when-ai-meets-law-enforcement-the-future-of-predictive-policing",
+        "image": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjA1MDQ0OTgwMzM3NjE2NjM2/new-digital-system-for-patrol-cars.jpg",
+        "publishedAt": "2026-01-28T19:53:17Z",
+        "lang": "en",
+        "source": {
+            "id": "6f97df9bf07dbbc5b124859805bffd6f",
+            "name": "The Street",
+            "url": "https://www.thestreet.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "6548874832ce6212784f58f0d88d61bd",
         "title": "Google invests Rs 85 crore in Wadhwani AI to transform Indian education systems and government platforms",
         "description": "Google has announced a grant of Rs 85 crore to non-profit organisation Wadhwani AI to support the integration of artificial intelligence into government-owned education and skilling platforms.",
@@ -140,22 +156,6 @@
             "id": "3bd4bd306c42647825fa42989624c036",
             "name": "Livemint",
             "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "26e394e169e04c752343d588240c6d13",
-        "title": "founder’s company gets Google as investor at $6 billion valuation",
-        "description": "Tech News News: As electricity demand surges with the rise of artificial intelligence, Google, along with companies including Amazon and Microsoft, is making investme.",
-        "content": "Google (File Image)\nAs electricity demand surges with the rise of artificial intelligence, Google, along with companies including Amazon and Microsoft, is making investments aimed at securing access to more electricity for data centers. In what can b... [2266 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/tesla-co-founders-company-gets-google-as-investor-at-6-billion-valuation/articleshow/127726242.cms",
-        "image": "https://static.toiimg.com/thumb/msid-127726210,width-1280,height-720,imgsize-37762,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-01-28T18:18:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     }
