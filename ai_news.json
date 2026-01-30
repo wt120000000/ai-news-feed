@@ -1,5 +1,37 @@
 [
     {
+        "id": "07f21ba22728f4099495fa88e33e69bb",
+        "title": "Artificial intelligence is changing the way cancer is understood",
+        "description": "Read more about Artificial intelligence is changing the way cancer is understood on Devdiscourse",
+        "content": "A new editorial published in the journal Biomedicines states that AI is no longer an optional enhancement in oncology research but a structural necessity for understanding cancer as a dynamic, multi-dimensional disease.\nThe study, titled Advancements... [6635 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3782693-artificial-intelligence-is-changing-the-way-cancer-is-understood",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/27_01_2026_12_23_47_5724329.png?width=920&format=jpeg",
+        "publishedAt": "2026-01-30T05:23:26Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "03c3f049869a2ed36408713207d93f68",
+        "title": "After firing 16,000 employees, Amazon plans to invest in OpenAI",
+        "description": "After laying off 16,000 employees, Amazon is in talks to invest up to $50 billion in OpenAI, showing how aggressively it is betting on artificial intelligence.",
+        "content": "Just days after announcing one of its biggest job cuts in years, Amazon is quietly working on a deal that could change its future. The company is in talks to invest up to $50 billion in OpenAI, the artificial intelligence firm behind ChatGPT, accordi... [2806 chars]",
+        "url": "https://www.indiatoday.in/technology/news/story/after-firing-16000-employees-amazon-plans-to-invest-in-openai-2860192-2026-01-30",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/amazon-284951866-16x9_2.png?VersionId=YGla2.8EIExkfe8wOwbXKUZDMKbvi5qE",
+        "publishedAt": "2026-01-30T04:42:56Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "9431127eaa4bb5fbdee96a3c76eee73a",
         "title": "AI-Supported Mammography More Effective Than Standard Screenings For Breast Cancer: Lancet Study",
         "description": "Use of artificial intelligence in Sweden's national breast cancer screening programme has revealed that AI-supported mammography screening is more effective than standard mammography, according to full results from a 2023 trial published in The Lance",
@@ -125,38 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "ed92ad4f6c947c852920f799ad21e0f2",
-        "title": "Elon Musk's SpaceX in merger talks with xAI ahead of planned IPO, source says",
-        "description": "Musk, the world's richest man, is the CEO of both the private space company SpaceX and the artificial intelligence company xAI, which controls his social ‌media platform X. He also runs ‌electric automaker Tesla, tunnel company The Boring Co. and neurotechnology company Neuralink.",
-        "content": "Synopsis\nMusk, the world's richest man, is the CEO of both the private space company SpaceX and the artificial intelligence company xAI, which controls his social ‌media platform X. He also runs ‌electric automaker Tesla, tunnel company The Boring Co... [5605 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/elon-musks-spacex-in-merger-talks-with-xai-ahead-of-planned-ipo-source-says/articleshow/127789699.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38950,resizemode-75,msid-127789699/tech/technology/elon-musks-spacex-in-merger-talks-with-xai-ahead-of-planned-ipo-source-says.jpg",
-        "publishedAt": "2026-01-30T02:52:59Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c62f6d658888e0cdf56848a56a2bfb77",
-        "title": "WRAPUP 1-SpaceX in merger talks with other Musk companies ahead of IPO",
-        "description": "SpaceX is exploring deals with other companies helmed by serial entrepreneur Elon Musk, leaving investors working through permutations between space, autonomous driving and artificial intelligence to analyze which combination makes the most sense. The rocket maker is in discussions to merge with xAI ahead of ‌a blockbuster public offering planned for this year, Reuters reported on Thursday.",
-        "content": "SpaceX is exploring deals with other companies helmed by serial entrepreneur Elon Musk, leaving investors working through permutations between space, autonomous driving and artificial intelligence to analyze which combination makes the most sense.\nTh... [6177 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3786745-wrapup-1-spacex-in-merger-talks-with-other-musk-companies-ahead-of-ipo",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_56_2660097.png?width=920&format=jpeg",
-        "publishedAt": "2026-01-30T02:41:11Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
