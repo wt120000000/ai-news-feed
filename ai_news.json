@@ -1,5 +1,37 @@
 [
     {
+        "id": "776cfea29abe722196e46cb399c5098d",
+        "title": "Okta poll: AI adoption surges in APJ, but governance lags",
+        "description": "COMPANY NEWS: Organisations across Asia Pacific and Japan (APJ) are rapidly increasing their use of artificial intelligence, embedding AI tools and ag...",
+        "content": "Findings from Okta’s Oktane on the Road AI security poll, a live poll conducted across Australia, Singapore and Japan, highlight a growing gap between the deployment of AI systems and organisational readiness to manage the risks associated with them.... [5154 chars]",
+        "url": "https://itwire.com/guest-articles/company-news/okta-poll-ai-adoption-surges-in-apj,-but-governance-lags.html",
+        "image": "https://itwire.com/media/k2/items/cache/0027031606c18c95ff3810ff8fb665b9_XS.jpg",
+        "publishedAt": "2026-01-30T22:00:57Z",
+        "lang": "en",
+        "source": {
+            "id": "10cbfb3760cfcdeb78c733c527f0e814",
+            "name": "iTWire",
+            "url": "https://itwire.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "912da18feea5efe363c71f3267da2b28",
+        "title": "Tourists flock to small town to enjoy picturesque hot springs",
+        "description": "A travel company accidentally sent tourists to a non-existent hot springs due to the use of artificial intelligence.",
+        "content": "It was a destination too good to be true.\nAn Australian travel company has admitted that its use of artificial intelligence accidentally caused tourists to trek to hot springs that didn’t exist\nTasmania Tours published a blog post on the country’s be... [3298 chars]",
+        "url": "https://nypost.com/2026/01/30/lifestyle/tourists-flock-to-small-town-to-enjoy-picturesque-hot-springs-only-to-learn-theyve-been-duped-by-an-ai-post/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/01/newspress-collage-as6fzibym-1769808621249.jpg?quality=75&strip=all&1769790630&w=1200",
+        "publishedAt": "2026-01-30T21:33:08Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "a0953ba2b73031f58ecc445d4c80e1a4",
         "title": "Former Google engineer convicted of stealing AI trade secrets in landmark U.S. espionage case",
         "description": "A federal jury in San Francisco has delivered a verdict that lands at the center of the global AI race, the Department of Justice announced Friday. On Thursday, jurors convicted a former Google software engineer of stealing sensitive AI trade secrets, marking the first U.S. conviction tied directly to artificial intelligence–related economic espionage. Prosecutors say",
@@ -125,38 +157,6 @@
             "name": "CHEK News",
             "url": "https://cheknews.ca",
             "country": "ca"
-        }
-    },
-    {
-        "id": "52ad7360d87b82d605618f7905958b4e",
-        "title": "Apple loses more AI researchers, Siri exec to Google and Meta",
-        "description": "A new report from Bloomberg today highlights the ongoing exodus from Apple’s artificial intelligence and Siri teams. Mark Gurman reports...",
-        "content": "A new report from Bloomberg today highlights the ongoing exodus from Apple’s artificial intelligence and Siri teams. Mark Gurman reports that Apple has lost “least four more of its artificial intelligence researchers in recent weeks in addition to a ... [1791 chars]",
-        "url": "https://9to5mac.com/2026/01/30/apple-loses-more-ai-researchers-siri-exec-to-google-and-meta/",
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/12/Most-iPhone-owners-see-little-to-no-value-in-Apple-Intelligence-so-far.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-01-30T19:05:39Z",
-        "lang": "en",
-        "source": {
-            "id": "92f73865e835e33ed68c11447777c939",
-            "name": "9to5Mac",
-            "url": "https://9to5mac.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0be34202d3074b96a2739b6c530e6909",
-        "title": "Chinese RISC-V Chipmaker SpacemiT Launches K3 AI CPU, Highlighting the Rise of Open-Source Hardware in Intelligent Computing",
-        "description": "HANGZHOU, China, January 30, 2026 (EZ Newswire) -- As the global technology industry accelerates its shift toward open architectures and on-device artificial intelligence, Chinese RISC-V chip company SpacemiT announced the",
-        "content": "HANGZHOU, China, January 30, 2026 (EZ Newswire) -- As the global technology industry accelerates its shift toward open architectures and on-device artificial intelligence, Chinese RISC-V chip company SpacemiT announced the launch of its new K3 AI CPU... [5927 chars]",
-        "url": "https://www.postandcourier.com/press-releases/chinese-risc-v-chipmaker-spacemit-launches-k3-ai-cpu-highlighting-the-rise-of-open-source/article_2874728c-e5a2-587d-83fc-04b4991cb371.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/81/a818b968-3868-5815-801f-2095f407fb8d/697d008385420.image.jpg?crop=1794%2C942%2C202%2C0&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2026-01-30T19:00:37Z",
-        "lang": "en",
-        "source": {
-            "id": "c1903669db0b115cc673ce9c333a70dd",
-            "name": "Charleston Post and Courier",
-            "url": "https://www.postandcourier.com",
-            "country": "us"
         }
     }
 ]
