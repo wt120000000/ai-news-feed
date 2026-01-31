@@ -1,5 +1,37 @@
 [
     {
+        "id": "a4a36a7e96431d1e3828c84e7d15a2c2",
+        "title": "How to start building a career in the age of AI",
+        "description": "Recent advances in artificial intelligence and agentic systems are quickly making this ‘on-the-job’ learning and hiring channel vulnerable – much to the dismay of students and young adults.",
+        "content": "Internships and apprenticeships have long been effective for graduates and young adults to test their learning, develop new skills and secure employment. For organisations, they provided a way to identify potential hires.\nHowever, recent advances in ... [3175 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/how-to-start-building-a-career-in-the-age-of-ai/article70564927.ece",
+        "image": "https://th-i.thgim.com/public/incoming/jte5nv/article70564906.ece/alternates/LANDSCAPE_1200/Dangers_of_Sitting_.JPEG-09c4c.jpg",
+        "publishedAt": "2026-01-31T03:17:39Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "faf9b1cf1bd0ce679f486e20419f5442",
+        "title": "Social media, AI key challenges for Haryana police: DGP",
+        "description": "After holding a meeting with district police officials and then with industrialists, educationalists, lawyers and other social representatives in Rohtak, DGP said that gangsters are issuing extortion threats by using technology and the police have formed a plan to tackle misuse of social media and artificial intelligence.",
+        "content": "After holding a meeting with district police officials and then with industrialists, educationalists, lawyers and other social representatives in Rohtak, DGP said that gangsters are issuing extortion threats by using technology and the police have fo... [969 chars]",
+        "url": "https://www.hindustantimes.com/cities/chandigarh-news/social-media-ai-key-challenges-for-haryana-police-dgp-101769800034825.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/01/30/550x309/Haryana-DGP-Ajay-Singhal-addressing-a-press-confer_1769800032157.jpg",
+        "publishedAt": "2026-01-31T02:34:16Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "edd56e57b8f951acff33d13ead56cf17",
         "title": "AI, data centre companies will have to compete for electricity in B.C.",
         "description": "Prospective data centres and artificial intelligence (AI) companies in B.C. will have to compete for electricity from B.C. Hydro under new provincial legislation.",
@@ -124,38 +156,6 @@
             "id": "da5c26287bdd02563a2c32b55cb12051",
             "name": "Reuters",
             "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e3ee2cd3f420325cad29e935682a05f1",
-        "title": "US judge signals Musk's xAI may lose lawsuit accusing Altman's OpenAI of stealing trade secrets",
-        "description": "A federal judge signaled on Friday\nshe may dismiss a lawsuit by Elon Musk's artificial intelligence\nstartup xAI accusing Sam Altman's rival OpenAI of stealing trade\nsecrets to gain an unfair advantage...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/us-judge-signals-musk-s-xai-may-lose-lawsuit-accusing-altman-s-openai-of-stealing-trade-secrets-ce7e5bdcd08ff42d",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-01-31T01:09:15Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "ba1dcb925cb22d04d5a8fc92fcd91702",
-        "title": "Tesla Shifts From Cars to Chips: Revenue Down 10 Percent",
-        "description": "Tesla is accelerating a pivot away from traditional car manufacturing and toward artificial intelligence, robotics, and chip production, even as revenue from its core auto business continues to slide, CNBC reports.",
-        "content": "Tesla is accelerating a pivot away from traditional car manufacturing and toward artificial intelligence, robotics, and chip production, even as revenue from its core auto business continues to slide, CNBC reported.\nAt its Fremont, California, factor... [2610 chars]",
-        "url": "https://www.newsmax.com/newsfront/tesla-shift-chips/2026/01/30/id/1244288/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=ac398af9-1880-4a20-898c-f6676465218d&SiteName=Newsmax",
-        "publishedAt": "2026-01-31T01:07:09Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
             "country": "us"
         }
     }
