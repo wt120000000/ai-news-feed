@@ -1,5 +1,53 @@
 [
     {
+        "id": "e679431a478f7be20fb33b8b893c9651",
+        "title": "For the first time in 50 years, college grads are losing their edge",
+        "description": "For years, a bachelor’s degree or higher has led to better job prospects. But artificial intelligence is changing the playing field.",
+        "content": "With more students pursuing occupational and technical degrees in fields with labor shortages such as construction, manufacturing and health care, enrollment at community colleges rose 3 percent in the fall compared with the year before, according to... [8467 chars]",
+        "url": "https://www.bostonglobe.com/2026/01/31/business/college-education-employment-prospect/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/LZD6BYTBBRUALJJHQZA56PCN7M.jpg?auth=d696887bc68665ee2259fb2f1c42ddb4fcb3d11ffc16010076fa71f43d4437a5&width=1440",
+        "publishedAt": "2026-01-31T20:14:52Z",
+        "lang": "en",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ee51085d6926016d1a3df21b52ec4ee0",
+        "title": "Grammys’ AI rules aim to keep music human, but large gray area leaves questions about authenticity and authorship",
+        "description": "At its best, artificial intelligence can assist people in analyzing data, automating tasks and developing solutions to big problems: fighting cancer, hunger, poverty and climate change. At its worst, AI can assist people in exploiting other humans, damaging the environment, taking away jobs and eventually making ourselves lazy and less…",
+        "content": "At its best, artificial intelligence can assist people in analyzing data, automating tasks and developing solutions to big problems: fighting cancer, hunger, poverty and climate change. At its worst, AI can assist people in exploiting other humans, d... [5913 chars]",
+        "url": "https://japantoday.com/category/entertainment/grammys%E2%80%99-ai-rules-aim-to-keep-music-human-but-large-gray-area-leaves-questions-about-authenticity-and-authorship",
+        "image": "https://media.japantoday.com/img/store/84/a0/5ad1823a980cee3aecec88c0bdc553a7bff8/istock-660606370/_w1700.jpeg",
+        "publishedAt": "2026-01-31T20:10:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "36f0646ca566287f11021bc9b396da16",
+        "title": "askST: As AI reshapes jobs, what do employers look for in fresh graduates today?",
+        "description": "Artificial intelligence is reshaping the nature of entry-level roles. Read more at straitstimes.com.",
+        "content": "About half of employers worldwide say they plan to reshape their businesses in response to the rise of artificial intelligence (AI), according to the World Economic Forum’s Future of Jobs Survey 2025.\nConducted in late 2024, the survey polled more th... [5956 chars]",
+        "url": "https://www.straitstimes.com/singapore/askst-as-ai-reshapes-jobs-what-do-employers-look-for-in-fresh-graduates-today",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8c4c0ebcf7586fc0e720afcce042936fe273e6ca48fd071f63769469d1101e5f",
+        "publishedAt": "2026-01-31T20:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+            "name": "The Straits Times",
+            "url": "https://www.straitstimes.com",
+            "country": "sg"
+        }
+    },
+    {
         "id": "9f271baa0d603a080b2b366af536fad3",
         "title": "powered teaching assistants to raise reading achievement",
         "description": "News News: The New York City public schools are looking for innovative methods to facilitate learning in students by incorporating artificial intelligence into t.",
@@ -103,54 +151,6 @@
         "url": "https://www.manilatimes.net/2026/02/01/business/top-business/nvidias-plan-to-invest-up-to-100-billion-in-openai-has-stalled/2269105",
         "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/31/920062.jpg",
         "publishedAt": "2026-01-31T16:27:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "315b016f754441e3aefe92cf17b5bd6e",
-        "title": "Musk's SpaceX applies to launch 1m satellites into orbit",
-        "description": "The firm wants to create a network of \"orbital data centres\" to power artificial intelligence.",
-        "content": "The application claims that \"orbital data centres\" are the most cost and energy-efficient way to meet the growing demand for AI computing power.\nTraditionally, such centres are large warehouses full of powerful computers which process and store data.... [1404 chars]",
-        "url": "https://www.bbc.com/news/articles/cyv5l24mrjmo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/647e/live/2eac0410-febb-11f0-9972-d3f265c101c6.jpg",
-        "publishedAt": "2026-01-31T16:19:17Z",
-        "lang": "en",
-        "source": {
-            "id": "109f2b4a20da4fe1c2fd502b03c07243",
-            "name": "BBC News",
-            "url": "https://www.bbc.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "be6ea11d58107b17e88aa51deadef7d9",
-        "title": "AI Is a strategic growth engine for enterprises in 2026 - IBM",
-        "description": "ARTIFICIAL intelligence is crossing a critical threshold in 2026, evolving from an experimental productivity tool into a strategic growth engine that is fundamentally reshaping how organizations compete, innovate and create value.",
-        "content": "ARTIFICIAL intelligence is crossing a critical threshold in 2026, evolving from an experimental productivity tool into a strategic growth engine that is fundamentally reshaping how organizations compete, innovate and create value.\nAt IBM’s year-end m... [5354 chars]",
-        "url": "https://www.manilatimes.net/2026/02/01/business/sunday-business-it/ai-is-a-strategic-growth-engine-for-enterprises-in-2026-ibm/2269058",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/31/919814.jpg",
-        "publishedAt": "2026-01-31T16:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "e8df62dd7e4e7d12ce71f589b3702efa",
-        "title": "Identity risks widen cyber attack surface in Asia-Pacific",
-        "description": "IDENTITY compromise, not perimeter failure, has become the defining cybersecurity risk shaping enterprise security, artificial intelligence governance and global supply chains, according to a series of recent advisories and case studies released by Keeper Security.",
-        "content": "IDENTITY compromise, not perimeter failure, has become the defining cybersecurity risk shaping enterprise security, artificial intelligence governance and global supply chains, according to a series of recent advisories and case studies released by K... [7283 chars]",
-        "url": "https://www.manilatimes.net/2026/02/01/business/sunday-business-it/identity-risks-widen-cyber-attack-surface-in-asia-pacific/2269055",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/01/31/919810.jpg",
-        "publishedAt": "2026-01-31T16:04:00Z",
         "lang": "en",
         "source": {
             "id": "7c666ee953f873d3057b310220f510df",
