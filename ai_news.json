@@ -1,5 +1,21 @@
 [
     {
+        "id": "881dbc107fcaa93b59f30b5ec72e01e6",
+        "title": "IIIT-Delhi Introduces Industry-Backed Course On Artificial Intelligence Fabrics",
+        "description": "IIIT-Delhi has launched a pioneering course on Networks for AI/ML Systems, developed with Marvell Technology India to enhance education in AI networking and systems.",
+        "content": "The Indraprastha Institute of Information Technology Delhi (IIIT-Delhi) has introduced a new course on Networks for AI/ML Systems. The course has been launched in partnership with the Indian affiliate of Marvell Technology, Inc.\nAccording to IIIT Del... [891 chars]",
+        "url": "https://www.ndtv.com/education/iiit-delhi-introduces-industry-backed-course-on-artificial-intelligence-fabrics-10922463",
+        "image": "https://i.ndtvimg.com/i/2017-04/students_650x400_51492834381.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-02-01T02:14:05Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "af4342a39ffce607fb68bd9c4be4476d",
         "title": "Driverless taxi that jumped red light... but did it actually do the correct thing and prevent a busy junction snarl-up?",
         "description": "Dashcam footage shows one of London's first driverless taxis running a red light as it drove the tech firm's boss to Buckingham Palace to receive a gong for services to artificial intelligence.",
@@ -140,22 +156,6 @@
             "id": "f81e0cedbddbe08e3058634e8bb4a56f",
             "name": "Barchart",
             "url": "https://www.barchart.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "346833af52ab5e8171750044a3466ac3",
-        "title": "A chatbot entirely powered by humans, not artificial intelligence? This Chilean community shows why",
-        "description": "About 50 members of a community outside Chile’s capital spent Saturday trying their best to power an entirely human-operated chatbot that could answer questions and make silly pictures on command, in a message to highlight the environmental toll and water usage of artificial intelligence data center",
-        "content": "About 50 members of a community outside Chile’s capital spent Saturday trying their best to power an entirely human-operated chatbot that could answer questions and make silly pictures on command, in a message to highlight the environmental toll of a... [2612 chars]",
-        "url": "https://apnews.com/article/ai-human-chatbot-chile-quiliai-data-centers-water-a798d7d1ae3b2fd7646ec5dbfc8a18dd",
-        "image": "https://dims.apnews.com/dims4/default/68bae1f/2147483647/strip/true/crop/7232x4819+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa9%2F79%2F2f9093e5bbba4ad8f03a7867b0a2%2F17c379f9877648218ee833058743b20f",
-        "publishedAt": "2026-01-31T22:52:52Z",
-        "lang": "en",
-        "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com",
             "country": "us"
         }
     }
