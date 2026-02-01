@@ -1,5 +1,69 @@
 [
     {
+        "id": "af4342a39ffce607fb68bd9c4be4476d",
+        "title": "Driverless taxi that jumped red light... but did it actually do the correct thing and prevent a busy junction snarl-up?",
+        "description": "Dashcam footage shows one of London's first driverless taxis running a red light as it drove the tech firm's boss to Buckingham Palace to receive a gong for services to artificial intelligence.",
+        "content": "Dashcam footage shows one of London’s first driverless taxis running a red light as it drove the tech firm’s boss to Buckingham Palace to receive a gong for services to artificial intelligence.\nAlex Kendall, chief executive of the British start-up Wa... [2026 chars]",
+        "url": "https://www.dailymail.co.uk/news/article-15516139/Driverless-taxi-jumped-red-light-did-actually-correct-thing-prevent-busy-junction-snarl-up.html",
+        "image": "https://i.dailymail.co.uk/1s/2026/01/31/20/105999019-0-image-a-24_1769891317089.jpg",
+        "publishedAt": "2026-01-31T23:54:28Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "2c85def94d73742da4d28b9b46944940",
+        "title": "A chatbot entirely powered by humans, not artificial intelligence? This Chilean community shows why",
+        "description": "Cloud computing giants Amazon, Google and Microsoft are among a number of companies that have built or planned data centers in the Santiago region.",
+        "content": "By MATT O’BRIEN\nAbout 50 residents of a community outside Chile’s capital spent Saturday trying their best to power an entirely human-operated chatbot that could answer questions and make silly pictures on command, in a message to highlight the envir... [2719 chars]",
+        "url": "https://www.mercurynews.com/2026/01/31/a-chatbot-entirely-powered-by-humans-not-artificial-intelligence-this-chilean-community-shows-why/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2026/01/AI-Chile-Community-Chatbot_60996.jpg?w=1024&h=683",
+        "publishedAt": "2026-01-31T23:45:06Z",
+        "lang": "en",
+        "source": {
+            "id": "17d7c2645f485578130862e0c8dd9480",
+            "name": "The Mercury News",
+            "url": "https://www.mercurynews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "0ed7377dcc00aeed6f8fdbc8ab61e449",
+        "title": "A chatbot entirely powered by humans, not artificial intelligence? This Chilean community shows why.",
+        "description": "About 50 residents of a community outside Chile’s capital spent Saturday trying their best to power an entirely human-operated chatbot that could answer questions and make silly pictures on command.",
+        "content": "About 50 residents of a community outside Chile’s capital spent Saturday trying their best to power an entirely human-operated chatbot that could answer questions and make silly pictures on command, in a message to highlight the environmental toll of... [2703 chars]",
+        "url": "https://www.chicagotribune.com/2026/01/31/human-powered-chatbot-artificial-intelligence-chile/",
+        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/01/AI-Chile-Community-Chatbot_60996.jpg?w=1024&h=683",
+        "publishedAt": "2026-01-31T23:28:54Z",
+        "lang": "en",
+        "source": {
+            "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+            "name": "Chicago Tribune",
+            "url": "https://www.chicagotribune.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "470ed255a9984ddd4e0c7bfec93a70de",
+        "title": "Technology a vital instrument to ensure timely Justice: CJ",
+        "description": "Excelsior Correspondent JAMMU, Jan 31: Under the patronage of Justice Arun Palli, The Chief Justice, High Court of Jammu & Kashmir and Ladakh (Patron-in Chief, J&K Judicial Academy), guidance of Chairperson and Members of Governing Committee for J&K Judicial Academy, Jammu & Kashmir Judicial Academy today organised a One Day Orientation Programme on “ICT & e-Courts Induction Programme for the newly recruited Civil Judges” and “Artificial Intelligence and its Impact on Judiciary”. The programme was inaugurated by Justice Arun Palli, […]",
+        "content": "Excelsior Correspondent\nJAMMU, Jan 31: Under the patronage of Justice Arun Palli, The Chief Justice, High Court of Jammu & Kashmir and Ladakh (Patron-in Chief, J&K Judicial Academy), guidance of Chairperson and Members of Governing Committee for J&K ... [2458 chars]",
+        "url": "https://www.dailyexcelsior.com/technology-a-vital-instrument-to-ensure-timely-justice-cj/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/Page3-4.jpg",
+        "publishedAt": "2026-01-31T23:28:30Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "d088223620e26c2eead07ca3f6713fcf",
         "title": "A chatbot entirely powered by humans, not artificial intelligence? This Chilean community shows why",
         "description": "About 50 members of a community outside Chile’s capital spent Saturday trying their best to power an entirely human-operated chatbot that could answer questions and make silly pictures on command, in a message to highlight the environmental toll and water usage of artificial intelligence data centers in the region",
@@ -93,70 +157,6 @@
             "name": "The Associated Press",
             "url": "https://apnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "8cfedad2bfa662692ac78f0b73ad8da7",
-        "title": "A chatbot entirely powered by humans, not artificial intelligence? This Chilean community shows why",
-        "description": "About 50 members of a community outside Chile’s capital spent Saturday trying their best to power an entirely human-operated chatbot that could answer questions and make silly pictures on command, in a message to highlight the environmental toll and water usage of artificial intelligence data centers in the region.",
-        "content": "About 50 members of a community outside Chile’s capital spent Saturday trying their best to power an entirely human-operated chatbot that could answer questions and make silly pictures on command, in a message to highlight the environmental toll of a... [2612 chars]",
-        "url": "https://www.clickondetroit.com/business/2026/01/31/a-chatbot-entirely-powered-by-humans-not-artificial-intelligence-this-chilean-community-shows-why/",
-        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/XA6U3JHWTBAUDG4X5IYYQJGXME.jpg?_a=DATAg1eAZAA0",
-        "publishedAt": "2026-01-31T22:52:51Z",
-        "lang": "en",
-        "source": {
-            "id": "35515662ec044d3f94b543cd8802d63f",
-            "name": "WDIV ClickOnDetroit",
-            "url": "https://www.clickondetroit.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "837c9224e5cec008479f0be5c89c6c6a",
-        "title": "A Chatbot Entirely Powered by Humans, Not Artificial Intelligence? This Chilean Community Shows Why",
-        "description": "About 50 members of a community outside Chile’s capital spent Saturday trying their best to power an entirely human-operated chatbot that could answer questions and make silly pictures on command, in a message to highlight the environmental toll of artificial intelligence data centers in the region.",
-        "content": "About 50 members of a community outside Chile’s capital spent Saturday trying their best to power an entirely human-operated chatbot that could answer questions and make silly pictures on command, in a message to highlight the environmental toll of a... [2854 chars]",
-        "url": "https://www.usnews.com/news/best-states/washington/articles/2026-01-31/a-chatbot-entirely-powered-by-humans-not-artificial-intelligence-this-chilean-community-shows-why",
-        "image": "https://www.usnews.com/dims4/USNEWS/10c1389/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F50%2F7ed3e2cb11a825daa07471d150bb03%2F17c379f9877648218ee833058743b20fAI-Chile-Community-Chatbot_60996.jpg",
-        "publishedAt": "2026-01-31T22:52:00Z",
-        "lang": "en",
-        "source": {
-            "id": "37128a060981dbbe79321f096e7d1108",
-            "name": "U.S. News & World Report",
-            "url": "https://www.usnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e679431a478f7be20fb33b8b893c9651",
-        "title": "For the first time in 50 years, college grads are losing their edge",
-        "description": "For years, a bachelor’s degree or higher has led to better job prospects. But artificial intelligence is changing the playing field.",
-        "content": "With more students pursuing occupational and technical degrees in fields with labor shortages such as construction, manufacturing and health care, enrollment at community colleges rose 3 percent in the fall compared with the year before, according to... [8467 chars]",
-        "url": "https://www.bostonglobe.com/2026/01/31/business/college-education-employment-prospect/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/LZD6BYTBBRUALJJHQZA56PCN7M.jpg?auth=d696887bc68665ee2259fb2f1c42ddb4fcb3d11ffc16010076fa71f43d4437a5&width=1440",
-        "publishedAt": "2026-01-31T20:14:52Z",
-        "lang": "en",
-        "source": {
-            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-            "name": "The Boston Globe",
-            "url": "https://www.bostonglobe.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ee51085d6926016d1a3df21b52ec4ee0",
-        "title": "Grammys’ AI rules aim to keep music human, but large gray area leaves questions about authenticity and authorship",
-        "description": "At its best, artificial intelligence can assist people in analyzing data, automating tasks and developing solutions to big problems: fighting cancer, hunger, poverty and climate change. At its worst, AI can assist people in exploiting other humans, damaging the environment, taking away jobs and eventually making ourselves lazy and less…",
-        "content": "At its best, artificial intelligence can assist people in analyzing data, automating tasks and developing solutions to big problems: fighting cancer, hunger, poverty and climate change. At its worst, AI can assist people in exploiting other humans, d... [5913 chars]",
-        "url": "https://japantoday.com/category/entertainment/grammys%E2%80%99-ai-rules-aim-to-keep-music-human-but-large-gray-area-leaves-questions-about-authenticity-and-authorship",
-        "image": "https://media.japantoday.com/img/store/84/a0/5ad1823a980cee3aecec88c0bdc553a7bff8/istock-660606370/_w1700.jpeg",
-        "publishedAt": "2026-01-31T20:10:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
