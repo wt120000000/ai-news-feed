@@ -1,5 +1,21 @@
 [
     {
+        "id": "d5869bef2b67b54146c54e7fe8db86d1",
+        "title": "What Nirmala Sitharaman Said About AI, DeepTech And Semiconductors",
+        "description": "The budget prioritised artificial intelligence, semiconductors and DeepTech research as essential elements for industrial productivity.",
+        "content": "Finance Minister Nirmala Sitharaman presented the union budget for the fiscal year 2026/27 on Feb. 1, making some key announcements, including an STT hike for derivative trades, introduction of new High Speed Rail Corridors and push for rare earth pr... [2149 chars]",
+        "url": "https://www.ndtvprofit.com/economy/budget-2026-what-nirmala-sitharaman-said-about-ai-deeptech-and-semiconductors-10924876",
+        "image": "https://c.ndtvimg.com/2026-02/o7ucrr34_ai-budget-_625x300_01_February_26.png?im=FitAndFill,algorithm=dnn,width=1080,height=607",
+        "publishedAt": "2026-02-01T09:29:24Z",
+        "lang": "en",
+        "source": {
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "ba55ea24cb1975147da2e8dbf00da496",
         "title": "Budget 2026: Industry hails data centre tax holiday as move to make India 'digital backbone for the world'",
         "description": "The measures come as India looks to scale domestic digital infrastructure alongside rising demand from artificial intelligence workloads, data localisation norms and hyperscaler expansion plans.",
@@ -140,22 +156,6 @@
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8483873d34a6a372d7c149124012e2fa",
-        "title": "In Big IT, AI Push, Firms Setting Up Data Centres In India To Get Tax Holiday",
-        "description": "Giving a big push to the growth of information technology and artificial intelligence in India, Finance Minister Nirmala Sitharaman has announced a tax holiday till 2047 for companies providing cloud services by setting up data centres in the country",
-        "content": "New Delhi:\nGiving a big push to the growth of information technology and artificial intelligence in India, Finance Minister Nirmala Sitharaman has announced a tax holiday till 2047 for companies providing cloud services by setting up data centres in ... [1009 chars]",
-        "url": "https://www.ndtv.com/india-news/union-budget-live-updates-nirmala-sitharaman-budget-live-in-big-it-ai-push-firms-setting-up-data-centres-in-india-to-get-tax-holiday-10923828",
-        "image": "https://c.ndtvimg.com/2024-05/evpggus_data-centre-generic_625x300_15_May_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-02-01T06:49:53Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
             "country": "in"
         }
     }
