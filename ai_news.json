@@ -1,5 +1,37 @@
 [
     {
+        "id": "cb9c5f7de4d9fe594c429fae7d047326",
+        "title": "21-Year Tax Holiday, 15% Safe Harbour: Decoding India's Big Data Centre, AI Bet",
+        "description": "India has offered foreign companies providing cloud services a 21-year tax holiday in return for setting up data centres in the country, in an announcement designed to boost the growth of the information technology and artificial intelligence spaces.",
+        "content": "India on Sunday offered foreign companies providing cloud services a 21-year tax holiday in return for setting up data centres in the country, in an announcement designed to boost the growth of the information technology and artificial intelligence s... [4492 chars]",
+        "url": "https://www.ndtv.com/india-news/union-budget-2026-news-tax-holiday-til-2047-for-artificial-intelligence-data-centres-in-india-10929254",
+        "image": "https://c.ndtvimg.com/2024-05/evpggus_data-centre-generic_625x300_15_May_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-02-02T04:43:14Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "34b09cd2383cad6766b61ae8d1cfc16e",
+        "title": "From Risk to Resilience: Why Responsible AI Is AN/Z’s Innovation Engine",
+        "description": "GUEST OPINION: Artificial intelligence has rapidly moved beyond the experimental phase to become a key driver of business success across Australia and...",
+        "content": "There’s a common misconception that Responsible AI (RAI) is only about large-scale societal concerns such as job automation or existential threats. In reality, it begins with everyday business choices — how data is used, how models interact with cust... [4501 chars]",
+        "url": "https://itwire.com/business-it-news/data/from-risk-to-resilience-why-responsible-ai-is-anz%E2%80%99s-innovation-engine.html",
+        "image": "https://itwire.com/media/k2/items/cache/68640890f198d5628e77ca4d99a0b499_XS.jpg",
+        "publishedAt": "2026-02-02T03:47:13Z",
+        "lang": "en",
+        "source": {
+            "id": "10cbfb3760cfcdeb78c733c527f0e814",
+            "name": "iTWire",
+            "url": "https://itwire.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "edb6c5acb8c3e53542442210eb8ea850",
         "title": "British think tank urges official regulation for AI",
         "description": "British think tank urges official regulation for AI-generated news - London, Feb 2 A British think tank has raised concerns about the health of the artificial intelligence (AI) ... Get Latest News on International only on lokmattimes.com",
@@ -112,22 +144,6 @@
         }
     },
     {
-        "id": "729110e9d991042645d5e3349d3149f2",
-        "title": "Did artificial intelligence really drive layoffs at Amazon and other firms?",
-        "description": "When Amazon announced it was cutting 16,000 corporate jobs, many assumed it was the latest phase of CEO Andy Jassy’s push to reduce the corporate workforce as AI brings more efficiency gains",
-        "content": "The one thing N. Lee Plumb knows for sure about being laid off from Amazon last week is that it wasn’t a failure to get on board with the company’s artificial intelligence plans.\nPlumb, his team’s head of “AI enablement,” says he was so prolific in h... [6916 chars]",
-        "url": "https://abcnews.go.com/Business/wireStory/artificial-intelligence-drive-layoffs-amazon-firms-hard-129773731",
-        "image": "https://i.abcnewsfe.com/a/a144d680-4ce5-4f3f-b980-8d0125c5f117/wirestory_7736d042172743301dd7e494813a885d_16x9.jpg?w=1600",
-        "publishedAt": "2026-02-01T21:49:51Z",
-        "lang": "en",
-        "source": {
-            "id": "c792dadf7373fad5b316a63a77688de1",
-            "name": "ABC News",
-            "url": "https://abcnews.go.com",
-            "country": "us"
-        }
-    },
-    {
         "id": "5e9063d71aa54d078b6743e1f5fdd989",
         "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell",
         "description": "When Amazon announced it was cutting 16,000 corporate jobs, many assumed it was the latest phase of CEO Andy Jassy’s push to reduce the corporate workforce as AI brings more efficiency gains.",
@@ -141,22 +157,6 @@
             "name": "WDIV ClickOnDetroit",
             "url": "https://www.clickondetroit.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "fdb4db714e51cb2ee05dc91d0c0ca3c0",
-        "title": "AI driving Make In India: Hry CM",
-        "description": "Chandigarh: Haryana chief minister Nayab Singh Saini has said artificial intelligence (AI) is playing a crucial role in realising the vision of \\\"Vocal.",
-        "content": "Chandigarh: Haryana chief minister Nayab Singh Saini has said artificial intelligence (AI) is playing a crucial role in realising the vision of \"Vocal for Local\" and \"Make in India\". He called \"Glocal AI – Real Impact\" not merely a theme, but the nee... [1219 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/chandigarh/ai-driving-make-in-india-hry-cm/articleshow/127846979.cms",
-        "image": "https://static.toiimg.com/thumb/msid-127846976,width-1280,height-720,imgsize-61468,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-02-01T21:19:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
