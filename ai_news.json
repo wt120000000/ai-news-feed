@@ -1,5 +1,37 @@
 [
     {
+        "id": "edb6c5acb8c3e53542442210eb8ea850",
+        "title": "British think tank urges official regulation for AI",
+        "description": "British think tank urges official regulation for AI-generated news - London, Feb 2 A British think tank has raised concerns about the health of the artificial intelligence (AI) ... Get Latest News on International only on lokmattimes.com",
+        "content": "London, Feb 2 A British think tank has raised concerns about the health of the artificial intelligence (AI) news environment, calling for the government's engagement in fostering rules, including fair payment and transparent source disclosure for AI-... [1704 chars]",
+        "url": "https://www.lokmattimes.com/international/british-think-tank-urges-official-regulation-for-ai-generated-news/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602023658919_202602.jpg",
+        "publishedAt": "2026-02-02T03:26:25Z",
+        "lang": "en",
+        "source": {
+            "id": "f2ddccedc9e60d844e7a1045928cad48",
+            "name": "Lokmat Times",
+            "url": "https://www.lokmattimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "17d61d9142ddd4337c29574926aaa390",
+        "title": "Apple loses more AI researchers and a Siri executive in latest departures",
+        "description": "Apple Inc has lost at least four more of its artificial intelligence researchers in recent weeks in addition to a top Siri executive, with the staff headed to employers such as Meta Platforms Inc and Google DeepMind.",
+        "content": "Apple Inc has lost at least four more of its artificial intelligence researchers in recent weeks in addition to a top Siri executive, with the staff headed to employers such as Meta Platforms Inc and Google DeepMind.\nThe latest exits include Yinfei Y... [4021 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/02/02/apple-loses-more-ai-researchers-and-a-siri-executive-in-latest-departures",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/02/02/3749696.jpg",
+        "publishedAt": "2026-02-02T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "b07d7690dcf3c6b8ce9605a31b98ce2e",
         "title": "A chatbot entirely powered by humans, not artificial intelligence? This Chilean community shows why",
         "description": "About 50 residents of a community outside Chile's capital spent Saturday trying their best to power an entirely human-operated chatbot that could answer questions and make silly pictures on command, in a message to highlight the environmental toll of artificial intelligence data centers in the region.",
@@ -125,38 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "31c4f8d93423706c78f6ba88adc74f5c",
-        "title": "‘Google model translated Bengali without being trained for it’: Sundar Pichai’s old clip on AI behaviour goes viral",
-        "description": "Trending News: A short clip from a 2023 interview featuring Sundar Pichai has resurfaced online, reigniting debate about how modern artificial intelligence systems d.",
-        "content": "A short clip from a 2023 interview featuring Sundar Pichai has resurfaced online, reigniting debate about how modern artificial intelligence systems develop unexpected capabilities. In the clip, the Google chief executive describes a language model t... [2769 chars]",
-        "url": "https://timesofindia.indiatimes.com/etimes/trending/google-model-translated-bengali-without-being-trained-for-it-sundar-pichais-old-clip-on-ai-behaviour-goes-viral/articleshow/127847750.cms",
-        "image": "https://static.toiimg.com/thumb/msid-127847755,width-1280,height-720,imgsize-584615,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-02-01T20:38:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "aaf663798328dc52fe79502d22508ee8",
-        "title": "Will Artificial Intelligence Save Humanity-Or End It?",
-        "description": "A debate featuring prominent transhumanists and futurists revealed deep divides over whether AGI can be made safe, or will inevitably threaten human survival.",
-        "content": "A sharp divide over the future of artificial intelligence played out this week as four prominent technologists and transhumanists debated whether building artificial general intelligence, or AGI, would save humanity or destroy it.\nThe panel hosted by... [4587 chars]",
-        "url": "https://decrypt.co/356554/will-artificial-intelligence-save-humanity-end",
-        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png",
-        "publishedAt": "2026-02-01T20:17:59Z",
-        "lang": "en",
-        "source": {
-            "id": "6956007add5fc13a6721202ec906b1c4",
-            "name": "Decrypt",
-            "url": "https://decrypt.co",
-            "country": "us"
         }
     }
 ]
