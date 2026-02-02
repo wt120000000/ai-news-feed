@@ -1,5 +1,37 @@
 [
     {
+        "id": "5c104965d98834a38e18d06d488cfe40",
+        "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell",
+        "description": "When Amazon announced it was cutting 16,000 corporate jobs, many assumed it was the latest phase of CEO Andy Jassy’s push to reduce the corporate",
+        "content": "When Amazon announced it was cutting 16,000 corporate jobs, many assumed it was the latest phase of CEO Andy Jassy’s push to reduce the corporate workforce as AI brings more efficiency gains\nDid artificial intelligence really drive layoffs at Amazon ... [7261 chars]",
+        "url": "https://www.breitbart.com/news/did-artificial-intelligence-really-drive-layoffs-at-amazon-and-other-firms-it-can-be-hard-to-tell/",
+        "image": "https://media.breitbart.com/media/2026/02/wi/ap/amazon-job-cuts-03541-amazon-job-cuts-amazon-logo-is-displayed-at-news-conference-york-sept-28-2011-640x335.jpg",
+        "publishedAt": "2026-02-02T00:56:49Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "1e5739beed841c7f4cb3c1b0e8b3b219",
+        "title": "Half of all people have used artificial intelligence for DIY help",
+        "description": "Around three-quarters (76 per cent) of the gen-Z generation aged 18 to 28 had used AI for advice on home repairs",
+        "content": "Some 50 per cent of people surveyed said they had used AI for guidance with home repairs or installations, Aviva found.\nGen-Zs and millennials were particularly likely to have done so. Around three-quarters (76 per cent) of the Gen-Z generation aged ... [1808 chars]",
+        "url": "https://www.lbc.co.uk/article/artificial-intelligence-diy-help-5HjdRgr_2/",
+        "image": "https://images.globalplayer.com/images/789248?crop=16_9&width=1200&signature=WZNcrlvXC5TCYDKXwqJkAjMI7jc=",
+        "publishedAt": "2026-02-02T00:01:00Z",
+        "lang": "en",
+        "source": {
+            "id": "027234d3c0a6aefa3d7ab81380e63d86",
+            "name": "LBC",
+            "url": "https://www.lbc.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "58f2c46247a688919717cf34154dd574",
         "title": "The richest 2026 players: AI, crypto, pro",
         "description": "If money talks, don’t mess with the artificial intelligence industry, the crypto industry, the pro-Israel lobby, or President Trump’s super political action committee.",
@@ -125,38 +157,6 @@
             "name": "The Boston Herald",
             "url": "https://www.bostonherald.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "00f1f30565f7a483b0b1daad75ba2f6f",
-        "title": "DK colleges move to integrate AI into commerce curricula",
-        "description": "Mangaluru: Artificial intelligence (AI), which has largely been confined to BCA, science, and engineering programmes, is now making its way into comme.",
-        "content": "Mangaluru: Artificial intelligence (AI), which has largely been confined to BCA, science, and engineering programmes, is now making its way into commerce education in Dakshina Kannada, with several colleges moving to integrate AI-focused learning int... [2163 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/mangaluru/dk-colleges-move-to-integrate-ai-into-commerce-curricula/articleshow/127845939.cms",
-        "image": "https://static.toiimg.com/thumb/msid-117624261,width-1280,height-720,imgsize-176216,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-02-01T18:22:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "eb2db143b60e626f1d0c75575cb0ff64",
-        "title": "Budget 2026: As markets fell, data centre & AI stocks surged after tax holiday for cloud services",
-        "description": "Despite the worst post-Budget market fall in seven years, data centre and artificial intelligence (AI) stocks surged after Union Finance Minister Nirmala Sitharaman proposed a 20-year tax holiday for foreign companies establishing data centres in India.",
-        "content": "Even as markets reported the worst post-Budget fall in seven years, data centre and artificial intelligence (AI) stocks on Sunday surged as Union Finance Minister Nirmala Sitharaman proposed a 20-year tax holiday for foreign companies setting up data... [2517 chars]",
-        "url": "https://www.firstpost.com/india/budget-2026-as-markets-fell-data-centre-and-ai-stocks-surged-after-tax-holiday-for-cloud-services-13974989.html",
-        "image": "https://images.firstpost.com/uploads/2026/01/AI-data-centre-2026-01-f39b4f69a6d554c0444bf0237efcc405-1200x675.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-02-01T17:57:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-            "name": "Firstpost",
-            "url": "https://www.firstpost.com",
-            "country": "in"
         }
     }
 ]
