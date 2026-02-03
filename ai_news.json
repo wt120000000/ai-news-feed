@@ -1,5 +1,21 @@
 [
     {
+        "id": "9555413f37891cc8d79883d4efa71226",
+        "title": "‘Deepfakes spreading and more AI companions’: seven takeaways from the latest artificial intelligence safety report",
+        "description": "Annual review highlights growing capabilities of AI models, while examining issues from cyber-attacks to job disruption",
+        "content": "1. The capabilities of AI models are improving\nA host of new AI models – the technology that underpins tools like chatbots – were released last year, including OpenAI’s GPT-5, Anthropic’s Claude Opus 4.5 and Google’s Gemini 3. The report points to ne... [7177 chars]",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/deepfakes-ai-companions-artificial-intelligence-safety-report",
+        "image": "https://i.guim.co.uk/img/media/1325e5369e8ac8a35b682c227fe1dcefd5411516/585_0_4349_3479/master/4349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=913033637d3b478749fa4b116d512e9c",
+        "publishedAt": "2026-02-03T05:00:29Z",
+        "lang": "en",
+        "source": {
+            "id": "01558c024928d45cf320f6f75eede787",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "02ffa33a9ab6296f88448954652fe9ed",
         "title": "Navigating GenAI: Redefining Learning and Integrity in Higher Education",
         "description": "Generative artificial intelligence is reshaping higher education by incorporating chatbots into teaching and assessment. A study reveals that AI poses challenges like cheating but also offers inclusive learning tools. Key skills include prompting, critical thinking, and writing, as educators adapt to a post-plagiarism era and promote ethical AI use.",
@@ -141,22 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "a83ce7b7031e667554727df7ba1dec2e",
-        "title": "Musk's xAI needs SpaceX for money. Data centers in space are a dream",
-        "description": "In merging SpaceX with xAI, Elon Musk may be providing his artificial intelligence startup with a much-needed cash infusion.",
-        "content": "Bloomberg | Bloomberg | Getty Images\nElon Musk said a primary reason for merging SpaceX with his artificial intelligence startup, xAI, is to more effectively build \"orbital data centers.\" That's for a far-off future.\nFor now, xAI has a much more pres... [6403 chars]",
-        "url": "https://www.cnbc.com/2026/02/02/musks-xai-needs-spacex-for-money-data-centers-in-space-are-a-dream.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108228375-1763570599577-108228375-1763570145468-gettyimages-2246882306-US_SAUDI.jpg?v=1770074276&w=1920&h=1080",
-        "publishedAt": "2026-02-03T02:52:06Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
         }
     }
 ]
