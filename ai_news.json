@@ -1,5 +1,37 @@
 [
     {
+        "id": "1aa00757cde5d885d72e683f4c3b9415",
+        "title": "Snowflake partners with OpenAI in $200 million AI deal",
+        "description": "Snowflake said on Monday it has entered a $200 million ‍partnership with OpenAI to ​integrate advanced artificial intelligence models directly into its ⁠cloud data platform, as enterprises increasingly turn to AI to extract insights from vast troves of data.",
+        "content": "Synopsis\nSnowflake said on Monday it has entered a $200 million ‍partnership with OpenAI to ​integrate advanced artificial intelligence models directly into its ⁠cloud data platform, as enterprises increasingly turn to AI to extract insights from vas... [2031 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/snowflake-partners-with-openai-in-200-million-ai-deal/articleshow/127868337.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-659021,resizemode-75,msid-127868337/tech/technology/snowflake-partners-with-openai-in-200-million-ai-deal.jpg",
+        "publishedAt": "2026-02-02T17:41:39Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b27cd8e3dd8e71bfa8dc66311db2579c",
+        "title": "Elon Musk mulls merging SpaceX with artificial intelligence firm xAI: report",
+        "description": "Elon Musk is reportedly in “advanced talks” to merge his rocket company SpaceX with his artificial intelligence firm xAI.",
+        "content": "Elon Musk is reportedly in “advanced talks” to merge his rocket company SpaceX with his artificial intelligence firm xAI.\nThe two entities, each of which are privately held, have told some of their investors about the plans, Bloomberg reported Monday... [1655 chars]",
+        "url": "https://nypost.com/2026/02/02/business/elon-musk-mulls-merging-spacex-with-artificial-intelligence-firm-xai-report/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/02/120276401.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-02-02T17:14:53Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "e392f6f20b225a8c20e3de0cc8fdcec9",
         "title": "Elon Musk is said in advanced talks to combine SpaceX, xAI",
         "description": "Elon Musk is in advanced talks to combine SpaceX with xAI, according to people familiar with the matter, underscoring how the billionaire's vision for an artificial intelligence-powered world has grown too costly for any one of his entities to shoulder alone.",
@@ -125,38 +157,6 @@
             "name": "CP24 Toronto",
             "url": "https://www.cp24.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "37513563167ad3ceff34adc5c12dedbd",
-        "title": "How these schools are integrating AI, from middle school to higher ed",
-        "description": "ST. LOUIS — The class started the way classes normally do. Students filtered into the room, sat down and set their backpacks on the floor. Instead of pulling out textbooks or notepads, however, the students pointed iPads at a QR code projected on a whiteboard at the front of the room. Within seconds, they were inside an \"AI space\" — a teacher-controlled, artificial intelligence-powered chatbot ...",
-        "content": "By Monica Obradovic, St. Louis Post-Dispatch\nST. LOUIS — The class started the way classes normally do. Students filtered into the room, sat down and set their backpacks on the floor.\nInstead of pulling out textbooks or notepads, however, the student... [9881 chars]",
-        "url": "https://www.baltimoresun.com/2026/02/02/how-these-schools-are-integrating-ai-from-middle-school-to-higher-ed/",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/02/202601220400MCT_____PHOTO____LIFE-EDU-AI-LEARNING-2-SL.jpg?w=1024&h=703",
-        "publishedAt": "2026-02-02T15:41:31Z",
-        "lang": "en",
-        "source": {
-            "id": "3271eb2093cfa66b030a37cf84a8df5e",
-            "name": "Baltimore Sun",
-            "url": "https://www.baltimoresun.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "524f87c671f86b8e13f1bf739f1685d9",
-        "title": "Move fast, but obey the rules: China's vision for dominating AI",
-        "description": "China's leader Xi Jinping sees artificial intelligence as a major revolution. The nation aims to lead in AI for economic growth. However, strict government rules are in place to control the technology. Chinese AI firms must innovate rapidly while adhering to complex regulations. This balancing act presents a significant challenge for companies like Zhipu AI and Alibaba.",
-        "content": "Synopsis\nChina's leader Xi Jinping sees artificial intelligence as a major revolution. The nation aims to lead in AI for economic growth. However, strict government rules are in place to control the technology. Chinese AI firms must innovate rapidly ... [8288 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/move-fast-but-obey-the-rules-chinas-vision-for-dominating-ai/articleshow/127866056.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-126774,resizemode-75,msid-127866056/tech/artificial-intelligence/move-fast-but-obey-the-rules-chinas-vision-for-dominating-ai.jpg",
-        "publishedAt": "2026-02-02T15:36:51Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
