@@ -1,5 +1,85 @@
 [
     {
+        "id": "a1dc92cf02fc8e9f115419c5da0c348c",
+        "title": "Asia shares wobble, oil prices climb and gold makes a comeback",
+        "description": "SINGAPORE: Asian stocks were on shaky ground on Wednesday, following steep losses in U.S. and European equities on fears that advancements in artificial intelligence could supplant traditional software.",
+        "content": "SINGAPORE: Asian stocks were on shaky ground on Wednesday, following steep losses in U.S. and European equities on fears that advancements in artificial intelligence could supplant traditional software.\nOil prices climbed after the U.S. shot down an ... [4162 chars]",
+        "url": "https://www.thestar.com.my/business/business-news/2026/02/04/asia-shares-wobble-oil-prices-climb-and-gold-makes-a-comeback",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/02/04/3753074.JPG",
+        "publishedAt": "2026-02-04T03:42:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "7474d0ac85b6c6b90405e5d203487a98",
+        "title": "Q&A: What we've learned about how students are using AI, and how to help them",
+        "description": "Much is being said about the wonders of artificial intelligence (AI) and how it is the new frontier. And while it provides amazing possibilities in fields like medicine, academics are debating its advantages for university students.",
+        "content": "Much is being said about the wonders of artificial intelligence (AI) and how it is the new frontier. And while it provides amazing possibilities in fields like medicine, academics are debating its advantages for university students.\nPeet van Aardt re... [5489 chars]",
+        "url": "https://phys.org/news/2026-02-qa-weve-students-ai.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg",
+        "publishedAt": "2026-02-04T03:20:01Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "0a60325683850e290f8076cde2073536",
+        "title": "How AI and agents can be used to secure banks",
+        "description": "Times Techies News: Artificial intelligence is not only sharpening cyber attacks, but also multiplying them. At a Times Techies discussion on AI and cybersecurity in the .",
+        "content": "Artificial intelligence is not only sharpening cyber attacks, but also multiplying them. At a Times Techies discussion on AI and cybersecurity in the context of the banking and financial services industry, Kotak Mahindra Bank CISO Neeraj Naidu said w... [3997 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/times-techies/how-ai-and-agents-can-be-used-to-secure-banks/articleshow/127898781.cms",
+        "image": "https://static.toiimg.com/thumb/msid-127898795,width-1280,height-720,imgsize-2258908,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-02-04T03:11:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "42ac79ff73f7227f689a7386864f003f",
+        "title": "OpenAI CEO Altman dismisses Moltbook as likely fad, backs the tech behind it",
+        "description": "Sam Altman delivered his remarks at the Cisco AI Summit in San Francisco, as tech leaders weighed in on the Reddit-like site where artificial intelligence-powered ‌bots appear to ‌swap code and gossip about their human owners.",
+        "content": "Synopsis\nSam Altman delivered his remarks at the Cisco AI Summit in San Francisco, as tech leaders weighed in on the Reddit-like site where artificial intelligence-powered ‌bots appear to ‌swap code and gossip about their human owners.\nOpenAI CEO Sam... [2381 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-ceo-altman-dismisses-moltbook-as-likely-fad-backs-the-tech-behind-it/articleshow/127898546.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36192,resizemode-75,msid-127898546/tech/artificial-intelligence/openai-ceo-altman-dismisses-moltbook-as-likely-fad-backs-the-tech-behind-it.jpg",
+        "publishedAt": "2026-02-04T02:54:10Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "8cecd2c84816fad3ab053f3e52f878e8",
+        "title": "Indian stocks set to extend gains on US trade deal; tech sell-off may cap upside",
+        "description": "India's equity benchmarks are set to extend gains on Wednesday on U.S.-India trade deal optimism, though a global sell-off in software stocks on concerns over artificial intelligence disruption may...",
+        "content": "BENGALURU, Feb 4 (Reuters) - India's equity benchmarks are set to extend gains on Wednesday on U.S.-India trade deal optimism, though a global sell-off in software stocks on concerns over artificial intelligence disruption may weigh on IT stocks and ... [1756 chars]",
+        "url": "https://www.marketscreener.com/news/indian-stocks-set-to-extend-gains-on-us-trade-deal-tech-sell-off-may-cap-upside-ce7e5bd3de8bf524",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-10T111820Z_1_LYNXNPEL890HW_RTROPTP_4_INDIA-MUTUAL-FUND-FLOWS.JPG",
+        "publishedAt": "2026-02-04T02:42:31Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "a81c457c63fdaadbf20d7ed09e336823",
         "title": "Indian stocks set to extend gains on US trade deal; tech sell-off may cap upside",
         "description": "India's equity benchmarks are set to extend gains on Wednesday on U.S.-India trade deal optimism, though a global sell-off in software stocks on concerns over artificial intelligence disruption may weigh on IT stocks and limit broader gains.",
@@ -77,86 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "4d36502f3da8a8332b22405d7443e34d",
-        "title": "Despite new curbs, Elon Musk’s Grok produces sexualised images",
-        "description": "Elon Musk’s flagship artificial intelligence chatbot, Grok, continues to generate sexualised images of people even when users explicitly warn that the subjects do not consent, Reuters has found. After Musk’s social media company X announced new curbs on Grok’s public output, nine Reuters reporters gave it a series of prompts to determine whether and under what circumstances the chatbot would generate nonconsensual sexualised images.",
-        "content": "Reuters found Grok, Elon Musk’s AI chatbot, still generates nonconsensual sexualised images despite warnings, prompting global regulatory scrutiny and investigations into X and xAI.\nBy Reuters\nElon Musk’s flagship artificial intelligence chatbot, Gro... [7483 chars]",
-        "url": "https://www.cnbctv18.com/business/despite-new-curbs-elon-musks-grok-produces-sexualised-images-ws-l-19841467.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/01/2025-02-16t142603z-1247639398-rc2pvca1ewc3-rtrmadp-3-xai-ai-2026-01-9c46a3d8a83902eb8ba86dc0f0de2f2f.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-02-04T01:55:26Z",
-        "lang": "en",
-        "source": {
-            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-            "name": "CNBC TV18",
-            "url": "https://www.cnbctv18.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "3b754d8459482f59968d874c9b30ffd9",
-        "title": "India's Fractal Analytics sets IPO price band, eyes $1.6 billion valuation",
-        "description": "Indian enterprise artificial intelligence firm Fractal Analytics FRAL.NS set a price band of 857-900 rupees per share for its initial public offering, targeting a valuation of about 144.5 billion rupees ($1.60 billion), according to Reuters calculations.",
-        "content": "Feb 4 (Reuters) - Indian enterprise artificial intelligence firm Fractal Analytics FRAL.NS set a price band of 857-900 rupees per share for its initial public offering, targeting a valuation of about 144.5 billion rupees ($1.60 billion), according to... [1162 chars]",
-        "url": "https://www.reuters.com/world/india/indias-fractal-analytics-sets-ipo-price-band-857-900-rupees-2026-02-04/",
-        "image": "https://www.reuters.com/resizer/v2/5K7TE32JXRML5N2E25Y5DNVIE4.jpg?auth=d0c1dbbc4b49b9583f9aa007cc4bc15bfafce63afe071d9607a19b036652222e&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-02-04T01:47:44Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "cb0b73939f8086101d613c168fc6fa1e",
-        "title": "What you need to know about the AI models rattling markets",
-        "description": "Rapidly expanding artificial-intelligence capabilities helped erase $300 billion in market value on Tuesday.",
-        "content": "Here’s what we know:\nAnthropic and OpenAI recently announced new models, upgrades\nThe competing offerings from the AI startups can perform tasks in an array of job functions with minimal instruction, operating with relative autonomy on a user’s compu... [3811 chars]",
-        "url": "https://www.livemint.com/global/what-you-need-to-know-about-the-ai-models-rattling-markets-11770166885112.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/02/04/1600x900/logo/im-91667558_1770166888570_1770166911481.jpg",
-        "publishedAt": "2026-02-04T01:02:32Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8da88cfef6f8470117601e46cb4fa26c",
-        "title": "Tallwire Launches into Early Access, Introducing a Reader-Focused Technology News Platform",
-        "description": "04.02.2026 - Tallwire has officially launched its technology news platform into early access, introducing a reader-focused approach to covering artificial intelligence, cybersecurity, and emerging technologies. Houston, Texas--(Newsfile Corp. - February 3, ...",
-        "content": "Tallwire has officially launched its technology news platform into early access, introducing a reader-focused approach to covering artificial intelligence, cybersecurity, and emerging technologies.\nHouston, Texas--(Newsfile Corp. - February 3, 2026) ... [3219 chars]",
-        "url": "https://www.wallstreet-online.de/nachricht/20452619-tallwire-launches-into-early-access-introducing-a-reader-focused-technology-news-platform",
-        "image": "https://assets.wallstreet-online.de/_media/6/newsfeeds1280/size_645/newsfile-1280x720.png",
-        "publishedAt": "2026-02-04T00:31:41Z",
-        "lang": "en",
-        "source": {
-            "id": "4ddba5324f2e0216fa6458240fdb0f97",
-            "name": "Wallstreet Online",
-            "url": "https://www.wallstreet-online.de",
-            "country": "de"
-        }
-    },
-    {
-        "id": "77075967e0e90864c358585c90814584",
-        "title": "Elon Musk set to put AI bots into orbit like movie 2001: A Space Odyssey after merging firms",
-        "description": "ELON Musk is set to put artificial intelligence bots into orbit in the style of classic movie 2001: A Space Odyssey after merging two of his...",
-        "content": "ELON Musk is set to put artificial intelligence bots into orbit in the style of classic movie 2001: A Space Odyssey after merging two of his firms.\nThe billionaire’s XAI firm is being acquired by SpaceX in a deal that puts the combined group’s value ... [2381 chars]",
-        "url": "https://www.thesun.co.uk/money/38113856/elon-musk-ai-bots-orbit-movie-space-odyssey/",
-        "image": "https://www.thesun.co.uk/wp-content/uploads/2026/02/NINTCHDBPICT001056236654.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-        "publishedAt": "2026-02-04T00:19:27Z",
-        "lang": "en",
-        "source": {
-            "id": "f35c9e0c433f608ad7c48c3d4818bec4",
-            "name": "The Sun",
-            "url": "https://www.thesun.co.uk",
-            "country": "gb"
         }
     }
 ]
