@@ -1,5 +1,69 @@
 [
     {
+        "id": "c6bb7e5817b125965475501f6e59a8ab",
+        "title": "Canadian tech pioneer Yoshua Bengio named to UN’s AI panel",
+        "description": "Journalist and Nobel Peace Prize laureate Maria Ressa of the Philippines, and Canadian artificial intelligence pioneer Yoshua Bengio are among 40 experts selected to serve on a United Nations AI panel, officials announced Wednesday.",
+        "content": "Journalist and Nobel Peace Prize laureate Maria Ressa of the Philippines, and Canadian artificial intelligence pioneer Yoshua Bengio are among 40 experts selected to serve on a United Nations AI panel, officials announced Wednesday.\nAlso named among ... [1314 chars]",
+        "url": "https://www.cp24.com/news/world/2026/02/05/filipina-nobel-laureate-canadian-tech-pioneer-named-to-uns-ai-panel/",
+        "image": "https://www.cp24.com/resizer/v2/4PKCPHM2DVA3HMRBSH5H76FGLY.JPG?smart=true&auth=5c3e353fef6efdd4494887b9a9a13c841b87394a93b5ca9d91d882bca6a7feaa&width=1200&height=630",
+        "publishedAt": "2026-02-05T00:58:23Z",
+        "lang": "en",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "79f54686fd0e58ad3f4ffec50ab4e744",
+        "title": "The AI Infrastructure Challenge: Preparing for the Agentic AI Revolution",
+        "description": "Around the world, governments and industries are moving quickly to secure leadership in Artificial Intelligence (AI). For many countries, this momentu...",
+        "content": "Unlike traditional AI models, agentic AI does not just respond to queries – it reasons, plans, and takes actions across systems. For example, instead of simply answering a question on travel recommendations, an agentic system would book your flights,... [6058 chars]",
+        "url": "https://itwire.com/guest-articles/guest-opinion/the-ai-infrastructure-challenge-preparing-for-the-agentic-ai-revolution.html",
+        "image": "https://itwire.com/media/k2/items/cache/9f3255127f0e5f4b771948dba57a302b_XS.jpg",
+        "publishedAt": "2026-02-05T00:40:22Z",
+        "lang": "en",
+        "source": {
+            "id": "10cbfb3760cfcdeb78c733c527f0e814",
+            "name": "iTWire",
+            "url": "https://itwire.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "0cb803b4eddaee50f7d146dbf3f08183",
+        "title": "Ciena returns to S&P 500 after getting booted 17 years ago",
+        "description": "Ciena is predicting the fastest growth since 2011 in the current fiscal year, thanks to its position in artificial intelligence.",
+        "content": "Networking hardware maker Ciena will join the S&P 500, returning to the benchmark after getting booted 17 years ago. The stock rose in extended trading.\nCiena is replacing human resources software company Dayforce, S&P Dow Jones Indices said in a sta... [1729 chars]",
+        "url": "https://www.cnbc.com/2026/02/04/ciena-returns-to-sp-500-after-getting-booted-17-years-ago.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108261687-1770247972762-gettyimages-170545273-SMITH_CIENA_CORP.jpeg?v=1770248049&w=1920&h=1080",
+        "publishedAt": "2026-02-05T00:07:51Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "5096b01afc74331a49245d87b2677393",
+        "title": "Chicago software firm ActiveCampaign buys AI startup Feedback Intelligence",
+        "description": "The deal strengthens the homegrown marketing platform’s artificial intelligence tools",
+        "content": "We break down complex business news to help you understand how money moves in Chicago and how it affects you.\nChicago software company ActiveCampaign announced Tuesday that it bought AI startup Feedback Intelligence in San Francisco for an undisclose... [2246 chars]",
+        "url": "https://chicago.suntimes.com/money/2026/02/04/chicago-software-firm-activecampaign-buys-ai-startup-feedback-intelligence",
+        "image": "https://cst.brightspotcdn.com/dims4/default/3266fc4/2147483647/strip/true/crop/1660x948+0+134/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F91%2Fc9%2Fb3d5162a43fe8a9b22aa365305f0%2Factivecampaign-loop-hq-2.jpg",
+        "publishedAt": "2026-02-04T23:40:57Z",
+        "lang": "en",
+        "source": {
+            "id": "a9b75d29a22d0e3d5640bed825a22b93",
+            "name": "Chicago Sun-Times",
+            "url": "https://chicago.suntimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "e03309fe4e0d3feb742d2db13f35037b",
         "title": "What’s Behind the ‘SaaSpocalypse’ Plunge in Software Stocks",
         "description": "Since ChatGPT arrived on the scene some three years ago, analysts have been warning that entire industries, including software programming, legal services and film production, are at risk of being disrupted by artificial intelligence.",
@@ -92,70 +156,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "028843c402b15be4ce8f9e11ee32bd30",
-        "title": "Maas Group tumbles on AI pivot as $1.2 billion materials exit spooks investors",
-        "description": "Australia's Maas Group said on Thursday it would sell its building materials division for up to A$1.70 billion ($1.19 billion) to pivot towards artificial intelligence-related infrastructure, sending its shares crashing more than 26%.",
-        "content": "Sign up here.\nFounded over two decades ago by former rugby player Wes Maas, the conglomerate is selling a unit that generated about half of its A$219 million in core operating earnings in fiscal 2025.\nRon Shamgar, head of Australian equities at TAMIM... [1574 chars]",
-        "url": "https://www.reuters.com/business/australias-maas-group-sell-construction-materials-division-12-billion-2026-02-04/",
-        "image": "https://www.reuters.com/resizer/v2/EJ2NLXHBV5NETOS73YWUS5KX6M.jpg?auth=e81fa89478d6f6b47fb7583c73681d3902fae2421ade89e2a61213fb8fc65593&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-02-04T22:07:31Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0da87918ee5f7a2c476266acaf1d029d",
-        "title": "Google's quarterly results paint a picture of an internet powerhouse getting stronger in AI age",
-        "description": "Google’s latest quarterly report provided further evidence that its internet empire is withstanding an artificial intelligence shakeup that’s turning into another potential boon for the company.",
-        "content": "Google’s latest quarterly report provided further evidence that its internet empire is withstanding an artificial intelligence shakeup that’s turning into another potential boon for the company.\nThe numbers released Wednesday marked Google’s third co... [2513 chars]",
-        "url": "https://www.bnnbloomberg.ca/business/company-news/2026/02/04/googles-quarterly-results-paint-a-picture-of-an-internet-powerhouse-getting-stronger-in-ai-age/",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/2TMGEU6B2HGGZKOLDD57MVT6VY.jpg?smart=true&auth=34b2caeea8aaf3bf153b6eb6254da031785c59a2ca52ce95f08e28de30add0d8&width=1200&height=630",
-        "publishedAt": "2026-02-04T22:06:31Z",
-        "lang": "en",
-        "source": {
-            "id": "1b697445987e8a33f6c82842e17d60d9",
-            "name": "Bnn Bloomberg",
-            "url": "https://www.bnnbloomberg.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "e9d9ed216aa06f18fa42e3afd33424e5",
-        "title": "Google's quarterly results paint a picture of an internet powerhouse getting stronger in AI age",
-        "description": "Google’s latest quarterly report provided further evidence that its internet empire is withstanding an artificial intelligence shakeup that’s turning into another potential boon for the company.",
-        "content": "Google’s latest quarterly report provided further evidence that its internet empire is withstanding an artificial intelligence shakeup that’s turning into another potential boon for the company.\nThe numbers released Wednesday marked Google’s third co... [2513 chars]",
-        "url": "https://www.cp24.com/news/money/2026/02/04/googles-quarterly-results-paint-a-picture-of-an-internet-powerhouse-getting-stronger-in-ai-age/",
-        "image": "https://www.cp24.com/resizer/v2/2TMGEU6B2HGGZKOLDD57MVT6VY.jpg?smart=true&auth=34b2caeea8aaf3bf153b6eb6254da031785c59a2ca52ce95f08e28de30add0d8&width=1200&height=630",
-        "publishedAt": "2026-02-04T22:06:31Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "f01990b53ae797df1e2351b08ade0f4b",
-        "title": "TRADING DAY Tech it to the limit",
-        "description": "U.S. stocks mostly fell on Wednesday, slammed by worries that the artificial intelligence revolution could pose an existential threat to businesses across many sectors, while oil rose sharply on reports that planned U.S.-Iran talks may collapse.",
-        "content": "ORLANDO, Florida, Feb 4 (Reuters) - U.S. stocks mostly fell on Wednesday, slammed by worries that the artificial intelligence revolution could pose an existential threat to businesses across many sectors, while oil rose sharply on reports that planne... [3002 chars]",
-        "url": "https://www.reuters.com/world/asia-pacific/global-markets-trading-day-graphic-2026-02-04/",
-        "image": "https://www.reuters.com/resizer/v2/RWBZR355CJJKNNYQ3VOM6J2MLA.jpg?auth=d5a3e9d9dc8bd5223ca8e62a38e4dad980f0285459ce929441f9b81983ff9ab2&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-02-04T22:05:28Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
             "country": "us"
         }
     }
