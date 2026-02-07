@@ -1,5 +1,53 @@
 [
     {
+        "id": "723c4b0c094d1ebef300ae6cf6f05e98",
+        "title": "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT",
+        "description": "Feb 7 (Reuters) - Anthropic ‌is spending millions of dollars to air commercials during Sunday night's National Football League championship game to slam rival OpenAI for its plan to ‌sell ads on its ChatGPT chatbot, in one of the biggest public spats between the big artificial-intelligence companies.",
+        "content": "Feb 7 (Reuters) - Anthropic ‌is spending millions of dollars to air commercials during Sunday night's National Football League championship game to slam rival OpenAI for its plan to ‌sell ads on its ChatGPT chatbot, in one of the biggest public spats... [3875 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/02/07/anthropic-buys-super-bowl-ads-to-slap-openai-for-selling-ads-in-chatgpt",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/02/07/3759397.jpg",
+        "publishedAt": "2026-02-07T11:09:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "32df8109a9c3befb9e4220935451bbc2",
+        "title": "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT",
+        "description": "Anthropic is spending millions of dollars to air commercials during Sunday night's National Football League championship game to slam rival OpenAI for its plan to sell ads on its ChatGPT chatbot, in one of the biggest public spats between the big artificial-intelligence companies.",
+        "content": "Feb 7 (Reuters) - Anthropic is spending millions of dollars to air commercials during Sunday night's National Football League championship game to slam rival OpenAI for its plan to sell ads on its ChatGPT chatbot, in one of the biggest public spats b... [3838 chars]",
+        "url": "https://www.reuters.com/business/media-telecom/anthropic-buys-super-bowl-ads-slap-openai-selling-ads-chatgpt-2026-02-07/",
+        "image": "https://www.reuters.com/resizer/v2/2AWUTJJFXNOILMLDLIB7ICTZUQ.jpg?auth=fa3df32b061e5e47e1886738cb365db8aa5ec54a299855c9dd8ccc6538df2155&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-02-07T11:04:16Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "9d470a5e84c7776ee741a5c8ab0c9896",
+        "title": "The new cola wars are upon us-but this time it’s the battle of AI",
+        "description": "Anthropic’s anti-ChatGPT Super Bowl ads could instigate a win-win scenario for artificial intelligence—but OpenAI has to respond in kind.",
+        "content": "Days before the Super Bowl, Anthropic dropped a handful of Super Bowl ads taking aim at OpenAI’s impending advertising model for ChatGPT. The ads anthropomorphize OpenAI’s platform, imagining how the chatbot might answer everyday questions like “What... [1796 chars]",
+        "url": "https://www.fastcompany.com/91488161/the-new-cola-wars-are-upon-us-but-this-time-its-ai",
+        "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/02/p-1-91488161-open-ai-vs-anthropic.jpg",
+        "publishedAt": "2026-02-07T11:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5ac5f32ba74846cef441099f666f2d98",
+            "name": "Fast Company",
+            "url": "https://www.fastcompany.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "30ebbc1932a32c0b434b782507bbd49f",
         "title": "AI beyond Earth: Musk says Artificial Intelligence will shift to space in 30-36 months",
         "description": "Elon Musk predicts a dramatic shift in how and where AI computing will be hosted not on Earth, but in orbit. The SpaceX and xAI boss says space could soon become the most cost-effective home for artificial intelligence due to energy limits on our planet.",
@@ -109,54 +157,6 @@
             "name": "The News International",
             "url": "https://www.thenews.com.pk",
             "country": "pk"
-        }
-    },
-    {
-        "id": "7b9bb2a0e3ab29192df73923c543e09c",
-        "title": "Moltbook: AI-only social network sparking excitement, skepticism, and security fears",
-        "description": "Moltbook, a social network built for AI agents, is dividing the tech world as experts raise concerns over security, governance, and the future of autonomous artificial intelligence.",
-        "content": "New Delhi:\nMoltbook is a new social network built exclusively for artificial intelligence agents, where AI systems create posts and interact with each other while humans are invited to observe. Elon Musk said the platform’s launch marks the “very ear... [5660 chars]",
-        "url": "https://www.indiatvnews.com/technology/news/moltbook-ai-only-social-network-sparking-excitement-skepticism-and-security-fears-2026-02-07-1029257",
-        "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/02/moltbook-ai-only-social-network-1770447605.jpg",
-        "publishedAt": "2026-02-07T07:00:15Z",
-        "lang": "en",
-        "source": {
-            "id": "143b993b193f72147f3de29ebcfbf505",
-            "name": "India TV News",
-            "url": "https://www.indiatvnews.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "4005d173b45c2dca4b5b08b7cb428f5b",
-        "title": "Pakistan to fast-track AI policy by bringing in international experts",
-        "description": "ISLAMABAD: Pakistan is embarking on a strategic overhaul of its artificial intelligence roadmap, as the federal government moves to induct international AI specialists into the proposed National AI Council.",
-        "content": "ISLAMABAD: Pakistan is embarking on a strategic overhaul of its artificial intelligence roadmap, as the federal government moves to induct international AI specialists into the proposed National AI Council.\nThe effort is aimed at breaking bureaucrati... [2654 chars]",
-        "url": "https://www.bolnews.com/technology/pakistan-to-fast-track-ai-policy-by-bringing-in-international-experts/",
-        "image": "https://www.bolnews.com/wp-content/uploads/2026/02/AI.webp",
-        "publishedAt": "2026-02-07T06:30:48Z",
-        "lang": "en",
-        "source": {
-            "id": "e98c4d2585c4c5661ffe60fed4d51930",
-            "name": "BOL News",
-            "url": "https://www.bolnews.com",
-            "country": "pk"
-        }
-    },
-    {
-        "id": "0a005807f40a460ccdcfd7d8b2ca11b2",
-        "title": "Claude AI Builds ‘10 Minute Gita’ iPhone App From Scratch Without Human Coding",
-        "description": "No coding, just artificial intelligence",
-        "content": "Anish Moonka has revealed how he used artificial intelligence to build a fully functional iOS app in just a week without writing the code himself. In a post, Moonka said he wanted to read the Bhagavad Gita daily but couldn’t find an app that suited h... [1990 chars]",
-        "url": "https://in.mashable.com/tech/105522/claude-ai-builds-10-minute-gita-iphone-app-from-scratch-without-human-coding",
-        "image": "https://sm.mashable.com/mashable_in/seo/default/z3wq-2026-02-07t113834558_tq2s.jpg",
-        "publishedAt": "2026-02-07T06:14:20Z",
-        "lang": "en",
-        "source": {
-            "id": "e894895ef041ab9c6cb7fe7223531f53",
-            "name": "Mashable India",
-            "url": "https://in.mashable.com",
-            "country": "in"
         }
     }
 ]
