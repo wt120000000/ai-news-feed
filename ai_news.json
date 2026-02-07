@@ -1,5 +1,37 @@
 [
     {
+        "id": "ed071889a9cae1c2cb4ae43985944cc1",
+        "title": "Apple may bring ChatGPT and other AI apps to CarPlay",
+        "description": "Apple is rumoured to be working on a feature that could soon enable users to simply use artificial intelligence-powered chatbots like ChatGPT on CarPlay.The feature enables users to interact with AI...",
+        "content": "Apple is rumoured to be working on a feature that could soon enable users to simply use artificial intelligence-powered chatbots like ChatGPT on CarPlay.\nThe feature enables users to interact with AI assistants while driving. This way, users do not h... [1280 chars]",
+        "url": "https://www.thenews.com.pk/latest/1391375-apple-may-bring-chatgpt-and-other-ai-apps-to-carplay",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-02-07/1391375_121703_updates.jpg",
+        "publishedAt": "2026-02-07T07:11:41Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "7b9bb2a0e3ab29192df73923c543e09c",
+        "title": "Moltbook: AI-only social network sparking excitement, skepticism, and security fears",
+        "description": "Moltbook, a social network built for AI agents, is dividing the tech world as experts raise concerns over security, governance, and the future of autonomous artificial intelligence.",
+        "content": "New Delhi:\nMoltbook is a new social network built exclusively for artificial intelligence agents, where AI systems create posts and interact with each other while humans are invited to observe. Elon Musk said the platform’s launch marks the “very ear... [5660 chars]",
+        "url": "https://www.indiatvnews.com/technology/news/moltbook-ai-only-social-network-sparking-excitement-skepticism-and-security-fears-2026-02-07-1029257",
+        "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/02/moltbook-ai-only-social-network-1770447605.jpg",
+        "publishedAt": "2026-02-07T07:00:15Z",
+        "lang": "en",
+        "source": {
+            "id": "143b993b193f72147f3de29ebcfbf505",
+            "name": "India TV News",
+            "url": "https://www.indiatvnews.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "4005d173b45c2dca4b5b08b7cb428f5b",
         "title": "Pakistan to fast-track AI policy by bringing in international experts",
         "description": "ISLAMABAD: Pakistan is embarking on a strategic overhaul of its artificial intelligence roadmap, as the federal government moves to induct international AI specialists into the proposed National AI Council.",
@@ -125,38 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "7a5a1930f5c126e924dea661a075e48a",
-        "title": "Wall Street Week Ahead: Tech stock shakeout clouds market ahead of economic data deluge",
-        "description": "Investors face a volatile week as artificial intelligence reshapes the technology sector. Software stocks are experiencing a significant downturn. Upcoming economic data on employment and inflation will provide crucial insights. The Federal Reserve's interest rate decisions remain a key focus for market participants. Companies like AppLovin and Datadog will release their earnings reports.",
-        "content": "Synopsis\nInvestors face a volatile week as artificial intelligence reshapes the technology sector. Software stocks are experiencing a significant downturn. Upcoming economic data on employment and inflation will provide crucial insights. The Federal ... [6171 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-tech-stock-shakeout-clouds-market-ahead-of-economic-data-deluge/articleshow/128018863.cms",
-        "image": "https://img.etimg.com/thumb/msid-128018898,width-1200,height-630,imgsize-80406,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-02-07T03:46:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "80e6f0cec6743e9a4bfdb622db285c4b",
-        "title": "Biometric cards and AI robots shine at Maha-Tech industrial expo",
-        "description": "Pune: Innovative payment cards, artificial intelligence (AI)-powered robots and RFID-run laser tags were among the prominent technologies displayed at.",
-        "content": "Pune: Innovative payment cards, artificial intelligence (AI)-powered robots and RFID-run laser tags were among the prominent technologies displayed at the 23rd edition of the Maha-Tech industrial expo being held on the Agricultural College ground in ... [1896 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/pune/biometric-cards-and-ai-robots-shine-at-maha-tech-industrial-expo/articleshow/128006357.cms",
-        "image": "https://static.toiimg.com/thumb/msid-128006666,width-1280,height-720,imgsize-33190,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-02-07T03:43:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
