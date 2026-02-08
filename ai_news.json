@@ -1,5 +1,21 @@
 [
     {
+        "id": "204015e3f1de5f5cb7f2461884efc73e",
+        "title": "New world order or bust in the age of artificial intelligence",
+        "description": "AI governance is the opportunity to build something new and workable out of the ashes of failure.",
+        "content": "When people ask me how I am doing, I generally reply: “I’m fine, but the world is a mess.”\nStill, as a Dane, the past few weeks have been particularly difficult and incomparably worse for the people of Greenland. With his assertion that might makes r... [822 chars]",
+        "url": "https://www.japantimes.co.jp/commentary/2026/02/08/world/a-new-world-order/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/08/521630.jpg?v=3.1",
+        "publishedAt": "2026-02-08T06:25:41Z",
+        "lang": "en",
+        "source": {
+            "id": "4b9101ef61d45607a32072a7504f5fb0",
+            "name": "The Japan Times ",
+            "url": "https://www.japantimes.co.jp",
+            "country": "jp"
+        }
+    },
+    {
         "id": "74300ac0f17e88e454b4ebc7d351b727",
         "title": "Govt mulling licensing to curb AI-generated child sexual content online, says Fahmi",
         "description": "KUALA LUMPUR: The government is looking to study regulating artificial intelligence (AI) apps through licensing to curb the production of child sexual abuse materials (CSAM), says Datuk Fahmi Fadzil.",
@@ -140,22 +156,6 @@
             "id": "21468bec836de1ebb209ff6f78fbfe3e",
             "name": "Hindustan Times",
             "url": "https://www.hindustantimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1b62cf7e7f41ccf028a42fd5e1606d9d",
-        "title": "AI content on Australian tour website sends tourists chasing hot springs that don’t exist",
-        "description": "Trending News: An AI-generated travel article misled tourists to search for non-existent hot springs in Tasmania, highlighting the dangers of relying on artificial intelligence for travel information.",
-        "content": "Australian tour website’s AI content sends visitors on wild goose chase for non-existent Tasmanian hot springs\nAn Australian tour website has been forced to pull content and issue warnings after travellers began arriving in a remote Tasmanian town lo... [4211 chars]",
-        "url": "https://timesofindia.indiatimes.com/etimes/trending/ai-content-on-australian-tour-website-sends-tourists-chasing-hot-springs-that-dont-exist/articleshow/128053534.cms",
-        "image": "https://static.toiimg.com/thumb/msid-128054529,width-1280,height-720,imgsize-1194274,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-02-08T01:07:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     }
