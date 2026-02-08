@@ -1,5 +1,21 @@
 [
     {
+        "id": "9cfdd9142d12f91df50a24e01997f8be",
+        "title": "Why measuring artificial intelligence quality has become global challenge",
+        "description": "Read more about Why measuring artificial intelligence quality has become global challenge on Devdiscourse",
+        "content": "Artificial intelligence (AI) has outgrown the evaluation tools originally designed for conventional software, exposing weaknesses in how quality, safety, and trustworthiness are measured. As AI systems take on decision-making roles in sensitive domai... [7565 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3796029-why-measuring-artificial-intelligence-quality-has-become-global-challenge",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/06_02_2026_14_00_00_3587029.png?width=920&format=jpeg",
+        "publishedAt": "2026-02-07T17:14:07Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "2d72cff1035b0a5994b0f0ffe62486e2",
         "title": "Indian-origin scientist Meha Jain wins global science prize for climate research",
         "description": "By combining satellite imagery with artificial intelligence, Meha Jain’s research tracks how small farmers respond to climate stress, and at what environmental cost.",
@@ -140,22 +156,6 @@
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e9512e08d3a6a59631c07c79f69f9b8d",
-        "title": "Why educational institutions must integrate the Three A’s of AI into the curriculum",
-        "description": "Across industries, artificial intelligence is transforming everyday operations.",
-        "content": "Digital and technological advancements are opening doors to exciting opportunities, and AI is transforming operational tasks. In the business industry, according to the IBM Global AI Adoption Index 2024-25, 42% of enterprise-scale businesses are inte... [3262 chars]",
-        "url": "https://www.thehindu.com/education/why-educational-institutions-must-integrate-the-three-as-of-ai-into-the-curriculum/article70580420.ece",
-        "image": "https://th-i.thgim.com/public/incoming/f5cg4g/article70590970.ece/alternates/LANDSCAPE_1200/Three%20As%20of%20AI.jpg",
-        "publishedAt": "2026-02-07T13:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
             "country": "in"
         }
     }
