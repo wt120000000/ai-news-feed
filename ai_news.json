@@ -1,5 +1,21 @@
 [
     {
+        "id": "27406d7bce99b701df46b0abde12c4eb",
+        "title": "Australia's AI boom may revive productivity, CBA says",
+        "description": "Australia’s productivity performance ranks among the weakest in the developed world, yet it is drawing artificial intelligence investment away from other global contenders.",
+        "content": "Australia has become the world’s third-largest artificial intelligence investment destination behind the U.S. and China, a result that’s set to spur productivity in an economy currently struggling with a low potential growth rate and high inflation, ... [739 chars]",
+        "url": "https://www.japantimes.co.jp/business/2026/02/09/tech/australia-ai-boom-cba/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/09/522361.jpg?v=3.1",
+        "publishedAt": "2026-02-09T03:34:45Z",
+        "lang": "en",
+        "source": {
+            "id": "4b9101ef61d45607a32072a7504f5fb0",
+            "name": "The Japan Times ",
+            "url": "https://www.japantimes.co.jp",
+            "country": "jp"
+        }
+    },
+    {
         "id": "62f8aa8d4447c6919bb603551daf43c9",
         "title": "Fractal Analytics IPO: Check GMP, brokerages review, subscription and other details",
         "description": "Fractal Analytics' IPO opens today. This is a significant event for India's stock market. It is the first pure-play artificial intelligence company to list. The IPO aims to raise Rs 2,834 crore. Investor interest in AI businesses remains strong globally. The company has shown a strong financial turnaround. Analysts suggest it is suited for high-risk investors with a long-term view.",
@@ -141,22 +157,6 @@
             "name": "Pittsburgh Tribune-Review",
             "url": "https://triblive.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "1ff196f1d939a63c41a9d42034c56b58",
-        "title": "Chandra Gets into Driver’s Seat for TCS AI Ride",
-        "description": "Tata Sons chairman N Chandrasekaran is stepping up direct involvement with Tata Consultancy Services (TCS) as a priority to steer Indias largest IT company through a vulnerable phase and ring-fence the groups largest cash generator at a time when artificial intelligence (AI) threatens established business models, said people with knowledge of the matter.",
-        "content": "Synopsis\nTata Sons chairman N Chandrasekaran is stepping up direct involvement with Tata Consultancy Services (TCS) as a priority to steer India’s largest IT company through a vulnerable phase and ring-fence the group’s largest cash generator at a ti... [5959 chars]",
-        "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/feb/09/et-front/chandra-gets-into-drivers-seat-for-tcs-ai-ride/articleshow/128086544.cms",
-        "image": "https://img.etimg.com/thumb/msid-128086544,width-1200,height-630,imgsize-165540,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-02-08T21:47:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
