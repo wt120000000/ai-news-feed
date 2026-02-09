@@ -1,5 +1,37 @@
 [
     {
+        "id": "9e8234b99919bb9c9606d39e9dd97d4a",
+        "title": "The Week in Breakingviews: Shooting for the moon",
+        "description": "Welcome back! It’s been the busiest news week in recent memory. The biggest M&A deal in history was announced on Monday, but quickly got lost in the noise of the Epstein files, crashing crypto, software stock jitters and artificial intelligence spending. Some thoughts on Elon Musk’s space-bot merger below. Let us know what we missed. Was this newsletter forwarded to you? Sign up here to receive it in your inbox every weekend.",
+        "content": "LONDON, Feb 8 (Reuters Breakingviews) - Welcome back! It’s been the busiest news week in recent memory. The biggest M&A deal in history was announced on Monday, but quickly got lost in the noise of the Epstein files, crashing crypto, software stock j... [7256 chars]",
+        "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-02-08/",
+        "image": "https://www.reuters.com/resizer/v2/T453N5DLW5O3NPWPCVN3UG4GEU.jpg?auth=db4ad5cc9be0131e4d80df005b0994ad6e35b5fd02699ec4c49da577b1a9f655&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-02-08T23:45:25Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "f869e0c375058e7b31b1558a42bbd7b8",
+        "title": "TV Talk: Super Bowl ads embrace AI, nostalgia, warmth",
+        "description": "Super Bowl LX commercials put an emphasis on artificial intelligence, 1980s and ‘90s culture, feel-good situations, Pittsburgh celebrities and, uh, an out-there focus on rear ends. Pittsburgh native actor Jeff Goldblum (“Wicked: For Good”) turned up in ads for Comcast Xfinity’s Wi-Fi, revisiting his “Jurassic Park” role, and in another",
+        "content": "Super Bowl LX commercials put an emphasis on artificial intelligence, 1980s and ‘90s culture, feel-good situations, Pittsburgh celebrities and, uh, an out-there focus on rear ends.\nPittsburgh native actor Jeff Goldblum (“Wicked: For Good”) turned up ... [3995 chars]",
+        "url": "https://triblive.com/aande/movies-tv/tv-talk-super-bowl-ads-embrace-ai-nostalgia-warmth/",
+        "image": "https://assets-varnish.triblive.com/2026/02/9275188_web1_ptr-TVTalk1-02092026-GoodWillDunkin.jpg",
+        "publishedAt": "2026-02-08T22:13:13Z",
+        "lang": "en",
+        "source": {
+            "id": "b1fa63410571207862faad9daf9b4527",
+            "name": "Pittsburgh Tribune-Review",
+            "url": "https://triblive.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "1ff196f1d939a63c41a9d42034c56b58",
         "title": "Chandra Gets into Driver’s Seat for TCS AI Ride",
         "description": "Tata Sons chairman N Chandrasekaran is stepping up direct involvement with Tata Consultancy Services (TCS) as a priority to steer Indias largest IT company through a vulnerable phase and ring-fence the groups largest cash generator at a time when artificial intelligence (AI) threatens established business models, said people with knowledge of the matter.",
@@ -125,38 +157,6 @@
             "name": "The Telegraph",
             "url": "https://www.telegraph.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "87b53f982a11617a3410b5aa437646b1",
-        "title": "US companies accused of ‘AI washing’ in citing artificial intelligence for job losses",
-        "description": "While AI is having an impact on the workplace, experts suggest tariffs, overhiring during the pandemic and simply maximising profits may be bigger factors",
-        "content": "Over the last year, US corporate leaders have often explained layoffs by saying the positions were no longer needed because artificial intelligence had made their companies more efficient, replacing humans with computers.\nBut some economists and tech... [6312 chars]",
-        "url": "https://www.theguardian.com/us-news/2026/feb/08/ai-washing-job-losses-artificial-intelligence",
-        "image": "https://i.guim.co.uk/img/media/85e2732c6d1cf108caa674d9ddeba2afbea35f6b/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=806b16b088d9a7526c09043715c4df06",
-        "publishedAt": "2026-02-08T16:00:35Z",
-        "lang": "en",
-        "source": {
-            "id": "01558c024928d45cf320f6f75eede787",
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "0d16fc6b4ee53ff4eb55c7beb97acf4e",
-        "title": "Fighting child exploitation",
-        "description": "KUALA LUMPUR: The government is examining proposals to regulate the licensing of artificial intelligence (AI) applications to prevent the technology from being misused for child sexual abuse materials (CSAM).",
-        "content": "KUALA LUMPUR: The government is examining proposals to regulate the licensing of artificial intelligence (AI) applications to prevent the technology from being misused for child sexual abuse materials (CSAM).\nCommunications Minister Datuk Fahmi Fadzi... [1767 chars]",
-        "url": "https://www.thestar.com.my/news/nation/2026/02/09/fighting-child-exploitation",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/02/09/3760953.jpg",
-        "publishedAt": "2026-02-08T16:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
