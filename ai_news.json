@@ -1,5 +1,21 @@
 [
     {
+        "id": "db31879dc5627efe82ec177fd5b4bb0f",
+        "title": "Samsung Stock Rises After Report on Mass Production of AI Chips",
+        "description": "Samsung Electronics Co.’s shares climbed as much as 6.4% after a report that the company will soon begin mass production of HBM4 memory chips, used as part of the buildout for artificial intelligence infrastructure.",
+        "content": "Samsung Electronics Co.’s shares climbed as much as 6.4% after a report that the company will soon begin mass production of HBM4 memory chips, used as part of the buildout for artificial intelligence infrastructure.\nThe South Korean tech giant plans ... [305 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-09/samsung-stock-rises-after-report-on-mass-production-of-ai-chips",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijqueuNYdEdk/v0/1200x800.jpg",
+        "publishedAt": "2026-02-09T00:29:52Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "9e8234b99919bb9c9606d39e9dd97d4a",
         "title": "The Week in Breakingviews: Shooting for the moon",
         "description": "Welcome back! It’s been the busiest news week in recent memory. The biggest M&A deal in history was announced on Monday, but quickly got lost in the noise of the Epstein files, crashing crypto, software stock jitters and artificial intelligence spending. Some thoughts on Elon Musk’s space-bot merger below. Let us know what we missed. Was this newsletter forwarded to you? Sign up here to receive it in your inbox every weekend.",
@@ -141,22 +157,6 @@
             "name": "Moneycontrol",
             "url": "https://www.moneycontrol.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "04412734790a3ff27db808c4470b582f",
-        "title": "AI productivity boom may fail to deliver, warns Andrew Bailey",
-        "description": "Governor voices risk of market ‘complacency’ and artificial intelligence overvaluation",
-        "content": "Andrew Bailey has warned of “complacency” in financial markets after claiming AI’s productivity boom could fail to deliver.\nThe Governor of the Bank of England sounded the alarm over a potential stock market bubble on Sunday, warning that “expectatio... [4348 chars]",
-        "url": "https://www.telegraph.co.uk/business/2026/02/08/ai-productivity-boom-may-fail-deliver-warns-andrew-bailey/",
-        "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/02/08/TELEMMGLPICT000461118828_17705560587250_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
-        "publishedAt": "2026-02-08T16:12:00Z",
-        "lang": "en",
-        "source": {
-            "id": "bff0cd3b8c64dceaada8841bea814f65",
-            "name": "The Telegraph",
-            "url": "https://www.telegraph.co.uk",
-            "country": "gb"
         }
     }
 ]
