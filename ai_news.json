@@ -1,44 +1,76 @@
 [
     {
-        "id": "bd5c31ec95629a349be0c9b7c9ed4e85",
-        "title": "Law firm lays off hundreds of employees as AI takes on more tasks",
-        "description": "Baker McKenzie has begun cutting hundreds of support roles worldwide as artificial intelligence starts handling more routine work inside the global law firm.",
-        "content": "A quiet but important change is underway inside one of the world’s largest law firms. Baker McKenzie has begun laying off a big number of employees across its global business services teams. Bloomberg, citing sources of legal industry publication Rol... [3599 chars]",
-        "url": "https://www.indiatoday.in/technology/news/story/law-firm-lays-off-hundreds-of-employees-as-ai-takes-on-more-tasks-2865932-2026-02-10",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/tech-layoffs-033430863-16x9.jpg?VersionId=t4k9IJ0PFAhMzOa3ahN5exj_txnVQiOa",
-        "publishedAt": "2026-02-10T07:08:27Z",
+        "id": "1853d1ae63c0d66e810518f4f0dfe5c0",
+        "title": "SoftBank earnings set for OpenAI boost, with focus on future funding",
+        "description": "Japan's SoftBank Group is expected to post a healthy profit on its investment in OpenAI when it reports quarterly results on Thursday, as the market focuses on how it will fund its artificial intelligence spending spree.",
+        "content": "With OpenAI striking a string of multi-billion-dollar deals despite continuing to lose money, investors have grown concerned about the company's ability to finance those commitments, souring sentiment around major tech firms with which it has close l... [3162 chars]",
+        "url": "https://www.reuters.com/world/asia-pacific/softbank-earnings-set-openai-boost-with-focus-future-funding-2026-02-10/",
+        "image": "https://www.reuters.com/resizer/v2/AUHT3OLQSFJXJEB54JB6BDPDUE.jpg?auth=bd667d886f77285aa553ad48909443f0d07a229cbd0e54e65938b36757bc70f7&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-02-10T08:44:09Z",
         "lang": "en",
         "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "66264b7c008ee40fec4e1559deac165e",
+        "title": "Karnataka Firm Seeks Rs 90 Lakh In Name Dispute With Anthropic",
+        "description": "A Karnataka-based software firm has moved court against US artificial intelligence company Anthropic, alleging that the latter's entry into India has caused customer confusion due to the shared use of the company name.",
+        "content": "A Karnataka-based software firm has moved court against US artificial intelligence company Anthropic, alleging that the latter's entry into India has caused customer confusion due to the shared use of the company name.\nAnthropic Software Private Ltd,... [1799 chars]",
+        "url": "https://www.ndtv.com/india-news/karnataka-firm-seeks-rs-90-lakh-in-name-dispute-with-anthropic-10980318",
+        "image": "https://c.ndtvimg.com/2025-01/0c4af7co_anthropic-ai_625x300_08_January_25.jpeg",
+        "publishedAt": "2026-02-10T08:16:32Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
             "country": "in"
         }
     },
     {
-        "id": "60eb3ac27abb36694431b2e274aabaf6",
-        "title": "AI-first skilling takes centre stage as 2,000 Bengaluru students earn Samsung certifications",
-        "description": "BENGALURU: Artificial Intelligence-led skilling is gaining momentum in Karnataka, with 2,000 students in Bengaluru earning industry-recognised certifi.",
-        "content": "Representative image\nBENGALURU: Artificial Intelligence-led skilling is gaining momentum in Karnataka, with 2,000 students in Bengaluru earning industry-recognised certifications under Samsung’s Samsung Innovation Campus (SIC) programme. Of the total... [2349 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/bengaluru/ai-first-skilling-takes-centre-stage-as-2000-bengaluru-students-earn-samsung-certifications/articleshow/128146044.cms",
-        "image": "https://static.toiimg.com/thumb/msid-128146157,width-1280,height-720,imgsize-18504,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-02-10T06:57:00Z",
+        "id": "0bff593aa7a741799db4e46ed9f2a572",
+        "title": "Douthat: Headed into an uncharted future with artificial intelligence",
+        "description": "A new world, hard to grasp and even harder to predict.",
+        "content": "On a recent snowbound day, I took up “Conquistadores,” Fernando Cervantes’ history of the European arrival in the New World and found myself meditating on the period in the early 1500s when the Americas had been discovered by Europeans, but nobody in... [4732 chars]",
+        "url": "https://www.pressdemocrat.com/2026/02/10/douthat-headed-into-an-uncharted-future-with-artificial-intelligence/",
+        "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/02/GettyImages-1127204666.jpg?w=1024&h=683",
+        "publishedAt": "2026-02-10T08:02:59Z",
         "lang": "en",
         "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
+            "id": "6f68e6d7cd20b33baacb487a0e911008",
+            "name": "Santa Rosa Press Democrat",
+            "url": "https://www.pressdemocrat.com",
+            "country": "us"
         }
     },
     {
-        "id": "c62003d5c16ac37f3bea5813273980e7",
-        "title": "Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’",
-        "description": "Alibaba Group Holding Ltd. debuted an AI model that can help robots and other devices perform real-world tasks, taking another step toward an eventual goal of leading multiple artificial intelligence spheres.",
-        "content": "Alibaba Group Holding Ltd. debuted an AI model that can help robots and other devices perform real-world tasks, taking another step toward an eventual goal of leading multiple artificial intelligence spheres.\nThe Chinese company’s DAMO Academy introd... [336 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNORQcSC2egQ/v1/1200x801.jpg",
-        "publishedAt": "2026-02-10T06:53:26Z",
+        "id": "7f9d3d2bbf811f1b770f5d1f800538d1",
+        "title": "XA70P: The Best Way to Get 200% Bonus",
+        "description": "Artificial Intelligence Is Ready to Act—Infrastructure Must Catch Up Artificial intelligence has advanced at an extraordinary pace over the past decade. Modern systems can interpret language, identify irregular patterns, forecast outcomes, and assist with complex decision-making across nearly every major industry. Despite this progress, most AI solutions remain observers rather than operators. They analyze situations […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial Intelligence Is Ready to Act—Infrastructure Must Catch Up\nArtificial intelligence has advanced at an extraordinary pace over the past decade. Modern systems can interpret language, identify irregular patterns,... [5796 chars]",
+        "url": "https://techbullion.com/xa70p-the-best-way-to-get-200-bonus/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/02/Screenshot-2026-02-10-125757.png",
+        "publishedAt": "2026-02-10T07:58:43Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "8bf311cb82003d4fece5d7c401552ea5",
+        "title": "Alphabet to Raise Almost $32B Debt in AI Race (GOOGL)",
+        "description": "Alphabet Inc. raised almost $32 billion in debt in less than 24 hours, showing the enormous funding needs of tech giants competing to build out their artificial intelligence capabilities — and the huge appetite from credit markets to fund them.",
+        "content": "Alphabet Inc. raised almost $32 billion in debt in less than 24 hours, showing the enormous funding needs of tech giants competing to build out their artificial intelligence capabilities — and the huge appetite from credit markets to fund them.\nThe G... [453 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-10/alphabet-begins-selling-multi-tranche-debut-swiss-franc-bond-mlgb76p8",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCa5e0azcly8/v0/1200x800.jpg",
+        "publishedAt": "2026-02-10T07:58:26Z",
         "lang": "en",
         "source": {
             "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -48,114 +80,82 @@
         }
     },
     {
-        "id": "a178a745b4d2cd06ec72ec933c889d82",
-        "title": "Artificial intelligence could change future of antimicrobial drug discovery: Here's why",
-        "description": "Read more about Artificial intelligence could change future of antimicrobial drug discovery: Here's why on Devdiscourse",
-        "content": "The global slowdown in antibiotic discovery has become a critical public health concern, as drug-resistant infections continue to rise while pharmaceutical pipelines remain thin. Traditional drug discovery processes are costly, slow, and increasingly... [6695 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3796062-artificial-intelligence-could-change-future-of-antimicrobial-drug-discovery-heres-why",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/06_02_2026_19_04_47_082889.png?width=920&format=jpeg",
-        "publishedAt": "2026-02-10T06:43:34Z",
+        "id": "5ae0d8e6b7d7018d970731a5af4340ba",
+        "title": "India's AI Push Gets a New Business Engine: Makunai Global Launches Maglo, an AI",
+        "description": "New Delhi [India], February 10: As artificial intelligence becomes central to modern business operations, companies are increasingly seeking tools that are not only powerful, but also practical, scalable, and built for real-world challenges. Addressing this growing demand, Makunai Global has introduced Maglo, an AI-powered CRM platform developed in India with global-grade technology, designed to help businesses streamline sales, marketing, and customer engagement from a single intelligent system.",
+        "content": "VMPL\nNew Delhi [India], February 10: As artificial intelligence becomes central to modern business operations, companies are increasingly seeking tools that are not only powerful, but also practical, scalable, and built for real-world challenges. Add... [4225 chars]",
+        "url": "https://www.tribuneindia.com/news/business/indias-ai-push-gets-a-new-business-engine-makunai-global-launches-maglo-an-ai-powered-crm-built-for-modern-businesses/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRjN2NjZmIwLTA2NTUtMTFmMS04MzhhLTdiNTZlMzViOTYwMC5qcGc=",
+        "publishedAt": "2026-02-10T07:55:20Z",
         "lang": "en",
         "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
             "country": "in"
         }
     },
     {
-        "id": "bd4343b670d6eb6dc3f7e96fdf8792ba",
-        "title": "Two years of ‘Premalu’: Why Girish AD’s love story still feels close to home",
-        "description": "Released on February 9, 2024, 'Premalu' did more than just perform well at the box office. It reshaped careers and struck a deep emotional chord with.Premalu movie, Premalu cast, romantic comedy, Malayalam cinema, youth romance, Naslen, Mamitha Baiju, Telugu cinema, AI in filmmaking, LLM applications, conversational AI movies, artificial intelligence storytelling, large language models cinema, Premalu anniversary, relatable romantic films",
-        "content": "Two years have passed since the release of Girish AD’s breakout romantic comedy ‘Premalu’, and the film continues to feel very much alive in popular memory. On the anniversary of its release, members of the cast and crew shared fond recollections of ... [3240 chars]",
-        "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/10/premalu-movie-two-years-naslen-mamitha-baiju-girish-ad.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/entertainment/entertainment-news/images/2026/2/10/premalu.jpg",
-        "publishedAt": "2026-02-10T06:33:34Z",
+        "id": "3909a1f3d414ff0f2848848e5890b473",
+        "title": "Memory chip crunch ripples through markets, with worse to come",
+        "description": "The massive build‑out of artificial intelligence infrastructure has shifted production capacity away from traditional chips used in most consumer electronics.",
+        "content": "The relentless surge in memory chip prices over the past few months has driven a vast divide between winners and losers in the stock market, and investors don’t see any end in sight.\nCompanies from game console maker Nintendo and big PC brands to App... [565 chars]",
+        "url": "https://www.japantimes.co.jp/business/2026/02/10/tech/memory-chip-crunch-markets/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/10/522685.jpg?v=3.1",
+        "publishedAt": "2026-02-10T07:49:09Z",
         "lang": "en",
         "source": {
-            "id": "60c457b35b486691319f105c3a760060",
-            "name": "Malayala Manorama",
-            "url": "https://www.onmanorama.com",
+            "id": "4b9101ef61d45607a32072a7504f5fb0",
+            "name": "The Japan Times ",
+            "url": "https://www.japantimes.co.jp",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "5c94110cb2583d057ae8a44d827880ea",
+        "title": "Google Is Here To Stay For At Least The Next 100 Years, Here Is Why",
+        "description": "Google's parent company, Alphabet, has issued 100-year bonds, indicating its confidence in long-term stability and growth, with bonds maturing in 2126. The company aims to raise $20 billion to invest in infrastructure, part of a broader $185 billion initiative to advance Artificial Intelligence. , Technology & Science, Times Now",
+        "content": "Google stands as one of the biggest tech giants in the industry, with its tentacles spanning over major domains like AI, Search, Cloud, and whatnot. However, something that happened pretty soon suggests that the company is confident that it is not go... [1539 chars]",
+        "url": "https://www.timesnownews.com/technology-science/google-is-here-to-stay-for-at-least-the-next-100-years-here-is-why-article-153590011",
+        "image": "https://images.timesnownews.com/thumb/msid-153590011,width-1280,height-720,resizemode-75/153590011.jpg",
+        "publishedAt": "2026-02-10T07:30:01Z",
+        "lang": "en",
+        "source": {
+            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+            "name": "Times Now",
+            "url": "https://www.timesnownews.com",
             "country": "in"
         }
     },
     {
-        "id": "34278cdcd4721115c22f34402c7149a6",
-        "title": "Cyprus connects to Greek supercomputer as it enters AI race",
-        "description": "A new data centre in Cyprus will connect to the Greek artificial intelligence factory and will use the computing power of the Greek DAIDALOS system",
-        "content": "Cyprus is taking a major step into artificial intelligence development with the launch of its AI Factory, which will connect to Greece's Pharos facility to share advanced computing resources.\nThe country's Ministry of Research, Innovation and Digital... [2708 chars]",
-        "url": "https://www.euronews.com/next/2026/02/10/cyprus-connects-to-greek-supercomputer-as-it-enters-ai-race",
-        "image": "https://images.euronews.com/articles/stories/09/64/40/90/1200x675_cmsv2_1bbacbce-0d38-5da4-a57c-6db0547ab71e-9644090.jpg",
-        "publishedAt": "2026-02-10T06:11:45Z",
+        "id": "1493d84aff716a2c3fd3bfa34821c9bd",
+        "title": "Huawei Cloud Thailand Highlights Secure AI Direction for Enterprises at Cybersec Asia 2026",
+        "description": "BANGKOK, Feb. 10, 2026 /PRNewswire/ -- Huawei Cloud Thailand reaffirmed its vision for secure, purpose-driven AI adoption at Cybersec Asia 2026 Bangkok, responding to growing enterprise demand for scalable and trustworthy artificial intelligence across the region.",
+        "content": "BANGKOK, Feb. 10, 2026 /PRNewswire/ -- Huawei Cloud Thailand reaffirmed its vision for secure, purpose-driven AI adoption at Cybersec Asia 2026 Bangkok, responding to growing enterprise demand for scalable and trustworthy artificial intelligence acro... [4222 chars]",
+        "url": "https://www.manilatimes.net/2026/02/10/tmt-newswire/pr-newswire/huawei-cloud-thailand-highlights-secure-ai-direction-for-enterprises-at-cybersec-asia-2026/2274927",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/02/10/931533.jpg",
+        "publishedAt": "2026-02-10T07:17:14Z",
         "lang": "en",
         "source": {
-            "id": "3d24c816061d69b2e23b8583aed9b447",
-            "name": "Euronews",
-            "url": "https://www.euronews.com",
-            "country": "fr"
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
         }
     },
     {
-        "id": "98dea88fc2a078c4804b948fa9bb56b2",
-        "title": "Safer Internet Day warns of AI dangers for children",
-        "description": "Safer Internet Day is being marked in Ireland and across the world, with a focus this year on the risks and harms posed to young people by artificial intelligence.",
-        "content": "Safer Internet Day is being marked in Ireland and across the world, with a focus this year on the risks and harms posed to young people by artificial intelligence.\nThe theme for the day is 'AI Aware: Safe, Smart and in Control' and aims to encourage ... [2413 chars]",
-        "url": "https://www.rte.ie/news/ireland/2026/0210/1557606-safer-internet-day-ai/",
-        "image": "https://www.rte.ie/images/0022bd2b-1600.jpg",
-        "publishedAt": "2026-02-10T06:01:56Z",
+        "id": "5a496035cca8d49da87ad96541e10899",
+        "title": "Latam-GPT: A Latin American AI to Combat US-Centric Bias",
+        "description": "Developped by the Chilean National Center for Artificial Intelligence (CENIA), Latam-GPT uses millions of data points collected in Latin America to showcase the continent's cultural diversity",
+        "content": "Santiago: Move over ChatGPT -- on Tuesday, Chile will launch Latam-GPT, an open-source artificial intelligence model designed to combat biases built by the primarily US-centric industry.\nDevelopped by the Chilean National Center for Artificial Intell... [3364 chars]",
+        "url": "https://www.deccanchronicle.com/technology/latam-gpt-a-latin-american-ai-to-combat-us-centric-bias-1936221",
+        "image": "https://www.deccanchronicle.com/h-upload/2026/02/10/2008646-screenshot-2026-02-10-at-124004.jpg",
+        "publishedAt": "2026-02-10T07:11:36Z",
         "lang": "en",
         "source": {
-            "id": "4c8b69bf547b577f84acbba5157b439c",
-            "name": "RTE.ie",
-            "url": "https://www.rte.ie",
-            "country": "ie"
-        }
-    },
-    {
-        "id": "648b4267c4ce7b5e1504b29d966e4996",
-        "title": "Latam-GPT: a Latin American AI to combat US-centric bias",
-        "description": "Move over ChatGPT – on Feb 10, Chile will launch Latam-GPT, an open-source artificial intelligence model designed to combat biases built by the primarily US-centric industry.",
-        "content": "SANTIAGO, Chile: Move over ChatGPT – on Feb 10, Chile will launch Latam-GPT, an open-source artificial intelligence model designed to combat biases built by the primarily US-centric industry.\nDevelopped by the Chilean National Center for Artificial I... [3389 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/02/10/latam-gpt-a-latin-american-ai-to-combat-us-centric-bias",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/02/10/3763314.jpg",
-        "publishedAt": "2026-02-10T06:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "8eadc2e4938016861e9cc023d3faf2d8",
-        "title": "Building AI that works starts with getting your data right",
-        "description": "GUEST OPINION:  Artificial intelligence promises transformative outcomes — but only when it’s built on a solid data foundation. For many organisa...",
-        "content": "Unstructured data, spanning everything from images and video to emails and collaboration content, now makes up the bulk of enterprise information. Without smarter approaches to organising and governing this data, AI initiatives risk being undermined ... [5325 chars]",
-        "url": "https://itwire.com/guest-articles/guest-opinion/building-ai-that-works-starts-with-getting-your-data-right.html",
-        "image": "https://itwire.com/media/k2/items/cache/9253836f4f2dfde8208e86e9df05be10_XS.jpg",
-        "publishedAt": "2026-02-10T05:42:14Z",
-        "lang": "en",
-        "source": {
-            "id": "10cbfb3760cfcdeb78c733c527f0e814",
-            "name": "iTWire",
-            "url": "https://itwire.com",
-            "country": "au"
-        }
-    },
-    {
-        "id": "06b815e878d008191b304047e72b103c",
-        "title": "AI-powered apps and bots are barging into medicine; doctors have questions",
-        "description": "Artificial intelligence is shaking up industries from software and law to entertainment and education.",
-        "content": "Artificial intelligence is shaking up industries from software and law to entertainment and education. And as physicians like Dr. Cem Aksoy are learning, it’s posing special challenges in medicine as patients tap AI for advice.\nAksoy, a medical ​resi... [6763 chars]",
-        "url": "https://www.thehindu.com/sci-tech/technology/ai-powered-apps-and-bots-are-barging-into-medicine-doctors-have-questions/article70613678.ece",
-        "image": "https://th-i.thgim.com/public/incoming/ek0rxw/article70613681.ece/alternates/LANDSCAPE_1200/2025-01-29T100602Z_550514962_RC2N3CAAD71G_RTRMADP_3_ISRAEL-PALESTINIANS-JORDAN-INJURED.JPG",
-        "publishedAt": "2026-02-10T05:38:19Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
+            "id": "214d496d625fc657723cf4da80cff8ce",
+            "name": "Deccan Chronicle",
+            "url": "https://www.deccanchronicle.com",
             "country": "in"
         }
     }
