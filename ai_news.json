@@ -1,5 +1,53 @@
 [
     {
+        "id": "185fa4e5a3c5418d549f36187f2416ff",
+        "title": "Student claims U-M wrongly accused her of using AI",
+        "description": "The case highlights a growing problem for universities as they try to police the use of artificial intelligence.",
+        "content": "Suit says woman has anxiety and obsessive compulsive disorder.\nLawsuit wants academic sanctions lifted while the case proceeds.\nA student is suing the University of Michigan, claiming it wrongly accused her of using artificial intelligence to write c... [2599 chars]",
+        "url": "https://www.freep.com/story/news/education/2026/02/11/student-um-wrongly-accused-ai/88622078007/",
+        "image": "https://www.freep.com/gcdn/authoring/authoring-images/2024/11/11/PDTF/76202427007-um-ar-11824025.JPG?crop=2399,1351,x0,y124&width=2399&height=1351&format=pjpg&auto=webp",
+        "publishedAt": "2026-02-11T22:50:00Z",
+        "lang": "en",
+        "source": {
+            "id": "d450a3b06d0af449e32342c47df2baf4",
+            "name": "Detroit Free Press",
+            "url": "https://www.freep.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ff76c6155ae44af098ace10ac1bed633",
+        "title": "AI Impact Summit signals to world, India is serious about AI: Chandrika Krishnamurthy Tandon",
+        "description": "NEW YORK, Feb 11: A global Artificial Intelligence summit being hosted in New Delhi signals to the world that India is serious about AI and will provide opportunities to spur interesting collaborations, an eminent Indian-American business leader has said. Chandrika Krishnamurthy Tandon, a distinguished philanthropist and Grammy-award winning artist, described efforts of Prime Minister Narendra Modi and his government to prioritise AI as “stunningly impressive.” “I applaud this whole notion that we are trying to use AI to benefit all […]",
+        "content": "NEW YORK, Feb 11: A global Artificial Intelligence summit being hosted in New Delhi signals to the world that India is serious about AI and will provide opportunities to spur interesting collaborations, an eminent Indian-American business leader has ... [5348 chars]",
+        "url": "https://www.dailyexcelsior.com/ai-impact-summit-signals-to-world-india-is-serious-about-ai-chandrika-krishnamurthy-tandon/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/Chandrika-Krishnamurthy-Tandon.jpg",
+        "publishedAt": "2026-02-11T22:30:16Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "41854ba67c53dea8e4a9432fc21a209f",
+        "title": "Senators introduce first bipartisan effort to curb utility bill hikes related to data centers",
+        "description": "d together on a number of bipartisan initiatives, are wading into this policy fight weeks after President Donald Trump — who has made the rapid development of artificial intelligence and the data center buildout a core piece of his economic agenda — said his administration was working to ensure consumers would not face utility bill increases in conjunction.“I never want Americans to pay higher Electricity bills because of Data Centers,” Trump posted to Truth Social last month, adding, “We are the ‘HOTTEST’ Country in the World, and Number One in AI.",
+        "content": "Sens. Josh Hawley and Richard Blumenthal on Wednesday introduced the first bipartisan bill in Congress aimed at preventing data center power usage from spiking consumers’ electric bills.\nThe legislation, dubbed the “Guaranteeing Rate Insulation” or “... [2840 chars]",
+        "url": "https://www.nbcnews.com/politics/congress/senators-introduce-first-bipartisan-effort-curb-utility-bill-hikes-rel-rcna258577",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260211-hawley-blumenthal-gk-5f50de.jpg",
+        "publishedAt": "2026-02-11T22:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d892285bbc18f2470204b8d4f56a9073",
         "title": "Bill Ackman backs Mark Zuckerberg’s Meta with $2B investment",
         "description": "Billionaire activist investor Bill Ackman has poured roughly $2 billion into Meta, making a major bet that Mark Zuckerberg’s tech giant will outpace rivals in the artificial intelligence arms race.",
@@ -109,54 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "f3138e1061715285aa2a0e471c9133f0",
-        "title": "Anthropic to shoulder some costs as data center expansions threaten to raise power bills",
-        "description": "Artificial intelligence company Anthropic on Wednesday announced initiatives to limit the impact of data centers on consumer energy prices amid increased investment in power-hungry infrastructure necessary for AI tech.",
-        "content": "Feb 11 (Reuters) - Artificial intelligence company Anthropic on Wednesday announced initiatives to limit the impact of data centers on consumer energy prices amid increased investment in power-hungry infrastructure necessary for AI tech.\nAnthropic wi... [1576 chars]",
-        "url": "https://www.reuters.com/technology/anthropic-shoulder-some-costs-data-center-expansions-threaten-raise-power-bills-2026-02-11/",
-        "image": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-02-11T21:17:18Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "60c32b21fdd255a3fb3e589c54f24a6d",
-        "title": "Cisco raises annual resulsts forecast fueled by AI demand",
-        "description": "Cisco Systems raised its full-year revenue and adjusted profit forecasts on Wednesday, driven by robust enterprise spending on its networking equipment amid the artificial intelligence boom.",
-        "content": "A surge in data center investments, fueled by technology companies' need for AI computing infrastructure, has driven strong demand for Cisco's core networking products, such as switches and routers.\nSign up here.\nEnterprises are expected to ensure th... [533 chars]",
-        "url": "https://www.reuters.com/business/media-telecom/cisco-raises-annual-revenue-forecast-2026-02-11/",
-        "image": "https://www.reuters.com/resizer/v2/H32KIETGHJMGNPRCC2IO5NXKPU.jpg?auth=cd9d4614479d1158876427cec1db91a45d221f2fb8b0064d7995135fb9adf970&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-02-11T21:12:31Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3cd685c22036feb480332a298ceeb576",
-        "title": "Cisco Gives Strong Sales Forecast on AI Demand, Tops Estimates (CSCO)",
-        "description": "Cisco Systems Inc. gave a weaker-than-expected forecast for profitability in the current quarter, overshadowing a generally positive outlook fueled by artificial intelligence gains.",
-        "content": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world\nConnecting decision makers to a dynamic network of infor... [589 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-11/cisco-gives-strong-sales-forecast-in-latest-sign-of-ai-inroads",
-        "image": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-tech.9caebdd1.jpg",
-        "publishedAt": "2026-02-11T21:09:48Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
         }
     }
 ]
