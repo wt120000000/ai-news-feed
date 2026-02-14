@@ -1,5 +1,53 @@
 [
     {
+        "id": "24bbc8235436997916d2a71072c70130",
+        "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
+        "description": "Politicians from President Donald Trump to local lawmakers agree that tech companies should cover the power costs of artificial intelligence data centers",
+        "content": "As outrage spreads over energy-hungry data centers, politicians from President Donald Trump to local lawmakers have found rare bipartisan agreement over insisting that tech companies — and not regular people — must foot the bill for the exorbitant am... [6926 chars]",
+        "url": "https://www.latimes.com/business/story/2026-02-13/as-electricity-costs-rise-everyone-wants-data-centers-to-pick-up-their-tab-but-how",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/517a623/2147483647/strip/true/crop/1913x1004+0+135/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff2%2Fea%2F67d8d84b424a87afadc4867ec977%2Fce557757f66f43109ce3595dc49b787e.jpg",
+        "publishedAt": "2026-02-13T22:54:53Z",
+        "lang": "en",
+        "source": {
+            "id": "492abf277b7277432148b61b21ddc836",
+            "name": "Los Angeles Times",
+            "url": "https://www.latimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "4739f9054d4144b123f7f856eddf61cd",
+        "title": "Tech Up Slightly, as AI Nerves Simmer - Tech Roundup",
+        "description": "Shares of technology companies rose slightly amid ongoing nerves about the disruptive effects of artificial-intelligence advances.\nThe Roundhill Magnificent Seven exchange-traded fund, which track...",
+        "content": "Shares of technology companies rose slightly amid ongoing nerves about the disruptive effects of artificial-intelligence advances.\nThe Roundhill Magnificent Seven exchange-traded fund, which track the mega-cap tech companies that spearheaded the AI r... [1044 chars]",
+        "url": "https://www.marketscreener.com/news/tech-up-slightly-as-ai-nerves-simmer-tech-roundup-ce7e5ddad08ef227",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-02-13T22:45:24Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "5ff16801659e41dad4ca9c975e7fcc8c",
+        "title": "SGPC holds meeting of experts to discuss AI use in spreading misinformation about Sikhism",
+        "description": "AMRITSAR, Feb 13: The Shiromani Gurdwara Parbandhak Committee on Friday held a meeting of a sub-committee comprising technical experts here to discuss the issue of the misinformation about Sikh faith circulated using AI tools. The sub-committee has been constituted by the president of the Shiromani Gurdwara Parbandhak Committee (SGPC). The sub-committee has been formed to curb the growing trend of spreading misinformation about ‘Sikhi’ through Artificial Intelligence (AI) technology and to prevent the circulation of content on social media that […]",
+        "content": "AMRITSAR, Feb 13: The Shiromani Gurdwara Parbandhak Committee on Friday held a meeting of a sub-committee comprising technical experts here to discuss the issue of the misinformation about Sikh faith circulated using AI tools.\nThe sub-committee has b... [1311 chars]",
+        "url": "https://www.dailyexcelsior.com/sgpc-holds-meeting-of-experts-to-discuss-ai-use-in-spreading-misinformation-about-sikhism/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2022/12/sgpc.jpg",
+        "publishedAt": "2026-02-13T22:30:56Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "dc34755e5b68c1308e9a06438924d3a0",
         "title": "Radio’s Relevance in the Time of Artificial Intelligence",
         "description": "Biju Dharmapalan Radio has always carried a certain charm — intimate yet expansive, simple yet powerful. It slips quietly into daily life, asking for little but offering companionship, information and a sense of belonging. Long before screens dominated attention, radio was the trusted voice in the room — connecting distant geographies, diverse languages and countless lives through shared listening. Even in today’s hyper-digital world, radio retains a rare quality: it listens as much as it speaks. Many historical moments are […]",
@@ -109,54 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "052a3dd480c882b14ba42ca35a298b32",
-        "title": "KU seminar emphasises linking research with social issues",
-        "description": "KARACHI   -   Artificial Intelligence (AI) is not merely a technology of the future but has already become an unavoidable reality of the present,",
-        "content": "KARACHI - Artificial Intelligence (AI) is not merely a technology of the future but has already become an unavoidable reality of the present, with its impact being strongly felt across all spheres of life. AI is playing an effective role in fields su... [3104 chars]",
-        "url": "https://www.nation.com.pk/14-Feb-2026/ku-seminar-emphasises-linking-research-social-issues",
-        "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-        "publishedAt": "2026-02-13T19:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-            "name": "The Nation",
-            "url": "https://www.nation.com.pk",
-            "country": "pk"
-        }
-    },
-    {
-        "id": "37137144be8724d8c6d1b3894ef84695",
-        "title": "US Army Leaders Say Soldiers Are Drowning in Data. AI Seen As Solution.",
-        "description": "Personnel won't be able to fully process all the data available on the modern battlefield. That's where artificial intelligence applications come in.",
-        "content": "Army leaders say the modern battlefield is so saturated with sensors and networked weapons generating more data than soldiers can realistically process on their own that artificial intelligence is needed to meaningfully sort it all.\nFor years, the Ar... [3566 chars]",
-        "url": "https://www.businessinsider.com/army-information-overload-battlefield-data-management-ai-tool-2026-2",
-        "image": "https://i.insider.com/698f31f5e1ba468a96ac0202?width=1200&format=jpeg",
-        "publishedAt": "2026-02-13T18:50:25Z",
-        "lang": "en",
-        "source": {
-            "id": "458ddf355ab77631d3eb3dd84a0351b4",
-            "name": "Business Insider",
-            "url": "https://www.businessinsider.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f8cfc60d63a6023719074c72231fb668",
-        "title": "Anthropic hits a $380B valuation as it heightens competition with OpenAI",
-        "description": "Artificial intelligence company Anthropic says it is now valued at $380 billion, cementing its position alongside rival OpenAI and Elon Musk’s SpaceX in a trio of the world’s most valuable startups that investors will be watching closely this year to see if they will become publicly traded on Wall Street.…",
-        "content": "Artificial intelligence company Anthropic says it is now valued at $380 billion, cementing its position alongside rival OpenAI and Elon Musk’s SpaceX in a trio of the world’s most valuable startups that investors will be watching closely this year to... [3122 chars]",
-        "url": "https://japantoday.com/category/tech/anthropic-hits-a-380b-valuation-as-it-heightens-competition-with-openai",
-        "image": "https://media.japantoday.com/img/store/d2/65/4a4b1170085901996c0e02b4afbe5bbbfc40/download/_w1700.jpeg",
-        "publishedAt": "2026-02-13T18:50:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
