@@ -1,5 +1,21 @@
 [
     {
+        "id": "d962322894d935bf340f0cb344b64cc4",
+        "title": "AI was proof of American exceptionalism. Now it’s undermining it.",
+        "description": "Artificial intelligence was supposed to entrench U.S. dominance in the knowledge economy. Instead, investors are questioning whether knowledge itself is losing its value.",
+        "content": "There are many aspects of the recent selloff that are concerning, with anything tangentially threatened by AI getting hit hard. Perhaps the most worrisome, however, is the fact that virtually no knowledge-based company appears to be safe. Software st... [2228 chars]",
+        "url": "https://www.livemint.com/ai/artificial-intelligence/ai-was-proof-of-american-exceptionalism-now-it-s-undermining-it-11771033732464.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/02/14/1600x900/logo/US-ECONOMY-MARKETS-3_1771034174405_1771034197432.jpg",
+        "publishedAt": "2026-02-14T01:57:59Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "30d0b974aa92da1bfee199e8620d9800",
         "title": "Elon Musk’s xAI faces second lawsuit over toxic pollutants from datacenter",
         "description": "NAACP alleges artificial intelligence firm is violating Clean Air Act and polluting Black communities in Mississippi",
@@ -140,22 +156,6 @@
             "id": "35515662ec044d3f94b543cd8802d63f",
             "name": "WDIV ClickOnDetroit",
             "url": "https://www.clickondetroit.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "24bbc8235436997916d2a71072c70130",
-        "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
-        "description": "Politicians from President Donald Trump to local lawmakers agree that tech companies should cover the power costs of artificial intelligence data centers",
-        "content": "As outrage spreads over energy-hungry data centers, politicians from President Donald Trump to local lawmakers have found rare bipartisan agreement over insisting that tech companies — and not regular people — must foot the bill for the exorbitant am... [6926 chars]",
-        "url": "https://www.latimes.com/business/story/2026-02-13/as-electricity-costs-rise-everyone-wants-data-centers-to-pick-up-their-tab-but-how",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/517a623/2147483647/strip/true/crop/1913x1004+0+135/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff2%2Fea%2F67d8d84b424a87afadc4867ec977%2Fce557757f66f43109ce3595dc49b787e.jpg",
-        "publishedAt": "2026-02-13T22:54:53Z",
-        "lang": "en",
-        "source": {
-            "id": "492abf277b7277432148b61b21ddc836",
-            "name": "Los Angeles Times",
-            "url": "https://www.latimes.com",
             "country": "us"
         }
     }
