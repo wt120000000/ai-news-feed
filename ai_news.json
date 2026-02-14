@@ -1,5 +1,21 @@
 [
     {
+        "id": "fcc303b020fafb64f79f9ac4655ef07b",
+        "title": "CBRE, real estate stocks suffer on AI risk to office demand",
+        "description": "Commercial real estate stocks nosedived Thursday as traders worried about risk to demand for office space from higher use of artificial intelligence tools,...",
+        "content": "Commercial real estate stocks nosedived Thursday as traders worried about risk to demand for office space from higher use of artificial intelligence tools, broadening a selloff that began Wednesday in small corner of the market.\nShares of Dallas-base... [1828 chars]",
+        "url": "https://www.dallasnews.com/business/real-estate/2026/02/12/cbre-real-estate-stocks-suffer-on-ai-risk-to-office-demand/",
+        "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/5XRHDVIF35H5VKGH2OA5CRZJVU.jpg?auth=2068336076854b8470dbeb530d25fd799f7614a0b23bcec24fbd90df7693b6ea&quality=80&width=1200&height=630&smart=true",
+        "publishedAt": "2026-02-13T20:13:00Z",
+        "lang": "en",
+        "source": {
+            "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+            "name": "The Dallas Morning News",
+            "url": "https://www.dallasnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "67433faa42a53150e6fe7cc9e1f136f5",
         "title": "AI is moving beyond IT into physical operations, says Anant Maheshwari",
         "description": "Artificial intelligence is now enhancing physical operations, moving beyond IT. This 'physical AI' allows systems to learn and create new rules, impacting factories, buildings, and infrastructure globally. Honeywell sees this as an opportunity to accelerate talent development, addressing global shortages. India is highlighted as a key innovation hub, with its local model influencing multinational strategies worldwide.",
@@ -141,22 +157,6 @@
             "name": "NDTV.com",
             "url": "https://www.ndtv.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "da0502777eefc4d4d89bc5ad643c5609",
-        "title": "US Army Leaders Say Soldiers Are Drowning in Data. AI Seen As Solution.",
-        "description": "Personnel won't be able to fully process all the data available on the modern battlefield. That's where artificial intelligence applications come in.",
-        "content": "Army leaders say the modern battlefield is so saturated with sensors and networked weapons generating more data than soldiers can realistically process on their own that artificial intelligence is needed to meaningfully sort it all.\nFor years, the Ar... [3566 chars]",
-        "url": "https://www.businessinsider.com/tk-browser-based-on-whatever-headline-we-go-with-2026-2",
-        "image": "https://i.insider.com/698f31f5e1ba468a96ac0202?width=1200&format=jpeg",
-        "publishedAt": "2026-02-13T18:12:42Z",
-        "lang": "en",
-        "source": {
-            "id": "458ddf355ab77631d3eb3dd84a0351b4",
-            "name": "Business Insider",
-            "url": "https://www.businessinsider.com",
-            "country": "us"
         }
     }
 ]
