@@ -1,5 +1,37 @@
 [
     {
+        "id": "ec5375d85e43c62bbf206fe3be0e9a49",
+        "title": "How global cybercrime syndicates are stealing hearts - and billions",
+        "description": "Scammers are using artificial intelligence to create more realistic online identities to lure in lonely hearts.",
+        "content": "“These scams rely on trust, affection and urgency, which are all amplified around holidays focused on relationships,” said Cliff Steinhauer, director of information security and engagement at the National Cybersecurity Alliance.\nWhile the Federal Tra... [3060 chars]",
+        "url": "https://www.politico.com/news/2026/02/14/how-global-cybercrime-syndicates-are-stealing-hearts-and-billions-00780481",
+        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F14%2F6a%2F7e3a39f042fea869d2a6a5e685a6%2Fmain-nickel-romancescams.jpg",
+        "publishedAt": "2026-02-14T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c477009a98f37b19212d8ae20ce8c018",
+            "name": "POLITICO",
+            "url": "https://www.politico.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "86ab0fa26154de40ab756759fe4c06cb",
+        "title": "Lorong AI: Singapore's blueprint for an AI park",
+        "description": "Explore Lorong AI, Singapore's innovative hub for artificial intelligence, and its expansion into a new AI park at one-north. Read more at straitstimes.com.",
+        "content": "SINGAPORE – In the past year, Ms Mabel Loh has attended more than 30 classes on artificial intelligence (AI), driven by the intention of building an AI companion app that can help women achieve their wellness goals.\nDespite lacking a technical backgr... [6471 chars]",
+        "url": "https://www.straitstimes.com/tech/lorong-ai-the-blueprint-for-singapores-future-ai-park-in-one-north",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/bd0b212683682be5e24296a4fc7204414ae9f4481f29b6afffe7044293d9b712",
+        "publishedAt": "2026-02-14T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+            "name": "The Straits Times",
+            "url": "https://www.straitstimes.com",
+            "country": "sg"
+        }
+    },
+    {
         "id": "335ad3f8e80e72084090af40203643cf",
         "title": "Airbnb is testing out AI search with a 'small percentage' of users",
         "description": "Airbnb is planning to incorporate artificial intelligence across its experience, whether it's for guests or hosts.",
@@ -125,38 +157,6 @@
             "name": "BayToday",
             "url": "https://www.baytoday.ca",
             "country": "ca"
-        }
-    },
-    {
-        "id": "5f8735a825965b4902adfbdf018155ef",
-        "title": "Hollywood VFX artists turn to AI schools to survive layoffs and tech shifts in industry",
-        "description": "Many in Hollywood remain wary of artificial intelligence, with critics pointing to last year’s debut of the AI-generated actress Tilly Norwood -- condemned by the SAG-AFTRA actors union as replacing human performers with 'synthetics'",
-        "content": "Laid-off and sidelined by last year's production slowdown, Hollywood visual-effects veteran Michael Eng discovered a gap in his resume while perusing job listings in Los Angeles -- experience in machine learning.\nEng turned to Curious Refuge, an onli... [5897 chars]",
-        "url": "https://www.telegraphindia.com/world/hollywood-vfx-artists-turn-to-ai-schools-to-survive-layoffs-and-tech-shifts-in-industry/cid/2147376",
-        "image": "https://assets.telegraphindia.com/telegraph/2025/Jan/1738228127_2005-hollywood-films-lead.jpg",
-        "publishedAt": "2026-02-14T18:13:02Z",
-        "lang": "en",
-        "source": {
-            "id": "93a4f054e09bde095cda5265e575a952",
-            "name": "Telegraph India",
-            "url": "https://www.telegraphindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "aeea16c39131293e7d728ec1dfeaba46",
-        "title": "How BharatGen Is Building India's Sovereign AI Future",
-        "description": "As artificial intelligence redraws the global balance of power, India has quietly but decisively entered the foundational layer of this transformation.",
-        "content": "New Delhi:\nAs artificial intelligence redraws the global balance of power, India has quietly but decisively entered the foundational layer of this transformation.\nAt the heart of this moment stands BharatGen, India's sovereign generative AI programme... [7987 chars]",
-        "url": "https://www.ndtv.com/india-news/how-bharatgen-is-building-indias-sovereign-ai-future-11004972",
-        "image": "https://c.ndtvimg.com/2026-02/6t2mtjpg_bharat-gen-_625x300_14_February_26.jpeg",
-        "publishedAt": "2026-02-14T18:09:24Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
-            "country": "in"
         }
     }
 ]
