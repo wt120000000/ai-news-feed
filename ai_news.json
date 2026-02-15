@@ -1,5 +1,21 @@
 [
     {
+        "id": "d8e9b71b50b11d6ff0673c19c7da86ad",
+        "title": "Healey deploys artificial intelligence tool ChatGPT across Executive Branch",
+        "description": "Massachusetts Gov. Maura Healey announced the launch of artificial intelligence tool ChapGPT across the state’s 40,000 person executive branch, making Massachusetts the first in the country to make such a move.",
+        "content": "Gov. Maura Healey announced the launch of artificial intelligence tool ChapGPT across the state’s 40,000 person executive branch, making Massachusetts the first in the country to make such a move.\nThe executive branch is partnering with OpenAI to lau... [1989 chars]",
+        "url": "https://www.bostonherald.com/2026/02/14/healey-deploys-artificial-intelligence-tool-chatgpt-across-executive-branch/",
+        "image": "https://www.bostonherald.com/wp-content/uploads/2026/02/ChatGPT-Ads_24182.jpg?w=1024&h=682",
+        "publishedAt": "2026-02-15T01:19:55Z",
+        "lang": "en",
+        "source": {
+            "id": "bc49d994b41ac710f5c89f6e6adeece4",
+            "name": "The Boston Herald",
+            "url": "https://www.bostonherald.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b5d94ac43830990755785c883d085b16",
         "title": "Embedded LLM Launches the EU AI Grid at Munich Cyber Security Conference (MCSC) to Meet EU Demand for Sovereign AI Capability",
         "description": "MUNICH, Feb. 14, 2026 (GLOBE NEWSWIRE) -- Embedded LLM, a leading LLM inference technology provider, today officially launched the EU AI Grid at the Munich Cyber Security Conference. The EU AI Grid treats artificial intelligence like electricity --- a utility that is metered, governed, and delivered through local infrastructure so that jobs and economic value stay in Europe.",
@@ -141,22 +157,6 @@
             "name": "CP24 Toronto",
             "url": "https://www.cp24.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "427f9c157cb8c14535f67f248ea4d4e3",
-        "title": "As electricity costs rise, everyone wants data centers to pick up their tab. But how?",
-        "description": "As outrage spreads over energy-hungry data centers, politicians from President Donald Trump to local lawmakers have found rare bipartisan agreement over insisting that tech companies — and not regular people — must foot the bill for the exorbitant amount of electricity required for artificial intelligence. But that might be where…",
-        "content": "As outrage spreads over energy-hungry data centers, politicians from President Donald Trump to local lawmakers have found rare bipartisan agreement over insisting that tech companies — and not regular people — must foot the bill for the exorbitant am... [6961 chars]",
-        "url": "https://japantoday.com/category/tech/as-electricity-costs-rise-everyone-wants-data-centers-to-pick-up-their-tab.-but-how",
-        "image": "https://media.japantoday.com/img/store/32/26/7edb2e1abeacf2ec315a5e22fbf3ece5e63d/download/_w1700.jpeg",
-        "publishedAt": "2026-02-14T20:11:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
