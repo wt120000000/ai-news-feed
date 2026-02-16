@@ -1,5 +1,37 @@
 [
     {
+        "id": "f08695778b3ddcdacbc1ece2c97a1ff6",
+        "title": "Telstra jobs bloodbath as hundreds face the axe while work is shipped to India and AI takes over",
+        "description": "Telstra is preparing to cut hundreds of jobs as it shifts more work to artificial intelligence systems and offshore contractors in India.",
+        "content": "Telstra is preparing to cut hundreds of jobs as it shifts more work to artificial intelligence systems and offshore contractors in India.\nInternal emails show up to 650 roles could be axed, with some roles set to be outsourced to a technology partner... [1508 chars]",
+        "url": "https://www.dailymail.co.uk/news/article-15562707/Telstra-jobs-bloodbath-hundreds-face-axe-work-shipped-India-AI-takes-over.html",
+        "image": "https://i.dailymail.co.uk/1s/2026/02/15/22/106409981-0-image-a-11_1771193303790.jpg",
+        "publishedAt": "2026-02-15T23:12:24Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "174edb89866a7211851b5246371f19ae",
+        "title": "Top Putin aide to lead Russian delegation for AI Impact Summit in New Delhi",
+        "description": "MOSCOW, Feb 15 : Russian President Vladimir Putin’s senior aide Maxim Oreshkin will lead a large delegation for the AI Impact Summit being held in New Delhi from Monday. India is set to host the AI Impact Summit 2026, a high-profile gathering of global leaders and industry heavyweights in Artificial Intelligence from February 16-20 at New Delhi’s ‘Bharat Mandapam,’ bringing together policymakers, industry leaders and technology innovators. Oreshkin, who is deputy chief of the Kremlin staff and economic aide to […]",
+        "content": "MOSCOW, Feb 15 : Russian President Vladimir Putin’s senior aide Maxim Oreshkin will lead a large delegation for the AI Impact Summit being held in New Delhi from Monday.\nIndia is set to host the AI Impact Summit 2026, a high-profile gathering of glob... [1961 chars]",
+        "url": "https://www.dailyexcelsior.com/top-putin-aide-to-lead-russian-delegation-for-ai-impact-summit-in-new-delhi/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/ai-4.jpg",
+        "publishedAt": "2026-02-15T22:58:56Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "a34442ef2632e7d7db0bc8b809f44c3b",
         "title": "PM Modi invites world to host data in India",
         "description": "NEW DELHI, Feb 15: With the Budget providing incentives to turbocharge investments in data centres, Prime Minister Narendra Modi on Sunday pitched India as a global hub for digital infrastructure and artificial intelligence, saying the country is ready to host the world’s data and lead the next wave of the technology revolution. “The tax incentives announced in the Budget are designed to accelerate investment in this space, lower the cost of building advanced facilities and position India as a globally-competitive […]",
@@ -125,38 +157,6 @@
             "name": "CP24 Toronto",
             "url": "https://www.cp24.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "8674ffcabfedac15bf6889b819f9b25d",
-        "title": "Hollywood groups condemn ByteDance’s AI video generator, claiming copyright infringement",
-        "description": "A new artificial intelligence video generator from Beijing-based ByteDance, the creator of TikTok, is drawing the ire of Hollywood organizations that say…",
-        "content": "A new artificial intelligence video generator from Beijing-based ByteDance, the creator of TikTok, is drawing the ire of Hollywood organizations that say Seedance 2.0 “blatantly” violates copyright and uses the likeness of actors and others without p... [1942 chars]",
-        "url": "https://wtop.com/national/2026/02/hollywood-groups-condemn-bytedances-ai-video-generator-claiming-copyright-infringement/",
-        "image": "https://wtop.com/wp-content/uploads/2026/02/Seedance_Hollywood_69879-scaled.jpg",
-        "publishedAt": "2026-02-15T20:11:49Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "691481cd9da25b61ede25638c74891b0",
-        "title": "‘Robocops’ could be patrolling streets in three years",
-        "description": "Scenes from the dystopian sci-fi film may soon be a reality, experts say, as Britain follows China’s lead in artificial intelligence-powered policing",
-        "content": "Experts claim robotic police officers are well on their way to becoming reality as police forces around the world grapple with a shortfall of officers.\nIvan Sun, a professor in the department of sociology and criminal justice at the University of Del... [3658 chars]",
-        "url": "https://www.thetimes.com/uk/science/article/robocops-could-be-patrolling-streets-in-three-years-lpwt35dmx",
-        "image": "https://www.thetimes.com/imageserver/image/%2F8fd95e32-459f-40b9-8306-430c411b4e35.jpg?crop=2791%2C1570%2C0%2C260&resize=1200",
-        "publishedAt": "2026-02-15T19:55:54Z",
-        "lang": "en",
-        "source": {
-            "id": "b419a989918b3665a34559f5047546b6",
-            "name": "The Sunday Times",
-            "url": "https://www.thetimes.com",
-            "country": "gb"
         }
     }
 ]
