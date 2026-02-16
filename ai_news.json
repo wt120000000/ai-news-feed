@@ -1,5 +1,37 @@
 [
     {
+        "id": "5fe35f9b1f0f8f14269bf886c3ac3863",
+        "title": "Bill Gates to visit Andhra today, hold talks with Chandrababu Naidu on health, AI",
+        "description": "Bill Gates, founder-chairman of the Gates Foundation, will visit Andhra Pradesh on Monday to discuss expanding collaboration with the state government in health, education, agriculture and artificial intelligence.",
+        "content": "Bill Gates, founder-chairman of the Gates Foundation, will visit Andhra Pradesh on Monday to explore deeper collaboration with the state government across health, education, agriculture and artificial intelligence.\nAccording to official sources, Gate... [1399 chars]",
+        "url": "https://www.indiatoday.in/india/story/bill-gates-to-visit-andhra-today-hold-talks-with-chandrababu-naidu-on-health-ai-2868760-2026-02-16",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/bill-gates-152346200-16x9_0.jpg?VersionId=CYkdQfDVHpcREY8SdtSJ0tbvt0Ml36gs",
+        "publishedAt": "2026-02-15T21:37:17Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "25099ed9739c9f660650f98eac662cc8",
+        "title": "AI Impact Summit & Indian",
+        "description": "At this week's New Delhi summit, India will push for expanding the Global Partnership on Artificial Intelligence (GPAI) and attempt to make it India's AI lobby.",
+        "content": "AT the global summit on artificial intelligence (AI) held in Paris last year, in which India participated at the Head of Government level, Prime Minister Narendra Modi posed a riddle which suggested the innocent curiosity with which billions of peopl... [5876 chars]",
+        "url": "https://www.tribuneindia.com/news/comment/ai-impact-summit-indian-origin-it-ceos/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNiNDA4MGMwLTBhYjAtMTFmMS1hMGQ5LTc1OTJkMGM1MWUxYy5qcGc=",
+        "publishedAt": "2026-02-15T20:56:21Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "2d43d2440c7a7ef733ee6e83bede6552",
         "title": "He spent decades perfecting his voice, but now he says Google stole it",
         "description": "David Greene had never heard of NotebookLM, Google’s buzzy artificial intelligence tool, until a former colleague emailed him to ask if he’d lent it his voice.",
@@ -125,38 +157,6 @@
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "5b931252bf29b1917be5af70a76ab993",
-        "title": "AI video generator from creator of TikTok sparks a Hollywood backlash",
-        "description": "A new artificial intelligence video generator from Beijing-based ByteDance, the creator of TikTok, is drawing the ire of Hollywood organizations.",
-        "content": "A new artificial intelligence video generator from Beijing-based ByteDance, the creator of TikTok, is drawing the ire of Hollywood organizations that say Seedance 2.0 “blatantly” violates copyright and uses the likeness of actors and others without p... [1579 chars]",
-        "url": "https://apnews.com/article/ai-seedance-bytedance-hollywood-copyright-7e445388401d172c6bf51d0d42aa4f24",
-        "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-        "publishedAt": "2026-02-15T19:22:13Z",
-        "lang": "en",
-        "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "781a540ea56b22eb0895c1b97f79ab3b",
-        "title": "Hollywood groups condemn ByteDance's AI video generator, claiming copyright infringement",
-        "description": "A new artificial intelligence video generator from Beijing-based ByteDance, the creator of TikTok, is drawing the ire of Hollywood organizations.",
-        "content": "A new artificial intelligence video generator from Beijing-based ByteDance, the creator of TikTok, is drawing the ire of Hollywood organizations that say Seedance 2.0 “blatantly” violates copyright and uses the likeness of actors and others without p... [1579 chars]",
-        "url": "https://www.clickondetroit.com/business/2026/02/15/hollywood-groups-condemn-bytedances-ai-video-generator-claiming-copyright-infringement/",
-        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5ACQ32E5WZBGHCFRHPJB36IZN4.jpg?_a=DATAg1fkZAA0",
-        "publishedAt": "2026-02-15T19:22:12Z",
-        "lang": "en",
-        "source": {
-            "id": "35515662ec044d3f94b543cd8802d63f",
-            "name": "WDIV ClickOnDetroit",
-            "url": "https://www.clickondetroit.com",
-            "country": "us"
         }
     }
 ]
