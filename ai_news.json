@@ -1,92 +1,108 @@
 [
     {
-        "id": "c49bc1666ce05cf25bce24160a9187e3",
-        "title": "Anthropic, Infosys to Build Custom AI Agents for Firms",
-        "description": "Anthropic PBC has partnered Indian technology firm Infosys Ltd. to develop advanced artificial intelligence solutions for companies across sectors including telecommunications and financial services.",
-        "content": "Anthropic PBC has partnered Indian technology firm Infosys Ltd. to develop advanced artificial intelligence solutions for companies across sectors including telecommunications and financial services.\nThe partners will develop custom AI agents tailore... [393 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-17/anthropic-infosys-team-up-to-build-custom-ai-agents-for-firms",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKxpZdLIiFhs/v0/1200x800.jpg",
-        "publishedAt": "2026-02-17T06:51:19Z",
+        "id": "ab2fab9ef25c77ea94466920d12f21e8",
+        "title": "AI regulations enough for innovations to thrive: MoS Jitin Prasada",
+        "description": "The regulations for artificial intelligence are not to over regulate but enough for innovations to thrive in the country, Union Minister Jitin Prasada said on Tuesday.",
+        "content": "The regulations for artificial intelligence are not to over regulate but enough for innovations to thrive in the country, Union Minister Jitin Prasada said on Tuesday.\nSpeaking at the Amazon Web Services (AWS) New Delhi Symposium 2026, the minister e... [1214 chars]",
+        "url": "https://www.business-standard.com/technology/tech-news/ai-regulations-enough-for-innovations-to-thrive-mos-jitin-prasada-126021700502_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/09/thumb/featurecrop/1200X630/1770625217-3287.jpg",
+        "publishedAt": "2026-02-17T08:39:20Z",
         "lang": "en",
         "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
+            "id": "44d394a4e765f82b49b452e4302a72b0",
+            "name": "Business Standard",
+            "url": "https://www.business-standard.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "c4146f9a5fbe5c6fee67e5e7f5e6f573",
+        "title": "AI can bridge information gap in agriculture: MeitY Secretary S Krishnan",
+        "description": "MeitY Secretary S Krishnan highlights the need for artificial intelligence in agriculture. He states that AI can bridge the information gap for farmers, who primarily seek timely advice. The secretary also points out AI's potential to improve access to credit and services for rural communities.",
+        "content": "Synopsis\nMeitY Secretary S Krishnan highlights the need for artificial intelligence in agriculture. He states that AI can bridge the information gap for farmers, who primarily seek timely advice. The secretary also points out AI's potential to improv... [4155 chars]",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-can-bridge-information-gap-in-agriculture-meity-secretary-s-krishnan/articleshow/128456027.cms",
+        "image": "https://img.etimg.com/thumb/msid-128456097,width-1200,height-630,imgsize-40298,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-02-17T08:23:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b9ce8c35bd06745af91f581edd396cf0",
+        "title": "Pentagon and Anthropic clash over use of Claude AI in military operations",
+        "description": "The US Defence Department is locked in a growing dispute with AI developer Anthropic about how the Pentagon can use the company’s Claude artificial intelligence models, raising questions about...",
+        "content": "The US Defence Department is locked in a growing dispute with AI developer Anthropic about how the Pentagon can use the company’s Claude artificial intelligence models, raising questions about the future of defence AI partnerships and safety standard... [1632 chars]",
+        "url": "https://www.thenews.com.pk/latest/1392610-pentagon-and-anthropic-clash-over-use-of-claude-ai-in-military-operations",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-02-17/1392610_024558_updates.jpg",
+        "publishedAt": "2026-02-17T08:19:11Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "5cd3d0d555fdbd4db5aae464cf9252e8",
+        "title": "AI in Agriculture: Bridging the Information Gap for Farmers",
+        "description": "S Krishnan, MeitY Secretary, advocates using artificial intelligence to bridge information gaps in agriculture. He emphasizes the need for timely advice and explains how AI can improve extension services and agricultural credit access. Krishnan also highlights AI's potential role in gender issues and real-world sector improvements.",
+        "content": "In a call to modernize India's agriculture sector, MeitY Secretary S Krishnan has emphasized the role of artificial intelligence in bridging information disparities that continue to affect farmers. Speaking at the AI Impact Summit, Krishnan highlight... [802 chars]",
+        "url": "https://www.devdiscourse.com/article/headlines/3807669-ai-in-agriculture-bridging-the-information-gap-for-farmers",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/18_09_2025_19_02_06_9731491.png?width=920&format=jpeg",
+        "publishedAt": "2026-02-17T08:10:19Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "03b5347da7ad059af3f2ecc47cd93f38",
+        "title": "India's Adani to invest $100 billion in AI data centers by 2035",
+        "description": "The blockbuster investment comes as India pushes to gain a stronger foothold in the global artificial intelligence race.",
+        "content": "India's Adani on Tuesday announced plans to invest $100 billion to develop renewable energy-powered AI-ready data centers by 2035, seeking to establish the world's largest integrated data center platform.\nThe blockbuster investment, which comes as In... [743 chars]",
+        "url": "https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108066228-17321932352024-11-21t073842z_1613276834_rc2h9ba67dx0_rtrmadp_0_adani-group-usa.jpeg?v=1732193271&w=1920&h=1080",
+        "publishedAt": "2026-02-17T08:09:23Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
             "country": "us"
         }
     },
     {
-        "id": "6ebccc15e5947f251c6c78702e52d3d5",
-        "title": "France's Macron eyes fighter jet deal in India",
-        "description": "MUMBAI: French President Emmanuel Macron will meet Indian Prime Minister Narendra Modi in Mumbai on Tuesday (Feb 17), as he begins a three-day visit to India focused on artificial intelligence cooperation and a potential multibillion dollar fighter jet deal.",
-        "content": "MUMBAI: French President Emmanuel Macron will meet Indian Prime Minister Narendra Modi in Mumbai on Tuesday (Feb 17), as he begins a three-day visit to India focused on artificial intelligence cooperation and a potential multibillion dollar fighter j... [3760 chars]",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/02/17/france039s-macron-eyes-fighter-jet-deal-in-india",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/02/17/3774362.jpg",
-        "publishedAt": "2026-02-17T06:45:00Z",
+        "id": "f2191e9faad6385c2de72ec160e2c20e",
+        "title": "This doctor is training AI to do her job. And it’s a booming business",
+        "description": "By Hadas Gold, CNN (CNN) — Dr. Alice Chiao used to teach emergency medicine to students at Stanford University’s medical school. Now, she’s teaching artificial intelligence-powered chatbots to think, diagnose and prescribe like her. Chiao is part of a booming new economy of professional experts in their fields who are training AI through a process",
+        "content": "By Hadas Gold, CNN\n(CNN) — Dr. Alice Chiao used to teach emergency medicine to students at Stanford University’s medical school. Now, she’s teaching artificial intelligence-powered chatbots to think, diagnose and prescribe like her.\nChiao is part of ... [7710 chars]",
+        "url": "https://abc17news.com/money/cnn-business-consumer/2026/02/17/this-doctor-is-training-ai-to-do-her-job-and-its-a-booming-business/",
+        "image": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
+        "publishedAt": "2026-02-17T08:00:46Z",
         "lang": "en",
         "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
+            "id": "d5a02d07558c5563d72576efc406e608",
+            "name": "ABC17News.com",
+            "url": "https://abc17news.com",
+            "country": "us"
         }
     },
     {
-        "id": "e835cc990e15314ea0445827f4f65401",
-        "title": "Netcore Pioneers Agentic Marketing, Redefining Customer Engagement",
-        "description": "MUMBAI, India, Feb. 17, 2026 /PRNewswire/ -- Autonomous agent-based, artificial intelligence systems are beginning to replace traditional campaign-based marketing, marking one of the most consequential shifts the martech industry has seen in decades. As consumer behaviour becomes more volatile and...",
-        "content": "MUMBAI, India, Feb. 17, 2026 /PRNewswire/ -- Autonomous agent-based, artificial intelligence systems are beginning to replace traditional campaign-based marketing, marking one of the most consequential shifts the martech industry has seen in decades.... [7791 chars]",
-        "url": "https://www.tribuneindia.com/news/business/netcore-pioneers-agentic-marketing-redefining-customer-engagement/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA1YjUyZWIwLTBiY2MtMTFmMS1hMGQ5LTc1OTJkMGM1MWUxYy5qcGc=",
-        "publishedAt": "2026-02-17T06:39:34Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "18a2b994a7058135f344ac8022b04d28",
-        "title": "Infosys stock rises over 3 pc after strategic tie-up with Anthropic",
-        "description": "NEW DELHI, Feb 17:  Shares of IT major Infosys rose more than 3 per cent on Tuesday after the company said it has entered into a strategic collaboration with Anthropic to develop and deliver advanced enterprise artificial intelligence (AI) solutions. On the BSE, the scrip of company increased 3.27 per cent to Rs 1,410.95 per piece. BSE-focussed IT index gained 1.45 per cent, with Infosys emerging as the top performer. Markets are trading in the positive territory, with the 30-share […]",
-        "content": "By\nDaily Excelsior\n-\nNEW DELHI, Feb 17: Shares of IT major Infosys rose more than 3 per cent on Tuesday after the company said it has entered into a strategic collaboration with Anthropic to develop and deliver advanced enterprise artificial intellig... [2051 chars]",
-        "url": "https://www.dailyexcelsior.com/infosys-stock-rises-over-3-pc-after-strategic-tie-up-with-anthropic/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/Insf.jpg",
-        "publishedAt": "2026-02-17T06:36:27Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "bb9b65dac375aa2993a3769c97440866",
-        "title": "American billionaire Mark Cuban to those who say AI will wipe away software jobs: Who will ... at $33 million technology companies in the US",
-        "description": "Tech News News: American billionaire and former Shark Tank investor Mark Cuban has now challenged the narrative that artificial intelligence will wipe out software jo.",
-        "content": "Mark Cuban.\nAmerican billionaire and former Shark Tank investor Mark Cuban has now challenged the narrative that artificial intelligence will wipe out software jobs. As reported by Business Insider, in an interview with tech podcast TBPN, Cuban argue... [2777 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/american-billionaire-mark-cuban-to-those-who-say-ai-will-wipe-away-software-jobs-who-will-at-33-million-technology-companies-in-the-us/articleshow/128448025.cms",
-        "image": "https://static.toiimg.com/thumb/msid-128448008,width-1280,height-720,imgsize-132326,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-02-17T06:34:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "26390ad995d86b87987dc8f5b27cb877",
-        "title": "AI can help optimize clean energy save lives and livelihoods: Ceew CEO Anurabha Ghosh",
-        "description": "Artificial Intelligence is emerging as a crucial tool in combating climate change, offering solutions for renewable energy, sustainable agriculture, and disaster resilience. Experts emphasize the need for intentional design to ensure AI's resource footprint aligns with environmental goals. India is leading the Global South in leveraging AI for climate action, demonstrating its potential for vulnerable communities.",
-        "content": "Synopsis\nArtificial Intelligence is emerging as a crucial tool in combating climate change, offering solutions for renewable energy, sustainable agriculture, and disaster resilience. Experts emphasize the need for intentional design to ensure AI's re... [3161 chars]",
-        "url": "https://economictimes.indiatimes.com/industry/renewables/ai-can-help-optimize-clean-energy-save-lives-and-livelihoods-ceew-ceo-anurabha-ghosh/articleshow/128452384.cms",
-        "image": "https://img.etimg.com/thumb/msid-128452349,width-1200,height-630,imgsize-42616,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-02-17T06:31:00Z",
+        "id": "51d80a90b6a8dfcae00485d2818eb35a",
+        "title": "AI will power India's journey to developed nation by 2047: Dharmendra Pradhan",
+        "description": "Union Education Minister Dharmendra Pradhan urged the youth of India to seize the opportunities presented by Artificial Intelligence. He emphasized that AI is not just a technological trend, but a key path to achieve Indias vision of progress by 2047.",
+        "content": "Synopsis\nUnion Education Minister Dharmendra Pradhan urged the youth of India to seize the opportunities presented by Artificial Intelligence. He emphasized that AI is not just a technological trend, but a key path to achieve India’s vision of progre... [2360 chars]",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-to-transform-india-into-a-developed-nation-by-2047-says-union-minister-pradhan/articleshow/128454825.cms",
+        "image": "https://img.etimg.com/thumb/msid-128455050,width-1200,height-630,imgsize-361342,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-02-17T07:54:00Z",
         "lang": "en",
         "source": {
             "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -96,13 +112,13 @@
         }
     },
     {
-        "id": "01211069e289848ad4a150e6399cb55e",
-        "title": "AI can help optimize clean energy save lives and livelihoods: Ceew CEO Anurabha Ghosh",
-        "description": "Artificial Intelligence is emerging as a crucial tool in combating climate change, offering solutions for renewable energy, sustainable agriculture, and disaster resilience. Experts emphasize the need for intentional design to ensure AI's resource footprint aligns with environmental goals. India is leading the Global South in leveraging AI for climate action, demonstrating its potential for vulnerable communities.",
-        "content": "Synopsis\nArtificial Intelligence is emerging as a crucial tool in combating climate change, offering solutions for renewable energy, sustainable agriculture, and disaster resilience. Experts emphasize the need for intentional design to ensure AI's re... [3145 chars]",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-can-help-optimize-clean-energy-save-lives-and-livelihoods-ceew-ceo-anurabha-ghosh/articleshow/128452330.cms",
-        "image": "https://img.etimg.com/thumb/msid-128452349,width-1200,height-630,imgsize-42616,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-02-17T06:31:00Z",
+        "id": "c0fc07d90f482870d0b0303aeaf288a6",
+        "title": "AI disruption in IT: Nilesh Shah says it’s too early to panic; also India's earnings are finally turning",
+        "description": "Nilesh Shah of Kotak AMC believes artificial intelligence will transform India's IT sector gradually. He advises retail investors to let experts manage their investments during this period. Shah notes that India's market is currently priced fairly. He anticipates a return to double-digit earnings growth, supported by positive economic indicators. This outlook suggests a period of measured optimism for investors.",
+        "content": "Synopsis\nNilesh Shah of Kotak AMC believes artificial intelligence will transform India's IT sector gradually. He advises retail investors to let experts manage their investments during this period. Shah notes that India's market is currently priced ... [9870 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/ai-disruption-in-it-nilesh-shah-says-its-too-early-to-panic-also-indias-earnings-are-finally-turning/articleshow/128454772.cms",
+        "image": "https://img.etimg.com/thumb/msid-128454821,width-1200,height-630,imgsize-40778,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-02-17T07:50:00Z",
         "lang": "en",
         "source": {
             "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -112,50 +128,34 @@
         }
     },
     {
-        "id": "7008456d8977b908b196af6f060c2c5e",
-        "title": "The end of history as a guide: Artificial intelligence is a sharp break, not just another tech revolution",
-        "description": "The past is fast losing its reliability as a guide to the future in an age of exponentially evolving AI. As error rates drop and autonomous systems rewrite their own code, familiar economic maps begin to blur. Humans evolved to trust their memory, but prepare for an inflection point like none other.",
-        "content": "Let’s break that rule to make a narrower, uglier point. Historical analysis, treated as our primary compass, has become misleading. The temptation to look backward is a biological instinct; when the forest creates a new sound, the amygdala scans memo... [4715 chars]",
-        "url": "https://www.livemint.com/opinion/online-views/end-of-history-guide-artificial-intelligence-ai-tech-revolution-technology-agi-error-memory-11771262602166.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/02/16/1600x900/logo/Artificial_Intelligence_1771144815010_1771144821000_1771263675073.png",
-        "publishedAt": "2026-02-17T06:30:28Z",
+        "id": "25c9a378ef1755cb314227f35454f342",
+        "title": "IT services may benefit from AI over time despite near",
+        "description": "Neeraj Seth, Founder & CIO of 3R Investment Management says artificial-intelligence (AI) capex concerns are weighing on tech stocks, expects near-term dollar strength and sees long-term opportunity in adaptable Indian IT firms.",
+        "content": "HomeMarket NewsIT services may benefit from AI over time despite near-term pressure: Neeraj Seth\nIT services may benefit from AI over time despite near-term pressure: Neeraj Seth\nNeeraj Seth, Founder & CIO of 3R Investment Management says artificial-... [2095 chars]",
+        "url": "https://www.cnbctv18.com/market/it-services-may-benefit-from-ai-over-time-despite-near-term-pressure-neeraj-seth-alpha-article-19851562.htm",
+        "image": "https://images.cnbctv18.com/uploads/2025/02/artificial-intelligence-2025-02-e9e4bca44cacfdeada2be83b09e3ab83.jpg?im=FitAndFill,width=500,height=300",
+        "publishedAt": "2026-02-17T07:48:04Z",
         "lang": "en",
         "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
+            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+            "name": "CNBC TV18",
+            "url": "https://www.cnbctv18.com",
             "country": "in"
         }
     },
     {
-        "id": "cb2e494da26697723da0e4f552afbaf6",
-        "title": "Revolution or inequality trap? Amitabh Kant flags big risks, warns of artificial intelligence push backfiring at AI Summit",
-        "description": "AI Impact Summit Day 2 saw Amitabh Kant urge a reality check on AI. He stressed that AI must not deepen societal divides but help close them. Kant challenged if AI can truly reach the poor and transform lives in the Global South. He stated AI's success will be measured by its impact on classrooms and nutrition, not market value.",
-        "content": "Synopsis\nAI Impact Summit Day 2 saw Amitabh Kant urge a reality check on AI. He stressed that AI must not deepen societal divides but help close them. Kant challenged if AI can truly reach the poor and transform lives in the Global South. He stated A... [4133 chars]",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/revolution-or-inequality-trap-amitabh-kant-flags-big-risks-warns-of-artificial-intelligence-push-backfiring-at-ai-summit/articleshow/128451135.cms",
-        "image": "https://img.etimg.com/thumb/msid-128452161,width-1200,height-630,imgsize-20122,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-02-17T06:24:00Z",
+        "id": "f41db0659b504ac8d152c07933e4d296",
+        "title": "Konark wheel meets Artificial Intelligence: Odisha pavilion steals spotlight at AI Summit 2026",
+        "description": "Odisha showcases its iconic Konark Wheel at the India AI Impact Summit 2026, blending cultural heritage with artificial intelligence innovation and highlighting real-world AI use cases and partnerships.",
+        "content": "New Delhi:\nIndia’s capital, New Delhi, has emerged as the global centre of artificial intelligence innovation as the India AI Impact Summit 2026 and the India AI Impact Expo officially commenced at Bharat Mandapam on Monday. The five-day event, runni... [3185 chars]",
+        "url": "https://www.indiatvnews.com/technology/news/konark-wheel-meets-artificial-intelligence-odisha-pavilion-steals-spotlight-at-ai-summit-2026-2026-02-17-1030613",
+        "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/02/odisha-ai-1771312289.jpg",
+        "publishedAt": "2026-02-17T07:37:01Z",
         "lang": "en",
         "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "98d9ff441c895a12ca9a00e71081d62a",
-        "title": "Australia To Promote National AI Plan At India AI Impact Summit 2026",
-        "description": "Australia is stepping up its global engagement on artificial intelligence, with Assistant Minister for Science, Technology and the Digital Economy Dr Andrew Charlton visiting India this week to participate in the AI Impact Summit.",
-        "content": "Australia is stepping up its global engagement on artificial intelligence, with Assistant Minister for Science, Technology and the Digital Economy Dr Andrew Charlton visiting India this week to participate in the AI Impact Summit, one of the world's ... [2803 chars]",
-        "url": "https://www.ndtv.com/india-news/australia-to-promote-national-ai-plan-at-india-ai-impact-summit-2026-11013623",
-        "image": "https://c.ndtvimg.com/2026-02/qar1k7qg_dr-andrew-charlton-india-ai-summit_625x300_17_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-02-17T06:16:26Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
+            "id": "143b993b193f72147f3de29ebcfbf505",
+            "name": "India TV News",
+            "url": "https://www.indiatvnews.com",
             "country": "in"
         }
     }
