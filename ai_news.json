@@ -1,5 +1,69 @@
 [
     {
+        "id": "cd620aacf685e26fa39acacaaeacc2fe",
+        "title": "Building the Future of Scalable AI: How Roshan Kakarla Engineered a High-Performance Inference Orchestration Pipeline",
+        "description": "As artificial intelligence moves from experimentation to enterprise production, organizations are discovering a hard truth: building machine learning models is only half the battle. Deploying those models reliably at scale—while maintaining performance, stability, and efficiency—is the real engineering challenge. Real-time inference systems must handle unpredictable traffic spikes, GPU-intensive workloads, rapid model updates, and strict latency […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nAs artificial intelligence moves from experimentation to enterprise production, organizations are discovering a hard truth: building machine learning models is only half the battle. Deploying those models reliably at sca... [7989 chars]",
+        "url": "https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/02/unnamed-2026-02-19T165359.064.png",
+        "publishedAt": "2026-02-20T00:54:46Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "40276928c5247623de455ec1f63bf136",
+        "title": "Delhi pact pushes inclusive global AI: Vaishnaw",
+        "description": "Global technology giants and Indian innovators on Thursday signed the ‘New Delhi Frontier AI Impact Commitments’, a dual-pledge framework designed to track artificial intelligence adoption and enhance its performance across diverse linguistic and cultural contexts.| India News",
+        "content": "The pact, announced by IT minister Ashwini Vaishnaw at the AI Impact Summit in the capital, includes Google, OpenAI, Anthropic, Microsoft and Meta, alongside Indian firms Sarvam, BharatGen, Gnani and Soket AI.\n“Today, leading AI frontier companies, a... [1805 chars]",
+        "url": "https://www.hindustantimes.com/india-news/delhi-pact-pushes-inclusive-global-ai-vaishnaw-101771527044971.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/02/19/550x309/The-pact--announced-by-IT-minister-Ashwini-Vaishna_1771527038396.jpg",
+        "publishedAt": "2026-02-20T00:36:11Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "6e153ce88913ab6a1a40c4bd6a4baf02",
+        "title": "Global tech leaders call for collective action at the India AI Impact Summit",
+        "description": "While the world is standing at the precipice of a \"once-in-a-generation\" shift as artificial intelligence exponentially improves, ensuring that its impact is a net positive to human development will require concerted efforts, global technology leaders said on the fourth day of the India AI Impact Summit here.",
+        "content": "Synopsis\nWhile the world is standing at the precipice of a \"once-in-a-generation\" shift as artificial intelligence exponentially improves, ensuring that its impact is a net positive to human development will require concerted efforts, global technolo... [3537 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-tech-leaders-call-for-collective-action-at-the-india-ai-impact-summit/articleshow/128568767.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-177504,resizemode-75,msid-128568767/tech/artificial-intelligence/global-tech-leaders-call-for-collective-action-at-the-india-ai-impact-summit.jpg",
+        "publishedAt": "2026-02-20T00:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "4d3fa2f0f67280e8348fb2c261e6893e",
+        "title": "Meta cuts stock awards by 5% for most employees, FT reports",
+        "description": "Feb 19 (Reuters) - Meta reduced ⁠its annual distribution of stock options by about 5% ⁠for most of its staff, as CEO Mark Zuckerberg ‌ploughs billions of dollars into its artificial intelligence goals, the Financial Times reported on Thursday.",
+        "content": "Feb 19 (Reuters) - Meta reduced ⁠its annual distribution of stock options by about 5% ⁠for most of its staff, as CEO Mark Zuckerberg ‌ploughs billions of dollars into its artificial intelligence goals, the Financial Times reported on Thursday.\nThe Fa... [1344 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/02/20/most-meta-staff-to-get-5-less-in-equity-rewards-as-zuckerberg-cuts-costs-for-ai-spending-ft-reports",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/02/20/3777729.jpg",
+        "publishedAt": "2026-02-20T00:26:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "7ac1d90e4a6aafa73d225eed2f33b847",
         "title": "Oakland University debates AI institute, data center proposal for Parking Lot 35",
         "description": "Oakland University is exploring bringing a data center and an artificial intelligence institute to campus, a move administrators say would support several of the school’s strategic goals.",
@@ -87,70 +151,6 @@
         "url": "https://www.dailyexcelsior.com/govt-working-to-upskill-reskill-it-talent-amid-ai-challenges-vaishnaw/",
         "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/isha.jpg",
         "publishedAt": "2026-02-19T23:00:32Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "fef10734a34b72f677dbd55bbd21d3ca",
-        "title": "AI Gene sequencing to enable ‘personalised’ medical prescriptions in future: Dr Jitendra",
-        "description": "Excelsior Correspondent NEW DELHI, Feb 19 : Artificial Intelligence (AI)-driven gene sequencing, undertaken by the Department of Biotechnology (DBT) in Govt of India, promises to power India’s transition toward “personalised” medical prescriptions and predictive medicine in future, Union Minister for Science & Technology Dr. Jitendra Singh said, asserting that some of the country’s most substantive AI applications are currently unfolding in genomics. Speaking to the media on the sidelines of the ongoing “AI Impact Summit”, the Minister emphasised that large-scale genome […]",
-        "content": "Excelsior Correspondent\nNEW DELHI, Feb 19 : Artificial Intelligence (AI)-driven gene sequencing, undertaken by the Department of Biotechnology (DBT) in Govt of India, promises to power India’s transition toward “personalised” medical prescriptions an... [3448 chars]",
-        "url": "https://www.dailyexcelsior.com/ai-gene-sequencing-to-enable-personalised-medical-prescriptions-in-future-dr-jitendra/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/page5-22.jpg",
-        "publishedAt": "2026-02-19T23:00:23Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "5f7b05e39593bb3da75b87535dca9f20",
-        "title": "The Intelligent Energy Grid: AI, Fusion, and the Decentralized Power Business of 2026",
-        "description": "In 2026, the global energy sector is facing its \"Great Convergence.\" On one side, the explosive growth of Artificial Intelligence and data centers has driven electricity demand to record highs—equivalent to the consumption of entire nations. On the other, the same AI is being deployed to save the grid from collapse. We are witnessing a shift from a \"Centralized Fossil\" model to a Decentralized Intelligent one.",
-        "content": "Share\nShare\nShare\nShare\nEmail\nIn 2026, the global energy sector is facing its “Great Convergence.” On one side, the explosive growth of Artificial Intelligence and data centers has driven electricity demand to record highs—equivalent to the consumpti... [5619 chars]",
-        "url": "https://techbullion.com/the-intelligent-energy-grid-ai-fusion-and-the-decentralized-power-business-of-2026/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/02/1e3a61ba-d96c-4cde-96b0-89e06cb9cb3a_1376x768-1000x600.jpg",
-        "publishedAt": "2026-02-19T22:59:45Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "08500abc0469d0f7b67ef223b77b9735",
-        "title": "UNT to launch new major in artificial intelligence to meet workforce demands",
-        "description": "University of North Texas can major in artificial intelligence this fall after the Board of Regents approved the program Thursday.",
-        "content": "This fall, University of North Texas students will be able to major in something new: artificial intelligence.\nThe UNT Board of Regents approved the AI major on Thursday, which comes as universities nationwide are making strides to incorporate the ra... [5254 chars]",
-        "url": "https://www.dallasnews.com/news/education/2026/02/19/unt-to-launch-new-major-in-artificial-intelligence-to-meet-workforce-demands/",
-        "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/ATKYLOO2LVGS7CAFSRN2IASFVE.JPG?auth=2311867550871ee35df76a38aaf4ecc1f7fc152a435be24db14fcb882fb3fd01&quality=80&width=1200&height=630&smart=true",
-        "publishedAt": "2026-02-19T22:59:22Z",
-        "lang": "en",
-        "source": {
-            "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
-            "name": "The Dallas Morning News",
-            "url": "https://www.dallasnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "99021297fc775fc0896e930f11af2dc0",
-        "title": "Adani: AI will redefine sovereignty, India must build its own infrastructure",
-        "description": "NEW DELHI, Feb 19 : India must architect its own artificial intelligence (AI) infrastructure rather than rely on imports, Adani Group executive director Jeet Adani said on Thursday, warning that AI will redefine national sovereignty. Outlining a vision for India’s ‘Intelligence Century’, the youngest son of business tycoon Gautam Adani emphasised three pillars of sovereignty – energy, compute and cloud, and services – as central to India’s AI strategy. India must also secure sovereignty across energy, compute and cloud, and […]",
-        "content": "By\nDaily Excelsior\n-\nNEW DELHI, Feb 19 : India must architect its own artificial intelligence (AI) infrastructure rather than rely on imports, Adani Group executive director Jeet Adani said on Thursday, warning that AI will redefine national sovereig... [5181 chars]",
-        "url": "https://www.dailyexcelsior.com/adani-ai-will-redefine-sovereignty-india-must-build-its-own-infrastructure/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/adani-2.jpg",
-        "publishedAt": "2026-02-19T22:57:43Z",
         "lang": "en",
         "source": {
             "id": "28bc60a23a7bf89e60f893506992a3fe",
