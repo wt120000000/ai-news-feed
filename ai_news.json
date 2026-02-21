@@ -1,5 +1,21 @@
 [
     {
+        "id": "b026aca8342cef64a7d081edc2d4f35b",
+        "title": "How AI is reshaping modern warfare - and why India must compete",
+        "description": "Artificial intelligence has vast potential in reshaping military strategy, redefining operations, and revolutionising decision-making. The future of the battlefield is as much about algorithms and compute power as it is about arms — India cannot afford to miss the chance",
+        "content": "Prime Minister Narendra Modi inaugurated the India AI Impact Summit 2026 at Bharat Mandapam, New Delhi, on Monday, February 16, 2026. He said India stands at the forefront of the artificial intelligence transformation, and its strides in AI reflect b... [17015 chars]",
+        "url": "https://www.firstpost.com/opinion/how-ai-is-reshaping-modern-warfare-india-13982218.html",
+        "image": "https://images.firstpost.com/uploads/2026/02/ai-2026-02-dfbce156e521b8c6c8569fa8e085c25e-1200x675.jpeg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-02-21T07:00:20Z",
+        "lang": "en",
+        "source": {
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "04f1b5df2a78a94e31ed84a33157cee3",
         "title": "IIT Delhi Opens Admissions for Third Batch of Certificate Programme in Applied Data Science & Artificial Intelligence",
         "description": "A 24-week live online programme that builds applied AI capability, from core analytics to production deployment, with a one-day campus immersion at IIT Delhi. , Education, Times Now",
@@ -140,22 +156,6 @@
             "id": "5464668c1f0466950a0b2fab5249ec6c",
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "4dbb9fa628d24777f3276d525bf6d857",
-        "title": "born Trump adviser facing backlash for comments made at the India AI Impact Summit",
-        "description": "Trending News: Artificial intelligence is now part of India’s daily news cycle. From policy talks in Delhi to discussions inside startup offices, everyone is asking .",
-        "content": "Artificial intelligence is now part of India’s daily news cycle. From policy talks in Delhi to discussions inside startup offices, everyone is asking the same thing. How should India build its AI future? In the middle of this serious national convers... [3551 chars]",
-        "url": "https://timesofindia.indiatimes.com/etimes/trending/who-is-sriram-krishnan-the-chennai-born-trump-adviser-facing-backlash-for-comments-made-at-the-india-ai-impact-summit/articleshow/128632974.cms",
-        "image": "https://static.toiimg.com/thumb/msid-128632998,width-1280,height-720,imgsize-65712,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-02-21T04:10:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     }
