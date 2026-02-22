@@ -1,5 +1,53 @@
 [
     {
+        "id": "af19ce7abd7ba1be9465ffd344208817",
+        "title": "AI Washing? Open AI CEO Sam Altman pushes back on layoff blame",
+        "description": "At the AI Impact Summit 2026, OpenAI CEO Sam Altman said artificial intelligence is not the main driver of recent layoffs, calling out “AI washing” where companies blame automation for job cuts that may stem from broader business decisions.",
+        "content": "The question gripping global attention is simple but unsettling: will artificial intelligence take our jobs? The debate has intensified in recent months as companies such as TCS, Google and Amazon have laid off thousands of employees, with many linki... [2315 chars]",
+        "url": "https://www.firstpost.com/tech/ai-washing-open-ai-ceo-sam-altman-pushes-back-on-layoff-blame-13982447.html",
+        "image": "https://images.firstpost.com/uploads/2026/02/2026-02-19T075251Z_840998235_RC2VOJAAAIKB_RTRMADP_3_INDIA-AI-2026-02-71a3473320ec83d7d6cae765da132d32-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-02-22T09:49:55Z",
+        "lang": "en",
+        "source": {
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b7c8e8fa9eceb63edbdb9b937a07fa63",
+        "title": "This IIM wants to use AI to set question papers and check answers, even students can use it for projects",
+        "description": "IIM-Nagpur is set to revolutionize student assessments with Artificial Intelligence. AI will drastically cut down grading time from weeks to just a day or two. Professors will still have the final say, ensuring accuracy and depth. This move aims to streamline academic processes and prepare students for a future where AI proficiency is key.",
+        "content": "Synopsis\nIIM-Nagpur is set to revolutionize student assessments with Artificial Intelligence. AI will drastically cut down grading time from weeks to just a day or two. Professors will still have the final say, ensuring accuracy and depth. This move ... [2612 chars]",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/this-iim-wants-to-use-ai-to-set-question-papers-and-check-answers-even-students-can-use-it-for-projects/articleshow/128672066.cms",
+        "image": "https://img.etimg.com/thumb/msid-128672383,width-1200,height-630,imgsize-45650,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-02-22T09:49:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "31a6777e30a4a59fc905517a53559b0f",
+        "title": "New maps of mouse brains reveal patterns of myelin formation",
+        "description": "Johns Hopkins scientists say they have used 3D imaging, special microscopes and artificial intelligence (AI) programs to construct new maps of mouse brains showing a precise location of more than 10 million cells called oligodendrocytes.",
+        "content": "Johns Hopkins scientists say they have used 3D imaging, special microscopes and artificial intelligence (AI) programs to construct new maps of mouse brains showing a precise location of more than 10 million cells called oligodendrocytes. These cells ... [4968 chars]",
+        "url": "https://www.news-medical.net/news/20260222/New-maps-of-mouse-brains-reveal-patterns-of-myelin-formation.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+        "publishedAt": "2026-02-22T09:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "6002599fe1607a1237822497a71af21a",
         "title": "Wall Street week ahead: Nvidia, software reports pose next tests for AI-sensitive stock market",
         "description": "Investors turn to financial results from artificial intelligence bellwether Nvidia Corp in the coming week to steady a U.S. stock market ​that has been rocked by AI-related worries and is digesting a Supreme Court overturn of President Donald Trump's sweeping trade tariffs.",
@@ -109,54 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "518846162c3fcf390756d92a27720e32",
-        "title": "World leaders impressed with India's achievements in AI, says PM Modi",
-        "description": "Prime Minister Narendra Modi on Sunday highlighted strides made by India in the field of artificial intelligence, saying the AI summit showcased how animals were being treated in the country with the help of AI and how farmers were keeping track of their livestock and dairy.",
-        "content": "Prime Minister Narendra Modi on Sunday highlighted strides made by India in the field of artificial intelligence, saying the AI summit showcased how animals were being treated in the country with the help of AI and how farmers were keeping track of t... [2235 chars]",
-        "url": "https://www.thehindubusinessline.com/news/world-leaders-impressed-with-indias-achievements-in-ai-says-pm-modi/article70662651.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/w5h2n4/article70662663.ece/alternates/LANDSCAPE_1200/PTI02_21_2026_000327B.jpg",
-        "publishedAt": "2026-02-22T07:01:56Z",
-        "lang": "en",
-        "source": {
-            "id": "680f00482cbf9f314921fefd917871d9",
-            "name": "The Hindu Business Line",
-            "url": "https://www.thehindubusinessline.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "0c62eeb4d8f79f23c6ad2131bd2f553e",
-        "title": "Has one Irishman's 15-second AI video killed off Hollywood?",
-        "description": "There isn't a day that goes by when artificial intelligence isn't at the centre of some controversy...",
-        "content": "There isn't a day that goes by when artificial intelligence isn't at the centre of some controversy.\nParticularly, generative AI, which is a branch of technology that allows anyone to create anything they want, from entire stories and images to movie... [6610 chars]",
-        "url": "https://www.rte.ie/culture/2026/0222/1559343-has-one-irishmans-15-second-ai-video-killed-off-hollywood/",
-        "image": "https://www.rte.ie/images/0023ecfb-1600.jpg",
-        "publishedAt": "2026-02-22T07:00:22Z",
-        "lang": "en",
-        "source": {
-            "id": "4c8b69bf547b577f84acbba5157b439c",
-            "name": "RTE.ie",
-            "url": "https://www.rte.ie",
-            "country": "ie"
-        }
-    },
-    {
-        "id": "98f7a64d39a9653d6f20c948e6e271ca",
-        "title": "PM Modi in Mann ki Baat: World leaders impressed by India’s AI gains",
-        "description": "Prime Minister Narendra Modi in \"Mann ki Baat\" shared India's progress in artificial intelligence. AI is now helping treat animals and track livestock for farmers. The country is also using AI to preserve ancient knowledge and manuscripts. Modi advised citizens to be cautious of online financial scams. He also celebrated the achievements of Indian-origin athletes in the T20 World Cup.",
-        "content": "Synopsis\nPrime Minister Narendra Modi in \"Mann ki Baat\" shared India's progress in artificial intelligence. AI is now helping treat animals and track livestock for farmers. The country is also using AI to preserve ancient knowledge and manuscripts. M... [3063 chars]",
-        "url": "https://economictimes.indiatimes.com/news/india/pm-modi-says-world-leaders-impressed-by-indias-ai-gains-in-mann-ki-baat/articleshow/128668400.cms",
-        "image": "https://img.etimg.com/thumb/msid-128668526,width-1200,height-630,imgsize-139646,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-02-22T06:53:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
