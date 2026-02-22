@@ -1,5 +1,37 @@
 [
     {
+        "id": "62c91c3cfb29f7a744d462ad486dd085",
+        "title": "‘Memory shortage could slow AI boom,’ warns DeepMind CEO Demis Hassabis",
+        "description": "Google DeepMind CEO Demis Hassabis has warned that a global memory chip shortage could slow the rapid growth of artificial intelligence. As tech giants ramp up spending on AI infrastructure, limited chip supply is emerging as a serious bottleneck for future innovation.",
+        "content": "Amid the recent upgrade on artificial intelligence, the world is talking about just one thing, is AI the coming future or the receptive verse? In 2026, the artificial intelligence models have performed exceptionally well and better than ever. Google ... [1936 chars]",
+        "url": "https://www.firstpost.com/tech/memory-shortage-could-slow-ai-boom-warns-deepmind-ceo-demis-hassabis-13982403.html",
+        "image": "https://images.firstpost.com/uploads/2026/02/2026-02-09T024912Z_3_LYNXMPEM1804E_RTROPTP_4_USA-TAIWAN-TRADE-2026-02-16a1f03935727e498a4ebdaeb4fd8f10-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-02-22T05:52:56Z",
+        "lang": "en",
+        "source": {
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "150ec7e0d09b3bf8814adede37174634",
+        "title": "Galway’s PorterShed turns to Philip Reynolds’ AI app to get the right brew for start-ups",
+        "description": "One of the main start-up accelerators in the west of Ireland has turned to artificial intelligence to help develop the next batch of promising young high-growth companies.",
+        "content": "Galway-based start-up accelerator the PorterShed is to launch a new scheme that uses an AI-driven app developed by Philip Reynolds – son of former taoiseach Albert Reynolds – to help 50 local hopefuls win lucrative Enterprise Ireland funding.\nThe mov... [5210 chars]",
+        "url": "https://www.independent.ie/business/irish/galways-portershed-turns-to-philip-reynolds-ai-app-to-get-the-right-brew-for-start-ups/a254874876.html",
+        "image": "https://focus.independent.ie/thumbor/xsHtxG8353e_2sysaElD9cUy2ZY=/629x460/smart/prod-mh-ireland/2d449a39-c1b7-41ec-a9da-3169214110c8/e4ef5c90-c4a9-444d-bab0-db07d29c4e6c/SN%20Philip%20Reynolds.jpg",
+        "publishedAt": "2026-02-22T05:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ead461b236347a41a0e3561761126583",
+            "name": "Independent.ie",
+            "url": "https://www.independent.ie",
+            "country": "ie"
+        }
+    },
+    {
         "id": "e396396e09ac6e79c82e745ab864d431",
         "title": "World Thinking Day: 7 subtle ways AI is changing how we think",
         "description": "From memory and creativity to decision-making habits, emerging psychology research shows how artificial intelligence is subtly reshaping human thinking. Experts explain seven ways everyday AI use may already be influencing how we learn and make choices.",
@@ -124,38 +156,6 @@
             "id": "6a3aad3dbb44ac873f72b594aaea22c4",
             "name": "The Indian Express",
             "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "ebf6db2652985561c0efc0c41ef83f4d",
-        "title": "At AI Summit, India tries to find a way between the US and China",
-        "description": "India is positioning itself as a mediator in the global artificial intelligence race dominated by the United States and China, offering support to developing nations that lack strong AI capabilities. At the AI Impact Summit in New Delhi, India highlighted governance and public welfare as key priorities, while presenting its large IT workforce and domestic market as a platform for responsible AI deploymen",
-        "content": "Synopsis\nIndia is positioning itself as a mediator in the global artificial intelligence race dominated by the United States and China, offering support to developing nations that lack strong AI capabilities. At the AI Impact Summit in New Delhi, Ind... [5752 chars]",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/at-ai-summit-india-tries-to-find-a-way-between-the-us-and-china/articleshow/128661764.cms",
-        "image": "https://img.etimg.com/thumb/msid-128661814,width-1200,height-630,imgsize-145426,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-02-22T00:38:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "aec092600fadffdc6b50bae8114bf85c",
-        "title": "China Defies Global ‘AI Scare Trade’ as Investors Chase Winners",
-        "description": "US markets are gripped by the “AI scare trade,” with investors selling software firms and wealth managers on concern that rapid advances in artificial intelligence will erode established business models.",
-        "content": "(Bloomberg) -- US markets are gripped by the “AI scare trade,” with investors selling software firms and wealth managers on concern that rapid advances in artificial intelligence will erode established business models.\nIn China, the mood is far more ... [4765 chars]",
-        "url": "https://www.livemint.com/market/china-defies-global-ai-scare-trade-as-investors-chase-winners-11771720102085.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-        "publishedAt": "2026-02-22T00:28:21Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
             "country": "in"
         }
     }
