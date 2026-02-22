@@ -1,5 +1,37 @@
 [
     {
+        "id": "bdafb07979dc5c240e07fbfa50d34eac",
+        "title": "Sweden unveils plan for homegrown Swedish AI language model",
+        "description": "Sweden has announced plans to develop a Swedish-language artificial intelligence model under its national AI strategy. Prime Minister Ulf Kristersson said the homegrown system will reflect Swedish culture and values, with training expected to be largely completed during 2026.",
+        "content": "Sweden’s government on Friday announced that it was developing its own Swedish-language model for artificial intelligence.\n“The government has adopted a Swedish AI strategy, and an important part of it is that Sweden needs high-quality AI in Swedish,... [1537 chars]",
+        "url": "https://www.firstpost.com/tech/sweden-unveils-plan-for-homegrown-swedish-ai-language-model-13982433.html",
+        "image": "https://images.firstpost.com/uploads/2026/02/SWEDEN-SECURITY-CONFERENCE1200-2026-02-916573c8608c14530e4470af5d6ab0c0.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-02-22T08:26:46Z",
+        "lang": "en",
+        "source": {
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "c342b445bc91f948810fee71e787da0f",
+        "title": "What founder, CEO of Vianai Systems Vishal Sikka Told NDTV On Jobs, AI",
+        "description": "Vishal Sikka, founder and CEO of Vianai Systems, discussed the promises and perils of artificial intelligence. In an interview with NDTV's Senior Managing Editor Vishnu Som, the entrepreneur spoke of the need for careful oversight",
+        "content": "Vishal Sikka, founder and CEO of Vianai Systems, discussed the promises and perils of artificial intelligence. In an interview with NDTV's Senior Managing Editor Vishnu Som, the entrepreneur spoke of the need for careful oversight and proactive respo... [3427 chars]",
+        "url": "https://www.ndtv.com/india-news/best-way-to-predict-future-is-to-invent-it-what-founder-ceo-of-vianai-systems-vishal-sikka-told-ndtv-on-jobs-ai-11120294",
+        "image": "https://c.ndtvimg.com/2026-02/1n4icjp4_vishal-sikka_625x300_22_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-02-22T07:31:04Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "7dc729a2b163ee41f5c8d44fa9667e7e",
         "title": "\"Robotic Soldiers Would Be Coming In Future\": Ex-DRDO Chief To NDTV",
         "description": "Artificial intelligence is no longer a futuristic promise confined to laboratories and science fiction. It is rapidly becoming the backbone of modern defence systems, reshaping how wars are prepared for, fought, and ultimately deterred.",
@@ -124,38 +156,6 @@
             "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
             "name": "Firstpost",
             "url": "https://www.firstpost.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "150ec7e0d09b3bf8814adede37174634",
-        "title": "Galway’s PorterShed turns to Philip Reynolds’ AI app to get the right brew for start-ups",
-        "description": "One of the main start-up accelerators in the west of Ireland has turned to artificial intelligence to help develop the next batch of promising young high-growth companies.",
-        "content": "Galway-based start-up accelerator the PorterShed is to launch a new scheme that uses an AI-driven app developed by Philip Reynolds – son of former taoiseach Albert Reynolds – to help 50 local hopefuls win lucrative Enterprise Ireland funding.\nThe mov... [5210 chars]",
-        "url": "https://www.independent.ie/business/irish/galways-portershed-turns-to-philip-reynolds-ai-app-to-get-the-right-brew-for-start-ups/a254874876.html",
-        "image": "https://focus.independent.ie/thumbor/xsHtxG8353e_2sysaElD9cUy2ZY=/629x460/smart/prod-mh-ireland/2d449a39-c1b7-41ec-a9da-3169214110c8/e4ef5c90-c4a9-444d-bab0-db07d29c4e6c/SN%20Philip%20Reynolds.jpg",
-        "publishedAt": "2026-02-22T05:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ead461b236347a41a0e3561761126583",
-            "name": "Independent.ie",
-            "url": "https://www.independent.ie",
-            "country": "ie"
-        }
-    },
-    {
-        "id": "e396396e09ac6e79c82e745ab864d431",
-        "title": "World Thinking Day: 7 subtle ways AI is changing how we think",
-        "description": "From memory and creativity to decision-making habits, emerging psychology research shows how artificial intelligence is subtly reshaping human thinking. Experts explain seven ways everyday AI use may already be influencing how we learn and make choices.",
-        "content": "New Delhi:\nArtificial intelligence rarely arrives with dramatic announcements in everyday life. It slips quietly into routines. A quick message drafted before work. A recipe suggested at dinner time. A problem solved before frustration even has the c... [5036 chars]",
-        "url": "https://www.indiatvnews.com/lifestyle/news/world-thinking-day-7-subtle-ways-ai-is-changing-how-we-think-2026-02-22-1031212",
-        "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/02/man-using-ai-at-work-1771736552.jpg",
-        "publishedAt": "2026-02-22T05:02:59Z",
-        "lang": "en",
-        "source": {
-            "id": "143b993b193f72147f3de29ebcfbf505",
-            "name": "India TV News",
-            "url": "https://www.indiatvnews.com",
             "country": "in"
         }
     }
