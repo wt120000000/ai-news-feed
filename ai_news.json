@@ -1,5 +1,37 @@
 [
     {
+        "id": "215a84e9f3106662bf9cb82cd869e710",
+        "title": "The Moon is getting an AI brain this summer and it won’t need Earth to think",
+        "description": "Science News: The Moon is about to get its own brain. For the first time, real-time artificial intelligence and edge computing have been installed on a lunar rover..",
+        "content": "Source: National Geographic\nThe Moon is about to get its own brain. For the first time, real-time artificial intelligence and edge computing have been installed on a lunar rover. The milestone might not make headlines like a rocket launch, but it is ... [2845 chars]",
+        "url": "https://timesofindia.indiatimes.com/science/the-moon-is-getting-an-ai-brain-this-summer-and-it-wont-need-earth-to-think/articleshow/128665534.cms",
+        "image": "https://static.toiimg.com/thumb/msid-128665578,width-1280,height-720,imgsize-86934,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-02-22T04:31:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "f0717760fc1311ef34e2a3c89653795d",
+        "title": "Listen up: AI stethoscopes sound out heart disease better than humans",
+        "description": "As the old saying almost goes, you wait ages for a study on artificial intelligence-enabled stethoscopes and then lo and behold, two come along almost at once.",
+        "content": "LONDON: As the old saying almost goes, you wait ages for a study on artificial intelligence-enabled stethoscopes and then lo and behold, two come along almost at once.\nPublished within a week of each other in early February, the two papers show how A... [2247 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/02/22/listen-up-ai-stethoscopes-sound-out-heart-disease-better-than-humans",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/02/19/3776407.jpeg",
+        "publishedAt": "2026-02-22T04:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "cddd503232e419f79d34574a42e37888",
         "title": "Adobe Stock: Artificial Intelligence Concerns Are Worth Taking On (NASDAQ:ADBE)",
         "description": "While AI may present a risk to the less sticky parts of Adobe's customer base, demand from larger business clients appears healthy. Read why ADBE is a Strong Buy.",
@@ -125,38 +157,6 @@
             "name": "CBC.ca",
             "url": "https://www.cbc.ca",
             "country": "ca"
-        }
-    },
-    {
-        "id": "8ba1d26221f4e397edecba3886a115c3",
-        "title": "Take Solutions adopts Anthropic's AI assistant Claude",
-        "description": "NEW DELHI, Feb 21: Global AI-driven healthcare company Take Solutions on Saturday said it has adopted Anthropic’s artificial intelligence assistant, Claude. The company, in an exchange filing, said that the strategic technology adoption marks a significant milestone in its ongoing mission to build scalable, intelligent, and preventive healthcare platforms. “The integration of Anthropic’s Claude advanced AI capabilities will strengthen Take Solution’s upcoming platforms, including its AI-driven Preventive Healthcare Platform, One Minute Clinic, and its Unified AI Marketplace,” the filing said. […]",
-        "content": "NEW DELHI, Feb 21: Global AI-driven healthcare company Take Solutions on Saturday said it has adopted Anthropic’s artificial intelligence assistant, Claude.\nThe company, in an exchange filing, said that the strategic technology adoption marks a signi... [734 chars]",
-        "url": "https://www.dailyexcelsior.com/take-solutions-adopts-anthropics-ai-assistant-claude/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/Claude.jpg",
-        "publishedAt": "2026-02-21T22:30:27Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "44b5d39be0778a4753ad9ee1783d6852",
-        "title": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power",
-        "description": "HILL AIR FORCE BASE (US), Feb 21: The Pentagon and the Energy Department for the first time airlifted a small nuclear reactor from California to Utah, demonstrating what they say is US potential to quickly deploy nuclear power for military and civilian use. The nearly 700-mile flight last weekend – which transported a 5-megawatt microreactor without nuclear fuel – highlights the Trump administration’s drive to promote nuclear energy to help meet skyrocketing demand for power from artificial intelligence and data […]",
-        "content": "HILL AIR FORCE BASE (US), Feb 21: The Pentagon and the Energy Department for the first time airlifted a small nuclear reactor from California to Utah, demonstrating what they say is US potential to quickly deploy nuclear power for military and civili... [3371 chars]",
-        "url": "https://www.dailyexcelsior.com/us-military-airlifts-small-reactor-as-trump-pushes-to-quickly-deploy-nuclear-power/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/reator.jpg",
-        "publishedAt": "2026-02-21T22:30:18Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
         }
     }
 ]
