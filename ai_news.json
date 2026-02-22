@@ -1,5 +1,53 @@
 [
     {
+        "id": "833f2a086d3ec8aa2559fe61506aed3e",
+        "title": "Federal AI minister raises concerns over OpenAI safety protocols after Tumbler Ridge mass shooting",
+        "description": "Canada’s artificial intelligence minister says he is raising concerns with OpenAI and other such platforms about their safety protocols, after the tech company confirmed that the account of the teenager behind the Tumbler Ridge, B.C., mass shooting had been flagged internally but not reported to police before the attack.",
+        "content": "Canada’s artificial intelligence minister says he is raising concerns with OpenAI, and other such platforms, about their safety protocols, after the tech company confirmed the account of the teenager behind the Tumbler Ridge, B.C., mass shooting had ... [2189 chars]",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/federal-ai-minister-raises-concerns-over-openai-tumbler-ridge-shooting-9.7101279",
+        "image": "https://i.cbc.ca/ais/06625b6e-4f06-4066-a12f-d152a6f71b67,1771713106276/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C68%2C1280%2C720%29%3BResize%3D620",
+        "publishedAt": "2026-02-21T23:06:12Z",
+        "lang": "en",
+        "source": {
+            "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+            "name": "CBC.ca",
+            "url": "https://www.cbc.ca",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "8ba1d26221f4e397edecba3886a115c3",
+        "title": "Take Solutions adopts Anthropic's AI assistant Claude",
+        "description": "NEW DELHI, Feb 21: Global AI-driven healthcare company Take Solutions on Saturday said it has adopted Anthropic’s artificial intelligence assistant, Claude. The company, in an exchange filing, said that the strategic technology adoption marks a significant milestone in its ongoing mission to build scalable, intelligent, and preventive healthcare platforms. “The integration of Anthropic’s Claude advanced AI capabilities will strengthen Take Solution’s upcoming platforms, including its AI-driven Preventive Healthcare Platform, One Minute Clinic, and its Unified AI Marketplace,” the filing said. […]",
+        "content": "NEW DELHI, Feb 21: Global AI-driven healthcare company Take Solutions on Saturday said it has adopted Anthropic’s artificial intelligence assistant, Claude.\nThe company, in an exchange filing, said that the strategic technology adoption marks a signi... [734 chars]",
+        "url": "https://www.dailyexcelsior.com/take-solutions-adopts-anthropics-ai-assistant-claude/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/Claude.jpg",
+        "publishedAt": "2026-02-21T22:30:27Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "44b5d39be0778a4753ad9ee1783d6852",
+        "title": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power",
+        "description": "HILL AIR FORCE BASE (US), Feb 21: The Pentagon and the Energy Department for the first time airlifted a small nuclear reactor from California to Utah, demonstrating what they say is US potential to quickly deploy nuclear power for military and civilian use. The nearly 700-mile flight last weekend – which transported a 5-megawatt microreactor without nuclear fuel – highlights the Trump administration’s drive to promote nuclear energy to help meet skyrocketing demand for power from artificial intelligence and data […]",
+        "content": "HILL AIR FORCE BASE (US), Feb 21: The Pentagon and the Energy Department for the first time airlifted a small nuclear reactor from California to Utah, demonstrating what they say is US potential to quickly deploy nuclear power for military and civili... [3371 chars]",
+        "url": "https://www.dailyexcelsior.com/us-military-airlifts-small-reactor-as-trump-pushes-to-quickly-deploy-nuclear-power/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/02/reator.jpg",
+        "publishedAt": "2026-02-21T22:30:18Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "72b736881c7eb1031a7ad3d2e4b92e0d",
         "title": "IIM-Nagpur to use AI to set question papers, check answers",
         "description": "NAGPUR: The Indian Institute of Management-Nagpur (IIM-Nagpur) is planning to leverage Artificial Intelligence (AI) for a swift assessment of students.",
@@ -109,54 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "74045a4b496e15a173e2a23a7d3ba69f",
-        "title": "88 nations adopt Delhi Declaration, back global push for equitable AI",
-        "description": "The declaration articulates a shared vision of using artificial intelligence for economic growth and social good while ensuring equitable access and responsible deployment.",
-        "content": "The AI Impact Summit concluded in the Capital on Saturday with the adoption of the New Delhi Declaration on AI Impact, endorsed by 88 countries and international organisations, outlining a broad cooperative framework for the development and governanc... [2999 chars]",
-        "url": "https://www.tribuneindia.com/news/india/88-nations-adopt-delhi-declaration-back-global-push-for-equitable-ai/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTUxNDFmN2EwLTBmNjQtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-        "publishedAt": "2026-02-21T20:31:33Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "967282b764c555428cfa65c704136f38",
-        "title": "Brazil and India agree to boost cooperation on rare earths",
-        "description": "Brazil and India have signed a new deal to cooperate on rare earths and other critical minerals. The agreement aims to boost investment, exploration, and mining. It also covers technology areas like artificial intelligence. Brazil’s President Lula says the partnership puts renewable energy and minerals at the center of closer ties. He is in India for a state visit that began Wednesday and runs through Sunday. The countries also set legal frameworks for work in health, education, science, and entrepreneurship. Experts say both nations want more independence from China and the United States by widening their partners.",
-        "content": "SAO PAULO (AP) — Brazil and India sealed a deal Saturday on critical minerals and rare earths, enhancing cooperation on crucial resources between two major countries of the global south as they seek to diversify their trading relationships.\nThe non-b... [1353 chars]",
-        "url": "https://www.ajc.com/news/2026/02/brazil-and-india-agree-to-boost-cooperation-on-rare-earths/",
-        "image": "https://images.ajc.com/resizer/v2/M42C7P56HJCVLKEQ7FV6WLO7NA.jpg?auth=ce74ebbb09d12da5370d522023f8f7db41cd324ef1316d4d94823eef89843a42&width=1200&height=630&smart=true",
-        "publishedAt": "2026-02-21T20:22:46Z",
-        "lang": "en",
-        "source": {
-            "id": "79e9a45376a66fd7e1a4e68bba928c39",
-            "name": "The Atlanta Journal-Constitution",
-            "url": "https://www.ajc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "73f111fa1a0cd9f41298a0194ccd6586",
-        "title": "15 Best AI Marketing Agencies Transforming Growth in 2026 (And How to Choose the Right One)",
-        "description": "Artificial intelligence isn’t the future of marketing anymore — it’s the present. From predictive analytics and automated content generation to advanced personalization and AI-driven search optimization, brands that leverage AI are scaling faster, converting better, and spending smarter. But here’s the challenge: with hundreds of agencies claiming AI expertise, how do you actually find the […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence isn’t the future of marketing anymore — it’s the present. From predictive analytics and automated content generation to advanced personalization and AI-driven search optimization, brands that leve... [8345 chars]",
-        "url": "https://techbullion.com/15-best-ai-marketing-agencies-transforming-growth-in-2026-and-how-to-choose-the-right-one/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/02/mohamed_hassan-mobile-phone-5836879_1280-1000x600.jpg",
-        "publishedAt": "2026-02-21T18:51:12Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
         }
     }
 ]
