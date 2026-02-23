@@ -1,5 +1,37 @@
 [
     {
+        "id": "30202d2a22eea8b742ddee4399faa58f",
+        "title": "AI agent invasion has people trying to pick winners",
+        "description": "An onslaught of artificial intelligence agents that handle tasks from writing code to dispensing tax advice has the tech world and financial markets scrambling to pick winners and shed losers. Gone are the days of being satisfied with OpenAI's ChatGPT simply creating responses to text prompts. Makers of leading AI…",
+        "content": "An onslaught of artificial intelligence agents that handle tasks from writing code to dispensing tax advice has the tech world and financial markets scrambling to pick winners and shed losers.\nGone are the days of being satisfied with OpenAI's ChatGP... [3498 chars]",
+        "url": "https://japantoday.com/category/tech/ai-agent-invasion-has-people-trying-to-pick-winners",
+        "image": "https://media.japantoday.com/img/store/43/06/ae9e3e043a6be2e21d5c40497d534acbd591/19ef68b09b4c28c3311cd11a8f6989b1f7991058/_w1700.jpeg",
+        "publishedAt": "2026-02-22T20:53:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "49ad42c210f1f6658bdda1b235af7e7e",
+        "title": "X nears completion of search code rewrite",
+        "description": "The platform’s head of product, Nikita Bier, also said X was improving bot detection in order to mitigate the effect of artificial intelligence bots.",
+        "content": "X is rewriting the source code for its search functionality, according to Feb. 21 post from Nikita Bier, head of product.\nThe move comes amid reports that X search has become less reliable in recent months.\nUsers have complained that X search is not ... [2311 chars]",
+        "url": "https://www.socialmediatoday.com/news/x-formerly-twitter-rewrites-search-discovery-ai-bots/812792/",
+        "image": "https://imgproxy.divecdn.com/UCmF-64j67w9A6zC7nRftJ4eUX8Qwb1BCID7QYZgNUU/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS94X2V4cGxvcmVfTkwwQmpwbS5wbmc=.webp",
+        "publishedAt": "2026-02-22T20:12:14Z",
+        "lang": "en",
+        "source": {
+            "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
+            "name": "Social Media Today",
+            "url": "https://www.socialmediatoday.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "34652e7e2256f0eb4b8691db27026adc",
         "title": "Israel awaits PM Narendra Modi: Of security, silicon and strategic signals",
         "description": "The PM's two-day Israel visit to feature Knesset address, and talks with Netanyahu on defence, counter-terrorism, IMEC, trade and artificial intelligence cooperation",
@@ -124,38 +156,6 @@
             "id": "680f00482cbf9f314921fefd917871d9",
             "name": "The Hindu Business Line",
             "url": "https://www.thehindubusinessline.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "adde6c53c8c61016bd068ad8e3329384",
-        "title": "AI can unlock Rs 70,000 crore a year for farmers: Dr Jitendra Singh",
-        "description": "Agri-AI can unlock Rs 70,000 crore a year for farmers: Dr Jitendra Singh - Mumbai, Feb 22 India’s next agricultural revolution will be driven by artificial intelligence, Union Minister of State (Independent ... Get Latest News on Business only on lokmattimes.com",
-        "content": "Mumbai, Feb 22 India’s next agricultural revolution will be driven by artificial intelligence, Union Minister of State (Independent Charge) for Science and Technology Dr Jitendra Singh said on Sunday, positioning it as the central pillar of farm poli... [4391 chars]",
-        "url": "https://www.lokmattimes.com/business/agri-ai-can-unlock-rs-70000-crore-a-year-for-farmers-dr-jitendra-singh-1/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602223683817_202602.jpg",
-        "publishedAt": "2026-02-22T15:12:31Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "38e6b9875cb1b8b0d3471be3496c45c4",
-        "title": "AI can unlock Rs 70,000 crore a year for farmers: Dr Jitendra Singh",
-        "description": "Agri-AI can unlock Rs 70,000 crore a year for farmers: Dr Jitendra Singh - Mumbai, Feb 22 India’s next agricultural revolution will be driven by artificial intelligence, Union Minister of State (Independent ... Get Latest News on National only on lokmattimes.com",
-        "content": "Mumbai, Feb 22 India’s next agricultural revolution will be driven by artificial intelligence, Union Minister of State (Independent Charge) for Science and Technology Dr Jitendra Singh said on Sunday, positioning it as the central pillar of farm poli... [4391 chars]",
-        "url": "https://www.lokmattimes.com/national/agri-ai-can-unlock-rs-70000-crore-a-year-for-farmers-dr-jitendra-singh/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602223683817_202602.jpg",
-        "publishedAt": "2026-02-22T15:12:31Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
             "country": "in"
         }
     }
