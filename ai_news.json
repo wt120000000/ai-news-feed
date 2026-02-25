@@ -1,5 +1,37 @@
 [
     {
+        "id": "20b87b14be3f4a0f62a303014bef26aa",
+        "title": "Hegseth gives Anthropic until Friday to back down on AI safeguards, Axios reports",
+        "description": "Feb 24 (Reuters) - ⁠U.S. Defense Secretary Pete ⁠Hegseth has given artificial intelligence ‌company Anthropic until Friday to back down on safeguards for its products ​used by the military, ⁠Axios reported ⁠on Tuesday.",
+        "content": "Feb 24 (Reuters) - ⁠U.S. Defense Secretary Pete ⁠Hegseth has given artificial intelligence ‌company Anthropic until Friday to back down on safeguards for its products ​used by the military, ⁠Axios reported ⁠on Tuesday.\nReuters reported exclusively th... [574 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/02/25/hegseth-gives-anthropic-until-friday-to-back-down-on-ai-safeguards-axios-reports",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/02/25/3785972.jpg",
+        "publishedAt": "2026-02-24T23:29:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "75721228ec06745e7044c7e495217540",
+        "title": "Wall St ends higher on renewed tech vigour",
+        "description": "Wall Street closed higher on Tuesday, with tech stocks leading the charge as renewed enthusiasm for artificial intelligence offset concerns over potential disruptions caused by the nascent technology.",
+        "content": "NEW YORK: Wall Street closed higher on Tuesday, with tech stocks leading the charge as renewed enthusiasm for artificial intelligence offset concerns over potential disruptions caused by the nascent technology.\nSpeculation regarding AI's possible imp... [4141 chars]",
+        "url": "https://www.thestar.com.my/business/2026/02/25/wall-st-ends-higher-on-renewed-tech-vigour",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/02/25/3785951.jpg",
+        "publishedAt": "2026-02-24T23:13:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "ee13c22cc8de96f287fd0f186a89ae22",
         "title": "Investors look for signs of bottom in software rout after Anthropic announcement",
         "description": "Investors were looking anew for signs of a bottom in beleaguered shares of software companies on Tuesday after an announcement that artificial intelligence startup Anthropic was partnering with an...",
@@ -125,38 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "228163729a7f76b0c11affda87287092",
-        "title": "Thomson Reuters shares rally after CoCounsel AI tool draws 1 million users",
-        "description": "Thomson Reuters shares jumped more than 11% on Tuesday after the technology and content firm said its artificial intelligence-powered assistant for businesses, CoCounsel, has drawn one million users, easing fears of disruption by competing AI tools.",
-        "content": "Feb 24 (Reuters) - Thomson Reuters shares jumped more than 11% on Tuesday after the technology and content firm said its artificial intelligence-powered assistant for businesses, CoCounsel, has drawn one million users, easing fears of disruption by c... [1641 chars]",
-        "url": "https://www.reuters.com/business/thomson-reuters-shares-rally-after-cocounsel-ai-tool-draws-1-million-users-2026-02-24/",
-        "image": "https://www.reuters.com/resizer/v2/DVYVDTIC3NJKZOISUFG7BY3YGQ.jpg?auth=ec2c7cb3d7a777fb08695c964d00f0c7c88bf249f067c5277eb349fbc2323b76&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-02-24T21:40:39Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4b99252832fd8ce612efec3a6913ab63",
-        "title": "Head of Amazon’s AGI lab is leaving the company",
-        "description": "David Luan, the head of Amazon's artificial general intelligence lab, announced on Tuesday that he will be departing the company at the end of the week.",
-        "content": "The head of Amazon's artificial general intelligence lab is leaving the company less than two years after joining through a so-called acqui-hire deal of his startup Adept.\nDavid Luan announced his departure Tuesday in a LinkedIn post, saying he will ... [1464 chars]",
-        "url": "https://www.cnbc.com/2026/02/24/head-of-amazons-agi-lab-is-leaving-the-company.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108217403-1769610896097-108217403-1761591014974-gettyimages-2233522650-298621final.jpg?v=1771966773&w=1920&h=1080",
-        "publishedAt": "2026-02-24T21:37:52Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
         }
     }
 ]
