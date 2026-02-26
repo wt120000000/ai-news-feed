@@ -1,44 +1,92 @@
 [
     {
-        "id": "68880dd7d12920ce31620e8d6a140dea",
-        "title": "DeepSeek Restricts Access to Upcoming AI Model from Nvidia and AMD",
-        "description": "DeepSeek has reportedly restricted access to its upcoming AI model from semiconductor giants Nvidia and AMD, according to industry sources. This decision represents a notable shift in typical collaboration patterns between AI developers and chip manufacturers, potentially signaling changing dynamics in the competitive artificial intelligence market.",
-        "content": "AI company DeepSeek has reportedly decided to restrict access to its upcoming artificial intelligence model from major semiconductor manufacturers Nvidia and AMD, according to industry sources.\nStrategic Access Restrictions\nThe decision by DeepSeek t... [3232 chars]",
-        "url": "https://scanx.trade/stock-market-news/global/deepseek-restricts-access-to-upcoming-ai-model-from-nvidia-and-amd/33597436",
-        "image": "http://news-images.dhan.co/deepseek-restricts-access-to-upcoming-ai-model-from-nvidia-and-amd.jpg",
-        "publishedAt": "2026-02-25T20:37:16Z",
+        "id": "8e83bba1791779ea4463c3a56806a1e1",
+        "title": "Ohio residents are losing millions a year to sophisticated fraudsters. How?",
+        "description": "In light of National Consumer Protection Week, Cuyahoga County residents reported over $5 million in losses in 2024 as scammers increasingly use artificial intelligence to impersonate government agencies and businesses.",
+        "content": "CLEVELAND, Ohio - Consumer advocates and law enforcement officials across Ohio are urging residents to watch for increasingly sophisticated scams that cost victims millions annually.\nAccording to Ryan Lippe, a consumer educator with the Ohio Attorney... [4819 chars]",
+        "url": "https://www.cleveland.com/news/2026/02/ohio-residents-are-losing-millions-a-year-to-sophisticated-fraudsters-how.html",
+        "image": "https://www.cleveland.com/resizer/v2/SH66QX64JFFABHHBGAZCMRBXAM.jpg?auth=7b9779da14ff391f461295086ea174244dd8e107785a80b439ad0c6c4c084bab&width=1280&smart=true&quality=90",
+        "publishedAt": "2026-02-25T21:50:46Z",
         "lang": "en",
         "source": {
-            "id": "f746366686e467440a63dd26dbb72053",
-            "name": "scanx.trade",
-            "url": "https://scanx.trade",
+            "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
+            "name": "cleveland.com",
+            "url": "https://www.cleveland.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3a9f3458da1b7316ab609dc2b6b756d4",
+        "title": "Nvidia delivers another quarter of stellar growth amid growing concern over AI economy",
+        "description": "Artificial intelligence chipmaker Nvidia on Wednesday announced another quarter of astounding quarterly growth as investors try to decipher whether technology’s latest craze is overblown hyperbole or a springboard into a new era of prosperity and pro...",
+        "content": "Artificial intelligence chipmaker Nvidia on Wednesday announced another quarter of astounding quarterly growth as investors try to decipher whether technology’s latest craze is overblown hyperbole or a springboard into a new era of prosperity and pro... [720 chars]",
+        "url": "https://www.barchart.com/story/news/425965/nvidia-delivers-another-quarter-of-stellar-growth-amid-growing-concern-over-ai-economy",
+        "image": "https://barchart-news-media-prod.aws.barchart.com/ap/43d765d42c174b5c84feabdbfc751f6e/43d765d42c174b5c84feabdbfc751f6e_main_nvidia_results_70703.jpg",
+        "publishedAt": "2026-02-25T21:50:15Z",
+        "lang": "en",
+        "source": {
+            "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+            "name": "Barchart",
+            "url": "https://www.barchart.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "16477dfd4acef1bc0d632a08b56a07b7",
+        "title": "As electric bills rise, Trump says tech companies should pay more",
+        "description": "Silicon Valley is spending hundreds of billions of dollars to build power-hungry data centers for artificial intelligence as demand for electricity is increasing across the US.",
+        "content": "“We’re telling the major tech companies they have the obligation to provide for their own power needs and can build their own power plants so no one’s prices will go up,” Trump said. He called it a “ratepayer protection pledge.”\nTaylor Rogers, a Whit... [6168 chars]",
+        "url": "https://www.bostonglobe.com/2026/02/25/business/electric-bills-trump-tech-companies/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/3SQOI3U5J4EXUTJLQHELE4X2HY.jpg?auth=4fbd0bde54d37614caaff3902295490b6a186045ad99272d683d684ca584e185&width=1440",
+        "publishedAt": "2026-02-25T21:50:03Z",
+        "lang": "en",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ae3b24c75762f23317b0737176386576",
+        "title": "Feds give record $27B in loans for utility expansion in Georgia and Alabama",
+        "description": "Federal energy officials say they will loan a record $27 billion federal loan to Georgia Power and Alabama Power to expand electricity supply. U.S. Energy Secretary Chris Wright announced the loan Wednesday, saying subsidized interest rates will save customers more than $7 billion over time. The utilities plan to build new natural gas plants, add transmission lines, and upgrade older power plants. The loan comes as electricity prices rise faster than inflation in many states. There is also widespread grassroots opposition to new data centers for artificial intelligence.",
+        "content": "ATLANTA (AP) — Federal energy officials on Wednesday announced a record $27 billion loan to electric utilities in Georgia and Alabama, saying the loan will save customers money as the companies undertake a huge expansion driven by demand from compute... [341 chars]",
+        "url": "https://www.ajc.com/news/2026/02/feds-give-record-27b-in-loans-for-utility-expansion-in-georgia-and-alabama/",
+        "image": "https://images.ajc.com/resizer/v2/TZJ2NP3UHVBIVMCSWNOZ2TZFPI.jpg?auth=5df7a663fe5295da40c8e1e06024dec5751ecc3108dbf65c41abd0ad81788b51&width=1200&height=630&smart=true",
+        "publishedAt": "2026-02-25T21:42:57Z",
+        "lang": "en",
+        "source": {
+            "id": "79e9a45376a66fd7e1a4e68bba928c39",
+            "name": "The Atlanta Journal-Constitution",
+            "url": "https://www.ajc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "5aeff321104ebc9e82639e2ceadef70d",
+        "title": "Wall Street Surges Amid AI Optimism, Nasdaq Leads Gains",
+        "description": "Wall Street experienced a surge on Wednesday, driven by tech stocks, reaching two-week highs. The boost was fueled by renewed optimism about artificial intelligence's potential, despite previous concerns over its disruptive nature. Nvidia led gains in the tech sector, significantly boosting the Nasdaq index.",
+        "content": "Wall Street ended on a high note on Wednesday, bolstered by technology stocks, reaching its highest level in two weeks. Investors showed renewed optimism in the burgeoning potential of artificial intelligence, putting aside earlier apprehensions abou... [681 chars]",
+        "url": "https://www.devdiscourse.com/article/headlines/3817936-wall-street-surges-amid-ai-optimism-nasdaq-leads-gains",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/29_09_2025_20_44_22_37319.png?width=920&format=jpeg",
+        "publishedAt": "2026-02-25T21:35:48Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
             "country": "in"
         }
     },
     {
-        "id": "8a064d1bb9eda70d5d2e97196aa80be0",
-        "title": "Minister ‘disappointed’ in OpenAI, but why is AI regulation taking years?",
-        "description": "Artificial Intelligence Minister Evan Solomon said he is giving OpenAI a chance to quickly detail 'concrete' actions before the government addresses the issue through legislation.",
-        "content": "Federal ministers who met with representatives of OpenAI expressed disappointment Wednesday that the company did not present steps it will take to improve its safety measures — including when police are warned of a user’s online behaviour.\nExperts in... [6789 chars]",
-        "url": "https://globalnews.ca/news/11701254/openai-tumbler-ridge-shooting-ministers-regulation/",
-        "image": "https://globalnews.ca/wp-content/uploads/2026/02/Evan-Solomon-OpenAI-meeting-e1772038077500.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2026-02-25T20:36:42Z",
-        "lang": "en",
-        "source": {
-            "id": "49853ffafc28f405ff8ed06043290ae8",
-            "name": "Global News",
-            "url": "https://globalnews.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "3ccf134d99a1fc7a7d62e6e6b1fe6136",
-        "title": "Exclusive: DeepSeek withholds latest AI model from US chipmakers including Nvidia, sources say",
-        "description": "DeepSeek, the Chinese artificial intelligence lab whose low-cost model rattled global markets last year, has not shown U.S. chipmakers its upcoming flagship model for performance optimization, two sources familiar with the matter said, breaking from standard industry practice ahead of a major model update.",
-        "content": "SAN FRANCISCO/SINGAPORE, Feb 25 (Reuters) - DeepSeek, the Chinese artificial intelligence lab whose low-cost model rattled global markets last year, has not shown U.S. chipmakers its upcoming flagship model for performance optimization, two sources f... [2928 chars]",
-        "url": "https://www.reuters.com/world/china/deepseek-withholds-latest-ai-model-us-chipmakers-including-nvidia-sources-say-2026-02-25/",
-        "image": "https://www.reuters.com/resizer/v2/SYDUGY54FFJUPFS65PNYPDRAGM.jpg?auth=735f89da0dbea4f7647e851980726db62eaf74960efd3205b8d3a0b275218be1&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-02-25T20:32:05Z",
+        "id": "157a377bafa8aa74286a5932f250fad4",
+        "title": "Nvidia forecasts upbeat quarterly sales as AI boosts chip demand",
+        "description": "Chipmaker Nvidia forecast first-quarter revenue above market estimates on Wednesday, betting on Big Tech's unabated spending on its artificial intelligence processors amid widespread scrutiny of massive AI investments.",
+        "content": "Shares of the company rose over 3% in extended trading.\nSign up here.\nThe world's most valuable company expects fiscal first-quarter sales of $78 billion, plus or minus 2%, compared with analysts' average estimate of $72.60 billion, according to data... [2285 chars]",
+        "url": "https://www.reuters.com/world/asia-pacific/nvidia-forecasts-first-quarter-sales-above-estimates-2026-02-25/",
+        "image": "https://www.reuters.com/resizer/v2/TPII2YQ7HBLJLLK2PZ7VQQJCLM.jpg?auth=9ae79fe59838e45961d2fc142025ab2b21d13656fe2d161cfa6117448cab67ab&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-02-25T21:35:05Z",
         "lang": "en",
         "source": {
             "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -48,13 +96,13 @@
         }
     },
     {
-        "id": "9cc16e91a6b6d132a196659e277a5fc5",
-        "title": "DeepSeek withholds latest AI model from US chipmakers including Nvidia, sources say",
-        "description": "DeepSeek, the Chinese artificial intelligence lab whose low-cost model rattled global markets last year, has not shown U.S. chipmakers its upcoming flagship model for performance optimization, two...\n-February 25, 2026 at 03:31 pm EST\n- MarketScreener",
-        "content": "SAN FRANCISCO/SINGAPORE, Feb 25 (Reuters) - DeepSeek, the Chinese artificial intelligence lab whose low-cost model rattled global markets last year, has not shown U.S. chipmakers its upcoming flagship model for performance optimization, two sources f... [3239 chars]",
-        "url": "https://www.marketscreener.com/news/deepseek-withholds-latest-ai-model-from-us-chipmakers-including-nvidia-sources-say-ce7e5cd8db89f621",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-02/2026-02-25T203145Z_1_LYNXMPEM1O15N_RTROPTP_4_USA-CHINA-DEEPSEEK-NVIDIA.JPG",
-        "publishedAt": "2026-02-25T20:31:49Z",
+        "id": "01207516257acbf16059b1bdb34e8139",
+        "title": "Nvidia forecasts first-quarter sales above estimates",
+        "description": "Chipmaker Nvidia forecast first-quarter revenue above market estimates on Wednesday, betting on Big Tech's unabated spending on its artificial intelligence processors amid widespread scrutiny of...",
+        "content": "Feb 25 (Reuters) - Chipmaker Nvidia forecast first-quarter revenue above market estimates on Wednesday, betting on Big Tech's unabated spending on its artificial intelligence processors amid widespread scrutiny of massive AI investments.\nShares of Nv... [1834 chars]",
+        "url": "https://www.marketscreener.com/news/nvidia-forecasts-first-quarter-sales-above-estimates-ce7e5cd8db8ef222",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-17T223126Z_1_LYNXNPEL9G11S_RTROPTP_4_NVIDIA-TSMC.JPG",
+        "publishedAt": "2026-02-25T21:34:53Z",
         "lang": "en",
         "source": {
             "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -64,99 +112,51 @@
         }
     },
     {
-        "id": "5f04dde4d2a830bbf12e10cf471e6e4b",
-        "title": "Tech stocks shake off panic over AI 'doomsday scenario' where unemployment hits 10%",
-        "description": "Tech stocks clawed back losses from a day-earlier rout over a viral research report that warned of a dystopian future in which artificial intelligence causes unemployment to surge above 10%.",
-        "content": "Tech stocks clawed back losses from a day-earlier rout over a viral research report that warned of a dystopian future in which artificial intelligence causes unemployment to surge above 10%.\nAfter selling off earlier in the week, the tech-heavy Nasda... [2793 chars]",
-        "url": "https://nypost.com/2026/02/25/business/tech-stocks-shake-off-panic-over-ai-doomsday-scenario-where-unemployment-hits-10/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/02/stock-trader-peter-tuchman-works-122187130.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-02-25T20:27:41Z",
+        "id": "e71959afa1ffb3767bcdd35673252dd2",
+        "title": "Kyoto University develops AI monk robot equipped with Buddhist scriptures",
+        "description": "Kyoto University this week unveiled a robot monk with built-in artificial intelligence that was trained on Buddhist scriptures, hoping it will be able to aid or act on behalf of monks during certain religious services. A research team at the university showcased the so-called Buddharoid at the Shoren-in temple in…",
+        "content": "Kyoto University this week unveiled a robot monk with built-in artificial intelligence that was trained on Buddhist scriptures, hoping it will be able to aid or act on behalf of monks during certain religious services.\nA research team at the universi... [877 chars]",
+        "url": "https://japantoday.com/category/tech/kyoto-university-develops-ai-monk-robot-equipped-with-buddhist-scriptures",
+        "image": "https://media.japantoday.com/img/store/1b/36/3b01260ef814fbc76b26ed3480f8b15b29e7/20260224kw___0033800010-ph-----n-ci0004/_w1700.jpeg",
+        "publishedAt": "2026-02-25T21:32:00Z",
         "lang": "en",
         "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "ab6ef62bd41af5a648ed431bead9b1a5",
+        "title": "Opinion | How India can lead the charge for inclusive AI",
+        "description": "The AI Impact summit showcased India’s commitment to placing human well-being at the heart of the global artificial intelligence conversation.",
+        "content": "India brings scale and energy to everything it does and this summit was no exception. Representatives from over 100 nations came together. Innovators showcased cutting-edge AI products and services. Thousands of young people could be seen in the exhi... [1389 chars]",
+        "url": "https://www.scmp.com/opinion/asia-opinion/article/3344463/how-india-can-lead-charge-inclusive-ai",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/02/25/ce0a5d2a-d59f-49c6-8945-86bd08c49230_0b89c434.jpg?itok=MoK12WjU&v=1772002023",
+        "publishedAt": "2026-02-25T21:30:08Z",
+        "lang": "en",
+        "source": {
+            "id": "d6397b77175680e2678c0d60edcee7af",
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com",
+            "country": "hk"
+        }
+    },
+    {
+        "id": "18afc698e982ce5d2ae895f743c6fb06",
+        "title": "Virtus Artificial Intelligence & Technology Opportunities Fund Discloses Sources of Distribution - Section 19(a) Notice",
+        "description": "Virtus Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO) previously announced the following monthly distribution on November 19, 2025: Tick...",
+        "content": "HARTFORD, Conn.--(BUSINESS WIRE)--Virtus Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO) previously announced the following monthly distribution on November 19, 2025:\nUnder the terms of its Managed Distribution Plan, the Fund will... [3141 chars]",
+        "url": "https://www.businesswire.com/news/home/20260225196307/en/Virtus-Artificial-Intelligence-Technology-Opportunities-Fund-Discloses-Sources-of-Distribution-Section-19a-Notice",
+        "image": "https://mms.businesswire.com/media/20260225196307/en/2730779/22/Virtus_Funds_Logo_NEW.jpg",
+        "publishedAt": "2026-02-25T21:10:00Z",
+        "lang": "en",
+        "source": {
+            "id": "d4773b92da0613b8ffc2fc9c46229534",
+            "name": "Business Wire",
+            "url": "https://www.businesswire.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "308eb56e0d5b701f55c067bede1c4dd4",
-        "title": "Americans, White House wants you to know it is negotiating with Google, Microsoft, Amazon, Meta and others to keep your electricity bills down",
-        "description": "Tech News News: The White House plans to make data center and artificial intelligence companies including Google, Microsoft, Anthropic, Amazon and Meta Platforms take.",
-        "content": "White House\nThe White House plans to make data center and artificial intelligence companies including Google, Microsoft, Anthropic, Amazon and Meta Platforms take a vow that they will foot their energy bills. The deal likely to be announced next mont... [3878 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/americans-white-house-wants-you-to-know-it-is-negotiating-with-google-microsoft-amazon-meta-and-others-to-keep-your-electricity-bills-down/articleshow/128794141.cms",
-        "image": "https://static.toiimg.com/thumb/msid-128794131,width-1280,height-720,imgsize-70012,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-02-25T19:50:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c3895bee129a4a07f2169e47210b8d2f",
-        "title": "Eric Maida: Beyond the Boardroom: The Rise of the Embedded GTM Executive",
-        "description": "Enterprise artificial intelligence (AI) pilots are everywhere, yet scaled deployment remains elusive, with many initiatives stalling before they deliver any measurable impact. The organizations that are able to move beyond experimentation are rethinking leadership itself, embedding go-to-market (GTM) execution directly into the operational core of AI adoption to convert technical potential into commercial conviction. At […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nEnterprise artificial intelligence (AI) pilots are everywhere, yet scaled deployment remains elusive, with many initiatives stalling before they deliver any measurable impact. The organizations that are able to move beyo... [5465 chars]",
-        "url": "https://techbullion.com/eric-maida-beyond-the-boardroom-the-rise-of-the-embedded-gtm-executive/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/02/Eric-Maida.jpg",
-        "publishedAt": "2026-02-25T19:39:56Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "320ea52ca9c6a0d28b77b2898ea07969",
-        "title": "Samsung unveils Galaxy S26 loaded with AI features - and a privacy shield",
-        "description": "Samsung on Wednesday unveiled its latest Galaxy smartphones, which boast an even bigger toolbox of artificial intelligence technology than the previous two generations and introduce a new privacy shield mode that blocks snoopy bystanders from sneaking a peek at the display screen.",
-        "content": "Samsung on Wednesday unveiled its latest Galaxy smartphones, which boast an even bigger toolbox of artificial intelligence technology than the previous two generations and introduce a new privacy shield mode that blocks snoopy bystanders from sneakin... [3586 chars]",
-        "url": "https://nypost.com/2026/02/25/business/samsung-unveils-galaxy-s26-loaded-with-ai-features-and-a-privacy-shield/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/02/samsung-galaxy-s26.jpg?quality=75&strip=all&1772029051&w=1200",
-        "publishedAt": "2026-02-25T19:34:42Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9a80451762ba1513dd4ff34710724033",
-        "title": "c: Beyond the Boardroom: The Rise of the Embedded GTM Executive",
-        "description": "Enterprise artificial intelligence (AI) pilots are everywhere, yet scaled deployment remains elusive, with many initiatives stalling before they deliver any measurable impact. The organizations that are able to move beyond experimentation are rethinking leadership itself, embedding go-to-market (GTM) execution directly into the operational core of AI adoption to convert technical potential into commercial conviction. At […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nEnterprise artificial intelligence (AI) pilots are everywhere, yet scaled deployment remains elusive, with many initiatives stalling before they deliver any measurable impact. The organizations that are able to move beyo... [5465 chars]",
-        "url": "https://techbullion.com/c-beyond-the-boardroom-the-rise-of-the-embedded-gtm-executive/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/02/Eric-Maida.jpg",
-        "publishedAt": "2026-02-25T19:34:05Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "f56f1413602a6038a6d400974253caeb",
-        "title": "Ministers raise prospect of new AI safety regulations as shooting questions mount",
-        "description": "Two federal ministers signalled today that Ottawa could act to improve online safety related to artificial intelligence as questions mount about OpenAI's decision not to warn police about Tumbler Ridge shooter Jesse Van Rootselaar.",
-        "content": "Two federal ministers signalled today that Ottawa could act to improve online safety related to artificial intelligence as questions mount about OpenAI’s decision not to warn police about Tumbler Ridge shooter Jesse Van Rootselaar.\nThe company’s hand... [1063 chars]",
-        "url": "https://cheknews.ca/ministers-raise-prospect-of-new-ai-safety-regulations-as-shooting-questions-mount-1307762/",
-        "image": "https://i0.wp.com/cheknews.ca/wp-content/uploads/2026/02/604928e58c5063d0cdc7d4b98c5f571a8298da36955e34b8ac223284cfb806e7-e1772044894244.jpg?fit=1400%2C790&quality=89&ssl=1",
-        "publishedAt": "2026-02-25T19:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "010284b7a4ddb4771793c29b39893951",
-            "name": "CHEK News",
-            "url": "https://cheknews.ca",
-            "country": "ca"
         }
     }
 ]
