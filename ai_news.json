@@ -1,12 +1,92 @@
 [
     {
-        "id": "8328d9636f394b68f5b927d11268f34b",
-        "title": "Doomsday or deep value: India's IT stocks at crossroads after 20% crash",
-        "description": "India's Nifty IT index is experiencing a significant downturn, with investors fearing artificial intelligence could render the current IT model obsolete. While some analysts see an attractive entry point due to market overreaction, others warn of sustained underperformance and structural obsolescence, questioning the sector's long-term trajectory and current valuations.",
-        "content": "India's Nifty IT index, which represents the top 10 software services companies listed on Dalal Street, is ending February down about 20% to remind investors of the September 2008 collapse when Lehman Brothers was taking the global financial system d... [7455 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/doomsday-or-deep-value-indias-it-stocks-at-crossroads-after-20-crash/articleshow/128835881.cms",
-        "image": "https://img.etimg.com/thumb/msid-128835868,width-1200,height-630,imgsize-14293,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-02-27T03:26:00Z",
+        "id": "96a0a112c597bd49ee778ebeb3e88904",
+        "title": "Anthropic Blocks AI Access For Firms Linked To Chinese Communist Party",
+        "description": "US-based Artificial Intelligence company Anthropic has said it cut off access to its AI model- Claude for firms linked to the Chinese Communist Party (CCP), forgoing several hundred million dollars in revenue",
+        "content": "US-based Artificial Intelligence company Anthropic has said it cut off access to its AI model- Claude for firms linked to the Chinese Communist Party (CCP), forgoing several hundred million dollars in revenue as part of efforts to safeguard America's... [2822 chars]",
+        "url": "https://www.ndtv.com/world-news/anthropic-blocks-ai-model-claude-access-for-firms-linked-to-chinese-communist-party-11143362",
+        "image": "https://c.ndtvimg.com/2026-02/fs7gcmeg_anthropic_625x300_27_February_26.jpeg",
+        "publishedAt": "2026-02-27T04:42:09Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "98f9874ba1e52e0dd9be2eea89e33d30",
+        "title": "Govt launches casebook on AI and gender empowerment",
+        "description": "Govt launches casebook on AI and gender empowerment - New Delhi, Feb 27 In a significant milestone in India's commitment to inclusive and ethical artificial intelligence (AI) ... Get Latest News on Health only on lokmattimes.com",
+        "content": "New Delhi, Feb 27 In a significant milestone in India's commitment to inclusive and ethical artificial intelligence (AI) advancement, the government has launched a Casebook on AI and Gender Empowerment, IT Ministry said on Friday.\nOfficially launched... [2349 chars]",
+        "url": "https://www.lokmattimes.com/health/govt-launches-casebook-on-ai-and-gender-empowerment-1/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602200164f_pENFFs2_202602.jpg",
+        "publishedAt": "2026-02-27T04:36:16Z",
+        "lang": "en",
+        "source": {
+            "id": "f2ddccedc9e60d844e7a1045928cad48",
+            "name": "Lokmat Times",
+            "url": "https://www.lokmattimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "857c076ad4e7e9340652171b76cb2d34",
+        "title": "Govt launches casebook on AI and gender empowerment",
+        "description": "Govt launches casebook on AI and gender empowerment - New Delhi, Feb 27 In a significant milestone in India's commitment to inclusive and ethical artificial intelligence (AI) ... Get Latest News on Technology only on lokmattimes.com",
+        "content": "New Delhi, Feb 27 In a significant milestone in India's commitment to inclusive and ethical artificial intelligence (AI) advancement, the government has launched a Casebook on AI and Gender Empowerment, IT Ministry said on Friday.\nOfficially launched... [2349 chars]",
+        "url": "https://www.lokmattimes.com/technology/govt-launches-casebook-on-ai-and-gender-empowerment-2/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602200164f_pENFFs2_202602.jpg",
+        "publishedAt": "2026-02-27T04:36:16Z",
+        "lang": "en",
+        "source": {
+            "id": "f2ddccedc9e60d844e7a1045928cad48",
+            "name": "Lokmat Times",
+            "url": "https://www.lokmattimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "f2b7b2d4a5322265756ee5767d34ab8d",
+        "title": "Govt launches casebook on AI and gender empowerment",
+        "description": "Govt launches casebook on AI and gender empowerment - New Delhi, Feb 27 In a significant milestone in India's commitment to inclusive and ethical artificial intelligence (AI) ... Get Latest News on Business only on lokmattimes.com",
+        "content": "New Delhi, Feb 27 In a significant milestone in India's commitment to inclusive and ethical artificial intelligence (AI) advancement, the government has launched a Casebook on AI and Gender Empowerment, IT Ministry said on Friday.\nOfficially launched... [2349 chars]",
+        "url": "https://www.lokmattimes.com/business/govt-launches-casebook-on-ai-and-gender-empowerment/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602200164f_pENFFs2_202602.jpg",
+        "publishedAt": "2026-02-27T04:36:16Z",
+        "lang": "en",
+        "source": {
+            "id": "f2ddccedc9e60d844e7a1045928cad48",
+            "name": "Lokmat Times",
+            "url": "https://www.lokmattimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "a03f9d2cc186141d666991a9a523bcc7",
+        "title": "WFR Highlights the AI Infrastructure Power Players Transforming Compute",
+        "description": "The artificial intelligence revolution is expanding far beyond algorithms and breakthrough model architectures. Behind every ChatGPT‑style rollout and generative service lies a sprawling, complex infrastructure: massive GPU clusters, sovereign data centers, hybrid clouds, inference engines, and edge compute networks. This foundational layer is now the center of intense competition and strategic investment, as highlighted in […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nThe artificial intelligence revolution is expanding far beyond algorithms and breakthrough model architectures. Behind every ChatGPT‑style rollout and generative service lies a sprawling, complex infrastructure: massive ... [4959 chars]",
+        "url": "https://techbullion.com/wfr-highlights-the-ai-infrastructure-power-players-transforming-compute/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-213130.png",
+        "publishedAt": "2026-02-27T04:31:42Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "84ed4832c7f1b5b39aecae04b4323738",
+        "title": "Duolingo prioritises user growth over monetisation, forecasts softer bookings",
+        "description": "As part of the push, Duolingo said it will expand access to its artificial intelligence-powered \"Video ​Call with Lily\" feature by adding it to its Super Duolingo subscription, rather than limiting it to the ​premium Max tier.",
+        "content": "Synopsis\nAs part of the push, Duolingo said it will expand access to its artificial intelligence-powered \"Video ​Call with Lily\" feature by adding it to its Super Duolingo subscription, rather than limiting it to the ​premium Max tier.\nDuolingo forec... [2458 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/duolingo-prioritises-user-growth-over-monetisation-forecasts-softer-bookings/articleshow/128836732.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-48710,resizemode-75,msid-128836732/tech/technology/duolingo-prioritises-user-growth-over-monetisation-forecasts-softer-bookings.jpg",
+        "publishedAt": "2026-02-27T04:19:19Z",
         "lang": "en",
         "source": {
             "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -16,77 +96,29 @@
         }
     },
     {
-        "id": "52bf8d1a74ad5d9960aaffa6914f1221",
-        "title": "Sprout Solutions Powers HR and PayrollGrowth with Human",
-        "description": "Manila, Philippines — As artificial intelligence (AI) becomes more deeply embedded in workplace systems, Sprout Solutions is urging Philippine businesses",
-        "content": "Manila, Philippines — As artificial intelligence (AI) becomes more deeply embedded in workplace systems,\nSprout Solutions is urging Philippine businesses to rethink how AI is applied in HR and payroll as a tool to\nstrengthen trust, compliance, and hu... [5621 chars]",
-        "url": "https://manilastandard.net/spotlight/314709023/sprout-solutions-powers-hr-and-payrollgrowth-with-human-led-ai.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/02/sprout-solutions.jpg",
-        "publishedAt": "2026-02-27T03:20:04Z",
+        "id": "c2490ec3e9ed62c365503e8ab8ea89d1",
+        "title": "Jack Dorsey's Block Cuts 4,000 Jobs Amid AI-Driven Overhaul",
+        "description": "Block cuts nearly 40% of its workforce, with Jack Dorsey saying artificial intelligence is reshaping how companies are built and run.",
+        "content": "Block, the financial technology company that owns Square, Cash App, and Tidal, announced on Thursday that it would slash its workforce by 40%, citing the growing use of “intelligence tools”.\nIn a detailed note on the job cuts, co-founder and CEO Jack... [3435 chars]",
+        "url": "https://www.ndtvprofit.com/business/jack-dorseys-block-cuts-4-000-jobs-amid-ai-driven-overhaul-11143148",
+        "image": "https://c.ndtvimg.com/2026-02/7a5glb54_jack-dorsey_625x300_27_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1080,height=607",
+        "publishedAt": "2026-02-27T04:08:07Z",
         "lang": "en",
         "source": {
-            "id": "e9207083a357fb7e76b38e485888ebe7",
-            "name": "manilastandard.net",
-            "url": "https://manilastandard.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "27f79cfef7205b072bf27b500830553c",
-        "title": "Anthropic cuts off Claude access to China's Communist Party",
-        "description": "US-based artificial intelligence company Anthropic has said it cut off access to its AI model Claude for firms linked to the Chinese Communist Party (CCP), forgoing several hundred million dollars in revenue as part of efforts to safeguard America's technological lead.",
-        "content": "Washington DC [US], February 27 (ANI): US-based Artificial Intelligence company Anthropic has said it cut had off access to its AI model- Claude for firms linked to the Chinese Communist Party (CCP), forgoing several hundred million dollars in revenu... [3046 chars]",
-        "url": "https://www.tribuneindia.com/news/world/anthropic-cuts-off-claude-access-to-chinas-communist-party-linked-firms/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ5MTBhNGYwLTEzODktMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-        "publishedAt": "2026-02-27T03:10:13Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
+            "id": "73aabc646bff1356a46223f250cc6b52",
+            "name": "NDTV Profit",
+            "url": "https://www.ndtvprofit.com",
             "country": "in"
         }
     },
     {
-        "id": "5a3db57484863145178273e11e9fe06e",
-        "title": "Anthropic CEO says AI company cannot accede to Pentagon demands",
-        "description": "Anthropic CEO Dario Amodei says the artificial intelligence company “cannot in good conscience accede” to the Pentagon’s demands to allow wider use of its technology.",
-        "content": "WASHINGTON — Anthropic CEO Dario Amodei said Thursday the artificial intelligence company “cannot in good conscience accede” to the Pentagon’s demands to allow unrestricted use of its technology, deepening the unusually public clash with the Trump ad... [4058 chars]",
-        "url": "https://www.chicagotribune.com/2026/02/26/anthropic-pentagon-demands/",
-        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/02/Anthropic_04555_d9bf45-1.jpg?w=1024&h=683",
-        "publishedAt": "2026-02-27T03:09:17Z",
-        "lang": "en",
-        "source": {
-            "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
-            "name": "Chicago Tribune",
-            "url": "https://www.chicagotribune.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "8be4a67f0007ad15a6a01c1d3342541c",
-        "title": "AI Gains Can Be Unlocked Without Cutting Jobs, Morningstar Says",
-        "description": "Companies are increasingly using artificial intelligence as justification for cutting headcount and trimming costs, rather than using the technology to boost productivity by redeploying workers, according to Morningstar Inc.",
-        "content": "Companies are increasingly using artificial intelligence as justification for cutting headcount and trimming costs, rather than using the technology to boost productivity by redeploying workers, according to Morningstar Inc.\n“The market, it seems, is... [310 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-27/ai-gains-can-be-unlocked-without-cutting-jobs-morningstar-says",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5_dOa2ZYKB0/v0/1200x800.jpg",
-        "publishedAt": "2026-02-27T03:05:33Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "454a8c8a8cbe1654f0ef2eee6d81101b",
-        "title": "OpenAI outlines steps to boost safety measures in response to Canada school shooting",
-        "description": "The ChatGPT maker detailed the ​steps in a letter to Canada's minister in charge of artificial intelligence, Evan Solomon.",
-        "content": "Synopsis\nThe ChatGPT maker detailed the ​steps in a letter to Canada's minister in charge of artificial intelligence, Evan Solomon.\nOpenAI said on Thursday it will set up a direct point of contact with Canadian law enforcement ‌and improve detection ... [2608 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/openai-outlines-steps-to-boost-safety-measures-in-response-to-canada-school-shooting/articleshow/128835494.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-65688,resizemode-75,msid-128835494/tech/technology/openai-outlines-steps-to-boost-safety-measures-in-response-to-canada-school-shooting.jpg",
-        "publishedAt": "2026-02-27T03:03:20Z",
+        "id": "8bf1df619a223f2f58c8a2e36beb1d2d",
+        "title": "Jack Dorsey’s Block to cut 4,000 jobs in AI overhaul; shares jump 25% after hours",
+        "description": "Block is cutting over 4,000 jobs, nearly half its staff. This move signals how artificial intelligence is changing businesses. CEO Jack Dorsey stated that a smaller team using AI tools can achieve more. Investors are rewarding companies showing AI-driven cost savings. Block expects restructuring charges of up to $500 million.",
+        "content": "Synopsis\nBlock is cutting over 4,000 jobs, nearly half its staff. This move signals how artificial intelligence is changing businesses. CEO Jack Dorsey stated that a smaller team using AI tools can achieve more. Investors are rewarding companies show... [4186 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/jack-dorseys-block-to-cut-4000-jobs-in-ai-overhaul-shares-jump-25-after-hours/articleshow/128836450.cms",
+        "image": "https://img.etimg.com/thumb/msid-128836477,width-1200,height-630,imgsize-1020587,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-02-27T04:00:00Z",
         "lang": "en",
         "source": {
             "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -96,13 +128,13 @@
         }
     },
     {
-        "id": "cb53ef6a791464a1c661a16dc093a118",
-        "title": "AI in school curriculum; students in T to get breakfast, milk",
-        "description": "Hyderabad: In a major transformation of the state's education system, chief minister A Revanth Reddy announced that Artificial Intelligence (AI) will .",
-        "content": "Hyderabad: In a major transformation of the state's education system, chief minister A Revanth Reddy announced that Artificial Intelligence (AI) will be integrated into the school curriculum starting from the 2026-27 academic year. Reviewing the educ... [2726 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/hyderabad/ai-in-school-curriculum-students-in-t-to-get-breakfast-milk/articleshow/128824984.cms",
-        "image": "https://static.toiimg.com/thumb/msid-128824981,width-1280,height-720,imgsize-24192,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-02-27T02:53:00Z",
+        "id": "dd85ced68d42042541a5ac619397b67b",
+        "title": "Are we about to become batteries for AI? A 2030 thought experiment on work, energy and human worth",
+        "description": "Trending News: An in-depth look at a chilling 2030 thought experiment where AI wipes out most jobs and humans become energy generators for data centres. From the fictional Energym startup featuring AI deepfakes of Elon Musk, Jeff Bezos and Sam Altman, to Black Mirror and The Matrix parallels, this analysis explores how automation, gym culture and energy efficiency could turn human bodies into batteries for artificial intelligence.",
+        "content": "In the viral video, by 2030, 80 percent of jobs are gone, and humans generate electricity, offering power to the AI that replaced them/ Image: X\nFor most of human history, strength did not need branding. If someone had thick wrists, a heavy gait, a b... [15443 chars]",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/are-we-about-to-become-batteries-for-ai-a-2030-thought-experiment-on-work-energy-and-human-worth/articleshow/128819039.cms",
+        "image": "https://static.toiimg.com/thumb/msid-128835929,width-1280,height-720,imgsize-1095629,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-02-27T03:45:00Z",
         "lang": "en",
         "source": {
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -112,51 +144,19 @@
         }
     },
     {
-        "id": "037297b38910e9669bc81de0868a47b8",
-        "title": "eMudhra Launches New AI Security Platform to Build Trust in AI Economy",
-        "description": "eMudhra has launched a new AI security platform to build trust in the AI economy. This initiative represents the company's strategic expansion into AI-focused cybersecurity solutions, positioning it to address growing security challenges in artificial intelligence implementations across industries.",
-        "content": "eMudhra has announced the launch of a new artificial intelligence security platform designed to build trust in the AI economy. This strategic initiative marks the company's expansion into AI-focused cybersecurity solutions.\nNew AI Security Platform L... [3652 chars]",
-        "url": "https://scanx.trade/stock-market-news/stocks/emudhra-launches-new-ai-security-platform-to-build-trust-in-ai-economy/33705936",
-        "image": "http://news-images.dhan.co/emudhra-launches-new-ai-security-platform-to-build-trust-in-ai-economy.jpg",
-        "publishedAt": "2026-02-27T02:45:36Z",
-        "lang": "en",
-        "source": {
-            "id": "f746366686e467440a63dd26dbb72053",
-            "name": "scanx.trade",
-            "url": "https://scanx.trade",
-            "country": "in"
-        }
-    },
-    {
-        "id": "0ddf52b87a31b35dd4cce8b435bbd919",
-        "title": "AI use in warfare: Anthropic rejects US demand for ‘unrestricted’ military access",
-        "description": "US News: Anthropic CEO Dario Amodei on Thursday said the artificial intelligence company “cannot in good conscience accede” to Pentagon demands for unrestricte.",
-        "content": "The AI battle: Defence secretary Pete Hegseth and Anthropic CEO Dario Amodei.\nAnthropic CEO Dario Amodei on Thursday said the artificial intelligence company “cannot in good conscience accede” to Pentagon demands for unrestricted use of its technolog... [3964 chars]",
-        "url": "https://timesofindia.indiatimes.com/world/us/ai-use-in-warfare-anthropic-rejects-us-demand-for-unrestricted-military-access/articleshow/128834700.cms",
-        "image": "https://static.toiimg.com/thumb/msid-128834923,width-1280,height-720,imgsize-943794,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-02-27T02:22:00Z",
+        "id": "4b6e5711657c168a57adf2b56dc2af5a",
+        "title": "Are we about to become batteries for AI? A 2030 thought experiment on work, energy and human worth",
+        "description": "Trending News: An in-depth look at a chilling 2030 thought experiment where AI wipes out most jobs and humans become energy generators for data centres. From the fictional Energym startup featuring AI deepfakes of Elon Musk, Jeff Bezos and Sam Altman, to Black Mirror and The Matrix parallels, this analysis explores how automation, gym culture and energy efficiency could turn human bodies into batteries for artificial intelligence.",
+        "content": "In the viral video, by 2030, 80 percent of jobs are gone, and humans generate electricity, offering power to the AI that replaced them/ Image: X\nFor most of human history, strength did not need branding. If someone had thick wrists, a heavy gait, a b... [16776 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/are-we-about-to-become-batteries-for-ai-a-2030-thought-experiment-on-work-energy-and-human-worth/articleshow/128819039.cms",
+        "image": "https://static.toiimg.com/thumb/msid-128835929,width-1280,height-720,imgsize-1095629,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-02-27T03:45:00Z",
         "lang": "en",
         "source": {
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "f5442ca930e27d72b22cc2ba14b2db03",
-        "title": "Deadline looms in AI fight between Anthropic and the Pentagon : NPR",
-        "description": "The Defense Department has been feuding with Anthropic over military uses of its artificial intelligence tools. At stake are hundreds of millions of dollars in contracts and access to some of the most advanced AI on the planet.",
-        "content": "The Pentagon is headed for a showdown with Anthropic, one of the world's most powerful AI companies, over the military use of its AI model is set to come to a head Friday, after Anthropic's CEO rejected the Defense Department's ultimatum that it loos... [6637 chars]",
-        "url": "https://www.npr.org/2026/02/26/nx-s1-5727847/anthropic-defense-hegseth-ai-weapons-surveillance",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2F07%2F3fdd67a641fd838078148a0a5cb8%2Fap26057633604555.jpg",
-        "publishedAt": "2026-02-27T02:19:45Z",
-        "lang": "en",
-        "source": {
-            "id": "b41851fb2662ea502db29f71ec4d1583",
-            "name": "NPR",
-            "url": "https://www.npr.org",
-            "country": "us"
         }
     }
 ]
