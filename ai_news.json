@@ -1,5 +1,85 @@
 [
     {
+        "id": "ddd10ad20fb57b6b1f9e51964a69ae64",
+        "title": "Sam Altman Reveals OpenAI ‘Agreement’ With DOD as Anthropic Phases Out",
+        "description": "The dispute centers on broader debates over the evolving role artificial intelligence plays in national security.",
+        "content": "OpenAI CEO Sam Altman revealed an \"agreement\" with the Department of Defense (DOD) on Friday to deploy the company's models in the department's \"classified network.\"\nThis comes after President Donald Trump ordered federal agencies to start phasing ou... [2079 chars]",
+        "url": "https://www.newsweek.com/sam-altman-reveals-openai-agreement-with-dod-as-anthropic-phases-out-11596417",
+        "image": "https://assets.newsweek.com/wp-content/uploads/2026/02/GettyImages-2226497243.jpg?w=1200crop=1",
+        "publishedAt": "2026-02-28T05:09:14Z",
+        "lang": "en",
+        "source": {
+            "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+            "name": "Newsweek",
+            "url": "https://www.newsweek.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "36a0c0a7ba73d8a8c4813d45f9ce02c2",
+        "title": "Pentagon shuns Anthropic, picks OpenAI models in its classified network",
+        "description": "Pentagon shuns Anthropic, picks OpenAI models in its classified network - New Delhi, Feb 28 The United States Department of Defense has decided to deploy OpenAI’s artificial intelligence models ... Get Latest News on Technology only on lokmattimes.com",
+        "content": "New Delhi, Feb 28 The United States Department of Defense has decided to deploy OpenAI’s artificial intelligence models on its classified network, even as it distances itself from Anthropic over disagreements on AI safety and military use, OpenAI chi... [2778 chars]",
+        "url": "https://www.lokmattimes.com/technology/pentagon-shuns-anthropic-picks-openai-models-in-its-classified-network-1/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602283690883_202602.jpg",
+        "publishedAt": "2026-02-28T05:01:42Z",
+        "lang": "en",
+        "source": {
+            "id": "f2ddccedc9e60d844e7a1045928cad48",
+            "name": "Lokmat Times",
+            "url": "https://www.lokmattimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "7efba36110065f1406ab7c634c22d35a",
+        "title": "Pentagon shuns Anthropic, picks OpenAI models in its classified network",
+        "description": "Pentagon shuns Anthropic, picks OpenAI models in its classified network - New Delhi, Feb 28 The United States Department of Defense has decided to deploy OpenAI’s artificial intelligence models ... Get Latest News on Business only on lokmattimes.com",
+        "content": "New Delhi, Feb 28 The United States Department of Defense has decided to deploy OpenAI’s artificial intelligence models on its classified network, even as it distances itself from Anthropic over disagreements on AI safety and military use, OpenAI chi... [2778 chars]",
+        "url": "https://www.lokmattimes.com/business/pentagon-shuns-anthropic-picks-openai-models-in-its-classified-network/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602283690883_202602.jpg",
+        "publishedAt": "2026-02-28T05:01:42Z",
+        "lang": "en",
+        "source": {
+            "id": "f2ddccedc9e60d844e7a1045928cad48",
+            "name": "Lokmat Times",
+            "url": "https://www.lokmattimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "bb82f4a1e8850809ee04a22468f41fda",
+        "title": "From doctors to taxi drivers: AI could replace eight million jobs - is yours at risk?",
+        "description": "With artificial intelligence predicted to take over eight million jobs, technology columnist Jonathan Margolis has some employment advice",
+        "content": "Today, if your career choice means you work in front of a computer screen, AI is after your job; Mustafa Suleyman, Microsoft’s head of AI, believes most white-collar work will be ‘fully automated’ within 12 to 18 months.\nAnd a few boffins in AI are s... [7577 chars]",
+        "url": "https://www.dailymail.co.uk/lifestyle/article-15591409/From-doctors-taxi-drivers-AI-replace-eight-million-jobs-risk.html",
+        "image": "https://i.dailymail.co.uk/1s/2026/02/25/12/106666311-0-image-a-238_1772023996282.jpg",
+        "publishedAt": "2026-02-28T05:00:46Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "076f0b9278e88e4373cfcbf09172687f",
+        "title": "From Sarvam AI, Krutrim to InVideo: Meet India’s top 10 startups driving the AI revolution",
+        "description": "With the worldwide AI industry valued at $346 billion, India is accelerating efforts to create the necessary infrastructure to foster and expand domestically developed artificial intelligence solutions.",
+        "content": "India’s artificial intelligence industry is witnessing rapid growth, with startups building solutions not just for domestic markets but for global customers as well. From large language models trained in Indian languages to AI tools for marketing, vi... [2850 chars]",
+        "url": "https://www.financialexpress.com/life/technology-from-sarvam-ai-krutrim-to-invideo-meet-indias-top-10-startups-driving-the-ai-revolution-4156804/",
+        "image": "https://images.financialexpressdigital.com/2026/02/Untitled-design-40-2.jpg",
+        "publishedAt": "2026-02-28T04:42:55Z",
+        "lang": "en",
+        "source": {
+            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+            "name": "The Financial Express",
+            "url": "https://www.financialexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "c36d03aa9eb73f9b7ccbdd97842120e8",
         "title": "OpenAI Gives Pentagon AI Model Access After Anthropic Dustup",
         "description": "OpenAI has agreed to deploy its own artificial intelligence models within the Defense Department’s classified network after rival Anthropic PBC saw its relationship with the Pentagon implode over surveillance and autonomous weapons concerns.",
@@ -12,6 +92,22 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2a8cc5d945d7761d0d5d9a44831fb0b2",
+        "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety",
+        "description": "President Donald Trump said Friday he was ordering all federal agencies to phase out use of Anthropic technology after the company’s unusually public dispute with the Pentagon over artificial intelligence safety.",
+        "content": "President Donald Trump, Defense Secretary Pete Hegseth and other officials took to social media to chastise Anthropic for failing to allow the military unrestricted use of its AI technology by a Friday deadline, accusing it of endangering national se... [6620 chars]",
+        "url": "https://wtop.com/national/2026/02/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/",
+        "image": "https://wtop.com/wp-content/uploads/2026/02/OpenAI-Anthropic-Rivalry_16169-scaled.jpg",
+        "publishedAt": "2026-02-28T04:13:34Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
             "country": "us"
         }
     },
@@ -61,102 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "993ddbe404b800b0448931371ff58ec0",
-        "title": "Wall Street Week Ahead: AI disruption hangs over US markets as investors wary of risks",
-        "description": "Artificial intelligence is creating uncertainty for the US stock market. Investors are watching closely for how this technology will change businesses. Key economic reports and company earnings are due soon. Experts are debating whether companies will benefit from AI or be replaced by it. This debate is causing market jitters.",
-        "content": "Synopsis\nArtificial intelligence is creating uncertainty for the US stock market. Investors are watching closely for how this technology will change businesses. Key economic reports and company earnings are due soon. Experts are debating whether comp... [6346 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-ai-disruption-hangs-over-us-markets-as-investors-wary-of-risks/articleshow/128873129.cms",
-        "image": "https://img.etimg.com/thumb/msid-128873140,width-1200,height-630,imgsize-88506,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-02-28T03:37:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6be3fae71ebca32964f8697624c44ceb",
-        "title": "Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'",
-        "description": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
-        "content": "United States Secretary of Defense Pete Hegseth directed the Pentagon to designate Anthropic as a “supply-chain risk” on Friday, sending shockwaves through Silicon Valley and leaving many companies scrambling to understand whether they can keep using... [6359 chars]",
-        "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
-        "image": "https://media.wired.com/photos/69a23b028618f79c55732aa9/191:100/w_1280,c_limit/Anthropic-Supply-Chain-Risk-Business-2261589216.jpg",
-        "publishedAt": "2026-02-28T03:30:41Z",
-        "lang": "en",
-        "source": {
-            "id": "b683218c3952d77a76b7bda7512f2f6e",
-            "name": "WIRED",
-            "url": "https://www.wired.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c32f87ab31916d19a70bf679bd1f4606",
-        "title": "AI a huge opportunity and serious risk for climate: UNEP official",
-        "description": "New Delhi, Feb 28 (PTI) Artificial Intelligence (AI) offers significant potential to help the climate crisis, but its high energy and water requirements could worsen environmental challenges if not managed properly, a senior official of the United Nations (UN) said. In an interview with PTI Videos, Martin Krause, Director of the Climate Change Division at […]",
-        "content": "New Delhi, Feb 28 (PTI) Artificial Intelligence (AI) offers significant potential to help the climate crisis, but its high energy and water requirements could worsen environmental challenges if not managed properly, a senior official of the United Na... [2589 chars]",
-        "url": "https://theprint.in/india/ai-a-huge-opportunity-and-serious-risk-for-climate-unep-official/2866171/",
-        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-        "publishedAt": "2026-02-28T03:15:03Z",
-        "lang": "en",
-        "source": {
-            "id": "34cc62608b4607dc3a776802caadb7bd",
-            "name": "ThePrint",
-            "url": "https://theprint.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c1c15ca1d081ab006b4fda0a48b53be7",
-        "title": "AI's Role in Climate Change: Opportunity or Risk?",
-        "description": "Artificial Intelligence (AI) offers potential climate solutions but poses environmental risks due to its energy and water demands, according to Martin Krause of UNEP. At the India AI Impact Summit, experts discussed AI's role in renewable energy integration and called for sustainable practices to mitigate its environmental impact.",
-        "content": "Artificial Intelligence (AI) holds promise for tackling the climate crisis, but its substantial energy and water needs could exacerbate environmental problems if not managed responsibly, says a United Nations (UN) official. Martin Krause, UNEP's Clim... [955 chars]",
-        "url": "https://www.devdiscourse.com/article/science-environment/3820690-ais-role-in-climate-change-opportunity-or-risk",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/02_06_2025_08_55_02_6986837.png?width=920&format=jpeg",
-        "publishedAt": "2026-02-28T03:00:49Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "f2568c2755cb135c00a8eecac52e0a84",
-        "title": "US stocks fall on credit, war jitters as oil surges",
-        "description": "Friday’s drop drove the S&P 500 to its biggest monthly loss since March. Anxiety about an artificial-intelligence bubble resurfaced as OpenAI raised $110 billion.",
-        "content": "Friday’s drop drove the S&P 500 to its biggest monthly loss since March. Anxiety about an artificial-intelligence bubble resurfaced as OpenAI raised $110 billion.\nBy Bloomberg\nWall Street traders shunned riskier corners of the market, with stocks fal... [2414 chars]",
-        "url": "https://www.cnbctv18.com/market/us-stocks-fall-on-credit-war-jitters-as-oil-surges-19859830.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/02/2026-02-17t135446z-606916408-rc2onjaiidcs-rtrmadp-3-liftoff-mobile-ipo-2026-02-76d3d57fff35fec45bec2cea18c6b813-scaled.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-02-28T02:59:53Z",
-        "lang": "en",
-        "source": {
-            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-            "name": "CNBC TV18",
-            "url": "https://www.cnbctv18.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a908d2219a94267959585e161f61a6e5",
-        "title": "AI's Dual Role: Climate Saviour or Environmental Risk?",
-        "description": "Artificial Intelligence (AI) holds promise for climate change solutions but presents environmental risks due to its energy and water requirements. UNEP's Martin Krause emphasizes AI's dual role while advocating for sustainable practices like renewable energy for data centers. UNEA-7 has endorsed a resolution for AI's eco-friendly deployment.",
-        "content": "Artificial Intelligence (AI) is seen as both a potential saviour and a risk to the environment, according to Martin Krause from the United Nations Environment Programme (UNEP). While AI can enhance climate solutions, its energy and water consumption ... [683 chars]",
-        "url": "https://www.devdiscourse.com/article/science-environment/3820688-ais-dual-role-climate-saviour-or-environmental-risk",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/07_05_2025_10_40_24_9406917.png?width=920&format=jpeg",
-        "publishedAt": "2026-02-28T02:59:47Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
