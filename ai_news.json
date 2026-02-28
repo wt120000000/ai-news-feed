@@ -1,5 +1,69 @@
 [
     {
+        "id": "85810d603240ed7ea33513c6a2cfd750",
+        "title": "Trump orders all federal agencies to stop using Anthropic technology",
+        "description": "The president’s order comes after the company’s dispute with the Pentagon over artificial intelligence safety.",
+        "content": "WASHINGTON — President Donald Trump said Friday that he was ordering all federal agencies to stop using Anthropic’s technology following the company’s unusually public dispute with the Pentagon over artificial intelligence safety.\nTrump’s comments ca... [6631 chars]",
+        "url": "https://www.adn.com/nation-world/2026/02/27/trump-orders-all-federal-agencies-to-stop-using-anthropic-technology/",
+        "image": "https://www.adn.com/resizer/v2/MBFNEPFJOPGBOEVBDNV4ZLLTGI.jpg?smart=true&auth=dae43cc6d490c5caae8a4101429a4421d1516f3eadfa7a4eed54bdfa80e52129&width=1200&height=630",
+        "publishedAt": "2026-02-27T22:32:06Z",
+        "lang": "en",
+        "source": {
+            "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
+            "name": "Anchorage Daily News",
+            "url": "https://www.adn.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "11d08d9e389825d972aeb9dc729b6c75",
+        "title": "Solomon to meet OpenAI CEO Altman in wake of mass killings in Tumbler Ridge, B.C.",
+        "description": "VANCOUVER — Federal Artificial Intelligence Minister Evan Solomon will meet with OpenAI chief executive Sam Altman next week looking for a plan on how the company might prevent another tragedy like the mass killings in Tumbler Ridge, B.C.",
+        "content": "VANCOUVER — Federal Artificial Intelligence Minister Evan Solomon will meet with OpenAI chief executive Sam Altman next week looking for a plan on how the company might prevent another tragedy like the mass killings in Tumbler Ridge, B.C.\nSolomon sai... [4589 chars]",
+        "url": "https://www.sootoday.com/national-news/solomon-to-meet-openai-ceo-altman-in-wake-of-mass-killings-in-tumbler-ridge-bc-11937690",
+        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/02/f354752dfff44dfd840ec1738746c1f864ffc17f3b1f43c8145d9f8821207fe3.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2026-02-27T22:30:42Z",
+        "lang": "en",
+        "source": {
+            "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+            "name": "SooToday",
+            "url": "https://www.sootoday.com",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "2e876161ab9c1fb5c7930ea360e3c4f0",
+        "title": "Solomon to meet OpenAI CEO Altman in wake of mass killings in Tumbler Ridge, B.C.",
+        "description": "VANCOUVER — Federal Artificial Intelligence Minister Evan Solomon will meet with OpenAI chief executive Sam Altman next week looking for a plan on how the company might prevent another tragedy like the mass killings in Tumbler Ridge, B.C.",
+        "content": "VANCOUVER — Federal Artificial Intelligence Minister Evan Solomon will meet with OpenAI chief executive Sam Altman next week looking for a plan on how the company might prevent another tragedy like the mass killings in Tumbler Ridge, B.C.\nSolomon sai... [4589 chars]",
+        "url": "https://www.baytoday.ca/national-news/solomon-to-meet-openai-ceo-altman-in-wake-of-mass-killings-in-tumbler-ridge-bc-11937690",
+        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/02/f354752dfff44dfd840ec1738746c1f864ffc17f3b1f43c8145d9f8821207fe3.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2026-02-27T22:30:42Z",
+        "lang": "en",
+        "source": {
+            "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+            "name": "BayToday",
+            "url": "https://www.baytoday.ca",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "147a78fc6c8ac35b18c97886d13f0fe5",
+        "title": "Canada Says OpenAI's Safety Pledges Lack Details -- Update",
+        "description": "By Paul Vieira\nOTTAWA--OpenAI's pledges to strengthen security protocols are missing key details including how they will be implemented, Canada's minister in charge of artificial intelligence...",
+        "content": "By Paul Vieira\nOTTAWA--OpenAI's pledges to strengthen security protocols are missing key details including how they will be implemented, Canada's minister in charge of artificial intelligence said.\nMinister for Artificial Intelligence Evan Solomon is... [3175 chars]",
+        "url": "https://www.marketscreener.com/news/canada-says-openai-s-safety-pledges-lack-details-update-ce7e5cdfdf8ef124",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2026-02-27T22:30:15Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "5813e5af2cc52d192a4271c1c747ffbc",
         "title": "Trump directs federal agencies to stop using Anthropic's AI tech",
         "description": "WASHINGTON - President Donald Trump said Feb. 27 that he was directing every federal agency to immediately cease work with artificial intelligence lab Anth",
@@ -93,70 +157,6 @@
             "name": "Washington Examiner",
             "url": "https://www.washingtonexaminer.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "5a9ab8faf2092ab7ecb39011b8c9bcb4",
-        "title": "Report: Senators Urge Deal in Pentagon-Anthropic AI Row",
-        "description": "Senate defense leaders are urging the Pentagon and Anthropic to resolve a dispute over limits on the use of Anthropic's Claude artificial intelligence model in classified settings, as a Pentagon deadline neared that could end the company's contract.",
-        "content": "Senate defense leaders privately urged the Pentagon and Anthropic on Friday to resolve a dispute over limits on the use of Anthropic's Claude artificial intelligence model in classified settings, as a Pentagon deadline neared that could end the compa... [2402 chars]",
-        "url": "https://www.newsmax.com/newsfront/anthropic-claude-dario-amodei/2026/02/27/id/1247700/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=b1531ef9-bf2a-4f7f-a6cc-4b9de008373d&SiteName=Newsmax",
-        "publishedAt": "2026-02-27T21:48:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "2e4decc6243af65fd9b70b8f65590629",
-        "title": "Report: Senators Urge Deal in Pentagon-Anthropic AI Row",
-        "description": "Senate defense leaders are urging the Pentagon and Anthropic to resolve a dispute over limits on the use of Anthropic's Claude artificial intelligence model in classified settings, as a Pentagon deadline neared that could end the company's contract.",
-        "content": "Senate defense leaders privately urged the Pentagon and Anthropic on Friday to resolve a dispute over limits on the use of Anthropic's Claude artificial intelligence model in classified settings, as a Pentagon deadline neared that could end the compa... [2392 chars]",
-        "url": "https://www.newsmax.com/politics/anthropic-claude-dario-amodei/2026/02/27/id/1247700/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=b1531ef9-bf2a-4f7f-a6cc-4b9de008373d&SiteName=Newsmax",
-        "publishedAt": "2026-02-27T21:48:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ce4b55b7d2ff03dbb9bfd01a9606d794",
-        "title": "Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI",
-        "description": "Department of Defense and artificial intelligence company were unable to reach agreement before deadline",
-        "content": "Donald Trump said Friday he will direct all federal agencies to “IMMEDIATELY CEASE” all use of Anthropic technology.\nThe Department of Defense and Anthropic have hit an impasse with neither side backing down as a deadline for an agreement hits Friday... [3800 chars]",
-        "url": "https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies",
-        "image": "https://i.guim.co.uk/img/media/f0853dde242ad3114381daf5d5b3431359221ee2/136_0_4841_3872/master/4841.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2a7a1a45ab222e85de193e554c90334",
-        "publishedAt": "2026-02-27T21:47:14Z",
-        "lang": "en",
-        "source": {
-            "id": "01558c024928d45cf320f6f75eede787",
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "3701bccf210c8058dc0d0db7db46a335",
-        "title": "Canada minister to meet with OpenAI's Altman to discuss safety measures after shooting",
-        "description": "Canada's minister in charge of artificial intelligence said on Friday that he will meet with OpenAI Chief Executive Sam Altman next week to discuss how the ChatGPT maker plans to boost safety...",
-        "content": "OTTAWA, Feb 27 (Reuters) - Canada's minister in charge of artificial intelligence said on Friday that he will meet with OpenAI Chief Executive Sam Altman next week to discuss how the ChatGPT maker plans to boost safety protocols in the wake of a rece... [426 chars]",
-        "url": "https://www.marketscreener.com/news/canada-minister-to-meet-with-openai-s-altman-to-discuss-safety-measures-after-shooting-ce7e5cdfdf8df12c",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-02/2026-02-27T214538Z_1_LYNXMPEM1Q1AH_RTROPTP_4_FRANCE-TECH.JPG",
-        "publishedAt": "2026-02-27T21:46:23Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
