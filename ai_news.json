@@ -1,5 +1,37 @@
 [
     {
+        "id": "f868394206e09eab3006b88fe4208ed6",
+        "title": "Just hours after Donald Trump banned Anthropic, US government used company's tech in Iran strikes; but why analysts are not surprised",
+        "description": "Tech News News: The US military reportedly used artificial intelligence (AI) tools developed by Anthropic in a major strike on Iran just hours after President Donald .",
+        "content": "The US military reportedly used artificial intelligence (AI) tools developed by Anthropic in a major strike on Iran just hours after President Donald Trump ordered federal agencies to stop using the same technology, reports Wall Street Journal. Accor... [3375 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/just-hours-after-donald-trump-banned-anthropic-us-government-used-companys-tech-in-iran-strikes-but-why-analysts-are-not-surprised/articleshow/128907949.cms",
+        "image": "https://static.toiimg.com/thumb/msid-128907945,width-1280,height-720,imgsize-37742,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-01T07:34:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "ffa00d119d31ac1b063dca223ed40fdc",
+        "title": "AI Hiring Surges in India: Nearly 12% Job Postings Mention Artificial Intelligence, A Job Portal Shares Data",
+        "description": "Demand spreads beyond tech firms to BFSI, analytics and research; Bengaluru, Delhi NCR and Mumbai lead while Tier-2 cities gain momentum, Education, Times Now",
+        "content": "Is there a surge in AI hiring? Here's what data shows.\nPhoto : TN Innovations\nArtificial Intelligence (AI) has been the buzzword of the past year. ChatGPT was launched towards the end of 2022, and since then AI has been one of the mostly commonly utt... [2879 chars]",
+        "url": "https://www.timesnownews.com/education/ai-hiring-surges-in-india-nearly-12-job-postings-mention-artificial-intelligence-a-job-portal-shares-data-article-153711131",
+        "image": "https://images.timesnownews.com/thumb/msid-153711131,width-1280,height-720,resizemode-75/153711131.jpg",
+        "publishedAt": "2026-03-01T07:30:36Z",
+        "lang": "en",
+        "source": {
+            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+            "name": "Times Now",
+            "url": "https://www.timesnownews.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "9f1da69c0dd19ba9d5329a6ab9bb8148",
         "title": "US military used Claude AI in Iran strikes hours after Trump banned Anthropic: Report",
         "description": "Amid the ongoing US and Israeli strikes on Iran, a Wall Street Journal report revealed that the American military used artificial-intelligence software from San Francisco-based startup Anthropic to plan the major airstrike against Tehran.",
@@ -125,38 +157,6 @@
             "name": "Daily Record",
             "url": "https://www.dailyrecord.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "821fbf59e848a4cebbdb6ac90228dce6",
-        "title": "Pentagon vs Anthropic: Who should control the AI weapon?",
-        "description": "A major clash is unfolding between the US Pentagon and AI firm Anthropic. The government wants unrestricted access to Anthropic's AI models, while the company insists on ethical constraints. This dispute raises fundamental questions about AI control and safety. The outcome could shape the future of artificial intelligence development and its integration into national security.",
-        "content": "Synopsis\nA major clash is unfolding between the US Pentagon and AI firm Anthropic. The government wants unrestricted access to Anthropic's AI models, while the company insists on ethical constraints. This dispute raises fundamental questions about AI... [5660 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/pentagon-vs-anthropic-who-should-control-the-ai-weapon/articleshow/128905361.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-175738,resizemode-75,msid-128905361/tech/artificial-intelligence/pentagon-vs-anthropic-who-should-control-the-ai-weapon.jpg",
-        "publishedAt": "2026-03-01T04:26:37Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "18a0f0567e41168b81ad887a29c87a4a",
-        "title": "Tips on how artificial intelligence can help plan your holiday",
-        "description": "Instead of clicking aimlessly around the internet, you can ask your artificial intelligence-powered chatbot of choice or turn to chatbots specialized in tourism and travel planning such as Guidegeek.com, Kayak.ai, Mindtrip.ai or Usevacay.com.",
-        "content": "BERLIN: Having a tough time figuring out your holiday plans? Don't know where to go, what to do and when?\nInstead of clicking aimlessly around the internet, you can ask your artificial intelligence-powered chatbot of choice or turn to chatbots specia... [1890 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/03/01/tips-on-how-artificial-intelligence-can-help-plan-your-holiday",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/02/27/3790483.jpeg",
-        "publishedAt": "2026-03-01T04:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
