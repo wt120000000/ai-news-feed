@@ -1,5 +1,37 @@
 [
     {
+        "id": "9f1da69c0dd19ba9d5329a6ab9bb8148",
+        "title": "US military used Claude AI in Iran strikes hours after Trump banned Anthropic: Report",
+        "description": "Amid the ongoing US and Israeli strikes on Iran, a Wall Street Journal report revealed that the American military used artificial-intelligence software from San Francisco-based startup Anthropic to plan the major airstrike against Tehran.",
+        "content": "Amid the ongoing US and Israeli strikes on Iran, a Wall Street Journal report revealed that the American military used artificial-intelligence software from San Francisco-based startup Anthropic to plan the major airstrike against Tehran. What was co... [1851 chars]",
+        "url": "https://www.firstpost.com/tech/us-military-used-claude-ai-in-iran-strikes-hours-after-trump-banned-anthropic-report-13984932.html",
+        "image": "https://images.firstpost.com/uploads/2026/02/Anthropic-logo-rep-Reuters-2026-02-e774e7ba1dffcd86cdd302303ed57901.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-03-01T07:22:40Z",
+        "lang": "en",
+        "source": {
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "e8b891da30e5e403f0065974bdfa9de6",
+        "title": "Amid India’s AI push, Mumbai teen launches homegrown platform in 175 countries, earns spot on Apple Store",
+        "description": "MUMBAI: Even as India sharpened its focus on artificial intelligence at a recent national AI summit, an 18-year-old commerce student from Navi Mumbai .",
+        "content": "Amid India’s AI push, Mumbai teen launches homegrown platform in 175 countries\nMUMBAI: Even as India sharpened its focus on artificial intelligence at a recent national AI summit, an 18-year-old commerce student from Navi Mumbai has quietly scripted ... [4096 chars]",
+        "url": "https://timesofindia.indiatimes.com/city/mumbai/amid-indias-ai-push-mumbai-teen-launches-homegrown-platform-in-175-countries-earns-spot-on-apple-store/articleshow/128908661.cms",
+        "image": "https://static.toiimg.com/thumb/msid-128908792,width-1280,height-720,imgsize-987872,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-01T07:16:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "50e0afe1ef7259920aa40426888f3746",
         "title": "How an AI Development Company in the USA Is Helping SMBs to Achieve Real-World ROI?",
         "description": "Small or big, every business in today’s digital landscape is leveraging the benefits of artificial intelligence, which helps it to stay relevant and move forward in its respective industry. Artificial intelligence offers numerous benefits applicable to all aspects of a business. It’s very necessary to hire the right AI consulting services in the USA, so […]",
@@ -125,38 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "8893bbdfca1774cad4b46fce7cdf1852",
-        "title": "Did US Forces Use Anthropic In Iran Strikes Hours After Trump Ban?",
-        "description": "The Trump administration on Friday ordered all US agencies to stop using Anthropic’s artificial intelligence technology. Anthropic said it would challenge what it called a legally unsound action “never before publicly applied to an American company.”​​​, Technology & Science, Times Now",
-        "content": "Anthropic’s new tool, called Claude Code Security, is integrated into its Claude Code platform and is currently available in a limited research preview.\nThe US forces used artificial-intelligence tools made by tech company Anthropic in joint strikes ... [2389 chars]",
-        "url": "https://www.timesnownews.com/technology-science/did-us-forces-use-anthropic-in-iran-strikes-hours-after-trump-ban-article-153724216",
-        "image": "https://images.timesnownews.com/thumb/msid-153724216,width-1280,height-720,resizemode-75/153724216.jpg",
-        "publishedAt": "2026-03-01T03:59:07Z",
-        "lang": "en",
-        "source": {
-            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-            "name": "Times Now",
-            "url": "https://www.timesnownews.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e22fcc4f69a676c7d02b5bcbd92f8be1",
-        "title": "OpenAI's goal that many says is 'impossible' can be achieved by non",
-        "description": "Social News: Sam Altman believes people without technical backgrounds can still play a role in OpenAI’s efforts to develop artificial general intelligence (AGI). T.",
-        "content": "Sam Altman believes people without technical backgrounds can still play a role in OpenAI’s efforts to develop artificial general intelligence (AGI). The CEO of the company behind ChatGPT has regularly discussed AGI in interviews and podcasts, describ... [5178 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/social/openais-goal-that-many-says-is-impossible-can-be-achieved-by-non-technical-candidates-says-sam-altman/articleshow/128897727.cms",
-        "image": "https://static.toiimg.com/thumb/msid-128897706,width-1280,height-720,imgsize-513993,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-03-01T02:50:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
