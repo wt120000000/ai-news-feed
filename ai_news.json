@@ -1,5 +1,21 @@
 [
     {
+        "id": "5dc2d5ee762c9040a1b52115c34ffc16",
+        "title": "Trump expects his Fed pick and AI to deliver a replay of the ’90s boom. Economists have doubts",
+        "description": "WASHINGTON — President Donald Trump, his Treasury secretary and his choice to lead the Federal Reserve believe they can coax the U.S. economy into partying like it’s 1999. They are putting their faith in artificial intelligence to duplicate what happened when another technology arrived in the 1990s: the internet. Back",
+        "content": "WASHINGTON — President Donald Trump, his Treasury secretary and his choice to lead the Federal Reserve believe they can coax the U.S. economy into partying like it’s 1999.\nThey are putting their faith in artificial intelligence to duplicate what happ... [8046 chars]",
+        "url": "https://triblive.com/news/world/trump-expects-his-fed-pick-and-ai-to-deliver-a-replay-of-the-90s-boom-economists-have-doubts/",
+        "image": "https://assets-varnish.triblive.com/2026/03/9346222_web1_9346222-c40792bbcaa344c79dedcccccbbbdc23.jpg",
+        "publishedAt": "2026-03-01T10:34:24Z",
+        "lang": "en",
+        "source": {
+            "id": "b1fa63410571207862faad9daf9b4527",
+            "name": "Pittsburgh Tribune-Review",
+            "url": "https://triblive.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "43ec62cb57fa29f05ba6d525f8519a52",
         "title": "AI predicts XRP price for March 31, 2026",
         "description": "XRP is likely to remain below the $2 mark by the end of March, according to insights from an artificial intelligence model.",
@@ -141,22 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "7d83cc13b48dff59a6188cc2f82fc01c",
-        "title": "AI won't kill jobs, but your next role may not exist yet",
-        "description": "Amid growing concerns about job losses and automation, a new report suggests that artificial intelligence will transform the workforce by reshaping job roles, accelerating the need for reskilling, and creating new career opportunities, rather than triggering widespread unemployment.",
-        "content": "The conversation around artificial intelligence has become increasingly urgent and increasingly anxious. Headlines warn of white-collar professionals being replaced, industries hollowed out, and careers made obsolete overnight. For many workers, the ... [8463 chars]",
-        "url": "https://www.indiatoday.in/jobs/story/ai-wont-kill-jobs-but-your-next-role-may-not-exist-yet-report-educ-2876081-2026-03-01",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/ai-wont-kill-jobs--but-your-next-role-may-not-exist-yet-report-gettyimages-015129500-16x9_0.jpg?VersionId=WzSxhRxbGRMnleAbmwuKnbYwYLDwTXwQ",
-        "publishedAt": "2026-03-01T06:15:25Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
-            "country": "in"
         }
     }
 ]
