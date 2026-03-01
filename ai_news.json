@@ -1,5 +1,37 @@
 [
     {
+        "id": "c87a6afba791aaf9b477ebcfadf31813",
+        "title": "Vietnam AI law takes effect, first in South-East Asia",
+        "description": "HANOI: A law regulating artificial intelligence went into effect in Vietnam on Sunday (March 1), making it the first country in South-East Asia with a comprehensive framework on the booming technology.",
+        "content": "HANOI: A law regulating artificial intelligence went into effect in Vietnam on Sunday (March 1), making it the first country in South-East Asia with a comprehensive framework on the booming technology.\nPassed by the National Assembly in December, the... [3001 chars]",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/01/vietnam-ai-law-takes-effect-first-in-south-east-asia",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/01/3792242.jpg",
+        "publishedAt": "2026-03-01T01:03:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "80e6e06de9c8743533c474e76dfbfee7",
+        "title": "US fintech firm Block sheds 4,000 staff, cites AI",
+        "description": "OAKLAND, California - Block, the parent company of the fintech firms Square and Cash App, is laying off 40% of its 10,000 employees, stating plainly that the decision was driven by artificial intelligence.",
+        "content": "OAKLAND, California - Block, the parent company of the fintech firms Square and Cash App, is laying off 40% of its 10,000 employees, stating plainly that the decision was driven by artificial intelligence.\nJack Dorsey, the company’s founder and chief... [1326 chars]",
+        "url": "https://www.bangkokpost.com/business/general/3206523/us-fintech-firm-block-sheds-4000-staff-cites-ai",
+        "image": "https://static.bangkokpost.com/media/content/20260227/c1_3206523_700.png",
+        "publishedAt": "2026-03-01T00:06:00Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
         "id": "082a9d88d69a4317b1be8efadd9468e0",
         "title": "Showing up, breaking down: AI fears, tough market push up presenteeism",
         "description": "Bengaluru: Seized by fears of Artificial Intelligence-triggered job losses and a rough job market, working professionals are embracing presenteeism. T.",
@@ -125,38 +157,6 @@
             "name": "U.S. News & World Report",
             "url": "https://www.usnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "7b9f56787e127968aac5ef128ff2ea2c",
-        "title": "OpenAI reaches deal with Pentagon after Trump drops Anthropic",
-        "description": "OpenAI announced it secured a deal to provide artificial intelligence services to the Defense Department.",
-        "content": "Feb. 28 (UPI) -- OpenAI announced it secured a deal to provide artificial intelligence services to the Defense Department hours after the Trump administration directed all federal agencies to stop using those provided by Anthropic.\nOpenAI is the San ... [2010 chars]",
-        "url": "https://www.upi.com/Top_News/US/2026/02/28/openai-defense/8601772310881/",
-        "image": "https://cdnph.upi.com/sv/ph/og/upi/8601772310881/2026/1/a37fb29636af80f0959e6c4847c398a7/v1.5/OpenAI-reaches-deal-with-Pentagon-after-Trump-drops-Anthropic.jpg",
-        "publishedAt": "2026-02-28T20:58:52Z",
-        "lang": "en",
-        "source": {
-            "id": "79baacd62152cf257ee35e8c0bec19a2",
-            "name": "UPI News",
-            "url": "https://www.upi.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5e9b4d8267076e46ba778900e3cc2f2b",
-        "title": "AI trade sweeping Wall Street: 'HALO'",
-        "description": "Investors are bidding up companies with hefty real assets such as grids, pipelines and heavy machinery that are least likely to be replaced by artificial intelligence.",
-        "content": "The new anti-AI trade sweeping Wall Street: 'HALO'\nInvestors are bidding up companies with hefty real assets such as grids, pipelines and heavy machinery that are least likely to be replaced by artificial intelligence.\nSuddenly, what's old is new aga... [335 chars]",
-        "url": "https://www.cnbctv18.com/market/the-new-anti-ai-trade-sweeping-wall-street-halo-19860053.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/03/images_1772310036-scaled.jpeg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-02-28T20:23:13Z",
-        "lang": "en",
-        "source": {
-            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-            "name": "CNBC TV18",
-            "url": "https://www.cnbctv18.com",
-            "country": "in"
         }
     }
 ]
