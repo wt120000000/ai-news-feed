@@ -1,5 +1,37 @@
 [
     {
+        "id": "a0ed4d111f2d2910d305eb0f3aa87e5a",
+        "title": "ODPA joins global push to tackle harm of AI images",
+        "description": "GUERNSEY’S Office of the Data Protection Authority has been at the forefront of dozens of similar bodies from all over the world coming together to address the potential harms of images produced using artificial intelligence.",
+        "content": "‘It’s an indication that AI-generated imagery, especially when it comes to deepfakes, is a global risk that demands a global response,’ said data protection commissioner Brent Homan.\nA total of 61 data protection authorities from around the world, in... [2728 chars]",
+        "url": "https://guernseypress.com/news/2026/03/01/odpa-joins-global-push-to-tackle-harm-of-ai-images",
+        "image": "https://assets.guernseypress.com/628eef58-76e5-4262-9069-6d8cfc1a491a?width=1200&height=630",
+        "publishedAt": "2026-03-01T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "eca9e15a5eb145dac685af8ae1f617e5",
+            "name": "The Gernsey Press",
+            "url": "https://guernseypress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "087adab6a5f08303278c71e2c173f19f",
+        "title": "AI: The great disruptor and where smart money is moving",
+        "description": "Artificial intelligence has long been spoken of as a technology of immense potential. What few anticipated, however, was the sheer velocity at which it would evolve and begin rendering entire business models redundant. That reckoning has arrived, and it is unfolding in real time across global markets.",
+        "content": "Synopsis\nArtificial intelligence has long been spoken of as a technology of immense potential. What few anticipated, however, was the sheer velocity at which it would evolve and begin rendering entire business models redundant. That reckoning has arr... [6517 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-the-great-disruptor-and-where-smart-money-is-moving/articleshow/128910727.cms",
+        "image": "https://img.etimg.com/thumb/msid-128910720,width-1200,height-630,imgsize-38456,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-03-01T08:49:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "f868394206e09eab3006b88fe4208ed6",
         "title": "Just hours after Donald Trump banned Anthropic, US government used company's tech in Iran strikes; but why analysts are not surprised",
         "description": "Tech News News: The US military reportedly used artificial intelligence (AI) tools developed by Anthropic in a major strike on Iran just hours after President Donald .",
@@ -125,38 +157,6 @@
             "name": "India Today",
             "url": "https://www.indiatoday.in",
             "country": "in"
-        }
-    },
-    {
-        "id": "6242af818be4afb353a424366d5c02a4",
-        "title": "I used pothole detector on Midlands 'safest roads' and results were surprising",
-        "description": "We used artificial intelligence to assess the road quality in a West Midlands borough after top ranking issued by government",
-        "content": "We used artificial intelligence to assess the road quality in a West Midlands borough after top ranking issued by government\nUsually, I like to drive with Google Maps or Waze running on my phone - but today, I'm taking things back old school.\nWell, o... [2504 chars]",
-        "url": "https://www.birminghammail.co.uk/news/midlands-news/used-pothole-detector-midlands-safest-33474097",
-        "image": "https://i2-prod.birminghammail.co.uk/article33474705.ece/ALTERNATES/s1200/1_JS397604625.jpg",
-        "publishedAt": "2026-03-01T05:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "cc0de8416f75329df7c88d7524745d12",
-            "name": "Birmingham Live",
-            "url": "https://www.birminghammail.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "96f40eba5456e406a3a71dc3c0f0a0f9",
-        "title": "Artificial Intelligence has been used to recreate the historic appearance of Edinburgh",
-        "description": "The stunning technology shows Auld Reekie in the 1700s when the city was surrounded by open fields and had a loch in its centre.",
-        "content": "The stunning technology shows Auld Reekie in the 1700s when the city was surrounded by open fields and had a loch in its centre.\nArtificial Intelligence has been used to recreate the historic appearance of Edinburgh.\nThe stunning technology shows Aul... [972 chars]",
-        "url": "https://www.dailyrecord.co.uk/news/artificial-intelligence-been-used-recreate-36796818",
-        "image": "https://i2-prod.dailyrecord.co.uk/article36796838.ece/ALTERNATES/s1200/0_JS395151285.jpg",
-        "publishedAt": "2026-03-01T04:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "70f0e86899d38a3c4301bfc5b89b2ff4",
-            "name": "Daily Record",
-            "url": "https://www.dailyrecord.co.uk",
-            "country": "gb"
         }
     }
 ]
