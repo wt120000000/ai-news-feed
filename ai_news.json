@@ -1,5 +1,37 @@
 [
     {
+        "id": "8c7891ecc39e6a37e69fd409f60be0c4",
+        "title": "What to know about the clash between the Pentagon and Anthropic over military’s AI use",
+        "description": "A high-stakes dispute over military use of artificial intelligence erupted into public view this week as Defense Secretary Pete Hegseth brusquely terminated Anthropic’s work with the Pentagon and other government agencies.",
+        "content": "WASHINGTON — A high-stakes dispute over military use of artificial intelligence erupted into public view this week as Defense Secretary Pete Hegseth brusquely terminated Anthropic’s work with the Pentagon and other government agencies, using a law de... [8266 chars]",
+        "url": "https://www.chicagotribune.com/2026/02/28/what-to-know-pentagon-anthropic-ai/",
+        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/02/PENT193GONO-ANTHROPIC_66913_ff842a-1.jpg?w=1024&h=683",
+        "publishedAt": "2026-02-28T22:36:13Z",
+        "lang": "en",
+        "source": {
+            "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+            "name": "Chicago Tribune",
+            "url": "https://www.chicagotribune.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "48c972fbc3abc553e2d2c1e12a1850d7",
+        "title": "What to know about the clash between the Pentagon and Anthropic over military’s AI use",
+        "description": "WASHINGTON (AP) — A high-stakes dispute over military use of artificial intelligence erupted into public view this week as Defense Secretary Pete Hegseth…",
+        "content": "WASHINGTON (AP) — A high-stakes dispute over military use of artificial intelligence erupted into public view this week as Defense Secretary Pete Hegseth brusquely terminated Anthropic’s work with the Pentagon and other government agencies, using a l... [8324 chars]",
+        "url": "https://wtop.com/business-finance/2026/02/what-to-know-about-the-clash-between-the-pentagon-and-anthropic-over-militarys-ai-use/",
+        "image": "https://wtop.com/wp-content/uploads/2026/02/Pentagon_AI_Anthropic_60829-scaled.jpg",
+        "publishedAt": "2026-02-28T22:30:33Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "3bb54fbfd353f84b582f52557f75aa1d",
         "title": "What to know about the clash between the Pentagon and Anthropic over military's AI use",
         "description": "A high-stakes dispute over how the U.S. military uses artificial intelligence has led the Pentagon to cancel its contract with rising AI star Anthropic. Defense Secretary Pete Hegseth declared Anthropic a supply chain risk, a step that could jeopardize its business with other defense contractors as well. Anthropic says it plans to challenge the designation in court in a legal battle could have huge implications on the balance of power in Big Tech as well as the guardrails set up to prevent artificial intelligence from being misused.",
@@ -125,38 +157,6 @@
             "name": "Malayala Manorama",
             "url": "https://www.onmanorama.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "fcab42dc6a4d6149e31ec1e85a092b2c",
-        "title": "OpenAI reaches AI agreement with Defense Dept. after Anthropic clash",
-        "description": "OpenAI, the maker of ChatGPT, said Friday that it had reached an agreement with the Pentagon to provide its artificial intelligence technologies for classified systems.",
-        "content": "SAN FRANCISCO — OpenAI, the maker of ChatGPT, said Friday that it had reached an agreement with the Pentagon to provide its artificial intelligence technologies for classified systems, just hours after President Donald Trump ordered federal agencies ... [5573 chars]",
-        "url": "https://www.mercurynews.com/2026/02/28/openai-reaches-ai-agreement-with-defense-dept-after-anthropic-clash-3/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2026/02/unnamed-file-2214.jpg?w=1024&h=682",
-        "publishedAt": "2026-02-28T18:57:10Z",
-        "lang": "en",
-        "source": {
-            "id": "17d7c2645f485578130862e0c8dd9480",
-            "name": "The Mercury News",
-            "url": "https://www.mercurynews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "70c8958895b9b9b23bd93d848bbce35b",
-        "title": "Texas at heart of Amazon's AI push in U.S.",
-        "description": "Tech titan Amazon is working to step out of Nvidia's shadow with custom \"Trainium\" chips designed specially for machine learning as billions of dollars are poured into artificial intelligence (AI). Amazon subsidiary Annapurna Labs in Austin, Texas, was testing the longevity of its latest generation Trainium during a recent visit…",
-        "content": "Tech titan Amazon is working to step out of Nvidia's shadow with custom \"Trainium\" chips designed specially for machine learning as billions of dollars are poured into artificial intelligence (AI).\nAmazon subsidiary Annapurna Labs in Austin, Texas, w... [3189 chars]",
-        "url": "https://japantoday.com/category/tech/texas-at-heart-of-amazon%27s-ai-push-in-united-states",
-        "image": "https://media.japantoday.com/img/store/97/ea/a37daccc88ee831a25f05caa69c203c11bdb/6d180f03a7762481914d85fbcdae8e3b0d38b560/_w1700.jpeg",
-        "publishedAt": "2026-02-28T17:42:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
