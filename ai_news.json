@@ -1,5 +1,85 @@
 [
     {
+        "id": "63225a3803a9af1e6e9fb3e61bd7179a",
+        "title": "Singapore, South Korea to work towards upgrading free trade agreement",
+        "description": "Cooperation in areas such as artificial intelligence, civil nuclear energy and intellectual property is also on the cards after both sides concluded several memorandums of understanding.",
+        "content": "SINGAPORE: Singapore and South Korea on Monday (Mar 2) announced plans to upgrade the free trade agreement between both countries.\nA joint statement released by Singapore’s Ministry of Trade and Industry (MTI) and South Korea’s Ministry of Trade, Ind... [6332 chars]",
+        "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-lee-jae-myung-south-korea-free-trade-agreement-5963031",
+        "image": "https://dam.mediacorp.sg/image/upload/s--PUQKEtcg--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/02/mddi_10.jpeg?itok=ghF6Gk6h",
+        "publishedAt": "2026-03-02T05:49:02Z",
+        "lang": "en",
+        "source": {
+            "id": "09131c39169c9c96230862dc4c1fa727",
+            "name": "CNA",
+            "url": "https://www.channelnewsasia.com",
+            "country": "sg"
+        }
+    },
+    {
+        "id": "cbbca30d5e609620173694118d51854f",
+        "title": "Study finds AI tools are making people work more, many skipping breaks",
+        "description": "Artificial intelligence (AI) is getting better at coding. However, this has seemingly not reduced the burden for human workers. Instead, coders are now using AI, and working even more.",
+        "content": "When vibe coding first became a thing over a year ago, it was seen as something that could help humans reduce their work stress. No longer would you need to code manually for hours – the AI will simply do it for you. And while coding agents like Clau... [2289 chars]",
+        "url": "https://www.indiatoday.in/jobs/story/study-finds-ai-tools-are-making-people-work-more-many-skipping-breaks-tchc-2876362-2026-03-02",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/ai-vibe-coding-office-image-022619121-16x9_0.png?VersionId=TYuGkuCBIcg87O5ui08CQmNoMs1_yCux",
+        "publishedAt": "2026-03-02T05:28:30Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "2156578498702121eb1d1f31f379ec6a",
+        "title": "Tech billionaire Jack Dorsey cuts half of his Afterpay workforce in Australia as AI takes over - just days after splurging on lavish company trip",
+        "description": "The parent company of 'buy-now-pay-later' giant Afterpay has culled almost half of its Australian workforce, blaming the rise of artificial intelligence.",
+        "content": "The parent company of 'buy-now-pay-later' giant Afterpay has sacked half of its Australian staff just two days after taking them on a boujee company retreat, which one worker had just lauded as showing 'the culture was better than ever'.\nAround 200 s... [3278 chars]",
+        "url": "https://www.dailymail.co.uk/news/article-15605321/Afterpay-sack-worker-Australia-Jack-Dorsey.html",
+        "image": "https://i.dailymail.co.uk/1s/2026/03/02/04/106790329-0-image-a-33_1772425419351.jpg",
+        "publishedAt": "2026-03-02T05:22:19Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "a50a51be610d26a846a142ea30f49bef",
+        "title": "Telekom Introduces AI Assistant to Mobile Network",
+        "description": "Deutsche Telekom aims to offer access to an artificial intelligence voice assistant during phone calls. This service will be launched soon, said Telekom Chief Technology Officer Abdu Mudesir at the...",
+        "content": "BONN/BARCELONA (dpa-AFX) - Deutsche Telekom aims to offer access to an artificial intelligence (AI) voice assistant during phone calls. This service will be launched \"soon,\" said Telekom Chief Technology Officer Abdu Mudesir at the opening of the Mob... [1275 chars]",
+        "url": "https://www.marketscreener.com/news/telekom-introduces-ai-assistant-to-mobile-network-ce7e5cdcdd8bfe2c",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-03-02T05:01:30Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "4d7e2933f6c90f7d8d19d69e25e3df99",
+        "title": "AI being increasingly mentioned in children’s stories",
+        "description": "Children are increasingly mentioning artificial intelligence (AI) in their stories, Oxford University Press research has found.",
+        "content": "Mentions of AI increased 50 per cent from the year before in more than 46,500 stories that children aged five to 11 submitted to a competition in 2025.\nAnalysis by Oxford University Press of stories submitted to the BBC 500 Words competition found th... [2976 chars]",
+        "url": "https://www.oxfordmail.co.uk/news/25897105.ai-increasingly-mentioned-childrens-stories/",
+        "image": "https://www.oxfordmail.co.uk/resources/images/20599452.jpg?type=og-image",
+        "publishedAt": "2026-03-02T05:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6b5c45eb50a6698dcc6711c82d72fb2e",
+            "name": "Oxford Mail",
+            "url": "https://www.oxfordmail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "0bd096aa144e1e82b955d1d15ca14360",
         "title": "South Korea and Singapore Forge Stronger Ties in AI and Nuclear Energy",
         "description": "South Korean President Lee Jae Myung and Singaporean Prime Minister Lawrence Wong held a summit to boost cooperation in artificial intelligence and nuclear energy. They announced negotiations to upgrade the 2006 free trade agreement and signed MOUs on small modular reactors, AI, and space technologies.",
@@ -77,86 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "09404b7d84760277088e4385f7bf8d2c",
-        "title": "Anthropic’s Partners Are Making a Deal With the AI Devil",
-        "description": "Anthropic PBC made an announcement last week that flew under the radar. Having sparked selloffs in the equity market with a relentless stream of product updates, the company wanted to avoid rattling investors more. Its livestream wasn’t widely announced; there was no accompanying blog post. But the launch was about as meaningful as anything the artificial intelligence lab has lobbed into the market recently.",
-        "content": "Anthropic PBC made an announcement last week that flew under the radar. Having sparked selloffs in the equity market with a relentless stream of product updates, the company wanted to avoid rattling investors more. Its livestream wasn’t widely announ... [611 chars]",
-        "url": "https://www.bloomberg.com/opinion/articles/2026-03-02/ai-disruption-anthropic-s-partners-are-making-a-deal-with-the-devil",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZbDJW2bqbCE/v1/1200x801.jpg",
-        "publishedAt": "2026-03-02T04:30:05Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "8653bdb1f6cfed0cef4298d9fa3c02f9",
-        "title": "Deutsche Telekom Partners with T-Mobile Unit in 6G Development to Support Physical AI",
-        "description": "Deutsche Telekom is partnering with its US wireless carrier business, T-Mobile, for the development of 6G as a tool to support physical artificial intelligence, sensing and intelligent...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/deutsche-telekom-partners-with-t-mobile-unit-in-6g-development-to-support-physical-ai-ce7e5cdcdd88ff2c",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-03-02T04:22:16Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "94724b3dcf306b394417ff15bf776fd3",
-        "title": "How government can help instead of hinder America’s AI ambitions",
-        "description": "Outdated permitting laws are slowing the energy and infrastructure projects needed to support artificial intelligence",
-        "content": "The United States is suffering from paralysis. As a nation, we have never lacked ingenuity. But unless we update regulations that impact emerging tech, we risk falling victim to Thomas Edison’s admonition that “vision without execution is hallucinati... [10802 chars]",
-        "url": "https://www.deseret.com/opinion/2026/03/01/utah-senator-mike-lee-ai-reform/",
-        "image": "https://www.deseret.com/resizer/v2/WOIDMIO3FZBCJEKOEVR2URMW2E.jpg?focal=2214%2C730&auth=8214a3af3207a5fb297df9a38bb8dcc3ff3337a503ecf7120cf89b86a58fc617&width=630",
-        "publishedAt": "2026-03-02T04:01:54Z",
-        "lang": "en",
-        "source": {
-            "id": "aaa6f2928e430ec2ed450ed89cc822f5",
-            "name": "Salt Lake City Deseret News",
-            "url": "https://www.deseret.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5b585198284322352f4329b447f88d93",
-        "title": "Private Credit is Sickly. Banks Aren't The Cure",
-        "description": "Private credit firms are facing a major test, with mom-and-pop investors pulling their cash in fear of corporate defaults spiking and artificial intelligence destroying many of the software businesses that these funds have lent to. After years of explosive growth, the industry has another challenge looming: A fightback from banks that’s being encouraged by US regulators.",
-        "content": "Private credit firms are facing a major test, with mom-and-pop investors pulling their cash in fear of corporate defaults spiking and artificial intelligence destroying many of the software businesses that these funds have lent to. After years of exp... [690 chars]",
-        "url": "https://www.bloomberg.com/opinion/articles/2026-03-02/blue-owl-mfs-private-credit-is-sickly-banks-aren-t-the-cure",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPXo_AjRE.uQ/v1/1200x800.jpg",
-        "publishedAt": "2026-03-02T04:00:05Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b6464b0968f5ab7c5b6dac58bff96cd9",
-        "title": "AI gains can be unlocked without cutting jobs, Morningstar says",
-        "description": "Companies are increasingly using artificial intelligence as justification for cutting headcount and trimming costs, rather than using the technology to boost productivity by redeploying workers, according to Morningstar Inc.",
-        "content": "Companies are increasingly using artificial intelligence as justification for cutting headcount and trimming costs, rather than using the technology to boost productivity by redeploying workers, according to Morningstar Inc.\n\"The market, it seems, is... [1642 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/03/02/ai-gains-can-be-unlocked-without-cutting-jobs-morningstar-says",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/02/3793460.jpg",
-        "publishedAt": "2026-03-02T04:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
