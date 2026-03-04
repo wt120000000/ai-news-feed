@@ -1,5 +1,21 @@
 [
     {
+        "id": "781c8f58f15dec78e5d2146c00656bda",
+        "title": "CrowdStrike Beats Fourth-Quarter Views as AI Boom Fuels Cybersecurity Demand",
+        "description": "CrowdStrike late Tuesday reported fiscal fourth-quarter results that beat Wall Street's estimates as rapid adoption of artificial intelligence has fueled the need for advanced...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/crowdstrike-beats-fourth-quarter-views-as-ai-boom-fuels-cybersecurity-demand-ce7e5cd2d188ff21",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-03-03T21:59:14Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "5c128c2ed72edb405d975dc43bbc080c",
         "title": "Pentagon dispute bolsters Anthropic reputation but raises questions about AI readiness in military",
         "description": "Anthropic's moral stand on U.S. military use of artificial intelligence is reshaping the competition between leading AI companies but also exposing a growing…",
@@ -140,22 +156,6 @@
             "id": "a8984f03fe66dae9745793f6560aa444",
             "name": "Newsmax",
             "url": "https://www.newsmax.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9d036d635719369d32207e9c26264607",
-        "title": "Anthropic's moral stand against Pentagon raises questions about AI's readiness for military use",
-        "description": "Anthropic’s moral stand on U.S. military use of artificial intelligence is reshaping the competition between leading AI companies but also exposing a growing awareness that maybe chatbots just aren’t capable enough for acts of war.",
-        "content": "Anthropic’s moral stand on U.S. military use of artificial intelligence is reshaping the competition between leading AI companies but also exposing a growing awareness that maybe chatbots just aren’t capable enough for acts of war.\nAnthropic’s chatbo... [5604 chars]",
-        "url": "https://apnews.com/article/anthropic-pentagon-openai-claude-chatgpt-military-ai-b2bbcf5fda3f27353eae1e0eb7ab07b6",
-        "image": "https://dims.apnews.com/dims4/default/71a1398/2147483647/strip/true/crop/5000x3332+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2Ffc%2Fb0a9322d8b3a7bb0f830d81736c3%2Fd7504a18deea46a19f3fe992d42e0d55",
-        "publishedAt": "2026-03-03T20:08:46Z",
-        "lang": "en",
-        "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com",
             "country": "us"
         }
     }
