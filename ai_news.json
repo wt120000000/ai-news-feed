@@ -1,5 +1,37 @@
 [
     {
+        "id": "724ef0f9c3fbb036d809711951dc615e",
+        "title": "US dispute bolsters Anthropic, sparks frustrations",
+        "description": "Anthropic's moral stand on U.S. military use of artificial intelligence is reshaping the competition between leading AI companies, but also exposing a growing awareness that chatbots may not be capable enough for acts of war.",
+        "content": "Anthropic's moral stand on U.S. military use of artificial intelligence is reshaping the competition between leading AI companies, but also exposing a growing awareness that chatbots may not be capable enough for acts of war.\nAnthropic's chatbot Clau... [5598 chars]",
+        "url": "https://www.arkansasonline.com/news/2026/mar/04/us-dispute-bolsters-anthropic-sparks-frustrations/",
+        "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/212359361_212357117-1e82b5de757e411abcdb85a499d8170a_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+        "publishedAt": "2026-03-04T08:04:00Z",
+        "lang": "en",
+        "source": {
+            "id": "69a24b80e5bce5a07f808f5ea84c434b",
+            "name": "Arkansas Online",
+            "url": "https://www.arkansasonline.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "06781c95343598c143c2cdacd0fcc609",
+        "title": "Meta testing shopping tool in AI chatbot",
+        "description": "Meta Platforms Inc. is testing a shopping research feature in its artificial intelligence chatbot, rivaling a similar tool offered by OpenAI's ChatGPT and Google's Gemini.",
+        "content": "Meta Platforms Inc. is testing a shopping research feature in its artificial intelligence chatbot, rivaling a similar tool offered by OpenAI's ChatGPT and Google's Gemini.\nThe feature, which allows requests for product suggestions, is being rolled ou... [2007 chars]",
+        "url": "https://www.arkansasonline.com/news/2026/mar/04/meta-testing-shopping-tool-in-ai-chatbot/",
+        "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/212360063_meta-ai-bg_MHEDJABJTRFL3OWKFQHBO5C7VQ_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+        "publishedAt": "2026-03-04T08:03:00Z",
+        "lang": "en",
+        "source": {
+            "id": "69a24b80e5bce5a07f808f5ea84c434b",
+            "name": "Arkansas Online",
+            "url": "https://www.arkansasonline.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "5a7e4d8057b96d50fc4d6388f440a897",
         "title": "SK Telecom Co., Ltd, Supermicro and Schneider Electric Sign Memorandum of Understanding for Artificial Intelligence Data Center Solutions",
         "description": "SK Telecom Co., Ltd. announced it has signed a three-party memorandum of understanding with global server manufacturer Supermicro and global mechanical, electrical and plumbing leader Schneider...",
@@ -125,38 +157,6 @@
             "name": "BBC News",
             "url": "https://www.bbc.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "bd22e814e8e7fa2b611f81a99bb0bac2",
-        "title": "Dueling documentaries illuminate the promise and perils of artificial intelligence",
-        "description": "SAN FRANCISCO (AP) — Artificial intelligence's dystopian specter has spawned a pair of documentaries dissecting a technology that's depicted in the films as a…",
-        "content": "SAN FRANCISCO (AP) — Artificial intelligence’s dystopian specter has spawned a pair of documentaries dissecting a technology that’s depicted in the films as a ravenous parasite devouring humanity’s knowledge, creativity and empathy.\nThe films, “Deepf... [6350 chars]",
-        "url": "https://wtop.com/national/2026/03/dueling-documentaries-illuminate-the-promise-and-perils-of-artificial-intelligence/",
-        "image": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-        "publishedAt": "2026-03-04T06:02:19Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ee062bf5d896d01e8476e1122c602f15",
-        "title": "AI's promise and peril examined in 2 new documentaries",
-        "description": "Artificial intelligence’s dystopian specter has spawned a pair of documentaries dissecting a technology that’s depicted as ravenous parasite devouring humanity’s knowledge, creativity and empathy.",
-        "content": "SAN FRANCISCO (AP) — Artificial intelligence’s dystopian specter has spawned a pair of documentaries dissecting a technology that’s depicted in the films as a ravenous parasite devouring humanity’s knowledge, creativity and empathy.\nThe films, “Deepf... [6217 chars]",
-        "url": "https://apnews.com/article/artificial-intelligence-documentaries-sam-altman-8ed278203fce377199ea3eb93776c56c",
-        "image": "https://dims.apnews.com/dims4/default/e514743/2147483647/strip/true/crop/1845x1229+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F56%2Ff2%2F0418b824d1ae5c0eb6f20ab48a22%2F4bfbab8df0d5481594e03af4c22d52ea",
-        "publishedAt": "2026-03-04T06:00:06Z",
-        "lang": "en",
-        "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com",
-            "country": "us"
         }
     }
 ]
