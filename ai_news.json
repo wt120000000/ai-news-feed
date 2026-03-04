@@ -1,5 +1,37 @@
 [
     {
+        "id": "8cbc28a0652174567da233426996c880",
+        "title": "Don't be deceived by A.I.",
+        "description": "Apostle Quentin Cook counsels BYU students and Latter-day Saints about the dangers of artificial intelligence. Let technology be \"a servant,\" he said, \"not a master.\"",
+        "content": "In this emerging age of artificial intelligence, it will become increasingly easy to be deceived and steered away from truth, an apostle of The Church of Jesus Christ of Latter-day Saints warned Tuesday.\nQuentin L. Cook counseled Brigham Young Univer... [3039 chars]",
+        "url": "https://www.sltrib.com/religion/2026/03/03/lds-apostle-byu-students-members/",
+        "image": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FY4OPKIL4KRCUBENN3QMP6YP5VM.jpg?auth=40183c813074ffa807c6bc90c33e1ab82a536a77c14acd444ba746f4f9273209&width=1200",
+        "publishedAt": "2026-03-03T18:57:59Z",
+        "lang": "en",
+        "source": {
+            "id": "eff9eddd8bffd06060c9c7ba12fd8a16",
+            "name": "Salt Lake Tribune",
+            "url": "https://www.sltrib.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "df7e657af50e9efe82403820d1ae3a45",
+        "title": "China's economic ambitions hit limits to growth as its national congress prepares to meet",
+        "description": "The gap between Chinese leader Xi Jinping's high-tech, artificial intelligence-driven ambitions and the hard realities of slowing growth is the backdrop for the annual meeting of the country’s largely ceremonial national legislature, the National People’s Congress, which begins Thursday.",
+        "content": "BEIJING (AP) — China's progress in building a modern economy, evident in its kung-fu fighting robots and self-parking cars, is hitting limits as a downturn in its housing industry drags on, small businesses suffer and young people struggle to find jo... [7041 chars]",
+        "url": "https://www.pbs.org/newshour/world/chinas-economic-ambitions-hit-limits-to-growth-as-its-national-congress-prepares-to-meet",
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2026-03-03T084245Z_1393750063_RC2UWJAT4Q7X_RTRMADP_3_CHINA-PARLIAMENT-1024x678.jpg",
+        "publishedAt": "2026-03-03T18:55:42Z",
+        "lang": "en",
+        "source": {
+            "id": "31177620c1e6e610b5d2b67916ed3615",
+            "name": "PBS News",
+            "url": "https://www.pbs.org",
+            "country": "us"
+        }
+    },
+    {
         "id": "e3af0ac5a36f0a7a52d9e1b613b445ee",
         "title": "SMEs see artificial intelligence potential but ‘fail to capitalise on new tech’",
         "description": "Fear of making mistakes, lack of skills and cost behind reluctance to adopt new technology",
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "629a918c76165fa6133a96a01c66afd5",
-        "title": "Qualcomm CEO Predicts 2026 Will Be the Year of the AI Agent",
-        "description": "Qualcomm Inc. Chief Executive Officer Cristiano Amon, speaking this week at the MWC Barcelona conference, said the incoming tide of artificial intelligence agents will transform the wider digital ecosystem.",
-        "content": "Qualcomm Inc. Chief Executive Officer Cristiano Amon , speaking this week at the MWC Barcelona conference, said the incoming tide of artificial intelligence agents will transform the wider digital ecosystem.\nWhile delivering a keynote address Tuesday... [342 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-03/ai-agents-will-supplant-phones-as-digital-hub-qualcomm-ceo-says",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNS2GjeAiF3E/v2/1200x800.jpg",
-        "publishedAt": "2026-03-03T17:27:28Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "38a273e945916528bb773cd958b913cf",
-        "title": "Anthropic's Claude AI being used in Iran war by U.S. military, sources say",
-        "description": "Two sources familiar with the U.S. military's use of artificial intelligence confirm that the U.S. used Anthropic's Claude AI model over weekend for the attack on Iran — and is still using it.",
-        "content": "Two sources familiar with the U.S. military's use of artificial intelligence confirm that the U.S. used Anthropic's Claude AI model over weekend for the attack on Iran — and is still using it.\nThe Pentagon has not said exactly how the AI tool is bein... [1096 chars]",
-        "url": "https://www.cbsnews.com/news/anthropic-claude-ai-iran-war-u-s/",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/02/27/17377214-cf7e-4db9-9981-33b80c373ad9/thumbnail/1200x630/0264bf5aa39592a4b0aee3597c621b1f/gettyimages-2262786367.jpg",
-        "publishedAt": "2026-03-03T17:27:19Z",
-        "lang": "en",
-        "source": {
-            "id": "3a3847d645a619320aa3b3484581e395",
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com",
-            "country": "us"
         }
     }
 ]
