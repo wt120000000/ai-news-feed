@@ -1,5 +1,85 @@
 [
     {
+        "id": "1fcf837fbed7ff33eef8c555c2b50a5a",
+        "title": "US Prepares Global Licensing Requirements for AI Chip Exports Worldwide",
+        "description": "The United States is developing comprehensive legislation requiring export licenses for artificial intelligence chips to all global destinations, building upon existing regulations that mandate US approval for all Nvidia and AMD product shipments worldwide, representing a significant expansion of semiconductor export controls.",
+        "content": "The United States is preparing to implement comprehensive legislation that will require export licenses for artificial intelligence chips shipped to any destination worldwide. This development represents a significant expansion of existing semiconduc... [4732 chars]",
+        "url": "https://scanx.trade/stock-market-news/global/us-mandates-global-approval-for-nvidia-and-amd-product-shipments/34277790",
+        "image": "http://news-images.dhan.co/us-mandates-global-approval-for-nvidia-and-amd-product-shipments.jpg",
+        "publishedAt": "2026-03-05T17:36:30Z",
+        "lang": "en",
+        "source": {
+            "id": "f746366686e467440a63dd26dbb72053",
+            "name": "scanx.trade",
+            "url": "https://scanx.trade",
+            "country": "in"
+        }
+    },
+    {
+        "id": "6701f0c014e07076e77d6103f5c2576c",
+        "title": "Sam Altman takes swipe at Anthropic, says companies abandoning democratic process ‘bad for society’",
+        "description": "Anthropic has clashed with the United States Department of Defense in recent weeks over how the agency can use its artificial intelligence models.",
+        "content": "OpenAI CEO Sam Altman on Thursday appeared to take subtle swipes at rival Anthropic, saying it would be “bad for society” if companies abandon their commitment to the democratic process because “some people don’t like the person or people currently i... [2141 chars]",
+        "url": "https://www.moneycontrol.com/world/sam-altman-takes-swipe-at-anthropic-says-companies-abandoning-democratic-process-bad-for-society-article-13852280.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2023/12/1.-Sam-Altman-1-1.jpg",
+        "publishedAt": "2026-03-05T17:33:17Z",
+        "lang": "en",
+        "source": {
+            "id": "fd3677545b80d5db7541de8e111d27ba",
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "5a6f4cd32ca468d933e9ca88d4a4480e",
+        "title": "Senior care startup Sage raises $65M to bring AI",
+        "description": "America’s senior care system is heading into a demographic squeeze. By the end of the decade, tens of millions more Americans will be over retirement age, and nursing homes and assisted living centers are already struggling to staff enough caregivers. A New York startup thinks artificial intelligence can help close part of that gap. Sage",
+        "content": "America’s senior care system is heading into a demographic squeeze. By the end of the decade, tens of millions more Americans will be over retirement age, and nursing homes and assisted living centers are already struggling to staff enough caregivers... [4673 chars]",
+        "url": "https://techstartups.com/2026/03/05/senior-care-startup-sage-raises-65m-to-bring-ai-powered-monitoring-to-nursing-homes/",
+        "image": "https://techstartups.com/wp-content/uploads/2026/03/SageHealth-funding-960x542.jpg",
+        "publishedAt": "2026-03-05T17:19:45Z",
+        "lang": "en",
+        "source": {
+            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+            "name": "TechStartups.com",
+            "url": "https://techstartups.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "5db07ab6d4394bde17de476200a6a592",
+        "title": "Netflix Acquires InterPositive, Ben Affleck's AI Filmmaking Company",
+        "description": "By Elias Schisgall\nNetflix has acquired InterPositive, an artificial-intelligence filmmaking technology company founded by Ben Affleck.\nInterPositive's entire team will join Netflix as part...",
+        "content": "By Elias Schisgall\nNetflix has acquired InterPositive, an artificial-intelligence filmmaking technology company founded by Ben Affleck.\nInterPositive's entire team will join Netflix as part of the acquisition, with Affleck staying on as a senior advi... [1414 chars]",
+        "url": "https://www.marketscreener.com/news/netflix-acquires-interpositive-ben-affleck-s-ai-filmmaking-company-ce7e5fdbdd81fe23",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-03-05T17:07:42Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "1c3e3ba40f13f7bca63c745be55a5b17",
+        "title": "Jack Dorsey Blamed AI for 4,000 Layoffs. A Former Block Exec Says That’s Not the Real Story",
+        "description": "In a New York Times opinion piece, former Block executive Aaron Zamost argues that artificial intelligence may be serving as a convenient storyline for traditional corporate downsizing.",
+        "content": "In a recent opinion piece for The New York Times, Aaron Zamost, Block’s former head of communications, policy and people, asked whether the layoffs reflect a genuine “new reality in which the work they do might no longer be viable,” or whether artifi... [1267 chars]",
+        "url": "https://www.inc.com/leila-sheridan/jack-dorsey-blamed-ai-for-4000-layoffs-a-former-block-exec-says-thats-not-the-real-story/91312392",
+        "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/03/block-ai-layoffs-inc-1461110098.jpg",
+        "publishedAt": "2026-03-05T16:43:46Z",
+        "lang": "en",
+        "source": {
+            "id": "602d1de710d66397a00201d8efdd36ee",
+            "name": "Inc. Magazine",
+            "url": "https://www.inc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "33051c15b3384595656db1a616a1412a",
         "title": "enabled platform to automate healthcare administrative tasks",
         "description": "Amazon's cloud unit, AWS, said ​on Thursday it ​had launched an artificial intelligence-enabled platform that ​aims to ease access to care for patients and cut administrative work for healthcare providers.",
@@ -77,86 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "9d5d80d5b8c923f3a2b5637f22d84b34",
-        "title": "Netflix acquires Ben Affleck's AI film-tech firm",
-        "description": "Netflix said on Thursday it has acquired InterPositive, a filmmaking technology company founded by Academy Award winner ​Ben Affleck that produces artificial intelligence-powered tools for movie ‌production.",
-        "content": "Financial terms of the deal were not disclosed.\nSign up here.\nThe media industry is warming up to the idea of using AI for content ​and storytelling, a major pivot from Hollywood's earlier ​concerns about the new technology challenging creative jobs ... [1212 chars]",
-        "url": "https://www.reuters.com/business/media-telecom/netflix-acquires-ben-afflecks-ai-film-tech-firm-2026-03-05/",
-        "image": "https://www.reuters.com/resizer/v2/KYKEKAGQFRL5TNJJGF2APRBHAA.jpg?auth=a199610ebf26e638602d5aa65f436ae5e168fbd6886a4d9481ba7df94597609e&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-03-05T16:02:56Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5acb7d8534269a9ca6814f3e4a55689e",
-        "title": "Nvidia CEO hints at end of investments in OpenAI, Anthropic",
-        "description": "NVIDIA CEO Jensen Huang said the latest investments in OpenAI and Anthropic might be the chipmaker’s last in those companies, as the artificial intelligence (AI) companies prepare to go public this year.",
-        "content": "NVIDIA CEO Jensen Huang said the latest investments in OpenAI and Anthropic might be the chipmaker’s last in those companies, as the artificial intelligence (AI) companies prepare to go public this year.\nThe opportunity to invest $100 billion in Open... [1273 chars]",
-        "url": "https://www.manilatimes.net/2026/03/06/business/foreign-business/nvidia-ceo-hints-at-end-of-investments-in-openai-anthropic/2294079",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-03-05T16:02:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "9a9d9a89a96b037d4a4d9ff8990e9517",
-        "title": "Why Canada's largest pediatric hospital is betting on artificial intelligence",
-        "description": "SickKids has been investing in AI infrastructure far longer than most global healthcare institutions",
-        "content": "It’s lunchtime at The Hospital for Sick Children in Toronto. A child arrives in the emergency department, doubled over in abdominal pain. The standard intake information is collected: vital signs, symptoms, history. An artificial intelligence model a... [6502 chars]",
-        "url": "https://www.theglobeandmail.com/business/article-why-canadas-largest-pediatric-hospital-is-betting-on-artificial/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/S53WTVCRLBEWJOOYHL43ZOEB7M.jpg?auth=426e7ec1bc6b31a75dd71434d521a0cbc975c6b921a0adc238bc0dbcafa68286&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-03-05T16:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "f5081afeaba654292dd91fffd29f9dd4",
-            "name": "The Globe and Mail",
-            "url": "https://www.theglobeandmail.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "7ab6b7723c6bd7dd0d0e500efe873699",
-        "title": "For Mohali’s ‘Expo City’ project, GMADA issues notification for acquiring 182.88 acres of land",
-        "description": "Project proposes India’s first Artificial Intelligence Tower, which will provide space for around 300 companies",
-        "content": "The state-of-the-art complex will also include a 5,000-seat convention centre and a 300-room modern hotel. The entire project is planned on the lines of Pragati Maidan in New Delhi, enabling the hosting of national and international exhibitions, conf... [1271 chars]",
-        "url": "https://indianexpress.com/article/cities/chandigarh/mohali-expo-city-project-gmada-notification-acquiring-land-10566586/",
-        "image": "https://images.indianexpress.com/2026/03/mohali-municipal.jpg",
-        "publishedAt": "2026-03-05T15:55:32Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "74a7a8dcf6c9c1bc9fd4ae5c4793a179",
-        "title": "Microsoft, Codelco Team Up on AI, Data, Security Initiatives",
-        "description": "By Elias Schisgall\nMicrosoft and the Chilean state-run copper mining company Codelco signed an agreement to explore joint initiatives in artificial intelligence, data analytics, automation and...",
-        "content": "By Elias Schisgall\nMicrosoft and the Chilean state-run copper mining company Codelco signed an agreement to explore joint initiatives in artificial intelligence, data analytics, automation and cybersecurity.\nThe agreement will initially last for 18 m... [727 chars]",
-        "url": "https://www.marketscreener.com/news/microsoft-codelco-team-up-on-ai-data-security-initiatives-ce7e5fdbdd88f221",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2026-03-05T15:52:16Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
