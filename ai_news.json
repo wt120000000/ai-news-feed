@@ -1,60 +1,12 @@
 [
     {
-        "id": "ea2d65242bff98a985a087800d843d17",
-        "title": "AI Surge: Germany’s Mittelstand Companies Embrace Technology",
-        "description": "Germany's small and medium-sized businesses, the backbone of Europe's largest economy, have significantly increased their use of artificial intelligence over the past year, with 51.2% utilizing or testing AI compared to 33.1% the previous year. Businesses focus on efficiency, productivity, and cost-cutting.",
-        "content": "Germany's small and medium-sized enterprises, often considered the backbone of Europe's largest economy, have significantly increased their adoption of artificial intelligence over the past year. The DMB lobby group, representing approximately 30,000... [668 chars]",
-        "url": "https://www.devdiscourse.com/article/science-environment/3827113-ai-surge-germanys-mittelstand-companies-embrace-technology",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/08_04_2025_08_05_56_9168158.png?width=920&format=jpeg",
-        "publishedAt": "2026-03-05T11:43:31Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "9e1819618228152f716b6a87de66d7c5",
-        "title": "Major Tech Group Reportedly Voices Concern Over Anthropic's 'Supply Chain Risk' Label",
-        "description": "A group of major technology companies, including Anthropic backers Nvidia and Amazon , has reportedly voiced concern over the Pentagon's decision to classify the artificial intelligence company a...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/major-tech-group-reportedly-voices-concern-over-anthropic-s-supply-chain-risk-label-ce7e5fdbd98ff723",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-03-05T11:38:04Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "b5282adf8d98adbfd383395f80df5820",
-        "title": "Tailoring digital safety to the child’s developmental stage",
-        "description": "The use of generative artificial intelligence (AI), able to produce text, images and video on demand, has grown exponentially in recent years. While its applications for personal and professional use continue to expand, many have questions about how children might be interacting with this technology.",
-        "content": "The use of generative artificial intelligence (AI), able to produce text, images, and video on demand, has grown exponentially in recent years. While its applications for personal and professional use continue to expand, many have questions about how... [3391 chars]",
-        "url": "https://www.news-medical.net/news/20260305/Tailoring-digital-safety-to-the-childe28099s-developmental-stage.aspx",
-        "image": "https://www.news-medical.net/images/tags/TagImage-3347-458389964760995353448-620x480.jpg",
-        "publishedAt": "2026-03-05T11:35:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "6429ad4ca5aadf3c32ea3053e772dea4",
-        "title": "Flying Wedge tests 'India’s first autonomous swarm interceptor' for counter-drone warfare",
-        "description": "Flying Wedge Defence & Aerospace has successfully tested FWD YAMA, India's first autonomous swarm interceptor. This new technology is designed for counter-drone warfare and air defence missions. It offers a cost-effective solution to combat the growing threat of low-cost drones. The system uses artificial intelligence and swarm coordination for precision interception.",
-        "content": "Synopsis\nFlying Wedge Defence & Aerospace has successfully tested FWD YAMA, India's first autonomous swarm interceptor. This new technology is designed for counter-drone warfare and air defence missions. It offers a cost-effective solution to combat ... [4184 chars]",
-        "url": "https://economictimes.indiatimes.com/news/defence/flying-wedge-tests-indias-first-autonomous-swarm-interceptor-for-counter-drone-warfare/articleshow/129087442.cms",
-        "image": "https://img.etimg.com/thumb/msid-129087632,width-1200,height-630,imgsize-56969,overlay-etdefence/articleshow.jpg",
-        "publishedAt": "2026-03-05T11:23:00Z",
+        "id": "636d475dee169c1e0f9e7ae976f9e1e5",
+        "title": "India paving the way to democratise AI for developing world, says IMF Managing Director",
+        "description": "IMF Managing Director Kristalina Georgieva stated that India is leading global efforts to make artificial intelligence accessible to developing nations. Speaking at the Asia in 2050 Conference, Georgieva highlighted India's role in the global technology landscape. She noted that the country is not just advancing its own interests but is helping others.",
+        "content": "Synopsis\nIMF Managing Director Kristalina Georgieva stated that India is leading global efforts to make artificial intelligence accessible to developing nations. Speaking at the Asia in 2050 Conference, Georgieva highlighted India's role in the globa... [2259 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-paving-the-way-to-democratise-ai-for-developing-world-says-imf-managing-director/articleshow/129095839.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-46368,resizemode-75,msid-129095839/tech/artificial-intelligence/india-paving-the-way-to-democratise-ai-for-developing-world-says-imf-managing-director.jpg",
+        "publishedAt": "2026-03-05T14:12:14Z",
         "lang": "en",
         "source": {
             "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -64,29 +16,93 @@
         }
     },
     {
-        "id": "e740f09df464c6900559c30adef45ac9",
-        "title": "TCS Is in ‘Advanced’ Talks for More AI Data Centers in India",
-        "description": "Tata Consultancy Services Ltd., which just cut an agreement with OpenAI to build data centers for artificial intelligence in India, is nearing additional deals with other tech giants, signaling a commitment to reshaping its business model to capitalize on the emerging technology.",
-        "content": "Tata Consultancy Services Ltd. , which just cut an agreement with OpenAI to build data centers for artificial intelligence in India, is nearing additional deals with other tech giants, signaling a commitment to reshaping its business model to capital... [611 chars]",
-        "url": "https://www.bloomberg.com/news/features/2026-03-05/tcs-is-in-advanced-talks-for-more-ai-data-centers-in-india",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuE7H1rjy4F0/v0/1200x800.jpg",
-        "publishedAt": "2026-03-05T11:21:47Z",
+        "id": "2feadd5e65cab1c4cc8a4a4a29ae9057",
+        "title": "Amazon launches AI-enabled platform to automate healthcare administrative tasks",
+        "description": "March 5 (Reuters) - ⁠Amazon's cloud unit, AWS, said on Thursday it ⁠had launched an artificial intelligence-enabled platform that aims ‌to ease access to care for patients and cut administrative work for healthcare providers.",
+        "content": "March 5 (Reuters) - ⁠Amazon's cloud unit, AWS, said on Thursday it ⁠had launched an artificial intelligence-enabled platform that aims ‌to ease access to care for patients and cut administrative work for healthcare providers.\nThe agentic AI-led platf... [307 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/03/05/amazon-launches-ai-enabled-platform-to-automate-healthcare-administrative-tasks",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/05/3799236.jpg",
+        "publishedAt": "2026-03-05T14:01:00Z",
         "lang": "en",
         "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "041e58da1acd03aa18724e98623d9b26",
+        "title": "Opinion: Moving fast, breaking the world. AI risks shattering our shared reality.",
+        "description": "Why the real challenges posed by artificial intelligence are not technological but moral",
+        "content": "Artificial intelligence is here: writing paragraphs, generating images, mimicking voices, shaping what billions of people see each day, whether it is true or not.\nAs I watch this era unfold, I feel something familiar — the uneasy sense that power is ... [3160 chars]",
+        "url": "https://www.mercurynews.com/2026/03/05/opinion-moving-fast-breaking-the-world-ai-risks-shattering-our-shared-reality/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2025/06/Google_Meta_and_Snap_think_this_tech_is_the_next_big_thing2.jpg?w=1024&h=682",
+        "publishedAt": "2026-03-05T14:00:22Z",
+        "lang": "en",
+        "source": {
+            "id": "17d7c2645f485578130862e0c8dd9480",
+            "name": "The Mercury News",
+            "url": "https://www.mercurynews.com",
             "country": "us"
         }
     },
     {
-        "id": "b9eb73f134c70e82154f283de6b00de8",
-        "title": "Vamsi Posemsetty unveils his first book AIM: Unlocking the AI Mindset A Leader's Guide to Thriving in the AI Era",
-        "description": "New Delhi [India], March 5: While Artificial intelligence existed in some form for a while, it has lately stormed from labs into boardrooms. Companies are rolling out generative AI pilots--projects that use artificial intelligence to create new content--shifting budgets and rewriting transformation plans. But here's the catch: most are buying tools without rewiring how leaders think. That's the gap Vamsi Posemsetty unveils in his debut book, AIM: Unlocking the AI Mindset.",
-        "content": "VMPL\nNew Delhi [India], March 5: While Artificial intelligence existed in some form for a while, it has lately stormed from labs into boardrooms. Companies are rolling out generative AI pilots--projects that use artificial intelligence to create new ... [2588 chars]",
-        "url": "https://www.tribuneindia.com/news/business/vamsi-posemsetty-unveils-his-first-book-aim-unlocking-the-ai-mindset-a-leaders-guide-to-thriving-in-the-ai-era/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTViODMzYjAwLTE4ODUtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-        "publishedAt": "2026-03-05T11:20:41Z",
+        "id": "d2e9a72b3d2f7ee7a927e89c691218bd",
+        "title": "Sun Summit heads into 2026 with drills turning and funding secured",
+        "description": "Gold has entered 2026 with renewed momentum, driven by persistent inflation hedging, central-bank buying, and a capital markets rotation back toward hard assets. At the same time, copper’s long-term demand curve continues to steepen as artificial intelligence, electrification, and grid buildouts collide with tightening supply.",
+        "content": "Fresh off an $11.5 million financing, Sun Summit enters 2026 fully funded for a 10,000-metre drill program, setting up a maiden resource estimate targeted for the first half of 2027.\nRecent drilling at the JD Project delivered standout results, inclu... [7817 chars]",
+        "url": "https://www.bnnbloomberg.ca/investment-trends/2026/03/05/sun-summit-heads-into-2026-with-drills-turning-and-funding-secured/",
+        "image": "https://www.bnnbloomberg.ca/resizer/v2/MDJRKAYRI5GKNIXQ4KGHOTDZKQ.jpg?smart=true&auth=ec8ba188d28101a8dfc94f4b52dba69266c59616fabe7df7839f27882a61d8ae&width=1200&height=630",
+        "publishedAt": "2026-03-05T14:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1b697445987e8a33f6c82842e17d60d9",
+            "name": "Bnn Bloomberg",
+            "url": "https://www.bnnbloomberg.ca",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "a4306a0d06b84d8f57a08691fdcdf654",
+        "title": "Amazon launches AI-enabled platform to automate healthcare administrative tasks",
+        "description": "Amazon's cloud unit, AWS, said on Thursday it had launched an artificial intelligence-enabled platform that aims to ease access to care for patients and cut administrative work for healthcare...",
+        "content": "March 5 (Reuters) - Amazon's cloud unit, AWS, said on Thursday it had launched an artificial intelligence-enabled platform that aims to ease access to care for patients and cut administrative work for healthcare providers.\nThe agentic AI-led platform... [1307 chars]",
+        "url": "https://www.marketscreener.com/news/amazon-launches-ai-enabled-platform-to-automate-healthcare-administrative-tasks-ce7e5fdbdb8ef722",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-25T003412Z_1_LYNXMPELAO00T_RTROPTP_4_AMAZON-COM-JOBS.JPG",
+        "publishedAt": "2026-03-05T13:56:32Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "e675a219a36d79702f1e9bdc02103715",
+        "title": "Amazon launches AI-enabled platform to automate healthcare administrative tasks",
+        "description": "Amazon's cloud unit, AWS, said on Thursday it had launched an artificial intelligence-enabled platform ​that aims to ease access to care for ‌patients and cut administrative work for healthcare providers.",
+        "content": "March 5 (Reuters) - Amazon's (AMZN.O), opens new tab cloud unit, AWS, said on Thursday it had launched an artificial intelligence-enabled platform ​that aims to ease access to care for ‌patients and cut administrative work for healthcare providers.\nT... [341 chars]",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/amazon-launches-ai-enabled-platform-automate-healthcare-administrative-tasks-2026-03-05/",
+        "image": "https://www.reuters.com/resizer/v2/R4HUMW36JBPLVIJJJKTA42HPHM.jpg?auth=97c6a2228c28600f5200b4353ce7ed6e63aff7db392f789a3b6a2995daa294e5&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-03-05T13:50:31Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c45d996b22818730ac04342919bf25eb",
+        "title": "India \"paving the way\" to democratise AI for developing world, says IMF Managing Director",
+        "description": "IMF Managing Director Kristalina Georgieva stated that India is leading global efforts to make artificial intelligence accessible to developing nations. Speaking at the Asia in 2050 Conference, Georgieva highlighted India's role in the global technology landscape. She noted that the country is not just advancing its own interests but is helping others.",
+        "content": "Bangkok [Thailand], March 5 (ANI): IMF Managing Director Kristalina Georgieva stated that India is leading global efforts to make artificial intelligence accessible to developing nations.\nSpeaking at the Asia in 2050 Conference, Georgieva highlighted... [2017 chars]",
+        "url": "https://www.tribuneindia.com/news/business/india-paving-the-way-to-democratise-ai-for-developing-world-says-imf-managing-director/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTk2MTc3YTYwLTE4OTktMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
+        "publishedAt": "2026-03-05T13:45:27Z",
         "lang": "en",
         "source": {
             "id": "c5725557f39c24c8b029ee39900a8406",
@@ -96,61 +112,45 @@
         }
     },
     {
-        "id": "76bf4d37101e488efb516798735cb1b7",
-        "title": "IT, oil and gas sectors show caution amid AI disruptions, West Asia conflict: Kotak Institutional Equities CEO",
-        "description": "The IT services sector is facing challenges due to Artificial Intelligence (AI), with investors expressing concerns about job losses and the transition period. However, other sectors like real estate, autos, and domestic pharma companies showed more positive outlooks, with some showing steady growth, according to Pratik Gupta, CEO and Co- Head of Kotak Institutional Equities. Gupta expressed his views on the Indian economy and market outlook at a press conference on Kotak Securities Outlook held today in Mumbai.",
-        "content": "Mumbai (Maharashtra) [India], March 5 (ANI): The IT services sector is facing challenges due to Artificial Intelligence (AI), with investors expressing concerns about job losses and the transition period. However, other sectors like real estate, auto... [1928 chars]",
-        "url": "https://www.tribuneindia.com/news/business/it-oil-and-gas-sectors-show-caution-amid-ai-disruptions-west-asia-conflict-kotak-institutional-equities-ceo/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWExZjBhYjUwLTE4ODQtMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
-        "publishedAt": "2026-03-05T11:15:30Z",
+        "id": "f15fcca67d7793d8ab4d449f5a1ea352",
+        "title": "Can Anthropic Make Peace With the Pentagon?",
+        "description": "The artificial intelligence start-up has reportedly resumed talks with the Defense Department over use of its tools, with high stakes for both.",
+        "content": "Andrew here. The soap opera between the Pentagon, Anthropic and OpenAI continues. And an emerging question is whether the fight is less about A.I. safety and more about politics.\nDario Amodei, Anthropic’s C.E.O., said the quiet part out loud in a lea... [1465 chars]",
+        "url": "https://www.nytimes.com/2026/03/05/business/dealbook/anthropic-pentagon-ai.html",
+        "image": "https://static01.nyt.com/images/2026/03/05/multimedia/05db-amodei-jqmp/05db-amodei-jqmp-facebookJumbo.jpg",
+        "publishedAt": "2026-03-05T13:07:55Z",
         "lang": "en",
         "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "0598e2fd5a90ce7fa579ea3504e8c385",
-        "title": "AI, 6G, Quantum Computing to drive India-Finland strategic partnership: PM Modi",
-        "description": "Prime Minister Narendra Modi on Thursday said that India and Finland are working to strengthen their ties as a strategic partnership in digitalisation and sustainability, which will accelerate collaboration in advanced technologies ranging from Artificial Intelligence and 6G telecommunications to clean energy and quantum computing.",
-        "content": "New Delhi: Prime Minister Narendra Modi on Thursday said that India and Finland are working to strengthen their ties as a strategic partnership in digitalisation and sustainability, which will accelerate collaboration in advanced technologies ranging... [1981 chars]",
-        "url": "https://zeenews.india.com/technology/ai-6g-quantum-computing-to-drive-india-finland-strategic-partnership-pm-modi-3024037.html",
-        "image": "https://english.cdn.zeenews.com/sites/default/files/2026/03/05/1914254-pm-modi-ians.jpg",
-        "publishedAt": "2026-03-05T11:02:12Z",
-        "lang": "en",
-        "source": {
-            "id": "e743cde6ee986921721e83d3957862dc",
-            "name": "Zee News",
-            "url": "https://zeenews.india.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a3865c54d35a52fb62059374d62b349e",
-        "title": "Pentagon feud with Anthropic shines light on AI’s role in mass surveillance",
-        "description": "Anthropic PBC’s clash with the Pentagon is drawing fresh attention to a lightly regulated practice: the U.S. government’s purchase of commercially available information, such as browsing histories and location data, and the growing use of artificial intelligence to analyze it at scale.",
-        "content": "Anthropic PBC’s clash with the Pentagon is drawing fresh attention to a lightly regulated practice: the U.S. government’s purchase of commercially available information, such as browsing histories and location data, and the growing use of artificial ... [5982 chars]",
-        "url": "https://www.spokesman.com/stories/2026/mar/05/pentagon-feud-with-anthropic-shines-light-on-ais-r/",
-        "image": "https://thumb.spokesman.com/6vT3RJ_-VUNHMCvYagYjA8Zubmw=/1200x630/smart/media.spokesman.com/photos/2026/03/05/69a9d84c410cb.hires.jpg",
-        "publishedAt": "2026-03-05T10:59:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c8c865ed042eb14694b8d596e22efe99",
-            "name": "Spokane Spokesman-Review",
-            "url": "https://www.spokesman.com",
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
             "country": "us"
         }
     },
     {
-        "id": "d21f0ea248d73ffa4d174085740421e1",
-        "title": "Meta Still Has Intentions to Develop Custom Chips for AI Model Training",
-        "description": "Meta Platforms still plans to develop custom processors that are capable of training its future artificial intelligence models despite the technology giant's recent deals with key chipmakers,...",
+        "id": "98d3539ee0f2941e702e7cd8a5f1a5d5",
+        "title": "Nvidia halts China-bound H200 output, FT reports",
+        "description": "STORY: :: Nvidia\nNvidia has reportedly stopped production of its second-most advanced artificial intelligence chips, known as H200 chips, intended for the Chinese market.\n...",
+        "content": "STORY: :: Nvidia\nNvidia has reportedly stopped production of its second-most advanced artificial intelligence chips, known as H200 chips, intended for the Chinese market.\nThe Financial Times reported the update on Thursday, citing two people with kno... [759 chars]",
+        "url": "https://www.marketscreener.com/news/nvidia-halts-china-bound-h200-output-ft-reports-ce7e5fdbd881f723",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-03-05T12:57:54Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "2d1d723a5fa029a64be310204bd322a2",
+        "title": "Oracle transforms construction safety management with AI",
+        "description": "Oracle Corp:\n* Oracle transforms construction safety management with artificial intelligence\n...",
         "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/meta-still-has-intentions-to-develop-custom-chips-for-ai-model-training-ce7e5fdad081f224",
+        "url": "https://www.marketscreener.com/news/oracle-transforms-construction-safety-management-with-ai-ce7e5fdbd88efe25",
         "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-03-05T10:32:10Z",
+        "publishedAt": "2026-03-05T12:56:25Z",
         "lang": "en",
         "source": {
             "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
