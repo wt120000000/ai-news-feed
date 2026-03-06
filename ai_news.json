@@ -1,5 +1,69 @@
 [
     {
+        "id": "9365ab57b854d5bb3f120d16ae2cfd2b",
+        "title": "Dueling documentaries illuminate the promise and perils of artificial intelligence",
+        "description": "By MICHAEL LIEDTKE SAN FRANCISCO (AP) — Artificial intelligence’s dystopian specter has spawned a pair of documentaries dissecting a technology that’s depicted in the films as a ravenous parasite devouring humanity’s knowledge, creativity and empathy. The films, “Deepfaking Sam Altman” and “The AI Doc,” examine the issue through different lenses while similarly illuminating why the […]",
+        "content": "By MICHAEL LIEDTKE\nSAN FRANCISCO — Artificial intelligence’s dystopian specter has spawned a pair of documentaries dissecting a technology that’s depicted in the films as a ravenous parasite devouring humanity’s knowledge, creativity and empathy.\nThe... [6231 chars]",
+        "url": "https://www.baltimoresun.com/2026/03/05/dueling-documentaries-illuminate-the-promise-and-perils-of-artificial-intelligence/",
+        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/03/India_AI_Summit_48122.jpg?w=1024&h=683",
+        "publishedAt": "2026-03-05T19:36:05Z",
+        "lang": "en",
+        "source": {
+            "id": "3271eb2093cfa66b030a37cf84a8df5e",
+            "name": "Baltimore Sun",
+            "url": "https://www.baltimoresun.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "5b06c9485cfb23fdb6d7973f082616d0",
+        "title": "Pentagon Notifies Anthropic It’s Deemed Firm Supply-Chain Risk",
+        "description": "The Pentagon said it has formally notified Anthropic PBC that it’s determined the company and its products pose a risk to the US supply chain, according to a senior defense official, escalating a dispute over artificial intelligence safeguards.",
+        "content": "(Bloomberg) -- The Pentagon said it has formally notified Anthropic PBC that it’s determined the company and its products pose a risk to the US supply chain, according to a senior defense official, escalating a dispute over artificial intelligence sa... [3687 chars]",
+        "url": "https://www.livemint.com/companies/pentagon-notifies-anthropic-it-s-deemed-firm-supply-chain-risk-11772738828025.html",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
+        "publishedAt": "2026-03-05T19:27:07Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "f44f4e3a6269282e1a470cde3eb8ca8d",
+        "title": "Who pays for AI’s power? California watchdog urges new data center rules",
+        "description": "If you’re worried about data centers and AI inflating your electricity bill, you’re not alone. A California watchdog released a report Tuesday urging policymakers to act fast on the state’s fast-growing data-center industry – before soaring electricity demand from artificial intelligence lands on the bills of ordinary households.",
+        "content": "If you’re worried about data centers and AI inflating your electricity bill, you’re not alone.\nA California watchdog released a report Tuesday urging policymakers to act fast on the state’s fast-growing data-center industry – before soaring electrici... [3817 chars]",
+        "url": "https://apnews.com/article/california-data-management-and-storage-energy-industry-artificial-intelligence-information-technology-8cb3158b0bc4e40870ac73a55f366fa4",
+        "image": "https://dims.apnews.com/dims4/default/25a849b/2147483647/strip/true/crop/6659x4437+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2Fd8%2F6e30964bf409cabd5f6dc577224b%2Fe1c467411dd9408fbd2cabc64ea2239f",
+        "publishedAt": "2026-03-05T19:22:31Z",
+        "lang": "en",
+        "source": {
+            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+            "name": "The Associated Press",
+            "url": "https://apnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6568dc80fc7b43a650bd16cc8a7d9891",
+        "title": "Meta Platforms Faces Lawsuit Over Privacy Concerns Related to AI Smart Glasses",
+        "description": "Meta Platforms and its manufacturing partner, Luxottica of America, are facing a lawsuit in the US over Meta's artificial intelligence smart glasses for allegedly violating privacy laws and...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/meta-platforms-faces-lawsuit-over-privacy-concerns-related-to-ai-smart-glasses-ce7e5fdbdc8ef126",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2026-03-05T19:21:16Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "76be66676216f8f21790313bbf62ea99",
         "title": "Oracle Plans to Layoff Thousands Amid Cash Crunch From Data Center Expansion",
         "description": "Oracle is planning to cut thousands of jobs as the company works to better manage a cash crunch owing to its massive artificial intelligence data center expansion effort, Bloomberg reported...",
@@ -93,70 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "88145c1dcce2bec2c5b46696fd3ce264",
-        "title": "OpenAI Releases New Financial Services Tools, Rivaling Anthropic",
-        "description": "OpenAI is releasing a new flagship artificial intelligence model and a suite of financial-services tools that are meant to be better at tackling office work, ramping up competition with Anthropic PBC as the rival firm faces new risks from a showdown with the Pentagon.",
-        "content": "OpenAI is releasing a new flagship artificial intelligence model and a suite of financial-services tools that are meant to be better at tackling office work, ramping up competition with Anthropic PBC as the rival firm faces new risks from a showdown ... [379 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-05/openai-releases-new-financial-services-tools-rivaling-anthropic",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCnKRLkpg9t8/v1/1200x836.jpg",
-        "publishedAt": "2026-03-05T18:00:05Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1fcf837fbed7ff33eef8c555c2b50a5a",
-        "title": "US Prepares Global Licensing Requirements for AI Chip Exports Worldwide",
-        "description": "The United States is developing comprehensive legislation requiring export licenses for artificial intelligence chips to all global destinations, building upon existing regulations that mandate US approval for all Nvidia and AMD product shipments worldwide, representing a significant expansion of semiconductor export controls.",
-        "content": "The United States is preparing to implement comprehensive legislation that will require export licenses for artificial intelligence chips shipped to any destination worldwide. This development represents a significant expansion of existing semiconduc... [4732 chars]",
-        "url": "https://scanx.trade/stock-market-news/global/us-mandates-global-approval-for-nvidia-and-amd-product-shipments/34277790",
-        "image": "http://news-images.dhan.co/us-mandates-global-approval-for-nvidia-and-amd-product-shipments.jpg",
-        "publishedAt": "2026-03-05T17:36:30Z",
-        "lang": "en",
-        "source": {
-            "id": "f746366686e467440a63dd26dbb72053",
-            "name": "scanx.trade",
-            "url": "https://scanx.trade",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6701f0c014e07076e77d6103f5c2576c",
-        "title": "Sam Altman takes swipe at Anthropic, says companies abandoning democratic process ‘bad for society’",
-        "description": "Anthropic has clashed with the United States Department of Defense in recent weeks over how the agency can use its artificial intelligence models.",
-        "content": "OpenAI CEO Sam Altman on Thursday appeared to take subtle swipes at rival Anthropic, saying it would be “bad for society” if companies abandon their commitment to the democratic process because “some people don’t like the person or people currently i... [2141 chars]",
-        "url": "https://www.moneycontrol.com/world/sam-altman-takes-swipe-at-anthropic-says-companies-abandoning-democratic-process-bad-for-society-article-13852280.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2023/12/1.-Sam-Altman-1-1.jpg",
-        "publishedAt": "2026-03-05T17:33:17Z",
-        "lang": "en",
-        "source": {
-            "id": "fd3677545b80d5db7541de8e111d27ba",
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "5a6f4cd32ca468d933e9ca88d4a4480e",
-        "title": "Senior care startup Sage raises $65M to bring AI",
-        "description": "America’s senior care system is heading into a demographic squeeze. By the end of the decade, tens of millions more Americans will be over retirement age, and nursing homes and assisted living centers are already struggling to staff enough caregivers. A New York startup thinks artificial intelligence can help close part of that gap. Sage",
-        "content": "America’s senior care system is heading into a demographic squeeze. By the end of the decade, tens of millions more Americans will be over retirement age, and nursing homes and assisted living centers are already struggling to staff enough caregivers... [4673 chars]",
-        "url": "https://techstartups.com/2026/03/05/senior-care-startup-sage-raises-65m-to-bring-ai-powered-monitoring-to-nursing-homes/",
-        "image": "https://techstartups.com/wp-content/uploads/2026/03/SageHealth-funding-960x542.jpg",
-        "publishedAt": "2026-03-05T17:19:45Z",
-        "lang": "en",
-        "source": {
-            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-            "name": "TechStartups.com",
-            "url": "https://techstartups.com",
-            "country": "us"
         }
     }
 ]
