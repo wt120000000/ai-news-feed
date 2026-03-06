@@ -1,5 +1,53 @@
 [
     {
+        "id": "c433f4fe82e56d62dbeee99f38bcdb9a",
+        "title": "What is ChatGPT 5.4? Check features, capabilities, and what Open AI’s new model can do",
+        "description": "ChatGPT 5.4 model: OpenAI has introduced a new artificial intelligence model called GPT-5.4, which is now available in ChatGPT, the company’s API, and its coding tool Codex.",
+        "content": "ChatGPT 5.4 model: OpenAI has introduced a new artificial intelligence model called GPT-5.4, which is now available in ChatGPT, the company’s API, and its coding tool Codex. The company said the model is designed to handle complex professional tasks ... [2783 chars]",
+        "url": "https://zeenews.india.com/technology/what-is-chatgpt-5-4-check-features-capabilities-and-what-open-ai-s-new-model-can-do-3024245.html",
+        "image": "https://english.cdn.zeenews.com/sites/default/files/2026/03/06/1914518-chatgpt-5.4.jpg",
+        "publishedAt": "2026-03-06T05:14:36Z",
+        "lang": "en",
+        "source": {
+            "id": "e743cde6ee986921721e83d3957862dc",
+            "name": "Zee News",
+            "url": "https://zeenews.india.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "5b84775a9ec36be1952dfef906ff9535",
+        "title": "OpenAI launches GPT 5.4 in ChatGPT; claimed to support up to 1M tokens of context",
+        "description": "Tech News News: OpenAI has launched GPT-5.4, a new version of its artificial intelligence model, in ChatGPT. The company says the model is its “most capable and effic.",
+        "content": "OpenAI has launched GPT-5.4, a new version of its artificial intelligence model, in ChatGPT. The company says the model is its “most capable and efficient frontier model for professional work”. The new AI model is available in ChatGPT as GPT-5.4 Thin... [4031 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-launches-gpt-5-4-in-chatgpt-claimed-to-support-up-to-1m-tokens-of-context/articleshow/129133389.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129133285,width-1280,height-720,imgsize-468991,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-06T05:04:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "796642a6282274a73dbe3352f7eac12e",
+        "title": "Samsung's India R&D centres played pivotal role in Galaxy S26 development",
+        "description": "Samsung's India R&D centers in Bengaluru and Noida were key to developing the new Galaxy S26 series. These centers are vital for integrating Artificial Intelligence into Samsung devices. India's young population is highly receptive to AI technology. Samsung sees India as a strategic market, contributing significantly to its global revenue and product innovation.",
+        "content": "Synopsis\nSamsung's India R&D centers in Bengaluru and Noida were key to developing the new Galaxy S26 series. These centers are vital for integrating Artificial Intelligence into Samsung devices. India's young population is highly receptive to AI tec... [5705 chars]",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/samsungs-india-rd-centres-played-pivotal-role-in-galaxy-s26-development/articleshow/129133055.cms",
+        "image": "https://img.etimg.com/thumb/msid-129133310,width-1200,height-630,imgsize-63446,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-03-06T04:57:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "a700ffb3449f1ec507b145577b5eb0ea",
         "title": "Pentagon feud with Anthropic shines light on AI’s role in mass surveillance",
         "description": "Anthropic PBC's clash with the Pentagon is drawing fresh attention to a lightly regulated practice: the US government's purchase of commercially available information, such as browsing histories and location data, and the growing use of artificial intelligence to analyse it at scale.",
@@ -109,54 +157,6 @@
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "335d8ffbf15310dbc6e207ad62220c94",
-        "title": "Machine learning detects early brain changes linked to Alzheimer's disease",
-        "description": "Worcester Polytechnic Institute (WPI) researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy.",
-        "content": "Worcester Polytechnic Institute (WPI) researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, published in the journal Neuroscie... [4475 chars]",
-        "url": "https://www.news-medical.net/news/20260305/Machine-learning-detects-early-brain-changes-linked-to-Alzheimers-disease.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2026-03-06T02:31:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "c53f4f4611af65d73047c39e3218d55a",
-        "title": "ILO: Generative AI likely to affect women’s jobs more than men’s",
-        "description": "International Labour Organization (ILO) research shows that generative artificial intelligence (GenAI) is reshaping the world of work and may boost",
-        "content": "International Labour Organization (ILO) research shows that generative artificial intelligence (GenAI) is reshaping the world of work and may boost productivity and job creation, but its impact is likely to fall more heavily on women.\nIn a research b... [2655 chars]",
-        "url": "https://manilastandard.net/news/314712092/ilo-generative-ai-likely-to-affect-womens-jobs-more-than-mens.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/03/AI-women-at-work.webp",
-        "publishedAt": "2026-03-06T02:22:36Z",
-        "lang": "en",
-        "source": {
-            "id": "e9207083a357fb7e76b38e485888ebe7",
-            "name": "manilastandard.net",
-            "url": "https://manilastandard.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "0ba056ca5f4c071e41e47a247c3557b9",
-        "title": "‘This Is About AI Spending,’ Says Barclays on Oracle (ORCL) Layoff Report",
-        "description": "Software giant Oracle (ORCL) could cut thousands of jobs as it ramps up spending on artificial-intelligence infrastructure, according to a recen...",
-        "content": "Software giant Oracle (ORCL) could cut thousands of jobs as it ramps up spending on artificial-intelligence infrastructure, according to a recent report. However, Barclays analyst Raimo Lenschow believes the move should not be viewed as a sign of wea... [2212 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/this-is-about-ai-spending-says-barclays-on-oracle-orcl-layoff-report-1035904477",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/03/image-601.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-03-06T02:13:38Z",
-        "lang": "en",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Markets Insider",
-            "url": "https://markets.businessinsider.com",
-            "country": "us"
         }
     }
 ]
