@@ -1,5 +1,53 @@
 [
     {
+        "id": "5c3d1f8a8752904b2e5a03b2f0b4fb63",
+        "title": "Africa emerges as new arena in US-China competition over artificial intelligence",
+        "description": "With a fast-growing digital economy and young population, the continent is becoming a critical front in the global race to shape AI's future.",
+        "content": "As China and the United States compete to shape the future of artificial intelligence, Africa’s rapidly expanding digital landscape is emerging as a new arena for their rivalry, far from the technology hubs of Silicon Valley or Shenzhen.\nWith a growi... [10708 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/03/06/africa-emerges-as-new-arena-in-us-china-competition-over-artificial-intelligence",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/06/3799794.jpg",
+        "publishedAt": "2026-03-06T03:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "bf9d75c7517a375de5ef00bc8f781850",
+        "title": "Legal AI Platform Releases Law Firm AI Report for Business & Corporate Lawyers, Showcasing Growth Trends & Opportunities",
+        "description": "New research highlights how artificial intelligence is reshaping corporate legal services, operational efficiency, and competitive strategy.",
+        "content": "New research highlights how artificial intelligence is reshaping corporate legal services, operational efficiency, and competitive strategy.\n-- Law.co, an AI-powered legal technology platform serving modern law firms, today announced the release of i... [3435 chars]",
+        "url": "https://www.manilatimes.net/2026/03/06/tmt-newswire/plentisoft/legal-ai-platform-releases-law-firm-ai-report-for-business-corporate-lawyers-showcasing-growth-trends-opportunities/2294594",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2026-03-06T03:16:05Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "dd7b94fb687f5af76056f8be48afae9b",
+        "title": "Generative AI cuts coding task time by up to 70%, senior engineers see 48% faster task completion: Report",
+        "description": "The adoption of Generative Artificial Intelligence (AI) tools in software development can significantly improve productivity and reduce task completion time, according to a report by Ness, a digital engineering services company, and Zinnov, a global management consulting firm.",
+        "content": "New Delhi [India], March 6 (ANI): The adoption of Generative Artificial Intelligence (AI) tools in software development can significantly improve productivity and reduce task completion time, according to a report by Ness, a digital engineering servi... [3017 chars]",
+        "url": "https://www.tribuneindia.com/news/business/generative-ai-cuts-coding-task-time-by-up-to-70-senior-engineers-see-48-faster-task-completion-report/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU4MzAzMzcwLTE5MDktMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
+        "publishedAt": "2026-03-06T03:05:28Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "335d8ffbf15310dbc6e207ad62220c94",
         "title": "Machine learning detects early brain changes linked to Alzheimer's disease",
         "description": "Worcester Polytechnic Institute (WPI) researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy.",
@@ -109,54 +157,6 @@
             "name": "WTOP",
             "url": "https://wtop.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "f8a145b0d34fe151a2d4a25ccd3a6bd5",
-        "title": "US defense department told Anthropic it is a supply chain risk, CEO says",
-        "description": "The U.S. defense department has informed ​Anthropic that the ‌Artificial Intelligence lab is a supply chain ​risk, Anthropic CEO ​Dario Amodei said on ⁠Thursday.",
-        "content": "March 5 (Reuters) - The U.S. defense department has informed ​Anthropic that the ‌Artificial Intelligence lab is a supply chain ​risk, Anthropic CEO ​Dario Amodei said on ⁠Thursday.\n\"Yesterday (March 4) Anthropic ​received a letter ​from the Departme... [345 chars]",
-        "url": "https://www.reuters.com/technology/us-defense-department-told-anthropic-it-is-supply-chain-risk-ceo-says-2026-03-06/",
-        "image": "https://www.reuters.com/resizer/v2/LGY3YUWC2ZIJTIYV7ETBIEKABE.jpg?auth=fd8860a46a8ebb2ed553cda74af9febecb08566aaf33a823dfccae2a1673aa32&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-03-06T00:53:30Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f8840aba77429cb7723ea83fb076b475",
-        "title": "Pentagon says it is labeling AI company Anthropic a supply chain risk 'effective immediately'",
-        "description": "The Trump administration is following through with its threat to designate artificial intelligence company Anthropic as a supply chain risk in an unprecedented move that could force other government contractors to stop using the AI chatbot Claude. The Pentagon said in a statement Thursday it has “officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately.” The decision appeared to shut down opportunity for further negotiation with Anthropic, nearly a week after President Donald Trump and Defense Secretary Pete Hegseth accused the company of endangering national security.",
-        "content": "The Trump administration is following through with its threat to designate artificial intelligence company Anthropic as a supply chain risk in an unprecedented move that could force other government contractors to stop using the AI chatbot Claude.\nTh... [1549 chars]",
-        "url": "https://www.ajc.com/news/2026/03/pentagon-says-it-is-labeling-ai-company-anthropic-a-supply-chain-risk-effective-immediately/",
-        "image": "https://images.ajc.com/resizer/v2/H4SJTUQ2AVAU5G2CGQ73RNCSEQ.jpg?auth=699da75ff04c3a03bacbfc177b7f73fb643e4af69824d7cc59ddbe2b8306a4af&width=1200&height=630&smart=true",
-        "publishedAt": "2026-03-06T00:51:16Z",
-        "lang": "en",
-        "source": {
-            "id": "79e9a45376a66fd7e1a4e68bba928c39",
-            "name": "The Atlanta Journal-Constitution",
-            "url": "https://www.ajc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e4256fc9cdab2a6ed1bbec2ceabf6324",
-        "title": "UK should back licensing-first approach for AI training, says upper house committee",
-        "description": "LONDON, March 6 (Reuters) - Britain should ⁠reject any move to let artificial intelligence companies freely mine ⁠copyrighted material for commercial model training and instead adopt a licensing-first ‌regime, a committee in the upper house of parliament said on Friday.",
-        "content": "LONDON, March 6 (Reuters) - Britain should ⁠reject any move to let artificial intelligence companies freely mine ⁠copyrighted material for commercial model training and instead adopt a licensing-first ‌regime, a committee in the upper house of parlia... [1761 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/03/06/uk-should-back-licensing-first-approach-for-ai-training-says-upper-house-committee",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/06/3799739.jpg",
-        "publishedAt": "2026-03-06T00:36:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
