@@ -1,5 +1,37 @@
 [
     {
+        "id": "e1c6b566ea48af168b96322e489ca965",
+        "title": "Oracle and OpenAI drop Texas data center expansion plan, Bloomberg News reports",
+        "description": "March 6 (Reuters) - Oracle and OpenAI ⁠have abandoned plans to expand a flagship artificial intelligence data center ⁠in Texas after negotiations dragged over financing and OpenAI's changing needs, Bloomberg ‌News reported on Friday, citing people familiar with the matter.",
+        "content": "March 6 (Reuters) - Oracle and OpenAI ⁠have abandoned plans to expand a flagship artificial intelligence data center ⁠in Texas after negotiations dragged over financing and OpenAI's changing needs, Bloomberg ‌News reported on Friday, citing people fa... [1760 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/03/07/oracle-and-openai-end-plans-to-expand-texas-data-center-site-bloomberg-news-reports",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/07/3801479.jpg",
+        "publishedAt": "2026-03-06T23:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "b7ea0a2b0bbf17f9932e369d86b9c859",
+        "title": "Indian-origin surgeon leads UK's first long-distance robotic surgeries",
+        "description": "LONDON, Mar 6 : A London-based Indian-origin surgeon has created medical history by successfully completing the UK’s first remote robotic surgeries on patients in Gibraltar, at a distance of around 2,400 km away. Professor Prokar Dasgupta, a world-leading robotic urological surgeon who heads The London Clinic’s Robotic Centre of Excellence, said his two test cases were an excellent example of the responsible use of artificial intelligence (AI). He completed the prostatectomy, a partial or complete removal of the prostate gland, […]",
+        "content": "LONDON, Mar 6 : A London-based Indian-origin surgeon has created medical history by successfully completing the UK’s first remote robotic surgeries on patients in Gibraltar, at a distance of around 2,400 km away.\nProfessor Prokar Dasgupta, a world-le... [4508 chars]",
+        "url": "https://www.dailyexcelsior.com/indian-origin-surgeon-leads-uks-first-long-distance-robotic-surgeries/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/03/robotic-surgery.jpg",
+        "publishedAt": "2026-03-06T22:35:54Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "b5fd6d46ab09bed5ae95bddda1c96aa3",
         "title": "Christian School Teacher Used AI to Make Sexual Pics of Kids",
         "description": "North Carolina teacher Richard Lynn Upright used artificial intelligence to insert the faces of children into more than 100 sexually explicit images",
@@ -124,38 +156,6 @@
             "id": "7006f2c40c7cc01195608dbfd60259b3",
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "7660b6b56b2c9aad09afb7b1909facbf",
-        "title": "Oracle and OpenAI drop Texas data center expansion plan, Bloomberg News reports",
-        "description": "Oracle and OpenAI have abandoned plans to expand a flagship artificial intelligence data center ​in Texas after negotiations dragged over financing and OpenAI's changing needs, ‌Bloomberg News reported on Friday, citing people familiar with the matter.",
-        "content": "March 6 (Reuters) - Oracle and OpenAI have abandoned plans to expand a flagship artificial intelligence data center ​in Texas after negotiations dragged over financing and OpenAI's changing needs, ‌Bloomberg News reported on Friday, citing people fam... [1012 chars]",
-        "url": "https://www.reuters.com/business/oracle-openai-end-plans-expand-texas-data-center-site-bloomberg-news-reports-2026-03-06/",
-        "image": "https://www.reuters.com/resizer/v2/DC5T6IXKGBMRFCTPFHVMYYCMGQ.jpg?auth=ac58f3d3600a8bf254f839ddadb88cec535a1fd53ac31e32030c1dd415a612e2&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-03-06T20:18:27Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "75767a5861a6fd6fc98792af7802545c",
-        "title": "Manhattan office tower values plummet below COVID-era slump amid fears AI will wreak a white-collar bloodbath",
-        "description": "Manhattan’s office towers are now valued at prices less than the peak of the COVID-19 pandemic, as a new threat emerges: Artificial Intelligence. A new report from brokerage firm Evercore ISI found that publicly traded landlords with large Manhattan office portfolios are now valued below where they stood in June 2020, when the city was grappling with lockdowns and deserted business districts.",
-        "content": "Manhattan’s office towers are now valued at prices less than they were at the peak of the COVID-19 pandemic, as a new threat emerges: Artificial Intelligence.\nA new report from brokerage firm Evercore ISI found that publicly traded landlords with lar... [4256 chars]",
-        "url": "https://nypost.com/2026/03/06/real-estate/manhattan-office-tower-values-plummet-below-covid-era-slump-amid-fears-ai-will-wreak-a-white-collar-bloodbath/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/03/newspress-collage-wv9bn3y09-1772824013516.jpg?quality=75&strip=all&1772806092&w=1200",
-        "publishedAt": "2026-03-06T20:13:29Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
             "country": "us"
         }
     }
