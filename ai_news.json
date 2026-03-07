@@ -1,5 +1,53 @@
 [
     {
+        "id": "2ec5ba0b6153a59b9c2e46b6387831e9",
+        "title": "AI increasingly mentioned in children’s stories, research shows",
+        "description": "Children are increasingly mentioning artificial intelligence (AI) in their stories, research has found.",
+        "content": "LONDON: Children are increasingly mentioning artificial intelligence (AI) in their stories, research has found.\nMentions of AI increased 50% from the year before in more than 46,500 stories children aged five to 11 submitted to a competition in 2025.... [2516 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/03/07/ai-increasingly-mentioned-in-childrens-stories-research-shows",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/06/3800613.jpg",
+        "publishedAt": "2026-03-07T04:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "3b6014bd177c6c8f9b8eea5c8ac5fbda",
+        "title": "China Turns to AI as Jobseeker Numbers Top Belgium’s Population",
+        "description": "China will harness artificial intelligence to create jobs as the number of university graduates poised to enter the labor market this year will reach 12.7 million — more than the population of countries such as Belgium.",
+        "content": "China will harness artificial intelligence to create jobs as the number of university graduates poised to enter the labor market this year will reach 12.7 million — more than the population of countries such as Belgium.\nThe government will use AI to ... [294 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-07/china-turns-to-ai-as-jobseeker-numbers-top-belgium-s-population",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOxJC_o_7NoM/v0/1200x800.jpg",
+        "publishedAt": "2026-03-07T03:53:20Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c32211f20e4032fbb52185b6ecd47a3d",
+        "title": "U.S. Tightens AI Contract Guidelines Amid Pentagon-Anthropic Conflict",
+        "description": "The Trump administration has established stringent rules for civilian artificial intelligence contracts, demanding unrestricted legal use of models by the government. This comes during a dispute between the Pentagon and AI firm Anthropic, which was labeled a 'supply-chain risk' by the Department of Defense.",
+        "content": "The Trump administration has introduced firm regulations for civilian AI contracts, requiring companies to allow any lawful use of their models, according to a Financial Times report. The move highlights ongoing tensions between the Pentagon and AI f... [681 chars]",
+        "url": "https://www.devdiscourse.com/article/health/3829341-us-tightens-ai-contract-guidelines-amid-pentagon-anthropic-conflict",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_02_17_130752.jpg?width=920&format=jpeg",
+        "publishedAt": "2026-03-07T03:50:49Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "b44a29328a8497cb5f2ebcc814477c60",
         "title": "'Invisible Safety Shield': Snabbit Launches AI System To Protect Women Workers",
         "description": "Instant house-help services are scaling rapidly in urban India. Now Snabbit is turning to artificial intelligence to strengthen safety and trust for workers entering unfamiliar homes.",
@@ -109,54 +157,6 @@
             "name": "Deadline",
             "url": "https://deadline.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "b511cc30ee2f0fcf58bf82ba118d7098",
-        "title": "Data Doctors: Businesses that AI won’t replace",
-        "description": "Which kinds of businesses are least likely to be disrupted by artificial intelligence?",
-        "content": "Q: Which kinds of businesses are least likely to be disrupted by artificial intelligence?\nA: Artificial intelligence is quickly becoming part of everyday life, which has a lot of people wondering what it means for their jobs and businesses. From writ... [3924 chars]",
-        "url": "https://wtop.com/tech/2026/03/data-doctors-businesses-that-ai-wont-replace/",
-        "image": "https://wtop.com/wp-content/uploads/2025/10/CharacterAI-Minors_53455.jpg",
-        "publishedAt": "2026-03-07T01:11:34Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "82d75ba5620bf28d84eb1c501292ccbf",
-        "title": "US draws up strict new AI guidelines amid Anthropic clash, FT reports",
-        "description": "March 6 (Reuters) - ⁠The Trump administration ⁠has drawn up strict ‌rules for civilian artificial intelligence contracts that would require ​AI companies to ⁠allow \"any lawful\" ⁠use of their models amid ⁠a ‌stand-off between the Pentagon and ⁠Anthropic, the Financial Times reported ​on ‌Friday.",
-        "content": "March 6 (Reuters) - ⁠The Trump administration ⁠has drawn up strict ‌rules for civilian artificial intelligence contracts that would require ​AI companies to ⁠allow \"any lawful\" ⁠use of their models amid ⁠a ‌stand-off between the Pentagon and ⁠Anthrop... [383 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/03/07/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-ft-reports",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/07/3801541.jpg",
-        "publishedAt": "2026-03-07T00:47:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "0a31bbbf70077af580f309f9366991d4",
-        "title": "Anthropic vows court fight in Pentagon row",
-        "description": "Anthropic chief executive Dario Amodei has said the company has \"no choice\" but to challenge in court the Pentagon's formal designation of the artificial intelligence firm as a risk to US national security.",
-        "content": "WASHINGTON: Anthropic chief executive Dario Amodei has said the company has \"no choice\" but to challenge in court the Pentagon's formal designation of the artificial intelligence firm as a risk to US national security.\nThe CEO, writing in a blog post... [3382 chars]",
-        "url": "https://www.channelnewsasia.com/world/anthropic-vows-court-fight-in-pentagon-row-5978186",
-        "image": "https://dam.mediacorp.sg/image/upload/s--VYpEGke4--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-16T172218Z_1_LYNXMPEM1F0PP_RTROPTP_3_INDIA-ANTHROPIC.JPG?itok=3saTjBUA",
-        "publishedAt": "2026-03-07T00:46:10Z",
-        "lang": "en",
-        "source": {
-            "id": "09131c39169c9c96230862dc4c1fa727",
-            "name": "CNA",
-            "url": "https://www.channelnewsasia.com",
-            "country": "sg"
         }
     }
 ]
