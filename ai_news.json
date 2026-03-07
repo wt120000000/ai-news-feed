@@ -1,5 +1,69 @@
 [
     {
+        "id": "e7aa2f404fb65205cdaa8ea7bfdef2df",
+        "title": "China's Jiangsu touts AI industrial push as Xi urges province to lead",
+        "description": "Government officials from China's eastern economic powerhouse Jiangsu highlighted plans to expand artificial intelligence infrastructure and upgrade manufacturing on Saturday, after President Xi Jinping ​urged the province to take the lead in developing technology-driven growth.",
+        "content": "BEIJING, March 7 (Reuters) - Government officials from China's eastern economic powerhouse Jiangsu highlighted plans to expand artificial intelligence infrastructure and upgrade manufacturing on Saturday, after President Xi Jinping ​urged the provinc... [2249 chars]",
+        "url": "https://www.reuters.com/world/asia-pacific/chinas-jiangsu-touts-ai-industrial-push-xi-urges-province-lead-2026-03-07/",
+        "image": "https://www.reuters.com/resizer/v2/7NGAKHYXE5LGZAGUYX7XDXDTXI.jpg?auth=cd40684b61ae5338ca4420a602f262f5f193898eb7b7c4d04fff39f03214eee6&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-03-07T06:36:41Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "73d2bb7f605bbb59c94177c863fe8271",
+        "title": "Oracle and OpenAI drop Texas data centre expansion plan: Report",
+        "description": "Oracle and ​OpenAI have reportedly abandoned plans ‌to expand a ​flagship artificial ⁠intelligence data centre in Texas",
+        "content": "Oracle and ​OpenAI have abandoned plans ‌to expand a ​flagship artificial ⁠intelligence data centre in Texas, part of the ‌Stargate project, after negotiations dragged ‌over financing ‌and ⁠OpenAI’s changing ⁠needs, Bloomberg News reported on Friday.... [396 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/oracle-and-openai-drop-texas-data-centre-expansion-plan-report/article70714607.ece",
+        "image": "https://th-i.thgim.com/public/incoming/cqf9yq/article70714608.ece/alternates/LANDSCAPE_1200/2026-03-05T180502Z_2118915851_RC2EOGARLZSW_RTRMADP_3_ORACLE-LAYOFFS.JPG",
+        "publishedAt": "2026-03-07T06:28:01Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "86fe03e535464ccaeb35cb8ae8945eb8",
+        "title": "US plans to send Ukraine-proven anti-drone system to West Asia",
+        "description": "The system that is being sent, known as Merops, flies drones against drones. It is small enough to fit in the back of a midsize pickup truck, can identify drones and close in on them, using artificial intelligence to navigate when satellite and electronic communications are jammed",
+        "content": "The US has decided to send the anti-drone system that worked successfully against Russian drones in Ukraine to West Asia to bolster America’s defence against Iranian forces.\nWhile the US has used Patriot and THAAD missile systems to take down Iranian... [1986 chars]",
+        "url": "https://www.firstpost.com/world/us-plans-to-send-ukraine-proven-anti-drone-system-to-west-asia-13987074.html",
+        "image": "https://images.firstpost.com/uploads/2026/03/Representational-Image-2026-03-06T210420.255-2026-03-ed9c372bb705be3c2d102ddf497f3823.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-03-07T05:55:37Z",
+        "lang": "en",
+        "source": {
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "7d3b79cbd9001ffad9be088e7ff11ec0",
+        "title": "US drafts strict AI guidelines after Anthropic dispute: Key rules explained",
+        "description": "The Trump administration has prepared a strict AI framework for civilian artificial intelligence contracts following the clash with Anthropic over AI military use.\nA draft of guidelines as reported...",
+        "content": "The Trump administration has prepared a strict AI framework for civilian artificial intelligence contracts following the clash with Anthropic over AI military use.\nA draft of guidelines as reported by the Financial Times require AI companies to allow... [1791 chars]",
+        "url": "https://www.thenews.com.pk/latest/1394863-us-drafts-strict-ai-guidelines-after-anthropic-dispute-key-rules-explained",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-03-07/1394863_102937_updates.jpg",
+        "publishedAt": "2026-03-07T05:29:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
         "id": "6f6d363d0f1498ecf3b47fdc1c21f6da",
         "title": "Anthropic vows court fight in Pentagon row",
         "description": "Anthropic chief executive Dario Amodei has said the company has \"no choice\" but to challenge in court the Pentagon's formal designation of the artificial intelligence firm as a risk to US national security.",
@@ -93,70 +157,6 @@
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "c32211f20e4032fbb52185b6ecd47a3d",
-        "title": "U.S. Tightens AI Contract Guidelines Amid Pentagon-Anthropic Conflict",
-        "description": "The Trump administration has established stringent rules for civilian artificial intelligence contracts, demanding unrestricted legal use of models by the government. This comes during a dispute between the Pentagon and AI firm Anthropic, which was labeled a 'supply-chain risk' by the Department of Defense.",
-        "content": "The Trump administration has introduced firm regulations for civilian AI contracts, requiring companies to allow any lawful use of their models, according to a Financial Times report. The move highlights ongoing tensions between the Pentagon and AI f... [681 chars]",
-        "url": "https://www.devdiscourse.com/article/health/3829341-us-tightens-ai-contract-guidelines-amid-pentagon-anthropic-conflict",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_02_17_130752.jpg?width=920&format=jpeg",
-        "publishedAt": "2026-03-07T03:50:49Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "b44a29328a8497cb5f2ebcc814477c60",
-        "title": "'Invisible Safety Shield': Snabbit Launches AI System To Protect Women Workers",
-        "description": "Instant house-help services are scaling rapidly in urban India. Now Snabbit is turning to artificial intelligence to strengthen safety and trust for workers entering unfamiliar homes.",
-        "content": "Snabbit has launched an artificial intelligence-based safety system to protect women workers providing short-duration household services through its platform. The feature, called Snabbit Kavach, monitors distress signals when workers enter customers'... [3017 chars]",
-        "url": "https://www.ndtvprofit.com/business/invisible-safety-shield-snabbit-launches-ai-system-to-protect-women-workers-11180342",
-        "image": "https://c.ndtvimg.com/2026-01/9lrqrbls_snabbit_625x300_15_January_26.png?im=FitAndFill,algorithm=dnn,width=1080,height=607",
-        "publishedAt": "2026-03-07T03:15:40Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "3737027ffb4afce6be89a3afabcd49df",
-        "title": "China says it can keep jobs stable over next 5 years despite AI, labour challenges",
-        "description": "China can keep employment ​stable and sustain positive ‌momentum over the next five years, ​its human resources ​minister said on Saturday, ⁠even as rising ​labour market uncertainties ​and the rapid development of artificial intelligence pose challenges.",
-        "content": "BEIJING, March 7 (Reuters) - China can keep employment ​stable and sustain positive ‌momentum over the next five years, ​its human resources ​minister said on Saturday, ⁠even as rising ​labour market uncertainties ​and the rapid development of artifi... [394 chars]",
-        "url": "https://www.reuters.com/world/asia-pacific/china-says-it-can-keep-jobs-stable-over-next-5-years-despite-ai-labour-2026-03-07/",
-        "image": "https://www.reuters.com/resizer/v2/YKLBZLHNFJJAHLC6RHXXTNKYYI.jpg?auth=6b23b4ca488f61427933a7e970a5c2388b487b18fc4cd1b66bcbfeef4b48a33f&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-03-07T02:50:49Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6a28c6cd11d759ec26260869693e5e67",
-        "title": "China's Plan for Stable Employment Amid Labor Market Challenges",
-        "description": "China plans to maintain stable employment and sustain positive momentum over the next five years despite facing challenges from labor market uncertainties and the rapid development of artificial intelligence. The government aims to expand job opportunities for young people, college graduates, and migrant workers.",
-        "content": "China is aiming to sustain stable employment and positive economic momentum, according to its human resources minister. The statement came amid concerns over rising labor market uncertainties and the challenges posed by the rapid development of artif... [449 chars]",
-        "url": "https://www.devdiscourse.com/article/law-order/3829318-chinas-plan-for-stable-employment-amid-labor-market-challenges",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/31_05_2024_00_56_22_4463582.png?width=920&format=jpeg",
-        "publishedAt": "2026-03-07T02:46:02Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
