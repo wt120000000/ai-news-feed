@@ -1,5 +1,37 @@
 [
     {
+        "id": "21a190059d94b16880ee129403d9d34b",
+        "title": "Meet Amanda Askell: The philosopher hired by Anthropic to teach AI how to behave well",
+        "description": "Trending News: When people imagine the engineers building today’s most advanced artificial intelligence systems, they usually picture computer scientists, mathematic.",
+        "content": "When people imagine the engineers building today’s most advanced artificial intelligence systems, they usually picture computer scientists, mathematicians and software developers. At the AI company Anthropic, however, one of the key figures shaping i... [6117 chars]",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/meet-amanda-askell-the-philosopher-hired-by-anthropic-to-teach-ai-how-to-behave-well/articleshow/129235882.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129236018,width-1280,height-720,imgsize-524979,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-07T21:20:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "dd5b6356010236003984af08c50b5924",
+        "title": "BJP begins AI-focused training for mandal-level workers in Haryana",
+        "description": "Chandigarh: Keeping in view the opportunities and challenges posed by Artificial Intelligence (AI), the Haryana BJP on Saturday launched the Pandit De.",
+        "content": "Chandigarh: Keeping in view the opportunities and challenges posed by Artificial Intelligence (AI), the Haryana BJP on Saturday launched the Pandit Deendayal Upadhyay Training Maha Abhiyan, a mandal-level training campaign aimed at preparing its medi... [1518 chars]",
+        "url": "https://timesofindia.indiatimes.com/city/chandigarh/bjp-begins-ai-focused-training-for-mandal-level-workers-in-haryana/articleshow/129229503.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129229500,width-1280,height-720,imgsize-16256,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-07T21:03:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "56a712fd0a775c53eec78e436c9a1d35",
         "title": "Traders Snatch Up Derivatives as Risks Grow: Credit Weekly",
         "description": "War in Iran. A weakening US jobs market. Artificial intelligence and the potential demise of whole industries. Growing pressure on private credit.",
@@ -125,38 +157,6 @@
             "name": "The Canberra Times",
             "url": "https://www.canberratimes.com.au",
             "country": "au"
-        }
-    },
-    {
-        "id": "afef0b055976dc3b822c6ea5f628511a",
-        "title": "Musk accuses Anthropic CEO of 'projecting' over AI consciousness concerns",
-        "description": "SpaceX and Tesla CEO Elon Musk accused the head of Anthropic, an artificial intelligence company that is at odds with the Pentagon over its use, of \"projecting\" this week.",
-        "content": "NEWYou can now listen to Fox News articles!\nSpaceX and Tesla CEO Elon Musk gave a two-word retort after Anthropic leader Dario Amodei claimed in an interview that he isn’t sure if his company’s AI models have gained consciousness.\n\"Anthropic CEO says... [3280 chars]",
-        "url": "https://www.foxnews.com/politics/tech-company-odds-pentagon-warns-its-ai-possibly-gained-consciousness-elon-musk-issues-two-word-response",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/elon-musk-dario-amodei.jpg",
-        "publishedAt": "2026-03-07T16:26:54Z",
-        "lang": "en",
-        "source": {
-            "id": "8da923084554b2821233d6c5c5f02c97",
-            "name": "Fox News",
-            "url": "https://www.foxnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "47f53acae2697cce66a49d03da6a1922",
-        "title": "Oracle and OpenAI drop Texas data center expansion plan",
-        "description": "ORACLE and OpenAI have abandoned plans to expand a flagship artificial intelligence (AI) data center in Texas after negotiations dragged over financing and OpenAI’s changing needs, Bloomberg News reported on Friday, citing people familiar with the matter.",
-        "content": "ORACLE and OpenAI have abandoned plans to expand a flagship artificial intelligence (AI) data center in Texas after negotiations dragged over financing and OpenAI’s changing needs, Bloomberg News reported on Friday, citing people familiar with the ma... [1621 chars]",
-        "url": "https://www.manilatimes.net/2026/03/08/business/top-business/oracle-and-openai-drop-texas-data-center-expansion-plan/2295241",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/07/963874.jpg",
-        "publishedAt": "2026-03-07T16:06:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
