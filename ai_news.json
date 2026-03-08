@@ -1,5 +1,37 @@
 [
     {
+        "id": "c9bb8bc968995a9623b8033c63086510",
+        "title": "India Inc bats for more women to play long game",
+        "description": "Companies such as RPG, Vedanta, Flipkart and DBS Bank are providing more flexibility to women employees, including making it easier for them to return to work after a career break, along with organising leadership training and mentorship, and artificial intelligence (AI) skilling.",
+        "content": "Synopsis\nCompanies such as RPG, Vedanta, Flipkart and DBS Bank are providing more flexibility to women employees, including making it easier for them to return to work after a career break, along with organising leadership training and mentorship, an... [2937 chars]",
+        "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/india-inc-bats-for-more-women-to-play-long-game/articleshow/129229507.cms",
+        "image": "https://img.etimg.com/thumb/msid-129229873,width-1200,height-630,imgsize-132982,overlay-etcareers/articleshow.jpg",
+        "publishedAt": "2026-03-08T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "e879b36a23c3225db0c07c03249c11e2",
+        "title": "Digital transformation of food retail is reshaping food access for consumers",
+        "description": "A research report published in the Journal of Nutrition Education and Behavior examines how the rapid digitalization of the retail food environment is reshaping food access in the United States and highlights implications for public health nutrition research, practice, and policy. The authors describe how online grocery platforms, mobile food delivery applications, artificial intelligence (AI), and digital marketing are transforming the way consumers encounter and purchase food.",
+        "content": "A research report published in the Journal of Nutrition Education and Behavior examines how the rapid digitalization of the retail food environment is reshaping food access in the United States and highlights implications for public health nutrition ... [2325 chars]",
+        "url": "https://medicalxpress.com/news/2026-03-digital-food-retail-reshaping-access.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/digital-transformation.jpg",
+        "publishedAt": "2026-03-07T23:30:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "3015ccbb87bc8de770242d3cbbe9560e",
         "title": "OpenAI’s Head of Robotics Resigns Over Company’s Pentagon Deal",
         "description": "The head of OpenAI’s robotics team resigned Saturday, citing the company’s deal to deploy its artificial intelligence models within the Pentagon’s classified network as the cause.",
@@ -124,38 +156,6 @@
             "id": "3bd4bd306c42647825fa42989624c036",
             "name": "Livemint",
             "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "082906ebaaf8af3ce4c2eecb166175a7",
-        "title": "Forget robocalls. How scammers are using AI to get your money.",
-        "description": "Artificial intelligence makes phishing and spoofing easier for scammers, consumer advocates said.",
-        "content": "Scammers are finding new ways to trick consumers out of their money.\nNow artificial intelligence — AI — is giving the fraudsters an edge, according to a report by consumer advocates.\nPhishing and spoofing scams surged by 85.6% in 2025, according to t... [3476 chars]",
-        "url": "https://www.nj.com/news/2026/03/forget-robocalls-the-new-way-scammers-are-trying-to-get-your-money-ai.html",
-        "image": "https://www.nj.com/resizer/v2/LRS6A4AGF5D3FEMGNBZYS3QUMA.png?auth=caa5e9a9970f0b995c30b7a01ae63c844c0e5f1b199cc839cdf2062cc05b4842&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-03-07T19:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "49751e72ee79ba8eb1d9dcf6e10bf195",
-            "name": "NJ.com",
-            "url": "https://www.nj.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "bb1ddb6f45ae2e298215aa4969e50180",
-        "title": "Goa Proposes AI Policy to Foster Digital Innovation and Governance by 2027",
-        "description": "Goa's IT department has unveiled a draft artificial intelligence policy aimed at revolutionizing sectors such as education, healthcare, and tourism by 2027. Stakeholders including industry experts are invited to provide feedback on this forward-looking initiative.",
-        "content": "Panaji: The IT department has prepared a draft artificial intelligence policy for Goa and circulated it among stakeholders for feedback. Officials said further consultations will continue in the coming weeks with industry players, academicians and ce... [1279 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/goa/goa-shares-draft-ai-policy-with-stakeholders-for-inputs/articleshow/129230660.cms",
-        "image": "https://static.toiimg.com/thumb/msid-129230660,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-03-07T18:45:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     }
