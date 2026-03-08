@@ -1,5 +1,53 @@
 [
     {
+        "id": "a0fad60d88f1758808e457963a51b8e0",
+        "title": "Claude reveals early signs of workforce change",
+        "description": "Artificial intelligence is reshaping the workforce, and some jobs face more risk than others, according to new research. Anthropic economists Maxim Massenkoff and Peter McCrory analysed real-world...",
+        "content": "Artificial intelligence is reshaping the workforce, and some jobs face more risk than others, according to new research. Anthropic economists Maxim Massenkoff and Peter McCrory analysed real-world AI usage and found that computer programmers, custome... [1554 chars]",
+        "url": "https://www.thenews.com.pk/latest/1394967-claude-reveals-early-signs-of-workforce-change",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-03-08/1394967_013350_updates.jpg",
+        "publishedAt": "2026-03-08T08:26:30Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "a605755fdbfe2f0fc3f5c62c6e6d84e8",
+        "title": "Hands tied, class 6 student swims across Vembanad Lake",
+        "description": "Badri developed an interest in swimming at a young age and initially trained at the Udayanapuram Sree Muruga Swimming Club under retired Fire and.swimming with hands tied, Vembanad Lake swim, Vaikom boy swims lake, endurance swimming feat, young swimmer achieves, tied hands lake crossing, Badri R Nath swim record, AI powered swimming training, LLM for athletic performance analysis, student sets swimming milestone, swimming challenges overcome, artificial intelligence in sports, large language models for athletes, unique swimming stunts, Vembanad Lake open water swim",
+        "content": "Vaikom/Kottayam: In an impressive feat of endurance, Badri R Nath, a Class 6 student of Warwin School in Vaikom, swam across the Vembanad Lake with his hands tied.\nThe 11-year-old - son of Rinosh and Jisha of Chemmadi House, Padinjarekkara - began th... [1000 chars]",
+        "url": "https://www.onmanorama.com/news/kerala/2026/03/08/vembanad-lake-swim-hands-tied-class-6.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/3/8/vembanad-lake-kid-swimming.jpg",
+        "publishedAt": "2026-03-08T08:22:37Z",
+        "lang": "en",
+        "source": {
+            "id": "60c457b35b486691319f105c3a760060",
+            "name": "Malayala Manorama",
+            "url": "https://www.onmanorama.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "f755a901091ce1b722d4ad9cc9dfff4f",
+        "title": "Cleveland newspaper embraces use of AI",
+        "description": "The Plain Dealer, Cleveland's largest newspaper, has begun to feature a new byline. On recent articles about an ice carving festival, a medical research discovery and a roaming pack of chicken-slaying dogs, a reporter's name is paired with the words \"Advance Local Express Desk.\" It means: This article was drafted by artificial intelligence.",
+        "content": "The Plain Dealer, Cleveland's largest newspaper, has begun to feature a new byline. On recent articles about an ice carving festival, a medical research discovery and a roaming pack of chicken-slaying dogs, a reporter's name is paired with the words ... [8077 chars]",
+        "url": "https://www.arkansasonline.com/news/2026/mar/08/cleveland-newspaper-embraces-use-of-ai/",
+        "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
+        "publishedAt": "2026-03-08T07:47:00Z",
+        "lang": "en",
+        "source": {
+            "id": "69a24b80e5bce5a07f808f5ea84c434b",
+            "name": "Arkansas Online",
+            "url": "https://www.arkansasonline.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "56855c900b3803f158ff0ca957f3ccc4",
         "title": "Study finds AI can expose hidden identities online",
         "description": "Artificial intelligence may soon make online anonymity harder to maintain. A new study conducted by researchers from Anthropic and ETH Zurich has revealed that current AI systems and LLMs can...",
@@ -108,54 +156,6 @@
             "id": "34cc62608b4607dc3a776802caadb7bd",
             "name": "ThePrint",
             "url": "https://theprint.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "ed26852eb776b4f8104ee7c0493c865b",
-        "title": "Anthropic developing early warning system to monitor AI’s impact on white-collar jobs",
-        "description": "AI company Anthropic is developing an early warning system designed to track how artificial intelligence could affect white-collar jobs.",
-        "content": "Anthropic, the artificial intelligence firm behind the widely recognised large language model Claude, says it is developing an early-warning system designed to predict whether AI could eventually disrupt white-collar jobs, according to a report by Ax... [2521 chars]",
-        "url": "https://www.financialexpress.com/life/technology-anthropic-developing-early-warning-system-to-monitor-ais-impact-on-white-collar-jobs-4165836/",
-        "image": "https://images.financialexpressdigital.com/2026/03/Untitled-design-7.jpg",
-        "publishedAt": "2026-03-08T04:12:30Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "b4aa84289301313909ad77d515aa20e7",
-        "title": "‘Scientific community in PGI clearly knows ways to advance medical knowledge and improve patient care’: AIIMS Dean",
-        "description": "Talking of Artificial Intelligence in the field of health, the AIIMS Dean noted that AI should not be dealt with in isolation, and should complement health services, for instance, in screening, it can ease the burden of health care workers and improve objectivity and needs regulation.",
-        "content": "Tandon delivered a special address titled ‘Wearing Two Hats: Doctor’s Dilemma,’ where he reflected on the complex responsibilities faced by clinician-scientists. “Most medical professionals in India wear two hats, one of providing patient care and th... [1439 chars]",
-        "url": "https://indianexpress.com/article/cities/chandigarh/scientific-community-pgi-medical-knowledge-improve-patient-care-aiims-dean-10570741/",
-        "image": "https://images.indianexpress.com/2026/03/Prof-Nikhil-Tandon.jpg",
-        "publishedAt": "2026-03-08T03:16:30Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c88ee0c441e908372d70acbce5898bee",
-        "title": "‘About principle, not people’, OpenAI's robotics head quits after company's Pentagon deal - Who is Caitlin Kalinowski?",
-        "description": "The head of OpenAI’s robotics team resigned Saturday, citing the company’s deal to deploy its artificial intelligence models within the Pentagon’s classified network as the cause.",
-        "content": "Caitlin Kalinowski, head of ChatGPT maker OpenAI's robotics team has resigned from the position. In a post on social media platform X (formerly Twitter), she said the decision was directly tied to the company's new deal with the Department of War (Do... [3215 chars]",
-        "url": "https://www.livemint.com/companies/people/who-caitlin-kalinowski-openai-robotics-head-quits-company-pentagon-deal-anthropic-military-use-meta-apple-macbook-design-11772934799332.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/03/08/1600x900/logo/ChatGPT_1772617236048_1772617236277_1772938926093.png",
-        "publishedAt": "2026-03-08T03:02:41Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
             "country": "in"
         }
     }
