@@ -1,5 +1,37 @@
 [
     {
+        "id": "56855c900b3803f158ff0ca957f3ccc4",
+        "title": "Study finds AI can expose hidden identities online",
+        "description": "Artificial intelligence may soon make online anonymity harder to maintain. A new study conducted by researchers from Anthropic and ETH Zurich has revealed that current AI systems and LLMs can...",
+        "content": "Artificial intelligence may soon make online anonymity harder to maintain. A new study conducted by researchers from Anthropic and ETH Zurich has revealed that current AI systems and LLMs can uncover the real identities behind pseudonymous online acc... [1660 chars]",
+        "url": "https://www.thenews.com.pk/latest/1394963-ai-can-reveal-identities-behind-anonymous-online-accounts-study-warns",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-03-08/1394963_122124_updates.jpg",
+        "publishedAt": "2026-03-08T07:04:09Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "c16d8a673346d7abfeb38c488702b003",
+        "title": "Pentagon vs Anthropic 'fight' may mean these new rules for all AI companies",
+        "description": "Tech News News: The US is reportedly preparing new rules for artificial intelligence (AI) companies. The proposed guidelines come amid a dispute between the Pentagon .",
+        "content": "Left: Pentagon head Pete Hegseth Right: Anthropic CEO Dario Amodei\nThe US is reportedly preparing new rules for artificial intelligence (AI) companies. The proposed guidelines come amid a dispute between the Pentagon and the Claude maker Anthropic ov... [4417 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-vs-anthropic-fight-may-mean-these-new-rules-for-all-ai-companies/articleshow/129255810.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129255857,width-1280,height-720,imgsize-829694,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-08T07:02:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "cfca72dcf1e0fc2a0c0f92b3dcce33bd",
         "title": "International Women’s Day 2026: 6 Google Gemini AI prompts to create powerful, hyper-realistic Women’s Day portraits",
         "description": "Tech Tips News: International Women’s Day 2026 has arrived, and creativity appears to be having a playful day. Artificial intelligence technology such as Google Gemin.",
@@ -124,38 +156,6 @@
             "id": "3bd4bd306c42647825fa42989624c036",
             "name": "Livemint",
             "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "212108ecb8f0d42b0e5f03aae015487d",
-        "title": "Kerala revises minimum wages for private hospital nurses; UNA to continue stir",
-        "description": "UNA declared that nurses would not withdraw from the indefinite strike unless the government raises their monthly pay to 40,000..Kerala nurse minimum wage, private hospital nurse salary hike, nursing staff pay revision Kerala, new minimum wage nurses Kerala, AI driven wage analysis nursing, LLM impact on healthcare wages, Kerala nursing wage dispute, healthcare worker salary increase, nurses strike Kerala update, revised nursing pay scale Kerala, healthcare employment laws Kerala, artificial intelligence in wage setting, large language models for salary prediction, Kerala government labour department notification, private healthcare sector wages",
-        "content": "Thiruvananthapuram: The Kerala government has revised the minimum wages of nurses working in private hospitals, raising the base pay from ₹25,450 to ₹30,880. The wage structure will vary according to the number of beds in the hospitals.\nOn Saturday, ... [1235 chars]",
-        "url": "https://www.onmanorama.com/news/kerala/2026/03/08/kerala-draft-notification-on-nurses-wage-hike.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/2/21/una-nurse-strike.jpg",
-        "publishedAt": "2026-03-08T02:27:54Z",
-        "lang": "en",
-        "source": {
-            "id": "60c457b35b486691319f105c3a760060",
-            "name": "Malayala Manorama",
-            "url": "https://www.onmanorama.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "68d9fe37d27a936f7fdcdb8c6c7427dd",
-        "title": "International Women’s Day 2026: Women Who Shaped AI From Early Computing To Modern Artificial Intelligence",
-        "description": "On International Women’s Day, explore the women who shaped artificial intelligence—from Ada Lovelace to Fei-Fei Li—and their impact on modern technology. Read more on news18.com.",
-        "content": "Women’s Day 2026 Special: Women Who Shaped AI; From Early Computing To Modern Artificial Intelligence\nInternational Women’s Day 2026 Special: Women’s Day is a moment to recognise women who have shaped different fields, including technology and artifi... [9781 chars]",
-        "url": "https://www.news18.com/lifestyle/events/international-womens-day-2026-women-who-shaped-ai-from-early-computing-to-modern-artificial-intelligence-aa-ws-e-9947145.html",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/03/image-2026-03-92a87dee141be911088de2a1a2e481e2-1200x675.jpg",
-        "publishedAt": "2026-03-08T01:30:19Z",
-        "lang": "en",
-        "source": {
-            "id": "ca84296ef941bfa461f4239a2290cb99",
-            "name": "News18",
-            "url": "https://www.news18.com",
             "country": "in"
         }
     }
