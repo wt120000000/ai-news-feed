@@ -1,5 +1,37 @@
 [
     {
+        "id": "953e01cdf225f7b5525f6488bc4a94d4",
+        "title": "Is your job safe from AI? This Anthropic graph reveals the roles that may be most at risk",
+        "description": "Tech News News: Artificial intelligence is quickly becoming part of many workplaces around the world. Tools powered by AI are now used for writing, coding, data analy.",
+        "content": "Artificial intelligence is quickly becoming part of many workplaces around the world. Tools powered by AI are now used for writing, coding, data analysis, customer service, and even research. As companies adopt these technologies, many workers are as... [6143 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/is-your-job-safe-from-ai-this-anthropic-graph-reveals-the-roles-that-may-be-most-at-risk/articleshow/129318337.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129318985,width-1280,height-720,imgsize-26394,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-09T07:37:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "585b67d1cce4cdd6ac0edf4af88659fe",
+        "title": "AI, autonomous systems to play decisive role in future conflicts: CDS",
+        "description": "News News: NEW DELHI: Chief of Defence Staff General Anil Chauhan has highlighted the growing importance of Artificial Intelligence (AI) in modern warfare, stati.",
+        "content": "Chief of Defence Staff General Anil Chauhan\nNEW DELHI: Chief of Defence Staff General Anil Chauhan has highlighted the growing importance of Artificial Intelligence (AI) in modern warfare, stating that AI and autonomous systems are expected to play a... [1942 chars]",
+        "url": "https://timesofindia.indiatimes.com/defence/news/ai-autonomous-systems-to-play-decisive-role-in-future-conflicts-cds/articleshow/129317686.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129317655,width-1280,height-720,imgsize-742468,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-09T07:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "9854c84baf18730f099680cbbae4a903",
         "title": "Focus on Subjects Like AI, Automation Needs to Be Increased: PM Modi",
         "description": "Prime Minister Narendra Modi stresses the need to increase focus on artificial intelligence and automation, highlighting their growing importance in education, innovation and future workforce development.",
@@ -125,38 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "d9755423e35eb3c4866aeac81f0bfddc",
-        "title": "Navigating the structural challenges of AI in radiology",
-        "description": "Artificial intelligence (AI) has the potential to redefine how radiology is practiced, as well as highlight specific challenges for radiology departments, according to new research from the Journal of the American College of Radiology (JACR).",
-        "content": "Artificial intelligence (AI) has the potential to redefine how radiology is practiced, as well as highlight specific challenges for radiology departments, according to new research from the Journal of the American College of Radiology (JACR).\nThe JAC... [1285 chars]",
-        "url": "https://www.news-medical.net/news/20260309/Navigating-the-structural-challenges-of-AI-in-radiology.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
-        "publishedAt": "2026-03-09T05:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "6cfb54f3423a9a8921fae18af6b92957",
-        "title": "OpenAI robotics manager resigns over Pentagon deal",
-        "description": "A robotics manager at OpenAI said Saturday that she had resigned over the artificial intelligence giant's deal with the US government to allow its technology's deployment for war and domestic surveillance.",
-        "content": "A robotics manager at OpenAI said Saturday that she had resigned over the artificial intelligence giant's deal with the US government to allow its technology's deployment for war and domestic surveillance.\nThe company behind ChatGPT secured a defence... [1279 chars]",
-        "url": "https://www.thehindu.com/sci-tech/technology/openai-robotics-manager-resigns-over-pentagon-deal/article70721064.ece",
-        "image": "https://th-i.thgim.com/public/incoming/dlfty0/article70721065.ece/alternates/LANDSCAPE_1200/2026-03-03T224930Z_29841773_RC2LU7A7E4S1_RTRMADP_3_OPENAI-PRODUCTS-MICROSOFT.JPG",
-        "publishedAt": "2026-03-09T04:01:27Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
-            "country": "in"
         }
     }
 ]
