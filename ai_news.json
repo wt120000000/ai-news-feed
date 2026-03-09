@@ -1,5 +1,37 @@
 [
     {
+        "id": "e2f059aa14d79fc71c1d09d5affbfccf",
+        "title": "AI blamed for job cuts in US, but the real story may be far more complicated",
+        "description": "Careers News: A startling shift in the US jobs data has reopened one of the most unsettling debates in today’s economy: Is artificial intelligence truly eliminating.",
+        "content": "Artificial Intelligence\nA startling shift in the US jobs data has reopened one of the most unsettling debates in today’s economy: Is artificial intelligence truly eliminating jobs, or are companies cutting payrolls to finance the costly race to build... [5310 chars]",
+        "url": "https://timesofindia.indiatimes.com/education/careers/news/ai-blamed-for-job-cuts-but-the-real-story-may-be-far-more-complicated/articleshow/129322312.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129322481,width-1280,height-720,imgsize-167765,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-09T11:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "d8618c5c5f94c2f17a0de242cb937f59",
+        "title": "AI PCs that bring smarter performance to everyday computing",
+        "description": "AI PCs bring artificial intelligence directly into everyday computing, using dedicated neural processors to handle tasks like real-time assistance, faster content creation and smarter workflows.",
+        "content": "Artificial intelligence has begun moving from the cloud into the laptop itself. That shift is what defines the new generation of AI PCs. Instead of relying entirely on remote servers, these machines carry dedicated AI engines that handle tasks such a... [12357 chars]",
+        "url": "https://www.livemint.com/gadgets-and-appliances/ai-pcs-that-bring-smarter-performance-to-everyday-computing-11773053333425.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/AI_laptop_1773054181640_1773054186784.png",
+        "publishedAt": "2026-03-09T11:23:40Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "152bb0c155b9999bb0155be8f485f838",
         "title": "Scientists Gave Mice and AI the Same Task, And The Results Were Strangely Similar",
         "description": "In a groundbreaking study, mice and AI agents independently learned to cooperate on tasks, revealing shared principles of coordination. Both biological and artificial intelligence developed similar strategies, including pausing and mutual engagement, to enhance success. Researchers found that specific brain regions in mice and neural networks in AI mirrored each other's cooperation mechanisms, suggesting universal rules govern collaborative behavior.",
@@ -124,38 +156,6 @@
             "id": "26269dbc42635df9af8c24f3cdab8e37",
             "name": "Cable News Network",
             "url": "https://edition.cnn.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "86e8fb7bfe1458a29ab7e4c4f098976c",
-        "title": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round",
-        "description": "Nvidia-backed artificial intelligence group Nscale was valued at $14.6 billion after raising $2 billion in its latest funding round, the British company said on Monday.  \nThe Series C...",
-        "content": "March 9 (Reuters) - Nvidia-backed artificial intelligence group Nscale was valued at $14.6 billion after raising $2 billion in its latest funding round, the British company said on Monday.\nThe Series C funding round was led by Norway's Aker and 8090 ... [933 chars]",
-        "url": "https://www.marketscreener.com/news/nvidia-backed-nscale-valued-at-14-6-billion-in-fresh-funding-round-ce7e5fd9dc8efe27",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-02/2026-02-04T161854Z_1_LYNXMPEM1314M_RTROPTP_4_AMD-STOCKS.JPG",
-        "publishedAt": "2026-03-09T08:57:28Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "dc64f4b2bdd8cf5be1d0a8e74218aefb",
-        "title": "Morgan Stanley's 2,500 Layoffs Driven by AI",
-        "description": "Morgan Stanley's surprise decision to cut 2,500 jobs — 3 percent of its global workforce — was driven primarily by artificial intelligence, according to reporting by the New York Post's Charles Gasparino. | Economy",
-        "content": "Morgan Stanley’s surprise decision to cut 2,500 jobs — 3 percent of its global workforce — was driven primarily by artificial intelligence, according to reporting by the New York Post’s Charles Gasparino.\nThe firm officially attributed the cuts to “s... [988 chars]",
-        "url": "https://www.breitbart.com/economy/2026/03/09/report-morgan-stanleys-2500-layoffs-driven-by-ai/",
-        "image": "https://media.breitbart.com/media/2026/03/GettyImages-2245531115-e1773070743234-639x335.jpg",
-        "publishedAt": "2026-03-09T08:39:10Z",
-        "lang": "en",
-        "source": {
-            "id": "85b540771682043e2a9f294068f5345b",
-            "name": "Breitbart News Network",
-            "url": "https://www.breitbart.com",
             "country": "us"
         }
     }
