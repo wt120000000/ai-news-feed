@@ -1,5 +1,85 @@
 [
     {
+        "id": "3a7251e983e4be145bebfb37e06d7515",
+        "title": "How well can AI build Android apps? Google aims to find out",
+        "description": "Google has introduced a new benchmark designed to evaluate how effectively artificial intelligence models can develop Android applications. The platform, called Android Bench, measures the...",
+        "content": "Google has introduced a new benchmark designed to evaluate how effectively artificial intelligence models can develop Android applications. The platform, called Android Bench, measures the performance of different AI systems on tasks related to app d... [1811 chars]",
+        "url": "https://www.thenews.com.pk/latest/1395083-how-well-can-ai-build-android-apps-google-aims-to-find-out",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-03-09/1395083_030017_updates.jpg",
+        "publishedAt": "2026-03-09T09:35:23Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "f0d4ac6b43085a365d9f7ef70e816381",
+        "title": "Jack Dorsey's Mass Job Cuts Expose Tech's Bogus Narrative",
+        "description": "When Block Inc. Chief Executive Officer Jack Dorsey said the financial technology firm would cut 4,000 employees, or almost half its staff, he ignited a debate stretching far beyond the tech sector: Are the mass layoffs a visionary move that foretells the power of artificial intelligence or just AI washing — spin designed to mask bad management decisions?",
+        "content": "When Block Inc. Chief Executive Officer Jack Dorsey said the financial technology firm would cut 4,000 employees, or almost half its staff, he ignited a debate stretching far beyond the tech sector: Are the mass layoffs a visionary move that foretell... [733 chars]",
+        "url": "https://www.bloomberg.com/opinion/articles/2026-03-09/jack-dorsey-s-mass-job-cuts-expose-tech-s-false-narrative",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIbbQNUqtjbw/v2/1200x800.jpg",
+        "publishedAt": "2026-03-09T09:30:03Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "4801936014b41f6d1db87aa0843fbb5d",
+        "title": "Masterpiece or cheap copy? Art historians and AI may not agree",
+        "description": "Artificial intelligence is weighing into art history debates by “authenticating” masterpieces and exposing alleged fakes. But experts aren’t convinced.",
+        "content": "To the untrained eye, there is very little difference between the three known versions of “The Lute Player.” Almost identical in composition, the paintings all depict a young, doe-eyed subject in white robes, instrument in hand and turned slightly aw... [12089 chars]",
+        "url": "https://edition.cnn.com/2026/03/09/style/ai-art-recognition-authentication",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260201-ai-art-authetication-carravaggio-test08.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-03-09T09:01:54Z",
+        "lang": "en",
+        "source": {
+            "id": "26269dbc42635df9af8c24f3cdab8e37",
+            "name": "Cable News Network",
+            "url": "https://edition.cnn.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "86e8fb7bfe1458a29ab7e4c4f098976c",
+        "title": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round",
+        "description": "Nvidia-backed artificial intelligence group Nscale was valued at $14.6 billion after raising $2 billion in its latest funding round, the British company said on Monday.  \nThe Series C...",
+        "content": "March 9 (Reuters) - Nvidia-backed artificial intelligence group Nscale was valued at $14.6 billion after raising $2 billion in its latest funding round, the British company said on Monday.\nThe Series C funding round was led by Norway's Aker and 8090 ... [933 chars]",
+        "url": "https://www.marketscreener.com/news/nvidia-backed-nscale-valued-at-14-6-billion-in-fresh-funding-round-ce7e5fd9dc8efe27",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-02/2026-02-04T161854Z_1_LYNXMPEM1314M_RTROPTP_4_AMD-STOCKS.JPG",
+        "publishedAt": "2026-03-09T08:57:28Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "dc64f4b2bdd8cf5be1d0a8e74218aefb",
+        "title": "Morgan Stanley's 2,500 Layoffs Driven by AI",
+        "description": "Morgan Stanley's surprise decision to cut 2,500 jobs — 3 percent of its global workforce — was driven primarily by artificial intelligence, according to reporting by the New York Post's Charles Gasparino. | Economy",
+        "content": "Morgan Stanley’s surprise decision to cut 2,500 jobs — 3 percent of its global workforce — was driven primarily by artificial intelligence, according to reporting by the New York Post’s Charles Gasparino.\nThe firm officially attributed the cuts to “s... [988 chars]",
+        "url": "https://www.breitbart.com/economy/2026/03/09/report-morgan-stanleys-2500-layoffs-driven-by-ai/",
+        "image": "https://media.breitbart.com/media/2026/03/GettyImages-2245531115-e1773070743234-639x335.jpg",
+        "publishedAt": "2026-03-09T08:39:10Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "6e1f5c71cd6493bf22885d63cfdd04ed",
         "title": "Is your job in the red zone? The Anthropic AI chart shows which careers are changing",
         "description": "A chart based on research by Anthropic reveals which careers are already entering the AI “red zone” and how artificial intelligence is quietly reshaping office work.",
@@ -77,86 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "9854c84baf18730f099680cbbae4a903",
-        "title": "Focus on Subjects Like AI, Automation Needs to Be Increased: PM Modi",
-        "description": "Prime Minister Narendra Modi stresses the need to increase focus on artificial intelligence and automation, highlighting their growing importance in education, innovation and future workforce development.",
-        "content": "Addressing a post-budget webinar, he said the focus on subjects like AI and automation needs to be increased.\n\"We will have to accelerate the process of linking our education system to the real world economy even further... We will have to increase o... [500 chars]",
-        "url": "https://www.outlookbusiness.com/news/focus-on-subjects-like-ai-automation-needs-to-be-increased-pm-modi",
-        "image": "https://media.assettype.com/outlookbusiness/2026-02-19/o2pap053/Modi-AI-summit.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-03-09T06:50:41Z",
-        "lang": "en",
-        "source": {
-            "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-            "name": "Outlook Business",
-            "url": "https://www.outlookbusiness.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "539d034e0c735d52162c19728d223043",
-        "title": "Fulfilling Aspirations Of People Is Resolve Of Govt; Education, Health, Sports Key Sectors: PM Modi",
-        "description": "New Delhi, Mar 9: Prime Minister Narendra Modi on Monday called for accelerating the process of linking the country’s education sector to the real world economy, while sharpening focus on subjects like artificial intelligence and automation. Addressing a post-budget webinar, Modi also said that fulfilling aspirations of the people is the resolve of his government and education, skill development, health, tourism, sports and culture are some of the sectors that act as a medium to fulfil them. “Fulfilling the aspirations […]",
-        "content": "New Delhi, Mar 9: Prime Minister Narendra Modi on Monday called for accelerating the process of linking the country’s education sector to the real world economy, while sharpening focus on subjects like artificial intelligence and automation.\nAddressi... [2630 chars]",
-        "url": "https://www.dailyexcelsior.com/fulfilling-aspirations-of-people-is-resolve-of-govt-education-health-sports-key-sectors-pm-modi/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/03/PTI03_09_2026_000168B.jpg",
-        "publishedAt": "2026-03-09T06:30:51Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "da11fb9b5cb5e63dc84560d72426dfbc",
-        "title": "Samsung hints at new AI feature for galaxy phones",
-        "description": "Samsung may soon introduce a new artificial intelligence feature that could allow Galaxy smartphone users to create their own apps simply by describing what they want.\nThe idea emerged during...",
-        "content": "Samsung may soon introduce a new artificial intelligence feature that could allow Galaxy smartphone users to create their own apps simply by describing what they want.\nThe idea emerged during an interview with a senior company executive, who said the... [1609 chars]",
-        "url": "https://www.thenews.com.pk/latest/1395064-samsung-hints-at-new-ai-feature-for-galaxy-phones",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-03-09/1395064_113839_updates.jpg",
-        "publishedAt": "2026-03-09T06:27:14Z",
-        "lang": "en",
-        "source": {
-            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-            "name": "The News International",
-            "url": "https://www.thenews.com.pk",
-            "country": "pk"
-        }
-    },
-    {
-        "id": "b5182f674ecc147aaab89f5e8815bb19",
-        "title": "AI needs management consultants after all",
-        "description": "OpenAI, Anthropic strike deals with consulting firms to spread artificial intelligence through the business world.",
-        "content": "AI’s biggest competitors are leaning on the McKinseys of the world to solve a problem for them: Businesses aren’t using AI to the fullest extent. Yet, getting AI deeper into business operations is where the big money is.\nAmong nearly 2,000 employees ... [4374 chars]",
-        "url": "https://www.livemint.com/technology/ai-needs-management-consultants-after-all-11773033989952.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/g577c8a49f4c2c0380cafdd538d59e16549e038bb473900449_1773035977193_1773035977300.jpg",
-        "publishedAt": "2026-03-09T06:00:32Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d53179434b17ebb3fe5cf8ad5227dc28",
-        "title": "China turns to AI as jobseeker numbers top Belgium’s population",
-        "description": "China will harness artificial intelligence to create jobs as the number of university graduates poised to enter the labor market this year will reach 12.7 million – more than the population of countries such as Belgium.",
-        "content": "China will harness artificial intelligence to create jobs as the number of university graduates poised to enter the labor market this year will reach 12.7 million – more than the population of countries such as Belgium.\nThe government will use AI to ... [891 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/03/09/china-turns-to-ai-as-jobseeker-numbers-top-belgiums-population",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/09/3803831.jpg",
-        "publishedAt": "2026-03-09T06:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
