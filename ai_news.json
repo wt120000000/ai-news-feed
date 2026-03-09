@@ -1,5 +1,21 @@
 [
     {
+        "id": "ea660c3b542ab99279c4d24411f82afe",
+        "title": "The Insidious Cost of 'AI Brain Fry'",
+        "description": "A Harvard Business Review study uncovers the stressful downside of artificial-intelligence tools at work.",
+        "content": "“I end each day exhausted,” engineer Francesco Bonacci of Cua AI admitted in a recent X post, “not from the work itself, but from the managing of the work.”\nA new study in the Harvard Business Review confirmed that “cognitive exhaustion” from rigorou... [1027 chars]",
+        "url": "https://www.inc.com/kevin-haynes/the-insidious-cost-of-ai-brain-fry/91313729",
+        "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/03/AI-BRAIN-FRY.jpg",
+        "publishedAt": "2026-03-08T23:06:18Z",
+        "lang": "en",
+        "source": {
+            "id": "602d1de710d66397a00201d8efdd36ee",
+            "name": "Inc. Magazine",
+            "url": "https://www.inc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "c49de3cf56cac9a40bea3452618d74a2",
         "title": "IUST faculty bags major research grants from JKST&IC",
         "description": "Excelsior Correspondent AWANTIPORA, Mar 8: Faculty at the Islamic University of Science and Technology (IUST), Awantipora, has secured significant research funding under the Sponsored Research & Extension Programme (SREP 2025-26) of the Jammu and Kashmir Science, Technology and Innovation Council (JKST&IC), Department of Science & Technology, Government of Jammu & Kashmir. The approved projects span a wide spectrum of emerging and critical research areas including artificial intelligence, healthcare technology, food safety, environmental monitoring and sustainable livelihoods. The funded studies include […]",
@@ -141,22 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "53d8b3a1ffbd5fd73f7d6e6f828e41c9",
-        "title": "Is AI productivity prompting burnout? Study finds new pattern of \"AI brain fry\"",
-        "description": "Artificial intelligence can give some workers \"brain fry\" if overused, according to a new study published in Harvard Business Review.",
-        "content": "The promise of artificial intelligence has been simple: let the machines do the work. Instead, it may be creating a new headache from babysitting the machines. A new study published in Harvard Business Review suggests that instead of making work easi... [4042 chars]",
-        "url": "https://www.cbsnews.com/news/is-ai-productivity-prompting-burnout-study-finds-new-pattern-of-ai-brain-fry/",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/07/2f6cc657-64fe-4131-80b3-14d399b28099/thumbnail/1200x630/69b7f86718be51ad0d0b9588f95bfc8e/cbsn-fusion-ai-overuse-brain-fry-study-thumbnail.jpg",
-        "publishedAt": "2026-03-08T17:56:00Z",
-        "lang": "en",
-        "source": {
-            "id": "3a3847d645a619320aa3b3484581e395",
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com",
-            "country": "us"
         }
     }
 ]
