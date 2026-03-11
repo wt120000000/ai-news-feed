@@ -1,5 +1,69 @@
 [
     {
+        "id": "e4e69e7cde835f8d73d9f8294f6b83ce",
+        "title": "If AI writes code, what happens to jobs for computer science graduates?",
+        "description": "Artificial intelligence is rapidly transforming how software is written, tested and deployed. As AI-powered coding tools become more capable, a new debate is emerging within the tech industry: could the technology built by programmers reshape the very career path of future computer science graduates?",
+        "content": "For decades, a computer science (CS) degree has been widely viewed as one of the safest routes to a high-paying career in the technology sector. Universities advertised strong placement records, and the rapid growth of the global tech industry ensure... [8219 chars]",
+        "url": "https://www.indiatoday.in/jobs/story/if-ai-writes-code-what-happens-to-jobs-for-computer-science-graduates-educ-2880320-2026-03-11",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/if-ai-writes-code--what-happens-to-jobs-for-computer-science-graduates-112717305-16x9_0.jpg?VersionId=ObSHaKaDmGckXxj5UC0mYK5mt6OYlVim",
+        "publishedAt": "2026-03-11T09:27:53Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "2ab5191340920b70d82e5b09befeaee2",
+        "title": "South Korea hints at expanding AI ties with UAE following the Middle East conflict",
+        "description": "South Korea’s senior presidential secretary for AI, Ha Jung-woo, officially announced today that artificial intelligence cooperation with the United Arab Emirates could be enhanced following...",
+        "content": "South Korea’s senior presidential secretary for AI, Ha Jung-woo, officially announced today that artificial intelligence cooperation with the United Arab Emirates could be enhanced following the conclusion of the Middle East conflict. The announcemen... [1617 chars]",
+        "url": "https://www.thenews.com.pk/latest/1395294-south-korea-hints-at-expanding-ai-ties-with-uae-following-the-middle-east-conflict",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-03-11/1395294_021915_updates.jpg",
+        "publishedAt": "2026-03-11T09:18:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "abbe4825bdf84ab0ecae62297f8c31f8",
+        "title": "Pulsar International board to consider venture into precision farming",
+        "description": "Pulsar International, an agriculture goods trading and supply chain management company, plans strategic expansion of its “Smart Agri Solution” operations into Artificial Intelligence-led Internet of Things technologies aimed at enabling next-generation precision farming and advanced agricultural supply chain management.",
+        "content": "Pulsar International, an agriculture goods trading and supply chain management company, plans strategic expansion of its “Smart Agri Solution” operations into Artificial Intelligence-led Internet of Things technologies aimed at enabling next-generati... [1793 chars]",
+        "url": "https://www.thehindubusinessline.com/companies/pulsar-international-board-to-consider-venture-into-precision-farming/article70730049.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/ambgf6/article70730358.ece/alternates/LANDSCAPE_1200/IMG_Smart_agriculture__v_2_1_U6DPU9ML.jpg",
+        "publishedAt": "2026-03-11T09:00:23Z",
+        "lang": "en",
+        "source": {
+            "id": "680f00482cbf9f314921fefd917871d9",
+            "name": "The Hindu Business Line",
+            "url": "https://www.thehindubusinessline.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "f1e3dbda24a7ddf12f822c29c75331ad",
+        "title": "Indian IT industry likely to emerge stronger despite Gen",
+        "description": "The Indian IT services industry faces no major threat from the emergence of Generative Artificial Intelligence (Gen-AI), and the sector is likely to emerge stronger from the ongoing technological shift, according to a report by Nuvama.",
+        "content": "New Delhi [India], March 11 (ANI): The Indian IT services industry faces no major threat from the emergence of Generative Artificial Intelligence (Gen-AI), and the sector is likely to emerge stronger from the ongoing technological shift, according to... [3071 chars]",
+        "url": "https://www.tribuneindia.com/news/business/indian-it-industry-likely-to-emerge-stronger-despite-gen-ai-disruption-nuvama/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY0YjA5NDYwLTFkMjctMTFmMS04ZmJiLWQ3YWM5ZTFmZWNhOC5qcGc=",
+        "publishedAt": "2026-03-11T08:50:39Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "44d68b86d3d708aca9ac76d3181f421d",
         "title": "Meta faces backlash over fake AI videos",
         "description": "Meta is being asked to take stronger action against artificial intelligence-generated fake content after the company failed to remove a video about the recent conflict taking place all over the...",
@@ -93,70 +157,6 @@
             "name": "Al-Monitor",
             "url": "https://www.al-monitor.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "22711bcf051a2793c940a3eb0031c958",
-        "title": "Can AI tell if your food is ultra-processed? CMC Vellore doctor breaks down what studies found",
-        "description": "Artificial intelligence is now helping identify ultra-processed foods. A recent study shows tools like ChatGPT can classify foods with high accuracy. This capability is crucial as ultra-processed foods link to serious health issues. AI can speed up dietary analysis for researchers. Experts will still provide oversight. This technology offers a fast way to understand food processing in modern diets.",
-        "content": "Synopsis\nArtificial intelligence is now helping identify ultra-processed foods. A recent study shows tools like ChatGPT can classify foods with high accuracy. This capability is crucial as ultra-processed foods link to serious health issues. AI can s... [5097 chars]",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/can-ai-tell-if-your-food-is-ultra-processed-cmc-vellore-doctor-breaks-down-what-studies-found/articleshow/129445346.cms",
-        "image": "https://img.etimg.com/thumb/msid-129446380,width-1200,height-630,imgsize-95606,overlay-etpanache/articleshow.jpg",
-        "publishedAt": "2026-03-11T07:38:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6f9c12003fa16c8a968376cc6175c7e1",
-        "title": "Harish Rana: Passive euthanasia still ensures medical care and is no abandonment; here's how",
-        "description": "'Passive euthanasia' is quite different from the illegal practice of 'active euthanasia.'.passive euthanasia India, right to die with dignity, living will India, Supreme Court passive euthanasia, palliative care India, passive euthanasia explained, AI legal advancements, LLM assisted legal interpretation, AI in healthcare ethics, artificial intelligence end of life, ethical AI medical decisions, patient autonomy India, withdrawal of life support, irreversible medical conditions, dignity in death India",
-        "content": "'Passive euthanasia,' which allows a patient to die naturally by withholding or withdrawing medical treatment that sustains their life, has been legal in India since 2018. However, it is today that, for the first time, a 32-year-old man got the Supre... [1739 chars]",
-        "url": "https://www.onmanorama.com/health/healthcare/2026/03/11/harish-rana-supreme-court-passive-euthanasia-next-steps.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/health/healthcare/images/2026/3/11/harish-rana-active-euthanasia.jpg",
-        "publishedAt": "2026-03-11T07:31:32Z",
-        "lang": "en",
-        "source": {
-            "id": "60c457b35b486691319f105c3a760060",
-            "name": "Malayala Manorama",
-            "url": "https://www.onmanorama.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c48cfb323d9b19eb18a501fcf95d7cd6",
-        "title": "Canal+ and Google Cloud form strategic partnership on AI",
-        "description": "Canal+ SA:\nCanal+ and Google Cloud form strategic partnership on Artificial Intelligence\n...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/canal-and-google-cloud-form-strategic-partnership-on-ai-ce7e5fdcd881f720",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2026-03-11T07:30:19Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "4766374999518c665b3f49f1509a0f85",
-        "title": "Specsavers co-founder funds PhD eye research",
-        "description": "NEW research, including the use of artificial intelligence to assess the progression of a common form of blindness, is being funded by Specsavers co-founder Dame Mary Perkins.",
-        "content": "The research – a four-year project – is being undertaken by PhD student Maria Patsiamanidi, who will use AI and machine learning to analyse thousands of retinal images to better understand how age-related macular degeneration progresses from its earl... [1572 chars]",
-        "url": "https://guernseypress.com/news/2026/03/11/specsavers-co-founder-funds-phd-eye-research",
-        "image": "https://assets.guernseypress.com/17d09da4-59d6-41fa-8173-baa70f691f57?width=1200&height=630",
-        "publishedAt": "2026-03-11T07:20:00Z",
-        "lang": "en",
-        "source": {
-            "id": "eca9e15a5eb145dac685af8ae1f617e5",
-            "name": "The Gernsey Press",
-            "url": "https://guernseypress.com",
-            "country": "gb"
         }
     }
 ]
