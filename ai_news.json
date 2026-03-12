@@ -1,5 +1,37 @@
 [
     {
+        "id": "1421fdd7d9f0e4f3db18747789deaab8",
+        "title": "These fixed-income assets can provide some cushion from AI-driven market swings",
+        "description": "Asset-backed securities could provide investors some protection as artificial intelligence disruption fears shake up the market.",
+        "content": "Investors who want to protect against artificial intelligence disruption may want to consider securitized products, including asset-backed securities, according to Nuveen's Nicholas Travaglino. AI fears, along with rising oil prices and the Iran war ... [4622 chars]",
+        "url": "https://www.cnbc.com/2026/03/11/these-fixed-income-assets-can-provide-some-cushion-from-ai-driven-market-swings.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108108672-1740685579773-gettyimages-1176591656-amv-onecoworka0836.jpeg?v=1773254066&w=1920&h=1080",
+        "publishedAt": "2026-03-11T19:24:54Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2efb3652e6724b84ae68f4f65f50d0ff",
+        "title": "Tumbler Ridge MP backs mother's lawsuit against OpenAI",
+        "description": "The MP for Tumbler Ridge, B.C., says he supports a lawsuit against artificial intelligence firm OpenAI by the mother of a girl critically wounded in the mass shooting in the community last month.",
+        "content": "The MP for Tumbler Ridge, B.C., says he supports a lawsuit against artificial intelligence firm OpenAI by the mother of a girl critically wounded in the mass shooting in the community last month.\nCia Edmonds, whose 12-year-old daughter Maya Gebala wa... [1574 chars]",
+        "url": "https://www.cp24.com/news/canada/2026/03/11/tumbler-ridge-mp-backs-mothers-lawsuit-against-openai-blaming-it-for-shooting-role/",
+        "image": "https://www.cp24.com/resizer/v2/BTIVIQR7FREWHMTRU3LK7C2WWE.jpeg?smart=true&auth=fa88649600a026e87c469abd911aeb2ac4372552d1336ba5fd05f3441e09c6e0&width=1200&height=630",
+        "publishedAt": "2026-03-11T19:13:42Z",
+        "lang": "en",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com",
+            "country": "ca"
+        }
+    },
+    {
         "id": "3f459396923166741de8ede531a35d8d",
         "title": "Centre of Excellence Induction Programme Concludes at PB Siddhartha College",
         "description": "The programme was coordinated by Dr Kompalli Udayasri, head of the department of data science and artificial intelligence.",
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "00b73a2567ea90975d36f3bca2066dd9",
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - BJP vs Congress: AI Allegations Ignite Assam Development Debate",
-        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
-        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
-        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2026-03-11T17:35:40Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "b6dadd4b466c6aae1bfd25409bd6e604",
-        "title": "Synopsys launches new tools to design artificial intelligence chips",
-        "description": "The semiconductor design software specialist is unveiling its first major innovations since acquiring Ansys for $35bn.",
-        "content": "Synopsys announced the rollout of a new suite of software tools aimed at managing the growing complexity of designing chips for artificial intelligence. Unveiled at a conference in Silicon Valley, the solutions mark the first major wave of innovation... [1000 chars]",
-        "url": "https://www.marketscreener.com/news/synopsys-launches-new-tools-to-design-artificial-intelligence-chips-ce7e5fdcd18ef524",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-01-08T111655Z_1_LYNXMPEL070CP_RTROPTP_3_SYNOPSYS-RESULTS.JPG",
-        "publishedAt": "2026-03-11T17:21:08Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
