@@ -1,5 +1,53 @@
 [
     {
+        "id": "774138eaa603c4137196422d3e088e97",
+        "title": "Microsoft Pushes for Africa AI Adoption in Challenge to DeepSeek",
+        "description": "Microsoft Corp. is making a push for more Africans to adopt its artificial-intelligence tools as the US tech giant competes with China’s DeepSeek for customers from the world’s youngest and fastest-growing population.",
+        "content": "Microsoft Corp. is making a push for more Africans to adopt its artificial-intelligence tools as the US tech giant competes with China’s DeepSeek for customers from the world’s youngest and fastest-growing population.\nThe Redmond, Washington-based co... [393 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-12/microsoft-pushes-for-africa-ai-adoption-in-challenge-to-deepseek",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7A4f3iBnRGs/v0/1200x800.jpg",
+        "publishedAt": "2026-03-12T04:00:02Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "97b1f507d0ba694daf90857f34a3c8ce",
+        "title": "Letters | US war with Iran underscores need for global governance of AI",
+        "description": "Readers discuss military use of artificial intelligence, the deaths of children as the conflict escalates, and the UN’s role.",
+        "content": "Three years after OpenAI’s ChatGPT brought AI into everyday life, the world now seems to have psychologically accepted the arrival of the algorithmic assassin. Yet, with that acceptance comes a growing recognition that machines are quietly assuming r... [873 chars]",
+        "url": "https://www.scmp.com/opinion/letters/article/3346204/us-war-iran-underscores-need-global-governance-ai",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/03/11/8159e779-29b6-4a62-8d92-6954f234fe11_fbd27c77.jpg?itok=t38B1gxd&v=1773215194",
+        "publishedAt": "2026-03-12T03:30:08Z",
+        "lang": "en",
+        "source": {
+            "id": "d6397b77175680e2678c0d60edcee7af",
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com",
+            "country": "hk"
+        }
+    },
+    {
+        "id": "97e1eabd3c115400dfafe356cdda2c64",
+        "title": "AI euphoria: How India's old economy is giving FIIs a safe hiding place",
+        "description": "Foreign investors are shifting investments in India. They are buying shares in metals, capital goods, and power sectors. This move is a hedge against artificial intelligence disruption. Technology stocks are seeing significant selling. This rotation signals a change in market focus. Old economy sectors are now attracting foreign capital.",
+        "content": "Synopsis\nForeign investors are shifting investments in India. They are buying shares in metals, capital goods, and power sectors. This move is a hedge against artificial intelligence disruption. Technology stocks are seeing significant selling. This ... [7039 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-euphoria-how-indias-old-economy-is-giving-fiis-a-safe-hiding-place/articleshow/129489930.cms",
+        "image": "https://img.etimg.com/thumb/msid-129489912,width-1200,height-630,imgsize-43812,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-03-12T03:25:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "d77ffbde3ed37deb325a253f3c21c5e6",
         "title": "The Nuclear Regulatory Commission’s Defining Moment",
         "description": "We stand at a defining moment for the Nuclear Regulatory Commission (NRC) and for the future of nuclear energy in the U.S. American’s electricity demand is rising sharply due to artificial intelligence, data centers, and industrial growth, and our nation increasingly sees nuclear energy as essential to our energy security.",
@@ -109,54 +157,6 @@
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "114df38bf2a30dd10fa39d336769d709",
-        "title": "‘Convincing’ AI scams drove UK fraud cases to record 444,000 last year",
-        "description": "Criminals using artificial intelligence tools to take over mobile, bank and online shopping accounts, says Cifas",
-        "content": "Criminals are increasingly exploiting AI technology to take over people’s mobile, banking and online shopping accounts, the UK’s leading anti-fraud body has warned.\nLast year, a record number of scams were reported to the national fraud database, fue... [2541 chars]",
-        "url": "https://www.theguardian.com/money/2026/mar/12/ai-scams-uk-fraud-artificial-intelligence-mobile-bank-online-shopping-cifas",
-        "image": "https://i.guim.co.uk/img/media/d02e10f33971708ab6b2f919a5519138caa8a38e/264_0_3306_2645/master/3306.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cebe3df2d8238c617ca423ee990b425e",
-        "publishedAt": "2026-03-12T00:01:03Z",
-        "lang": "en",
-        "source": {
-            "id": "01558c024928d45cf320f6f75eede787",
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "9fe8adc012d2cd3630365d35028dcba1",
-        "title": "OpenAI and Google engineers back Anthropic lawsuit over Pentagon AI blacklist",
-        "description": "Nearly 40 tech staff and Microsoft warn supply chain risk label could hurt innovation and silence debate on military use of frontier artificial intelligence",
-        "content": "Nearly 40 employees from OpenAI and Google have submitted an amicus brief supporting Anthropic’s lawsuit against the US government. The lawsuit challenges the constitutionality of the government’s decision to designate the AI firm as a supply-chain r... [1549 chars]",
-        "url": "https://www.telegraphindia.com/business/openai-and-google-engineers-back-anthropic-lawsuit-over-pentagon-ai-blacklist-prnt/cid/2150905",
-        "image": "https://assets.telegraphindia.com/telegraph/2026/Mar/1773271867_new-project-2026-03-12t041328-700.jpg",
-        "publishedAt": "2026-03-11T23:32:03Z",
-        "lang": "en",
-        "source": {
-            "id": "93a4f054e09bde095cda5265e575a952",
-            "name": "Telegraph India",
-            "url": "https://www.telegraphindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c603f04973eb9460c5726656161c5217",
-        "title": "AI weather models show promise for hurricane forecasts, but new study finds key physical limitations",
-        "description": "Artificial intelligence is rapidly transforming weather prediction, enabling forecasts that once required hours of supercomputing time to run in just minutes. But as AI tools play an expanding role in high-stakes hazard modeling, researchers at Rice University say an essential question remains: Do AI-generated storms behave realistically?",
-        "content": "Artificial intelligence is rapidly transforming weather prediction, enabling forecasts that once required hours of supercomputing time to run in just minutes. But as AI tools play an expanding role in high-stakes hazard modeling, researchers at Rice ... [5632 chars]",
-        "url": "https://phys.org/news/2026-03-ai-weather-hurricane-key-physical.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-weather-models-show-1.jpg",
-        "publishedAt": "2026-03-11T23:10:01Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
         }
     }
 ]
