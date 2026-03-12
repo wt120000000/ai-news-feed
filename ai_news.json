@@ -1,5 +1,101 @@
 [
     {
+        "id": "203a325cfbdb5a7b8100e50f04033aa8",
+        "title": "Atlassian slashes 10% of workforce to 'self-fund' investments in AI",
+        "description": "Atlassian said it's cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.",
+        "content": "Atlassian said on Wednesday that it's eliminating 10% of its workforce, or about 1,600 jobs, as the company restructures following a plunge in its stock price driven by developments in artificial intelligence.\n\"We are doing this to self-fund further ... [1011 chars]",
+        "url": "https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108276934-1773265619777-gettyimages-2147914841-AUSTRALIA_CANNON-BROOKES.jpeg?v=1773265646&w=1920&h=1080",
+        "publishedAt": "2026-03-11T21:43:21Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "57b04972774ccb0611b575a907145ce4",
+        "title": "Major Australian company slashes 1,600 jobs as AI takeover hits workforce",
+        "description": "Atlassian billionaire Mike Cannon-Brookes has slashed more than 1,600 jobs as artificial intelligence reshapes the workforce.",
+        "content": "Atlassian billionaire Mike Cannon-Brookes has slashed more than 1,600 jobs as artificial intelligence reshapes the workforce.\nCannon-Brookes said AI had impacted 'the mix of skills we need' and 'the number of roles required in certain areas.'\nAbout 3... [3534 chars]",
+        "url": "https://www.dailymail.co.uk/news/article-15637485/Major-Australian-company-slashes-1-600-jobs-AI-takeover-hits-workforce.html",
+        "image": "https://i.dailymail.co.uk/1s/2026/03/11/21/100754541-0-image-a-19_1773265439948.jpg",
+        "publishedAt": "2026-03-11T21:40:51Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "6a469be85f7c2b4b609964c54d9a530d",
+        "title": "What Is OpenClaw? AI Marvel or Cybersecurity Nightmare",
+        "description": "People have flocked to the OpenClaw artificial intelligence agent since it was launched in November by Austrian programmer Peter Steinberger. The digital assistant can use your computer to handle complex tasks that previously only a human could undertake, such as making travel bookings, prioritizing emails and drafting replies, surveying product catalogs and emailing vendors.",
+        "content": "People have flocked to the OpenClaw artificial intelligence agent since it was launched in November by Austrian programmer Peter Steinberger. The digital assistant can use your computer to handle complex tasks that previously only a human could under... [471 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-11/what-is-the-openclaw-ai-agent-and-why-is-it-popular-in-china",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioIE5jFlaTXM/v0/1200x800.jpg",
+        "publishedAt": "2026-03-11T21:23:52Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7394e6d7ba1fc2257945f4d1fe437657",
+        "title": "Atlassian to lay off about 1,600 people in pivot to AI",
+        "description": "Software provider Atlassian said on Wednesday it would lay off around 10% of its workforce, or roughly 1,600 positions, as part of a restructuring plan to push into artificial intelligence and...",
+        "content": "March 11 (Reuters) - Software provider Atlassian said on Wednesday it would lay off around 10% of its workforce, or roughly 1,600 positions, as part of a restructuring plan to push into artificial intelligence and enterprise sales.\nShares of the comp... [412 chars]",
+        "url": "https://www.marketscreener.com/news/atlassian-to-lay-off-about-1-600-people-in-pivot-to-ai-ce7e5fddd98ef522",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-03-11T21:22:21Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "03843254554fcdd61c2b3e50bebfa72d",
+        "title": "Bumble’s New AI Assistant Aims to Take Dating Beyond the Swipe",
+        "description": "Bumble Inc. unveiled a new artificial intelligence-powered assistant designed to act as a personal matchmaker, the company’s latest effort to reinvigorate itself at a time when many users have shown dating-app fatigue.",
+        "content": "Bumble Inc. unveiled a new artificial intelligence-powered assistant designed to act as a personal matchmaker, the company’s latest effort to reinvigorate itself at a time when many users have shown dating-app fatigue.\nThe new opt-in tool, called Dat... [297 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-11/bumble-s-new-ai-assistant-aims-to-take-dating-beyond-the-swipe",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iT67ORcw1lN4/v0/1200x800.jpg",
+        "publishedAt": "2026-03-11T21:00:07Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "cc51fe9066854d2946cf0d5275c60e06",
+        "title": "Microsoft urges Pentagon to pause blacklisting Anthropic",
+        "description": "Microsoft has warned a judge that the Pentagon blacklisting of Anthropic could hamper U.S. warfighters and imperil the country's drive to lead in artificial intelligence. In a brief, Microsoft backed Anthropic's request for an order stopping the Pentagon from implementing its ban on the use of Anthropic AI until the…",
+        "content": "Microsoft has warned a judge that the Pentagon blacklisting of Anthropic could hamper U.S. warfighters and imperil the country's drive to lead in artificial intelligence.\nIn a brief, Microsoft backed Anthropic's request for an order stopping the Pent... [2825 chars]",
+        "url": "https://japantoday.com/category/tech/microsoft-urges-pentagon-pause-blacklisting-anthropic",
+        "image": "https://media.japantoday.com/img/store/a0/eb/f85ddc16fa508c549f05178e95a386cb3443/fe04772f536910a287a1bf747256d2c97a49abd1-2/_w1700.jpeg",
+        "publishedAt": "2026-03-11T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "2ce71d17c2f758560e6f948716ac411c",
         "title": "Tumbler Ridge MP backs mother's lawsuit against OpenAI, blaming it for shooting role",
         "description": "The MP for Tumbler Ridge, B.C., says he supports a lawsuit against artificial intelligence firm OpenAI by the mother of a girl critically wounded in the mass shooting in the community last month.",
@@ -60,102 +156,6 @@
             "id": "85e5403407038478a5e7d8d100ff8e8f",
             "name": "CP24 Toronto",
             "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "3f459396923166741de8ede531a35d8d",
-        "title": "Centre of Excellence Induction Programme Concludes at PB Siddhartha College",
-        "description": "The programme was coordinated by Dr Kompalli Udayasri, head of the department of data science and artificial intelligence.",
-        "content": "VIJAYAWADA: The three-day Centre of Excellence induction programme concluded at Parvathaneni Brahmaiah Siddhartha College of Arts and Science in Vijayawada on Wednesday.\nOrganised under the Centre of Excellence, the programme was held from March 9 to... [905 chars]",
-        "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/centre-of-excellence-induction-programme-concludes-at-pb-siddhartha-college-1943232",
-        "image": "https://www.deccanchronicle.com/h-upload/2026/03/11/2020568-untitled-design-2026-03-12t002728701.jpg",
-        "publishedAt": "2026-03-11T18:59:06Z",
-        "lang": "en",
-        "source": {
-            "id": "214d496d625fc657723cf4da80cff8ce",
-            "name": "Deccan Chronicle",
-            "url": "https://www.deccanchronicle.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "02a5f5c11db6c2e7f9bb5f9b052f1572",
-        "title": "Tumbler Ridge MP backs mother's lawsuit against OpenAI, blaming it for shooting role",
-        "description": "The MP for Tumbler Ridge, B.C., says he supports a lawsuit against artificial intelligence firm OpenAI by the mother of a girl critically wounded in the mass shooting in the community last month.",
-        "content": "The MP for Tumbler Ridge, B.C., says he supports a lawsuit against artificial intelligence firm OpenAI by the mother of a girl critically wounded in the mass shooting in the community last month.\nCia Edmonds, whose 12-year-old daughter Maya Gebala wa... [1548 chars]",
-        "url": "https://www.sootoday.com/national-news/tumbler-ridge-mp-backs-mothers-lawsuit-against-openai-blaming-it-for-shooting-role-11990308",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/03/52a315e7d048fdbde570d11233031a3791c971e7394357be5d7f8f14098236ef.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2026-03-11T18:54:55Z",
-        "lang": "en",
-        "source": {
-            "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-            "name": "SooToday",
-            "url": "https://www.sootoday.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "23801e3d876d96b353deb7916a808b41",
-        "title": "Tumbler Ridge MP backs mother's lawsuit against OpenAI, blaming it for shooting role",
-        "description": "The MP for Tumbler Ridge, B.C., says he supports a lawsuit against artificial intelligence firm OpenAI by the mother of a girl critically wounded in the mass shooting in the community last month.",
-        "content": "The MP for Tumbler Ridge, B.C., says he supports a lawsuit against artificial intelligence firm OpenAI by the mother of a girl critically wounded in the mass shooting in the community last month.\nCia Edmonds, whose 12-year-old daughter Maya Gebala wa... [1548 chars]",
-        "url": "https://www.baytoday.ca/national-news/tumbler-ridge-mp-backs-mothers-lawsuit-against-openai-blaming-it-for-shooting-role-11990308",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/03/52a315e7d048fdbde570d11233031a3791c971e7394357be5d7f8f14098236ef.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2026-03-11T18:54:55Z",
-        "lang": "en",
-        "source": {
-            "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-            "name": "BayToday",
-            "url": "https://www.baytoday.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "b6c086e0616833a755fdb8770e82bd5f",
-        "title": "US likely used AI in airstrike that killed 160 schoolgirls: Report",
-        "description": "Artificial intelligence helped the US identify targets in the opening phase of Washington’s war against Iran, British newspaper The Times reported Wednesday, raising questions about a strike that k…",
-        "content": "Artificial intelligence helped the US identify targets in the opening phase of Washington’s war against Iran, British newspaper The Times reported Wednesday, raising questions about a strike that killed more than 175 students and staff at a girls sch... [1469 chars]",
-        "url": "https://www.middleeastmonitor.com/20260311-us-likely-used-ai-in-airstrike-that-killed-160-schoolgirls-report/",
-        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/03/AA-20260305-40740771-40740767-THE_PRIMARY_SCHOOL_TARGETED_IN_THE_ATTACKS_BOMBED_TWICE_40_MINUTES_APART_IN_IRAN.jpg?fit=920%2C613&ssl=1",
-        "publishedAt": "2026-03-11T18:51:57Z",
-        "lang": "en",
-        "source": {
-            "id": "e95f61df83ec26b9d965123c7b4cb57d",
-            "name": "Middle East Monitor",
-            "url": "https://www.middleeastmonitor.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "b009cd94e2310dd128e1b79a2933fb15",
-        "title": "Northwestern University to offer artificial intelligence major",
-        "description": "Northwestern University will add an artificial intelligence major to its course offerings at the start of the 2026-27 academic year.",
-        "content": "Northwestern University will add an artificial intelligence major to its course offerings at the start of the 2026-27 academic year, joining other universities nationwide that now offer the specialization.\nThe major will be offered in the Department ... [1124 chars]",
-        "url": "https://www.chicagotribune.com/2026/03/11/northwestern-to-offer-artificial-intelligence-major-next-academic-year/",
-        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/03/CTC-L-northwestern-campus14_225227988.jpg?w=1024&h=659",
-        "publishedAt": "2026-03-11T18:50:42Z",
-        "lang": "en",
-        "source": {
-            "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
-            "name": "Chicago Tribune",
-            "url": "https://www.chicagotribune.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "09a4b873c164f185042fc773f982fa2e",
-        "title": "Chatham-Kent employers embracing use of artificial intelligence",
-        "description": "Chatham-Kent employers embracing use of artificial intelligence",
-        "content": "Article content\nArtificial intelligence is reshaping how business and industry operates and Chatham-Kent employers are far ahead of the national curve when it comes to using the technology.\nAdvertisement 2\nStory continues below\nThis advertisement has... [5547 chars]",
-        "url": "https://www.brantfordexpositor.ca/news/local-news/chatham-kent-employers-embracing-use-of-artificial-intelligence",
-        "image": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2026/03/0312-cd-workforce.cd_-e1773254767137.jpg",
-        "publishedAt": "2026-03-11T18:46:39Z",
-        "lang": "en",
-        "source": {
-            "id": "1a3615c1358e4d862525999bb4b2aa01",
-            "name": "The Expositor",
-            "url": "https://www.brantfordexpositor.ca",
             "country": "ca"
         }
     }
