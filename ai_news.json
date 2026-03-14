@@ -1,108 +1,60 @@
 [
     {
-        "id": "5228201ac60fdf5511080a74f8207ba9",
-        "title": "New inference chip, geopolitics of GPUs and other things Nvidia CEO Jensen Huang is expected to discuss at company’s annual GTC conference",
-        "description": "Tech News News: Nvidia CEO Jensen Huang is expected to outline the company’s next steps in artificial intelligence (AI) hardware, software and global partnerships dur.",
-        "content": "Nvidia CEO Jensen Huang (File photo)\nNvidia CEO Jensen Huang is expected to outline the company’s next steps in artificial intelligence (AI) hardware, software and global partnerships during the upcoming Nvidia GTC conference. The annual developer ev... [6331 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/new-inference-chip-geopolitics-of-gpus-and-other-things-nvidia-ceo-jensen-huang-is-expected-to-discuss-at-companys-annual-gtc-conference/articleshow/129557060.cms",
-        "image": "https://static.toiimg.com/thumb/msid-129557040,width-1280,height-720,imgsize-52414,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-03-13T14:23:00Z",
+        "id": "29869de6afef3f0189a2186e24312f9c",
+        "title": "Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races",
+        "description": "By Daniel Dale, CNN (CNN) — Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute. The National Republican Senatorial Committee’s deepfake of James Talarico, the Democratic nominee in the",
+        "content": "By Daniel Dale, CNN\n(CNN) — Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minu... [7726 chars]",
+        "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/03/13/republicans-release-ai-deepfake-of-james-talarico-as-phony-videos-proliferate-in-midterm-races/",
+        "image": "https://abc17news.b-cdn.net/abc17news.com/2026/03/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW1wMXlvOWgwMDAwM2I2cjdma2Q5dnEw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbXAwZzI4cTAwMncyNnFnN2ZyeTRjMzY.jpg",
+        "publishedAt": "2026-03-13T16:36:56Z",
         "lang": "en",
         "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d045d2f2585b42ccf6ab4ea47caf6d9d",
-        "title": "Microsoft AI Health Tool Reads Your Medical Records",
-        "description": "Microsoft is releasing Copilot Health, a new artificial intelligence (AI) tool that can provide personalized health advice using a user’s medical data.",
-        "content": "Microsoft is rolling out a new artificial intelligence (AI) tool designed to help people manage their health.\nThe feature, called Copilot Health, works inside the company’s Copilot app and can provide personalized health advice using a user’s medical... [2335 chars]",
-        "url": "https://www.newsmax.com/finance/health-news/microsoft-artificial-intelligence-copilot-health/2026/03/13/id/1249399/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=0d06bd27-824c-4678-932e-0cf2a369bbb7&SiteName=Newsmax",
-        "publishedAt": "2026-03-13T14:15:46Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
+            "id": "d5a02d07558c5563d72576efc406e608",
+            "name": "ABC17News.com",
+            "url": "https://abc17news.com",
             "country": "us"
         }
     },
     {
-        "id": "70eab0ae0d5c024872a0fabefe02c3d5",
-        "title": "Microsoft AI Health Tool Reads Your Medical Records",
-        "description": "Microsoft is releasing Copilot Health, a new artificial intelligence (AI) tool that can provide personalized health advice using a user’s medical data.",
-        "content": "Microsoft is rolling out a new artificial intelligence (AI) tool designed to help people manage their health.\nThe feature, called Copilot Health, works inside the company’s Copilot app and can provide personalized health advice using a user’s medical... [2335 chars]",
-        "url": "https://www.newsmax.com/health/health-news/microsoft-artificial-intelligence-copilot-health/2026/03/13/id/1249399/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=0d06bd27-824c-4678-932e-0cf2a369bbb7&SiteName=Newsmax",
-        "publishedAt": "2026-03-13T14:15:46Z",
+        "id": "6d828b55099515672c77b5434afa7c3a",
+        "title": "Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races",
+        "description": "Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute.",
+        "content": "Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute.\nThe National Republican ... [7698 chars]",
+        "url": "https://edition.cnn.com/2026/03/13/politics/james-talarico-ai-deepfake-republicans-midterms",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/3x2-ai-generated-image-image-name-copy-2-20260313151917317.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-03-13T16:36:56Z",
         "lang": "en",
         "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
+            "id": "26269dbc42635df9af8c24f3cdab8e37",
+            "name": "Cable News Network",
+            "url": "https://edition.cnn.com",
             "country": "us"
         }
     },
     {
-        "id": "b0906cda005e988d59e593d967cc05ea",
-        "title": "AI War Games in 'Intelligence Rising' Doc, Premiering at CPH:DOX 2026",
-        "description": "'Intelligence Rising,' a documentary film, world premiering at CPHDOX 2026 in Copenhagen, explores war games on artificial intelligence, AI.",
-        "content": "Artificial intelligence, its future and its potential regulation are among the hot-button topics on many people’s minds these days. Now, there is a film that allows you to watch some of the world’s brightest minds take on AI in war games, strategy ex... [7590 chars]",
-        "url": "https://www.hollywoodreporter.com/movies/movie-news/intelligence-rising-doc-film-ai-war-games-interview-cphdox-1236527331/",
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/poster-e1773236891837.jpeg?w=763&h=430&crop=1",
-        "publishedAt": "2026-03-13T14:15:00Z",
+        "id": "f3dd89bcb8003a929741efc2e5893f93",
+        "title": "New AI system reduces pathologist workload while maintaining diagnostic accuracy",
+        "description": "Artificial intelligence could make cancer diagnosis safer and fairer by learning when to defer to human pathologists without overloading them, according to researchers from the University of Surrey and Monash University.",
+        "content": "Artificial intelligence could make cancer diagnosis safer and fairer by learning when to defer to human pathologists without overloading them, according to researchers from the University of Surrey and Monash University.\nThe approach tackles two crit... [3270 chars]",
+        "url": "https://www.news-medical.net/news/20260313/New-AI-system-reduces-pathologist-workload-while-maintaining-diagnostic-accuracy.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+        "publishedAt": "2026-03-13T16:26:00Z",
         "lang": "en",
         "source": {
-            "id": "e83df266d4bbd78d7528c3ee4fc0fc5f",
-            "name": "The Hollywood Reporter",
-            "url": "https://www.hollywoodreporter.com",
-            "country": "us"
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
         }
     },
     {
-        "id": "8663d75e9fe72ef2577fae2eb9fdf874",
-        "title": "Future Belongs To Genomics Driven 'Personalised Medical Prescriptions': Dr Jitendra - Daily Excelsior",
-        "description": "NEW DELHI, Mar 13 : Union Minister of State (Independent Charge) for Science & Technology, Earth Sciences and Minister of State in PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space Dr. Jitendra Singh today said that India is entering a transformative era of personalised and precision medicine powered by genomics, artificial intelligence, and advanced biotechnology, which will enable early detection of diseases and targeted treatment even before symptoms appear. Addressing the NXT Summit 2026- “For All Humankind”, the Minister […]",
-        "content": "NEW DELHI, Mar 13 : Union Minister of State (Independent Charge) for Science & Technology, Earth Sciences and Minister of State in PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space Dr. Jitendra Singh today said that India is enteri... [4942 chars]",
-        "url": "https://www.dailyexcelsior.com/nxt-summit-2026-future-belongs-to-genomics-driven-personalised-medical-prescriptions-dr-jitendra/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/03/2-2-scaled.jpg",
-        "publishedAt": "2026-03-13T13:48:38Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "202d5dc1ff1fd344d56be3c6f78087a7",
-        "title": "Haryana uses AI to speed up TB elimination: Senior official",
-        "description": "Haryana is using three Artificial Intelligence tools to combat tuberculosis. These AI solutions help detect TB cases early, monitor patients effectively, and identify high-risk areas. The state has already seen significant engagement with these technologies, flagging potential TB cases and identifying vulnerable communities. This technological push aims to make Haryana TB-free by improving care accessibility and efficiency.",
-        "content": "Synopsis\nHaryana is using three Artificial Intelligence tools to combat tuberculosis. These AI solutions help detect TB cases early, monitor patients effectively, and identify high-risk areas. The state has already seen significant engagement with th... [3646 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/haryana-uses-ai-to-speed-up-tb-elimination-senior-official/articleshow/129555385.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-61004,resizemode-75,msid-129555385/tech/artificial-intelligence/haryana-uses-ai-to-speed-up-tb-elimination-senior-official.jpg",
-        "publishedAt": "2026-03-13T13:34:11Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "780fd1d805e325dc1f1904dbcb9ed486",
-        "title": "AI-Native, Beyond the Concept: openKylin Presents Its Vision at FOSSASIA",
-        "description": "BEIJING, March 13, 2026 /PRNewswire/ -- At the recent FOSSASIA Summit 2026 in Bangkok, Thailand, developers and open source communities from across Asia and beyond gathered to share the latest advancements in open technologies. China's open source operating system community openKylin participated with multiple technical talks and an interactive booth, highlighting its latest work on integrating artificial intelligence into operating system architecture.",
-        "content": "BEIJING, March 13, 2026 /PRNewswire/ -- At the recent FOSSASIA Summit 2026 in Bangkok, Thailand, developers and open source communities from across Asia and beyond gathered to share the latest advancements in open technologies. China's open source op... [2102 chars]",
-        "url": "https://www.manilatimes.net/2026/03/13/tmt-newswire/pr-newswire/ai-native-beyond-the-concept-openkylin-presents-its-vision-at-fossasia/2299666",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/13/972341.jpg",
-        "publishedAt": "2026-03-13T13:32:49Z",
+        "id": "1c5ab58fbde4e5f675a0e201558567d4",
+        "title": "PC, console gaming to grow despite AI-driven chip crunch",
+        "description": "THE global PC and console gaming sector is expected to steadily grow in the upcoming years, research firm Newzoo said on Thursday, despite artificial intelligence-driven demand for high-end memory chips potentially driving up prices.",
+        "content": "THE global PC and console gaming sector is expected to steadily grow in the upcoming years, research firm Newzoo said on Thursday, despite artificial intelligence-driven demand for high-end memory chips potentially driving up prices.\nA surge in globa... [1004 chars]",
+        "url": "https://www.manilatimes.net/2026/03/14/business/foreign-business/pc-console-gaming-to-grow-despite-ai-driven-chip-crunch/2299689",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2026-03-13T16:09:00Z",
         "lang": "en",
         "source": {
             "id": "7c666ee953f873d3057b310220f510df",
@@ -112,51 +64,99 @@
         }
     },
     {
-        "id": "7d140f45fac860acde246541f8d5982f",
-        "title": "ByteDance deploys Nvidia AI infrastructure outside of China",
-        "description": "TikTok's parent company is investing heavily in artificial intelligence infrastructure abroad. ByteDance plans to use latest-generation Nvidia chips to bolster its research capabilities and meet...",
-        "content": "ByteDance is establishing significant computing capacity based on Nvidia's most advanced artificial intelligence chips outside of China, according to the Wall Street Journal. The group is relying on Southeast Asian cloud company Aolani Cloud to deplo... [1101 chars]",
-        "url": "https://www.marketscreener.com/news/bytedance-deploys-nvidia-ai-infrastructure-outside-of-china-ce7e5fd3d88af727",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-02-18T044000Z_1_LYNXMPEM1H057_RTROPTP_4_TAIWAN-COMPUTEX.JPG",
-        "publishedAt": "2026-03-13T13:18:28Z",
+        "id": "8ff8a0c443911c17f133433df868e496",
+        "title": "Chinese banks boost loans to tech sector as Beijing ramps up AI push",
+        "description": "CHINESE lenders plan to steer more money toward technology and innovation-oriented firms, bankers say, responding to Beijing’s pledge to aggressively adopt artificial intelligence (AI) throughout the economy and dominate emerging sectors.",
+        "content": "CHINESE lenders plan to steer more money toward technology and innovation-oriented firms, bankers say, responding to Beijing’s pledge to aggressively adopt artificial intelligence (AI) throughout the economy and dominate emerging sectors.\nThe credit-... [4069 chars]",
+        "url": "https://www.manilatimes.net/2026/03/14/business/foreign-business/chinese-banks-boost-loans-to-tech-sector-as-beijing-ramps-up-ai-push/2299688",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2026-03-13T16:08:00Z",
         "lang": "en",
         "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
         }
     },
     {
-        "id": "d6fbd28894f780a216e4dd0e412428f6",
-        "title": "Health unions say HSE has ‘ploughed ahead’ with AI strategy without adequate consultation",
-        "description": "Staff representatives seek ‘urgent meeting’ to discuss artificial intelligence policy in public health service",
-        "content": "The Health Service Executive (HSE) has “ploughed ahead” with a strategy on the use of artificial intelligence (AI) in the health service “without proper consultation with workers”, representative unions have said.\nThis week, Minister for Health Jenni... [2754 chars]",
-        "url": "https://www.irishtimes.com/health/2026/03/14/health-unions-say-hse-has-ploughed-ahead-with-ai-strategy-without-adequate-consultation/",
-        "image": "https://www.irishtimes.com/resizer/v2/YMMDJ6P3UVGZHDY3JF57LIAS7A.jpg?smart=true&auth=9e0dc7a5ffa4ccf27385068d1cef19f9a272613f7ce6258835e3f7f25e6ea9d1&width=1200&height=630",
-        "publishedAt": "2026-03-13T13:14:04Z",
+        "id": "5d214f52deb74bd082089577d4cde146",
+        "title": "CU to consider new policy on AI",
+        "description": "The University of Colorado is developing a new policy surrounding artificial intelligence as it prepares to roll out a CU-controlled version of ChatGPT effective March 31.",
+        "content": "The University of Colorado is developing a new policy surrounding artificial intelligence as it prepares to roll out a CU-controlled version of ChatGPT effective March 31.\nThe proposed policy recognizes that AI “presents ethical, legal, and operation... [2675 chars]",
+        "url": "https://www.dailycamera.com/2026/03/13/cu-ai-policy-regent-chatgpt/",
+        "image": "https://www.dailycamera.com/wp-content/uploads/2021/04/DCC-L-CUCampusArt__TH17261.jpg.jpg?w=1024&h=682",
+        "publishedAt": "2026-03-13T15:42:08Z",
         "lang": "en",
         "source": {
-            "id": "dd1d806725f45e4403e75c1bb23b447a",
-            "name": "The Irish Times",
-            "url": "https://www.irishtimes.com",
-            "country": "ie"
+            "id": "d9acc08d8066fc3620da5e6b20b406ad",
+            "name": "Boulder Daily Camera",
+            "url": "https://www.dailycamera.com",
+            "country": "us"
         }
     },
     {
-        "id": "d371643acff54e446a2664dbaec1ac86",
-        "title": "AI in modern warfare: Expert says information is both weapon and shield on the battlefield",
-        "description": "As Ukraine opens battlefield data to allies for drone AI training, experts say artificial intelligence is becoming central to modern warfare, improving decision-making, situational awareness and autonomous operations.",
-        "content": "Artificial intelligence is rapidly becoming a decisive factor in modern warfare, as militaries increasingly rely on data-driven systems to analyse intelligence, guide drones and support battlefield decisions. The shift comes as Ukraine announced plan... [5730 chars]",
-        "url": "https://www.firstpost.com/tech/ai-in-modern-warfare-expert-says-information-is-both-weapon-and-shield-on-the-battlefield-13989314.html",
-        "image": "https://images.firstpost.com/uploads/2026/02/Firstpost-2026-02-24T161537.415-2026-02-11e05e3adcf0ae46cf224c81456fd44c.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-03-13T13:11:13Z",
+        "id": "42f50d77b6c61af02a657e3f475f55fc",
+        "title": "Students share thoughts on AI, mental health at Woodland Hills summit",
+        "description": "A group of Pittsburgh-area high school students challenged each other Friday to think about the future of artificial intelligence. Students from 25 area high schools — from Belle Vernon Area to Aliquippa — discussed issues ranging from academic integrity to human loneliness and whether AI should replace human employees. “It’s",
+        "content": "A group of Pittsburgh-area high school students challenged each other Friday to think about the future of artificial intelligence.\nStudents from 25 area high schools — from Belle Vernon Area to Aliquippa — discussed issues ranging from academic integ... [4002 chars]",
+        "url": "https://triblive.com/news/education-classroom/students-share-thoughts-on-ai-mental-health-at-woodland-hills-summit/",
+        "image": "https://assets-varnish.triblive.com/2026/03/9385438_web1_ptr-WoodyStudentSummit005-031426.jpg",
+        "publishedAt": "2026-03-13T15:37:09Z",
         "lang": "en",
         "source": {
-            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-            "name": "Firstpost",
-            "url": "https://www.firstpost.com",
-            "country": "in"
+            "id": "b1fa63410571207862faad9daf9b4527",
+            "name": "Pittsburgh Tribune-Review",
+            "url": "https://triblive.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "78f41dfc7d748e2dd02e95da4da16014",
+        "title": "AI Newsletter: AI-powered platform to track vaccine side effects",
+        "description": "The Food and Drug Administration will use an artificial intelligence-powered platform to monitor vaccine side effects. More stories like this in the AI Newsletter.",
+        "content": "NEWYou can now listen to Fox News articles!\nWelcome to Fox News' Artificial Intelligence newsletter with the latest AI technology advancements.\nIN TODAY'S NEWSLETTER:\n– FDA launches new AI-powered system to track drug, vaccine side effects nationwide... [2288 chars]",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-fda-rolls-out-ai-powered-vaccine-platform",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/fda-marty-makary-robert-f-kennedy-jr.jpg",
+        "publishedAt": "2026-03-13T15:36:33Z",
+        "lang": "en",
+        "source": {
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "136e6750adadbc05f9b81ea2e45e74db",
+        "title": "Beyond Software: The Physical Buildout Behind AI Expansion",
+        "description": "Artificial intelligence is often framed as a software race, shaped by models, chips, and product launches. That view is incomplete. Recent reporting and industry research show that AI growth is now tied just as tightly to power access, construction timelines, and industrial supply chains as it is to code. For a general business audience, that […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence is often framed as a software race, shaped by models, chips, and product launches. That view is incomplete. Recent reporting and industry research show that AI growth is now tied just as tightly t... [5788 chars]",
+        "url": "https://techbullion.com/beyond-software-the-physical-buildout-behind-ai-expansion/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/03/pexels-googledeepmind-17485657.jpg",
+        "publishedAt": "2026-03-13T15:36:24Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "bcb5992b9eadf6e7b30439a4d19948cf",
+        "title": "Zach Braff criticizes AI chatbot dating rumors",
+        "description": "Zach Braff addressed online rumors that he's dating an artificial intelligence chatbot following viral comments on the \"I Need You Guys\" podcast.",
+        "content": "When it comes to matters of the heart, Zach Braff seems to prefer the analog approach.\nThe Emmy-nominated actor and \"Scrubs\" star, 50, pushed back against online rumors that he's dating an artificial intelligence chatbot following viral comments on t... [1840 chars]",
+        "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/03/13/zach-braff-ai-chatbot-dating-rumors/89135016007/",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/13/USAT/89135112007-2264648721.jpg?crop=4999,2812,x0,y260&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2026-03-13T15:31:40Z",
+        "lang": "en",
+        "source": {
+            "id": "eaeed30dacd1269c1893de860c94a7e7",
+            "name": "USA TODAY",
+            "url": "https://www.usatoday.com",
+            "country": "us"
         }
     }
 ]
