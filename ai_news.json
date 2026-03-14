@@ -1,5 +1,21 @@
 [
     {
+        "id": "8479f2fe012cb92b6e8f87babe1195f7",
+        "title": "How a San Diego investment firm beat the market betting on AI - without a single share of Nvidia",
+        "description": "During the California gold rush, the men who sold shovels got rich. This San Diego investment firm is running the same play on artificial intelligence.",
+        "content": "During the California gold rush, the men who sold shovels got rich. A San Diego investment firm — which recently raised $170 million — is running the same play on artificial intelligence.\nKarmel Capital is able to generate big returns by taking advan... [3432 chars]",
+        "url": "https://www.sandiegouniontribune.com/2026/03/13/how-a-san-diego-investment-firm-beat-the-market-betting-on-ai-without-a-single-share-of-nvidia/",
+        "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/03/karmel-office-1.jpg?w=1024&h=680",
+        "publishedAt": "2026-03-13T21:27:32Z",
+        "lang": "en",
+        "source": {
+            "id": "8fac888ae06647c3a7d6093c60c9d9b5",
+            "name": "San Diego Union-Tribune",
+            "url": "https://www.sandiegouniontribune.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "7ac76c5ee63258e43820b2e7d8d1e148",
         "title": "Days after Pentagon's fight with Anthropic, China warns America on AI use in military; says: Excessive use of artificial intelligence in military can ...",
         "description": "Tech News News: China has a warning on AI use in the military for America. The military use of artificial intelligence (AI) should remain human-led to prevent it from.",
@@ -141,22 +157,6 @@
             "name": "Reuters",
             "url": "https://www.reuters.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "8c6de29f49ab6c9506b75ed3658d35d8",
-        "title": "IT’s time to migrate to AI: Indian tech firms must stop being effort",
-        "description": "Artificial intelligence is changing how businesses operate globally. India's IT sector, built on skilled labor, faces margin pressure as AI boosts efficiency. Companies that own AI infrastructure, like chip makers and cloud providers, capture more value. India must adapt by reskilling its workforce and investing in its own AI capabilities to remain competitive and shape the future of intelligence.",
-        "content": "Synopsis\nArtificial intelligence is changing how businesses operate globally. India's IT sector, built on skilled labor, faces margin pressure as AI boosts efficiency. Companies that own AI infrastructure, like chip makers and cloud providers, captur... [6543 chars]",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/its-time-to-migrate-to-ai-indian-tech-firms-must-stop-being-effort-based-vendors/articleshow/129561722.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-105622,resizemode-75,msid-129561722/opinion/et-commentary/its-time-to-migrate-to-ai-indian-tech-firms-must-stop-being-effort-based-vendors.jpg",
-        "publishedAt": "2026-03-13T17:52:34Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
