@@ -1,5 +1,53 @@
 [
     {
+        "id": "04b261e27457e104ac788aac29d681d8",
+        "title": "Is the star-studded optimism around Nscale on the money?",
+        "description": "The artificial intelligence infrastructure startup has a valuation of $14.6 billion — but there are grey areas despite the buzz",
+        "content": "In less than two years, Nscale, a startup building infrastructure for the artificial intelligence revolution, has achieved a valuation of $14.6 billion. Even by the standards of the AI industry, where $5 trillion is expected to be invested by 2030 in... [7766 chars]",
+        "url": "https://www.thetimes.com/business/companies-markets/article/is-the-star-studded-optimism-around-nscale-on-the-money-xhg3cbbgd",
+        "image": "https://www.thetimes.com/imageserver/image/9a9f99a6-84f4-4bc2-ba2a-023c3f24a883.jpg?strip=all&format=webp&crop=5760px%2C3240px%2C0px%2C300px&resize=1200",
+        "publishedAt": "2026-03-13T17:19:54Z",
+        "lang": "en",
+        "source": {
+            "id": "b419a989918b3665a34559f5047546b6",
+            "name": "The Sunday Times",
+            "url": "https://www.thetimes.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "a7a5c881edb0f9ecbebca00cc9c1e766",
+        "title": "WVU Medicine goes all in on AI medical transcription software Abridge",
+        "description": "West Virginia University Medicine is accelerating its rollout of an artificial intelligence transcription software developed by Pittsburgh-based startup Abridge. A small pilot started in May has grown to over 1,200 doctors, nurse practitioners and physician assistants adopting Abridge to fill out charts while they talk to patients, WVU Medicine leadership",
+        "content": "West Virginia University Medicine is accelerating its rollout of an artificial intelligence transcription software developed by Pittsburgh-based startup Abridge.\nA small pilot started in May has grown to over 1,200 doctors, nurse practitioners and ph... [2896 chars]",
+        "url": "https://triblive.com/news/health-now/wvu-medicine-goes-all-in-on-ai-medical-transcription-software-abridge/",
+        "image": "https://assets-varnish.triblive.com/2026/03/9384774_web1_ptr-NursingVirtual-022126.jpg",
+        "publishedAt": "2026-03-13T17:06:33Z",
+        "lang": "en",
+        "source": {
+            "id": "b1fa63410571207862faad9daf9b4527",
+            "name": "Pittsburgh Tribune-Review",
+            "url": "https://triblive.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "497a53c39f3719073441f42caf705d2d",
+        "title": "Hometown Workforce Introduces an AI Startup that Creates Jobs and Businesses Instead of Replacing Them",
+        "description": "While many AI companies focus on replacing human jobs with automation, Hometown Workforce uses artificial intelligence for a different purpose. Rather than taking jobs and businesses from humans, this AI system works to support the working class by helping them become business owners.  BILOXI, Mississippi — Most AI companies build tools for people who already […]",
+        "content": "Share\nShare\nShare\nShare\nEmail\nWhile many AI companies focus on replacing human jobs with automation, Hometown Workforce uses artificial intelligence for a different purpose. Rather than taking jobs and businesses from humans, this AI system works to ... [3826 chars]",
+        "url": "https://techbullion.com/hometown-workforce-introduces-an-ai-startup-that-creates-jobs-and-businesses-instead-of-replacing-them/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/03/Screenshot-2026-03-13-095836-1.png",
+        "publishedAt": "2026-03-13T17:01:31Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "29869de6afef3f0189a2186e24312f9c",
         "title": "Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races",
         "description": "By Daniel Dale, CNN (CNN) — Senate Republicans released an online ad this week in which a real-looking but fake version of a Democratic candidate, fabricated with artificial intelligence, appears to speak directly into the camera for more than a minute. The National Republican Senatorial Committee’s deepfake of James Talarico, the Democratic nominee in the",
@@ -108,54 +156,6 @@
             "id": "b1fa63410571207862faad9daf9b4527",
             "name": "Pittsburgh Tribune-Review",
             "url": "https://triblive.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "78f41dfc7d748e2dd02e95da4da16014",
-        "title": "AI Newsletter: AI-powered platform to track vaccine side effects",
-        "description": "The Food and Drug Administration will use an artificial intelligence-powered platform to monitor vaccine side effects. More stories like this in the AI Newsletter.",
-        "content": "NEWYou can now listen to Fox News articles!\nWelcome to Fox News' Artificial Intelligence newsletter with the latest AI technology advancements.\nIN TODAY'S NEWSLETTER:\n– FDA launches new AI-powered system to track drug, vaccine side effects nationwide... [2288 chars]",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-fda-rolls-out-ai-powered-vaccine-platform",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/fda-marty-makary-robert-f-kennedy-jr.jpg",
-        "publishedAt": "2026-03-13T15:36:33Z",
-        "lang": "en",
-        "source": {
-            "id": "8da923084554b2821233d6c5c5f02c97",
-            "name": "Fox News",
-            "url": "https://www.foxnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "136e6750adadbc05f9b81ea2e45e74db",
-        "title": "Beyond Software: The Physical Buildout Behind AI Expansion",
-        "description": "Artificial intelligence is often framed as a software race, shaped by models, chips, and product launches. That view is incomplete. Recent reporting and industry research show that AI growth is now tied just as tightly to power access, construction timelines, and industrial supply chains as it is to code. For a general business audience, that […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence is often framed as a software race, shaped by models, chips, and product launches. That view is incomplete. Recent reporting and industry research show that AI growth is now tied just as tightly t... [5788 chars]",
-        "url": "https://techbullion.com/beyond-software-the-physical-buildout-behind-ai-expansion/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/03/pexels-googledeepmind-17485657.jpg",
-        "publishedAt": "2026-03-13T15:36:24Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "bcb5992b9eadf6e7b30439a4d19948cf",
-        "title": "Zach Braff criticizes AI chatbot dating rumors",
-        "description": "Zach Braff addressed online rumors that he's dating an artificial intelligence chatbot following viral comments on the \"I Need You Guys\" podcast.",
-        "content": "When it comes to matters of the heart, Zach Braff seems to prefer the analog approach.\nThe Emmy-nominated actor and \"Scrubs\" star, 50, pushed back against online rumors that he's dating an artificial intelligence chatbot following viral comments on t... [1840 chars]",
-        "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/03/13/zach-braff-ai-chatbot-dating-rumors/89135016007/",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/13/USAT/89135112007-2264648721.jpg?crop=4999,2812,x0,y260&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2026-03-13T15:31:40Z",
-        "lang": "en",
-        "source": {
-            "id": "eaeed30dacd1269c1893de860c94a7e7",
-            "name": "USA TODAY",
-            "url": "https://www.usatoday.com",
             "country": "us"
         }
     }
