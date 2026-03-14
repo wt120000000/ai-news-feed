@@ -1,5 +1,37 @@
 [
     {
+        "id": "7ac76c5ee63258e43820b2e7d8d1e148",
+        "title": "Days after Pentagon's fight with Anthropic, China warns America on AI use in military; says: Excessive use of artificial intelligence in military can ...",
+        "description": "Tech News News: China has a warning on AI use in the military for America. The military use of artificial intelligence (AI) should remain human-led to prevent it from.",
+        "content": "Representative Image. (Xu Hongyan/Xinhua via AP)\nChina has a warning on AI use in the military for America. The military use of artificial intelligence (AI) should remain human-led to prevent it from spiraling out of control, China's Defense Ministry... [3866 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/days-after-pentagons-fight-with-anthropic-china-warns-america-on-ai-use-in-military-says-excessive-use-of-artificial-intelligence-in-military-can-/articleshow/129564489.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129564490,width-1280,height-720,imgsize-135652,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-13T20:31:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "80d0f5a5890924c884a2123b75b6e655",
+        "title": "Meta delays release of new AI, weighs licensing Google's Gemini after disappointing trial runs: report",
+        "description": "Mark Zuckerberg's Meta is reportedly delaying the release of its next artificial intelligence model at least about two months after internal tests showed the tech falling short of rival models from Google, OpenAI and Anthropic.",
+        "content": "Mark Zuckerberg’s Meta is reportedly delaying the release of its next artificial intelligence model at least about two months after internal tests showed the tech falling short of rival models from Google, OpenAI and Anthropic.\nThe leaders of Meta’s ... [3355 chars]",
+        "url": "https://nypost.com/2026/03/13/business/meta-delays-release-of-new-ai-weighs-licensing-googles-gemini-after-disappointing-trial-runs-report/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/03/123493719.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-03-13T20:17:23Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "feed5bdd503f78fca442c2c19ec509cd",
         "title": "xAI in Internal Crisis: Elon Musk Suggests a Complete Rebuild",
         "description": "Elon Musk's artificial intelligence start-up is weathering a period of turbulence marked by the departure of co-founders and controversies surrounding its Grok chatbot. The entrepreneur acknowledges...",
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "04b261e27457e104ac788aac29d681d8",
-        "title": "Is the star-studded optimism around Nscale on the money?",
-        "description": "The artificial intelligence infrastructure startup has a valuation of $14.6 billion — but there are grey areas despite the buzz",
-        "content": "In less than two years, Nscale, a startup building infrastructure for the artificial intelligence revolution, has achieved a valuation of $14.6 billion. Even by the standards of the AI industry, where $5 trillion is expected to be invested by 2030 in... [7766 chars]",
-        "url": "https://www.thetimes.com/business/companies-markets/article/is-the-star-studded-optimism-around-nscale-on-the-money-xhg3cbbgd",
-        "image": "https://www.thetimes.com/imageserver/image/9a9f99a6-84f4-4bc2-ba2a-023c3f24a883.jpg?strip=all&format=webp&crop=5760px%2C3240px%2C0px%2C300px&resize=1200",
-        "publishedAt": "2026-03-13T17:19:54Z",
-        "lang": "en",
-        "source": {
-            "id": "b419a989918b3665a34559f5047546b6",
-            "name": "The Sunday Times",
-            "url": "https://www.thetimes.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "a7a5c881edb0f9ecbebca00cc9c1e766",
-        "title": "WVU Medicine goes all in on AI medical transcription software Abridge",
-        "description": "West Virginia University Medicine is accelerating its rollout of an artificial intelligence transcription software developed by Pittsburgh-based startup Abridge. A small pilot started in May has grown to over 1,200 doctors, nurse practitioners and physician assistants adopting Abridge to fill out charts while they talk to patients, WVU Medicine leadership",
-        "content": "West Virginia University Medicine is accelerating its rollout of an artificial intelligence transcription software developed by Pittsburgh-based startup Abridge.\nA small pilot started in May has grown to over 1,200 doctors, nurse practitioners and ph... [2896 chars]",
-        "url": "https://triblive.com/news/health-now/wvu-medicine-goes-all-in-on-ai-medical-transcription-software-abridge/",
-        "image": "https://assets-varnish.triblive.com/2026/03/9384774_web1_ptr-NursingVirtual-022126.jpg",
-        "publishedAt": "2026-03-13T17:06:33Z",
-        "lang": "en",
-        "source": {
-            "id": "b1fa63410571207862faad9daf9b4527",
-            "name": "Pittsburgh Tribune-Review",
-            "url": "https://triblive.com",
-            "country": "us"
         }
     }
 ]
