@@ -1,5 +1,37 @@
 [
     {
+        "id": "6d1f3f1d7eb83459427a2428770bb7ce",
+        "title": "Review: 'The AI Doc: Or How I Became an Apocaloptimist' is a panic attack, in a good way",
+        "description": "How worried should you be about the rise of artificial intelligence?",
+        "content": "Is it possible to have an even-tempered conversation about AI right now? It feels like there are two camps on the artificial intelligence debate, with one side promising that AI will save humanity from disease and labor, while the other warns AI will... [7237 chars]",
+        "url": "https://in.mashable.com/movies/107065/review-the-ai-doc-or-how-i-became-an-apocaloptimist-is-a-panic-attack-in-a-good-way",
+        "image": "https://sm.mashable.com/t/mashable_in/fun/r/review-the/review-the-ai-doc-or-how-i-became-an-apocaloptimist-is-a-pan_kxnd.1200.jpg",
+        "publishedAt": "2026-03-13T22:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "e894895ef041ab9c6cb7fe7223531f53",
+            "name": "Mashable India",
+            "url": "https://in.mashable.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "cc958b73ce5ed3a7427184a9c45778e6",
+        "title": "IIT-H Launches Country’s First AI Chemical Engineering MTech",
+        "description": "The programmes aim to address the growing use of digital tools such as artificial intelligence, advanced simulations and data analytics in industries including chemicals, pharmaceuticals, energy and advanced materials.",
+        "content": "Hyderabad: IIT Hyderabad launched what it describes as India’s first MTech programmes integrating artificial intelligence and computational modelling with chemical engineering, signalling a shift in how engineers are being trained for modern process ... [1927 chars]",
+        "url": "https://www.deccanchronicle.com/southern-states/telangana/iit-h-launches-countrys-first-ai-chemical-engineering-mtech-1943696",
+        "image": "https://www.deccanchronicle.com/h-upload/2026/03/13/2021221-9c9ed484-3d6f-4b51-b4d5-104a3692b75e.jpg",
+        "publishedAt": "2026-03-13T21:55:13Z",
+        "lang": "en",
+        "source": {
+            "id": "214d496d625fc657723cf4da80cff8ce",
+            "name": "Deccan Chronicle",
+            "url": "https://www.deccanchronicle.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "8479f2fe012cb92b6e8f87babe1195f7",
         "title": "How a San Diego investment firm beat the market betting on AI - without a single share of Nvidia",
         "description": "During the California gold rush, the men who sold shovels got rich. This San Diego investment firm is running the same play on artificial intelligence.",
@@ -124,38 +156,6 @@
             "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
             "name": "CNBC",
             "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "2078c1380f414c082dbd3bbbeb2425e5",
-        "title": "AIS outlines targets for upcoming Clicx Bank",
-        "description": "Advanced Info Service (AIS), in conjunction with partners Krungthai Bank (KTB) and PTTOR, plan to launch an artificial intelligence (AI)-driven virtual banking service in Thailand by June named Clicx Bank, in a bid to capture a slice of the lucrative 180-billion-baht smartphone market.",
-        "content": "Advanced Info Service (AIS), in conjunction with partners Krungthai Bank (KTB) and PTTOR, plan to launch an artificial intelligence (AI)-driven virtual banking service in Thailand by June named Clicx Bank, in a bid to capture a slice of the lucrative... [3881 chars]",
-        "url": "https://www.bangkokpost.com/business/general/3216504/ais-outlines-targets-for-upcoming-clicx-bank",
-        "image": "https://static.bangkokpost.com/media/content/20260314/c1_3216504_260314081103_700.jpg",
-        "publishedAt": "2026-03-13T18:01:00Z",
-        "lang": "en",
-        "source": {
-            "id": "91120a92e0d24e24fbffb6d0affabfe6",
-            "name": "Bangkok Post",
-            "url": "https://www.bangkokpost.com",
-            "country": "th"
-        }
-    },
-    {
-        "id": "e9b8bf0d4fe15d71f519680f9509749b",
-        "title": "Europe takes first step to banning AI-generated child sexual abuse images",
-        "description": "Europe on Friday took the first step towards outlawing artificial ​intelligence practices which generate child sexual ‌abuse material after EU governments proposed to add this provision to the bloc's landmark AI rules adopted ​two years ago.",
-        "content": "BRUSSELS, March 13 (Reuters) - Europe on Friday took the first step towards outlawing artificial ​intelligence practices which generate child sexual ‌abuse material after EU governments proposed to add this provision to the bloc's landmark AI rules a... [1001 chars]",
-        "url": "https://www.reuters.com/business/europe-takes-first-step-banning-ai-generated-child-sexual-abuse-images-2026-03-13/",
-        "image": "https://www.reuters.com/resizer/v2/FA2GDEKNSBLRFNE2SKTQSW7HTY.jpg?auth=377945945173a60621c3cbf65c2f54c98575d5113e19c7129fc4d7c6d2e2ce2c&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-03-13T17:55:20Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
             "country": "us"
         }
     }
