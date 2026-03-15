@@ -1,5 +1,37 @@
 [
     {
+        "id": "8249d6f80bb54ad0bf807363344ddccb",
+        "title": "How Google helped Levi’s turn employee’s hackathon idea into AI tool that helps shoppers",
+        "description": "Tech News News: Google has reportedly helped Levi Strauss & Co. develop an artificial intelligence (AI) tool for store associates. The idea for the tool came abou.",
+        "content": "Representative Image\nGoogle has reportedly helped Levi Strauss & Co. develop an artificial intelligence (AI) tool for store associates. The idea for the tool came about after an employee presented it during a hackathon at the denim company, according... [3791 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-google-helped-levis-turn-employees-hackathon-idea-into-ai-tool-that-helps-shoppers/articleshow/129583449.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129583453,width-1280,height-720,imgsize-85156,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-15T01:08:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "dd5ec0cb37c3f82f59a9ab045aaad980",
+        "title": "Over-Reliance on AI May Harm Your Cognitive Ability, Experts Warn",
+        "description": "With so many artificial intelligence (AI) products on offer now, it's increasingly tempting to offload difficult thinking tasks to chatbots, agents, and other tools.",
+        "content": "With so many artificial intelligence (AI) products on offer now, it's increasingly tempting to offload difficult thinking tasks to chatbots, agents, and other tools.\nAs we chart this new technological terrain, more and more we're exposed to vast amou... [5055 chars]",
+        "url": "https://www.sciencealert.com/over-reliance-on-ai-may-harm-your-cognitive-ability-experts-warn",
+        "image": "https://www.sciencealert.com/images/2026/03/digital_brain_header.jpg",
+        "publishedAt": "2026-03-15T01:00:26Z",
+        "lang": "en",
+        "source": {
+            "id": "5ef93dac613cd24454e0d42ebc372612",
+            "name": "ScienceAlert",
+            "url": "https://www.sciencealert.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "72683ffc812b56a7097b791c6fd17b99",
         "title": "Before Nvidia, there was Dado Banatao",
         "description": "The Filipino thinker who prepared the ground for artificial intelligence — and what his mind can teach us now",
@@ -125,38 +157,6 @@
             "name": "CP24 Toronto",
             "url": "https://www.cp24.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "77b5af0b298d3e0d605f0480f4f83063",
-        "title": "Google maps introduces new interesting feature",
-        "description": "The artificial intelligence technology will also help in better identifying roads and spotting potential obstacles along the way.",
-        "content": "Google Maps has introduced a new AI-powered 3D feature to make travel easier for its users.\nWith this feature, drivers will be able to understand routes more clearly using 3D images. The artificial intelligence technology will also help in better ide... [1008 chars]",
-        "url": "https://www.bolnews.com/technology/google-maps-introduces-new-interesting-feature/",
-        "image": "https://www.bolnews.com/wp-content/uploads/2026/03/maps.webp",
-        "publishedAt": "2026-03-14T17:00:16Z",
-        "lang": "en",
-        "source": {
-            "id": "e98c4d2585c4c5661ffe60fed4d51930",
-            "name": "BOL News",
-            "url": "https://www.bolnews.com",
-            "country": "pk"
-        }
-    },
-    {
-        "id": "18e8b02d354eef78120b9ed380bf3ecc",
-        "title": "Meta to layoff 15,000 employees to manage rising multi-billion-dollar spending on Artificial Intelligence",
-        "description": "Speaking in January of this year, Mark Zuckerberg had stated that projects which previously required large teams to complete can now be accomplished by a single talented individual with the aid of AI. - Meta to layoff 15,000 employees to manage rising multi-billion-dollar spending on Artificial Intelligence",
-        "content": "Speaking in January of this year, Mark Zuckerberg had stated that projects which previously required large teams to complete can now be accomplished by a single talented individual with the aid of AI.\nNew Delhi: Meta, the parent company of Facebook a... [2261 chars]",
-        "url": "https://www.india.com/business/meta-to-layoff-15000-employees-to-manage-rising-multi-billion-dollar-spending-on-artificial-intelligence-facebook-instagram-superintelligence-labs-msl-mark-zuckerberg-manus-moltbook-8342765/",
-        "image": "https://static.india.com/wp-content/uploads/2026/03/QT-mark-BEFUN.jpg",
-        "publishedAt": "2026-03-14T16:59:00Z",
-        "lang": "en",
-        "source": {
-            "id": "b29eaeaa36b9be93ac681e263151f897",
-            "name": "India.com",
-            "url": "https://www.india.com",
-            "country": "in"
         }
     }
 ]
