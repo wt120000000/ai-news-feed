@@ -1,5 +1,21 @@
 [
     {
+        "id": "532e2c82592216a56bf0a26c6052ebe7",
+        "title": "Rethinking options of school choice",
+        "description": "Over the past year, many of us have watched artificial intelligence transform what technology can do. Tasks that seemed impossible just months ago can now happen in seconds. The rapid evolution of AI reminds us that sometimes our understanding of what is possible changes faster than we expect.",
+        "content": "Over the past year, many of us have watched artificial intelligence transform what technology can do. Tasks that seemed impossible just months ago can now happen in seconds. The rapid evolution of AI reminds us that sometimes our understanding of wha... [5218 chars]",
+        "url": "https://www.arkansasonline.com/news/2026/mar/15/rethinking-options-of-school-choice/",
+        "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
+        "publishedAt": "2026-03-15T06:54:00Z",
+        "lang": "en",
+        "source": {
+            "id": "69a24b80e5bce5a07f808f5ea84c434b",
+            "name": "Arkansas Online",
+            "url": "https://www.arkansasonline.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "45f99a489408d6aadf983869ab1b9ed1",
         "title": "Shopify CEO uses Claude AI to build MRI viewer",
         "description": "Shopify CEO Tobias Lütke has revealed how he used artificial intelligence to solve a practical problem with his annual MRI scan files. Instead of installing commercial Windows software required...",
@@ -141,22 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "dd5ec0cb37c3f82f59a9ab045aaad980",
-        "title": "Over-Reliance on AI May Harm Your Cognitive Ability, Experts Warn",
-        "description": "With so many artificial intelligence (AI) products on offer now, it's increasingly tempting to offload difficult thinking tasks to chatbots, agents, and other tools.",
-        "content": "With so many artificial intelligence (AI) products on offer now, it's increasingly tempting to offload difficult thinking tasks to chatbots, agents, and other tools.\nAs we chart this new technological terrain, more and more we're exposed to vast amou... [5055 chars]",
-        "url": "https://www.sciencealert.com/over-reliance-on-ai-may-harm-your-cognitive-ability-experts-warn",
-        "image": "https://www.sciencealert.com/images/2026/03/digital_brain_header.jpg",
-        "publishedAt": "2026-03-15T01:00:26Z",
-        "lang": "en",
-        "source": {
-            "id": "5ef93dac613cd24454e0d42ebc372612",
-            "name": "ScienceAlert",
-            "url": "https://www.sciencealert.com",
-            "country": "au"
         }
     }
 ]
