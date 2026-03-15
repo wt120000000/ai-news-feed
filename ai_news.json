@@ -1,5 +1,21 @@
 [
     {
+        "id": "5336bca2b03e304e73e638d4c59878e8",
+        "title": "Macquarie’s disruption to banking ranks up there with AI",
+        "description": "The bank’s role as the disruptor in chief to traditional banking warrants equal prominence as questions about the impact of artificial intelligence.",
+        "content": "Macquarie Bank’s unprecedented capture of systemically significant chunks of market share in residential mortgages and deposits provides the perfect backdrop to a discussion about the future of banking at The Australian Financial Review Banking Summi... [321 chars]",
+        "url": "https://www.afr.com/companies/financial-services/macquarie-s-disruption-to-banking-ranks-up-there-with-ai-20260313-p5oa45",
+        "image": "https://static.ffx.io/images/$zoom_0.2493%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_80/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/d7fa2bee08faee34d35181e1d07a109d47077ba5",
+        "publishedAt": "2026-03-15T02:20:34Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "8249d6f80bb54ad0bf807363344ddccb",
         "title": "How Google helped Levi’s turn employee’s hackathon idea into AI tool that helps shoppers",
         "description": "Tech News News: Google has reportedly helped Levi Strauss & Co. develop an artificial intelligence (AI) tool for store associates. The idea for the tool came abou.",
@@ -141,22 +157,6 @@
             "name": "Essentially Sports",
             "url": "https://www.essentiallysports.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "616fc55087613b8673f344090f57eab8",
-        "title": "AI is making hiring harder. Here's why",
-        "description": "Artificial intelligence is taking some of the discomfort out of trying to perfect your resume, but the growing use of the technology in job applications is creating new challenges for employers trying to sort through candidates and figure out who they’re really dealing with.",
-        "content": "Artificial intelligence is taking some of the discomfort out of trying to perfect your resume, but the growing use of the technology in job applications is creating new challenges for employers trying to sort through candidates and figure out who the... [2425 chars]",
-        "url": "https://www.cp24.com/news/canada/2026/03/14/why-employers-say-ai-is-making-hiring-harder/",
-        "image": "https://www.cp24.com/resizer/v2/KMIMQKRVIZBZPPH6SX4E7LOM2E.png?smart=true&auth=040111f8077bf7dff13134c339c79d6acbe358df460e64ade7d5a53e28975fd8&width=1200&height=630",
-        "publishedAt": "2026-03-14T17:33:38Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
         }
     }
 ]
