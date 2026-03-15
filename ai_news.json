@@ -1,5 +1,53 @@
 [
     {
+        "id": "6f9dfd6987114a531a62f88d2f047eaf",
+        "title": "AI is making hiring harder. Here's why",
+        "description": "Artificial intelligence is taking some of the discomfort out of trying to perfect your resume, but the growing use of the technology in job applications is creating new challenges for employers trying to sort through candidates and figure out who they’re really dealing with.",
+        "content": "Artificial intelligence is taking some of the discomfort out of trying to perfect your resume, but the growing use of the technology in job applications is creating new challenges for employers trying to sort through candidates and figure out who the... [2425 chars]",
+        "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/03/14/why-employers-say-ai-is-making-hiring-harder/",
+        "image": "https://www.bnnbloomberg.ca/resizer/v2/KMIMQKRVIZBZPPH6SX4E7LOM2E.png?smart=true&auth=040111f8077bf7dff13134c339c79d6acbe358df460e64ade7d5a53e28975fd8&width=1200&height=630",
+        "publishedAt": "2026-03-14T20:03:41Z",
+        "lang": "en",
+        "source": {
+            "id": "1b697445987e8a33f6c82842e17d60d9",
+            "name": "Bnn Bloomberg",
+            "url": "https://www.bnnbloomberg.ca",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "c7d93cb21aa156659936f7859faa7963",
+        "title": "Are we outsourcing our souls to artificial intelligence?",
+        "description": "More people are turning to AI companions during personal crises, treating it as a confidante and even a way to speak to the dead. And while it helps some, it can also have devastating consequences, writes Compass presenter Benjamin Law.",
+        "content": "Speaking to a dead person for the first time is a discombobulating experience.\nTo clarify, I'm not attending a candle-lit seance in a darkened room.\nInstead, it's a crisp, sun-drenched afternoon in Bondi Beach when I find myself talking to a woman na... [7122 chars]",
+        "url": "https://www.abc.net.au/news/2026-03-15/outsourcing-our-souls-to-ai/106442290",
+        "image": "https://live-production.wcms.abc-cdn.net.au/d181e04b3f63e5c681ee184c12a365d4?impolicy=wcms_watermark_news&cropH=506&cropW=900&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-03-14T19:24:35Z",
+        "lang": "en",
+        "source": {
+            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+            "name": "ABC (Australian Broadcasting Corporation)",
+            "url": "https://www.abc.net.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "c13daf100b21f25520ec6d7e64fa9c5c",
+        "title": "Palantir’s Maven Smart System is an AI-powered Kanban board for killing people.",
+        "description": "The company recently hosted a series of speakers at AIPCon, including Cameron Stanley, the Department of War’s Chief Digital and Artificial Intelligence Officer, who gave a chilling demo of Palantir’s Maven Smart System, where anyone or anything can be targeted for a military strike with a “Left click, right click, left click.”\n[Media: https://youtu.be/yrtDgoqWmgM?list=PLmKm_LhXXgqQaVJ2k-YffD3SRzMygbSYK&t=391]",
+        "content": "T\nYoutube\nPalantir’s Maven Smart System is an AI-powered Kanban board for killing people.\nThe company recently hosted a series of speakers at AIPCon, including Cameron Stanley, the Department of War’s Chief Digital and Artificial Intelligence Officer... [605 chars]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/895030/palantirs-maven-smart-system-is-an-ai-powered-kanban-board-for-killing-people",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+        "publishedAt": "2026-03-14T19:04:22Z",
+        "lang": "en",
+        "source": {
+            "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+            "name": "The Verge",
+            "url": "https://www.theverge.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "85b9173b1dd7954ae4339648554e060a",
         "title": "Kyrie Irving Puts Billionaire Sam Altman on Blast for Business Plan",
         "description": "Mavs star Kyrie Irving has cleared his stance regarding OpenAI's billionaire CEO, Sam Altman's, future plans for artificial intelligence.",
@@ -96,22 +144,6 @@
         }
     },
     {
-        "id": "6f14327b51b8af749dbc1a452e8c965f",
-        "title": "Samsung Galaxy S26 Ultra, Buds4 introduce privacy display, AI features",
-        "description": "SAMSUNG'S Galaxy S26 series expands the company’s flagship smartphone lineup with an emphasis on artificial intelligence features, camera improvements and privacy controls. The lineup includes the Galaxy S26 Ultra, Galaxy S26+ and Galaxy S26, alongside the new Galaxy Buds4 wireless earbuds.",
-        "content": "SAMSUNG'S Galaxy S26 series expands the company’s flagship smartphone lineup with an emphasis on artificial intelligence features, camera improvements and privacy controls. The lineup includes the Galaxy S26 Ultra, Galaxy S26+ and Galaxy S26, alongsi... [2059 chars]",
-        "url": "https://www.manilatimes.net/2026/03/15/business/sunday-business-it/samsung-galaxy-s26-ultra-buds4-introduce-privacy-display-ai-features/2299887",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/14/972710.jpg",
-        "publishedAt": "2026-03-14T16:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
         "id": "5fdfde5e3c03a1bed8419e5db01dca26",
         "title": "English proficiency critical to business success -- survey",
         "description": "ENGLISH proficiency has become a critical workplace skill as businesses adapt to artificial intelligence, remote work and global collaboration, according to an international survey of human resources decision-makers.",
@@ -119,38 +151,6 @@
         "url": "https://www.manilatimes.net/2026/03/15/business/sunday-business-it/english-proficiency-critical-to-business-success-survey/2300026",
         "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/14/973108.jpg",
         "publishedAt": "2026-03-14T16:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "819c88169b8307ac29c106ffc3879339",
-        "title": "Deepfakes and the real-world harms wrought by AI",
-        "description": "THE AI Incident Database (AIID) indexes the collective history of real-world harms or near harms attributable to artificial intelligence (AI) systems. In its incident roundup from November 2025 and January 2026, the most significant trending incidents revolve around weaponizing AI for profit, sexual exploitation and large-scale disinformation.",
-        "content": "THE AI Incident Database (AIID) indexes the collective history of real-world harms or near harms attributable to artificial intelligence (AI) systems. In its incident roundup from November 2025 and January 2026, the most significant trending incident... [3343 chars]",
-        "url": "https://www.manilatimes.net/2026/03/15/business/sunday-business-it/deepfakes-and-the-real-world-harms-wrought-by-ai/2300023",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/14/973217.jpg",
-        "publishedAt": "2026-03-14T16:03:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "bf42d3ae14c9dca04deb5be90e10db0f",
-        "title": "Helping MSMEs move from AI curiosity to capability",
-        "description": "ARTIFICIAL intelligence tools are spreading rapidly across industries. For many micro, small and medium enterprises (MSMEs), however, the question is not whether AI exists but whether they can use it with confidence in their daily operations. I reflected on these points in preparation for my answers to an “AI readiness among MSMEs” interview with a policy think tank.",
-        "content": "ARTIFICIAL intelligence tools are spreading rapidly across industries. For many micro, small and medium enterprises (MSMEs), however, the question is not whether AI exists but whether they can use it with confidence in their daily operations. I refle... [8937 chars]",
-        "url": "https://www.manilatimes.net/2026/03/15/business/sunday-business-it/helping-msmes-move-from-ai-curiosity-to-capability/2300021",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/14/973216.jpg",
-        "publishedAt": "2026-03-14T16:01:00Z",
         "lang": "en",
         "source": {
             "id": "7c666ee953f873d3057b310220f510df",
