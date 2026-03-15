@@ -1,5 +1,21 @@
 [
     {
+        "id": "245a02cbf23e9164d1c65305bb600a14",
+        "title": "Artificial intelligence is a threat to humanity",
+        "description": "Artificial intelligence poses a threat to human intelligence and society, with one book suggesting it could 'kill us all.'",
+        "content": "By now, virtually everyone in America has heard various descriptions of Artificial Intelligence (AI). And because we are all Americans, we each have an opinion about it. Is it the second coming of the Lord or the next coming of Satan?\nWhen considerin... [4026 chars]",
+        "url": "https://www.citizen-times.com/story/opinion/contributors/2026/03/15/opinion-artificial-intelligence-is-a-threat-to-humanity/89110993007/",
+        "image": "https://www.citizen-times.com/tangstatic/sites/pash/og-image-q1a2z3a6e97135.png",
+        "publishedAt": "2026-03-15T09:01:09Z",
+        "lang": "en",
+        "source": {
+            "id": "d9683cf085c2c005e453c8b6169374d7",
+            "name": "Asheville Citizen-Times",
+            "url": "https://www.citizen-times.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "5e28f8ef73456cb1007512679c8253ca",
         "title": "OpenAI CEO Sam Altman agrees with President Donald Trump's 'image warning' for AI companies; and is worried that nobody knows what to do about it",
         "description": "Tech News News: OpenAI CEO Sam Altman agrees that artificial intelligence (AI) companies are facing challenges in gaining public trust. Speaking at the BlackRock Infr.",
@@ -141,22 +157,6 @@
             "name": "Firstpost",
             "url": "https://www.firstpost.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "5336bca2b03e304e73e638d4c59878e8",
-        "title": "Macquarie’s disruption to banking ranks up there with AI",
-        "description": "The bank’s role as the disruptor in chief to traditional banking warrants equal prominence as questions about the impact of artificial intelligence.",
-        "content": "Macquarie Bank’s unprecedented capture of systemically significant chunks of market share in residential mortgages and deposits provides the perfect backdrop to a discussion about the future of banking at The Australian Financial Review Banking Summi... [321 chars]",
-        "url": "https://www.afr.com/companies/financial-services/macquarie-s-disruption-to-banking-ranks-up-there-with-ai-20260313-p5oa45",
-        "image": "https://static.ffx.io/images/$zoom_0.2493%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_80/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/d7fa2bee08faee34d35181e1d07a109d47077ba5",
-        "publishedAt": "2026-03-15T02:20:34Z",
-        "lang": "en",
-        "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "Australian Financial Review",
-            "url": "https://www.afr.com",
-            "country": "au"
         }
     }
 ]
