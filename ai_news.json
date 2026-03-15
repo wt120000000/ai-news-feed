@@ -1,5 +1,21 @@
 [
     {
+        "id": "813a9d0b8e9d8d326b3308d6fd9f6071",
+        "title": "Oscars’ top prize is up for grabs as unease hangs over Hollywood",
+        "description": "The awards ceremony takes place as ‌Hollywood grapples with geopolitical tensions, industry consolidation and anxiety over artificial intelligence.",
+        "content": "Hollywood rolls out the red carpet for Sunday's Oscars, the film industry's highest honors, with an unusually open best-picture ⁠race that pits vampire hit \"Sinners,\" the leader in nominations, against the darkly comic thriller \"One Battle After Anot... [2919 chars]",
+        "url": "https://www.cnbc.com/2026/03/15/oscars-top-prize-is-up-for-grabs-as-unease-hangs-over-hollywood.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108278073-17735702332026-03-15t075637z_1361397589_rc211kaf7e23_rtrmadp_0_awards-oscars.jpeg?v=1773570294&w=1920&h=1080",
+        "publishedAt": "2026-03-15T10:31:08Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "0f8b14bbfdfff5a4a26e9bb2a6a14437",
         "title": "collar jobs so quickly: Raghuram Rajan",
         "description": "AI may not destroy white-collar jobs so quickly: Raghuram Rajan - New Delhi, March 15 Fears that artificial intelligence could wipe out a large number of white-collar jobs in ... Get Latest News on Technology only on lokmattimes.com",
@@ -140,22 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8c49aa424ca2ca2301e1fb08b62baab8",
-        "title": "Meta layoffs: Company weighs cuts affecting up to 20% of workforce",
-        "description": "Meta is considering sweeping layoffs that could affect up to 20 per cent of its workforce as it ramps up spending on artificial intelligence infrastructure. The potential cuts, which are not yet finalised, would mark the company’s largest job reductions since its 2022–23 restructuring.",
-        "content": "Meta Platforms is considering sweeping layoffs that could affect 20 per cent or more of its workforce, as the company looks to offset the rising cost of artificial intelligence infrastructure and improve efficiency through AI-assisted work.\nThe poten... [2837 chars]",
-        "url": "https://www.firstpost.com/tech/meta-layoffs-company-weighs-cuts-affecting-up-to-20-of-workforce-13989652.html",
-        "image": "https://images.firstpost.com/uploads/2026/02/social3-2026-02-57b8a2f84f32ac3fa9719a81ff27a3f6.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-03-15T05:04:07Z",
-        "lang": "en",
-        "source": {
-            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-            "name": "Firstpost",
-            "url": "https://www.firstpost.com",
             "country": "in"
         }
     }
