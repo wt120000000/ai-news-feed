@@ -1,5 +1,21 @@
 [
     {
+        "id": "72683ffc812b56a7097b791c6fd17b99",
+        "title": "Before Nvidia, there was Dado Banatao",
+        "description": "The Filipino thinker who prepared the ground for artificial intelligence — and what his mind can teach us now",
+        "content": "Every conversation you have had with an artificial intelligence — every image generated, every question answered, every medical scan analyzed, every self-driving decision made — passed through hardware built on a foundation laid, in part, by a rice f... [10206 chars]",
+        "url": "https://www.rappler.com/people/profiles/dado-banatao-foundation-artifical-intelligence/",
+        "image": "https://www.rappler.com/tachyon/2026/03/3DFDC4BB-1C26-4CFB-B209-AEF42DB80268.jpeg",
+        "publishedAt": "2026-03-15T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1290fbc1799ff6b270a6f8b7e9761c18",
+            "name": "Rappler",
+            "url": "https://www.rappler.com",
+            "country": "ph"
+        }
+    },
+    {
         "id": "72a3bde2a3a412cc60a5268d234085c5",
         "title": "AI cancer breakthrough set to spare patients 'blind' chemotherapy and help save thousands of lives",
         "description": "A groundbreaking artificial intelligence-driven cancer testing system is set to help save lives by showing doctors which drugs are most likely to work before treatment even begins",
@@ -141,22 +157,6 @@
             "name": "India.com",
             "url": "https://www.india.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "4d56b37936a24efc20e8c9c418b6f45d",
-        "title": "The Most Useful AI Tools Helping Sales Teams Scale Revenue in 2026",
-        "description": "Artificial intelligence is quickly becoming a core layer in modern sales technology stacks. Instead of spending hours researching leads, drafting outreach messages, and managing follow-ups, sales teams are increasingly relying on AI tools that automate these repetitive tasks and turn data into actionable insights. The result is a shift in how sales teams operate. Rather […]",
-        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence is quickly becoming a core layer in modern sales technology stacks. Instead of spending hours researching leads, drafting outreach messages, and managing follow-ups, sales teams are increasingly r... [8802 chars]",
-        "url": "https://techbullion.com/the-most-useful-ai-tools-helping-sales-teams-scale-revenue-in-2026/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/03/Screenshot-2026-03-14-212117.png",
-        "publishedAt": "2026-03-14T16:22:50Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
         }
     }
 ]
