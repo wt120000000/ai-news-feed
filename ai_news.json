@@ -1,5 +1,37 @@
 [
     {
+        "id": "45f99a489408d6aadf983869ab1b9ed1",
+        "title": "Shopify CEO uses Claude AI to build MRI viewer",
+        "description": "Shopify CEO Tobias Lütke has revealed how he used artificial intelligence to solve a practical problem with his annual MRI scan files. Instead of installing commercial Windows software required...",
+        "content": "Shopify CEO Tobias Lütke has revealed how he used artificial intelligence to solve a practical problem with his annual MRI scan files. Instead of installing commercial Windows software required to view the scans, Lütke said he used Claude to quickly ... [1527 chars]",
+        "url": "https://www.thenews.com.pk/latest/1395717-shopify-ceo-uses-ai-to-build-mri-viewer-skips-windows-software",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-03-15/1395717_113721_updates.jpg",
+        "publishedAt": "2026-03-15T06:22:17Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "3f7b38b1037ec260bf0459bb618a4c45",
+        "title": "Perplexity AI CEO Aravind Srinivas backs viral post saying AI is pulling computer science back to maths and physics",
+        "description": "Artificial intelligence is changing software engineering. Large language models are handling routine coding tasks. This shift brings computer science closer to its mathematical and physics roots. Experts predict AI will soon manage most current software engineering work. This evolution impacts education, with a focus now on logical reasoning over syntax. The role of a software engineer is transforming.",
+        "content": "Synopsis\nArtificial intelligence is changing software engineering. Large language models are handling routine coding tasks. This shift brings computer science closer to its mathematical and physics roots. Experts predict AI will soon manage most curr... [3124 chars]",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/perplexity-ai-ceo-aravind-srinivas-backs-viral-post-saying-ai-is-pulling-computer-science-back-to-maths-and-physics/articleshow/129585384.cms",
+        "image": "https://img.etimg.com/thumb/msid-129585367,width-1200,height-630,imgsize-22494,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-03-15T05:51:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "71c4cbc0de2050a0498af110b84f3e6a",
         "title": "Tesla set to launch ‘Gigantic’ Chip fab project in seven says: Elon Musk",
         "description": "News News: Tesla CEO Elon Musk said on Saturday that the company’s Terafab project to produce artificial intelligence chips will launch in seven days. Musk had s.",
@@ -125,38 +157,6 @@
             "name": "ScienceAlert",
             "url": "https://www.sciencealert.com",
             "country": "au"
-        }
-    },
-    {
-        "id": "72683ffc812b56a7097b791c6fd17b99",
-        "title": "Before Nvidia, there was Dado Banatao",
-        "description": "The Filipino thinker who prepared the ground for artificial intelligence — and what his mind can teach us now",
-        "content": "Every conversation you have had with an artificial intelligence — every image generated, every question answered, every medical scan analyzed, every self-driving decision made — passed through hardware built on a foundation laid, in part, by a rice f... [10206 chars]",
-        "url": "https://www.rappler.com/people/profiles/dado-banatao-foundation-artifical-intelligence/",
-        "image": "https://www.rappler.com/tachyon/2026/03/3DFDC4BB-1C26-4CFB-B209-AEF42DB80268.jpeg",
-        "publishedAt": "2026-03-15T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1290fbc1799ff6b270a6f8b7e9761c18",
-            "name": "Rappler",
-            "url": "https://www.rappler.com",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "72a3bde2a3a412cc60a5268d234085c5",
-        "title": "AI cancer breakthrough set to spare patients 'blind' chemotherapy and help save thousands of lives",
-        "description": "A groundbreaking artificial intelligence-driven cancer testing system is set to help save lives by showing doctors which drugs are most likely to work before treatment even begins",
-        "content": "A groundbreaking artificial intelligence-driven cancer testing system is set to help save lives by showing doctors which drugs are most likely to work before treatment even begins.\nThe breakthrough technology allows scientists to grow tiny living rep... [1698 chars]",
-        "url": "https://www.gbnews.com/health/ai-cancer-breakthrough-save-patients",
-        "image": "https://www.gbnews.com/media-library/image.jpg?id=65280761&width=1200&height=600&coordinates=0%2C102%2C0%2C229",
-        "publishedAt": "2026-03-14T22:30:05Z",
-        "lang": "en",
-        "source": {
-            "id": "0c047612bc7bc0113342d2651f47b208",
-            "name": "GB News",
-            "url": "https://www.gbnews.com",
-            "country": "gb"
         }
     }
 ]
