@@ -1,5 +1,37 @@
 [
     {
+        "id": "23e3f42fcfb7838eb1a3618313c390c4",
+        "title": "AI-powered fire detection system to guard tiger reserves; Pench first to implement tech",
+        "description": "Chandrapur: In a significant technological push to strengthen forest protection, authorities have begun deploying an Artificial Intelligence (AI)-base.",
+        "content": "Chandrapur: In a significant technological push to strengthen forest protection, authorities have begun deploying an Artificial Intelligence (AI)-based forest fire detection system across tiger reserves. Pench Tiger Reserve has become the first in th... [1895 chars]",
+        "url": "https://timesofindia.indiatimes.com/city/nagpur/ai-powered-fire-detection-system-to-guard-tiger-reserves-pench-first-to-implement-tech/articleshow/129595321.cms",
+        "image": "https://static.toiimg.com/thumb/msid-117593258,width-1280,height-720,imgsize-102318,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-16T01:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "817511d37d00848c791db0c00721401c",
+        "title": "Tata consulting chief bets on data centres to navigate AI disruption",
+        "description": "Tata Consultancy Services is investing in data centres as part of a plan to reposition the business for the artificial intelligence revolution.",
+        "content": "The chief executive of India’s biggest technology firm Tata Consultancy Services (TCS) has dismissed fears artificial intelligence will destroy the company’s business model, insisting AI will increase overall employment, even as he invests in data ce... [394 chars]",
+        "url": "https://www.afr.com/technology/tata-consulting-chief-bets-on-data-centres-to-navigate-ai-disruption-20260310-p5o904",
+        "image": "https://static.ffx.io/images/$zoom_0.2879%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_61%2C$y_230/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f9746f82b1b839189b7c06e4045042414a01ccd7",
+        "publishedAt": "2026-03-15T23:51:08Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "3a5610b538484e3195eddd2b452b22d8",
         "title": "The Week in Breakingviews: Preparing for the worst",
         "description": "Welcome back! It’s been a week of studying shipping routes and commodity charts. Unlike some, though, we have not been entirely distracted by events in Iran. The Breakingviews team also dug into artificial intelligence accounting and private credit jitters, among many other topics. Let me know what interests you. If this newsletter was forwarded to you, sign up ​here to get it in your inbox every weekend.",
@@ -125,38 +157,6 @@
             "name": "USA Herald",
             "url": "https://usaherald.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "005f54ce25253fc22ac3865437c6b029",
-        "title": "US Firm Tracks Suspected North Korean IT Worker",
-        "description": "Nisos, a corporate security and investigations firm, said it grew suspicious after a candidate it called Jo stumbled through interviews for an artificial intelligence role, gave shaky answers about his claimed location in Florida, and twice logged off when asked to share his screen.",
-        "content": "A Virginia security company says it turned a suspicious job candidate into a live counterintelligence case, using a fake hiring process and a monitored laptop to trace what it believes is a North Korean remote-work cell tied to a broader scheme that ... [2216 chars]",
-        "url": "https://www.newsmax.com/us/nisos-north-korea-china/2026/03/15/id/1249585/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=52863781-b983-4edf-8205-164231f388d3&SiteName=Newsmax",
-        "publishedAt": "2026-03-15T19:30:42Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "352b66c466ff04c893dbca48e210d7f3",
-        "title": "Watching his dog slowly die, techie refused to give up. Then he used AI and created a custom 'cancer vaccine' for his pet friend",
-        "description": "Australian tech expert Paul Conyngham used artificial intelligence to help save his dog Rosie, a Staffy-Shar Pei mix, after she was diagnosed with advanced cancer. When conventional treatments like chemotherapy failed, he sequenced her DNA, identified mutations causing the tumour, and worked with the University of New South Wales to develop a personalised mRNA vaccine. Rosie received her first injection in December, followed by booster doses, and her tumour has since shrunk, with her energy and quality of life improving.",
-        "content": "Synopsis\nAustralian tech expert Paul Conyngham used artificial intelligence to help save his dog Rosie, a Staffy-Shar Pei mix, after she was diagnosed with advanced cancer. When conventional treatments like chemotherapy failed, he sequenced her DNA, ... [5222 chars]",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/watching-his-dog-slowly-die-techie-refused-to-give-up-then-he-used-ai-and-created-a-custom-cancer-vaccine-for-his-pet-friend/articleshow/129594086.cms",
-        "image": "https://img.etimg.com/thumb/msid-129594952,width-1200,height-630,imgsize-116490,overlay-etpanache/articleshow.jpg",
-        "publishedAt": "2026-03-15T18:56:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
