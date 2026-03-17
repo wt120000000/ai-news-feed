@@ -1,5 +1,37 @@
 [
     {
+        "id": "312e65ad75281a61fc8b403c0e55aca7",
+        "title": "AI in the workplace is creating 'friction or mistrust': MetLife survey",
+        "description": "Artificial intelligence is creating tension between employers and employees over its deployment, a new MetLife report finds.",
+        "content": "Artificial intelligence has been touted for its ability to automate routine, high-volume tasks at record speed. But a new report finds the technology is also creating tension between employers and employees over its deployment.\nWhile 80% of human res... [2717 chars]",
+        "url": "https://www.cnbc.com/2026/03/16/ai-workplace-friction.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108278377-1773671001614-gettyimages-1333231206-dsc06818.jpeg?v=1773671011&w=1920&h=1080",
+        "publishedAt": "2026-03-16T17:30:33Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c3022057ab543ac43e5f05f9dacd3fb8",
+        "title": "California could be first state to make law schools teach AI",
+        "description": "California-accredited law schools could soon be required to train students on artificial intelligence technology and how to use AI tools responsibly.",
+        "content": "March 16 (Reuters) - California-accredited law schools could soon be required to train students on artificial intelligence technology and how to use AI tools responsibly.\nThe State Bar of California’s Committee of ​Bar Examiners on Friday discussed a... [2163 chars]",
+        "url": "https://www.reuters.com/legal/transactional/california-could-be-first-state-make-law-schools-teach-ai-2026-03-16/",
+        "image": "https://www.reuters.com/resizer/v2/H3YPXDNT7NOV5GUR7C262MKFIY.jpg?auth=d65667bdaa5e02c2b06242ce4a9d76c1a386b568c1e5811d5496ba65fc06caf7&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-03-16T17:16:45Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d67ac287e440cc11e6faf46f5faee0b6",
         "title": "How Trump Drove a Wedge Between Florida Republicans Over A.I.",
         "description": "A Florida bill that would have regulated artificial intelligence, backed by Gov. Ron DeSantis, failed to gain traction after President Trump made it clear he did not want states to rein in the technology.",
@@ -124,38 +156,6 @@
             "id": "95a96a1867c4dac6f720e9d08d4c1b96",
             "name": "New York Post",
             "url": "https://nypost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4dff630f8a2198f5773f71a28c6fd3fd",
-        "title": "Grindr Unveils New AI Features, Details Premium Subscription Tier",
-        "description": "Grindr Inc. unveiled a handful of new app features and shared more details around its premium subscription tier as part of a larger effort to integrate artificial intelligence across its LGBTQ dating platform.",
-        "content": "Grindr Inc. unveiled a handful of new app features and shared more details around its premium subscription tier as part of a larger effort to integrate artificial intelligence across its LGBTQ dating platform.\nThe premium plan unlocks access to new A... [292 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-16/grindr-unveils-new-ai-features-details-premium-subscription-tier",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/il_iYFnRoZIw/v0/1200x800.jpg",
-        "publishedAt": "2026-03-16T16:00:04Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "642d76c21dce229a72e9db088bd39efa",
-        "title": "Meta to spend up to $27 billion on Nebius AI infrastructure",
-        "description": "Meta Platforms Inc. will pay as much as $27 billion over the next five years for access to artificial intelligence infrastructure from cloud provider Nebius Group NV.",
-        "content": "By Kurt Wagner, Bloomberg\nMeta Platforms Inc. will pay as much as $27 billion over the next five years for access to artificial intelligence infrastructure from cloud provider Nebius Group NV as it spends aggressively to compete with the industry’s t... [3058 chars]",
-        "url": "https://www.mercurynews.com/2026/03/16/meta-27-billion-nebius-ai-infrastructure/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2022/12/OPED-TECHJOBS-COMMENTARY-GET.jpg?w=1024&h=685",
-        "publishedAt": "2026-03-16T15:57:47Z",
-        "lang": "en",
-        "source": {
-            "id": "17d7c2645f485578130862e0c8dd9480",
-            "name": "The Mercury News",
-            "url": "https://www.mercurynews.com",
             "country": "us"
         }
     }
