@@ -1,5 +1,21 @@
 [
     {
+        "id": "d32286902fef0c1575e0baa2155d4801",
+        "title": "Commentary: What is a higher education worth?",
+        "description": "University of South Carolina professors write that a well-rounded education has enduring significance in an increasingly artificial intelligence-driven world.",
+        "content": "We commonly hear parents, students and politicians questioning “the value proposition” of a higher education. This is almost always done exclusively in monetary terms.\nEarlier this year, it was announced that as a result of the One Big Beautiful Bill... [4500 chars]",
+        "url": "https://www.postandcourier.com/opinion/commentary/well-rounded-education-artificial-intelligence-driven-world/article_65adbcd1-989b-40cf-9c25-1cda043e0925.html",
+        "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/8e/38efa765-cf68-4863-a211-ddfb1e955e3c/69b860e0b75ab.image.jpg?crop=1227%2C645%2C0%2C404&resize=1200%2C630&order=crop%2Cresize",
+        "publishedAt": "2026-03-17T20:45:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c1903669db0b115cc673ce9c333a70dd",
+            "name": "Charleston Post and Courier",
+            "url": "https://www.postandcourier.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "87556aff0cfc86c26576ff0b5214b2ac",
         "title": "Amazon's AI Vision: Doubling AWS's Future",
         "description": "Amazon's CEO Andy Jassy predicts artificial intelligence will elevate Amazon Web Services (AWS) to $600 billion in annual sales, doubling previous forecasts. Despite Wall Street skepticism over a $200 billion AI investment, Jassy sees robust demand. Amazon also hinted at its first million drone deliveries this year.",
@@ -141,22 +157,6 @@
             "name": "Financial Post",
             "url": "https://financialpost.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "01621da417d6807bbd7e6e707e9dc364",
-        "title": "Baidu joins China's OpenClaw frenzy with new AI agents in latest technology push",
-        "description": "Amid the global AI race, Chinese tech giant Baidu has decided to invest in artificial intelligence as the latest technological advancement to boost revenue.\nBaidu on Tuesday march 17, unveiled a...",
-        "content": "Amid the global AI race, Chinese tech giant Baidu has decided to invest in artificial intelligence as the latest technological advancement to boost revenue.\nBaidu on Tuesday march 17, unveiled a suite of artificial intelligence products, tapping grow... [2229 chars]",
-        "url": "https://www.thenews.com.pk/latest/1396009-baidu-joins-chinas-openclaw-frenzy-with-new-ai-agents",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-03-17/1396009_121627_updates.jpg",
-        "publishedAt": "2026-03-17T18:58:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-            "name": "The News International",
-            "url": "https://www.thenews.com.pk",
-            "country": "pk"
         }
     }
 ]
