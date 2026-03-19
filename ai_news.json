@@ -1,5 +1,21 @@
 [
     {
+        "id": "e83686496004224bba5fd9814e545801",
+        "title": "Kaiser mental health professionals strike in California over AI concerns",
+        "description": "About 2,400 Kaiser Permanente mental health workers are striking in Northern California over fears the company will replace therapists with artificial intelligence.",
+        "content": "OAKLAND, Calif. (AP) — About 2,400 Kaiser Permanente mental health professionals were striking Wednesday in Northern California over concerns that the health care giant is replacing therapists with artificial intelligence.\nKaiser says the union claim... [2227 chars]",
+        "url": "https://apnews.com/article/kaiser-mental-health-therapists-ai-2d05d37fd8be8f05491f0f15d97a78af",
+        "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "publishedAt": "2026-03-18T18:21:40Z",
+        "lang": "en",
+        "source": {
+            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+            "name": "The Associated Press",
+            "url": "https://apnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "7a25f156c1371f6026b28149cce2b8d0",
         "title": "Federal government to launch AI and Culture Advisory Council",
         "description": "The federal government announced a new advisory council to help it protect Canada’s creative industries from rapid advancements in AI, as the first National Summit on Artificial Intelligence and Culture wrapped up in Banff on Tuesday.",
@@ -140,22 +156,6 @@
             "id": "da5c26287bdd02563a2c32b55cb12051",
             "name": "Reuters",
             "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "2f044b6a9408daad59d87c34bc3df243",
-        "title": "More tech layoffs: Dell cuts 10% of workforce in past fiscal year",
-        "description": "The popular computer maker laid off approximately 11,000 employees in that time as artificial intelligence puts more tech employees out of work.",
-        "content": "article\nAnother Silicon Valley giant saw significant cuts to its workforce over the past year. A new report shows Dell shaved approximately 11,000 employees from its rolls over its 2026 fiscal year.\nWhat we know:\nThe total number of Dell employees fe... [2248 chars]",
-        "url": "https://www.fox9.com/news/more-tech-layoffs-dell-cuts-10-workforce-past-fiscal-year",
-        "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/03/1200/630/dell-headquarters.jpg?ve=1&tl=1",
-        "publishedAt": "2026-03-18T16:17:56Z",
-        "lang": "en",
-        "source": {
-            "id": "911cd82c5544b3cdb8eaa024eb17b8b5",
-            "name": "FOX 9",
-            "url": "https://www.fox9.com",
             "country": "us"
         }
     }
