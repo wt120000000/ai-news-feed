@@ -1,5 +1,85 @@
 [
     {
+        "id": "432f2963b5c1aefb97a7b05828197e66",
+        "title": "US touts S. Korea data centre deal as win for global AI push",
+        "description": "An Nvidia-backed US startup and a Korean conglomerate announced plans on Tuesday to build an artificial intelligence data centre that will reportedly be the largest in South Korea.",
+        "content": "SEOUL: An Nvidia-backed US startup and a Korean conglomerate announced plans on Tuesday to build an artificial intelligence data centre that will reportedly be the largest in South Korea.\nThe Trump administration hailed the deal as a win for its AI e... [2376 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/03/19/us-touts-s-korea-data-centre-deal-as-win-for-global-ai-push",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/18/3819573.jpg",
+        "publishedAt": "2026-03-19T01:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "3b0ee78257ef48b052663cd50b68f9e5",
+        "title": "MU Faculty Council to vote on AI use scale policy",
+        "description": "COLUMBIA, Mo. (KMIZ) The University of Missouri Faculty Council is set to vote on an artificial intelligence policy that will categorize students' assignments by allowed AI use. According to Council documents, if approved, all graded course assessments of student work will also include a number label from a zero through three scale. Assignments where an",
+        "content": "COLUMBIA, Mo. (KMIZ)\nThe University of Missouri Faculty Council is set to vote on an artificial intelligence policy that will categorize students' assignments by allowed AI use.\nAccording to Council documents, if approved, all graded course assessmen... [2833 chars]",
+        "url": "https://abc17news.com/news/education/university-of-missouri/2026/03/18/mu-faculty-council-to-vote-on-ai-use-scale-policy/",
+        "image": "https://abc17news.b-cdn.net/abc17news.com/2026/03/PKG.00_01_15_17.Still001.jpg",
+        "publishedAt": "2026-03-19T00:41:28Z",
+        "lang": "en",
+        "source": {
+            "id": "d5a02d07558c5563d72576efc406e608",
+            "name": "ABC17News.com",
+            "url": "https://abc17news.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "cfbfc31ae11a342546a5530acf741af4",
+        "title": "Memory chipmaker Micron's revenue beats estimates on demand surge from AI boom",
+        "description": "March 18 (Reuters) - Chipmaker ⁠Micron Technology forecast third-quarter revenue above Wall Street ⁠expectations on Wednesday, betting on a surge in demand ‌for its memory chips used in artificial intelligence hardware.",
+        "content": "March 18 (Reuters) - Chipmaker ⁠Micron Technology forecast third-quarter revenue above Wall Street ⁠expectations on Wednesday, betting on a surge in demand ‌for its memory chips used in artificial intelligence hardware.\nCustomers are committing to lo... [1237 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/03/19/memory-chipmaker-micron039s-revenue-beats-estimates-on-demand-surge-from-ai-boom",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/19/3820809.jpg",
+        "publishedAt": "2026-03-19T00:16:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "701c873e9fedf8c055e285b551b1d1c7",
+        "title": "What to Look for in Dealer AI Software",
+        "description": "Artificial intelligence is rapidly transforming the automotive industry, especially in how dealerships interact with customers and manage operations.",
+        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial intelligence is rapidly transforming the automotive industry, especially in how dealerships interact with customers and manage operations. From responding to online inquiries to analyzing customer behavior, AI... [9727 chars]",
+        "url": "https://techbullion.com/what-to-look-for-in-dealer-ai-software/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/03/68d421347adab49160ed8363_Whisk_7cb8af5e8e08bab80224af6ef4dc694ddr-1000x600.jpeg",
+        "publishedAt": "2026-03-19T00:09:53Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "939139ef3ee9251a131d26c99a26bdee",
+        "title": "Human-centric AI in education",
+        "description": "OPEN University Malaysia (OUM) recently launched the Southeast Asian Manifesto on the Humancentric Application of AI Technologies in Education, a regional intervention that calls for more deliberate, ethical and context-sensitive approaches to the use of artificial intelligence (AI) in education.",
+        "content": "OPEN University Malaysia (OUM) recently launched the Southeast Asian Manifesto on the Humancentric Application of AI Technologies in Education, a regional intervention that calls for more deliberate, ethical and context-sensitive approaches to the us... [4715 chars]",
+        "url": "https://www.thestar.com.my/starpicks/2026/03/19/human-centric-ai-in-education",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/19/3820790.jpg",
+        "publishedAt": "2026-03-18T23:39:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "52064b2a93aa9d44ecb995cafc89a767",
         "title": "Fi 8 needs a place on your IT strategy roadmap",
         "description": "GUEST OPINION:  Artificial intelligence and increasingly connected digital environments are raising expectations for faster, more reliable wirele...",
@@ -77,86 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "a1203ee1d851f2634f0464c5df8419c6",
-        "title": "Micron forecasts strong revenue on AI boom, shares fall on higher spending plan",
-        "description": "Micron Technology forecast third-quarter revenue well above Wall Street expectations after posting a sharp jump in the second quarter on booming demand for memory chips used in artificial intelligence...",
-        "content": "March 18 (Reuters) - Micron Technology forecast third-quarter revenue well above Wall Street expectations after posting a sharp jump in the second quarter on booming demand for memory chips used in artificial intelligence systems, while tighter suppl... [1569 chars]",
-        "url": "https://www.marketscreener.com/news/micron-forecasts-strong-revenue-on-ai-boom-shares-fall-on-higher-spending-plan-ce7e5ed9dc81f22c",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-12/2025-12-03T164643Z_1_LYNXMPELB210X_RTROPTP_4_CHINA-TRADE-EXPO.JPG",
-        "publishedAt": "2026-03-18T22:24:26Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "20698fd6febc9593bf88e85ad335879c",
-        "title": "Commentary: Iran war shows how AI speeds up military ‘kill chains’",
-        "description": "Artificial intelligence has enhanced the speed and scale of war, but this brings serious risks for civilians and military combatants, say academics.",
-        "content": "NEWCASTLE, England: The US-Israel war on Iran has been described as “the first AI war”. But recent deployments of artificial intelligence are, in fact, the latest in a long history of technological developments that prize a need for speed in the mili... [5970 chars]",
-        "url": "https://www.channelnewsasia.com/commentary/iran-war-ai-us-military-intelligence-civilian-death-6001346",
-        "image": "https://dam.mediacorp.sg/image/upload/s--lDJU3W28--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-17T100721Z_1_LYNXMPEM2G0IM_RTROPTP_3_IRAN-CRISIS-BRITAIN.JPG?itok=trv1dOAh",
-        "publishedAt": "2026-03-18T21:59:00Z",
-        "lang": "en",
-        "source": {
-            "id": "09131c39169c9c96230862dc4c1fa727",
-            "name": "CNA",
-            "url": "https://www.channelnewsasia.com",
-            "country": "sg"
-        }
-    },
-    {
-        "id": "9b7709cbf7d9b4c59fdf1e5ec56c24ff",
-        "title": "Acquihires, often used by Big Tech, are a 'red flag,' DOJ antitrust head says",
-        "description": "Companies’ efforts to sidestep U.S. antitrust scrutiny through tactics such as “acquihires” - a strategy some Big ​Tech firms use to snap up talent at artificial ‌intelligence startups - are a “red flag,” the top U.S. antitrust enforcer told Reuters on Wednesday.",
-        "content": "March 18 (Reuters) - Companies’ efforts to sidestep U.S. antitrust scrutiny through tactics such as “acquihires” - a strategy some Big ​Tech firms use to snap up talent at artificial ‌intelligence startups - are a “red flag,” the top U.S. antitrust e... [1149 chars]",
-        "url": "https://www.reuters.com/world/acquihires-often-used-by-big-tech-are-red-flag-doj-antitrust-head-says-2026-03-18/",
-        "image": "https://www.reuters.com/resizer/v2/QWIIDD22LJPXFDSCEXBYF75N2U.jpg?auth=edcb33768d587eb5dc9766aa595321828c04d0a1adf2de57273c93ee04b6c684&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-03-18T21:46:13Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0a641eb0a4d5c7675a931488acf5a096",
-        "title": "Acquihires, often used by Big Tech, are a 'red flag,' DOJ antitrust head says",
-        "description": "Companies' efforts to sidestep U.S. antitrust scrutiny through tactics such as acquihires - a strategy some Big Tech firms use to snap up talent at artificial intelligence startups - are a red flag,...",
-        "content": "March 18 (Reuters) - Companies' efforts to sidestep U.S. antitrust scrutiny through tactics such as \"acquihires\" - a strategy some Big Tech firms use to snap up talent at artificial intelligence startups - are a \"red flag,\" the top U.S. antitrust enf... [1324 chars]",
-        "url": "https://www.marketscreener.com/news/acquihires-often-used-by-big-tech-are-a-red-flag-doj-antitrust-head-says-ce7e5ed9df80f62c",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-18T214602Z_1_LYNXMPEM2H1G0_RTROPTP_4_TECH-ANTITRUST-ACQUIHIRES.JPG",
-        "publishedAt": "2026-03-18T21:44:28Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "984d6ff36955eb8b87f4fe19d6d0c1c1",
-        "title": "Nvidia partners with will.i.am to create smart bike",
-        "description": "Black Eyed Peas star will.i.am is putting artificial intelligence agents to work in three-wheel vehicles tailored for modern urban life.",
-        "content": "Black Eyed Peas star will.i.am is putting artificial intelligence agents to work in three-wheel vehicles tailored for modern urban life.\nThe musician turned tech entrepreneur demonstrated a so-called autocycle called Trinity at Nvidia’s annual develo... [1780 chars]",
-        "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/03/18/music-popstar-william-meshes-ai-and-micromobility/",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/FZNQP3VA54T77R3YLIYMSZQMGI.jpg?smart=true&auth=28fec6c39d239fcc1e2d6633827a77dac8935ea3b3f0273727874e6e507ddff6&width=1200&height=630",
-        "publishedAt": "2026-03-18T21:44:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1b697445987e8a33f6c82842e17d60d9",
-            "name": "Bnn Bloomberg",
-            "url": "https://www.bnnbloomberg.ca",
-            "country": "ca"
         }
     }
 ]
