@@ -1,5 +1,53 @@
 [
     {
+        "id": "0d6248159f6f07163650cdb3fd727d62",
+        "title": "Europe seeks to turn talent and AI into a competitive advantage over US and China",
+        "description": "Europe faces a decisive moment for its technological competitiveness: boosting artificial intelligence, developing hybrid talent and improving funding will be key to competing with the US and China.",
+        "content": "The rise of artificial intelligence (AI), the transformation of talent and funding challenges mark a turning point for Europe's technological competitiveness. This was made clear on the first day of the CTx Tech Experience event in Seville, where bus... [2448 chars]",
+        "url": "https://www.euronews.com/next/2026/03/20/europe-seeks-to-turn-talent-and-ai-into-a-competitive-advantage-over-us-and-china",
+        "image": "https://images.euronews.com/articles/stories/09/69/23/29/1200x675_cmsv2_d17f7cca-2ff4-52ae-91c8-59afc9999641-9692329.jpg",
+        "publishedAt": "2026-03-20T11:07:48Z",
+        "lang": "en",
+        "source": {
+            "id": "3d24c816061d69b2e23b8583aed9b447",
+            "name": "Euronews",
+            "url": "https://www.euronews.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "7230a26965857c959377e16145c21d71",
+        "title": "Project Sunrise: Jeff Bezos's Blue Origin to build 51,000-satellite constellation",
+        "description": "The system is intended to meet the rapidly growing global demand for artificial intelligence (AI) and cloud computing.",
+        "content": "Blue Origin, the space company founded by Jeff Bezos, has unveiled plans to build a massive satellite constellation aimed at taking data centres into orbit, marking a significant expansion of its ambitions beyond launch services.\nIn a recent applicat... [2219 chars]",
+        "url": "https://www.indiatoday.in/science/story/project-sunrise-jeff-bezoss-blue-origin-to-build-51000-satellite-constellation-2884799-2026-03-20",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/jeff-bezos-205403224-16x9_0.jpg?VersionId=Ea7c3gl78d7MHpib9VPjfrGABb_0U28v",
+        "publishedAt": "2026-03-20T10:56:59Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "bbfd724f0072d43389cc4074d260c0c2",
+        "title": "Nvidia’s $20 billion Groq deal queried by Warren, Blumenthal",
+        "description": "Nvidia Corp.’s $20 billion licensing deal with artificial intelligence startup Groq is being probed by a pair of Democratic senators over whether it violates antitrust laws by improperly avoiding a merger review and illegally consolidating its power in the market for AI computing.",
+        "content": "Nvidia Corp.’s $20 billion licensing deal with artificial intelligence startup Groq is being probed by a pair of Democratic senators over whether it violates antitrust laws by improperly avoiding a merger review and illegally consolidating its power ... [2733 chars]",
+        "url": "https://www.spokesman.com/stories/2026/mar/20/nvidias-20-billion-groq-deal-queried-by-warren-blu/",
+        "image": "https://thumb.spokesman.com/AFu8ayI-zCttjUVUEkqIhtzBzsI=/1200x630/smart/media.spokesman.com/photos/2026/03/20/69bd9aed0eb12.hires.jpg",
+        "publishedAt": "2026-03-20T10:41:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c8c865ed042eb14694b8d596e22efe99",
+            "name": "Spokane Spokesman-Review",
+            "url": "https://www.spokesman.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "0c158b1838547a127508b0eacd7f637b",
         "title": "Amazon working on new smartphone years after Fire Phone flop: Report",
         "description": "Amazon is planning a comeback in the smartphone market. The company is reportedly developing a new AI-driven mobile hub. This device aims to integrate with Alexa and enhance Amazon services. It could offer a conventional smartphone or a simpler 'dumbphone'. This move signals Amazon's increased focus on artificial intelligence in consumer devices.",
@@ -109,54 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "319881e78d63ee2012d539be0e7990c1",
-        "title": "135 tanker crash during Iran war, to use AI for making plane safer",
-        "description": "China is advancing its aerial refuelling with artificial intelligence. This new system aims to make complex air combat operations more efficient. Analysts see this as a strategic move amid global military competition. The AI will manage refuelling areas, optimizing tasks and reducing waiting times. This development highlights a shift towards software-driven logistics in air warfare.",
-        "content": "Synopsis\nChina is advancing its aerial refuelling with artificial intelligence. This new system aims to make complex air combat operations more efficient. Analysts see this as a strategic move amid global military competition. The AI will manage refu... [4724 chars]",
-        "url": "https://economictimes.indiatimes.com/news/defence/china-plans-to-learn-from-us-kc-135-tanker-crash-during-iran-war-to-use-ai-for-making-plane-safer/articleshow/129697023.cms",
-        "image": "https://img.etimg.com/thumb/msid-129697226,width-1200,height-630,imgsize-67846,overlay-etdefence/articleshow.jpg",
-        "publishedAt": "2026-03-20T09:38:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "66942963b368251af72bb69ddde0829e",
-        "title": "Trust no resume: AI is rewriting the rules of hiring, here’s how",
-        "description": "As artificial intelligence (AI) grows more sophisticated, the very idea of identity at workplace is being challenged, raising an unsettling question for employers. In this week’s The Safe Side, we discuss the problem and the probable solutions offered by the experts.",
-        "content": "For HR teams, this signals a fundamental change. Hiring is no longer just about finding the best candidate; it is about proving the candidate is real. And in a world where reality itself can be convincingly simulated, that distinction is becoming har... [7281 chars]",
-        "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-is-rewriting-the-rules-of-hiring-heres-how-10592152/",
-        "image": "https://images.indianexpress.com/2026/03/The-Safe-Side.jpg",
-        "publishedAt": "2026-03-20T09:33:54Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "247713dc574a7a942b2b4c128e8653d1",
-        "title": "Hospital billing technology a factor driving surge in sepsis cases",
-        "description": "Hospitals and insurers are harnessing the power of artificial intelligence and other tech tools to protect their businesses.",
-        "content": "The number of hospitalizations Massachusetts has seen for septicemia has more than tripled since 2010, to more than 42,000 people in the year ending September 2025, preliminary state data show. Since at least 2019, it has been the third-leading cause... [11777 chars]",
-        "url": "https://www.bostonglobe.com/2026/03/20/business/sepsis-hospital-billing-coding/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/7UJNFPE2DFBXXMTZPCLSNFPYTQ.jpg?auth=ff5206c639318b7a0b0db211ca5fac0e31cf454a03e739d925db7a0ea19166e6&width=1440",
-        "publishedAt": "2026-03-20T09:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-            "name": "The Boston Globe",
-            "url": "https://www.bostonglobe.com",
-            "country": "us"
         }
     }
 ]
