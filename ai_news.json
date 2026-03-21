@@ -1,5 +1,37 @@
 [
     {
+        "id": "ce46e3f40062230c348a93158fb96d53",
+        "title": "Hachette pulls horror novel ‘Shy Girl' over suspected AI use",
+        "description": "Hachette Book Group, one of the largest publishers in the United States, pulled a forthcoming horror novel Thursday in a decision that followed widespread allegations online that the author relied heavily on artificial intelligence to write the book.",
+        "content": "Hachette told the Times that its Orbit imprint decided not to publish “Shy Girl,” which was due out in the United States this spring, after conducting a thorough and lengthy review of the text. Hachette said it will also discontinue the book in the U... [1955 chars]",
+        "url": "https://www.bostonglobe.com/2026/03/21/arts/shy-girl-mia-ballard/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/44KJSTSJOVD3VAW77QPIAXF4NM.jpg?auth=22bbe5aac246fef83b23392d9146fec4641f7ad4f805771ce9001ff054785010&width=1440",
+        "publishedAt": "2026-03-21T10:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2d8385085a045326b1fdbae3412f48f0",
+        "title": "How engineers at Elon Musk's xAI are becoming 'salesmen' to take on OpenAI and Anthropic",
+        "description": "Tech News News: Elon Musk’s xAI is reportedly turning its engineers into “salesmen”. According to a Bloomberg report, the artificial intelligence (AI) startup behind .",
+        "content": "Representative Image\nElon Musk’s xAI is reportedly turning its engineers into “salesmen”. According to a Bloomberg report, the artificial intelligence (AI) startup behind the Grok chatbot is sending engineers directly to the offices of potential corp... [3107 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-engineers-at-elon-musks-xai-are-becoming-salesmen-to-take-on-openai-and-anthropic/articleshow/129715429.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129715515,width-1280,height-720,imgsize-27922,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-21T09:53:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "345a38cd4d97607a82911011360b797c",
         "title": "The Artificial Intelligence Debate Inspired By 'The AI Doc: Or How I Became An Apocaloptimist'",
         "description": "Where are we at, and where can we go?",
@@ -125,38 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "eccceedcbf3227ce1331aa020c79f84c",
-        "title": "Pentagon to adopt Palantir’s Maven artificial intelligence as core US military system",
-        "description": "Maven is a command-and-control software platform that analyses battlefield data and identifies targets",
-        "content": "Palantir’s Maven artificial intelligence system will become an official program of record, Deputy Secretary of Defense Steve Feinberg said in a letter to Pentagon leaders, a move that locks in long-term use of Palantir’s weapons-targeting technology ... [3581 chars]",
-        "url": "https://www.telegraphindia.com/world/pentagon-to-adopt-palantirs-maven-artificial-intelligence-as-core-us-military-system-memo-says/cid/2152451",
-        "image": "https://assets.telegraphindia.com/telegraph/2026/Mar/1774079931_reuters-palantir-tech-ai-pentagon.gif",
-        "publishedAt": "2026-03-21T08:00:19Z",
-        "lang": "en",
-        "source": {
-            "id": "93a4f054e09bde095cda5265e575a952",
-            "name": "Telegraph India",
-            "url": "https://www.telegraphindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "80d5311954d3f69cb88cd1520532d4d2",
-        "title": "SoftBank CEO Son unveils $500 bil AI data center investment in Ohio",
-        "description": "SoftBank Group Corp plans to invest $500 billion to build an artificial intelligence data center in Ohio, with construction to begin sometime this year, the conglomerate's chairman and CEO said. Masayoshi Son, who attended a White House dinner on Thursday hosted by U.S. President Donald Trump for visiting Japanese Prime…",
-        "content": "SoftBank Group Corp plans to invest $500 billion to build an artificial intelligence data center in Ohio, with construction to begin sometime this year, the conglomerate's chairman and CEO said.\nMasayoshi Son, who attended a White House dinner on Thu... [1010 chars]",
-        "url": "https://japantoday.com/category/tech/softbank-group's-son-unveils-500-bil.-ai-data-center-investment-in-ohio",
-        "image": "https://media.japantoday.com/img/store/f8/d4/2cadea5d25bd27a4473fe9d334d20967bf42/ap26079000749758/_w1700.jpeg",
-        "publishedAt": "2026-03-21T07:04:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
