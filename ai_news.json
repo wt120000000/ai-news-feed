@@ -1,5 +1,37 @@
 [
     {
+        "id": "23fdbf42c5021375ca194e35c92ca0c6",
+        "title": "Netanyahu had to prove he was alive 3 times. Why proof of life is ‘Word of the Week’",
+        "description": "Amid rumours of his death, Israeli Prime Minister Benjamin Netanyahu posted three proof of life videos. However, the visuals were dismissed as artificial intelligence, meant to deceive the world about the leader’s well-being",
+        "content": "In the midst of the war unfolding in West Asia, one has been bombarded with countless images and videos of the fighting. However, we live in the age of misinformation that is fuelled by the use of artificial intelligence, making it very hard to decip... [4500 chars]",
+        "url": "https://www.firstpost.com/explainers/netanyahu-had-to-prove-he-was-alive-3-times-why-proof-of-life-is-word-of-the-week-13991555.html",
+        "image": "https://images.firstpost.com/uploads/2026/03/week-2026-03-9a46192753cc4b109733669b4781197d.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-03-22T05:59:52Z",
+        "lang": "en",
+        "source": {
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "2cd1f8476f536a7ca121069986cf5a50",
+        "title": "Musk plans Tesla, SpaceX, xAI chip making lab in Texas",
+        "description": "NEW YORK -- Elon Musk says his Terafab project - a grand plan to eventually manufacture his own chips for robotics, artificial intelligence and space data centres - will be built in Austin and jointly run by Tesla and SpaceX.",
+        "content": "NEW YORK -- Elon Musk says his Terafab project - a grand plan to eventually manufacture his own chips for robotics, artificial intelligence and space data centres - will be built in Austin and jointly run by Tesla and SpaceX.\nMusk, the chief executiv... [4543 chars]",
+        "url": "https://www.bangkokpost.com/life/tech/3221923/musk-plans-tesla-spacex-xai-chip-making-lab-in-texas",
+        "image": "https://static.bangkokpost.com/media/content/20260322/c1_3221923_700.jpg",
+        "publishedAt": "2026-03-22T05:48:41Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
         "id": "4a5d3648b01de2a80379a8700f9513ec",
         "title": "Are AI models becoming commodities? OpenClaw’s ChatGPT-like growth sparks debate",
         "description": "OpenClaw’s rapid ChatGPT-like growth has sparked a debate in the tech industry about whether AI models are becoming commoditized, raising questions about the future value and differentiation of artificial intelligence technologies.",
@@ -125,38 +157,6 @@
             "name": "Livemint",
             "url": "https://www.livemint.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "99034d4b44dc21656b4a04b9e219681a",
-        "title": "Guj-based company develops ‘AI Action Firewall’ to make artificial intelligence systems safer",
-        "description": "a gujarat-based neuro-engineering deep-tech ai company has developed an “ai action firewall” aimed at making artificial intelligence systems safer by verifying every action before execution, an official said on saturday. the firewall will function as a policy-based safety layer between ai systems and real-world operations, ensuring that actions are authorised, monitored and recorded, he said. a firewall is a network security system for monitoring and controlling incoming and outgoing network traffic based o",
-        "content": "JAIPUR :\nA Gujarat-based neuro-engineering deep-tech AI company has developed an “AI Action Firewall” aimed at making artificial intelligence systems safer by verifying every action before execution, an official said on Saturday. The firewall will fu... [1313 chars]",
-        "url": "https://www.thehitavada.com/Encyc/2026/3/22/guj-based-company-develops-ai-action-firewall-to-make-artificial-intelligence-systems-safer.html",
-        "image": "https://www.thehitavada.com/Encyc/2026/3/22/Guj-based-company-develops-AI-Action-Firewall_202603220915464422_H@@IGHT_595_W@@IDTH_1141.jpg",
-        "publishedAt": "2026-03-22T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "2ff4b6327735b249ca9fe9bb8f044251",
-            "name": "The Hitavada",
-            "url": "https://www.thehitavada.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "404d70c7799044f24211c39e5af4267b",
-        "title": "Walmart AI patents spark customer concerns over dynamic pricing",
-        "description": "The retail giant's new artificial intelligence technology can predict demand and adjust prices on products.",
-        "content": "Walmart has secured patents that could allow artificial intelligence to help determine pricing, a development that has sparked concerns among customers nationwide, the Daily Mail reported.\nThe retailer has taken steps to expand the role of artificial... [2015 chars]",
-        "url": "https://www.silive.com/news/2026/03/walmart-ai-patents-spark-customer-concerns-over-dynamic-pricing.html",
-        "image": "https://www.silive.com/resizer/v2/ASZHVZ4MEZB4BESBXXALNOAEC4.JPG?auth=07a113a8f66a6c80cc2f1feb7129bbf6660d0b6a2d713c096b1ad58d1a1bd222&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-03-21T23:20:47Z",
-        "lang": "en",
-        "source": {
-            "id": "e05be2586fae40092bbfb14c90c23680",
-            "name": "Staten Island Advance",
-            "url": "https://www.silive.com",
-            "country": "us"
         }
     }
 ]
