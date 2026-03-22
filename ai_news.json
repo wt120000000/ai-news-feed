@@ -1,5 +1,21 @@
 [
     {
+        "id": "834e24015da5dd968ddd365de1ab7e35",
+        "title": "Built on subscriptions, tested by AI: Inside Shantanu Narayen’s Adobe legacy",
+        "description": "Shantanu Narayen's subscription gamble paid off. His successor faces a harder bet on artificial intelligence.",
+        "content": "The first was a triumph. He remade Adobe from a boxed-software vendor into a subscription powerhouse, lifting revenue from about $3 billion in 2007 to more than $24 billion by 2025. The second was a reckoning. As generative artificial intelligence (A... [6031 chars]",
+        "url": "https://www.livemint.com/companies/people/shantanu-narayen-adobe-exit-subscription-legacy-ai-reckoning-11774084795913.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/ADOBE-STOCKS--0_1774087288330_1774087302290.JPG",
+        "publishedAt": "2026-03-22T01:31:03Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "99034d4b44dc21656b4a04b9e219681a",
         "title": "Guj-based company develops ‘AI Action Firewall’ to make artificial intelligence systems safer",
         "description": "a gujarat-based neuro-engineering deep-tech ai company has developed an “ai action firewall” aimed at making artificial intelligence systems safer by verifying every action before execution, an official said on saturday. the firewall will function as a policy-based safety layer between ai systems and real-world operations, ensuring that actions are authorised, monitored and recorded, he said. a firewall is a network security system for monitoring and controlling incoming and outgoing network traffic based o",
@@ -141,22 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "d72dab7d6bf019475d7a0b10651d722e",
-        "title": "Pentagon Locks In Palantir AI to Power Future Military Operations",
-        "description": "The Pentagon will formally adopt Palantir Technologies’s Maven artificial intelligence system as a core program across the U.S. military,.",
-        "content": "The Pentagon is moving to formally adopt Palantir Technologies’s Maven artificial intelligence system as a core program across the U.S. military, according to a letter from Deputy Defense Secretary Steve Feinberg.\nIn a March 9 memo to senior military... [2167 chars]",
-        "url": "https://www.thegatewaypundit.com/2026/03/pentagon-locks-palantir-ai-power-future-military-operations/",
-        "image": "https://www.thegatewaypundit.com/wp-content/uploads/2025/10/pete-hegseth-copy-1200x630.jpg",
-        "publishedAt": "2026-03-21T17:20:46Z",
-        "lang": "en",
-        "source": {
-            "id": "c7b3fd167c575deb5133f19df6ed778f",
-            "name": "The Gateway Pundit",
-            "url": "https://www.thegatewaypundit.com",
-            "country": "us"
         }
     }
 ]
