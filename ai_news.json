@@ -1,5 +1,37 @@
 [
     {
+        "id": "7acd0ea38bf3558008431ab781870de0",
+        "title": "AI CEO era begins: Mark Zuckerberg building ‘smart assistant’ to help run Meta",
+        "description": "Meta is set to witness an era where artificial intelligence will take the role of CEO.\nAs reported by the Wall Street Journal, Mark Zuckerberg is building an AI CEO agent to help him lead Meta...",
+        "content": "Meta is set to witness an era where artificial intelligence will take the role of CEO.\nAs reported by the Wall Street Journal, Mark Zuckerberg is building an AI CEO agent to help him lead Meta platforms and make smart decisions.\nAccording to the sour... [1281 chars]",
+        "url": "https://www.thenews.com.pk/latest/1396480-ai-ceo-era-begins-mark-zuckerberg-building-smart-assistant-to-help-run-meta",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-03-23/1396480_123501_updates.jpg",
+        "publishedAt": "2026-03-23T07:34:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "0b36c237b19bf7c7cef7a3f452487394",
+        "title": "Why Elon Musk is building ‘Tera-fab’, a mega chip factory to power his AI empire",
+        "description": "Elon Musk has unveiled plans to build a massive chip fabrication facility in the United States, aimed at producing in-house semiconductors to power the artificial intelligence (AI), robotics, autonomy, and orbital data centre ambitions of his companies, including Tesla and xAI. Musk’s so-called ‘Tera-fab’ facility will be located near Tesla’s existing headquarters and gigafactory in […]",
+        "content": "Technology 15 min ago\nThis is an AI assisted summary.\nElon Musk has unveiled plans to build a massive chip fabrication facility in the United States, aimed at producing in-house semiconductors to power the artificial intelligence (AI), robotics, auto... [23212 chars]",
+        "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/why-elon-musk-is-building-tera-fab-mega-chip-factory-ai-empire-10596261/",
+        "image": "https://images.indianexpress.com/2026/01/US-1-41.jpg",
+        "publishedAt": "2026-03-23T06:59:59Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "2effb6969b0b8b18cc6cfd81a26d672c",
         "title": "AI has created a ‘new status game’ among engineers at IT companies that analysts say is 'expensive'",
         "description": "Tech News News: Artificial intelligence is changing how engineers work at tech companies, but it has also created what analysts are calling an \\\"expensive status game”.",
@@ -125,38 +157,6 @@
             "name": "The Financial Express",
             "url": "https://www.financialexpress.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "78104b4b7d28024bdb68f529014fbb00",
-        "title": "Trust in AI’s financial acumen reaches almost 40%, neobank survey suggests",
-        "description": "Some consumers view artificial intelligence as or more useful than human interaction, says Bunq",
-        "content": "More than a third of Irish people believe artificial intelligence (AI) bots are more trustworthy than humans or at least think we are more upfront when talking to machines about our finances, research published on Monday by one of Europe’s largest ne... [2950 chars]",
-        "url": "https://www.irishtimes.com/your-money/2026/03/23/trust-in-ais-financial-acumen-reaches-almost-40-neobank-survey-suggests/",
-        "image": "https://www.irishtimes.com/resizer/v2/EWNIV7ATP5GFDHPFJJWUSBD6TY.jpg?smart=true&auth=923a9abf9d3ad2d3d73c6ab152cd839b61ae78c9ec35eeae6beef88ea98c768e&width=1200&height=630",
-        "publishedAt": "2026-03-23T05:01:00Z",
-        "lang": "en",
-        "source": {
-            "id": "dd1d806725f45e4403e75c1bb23b447a",
-            "name": "The Irish Times",
-            "url": "https://www.irishtimes.com",
-            "country": "ie"
-        }
-    },
-    {
-        "id": "621cc8475881da885a2fbe75b2b8c024",
-        "title": "AI-assisted decision support system improves stroke care and long-term outcomes",
-        "description": "A clinical decision support tool that uses artificial intelligence (AI) to analyze scans after a stroke alongside treatment recommendations is associated with better quality care and long term outcomes for patients compared with usual care, finds a study from China published by The BMJ today.",
-        "content": "A clinical decision support tool that uses artificial intelligence (AI) to analyze scans after a stroke alongside treatment recommendations is associated with better quality care and long term outcomes for patients compared with usual care, finds a s... [2967 chars]",
-        "url": "https://www.news-medical.net/news/20260323/AI-assisted-decision-support-system-improves-stroke-care-and-long-term-outcomes.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2014/7/Stroke-620x480.jpg",
-        "publishedAt": "2026-03-23T04:39:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
         }
     }
 ]
