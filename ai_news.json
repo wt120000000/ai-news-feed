@@ -1,5 +1,21 @@
 [
     {
+        "id": "57b8fe0641334e7b800724a9336abdd5",
+        "title": "A man used AI to help make a cancer vaccine for his dog-an oncologist urges caution",
+        "description": "An Australian tech entrepreneur has helped create what appears to be a made-to-measure cancer vaccine for his dog, Rosie, using artificial intelligence tools such as ChatGPT as part of the process.",
+        "content": "An Australian tech entrepreneur has helped create what appears to be a made-to-measure cancer vaccine for his dog, Rosie, using artificial intelligence tools such as ChatGPT as part of the process.\nThe science behind this sounds intimidating—DNA sequ... [6257 chars]",
+        "url": "https://medicalxpress.com/news/2026-03-ai-cancer-vaccine-dog-oncologist.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/vaccine-1.jpg",
+        "publishedAt": "2026-03-23T22:30:04Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "e226d514fb4b63da36d3d0ee97ec098f",
         "title": "Braid: Smith big on artificial intelligence; does she see creepy side?",
         "description": "Premier Danielle Smith's government is rapidly adopting artificial intelligence. Does she see its flaws and deceptions?",
@@ -141,22 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "dee9b1f0d5736a0e663a09ac94bde481",
-        "title": "Apple gears up for WWDC amid AI challenges",
-        "description": "Apple will hold its annual developers conference from June 8 to 12, with a heavy focus expected on artificial intelligence. The event comes as the group seeks to catch up with its competitors.",
-        "content": "Apple has announced that its Worldwide Developers Conference will take place from June 8 to 12, primarily online, with an in-person opening day at Apple Park for select attendees. The event is expected to showcase evolutions across the group's platfo... [874 chars]",
-        "url": "https://www.marketscreener.com/news/apple-gears-up-for-wwdc-amid-ai-challenges-ce7e5eddd881fe24",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-09-09T192132Z_1_LYNXNPEL880YO_RTROPTP_4_APPLE-EVENT.JPG",
-        "publishedAt": "2026-03-23T19:39:37Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
