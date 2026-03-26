@@ -1,5 +1,37 @@
 [
     {
+        "id": "6a4889d4c56a8844010af0107929d37c",
+        "title": "Artificial Intelligence Misuse: Teen Scandal at Exclusive Pennsylvania School",
+        "description": "In Pennsylvania, two 14-year-old boys used AI to create fake nude images of classmates, causing distress and legal consequences. Found guilty, they received probation and must perform community service. The scandal has spurred discussions on AI misuse and legal actions, highlighting deepfake-related issues in schools and broader society.",
+        "content": "The scandal at an elite Pennsylvania school has left a community in shock after two teenage boys were found guilty of using artificial intelligence to create fake nude images of their classmates. The boys, aged 14, received probation on Wednesday aft... [747 chars]",
+        "url": "https://www.devdiscourse.com/article/law-order/3851053-artificial-intelligence-misuse-teen-scandal-at-exclusive-pennsylvania-school",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/08_09_2025_12_03_59_7844778.png?width=920&format=jpeg",
+        "publishedAt": "2026-03-25T23:50:34Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "cdd0e460641e88a6371a8babac6a34d0",
+        "title": "AI tool predicts wildfire danger faster than current systems",
+        "description": "A wildfire forecasting system powered by artificial intelligence (AI) could help detect dangerous fire conditions earlier and reduce the cost of wildfire response, according to new research from Te Whare Wānanga o Waitaha, University of Canterbury (UC). The work is published in the International Journal of Wildland Fire.",
+        "content": "A wildfire forecasting system powered by artificial intelligence (AI) could help detect dangerous fire conditions earlier and reduce the cost of wildfire response, according to new research from Te Whare Wānanga o Waitaha, University of Canterbury (U... [3197 chars]",
+        "url": "https://phys.org/news/2026-03-ai-tool-wildfire-danger-faster.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/ai-tool-predicts-wildf.jpg",
+        "publishedAt": "2026-03-25T23:10:01Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
         "id": "8207010442d301a8cac5650c7f17ca13",
         "title": "Q&A: An AI-Powered Way to Help Detect Brain Bleeds Faster",
         "description": "Viz Hemorrhage, which uses artificial intelligence algorithms to detect suspected brain bleeds, is a recipient of the 2026 Edison Awards.",
@@ -125,38 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "9e8cee0e6c8494f3f695ceee20a458cf",
-        "title": "Wall Street Taps Australia’s Pension Trillions as AI Spend Soars",
-        "description": "Australia’s top pension funds agree that artificial intelligence is a major US investment opportunity for the A$4.5 trillion ($3.1 trillion) industry. What’s less certain: how they’ll pick the future winners as bubble fears mount.",
-        "content": "Australia’s top pension funds agree that artificial intelligence is a major US investment opportunity for the A$4.5 trillion ($3.1 trillion) industry. What’s less certain: how they’ll pick the future winners as bubble fears mount.\nFresh from a tour o... [324 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-25/wall-street-taps-australia-s-pension-trillions-as-ai-spend-soars",
-        "image": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-default.d7363fa9.png",
-        "publishedAt": "2026-03-25T20:06:37Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f9fab5d45e66302ecc92384103e24c43",
-        "title": "E-Power Inc. Announces Strategic Expansion into Vietnam to Build a Resilient \"Ex-China\" Anode Material Supply Chain for Global AI Data Centers and ESS Markets",
-        "description": "DOVER, USA, March 25, 2026 (GLOBE NEWSWIRE) -- E-Power Inc. ('E-Power”, the 'Company”, 'we” or 'our”) (NASDAQ: EPOW), a global leader in energy storage battery anode materials and integrated microgrid solutions, today announced a significant milestone in its global expansion strategy following a successful high-level site inspection of the ATSC SOLARTECH facility in Hung Yen Province, Vietnam. This initiative aligns with the Company’s 'Closed-Loop' industrial ecosystem, focusing on localized production to serve the rapidly growing Artificial Intelligence Data Center (AIDC) and energy storage markets in North America and Southeast Asia.",
-        "content": "DOVER, USA, March 25, 2026 (GLOBE NEWSWIRE) -- E-Power Inc. (\"E-Power”, the \"Company”, \"we” or \"our”) (NASDAQ: EPOW), a global leader in energy storage battery anode materials and integrated microgrid solutions, today announced a significant mileston... [6271 chars]",
-        "url": "https://www.manilatimes.net/2026/03/26/tmt-newswire/globenewswire/e-power-inc-announces-strategic-expansion-into-vietnam-to-build-a-resilient-ex-china-anode-material-supply-chain-for-global-ai-data-centers-and-ess-markets/2307894",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/26/988617.png",
-        "publishedAt": "2026-03-25T19:43:21Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
