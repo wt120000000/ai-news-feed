@@ -1,5 +1,37 @@
 [
     {
+        "id": "d38c9937d35578ca7ca4ab6d8413aac9",
+        "title": "Judge Blocks Pentagon Move to Halt Anthropic Tools Amid Legal Fight",
+        "description": "A federal judge has handed an early legal victory to artificial intelligence firm Anthropic in its dispute with the Pentagon. In a ruling issued Thursday, U.S. District Judge Rita Lin determined that directives from President Donald Trump and Defense Secretary Pete Hegseth ordering agencies to immediately stop using Anthropic’s technology cannot be enforced for now.",
+        "content": "A federal judge has handed an early legal victory to artificial intelligence firm Anthropic in its dispute with the Pentagon.\nIn a ruling issued Thursday, U.S. District Judge Rita Lin determined that directives from President Donald Trump and Defense... [2917 chars]",
+        "url": "https://usaherald.com/judge-blocks-pentagon-move-to-halt-anthropic-tools-amid-legal-fight/",
+        "image": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+        "publishedAt": "2026-03-27T08:25:42Z",
+        "lang": "en",
+        "source": {
+            "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+            "name": "USA Herald",
+            "url": "https://usaherald.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "892c0e747c6b87c29236515c73c81285",
+        "title": "UK sets one-hour screen limit for under-fives",
+        "description": "The UK government has issued new guidelines advising parents to limit screen time for children under five to one hour a day and avoid exposure to artificial intelligence tools and social media. The...",
+        "content": "The UK government has issued new guidelines advising parents to limit screen time for children under five to one hour a day and avoid exposure to artificial intelligence tools and social media. The guidance which Prime Minister Keir Starmer supports ... [1479 chars]",
+        "url": "https://www.thenews.com.pk/latest/1396865-uk-sets-one-hour-screen-limit-for-under-fives",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-03-27/1396865_010245_updates.jpg",
+        "publishedAt": "2026-03-27T07:58:37Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
         "id": "7bb80dbd05cab913a2897c7701ed2892",
         "title": "Bark and Shibo Drive AI Conversation Across Crypto and Social Media, Reaching Millions",
         "description": "Christian Barker (Bark) and David Chaboki (Shibo), co-founders of Doginal Dogs and hosts on the Crypto Spaces Network, have generated millions of impressions with AI-focused content exploring the intersection of artificial intelligence, blockchain, and next-generation investing.",
@@ -125,38 +157,6 @@
             "name": "Australian Financial Review",
             "url": "https://www.afr.com",
             "country": "au"
-        }
-    },
-    {
-        "id": "03cc767245aaef23a65c3c4a2b844757",
-        "title": "AI Breakthrough From Google Exposes Divide in Memory Chip Stocks",
-        "description": "A two-day selloff in memory-chip stocks is revealing a new split in the artificial intelligence trade, as Google touts a breakthrough that analysts say may curb demand for certain types of storage while leaving others largely unscathed.",
-        "content": "A two-day selloff in memory-chip stocks is revealing a new split in the artificial intelligence trade, as Google touts a breakthrough that analysts say may curb demand for certain types of storage while leaving others largely unscathed.\nShares of Sam... [372 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-27/ai-breakthrough-from-google-exposes-divide-in-memory-stocks",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGo.zpIh5B70/v1/1200x800.jpg",
-        "publishedAt": "2026-03-27T05:59:40Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "bc9032dc3ccf21e2924f884632be6871",
-        "title": "Apple plans to open Siri to rival AI services: Report",
-        "description": "Apple plans to open its Siri voice assistant to rival ​artificial intelligence services beyond its current partnership ‌with ChatGPT, Bloomberg News reported",
-        "content": "Apple plans to open its Siri voice assistant to rival ​artificial intelligence services beyond its current partnership ‌with ChatGPT, Bloomberg News reported on ​Thursday, citing people familiar ⁠with the matter.\nThe move, expected as part of Apple’s... [1065 chars]",
-        "url": "https://www.thehindu.com/sci-tech/technology/apple-plans-to-open-siri-to-rival-ai-services-report/article70791053.ece",
-        "image": "https://th-i.thgim.com/public/incoming/6szxxo/article70791055.ece/alternates/LANDSCAPE_1200/2026-03-24T141830Z_328776900_RC21BKAG4E18_RTRMADP_3_APPLE-ADVERTISING.JPG",
-        "publishedAt": "2026-03-27T05:42:22Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
-            "country": "in"
         }
     }
 ]
