@@ -1,5 +1,37 @@
 [
     {
+        "id": "7cead4d0000b80c3a254f989fb657163",
+        "title": "AI replacement soft landing: Proposed law would require companies to give workers 90 days notice",
+        "description": "A bill in the Minnesota State Senate would require companies to give employees 90 days notice if they are being replaced by artificial intelligence (A.I.) if made into law.",
+        "content": "A bill in the Minnesota Senate would require companies to give employees 90 days notice if they are being replaced by artificial intelligence (AI) if made into law.\nMinnesota AI employee replacement bill\nBig picture view:\nLawmakers are aiming to crea... [504 chars]",
+        "url": "https://www.fox9.com/news/ai-replacement-soft-landing-law-require-companies-workers-90-days-notice-march-26",
+        "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/03/1200/630/getty-artificial-intelligence.jpg?ve=1&tl=1",
+        "publishedAt": "2026-03-26T21:22:41Z",
+        "lang": "en",
+        "source": {
+            "id": "911cd82c5544b3cdb8eaa024eb17b8b5",
+            "name": "FOX 9",
+            "url": "https://www.fox9.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "5185569a5092b8782945fd32df329485",
+        "title": "AI is giving bad advice to flatter its users, says new study on dangers of overly agreeable chatbots",
+        "description": "Artificial intelligence chatbots are so prone to flattering and validating their human users that they are giving bad advice that can damage relationships and reinforce harmful behaviors, according to a new study that explores the dangers of AI telling people what they want to hear. The study, published Thursday in…",
+        "content": "Artificial intelligence chatbots are so prone to flattering and validating their human users that they are giving bad advice that can damage relationships and reinforce harmful behaviors, according to a new study that explores the dangers of AI telli... [7619 chars]",
+        "url": "https://japantoday.com/category/tech/ai-is-giving-bad-advice-to-flatter-its-users-says-new-study-on-dangers-of-overly-agreeable-chatbots",
+        "image": "https://media.japantoday.com/img/store/2d/45/cfb33c77a252a9b133e06f2a249f7a874547/download/_w1700.jpeg",
+        "publishedAt": "2026-03-26T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "ba3b36ac29bf01007333fb7a1da1b69d",
         "title": "Meta to invest $10bn in Texas AI data center",
         "description": "Meta is significantly ramping up its investment in artificial intelligence infrastructure with a massive data center project in Texas. The move underscores the surging computational demands driven by...",
@@ -125,38 +157,6 @@
             "name": "CP24 Toronto",
             "url": "https://www.cp24.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "7e331edaacb47c9ccb51b2f280215d40",
-        "title": "ScaleFlux opens Bengaluru centre to expand AI, storage innovation",
-        "description": "The facility will operate as the company’s India Design and Innovation Centre, focusing on next-generation storage technologies for artificial intelligence, clo",
-        "content": "US-based semiconductor company ScaleFlux has inaugurated a new office in Bellandur, Bengaluru, as part of its plans to expand engineering capabilities and strengthen its presence in India.\nThe facility will operate as the company’s India Design and I... [1606 chars]",
-        "url": "https://www.newindianexpress.com/business/2026/Mar/26/scaleflux-opens-bengaluru-centre-to-expand-ai-storage-innovation",
-        "image": "https://media.newindianexpress.com/newindianexpress%2F2026-03-26%2F73cexn6y%2FScaleFlux.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-03-26T18:38:42Z",
-        "lang": "en",
-        "source": {
-            "id": "448094ed3f9461bb87a99a218cdaecfe",
-            "name": "The New Indian Express",
-            "url": "https://www.newindianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e1255ae74da4c30e7009ce623a06a2bf",
-        "title": "US stocks: Apple plans to open Siri to rival AI services, Bloomberg News reports",
-        "description": "Apple is set to open its Siri voice assistant to other artificial intelligence services. This move will allow users to connect with AI platforms like Alphabet's Gemini and Anthropic's Claude directly through Siri. The change aims to boost Apple's AI capabilities and position the iPhone as a versatile AI hub.",
-        "content": "Synopsis\nApple is set to open its Siri voice assistant to other artificial intelligence services. This move will allow users to connect with AI platforms like Alphabet's Gemini and Anthropic's Claude directly through Siri. The change aims to boost Ap... [315 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-apple-plans-to-open-siri-to-rival-ai-services-bloomberg-news-reports/articleshow/129832615.cms",
-        "image": "https://img.etimg.com/thumb/msid-129832664,width-1200,height-630,imgsize-37494,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-03-26T18:33:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
