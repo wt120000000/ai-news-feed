@@ -1,5 +1,37 @@
 [
     {
+        "id": "caa9f17ebe8b67572911ada82280c2f8",
+        "title": "Smaller Is Better in Silicon Valley’s ‘Tiny Team’ Moment",
+        "description": "As artificial intelligence takes on more and more tasks, tech executives are embracing teams as small as two: one person plus A.I.",
+        "content": "In many industries, leading a big team is a flex. A large head count implies a large budget, and suggests that your organization is powerful and making things happen. But lately, in the world of start-ups, some founders have been bragging about doing... [1577 chars]",
+        "url": "https://www.nytimes.com/2026/03/28/business/silicon-valley-tiny-team-two-slice.html",
+        "image": "https://static01.nyt.com/images/2026/03/29/business/29shoptalk-2slice-illo/29shoptalk-2slice-illo-facebookJumbo.jpg",
+        "publishedAt": "2026-03-28T09:01:30Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ebfb072731d47a4ff85b03951897ad16",
+        "title": "Trump wants a deadlocked Congress to move on AI. Frustrated states say they already have",
+        "description": "State lawmakers have been stepping in to regulate artificial intelligence, clashing with the federal government's inaction as concerns about oversight and safety grow.",
+        "content": "In the absence of action on a federal level, states have been passing dozens of their own laws regulating artificial intelligence – creating guidelines for child safety, requiring more transparency from the technology and ensuring whistleblower prote... [6103 chars]",
+        "url": "https://www.npr.org/2026/03/28/nx-s1-5755062/trump-wants-a-deadlocked-congress-to-move-on-ai-frustrated-states-say-they-already-have",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4480x2520+0+232/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Ff0%2F5817bdc341bfb0bbdbfb2e0b61a3%2Fgettyimages-2268129717.jpg",
+        "publishedAt": "2026-03-28T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "b41851fb2662ea502db29f71ec4d1583",
+            "name": "NPR",
+            "url": "https://www.npr.org",
+            "country": "us"
+        }
+    },
+    {
         "id": "a4f1ad0d284077b7e6ffe7524de31263",
         "title": "AI in focus at Apple’s WWDC 2026 from June 8-12",
         "description": "Apple has announced that its annual Worldwide Developers Conference (WWDC) 2026 will take place from June 8 to 12, with a strong focus expected on artificial intelligence, new software updates and developer tools.",
@@ -125,38 +157,6 @@
             "name": "The Indian Express",
             "url": "https://indianexpress.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "9f83cfa78eb3468e47b5ac91c4cff3c9",
-        "title": "Can artificial intelligence understand faith?",
-        "description": "As AI grows more powerful, religious thinkers are asking whether machines can grasp faith, morality and human meaning.",
-        "content": "On a sunny morning in January, I buzzed the brass doorbell of the Pontifical Russian College, a terra cotta-colored building just a few minutes’ walk from Santa Maria Maggiore Basilica, one of Rome’s major churches. Once a training ground for Catholi... [23670 chars]",
-        "url": "https://www.deseret.com/magazine/2026/03/27/faith-and-artificial-intelligence/",
-        "image": "https://www.deseret.com/resizer/v2/MNCRTCVMPVALBLWMQZCQHOTRQE.jpeg?focal=1479%2C614&auth=26e8891319cfe6629ac3780bab30d8b4d7dae79dde2dcd42625bc57f81ae61d0&width=630&height=331",
-        "publishedAt": "2026-03-28T03:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "aaa6f2928e430ec2ed450ed89cc822f5",
-            "name": "Salt Lake City Deseret News",
-            "url": "https://www.deseret.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e8a15d10e27846aade399884f4abeec2",
-        "title": "AI helps identify childhood cancer survivors needing extra support",
-        "description": "Artificial intelligence (AI) could help physicians determine if survivors of childhood cancer need extra support - and the more information included in AI prompting, the better its performance.",
-        "content": "Artificial intelligence (AI) could help physicians determine if survivors of childhood cancer need extra support - and the more information included in AI prompting, the better its performance. This finding, published today in Communications Medicine... [4787 chars]",
-        "url": "https://www.news-medical.net/news/20260327/AI-helps-identify-childhood-cancer-survivors-needing-extra-support.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2026-03-28T02:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
         }
     }
 ]
