@@ -1,5 +1,21 @@
 [
     {
+        "id": "373a1bd0354a22db6df9fb3d3eeb396e",
+        "title": "AI is giving bad advice to flatter its users, says new study",
+        "description": "Artificial intelligence chatbots are so prone to flattering and validating their human users that they are giving bad advice that can damage relationships and r",
+        "content": "Artificial intelligence chatbots are so prone to flattering and validating their human users that they are giving bad advice that can damage relationships and reinforce harmful behaviors, according to a new study that explores the dangers of AI telli... [7493 chars]",
+        "url": "https://wjla.com/news/nation-world/ai-artificial-intelligence-overly-friengly-chatbot-agreeable-study-relations-harmful-behavior-science-convictions-sycophancy-choices-information-inaccurate-kids-teens-adults-doctors",
+        "image": "https://wjla.com/resources/media2/16x9/6000/1320/0x313/90/45ec7254-03a3-4b0a-b79f-f7939bc5ae43-GettyImages2261974003.jpg",
+        "publishedAt": "2026-03-28T00:23:04Z",
+        "lang": "en",
+        "source": {
+            "id": "2f5884e252590f739df55c0e7db375df",
+            "name": "WJLA",
+            "url": "https://wjla.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b59790c42fa90c52fcb12d581eecf0b8",
         "title": "Apple hires ex-Google executive to head AI marketing amid push to improve Siri",
         "description": "SAN FRANCISCO, ⁠March 27 (Reuters) - ⁠Apple on Friday said ‌it has hired Lilian Rincon, who previously spent ​nearly a ⁠decade at ⁠Google overseeing its shopping and ⁠assistant ‌products, as the ⁠vice president of product marketing ​for ‌artificial intelligence, reporting ⁠to ​its marketing chief Greg \"Joz\" Joswiak.",
@@ -141,22 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "0794d691c5435371a1246a4656b43de1",
-        "title": "Study warns of the dangers of overly agreeable AI chatbots",
-        "description": "Artificial intelligence chatbots are so prone to flattering and validating their human users that they are giving bad advice.",
-        "content": "The study found that a technological flaw already tied to some high-profile cases of delusional and suicidal behavior in vulnerable populations is also pervasive across a wide range of people’s interactions with chatbots. It’s subtle enough that they... [6566 chars]",
-        "url": "https://www.bostonglobe.com/2026/03/27/business/ai-chatbot-advice-study/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/J7I277R4SZGBZFDCH5XW47SIZI.jpg?auth=e385a2eef2ebc985887d47600a202761202c0b3bfdf59364f87a599704eb6d10&width=1440",
-        "publishedAt": "2026-03-27T19:36:25Z",
-        "lang": "en",
-        "source": {
-            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-            "name": "The Boston Globe",
-            "url": "https://www.bostonglobe.com",
-            "country": "us"
         }
     }
 ]
