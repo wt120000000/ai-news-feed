@@ -1,5 +1,21 @@
 [
     {
+        "id": "9f83cfa78eb3468e47b5ac91c4cff3c9",
+        "title": "Can artificial intelligence understand faith?",
+        "description": "As AI grows more powerful, religious thinkers are asking whether machines can grasp faith, morality and human meaning.",
+        "content": "On a sunny morning in January, I buzzed the brass doorbell of the Pontifical Russian College, a terra cotta-colored building just a few minutes’ walk from Santa Maria Maggiore Basilica, one of Rome’s major churches. Once a training ground for Catholi... [23670 chars]",
+        "url": "https://www.deseret.com/magazine/2026/03/27/faith-and-artificial-intelligence/",
+        "image": "https://www.deseret.com/resizer/v2/MNCRTCVMPVALBLWMQZCQHOTRQE.jpeg?focal=1479%2C614&auth=26e8891319cfe6629ac3780bab30d8b4d7dae79dde2dcd42625bc57f81ae61d0&width=630&height=331",
+        "publishedAt": "2026-03-28T03:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "aaa6f2928e430ec2ed450ed89cc822f5",
+            "name": "Salt Lake City Deseret News",
+            "url": "https://www.deseret.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "e8a15d10e27846aade399884f4abeec2",
         "title": "AI helps identify childhood cancer survivors needing extra support",
         "description": "Artificial intelligence (AI) could help physicians determine if survivors of childhood cancer need extra support - and the more information included in AI prompting, the better its performance.",
@@ -141,22 +157,6 @@
             "name": "WTOP",
             "url": "https://wtop.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "d111cd70591536c5ce0b5b8916c78b6b",
-        "title": "At 'Davos of energy', AI looks to gas to power its rapid expansion",
-        "description": "Natural gas took center stage this week at the world's largest energy conference, as major market players discussed how to power the rise of artificial intelligence. In the halls of CERAWeek, where around 10,000 experts and executives converged, attendees debated the fastest way to feed the burgeoning technology's massive energy…",
-        "content": "Natural gas took center stage this week at the world's largest energy conference, as major market players discussed how to power the rise of artificial intelligence.\nIn the halls of CERAWeek, where around 10,000 experts and executives converged, atte... [3951 chars]",
-        "url": "https://japantoday.com/category/tech/at-'davos-of-energy'-ai-looks-to-gas-to-power-its-rapid-expansion",
-        "image": "https://media.japantoday.com/img/store/79/3d/dd35c85a76497e6eaa05f6059fe8bc460551/5845bef75f60a9279784e98f2629255d8ccd33d3/_w1700.jpeg",
-        "publishedAt": "2026-03-27T20:18:12Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
