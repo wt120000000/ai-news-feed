@@ -1,5 +1,37 @@
 [
     {
+        "id": "574002dd80096fd934a1b140277e6d04",
+        "title": "Will iPhone still exist in 50 years, Apple says yes",
+        "description": "As Apple approaches its 50th anniversary, the company is turning its focus firmly to the future, betting on artificial intelligence and the enduring role of the iPhone to drive its next era of...",
+        "content": "As Apple approaches its 50th anniversary, the company is turning its focus firmly to the future, betting on artificial intelligence and the enduring role of the iPhone to drive its next era of growth.\nThe company's senior executives state that the co... [2200 chars]",
+        "url": "https://www.thenews.com.pk/latest/1396947-will-iphone-still-exist-in-50-years-apple-says-yes",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-03-28/1396947_120944_updates.jpg",
+        "publishedAt": "2026-03-28T07:07:39Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "f41075e2a0139975fb2955d8de1908d5",
+        "title": "AI chatbots getting worse at following instructions, new study warns",
+        "description": "Artificial intelligence, once developed to assist humans, is no longer under human control. AI chatbots have reportedly been defying human instructions more often than ever, thereby leading to a...",
+        "content": "Artificial intelligence, once developed to assist humans, is no longer under human control. AI chatbots have reportedly been defying human instructions more often than ever, thereby leading to a spike in rogue behaviours and deceptive scheming.\nAccor... [2154 chars]",
+        "url": "https://www.thenews.com.pk/latest/1396941-ai-chatbots-getting-worse-at-following-instructions-new-study-warns",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-03-28/1396941_114715_updates.jpg",
+        "publishedAt": "2026-03-28T06:47:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
         "id": "9fa3b90bcba389cf8889b71471d9f7a9",
         "title": "Global Artificial Intelligence Confluence 2026 Unites Minds for Innovation",
         "description": "The Global AI Confluence 2026 at Deen Dayal Upadhyaya Gorakhpur University convened over 180 delegates from 26 countries. The event focused on AI innovation and its socio-economic impacts. Key speakers highlighted ethical AI use and stressed the importance of indigenous AI models to prevent global monopolies.",
@@ -125,38 +157,6 @@
             "name": "WJLA",
             "url": "https://wjla.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "b59790c42fa90c52fcb12d581eecf0b8",
-        "title": "Apple hires ex-Google executive to head AI marketing amid push to improve Siri",
-        "description": "SAN FRANCISCO, ⁠March 27 (Reuters) - ⁠Apple on Friday said ‌it has hired Lilian Rincon, who previously spent ​nearly a ⁠decade at ⁠Google overseeing its shopping and ⁠assistant ‌products, as the ⁠vice president of product marketing ​for ‌artificial intelligence, reporting ⁠to ​its marketing chief Greg \"Joz\" Joswiak.",
-        "content": "SAN FRANCISCO, ⁠March 27 (Reuters) - ⁠Apple on Friday said ‌it has hired Lilian Rincon, who previously spent ​nearly a ⁠decade at ⁠Google overseeing its shopping and ⁠assistant ‌products, as the ⁠vice president of product marketing ​for ‌artificial i... [314 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/03/28/apple-hires-ex-google-executive-to-head-ai-marketing-amid-push-to-improve-siri",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/28/3833651.jpg",
-        "publishedAt": "2026-03-27T23:23:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "cdfb259d4799d428af350ecf426a74b1",
-        "title": "65 booked for circulating obscene, AI-morphed videos in Kharat case",
-        "description": "Officials stated that some users had even utilised artificial intelligence tools to manipulate images and create objectionable content",
-        "content": "According to sources from the cyber police station, a monitoring exercise across social media platforms, including Facebook, Instagram, and X, uncovered widespread sharing of sensitive and explicit material that not only violated the privacy of the v... [1301 chars]",
-        "url": "https://www.hindustantimes.com/cities/pune-news/65-booked-for-circulating-obscene-ai-morphed-videos-in-kharat-case-101774636354277.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/03/27/550x309/Nashik-police-on-Friday-booked-at-least-65-people-_1774636352154.jpg",
-        "publishedAt": "2026-03-27T23:14:02Z",
-        "lang": "en",
-        "source": {
-            "id": "21468bec836de1ebb209ff6f78fbfe3e",
-            "name": "Hindustan Times",
-            "url": "https://www.hindustantimes.com",
-            "country": "in"
         }
     }
 ]
