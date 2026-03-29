@@ -1,5 +1,37 @@
 [
     {
+        "id": "2a687a417086f611a4738e8aa97582c3",
+        "title": "Stock markets and AI: How to use artificial intelligence tools to up your investing game",
+        "description": "Discover how AI tools can enhance personal finance and investing strategies while navigating their limitations for optimal success.",
+        "content": "Artificial intelligence (AI) is here and the world as we knew is changing rapidly. AI tools have evolved greatly and are complementing workflows in all disciplines. The software industry is a good example. Gone are the days where knowledge of syntaxe... [10965 chars]",
+        "url": "https://www.thehindubusinessline.com/portfolio/big-story/prompt-engineering-your-way-to-investing-success/article70796104.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/4vrpei/article70796181.ece/alternates/LANDSCAPE_1200/PO29_BS_AI_data_1.jpg",
+        "publishedAt": "2026-03-28T17:21:12Z",
+        "lang": "en",
+        "source": {
+            "id": "680f00482cbf9f314921fefd917871d9",
+            "name": "The Hindu Business Line",
+            "url": "https://www.thehindubusinessline.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "4d6027cbd8e5fa8489b0324afcd9913b",
+        "title": "Google Alters News Headlines Without Publisher Consent, Reports Indicate",
+        "description": "Introduction Google has begun testing a feature that rewrites article headlines in its search results without seeking permission or notifying the original publishers, according to recent reports. [1] The experiment, which uses artificial intelligence to modify or summarize headlines, was announced in late March 2026 and has sparked immediate concern among media executives and industry […]",
+        "content": "Introduction\nGoogle has begun testing a feature that rewrites article headlines in its search results without seeking permission or notifying the original publishers, according to recent reports. [1] The experiment, which uses artificial intelligence... [7161 chars]",
+        "url": "https://www.naturalnews.com/2026-03-28-google-alters-news-headlines-without-publisher-content.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/03/algorithmic-content-modification-search-engine-practices-publisher-consent-707-original.jpg",
+        "publishedAt": "2026-03-28T17:20:07Z",
+        "lang": "en",
+        "source": {
+            "id": "188e9ebf53d05fc7ba360240a0b28154",
+            "name": "Natural News",
+            "url": "https://www.naturalnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f0e7e8db8d52bf880839b9f41d2617c0",
         "title": "Global AI Confluence 2026 Unites Students for a Tech-Powered Future",
         "description": "Over 180 international students from 26 countries participated in India's 'Global Artificial Intelligence Confluence 2026.' The event focused on AI's socio-economic impact, ethical values, and global innovation. Experts emphasized creating indigenous AI models and discussed concerns like data privacy and misinformation. The conference concluded at Guru Gorakshnath Research Centre auditorium.",
@@ -125,38 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "9b169a67980bb709cbeecaf38603f2b5",
-        "title": "Artificial intelligence can’t deliver justice; tech must remain enabler in courts: Judges",
-        "description": "'Technology should not ultimately make justice a casualty,' says Justice Augustine George Masih of the Supreme Court.",
-        "content": "Cautioning against over-reliance on artificial intelligence in courts, Justice Augustine George Masih of the Supreme Court and Punjab and Haryana High Court Chief Justice Sheel Nagu on Saturday asserted that technology might assist judicial processes... [6682 chars]",
-        "url": "https://www.tribuneindia.com/news/chandigarh/artificial-intelligence-cant-deliver-justice-tech-must-remain-enabler-in-courts-judges/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTMyMjhiOWEwLTJhYWItMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-        "publishedAt": "2026-03-28T13:36:45Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d9d13e82df705821a41b261bd4de18b7",
-        "title": "College students are writing with AI, but a pilot study finds they're not simply letting it write for them",
-        "description": "Debates about generative AI in higher education have been informed by studies of completed student papers, or self-reported survey data. Research shows that artificial intelligence tools can support learning, but has also raised concerns, including students' overreliance, cheating, and the potential degradation of critical thinking and engagement.",
-        "content": "Debates about generative AI in higher education have been informed by studies of completed student papers, or self-reported survey data. Research shows that artificial intelligence tools can support learning, but has also raised concerns, including s... [6016 chars]",
-        "url": "https://phys.org/news/2026-03-college-students-ai-theyre-simply.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/student-using-ai.jpg",
-        "publishedAt": "2026-03-28T13:30:01Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
         }
     }
 ]
