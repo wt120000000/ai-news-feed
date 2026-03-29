@@ -1,5 +1,37 @@
 [
     {
+        "id": "34f921dbe3ec9b854e819ac351006e5d",
+        "title": "India’s ecosystem strategy in the global AI race",
+        "description": "By Suhaib Bakshi bakshisuhaib094@gmail.com Artificial intelligence is rapidly emerging as one of the most consequential technologies shaping the global economy. For India, the central challenge is not only how to develop advanced AI systems but also how to ensure that the technology contributes meaningfully to economic growth, productivity and public services. Much of the global conversation around artificial intelligence has focused on the race to build ever larger frontier models, with major advances coming from countries such as the […]",
+        "content": "By Suhaib Bakshi\nbakshisuhaib094@gmail.com\nArtificial intelligence is rapidly emerging as one of the most consequential technologies shaping the global economy. For India, the central challenge is not only how to develop advanced AI systems but also ... [7280 chars]",
+        "url": "https://www.dailyexcelsior.com/indias-ecosystem-strategy-in-the-global-ai-race/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/03/ai-1.gif",
+        "publishedAt": "2026-03-28T22:30:23Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "46468b24787000b1c8b16f6637cfcae0",
+        "title": "Gilles Arsenault removed from P.E.I. cabinet",
+        "description": "Gilles Arsenault has been removed as minister of economic development, trade and artificial intelligence and minister responsible for Acadian and francophone affairs, according to a statement by Premier Rob Lantz Saturday.",
+        "content": "Gilles Arsenault has been removed as minister of economic development, trade and artificial intelligence and minister responsible for Acadian and francophone affairs, according to a statement by Premier Rob Lantz Saturday.\nLantz stated the removal fo... [962 chars]",
+        "url": "https://www.cp24.com/news/canada/2026/03/28/gilles-arsenault-removed-from-pei-cabinet/",
+        "image": "https://www.cp24.com/resizer/v2/FSEMUKNYOVBCPL4IYFFFZE3E7E.jpeg?smart=true&auth=aa1ff22672f6048b7dd1c2764a0b1a5a456948f96bd8c22a2f9bc686e7f44749&width=1200&height=630",
+        "publishedAt": "2026-03-28T21:55:58Z",
+        "lang": "en",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com",
+            "country": "ca"
+        }
+    },
+    {
         "id": "323b6468575ffc6df8ff45320057f5dd",
         "title": "South China Morning Post",
         "description": "It’s time Southeast Asia reckoned with the weaponisation of artificial intelligence and what it means for the region’s security.",
@@ -125,38 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "20ab326bf1b4bc70513c8a893febdd8c",
-        "title": "Ripple turns to AI to strengthen XRP Ledger security",
-        "description": "Ripple has announced plans for a major overhaul of its security strategy for the XRP Ledger, incorporating input from artificial intelligence",
-        "content": "Blockchain firm Ripple has announced plans for a major overhaul of its security strategy for the XRP Ledger, incorporating input from artificial intelligence.\nIn this move, the company is introducing AI-driven tools to proactively identify and fix vu... [2382 chars]",
-        "url": "https://finbold.com/ripple-turns-to-ai-to-strengthen-xrp-ledger-security/",
-        "image": "https://assets.finbold.com/uploads/2026/03/Ripple-turns-to-AI-to-strengthen-XRP-Ledger-security-.jpg",
-        "publishedAt": "2026-03-28T14:02:43Z",
-        "lang": "en",
-        "source": {
-            "id": "72ea416416ab0eec8fe687d6262961e8",
-            "name": "Finbold",
-            "url": "https://finbold.com",
-            "country": "bg"
-        }
-    },
-    {
-        "id": "2ad43087fb6d57edf838c695be980617",
-        "title": "Victim Of Jeffrey Epstein Files Class-Action Lawsuit Against Google",
-        "description": "A new lawsuit alleges that Google's artificial intelligence improperly published private information of Jeffrey Epstein's victims.",
-        "content": "There's more legal trouble brewing for Google, as a victim of Jeffrey Epstein has filed a class action suit against the world's largest search engine, alleging its AI Mode improperly published personal information about sex trafficking victims.\nThe p... [2067 chars]",
-        "url": "https://in.mashable.com/tech/107722/victim-of-jeffrey-epstein-files-class-action-lawsuit-against-google",
-        "image": "https://sm.mashable.com/t/mashable_in/news/v/victim-of-/victim-of-jeffrey-epstein-files-class-action-lawsuit-against_k8cd.1200.jpg",
-        "publishedAt": "2026-03-28T14:01:36Z",
-        "lang": "en",
-        "source": {
-            "id": "e894895ef041ab9c6cb7fe7223531f53",
-            "name": "Mashable India",
-            "url": "https://in.mashable.com",
-            "country": "in"
         }
     }
 ]
