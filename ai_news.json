@@ -1,5 +1,21 @@
 [
     {
+        "id": "0a57b55666b6e0bed18512448eccd1eb",
+        "title": "At 50, Apple confronts its next big challenge: AI",
+        "description": "Apple celebrates its 50th anniversary as artificial intelligence challenges the Silicon Valley legend to prove it can deliver yet another culture-changing innovation. Steve Jobs, a driven marketing genius, and Steve Wozniak, who invented the Apple computer, revolutionized how people use technology in the internet age and built a company now…",
+        "content": "Apple celebrates its 50th anniversary as artificial intelligence challenges the Silicon Valley legend to prove it can deliver yet another culture-changing innovation.\nSteve Jobs, a driven marketing genius, and Steve Wozniak, who invented the Apple co... [4226 chars]",
+        "url": "https://japantoday.com/category/tech/at-50-apple-confronts-its-next-big-challenge-ai",
+        "image": "https://media.japantoday.com/img/store/ea/9d/8eff66a409e1d8c96091c24e6d2cddf8be2b/dfbc5059a587e2f2d932b7461949cb244ce541c9/_w1700.jpeg",
+        "publishedAt": "2026-03-29T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "167f1588dbeb3d663ac81051c46c705a",
         "title": "Judges back AI for efficiency, but warn against ‘robo justice’ without safeguards",
         "description": "Even as courts turn to technology to ease backlog and improve decisions, High Court judges on Sunday said artificial intelligence (AI) could significantly aid justice delivery, but human judgment could remain central.",
@@ -141,22 +157,6 @@
             "name": "NBC News",
             "url": "https://www.nbcnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "a32ef793129e6b2379050d8b3fc9bef1",
-        "title": "AI expert drops brutal truth about kids' future: 'Save money for them'",
-        "description": "Trending News: Artificial intelligence is changing fast, and people are starting to feel it in everyday life. From how we work to how we learn, everything is slowly .",
-        "content": "Artificial intelligence is changing fast, and people are starting to feel it in everyday life. From how we work to how we learn, everything is slowly shifting. In the middle of all these changes, one concern is becoming more common among parents. Wha... [4351 chars]",
-        "url": "https://timesofindia.indiatimes.com/etimes/trending/ai-expert-drops-brutal-truth-about-kids-future-save-money-for-them/articleshow/129881126.cms",
-        "image": "https://static.toiimg.com/thumb/msid-129881129,width-1280,height-720,imgsize-88568,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-03-29T13:12:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
