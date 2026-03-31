@@ -1,5 +1,53 @@
 [
     {
+        "id": "e41d241386a78fd426804a876227c841",
+        "title": "States Plow Ahead With A.I. Regulation, Defying Trump",
+        "description": "The battle over who should regulate artificial intelligence is turning into an epic clash between President Trump and states like California and Utah.",
+        "content": "This month, President Trump warned states not to get involved in regulating artificial intelligence. In a set of policy guidelines, the White House said a “patchwork of conflicting state laws would undermine American innovation and our ability to lea... [1797 chars]",
+        "url": "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html",
+        "image": "https://static01.nyt.com/images/2026/03/30/multimedia/30biz-AI-STATES-newsom-promo-1-qvmw/30biz-AI-STATES-newsom-promo-1-qvmw-facebookJumbo.jpg",
+        "publishedAt": "2026-03-30T21:00:38Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e3cf833dd8de5d6d9f182273c78914d6",
+        "title": "Yahoo turns to AI-powered answer engine Scout to lead it back to its roots in online search",
+        "description": "Internet trailblazer Yahoo is exploring technology's next frontier with Scout, an answer engine powered by artificial intelligence. Scout seems insightful, based on its response to a question posed by The Associated Press about why one of Silicon Valley's brightest stars faded away a decade ago. “Yahoo’s journey illustrates how a…",
+        "content": "Internet trailblazer Yahoo is exploring technology's next frontier with Scout, an answer engine powered by artificial intelligence. Scout seems insightful, based on its response to a question posed by The Associated Press about why one of Silicon Val... [6246 chars]",
+        "url": "https://japantoday.com/category/tech/yahoo-turns-to-ai-powered-answer-engine-scout-to-lead-it-back-it-its-roots-in-online-search",
+        "image": "https://media.japantoday.com/img/store/e7/53/dec229114c35ff77c38abc077e542e438d5c/download/_w1700.jpeg",
+        "publishedAt": "2026-03-30T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "74c5544a057cfebe324688730b2e3139",
+        "title": "Quinnipiac Poll: 80% Concerned About AI",
+        "description": "A new national poll shows growing skepticism about the impact of artificial intelligence.",
+        "content": "Americans are rapidly adopting artificial intelligence tools in their daily lives, but a new national poll shows growing skepticism about the technology's impact, with majorities expressing concern about jobs, trust, and regulation.\nThe Quinnipiac Un... [2582 chars]",
+        "url": "https://www.newsmax.com/politics/ai-poll-jobs/2026/03/30/id/1251285/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=5f5d127e-1d4b-4177-bb09-cd3689360c1c&SiteName=Newsmax",
+        "publishedAt": "2026-03-30T19:21:43Z",
+        "lang": "en",
+        "source": {
+            "id": "a8984f03fe66dae9745793f6560aa444",
+            "name": "Newsmax",
+            "url": "https://www.newsmax.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "31aae4424020bd986503b82bd0beb417",
         "title": "Data centres' alarming impact on the environment: scientists",
         "description": "The vast data centres that power artificial intelligence guzzle huge amounts of energy but they also have another alarming impact, according to new research. They are creating “heat islands,” warming the land around them by up to 16 degrees Fahrenheit, and making life hotter for more than 340 million people.",
@@ -108,54 +156,6 @@
             "id": "c5725557f39c24c8b029ee39900a8406",
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "ab149c106b31ecb507730b270891e21b",
-        "title": "Artificial Intelligence in Agriculture Market Size & Revenue to Reach USD 11.59 Billion by 2032, Growing at 21.5% CAGR, Reports Maximize Market Research",
-        "description": "/PRNewswire/ -- Global Artificial Intelligence in Agriculture Market size was valued at USD 2.96 Billion in 2025, and its market size and revenue are projected...",
-        "content": "PUNE, India, March 30, 2026 /PRNewswire/ -- Global Artificial Intelligence in Agriculture Market size was valued at USD 2.96 Billion in 2025, and its market size and revenue are projected to expand at a robust CAGR of 21.5% from 2025 to 2032, reachin... [13149 chars]",
-        "url": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-agriculture-market-size--revenue-to-reach-usd-11-59-billion-by-2032--growing-at-21-5-cagr-reports-maximize-market-research-302728700.html",
-        "image": "https://mma.prnewswire.com/media/2945547/Global_Artificial_Intelligence.jpg?p=facebook",
-        "publishedAt": "2026-03-30T14:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "f4d035ae0463df22c36ae97972a33ba6",
-            "name": "PR Newswire UK",
-            "url": "https://www.prnewswire.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "a4ac6202fae732e934fe7ef188347ed8",
-        "title": "Deep learning reveals how auditory cortex neurons split up natural sound coding",
-        "description": "Over the past decades, computer scientists have introduced numerous artificial intelligence (AI) systems designed to emulate the organization and functioning of networks of neurons in the brain. Recently, some of these models have also proved useful for studying the brain, its underlying neural mechanisms, and how it supports specific functions.",
-        "content": "Over the past decades, computer scientists have introduced numerous artificial intelligence (AI) systems designed to emulate the organization and functioning of networks of neurons in the brain. Recently, some of these models have also proved useful ... [4898 chars]",
-        "url": "https://medicalxpress.com/news/2026-03-deep-reveals-auditory-cortex-neurons.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/using-ai-to-understand.jpg",
-        "publishedAt": "2026-03-30T14:20:04Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "fc55b0b26f81deaee4e1777613964e31",
-        "title": "Death of the junior developer: How AI is forcing colleges and students to pivot",
-        "description": "Artificial intelligence is transforming entry-level software roles by automating routine tasks. And there is a visible drop in the hiring of freshers for low-complexity, rule-based roles. Students now need new skills to become employable.",
-        "content": "“Earlier, if you wanted to build anything in tech, you needed to know programming languages,” he says. “Now I can just describe what I want in simple English and get something working.”\nCoding was for long the gatekeeper that determined who could bui... [11614 chars]",
-        "url": "https://www.livemint.com/ai/ai-coding-impact-india-engineering-students-11774873410076.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/long_AI_1774880243438_1774880248531_1774880290866.jpg",
-        "publishedAt": "2026-03-30T14:18:35Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
             "country": "in"
         }
     }
