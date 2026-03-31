@@ -1,5 +1,37 @@
 [
     {
+        "id": "00b73a2567ea90975d36f3bca2066dd9",
+        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Big Tech Faces Financial Pressure Amid AI Investment Boom",
+        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
+        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
+        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
+        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
+        "publishedAt": "2026-03-30T23:32:57Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "921af869533621fe851d0925121a770f",
+        "title": "AI race enters a new phase",
+        "description": "A new frontier is shaping up for companies that want to make money with artificial intelligence.",
+        "content": "Just as Chinese AI chatbots similar to ChatGPT seem to be catching up to their U.S. peers, a new race is shaping up: industry-specific artificial intelligence.\nThat's what companies in China are focusing on, as they pursue AI-driven revenue growth. I... [3259 chars]",
+        "url": "https://www.cnbc.com/2026/03/31/cnbcs-china-connection-newsletter-ai-race-enters-a-new-phase.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108284576-1774851674022-gettyimages-2259191292-vcg111618332056.jpeg?v=1774851733&w=1920&h=1080",
+        "publishedAt": "2026-03-30T23:03:38Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "2a2f525fb20397d05bfc96315d8a787e",
         "title": "Credit Wobbles Could Prove Perilous for Trump",
         "description": "At a meeting of the Financial Stability Oversight Council this month, Trump administration officials moved ahead with plans to scale back scrutiny of hedge funds, encouraged financial firms to experiment with artificial intelligence and lamented the burden of onerous regulation.",
@@ -124,38 +156,6 @@
             "id": "e553cce06d349ac1f7fbb7618a979256",
             "name": "The New York Times",
             "url": "https://www.nytimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e3cf833dd8de5d6d9f182273c78914d6",
-        "title": "Yahoo turns to AI-powered answer engine Scout to lead it back to its roots in online search",
-        "description": "Internet trailblazer Yahoo is exploring technology's next frontier with Scout, an answer engine powered by artificial intelligence. Scout seems insightful, based on its response to a question posed by The Associated Press about why one of Silicon Valley's brightest stars faded away a decade ago. “Yahoo’s journey illustrates how a…",
-        "content": "Internet trailblazer Yahoo is exploring technology's next frontier with Scout, an answer engine powered by artificial intelligence. Scout seems insightful, based on its response to a question posed by The Associated Press about why one of Silicon Val... [6246 chars]",
-        "url": "https://japantoday.com/category/tech/yahoo-turns-to-ai-powered-answer-engine-scout-to-lead-it-back-it-its-roots-in-online-search",
-        "image": "https://media.japantoday.com/img/store/e7/53/dec229114c35ff77c38abc077e542e438d5c/download/_w1700.jpeg",
-        "publishedAt": "2026-03-30T21:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "74c5544a057cfebe324688730b2e3139",
-        "title": "Quinnipiac Poll: 80% Concerned About AI",
-        "description": "A new national poll shows growing skepticism about the impact of artificial intelligence.",
-        "content": "Americans are rapidly adopting artificial intelligence tools in their daily lives, but a new national poll shows growing skepticism about the technology's impact, with majorities expressing concern about jobs, trust, and regulation.\nThe Quinnipiac Un... [2582 chars]",
-        "url": "https://www.newsmax.com/politics/ai-poll-jobs/2026/03/30/id/1251285/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=5f5d127e-1d4b-4177-bb09-cd3689360c1c&SiteName=Newsmax",
-        "publishedAt": "2026-03-30T19:21:43Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
             "country": "us"
         }
     }
