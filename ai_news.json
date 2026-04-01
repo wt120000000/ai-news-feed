@@ -1,5 +1,85 @@
 [
     {
+        "id": "953a6cc52f99ef8be5ad91327af54f2b",
+        "title": "AI data centres may be heating nearby areas, new study warns",
+        "description": "Researchers say the infrastructure powering artificial intelligence could be raising local temperatures more than expected",
+        "content": "The rapid expansion of artificial intelligence has brought with it a growing network of data centres, but new research suggests these facilities may be having a visible impact on their surroundings.\nA study involving researchers from the University o... [1963 chars]",
+        "url": "https://www.moneycontrol.com/news/trends/ai-data-centres-may-be-heating-nearby-areas-new-study-warns-13876463.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260401064719_gfxdhfdch.jpg",
+        "publishedAt": "2026-04-01T06:47:52Z",
+        "lang": "en",
+        "source": {
+            "id": "fd3677545b80d5db7541de8e111d27ba",
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "bc0ba89b40eb992b6e1565334ae64aae",
+        "title": "Huawei Cloud Rolls Out MaaS in Thailand, Boosting AI Transformation",
+        "description": "Bangkok, March 31, 2026 – Huawei Cloud hosted Huawei Cloud Thailand AI Boost Day 2026 to showcase its vision for advancing the next generation of artificial intelligence (AI) through the introduction of Agentic AI—a new paradigm that redefines AI applications from passive response systems to intelligent agents capable of proactive planning and executing complex tasks. The event also featured the official launch of Model as a Service (MaaS) in Thailand. Huawei Cloud’s MaaS is designed to address key enterprise scenarios, including large language models, coding and multimodal applications.",
+        "content": "Bangkok, March 31, 2026 – Huawei Cloud hosted Huawei Cloud Thailand AI Boost Day 2026 to showcase its vision for advancing the next generation of artificial intelligence (AI) through the introduction of Agentic AI—a new paradigm that redefines AI app... [5045 chars]",
+        "url": "https://www.bangkokpost.com/thailand/pr/3228698/huawei-cloud-rolls-out-maas-in-thailand-boosting-ai-transformation",
+        "image": "https://static.bangkokpost.com/media/content/20260401/c1_3228698_700.jpg",
+        "publishedAt": "2026-04-01T06:32:00Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
+        "id": "75a90610bce24f8013ca32810ba43fdc",
+        "title": "Does the AI business model have a fatal flaw?",
+        "description": "Hundreds of billions of dollars are riding on the assumption that artificial intelligence will be reliable enough for high-stakes work. New research suggests it may never be.",
+        "content": "LONDON, April 1 (Reuters) - Hundreds of billions of dollars are riding on the assumption that artificial intelligence will be reliable enough for high-stakes work. New research suggests it may never be.\nThe AI tools that power ChatGPT and its rivals ... [4241 chars]",
+        "url": "https://www.reuters.com/technology/does-ai-business-model-have-fatal-flaw-2026-04-01/",
+        "image": "https://www.reuters.com/resizer/v2/7NGAKHYXE5LGZAGUYX7XDXDTXI.jpg?auth=cd40684b61ae5338ca4420a602f262f5f193898eb7b7c4d04fff39f03214eee6&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-04-01T06:07:31Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a32743f7aa4b72db84f156043aca2f2d",
+        "title": "Oracle trims workforce, thousands impacted, report flags wider cuts",
+        "description": "The layoffs come as the cloud computing firm ramps up spending on artificial intelligence infrastructure to better compete with rivals such as Alphabet and Amazon",
+        "content": "Cloud computing firm Oracle is laying off thousands of employees, CNBC reported on Tuesday, citing two people familiar with the matter.\nLate on Tuesday, Oracle said it will lay off 491 employees working remotely in Washington state and at its Seattle... [1545 chars]",
+        "url": "https://www.telegraphindia.com/business/oracle-trims-workforce-thousands-impacted-report-flags-wider-cuts/cid/2154131",
+        "image": "https://assets.telegraphindia.com/telegraph/2026/Apr/1775023306_oracle-layoffs.gif",
+        "publishedAt": "2026-04-01T06:02:43Z",
+        "lang": "en",
+        "source": {
+            "id": "93a4f054e09bde095cda5265e575a952",
+            "name": "Telegraph India",
+            "url": "https://www.telegraphindia.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "46148297e3922a4d0da5fa71deaa2797",
+        "title": "AI Hallucinations: A Challenge Too Costly to Ignore",
+        "description": "The reliance on artificial intelligence (AI) for critical tasks is shaken by new findings that suggest AI-induced hallucinations are unavoidable. Despite being productivity-enhancing, large language models frequently produce incorrect outputs, posing significant risks in applications demanding accuracy, like accounting and law, and challenging optimistic projections for AI-driven efficiencies.",
+        "content": "Recent research raises doubts about the reliability of artificial intelligence in high-stakes tasks. Large language models (LLMs), driving tools like ChatGPT, are widely recognized for enhancing productivity but are plagued by a tendency to hallucina... [739 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3858041-ai-hallucinations-a-challenge-too-costly-to-ignore",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/29_08_2025_13_06_21_889364.png?width=920&format=jpeg",
+        "publishedAt": "2026-04-01T06:00:36Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "628b24e7869010b99ab0b8e844752ea6",
         "title": "Oracle layoffs impact over 2,500 in India; 30,000 get pink slips globally",
         "description": "Oracle's global layoffs have reached India, with over 2,500 employees impacted as the company sharpens its focus on artificial intelligence and ramps up infrastructure investments",
@@ -71,86 +151,6 @@
         "url": "https://indianexpress.com/article/technology/tech-news-technology/apples-50-year-journey-from-garage-to-tech-titan-10612769/",
         "image": "https://images.indianexpress.com/2026/02/IE-2026-02-17T113919.305.jpg",
         "publishedAt": "2026-04-01T03:59:05Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "617dafaff91229fd10069ebccc7f3c7e",
-        "title": "Advocacy groups urge YouTube to protect kids from 'AI slop' videos",
-        "description": "Advocacy groups and experts have slammed YouTube for serving up low-quality artificial intelligence-generated videos to its most vulnerable audience:",
-        "content": "Advocacy groups and experts have slammed YouTube for serving up low-quality artificial intelligence-generated videos to its most vulnerable audience: children\nAdvocacy groups urge YouTube to protect kids from ‘AI slop’ videosBy KAITLYN HUAMANIAP Tech... [4312 chars]",
-        "url": "https://www.breitbart.com/news/advocacy-groups-urge-youtube-to-protect-kids-from-ai-slop-videos/",
-        "image": "https://media.breitbart.com/media/2026/04/wi/ap/ai-slop-kids-97395-ai-slop-kids-icons-youtube-kids-youtube-apps-displayed-smartphone-yor-640x335.jpg",
-        "publishedAt": "2026-04-01T03:56:37Z",
-        "lang": "en",
-        "source": {
-            "id": "85b540771682043e2a9f294068f5345b",
-            "name": "Breitbart News Network",
-            "url": "https://www.breitbart.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5296bcc0c0d18278b95bdbb4a5992ecf",
-        "title": "Teens Don‘t Worry About AI. Should They?",
-        "description": "(NAPSI)—A new survey of U.S. teens by Junior Achievement USA (JA)—long a leader in experiential learning—and global research firm Ipsos shows that 73 percent believe AI (Artificial Intelligence) will have",
-        "content": "...WINTER WEATHER ADVISORY IN EFFECT FROM 1 AM THURSDAY TO 7 AM CDT FRIDAY... * WHAT...Mixed precipitation expected. Total snow and sleet accumulations between 3 and 5 inches except between 5 and 7 inches for northern Bayfield County and between 3 an... [984 chars]",
-        "url": "https://www.apg-wi.com/online_features/community_cares/teens-don-t-worry-about-ai-should-they/article_e9ad25f4-f820-579b-b9e2-7a0174a03e7b.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/apg-wi.com/content/tncms/assets/v3/editorial/6/1c/61c4eb05-5213-5801-abb6-c49fedd773b0/69c6339689c4e.image.jpg?crop=613%2C322%2C0%2C43",
-        "publishedAt": "2026-04-01T03:45:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1f12cbd96a5e81993e89c183ea1216a5",
-            "name": "APG-WI",
-            "url": "https://www.apg-wi.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f6bdd34d8e5eda9eb473584258da58c2",
-        "title": "Federal Reserve Chair Jerome Powell to students: Stop worrying about AI and start learning ...",
-        "description": "Tech News News: Federal Reserve Chair Jerome Powell urged students to focus on learning artificial intelligence (AI) tools rather than worrying about their impact on .",
-        "content": "Federal Reserve Chair Jerome Powell urged students to focus on learning artificial intelligence (AI) tools rather than worrying about their impact on jobs. Speaking to nearly 400 Harvard economics students, Powell said young people are entering a dif... [2327 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/federal-reserve-chair-jerome-powell-to-students-stop-worrying-about-ai-and-start-learning-/articleshow/129931478.cms",
-        "image": "https://static.toiimg.com/thumb/msid-129931463,width-1280,height-720,imgsize-46380,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-01T03:12:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1310d6a95b87b8c200c3739f312952ee",
-        "title": "AI giant Anthropic says 'exploring' Australia data centre investments",
-        "description": "SYDNEY, Australia — Artificial intelligence giant Anthropic is eyeing data centre investments in Australia, saying Wednesday the nation was a 'natural partner' for work in the booming sector.",
-        "content": "SYDNEY, Australia — Artificial intelligence giant Anthropic is eyeing data centre investments in Australia, saying Wednesday the nation was a \"natural partner\" for work in the booming sector.\nWith immense renewable energy potential and vast stretches... [2387 chars]",
-        "url": "https://www.manilatimes.net/2026/04/01/world/asia-oceania/ai-giant-anthropic-says-exploring-australia-data-centre-investments/2312172",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/01/996890.jpg",
-        "publishedAt": "2026-04-01T02:59:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "46ccdb4851d9cf675361ed87e9ea696c",
-        "title": "Oracle set to cut thousands of jobs amid rising AI investments and cost pressures",
-        "description": "Oracle has reportedly begun laying off employees across multiple teams as it ramps up spending on artificial intelligence infrastructure.",
-        "content": "Employees began receiving notifications early on Tuesday. The latest round of layoffs seems to have impacted Oracle’s employees worldwide. “After careful consideration of Oracle’s current business needs, we have made the decision to eliminate your ro... [2282 chars]",
-        "url": "https://indianexpress.com/article/technology/artificial-intelligence/oracle-set-to-cut-thousands-of-jobs-amid-rising-ai-investments-and-cost-pressures-10612701/",
-        "image": "https://images.indianexpress.com/2025/01/oracle.jpg",
-        "publishedAt": "2026-04-01T02:46:01Z",
         "lang": "en",
         "source": {
             "id": "6a3aad3dbb44ac873f72b594aaea22c4",
