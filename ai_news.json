@@ -1,5 +1,85 @@
 [
     {
+        "id": "ffe2e8ddf7d475cbb2b1f6ca5c6c26b9",
+        "title": "US job-cut announcements in tech keep rising with AI adoption",
+        "description": "Layoff announcements at technology companies continued to mount in March, leading other industries in overall US job-cut plans as investment in artificial intelligence catalyses leaner staffing levels.",
+        "content": "Layoff announcements at technology companies continued to mount in March, leading other industries in overall US job-cut plans as investment in artificial intelligence catalyses leaner staffing levels.\nEmployers in the technology sector announced 18,... [1911 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/03/us-job-cut-announcements-in-tech-keep-rising-with-ai-adoption",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/03/3842285.jpg",
+        "publishedAt": "2026-04-03T05:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "f4d675fd1ff1057b4022780281c7c3b5",
+        "title": "OpenAI buys tech talk show TBPN as it builds out communication strategy",
+        "description": "OpenAI has acquired TBPN, a Silicon Valley tech talk show, as it looks to expand its communication strategy and engage audiences around artificial intelligence.",
+        "content": "OpenAI has acquired technology talk show TBPN as it looks to refine how it communicates with audiences beyond its core products.\nAccording to an Apr. 2 announcement, the deal brings the Los Angeles-based program under OpenAI’s umbrella. Financial ter... [1563 chars]",
+        "url": "https://crypto.news/openai-buys-tech-talk-show-tbpn-as-it-builds-out-communication-strategy/",
+        "image": "https://media.crypto.news/2025/11/crypto-news-The-next-standard-in-blockchain-is-code-neutrality-option02.webp",
+        "publishedAt": "2026-04-03T05:27:04Z",
+        "lang": "en",
+        "source": {
+            "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+            "name": "Crypto News",
+            "url": "https://crypto.news",
+            "country": "lt"
+        }
+    },
+    {
+        "id": "e6d3ae25e5efdceda79a8319df0798f7",
+        "title": "Texas should plan for managing data center growth",
+        "description": "Driven by the boom in artificial intelligence, Texas’ data center load is expected to more than double by 2028.",
+        "content": "As more data centers come online in Texas, conversations about how to plan for and oversee these facilities should be a priority for the 2027 legislative session.\nEvery chatbot response, photo stored in the cloud and text message sent depends on vast... [1949 chars]",
+        "url": "https://www.dallasnews.com/opinion/editorials/article/texas-make-plan-managing-data-center-growth-22185912.php",
+        "image": "https://s.hdnux.com/photos/01/65/40/72/30805659/3/rawImage.jpg",
+        "publishedAt": "2026-04-03T05:02:00Z",
+        "lang": "en",
+        "source": {
+            "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+            "name": "The Dallas Morning News",
+            "url": "https://www.dallasnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a17b5a85fa979e535c9f74dcae268ad3",
+        "title": "Fertility Clinic Chain Leads the Way With AI-Powered Infertility Solutions",
+        "description": "Infertility clinic chain Gaudium IVF and Women Health Limited has introduced artificial intelligence-led infertility treatment in India, integrating advanced embryology tools into routine clinical practice.",
+        "content": "Infertility clinic chain Gaudium IVF and Women Health Limited has introduced artificial intelligence-led infertility treatment in India, integrating advanced embryology tools into routine clinical practice, the company said on Wednesday. The developm... [1978 chars]",
+        "url": "https://www.ndtv.com/health/glaudium-ivf-to-use-ai-tools-in-infertility-treatment-11302830",
+        "image": "https://c.ndtvimg.com/2026-04/443rpr28_fertility-chain_625x300_03_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-03T04:53:20Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "4f38cc8b88ac56462bf244001f55e1a1",
+        "title": "Google Confirms Texas Gas Plant Partnership for AI Datacenter Amid Revised Climate Strategy",
+        "description": "Introduction Google confirmed plans for a partnership with a natural gas power plant to potentially power a new artificial intelligence datacenter in Texas, according to a report by the research group Cleanview. [1] The proposed 933-megawatt plant in Armstrong County, Texas, would emit an estimated 4.5 million tons of carbon dioxide (CO2) annually, officials said. [1] This move […]",
+        "content": "Introduction\nGoogle confirmed plans for a partnership with a natural gas power plant to potentially power a new artificial intelligence datacenter in Texas, according to a report by the research group Cleanview. [1] The proposed 933-megawatt plant in... [5416 chars]",
+        "url": "https://www.naturalnews.com/2026-04-03-google-texas-gas-plant-partnership-ai-datacenter.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/google-confirms-texas-791-original.jpg",
+        "publishedAt": "2026-04-03T04:45:32Z",
+        "lang": "en",
+        "source": {
+            "id": "188e9ebf53d05fc7ba360240a0b28154",
+            "name": "Natural News",
+            "url": "https://www.naturalnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "a7aa86726313381b77f0729524bf0c1c",
         "title": "AI startup Sarvam close to raising $300 million at $1.5 billion valuation",
         "description": "India’s homegrown artificial intelligence startup, Sarvam AI, is close to raising $300 million to $350 million as it seeks to build a domestic player that can compete with leaders from the US and China.",
@@ -76,86 +156,6 @@
             "id": "da5c26287bdd02563a2c32b55cb12051",
             "name": "Reuters",
             "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5b2b4dd5aa123684c1390c2e38161b2b",
-        "title": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion",
-        "description": "Microsoft on Friday said it will invest 1.6 trillion yen in Japan between 2026 and 2029 to expand artificial intelligence infrastructure and strengthen cybersecurity cooperation with the government....",
-        "content": "TOKYO, April 3 (Reuters) - Microsoft on Friday said it will invest 1.6 trillion yen ($10 billion) in Japan between 2026 and 2029 to expand artificial intelligence infrastructure and strengthen cybersecurity cooperation with the government.\nThe invest... [1090 chars]",
-        "url": "https://www.marketscreener.com/news/microsoft-to-invest-10-billion-in-japan-for-ai-and-cyber-defence-expansion-ce7e51ddde8af327",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-03T033715Z_1_LYNXMPEM32039_RTROPTP_4_JAPAN-MICROSOFT.JPG",
-        "publishedAt": "2026-04-03T03:29:17Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "ae597aafb9c456722e6609c198f0b3a4",
-        "title": "Microsoft drafts $10 billion investment plan in AI-hungry Japan",
-        "description": "Microsoft is battling Amazon.com and Alphabet for dominance in Japan, which is spending billions to develop an artificial intelligence ecosystem and catch up to the U.S. and China.",
-        "content": "Microsoft announced a four-year, $10 billion investment package in Japan, part of the U.S. company’s Asia-wide push to expand in a region hungry for artificial intelligence services.\nThe world’s largest software maker will develop AI infrastructure a... [568 chars]",
-        "url": "https://www.japantimes.co.jp/business/2026/04/03/companies/microsoft-ai-japan-investment/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/03/532984.jpg?v=3.1",
-        "publishedAt": "2026-04-03T03:19:03Z",
-        "lang": "en",
-        "source": {
-            "id": "4b9101ef61d45607a32072a7504f5fb0",
-            "name": "The Japan Times ",
-            "url": "https://www.japantimes.co.jp",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "27c4bfdc6b89564d9124343c9d6b30c5",
-        "title": "‘Metals of the future’: copper and silver flow beneath Poland's surface",
-        "description": "Driven by the rise of artificial intelligence, renewable energies, and global defense needs, demand for metals found underneath Poland is expected to keep increasing in the future.",
-        "content": "Thousands of meters beneath the ground, amid suffocating heat, lies one of the keys to Poland's rumbling mining sector — and the world economy.\nWhitish ore, rich in copper and silver, is extracted from the country's depths and exported around the wor... [317 chars]",
-        "url": "https://www.japantimes.co.jp/news/2026/04/03/world/poland-precious-metals/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/03/532956.jpg?v=3.1",
-        "publishedAt": "2026-04-03T02:51:01Z",
-        "lang": "en",
-        "source": {
-            "id": "4b9101ef61d45607a32072a7504f5fb0",
-            "name": "The Japan Times ",
-            "url": "https://www.japantimes.co.jp",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "0f313f1a7ba3abbb55530529bd712b7a",
-        "title": "Berklee lab lets students explore AI in music as industry evolves",
-        "description": "The Berklee Emerging Artistic Technology Lab, or BEATL, aims to give students an opportunity to stay ahead of the curve with artificial intelligence.",
-        "content": "Artificial intelligence is rapidly changing the music industry, from the way songs are written to how they are produced and refined. But along with new possibilities come major questions about creativity, authorship and control.\nAt Berklee College of... [3493 chars]",
-        "url": "https://www.nbcboston.com/news/local/berklee-lab-lets-students-explore-ai-in-music-as-industry-evolves/3927220/",
-        "image": "https://media.nbcboston.com/2026/04/Berklee-AI-lab-040226.jpg?quality=85&strip=all&resize=1200%2C675",
-        "publishedAt": "2026-04-03T02:25:08Z",
-        "lang": "en",
-        "source": {
-            "id": "8749653ef849c3df2e467a8e0f0c6672",
-            "name": "NBC10 Boston",
-            "url": "https://www.nbcboston.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "da3035695da9e220f2ba4490705c0a10",
-        "title": "Microsoft Charts $10 Billion of Outlays in AI",
-        "description": "Microsoft Corp. unveiled a four-year, $10 billion investment package for Japan, a major pillar of its Asia-wide artificial intelligence push.",
-        "content": "Microsoft Corp. unveiled a four-year, $10 billion investment package for Japan, a major pillar of its Asia-wide artificial intelligence push.\nThe early OpenAI backer will develop cloud and AI infrastructure alongside Sakura Internet Inc. and telecom ... [272 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-03/microsoft-drafts-10-billion-investment-plan-in-ai-hungry-japan",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYJ52d6HHdu4/v0/1200x800.jpg",
-        "publishedAt": "2026-04-03T02:20:47Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
             "country": "us"
         }
     }
