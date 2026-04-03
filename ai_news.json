@@ -1,5 +1,37 @@
 [
     {
+        "id": "79294da85e3c1526e095f3d4071236db",
+        "title": "Tohoku University and SoftBank to develop disaster prevention AI tech",
+        "description": "The joint project aims to use generative artificial intelligence to pass on memories and lessons from the March 2011 earthquake and tsunami.",
+        "content": "Tohoku University's International Research Institute of Disaster Science has started joint research project with SoftBank Group to develop generative artificial intelligence technology dedicated to disaster prevention.\nThe joint project aims to use A... [838 chars]",
+        "url": "https://www.japantimes.co.jp/news/2026/04/03/japan/softbank-disaster-prevention-ai/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/03/533052.jpg?v=3.1",
+        "publishedAt": "2026-04-03T07:28:59Z",
+        "lang": "en",
+        "source": {
+            "id": "4b9101ef61d45607a32072a7504f5fb0",
+            "name": "The Japan Times ",
+            "url": "https://www.japantimes.co.jp",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "30d41e447fed775103656511a5c322ce",
+        "title": "4 biggest voices who helped shape artificial intelligence technology",
+        "description": "Tech News News: There is a version of the artificial intelligence story that some may say began with ChatGPT, or perhaps with the smartphone, or even with science fic.",
+        "content": "There is a version of the artificial intelligence story that some may say began with ChatGPT, or perhaps with the smartphone, or even with science fiction. But the real story starts much earlier, in quiet university offices, underfunded labs, and res... [13191 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/4-biggest-voices-who-helped-shape-artificial-intelligence-technology/articleshow/129995493.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129995827,width-1280,height-720,imgsize-94610,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-03T06:54:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "179505e4ce1800b84d836b748a75ece9",
         "title": "Data Centers: Cyber Warfare's New Battleground",
         "description": "Iran's use of drones to attack Amazon Web Services data centers in the UAE and Bahrain marks the first instance of a nation targeting commercial data centers during wartime. These strikes highlight the growing importance of data centers in global conflicts, driven by advances in artificial intelligence and cloud computing infrastructure.",
@@ -125,38 +157,6 @@
             "name": "Natural News",
             "url": "https://www.naturalnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "a7aa86726313381b77f0729524bf0c1c",
-        "title": "AI startup Sarvam close to raising $300 million at $1.5 billion valuation",
-        "description": "India’s homegrown artificial intelligence startup, Sarvam AI, is close to raising $300 million to $350 million as it seeks to build a domestic player that can compete with leaders from the US and China.",
-        "content": "Synopsis\nIndia’s homegrown artificial intelligence startup, Sarvam AI, is close to raising $300 million to $350 million as it seeks to build a domestic player that can compete with leaders from the US and China.\nIndia’s homegrown artificial intellige... [1873 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/startups/ai-startup-sarvam-close-to-raising-300-million-at-1-5-billion-valuation/articleshow/129994098.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29198,resizemode-75,msid-129994098/tech/startups/ai-startup-sarvam-close-to-raising-300-million-at-1-5-billion-valuation.jpg",
-        "publishedAt": "2026-04-03T04:39:41Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "9afeb2b11f9e11fe3a77be49a4b32b2a",
-        "title": "China Stocks Tumble Amid Global Tensions",
-        "description": "China's stock market experienced another week of declines as investors expressed caution due to tensions in the Middle East. The CSI300 and Shanghai Composite Index fell, while artificial intelligence shares showed some resilience. Analysts remain concerned about oil supply and fluctuating demands affecting market stability.",
-        "content": "China's stock market continued its downward trajectory this week, extending its slump for the third consecutive week. The decline comes as investors exercise caution amid the uncertain geopolitical climate in the Middle East, with the upcoming Qingmi... [563 chars]",
-        "url": "https://www.devdiscourse.com/article/headlines/3861148-china-stocks-tumble-amid-global-tensions",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/04_07_2024_01_39_03_7195726.png?width=920&format=jpeg",
-        "publishedAt": "2026-04-03T04:17:37Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
