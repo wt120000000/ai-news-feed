@@ -1,5 +1,21 @@
 [
     {
+        "id": "0f0af6d7fa5198d2a6b66373bc921b70",
+        "title": "Economists Are Drawing Stronger Connections Between A.I. and Jobs",
+        "description": "Artificial intelligence hasn’t disrupted the labor market, economists say, but they are increasingly convinced that it will — and that policymakers are unprepared.",
+        "content": "Among tech evangelists in Silicon Valley, it has become conventional wisdom that artificial intelligence will rapidly reshape the labor market, for better or worse. Economists, however, have often discussed A.I.’s impact with a skepticism bordering o... [1947 chars]",
+        "url": "https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html",
+        "image": "https://static01.nyt.com/images/2026/04/03/business/00ai-jobs/00ai-jobs-facebookJumbo.jpg",
+        "publishedAt": "2026-04-03T09:02:10Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "34bcab6eb08fac8f8a9165c406c6ca40",
         "title": "Rethinking Talent and AI in HR: Insights from SRIF HR Summit 2026",
         "description": "Mumbai (Maharashtra) [India], April 3: Over 200+ HR professionals, CXOs, and business leaders gathered on March 28 for the SRIF HR Summit 2026 at Vijay Patil School of Management, Nerul, Navi Mumbai -- a full-day forum on the future of hiring, workforce strategy, and the governance of artificial intelligence in HR.",
@@ -141,22 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "03253944478d855fee18c65a520c056c",
-        "title": "Anthropic CEO Dario Amodei's net worth: Inside his $7 billion fortune and the career that took him from research roles to billion-dollar CEO",
-        "description": "Tech News News: Dario Amodei has gained prominence in the artificial intelligence domain based on his leadership role and technical expertise. His work is related to .",
-        "content": "PC: Forbes\nDario Amodei has gained prominence in the artificial intelligence domain based on his leadership role and technical expertise. His work is related to the growth of large-scale artificial intelligence systems and the organisations that work... [4324 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-dario-amodeis-net-worth-inside-his-7-billion-fortune-and-the-career-that-took-him-from-research-roles-to-billion-dollar-ceo/articleshow/129994729.cms",
-        "image": "https://static.toiimg.com/thumb/msid-129994976,width-1280,height-720,imgsize-29312,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-03T05:40:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
