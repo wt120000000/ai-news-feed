@@ -1,5 +1,37 @@
 [
     {
+        "id": "258f201e331ccebc9fdbf15ca38283fe",
+        "title": "BBB warns Scammers using AI voice cloning to impersonate family members",
+        "description": "The Better Business Bureau warns scammers are using artificial intelligence to clone voices and trick people into sending money by impersonating their friends and family members.",
+        "content": "MYRTLE BEACH, SC (WMBF) - The Better Business Bureau warns scammers are using artificial intelligence to clone voices and trick people into sending money by impersonating their friends and family members.\nThe BBB said with the right technology scamme... [1405 chars]",
+        "url": "https://www.wistv.com/2026/04/03/bbb-warns-scammers-using-ai-voice-cloning-impersonate-family-members/",
+        "image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/XKES46GSWNEBFIYD3U3NZ4E25A.png?auth=4cf278eba2d4517f4d9f10cd862a2447576af41debc0516acab62584f122405e&width=1200&height=600&smart=true",
+        "publishedAt": "2026-04-03T17:46:38Z",
+        "lang": "en",
+        "source": {
+            "id": "04c17c43a7507fac95fd9ba5d47715b5",
+            "name": "WIS10",
+            "url": "https://www.wistv.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ac5e888d8576da4d9b24885a90bc9b66",
+        "title": "OpenAI makes surprise media acquisition ahead of IPO. Why it will fail.",
+        "description": "The ChatGPT developer has bought online talk show TBPN. It’s a deal that could backfire for the artificial-intelligence start-up.",
+        "content": "OpenAI said Thursday it had acquired TBPN—short for Technology Business Programming Network—which specializes in lengthy daily live shows focused on technology and business. TBPN staff will continue to produce their own content while also helping wit... [2273 chars]",
+        "url": "https://www.livemint.com/companies/news/openai-makes-surprise-media-acquisition-ahead-of-ipo-why-it-will-fail-11775235387877.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/03/1600x900/logo/FILES-US-TECHNOLOGY-AI-INVESTMENTS-OPEN-AI-3_1775235583277_1775235589249.jpg",
+        "publishedAt": "2026-04-03T17:00:56Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "5df5056462f32c7a78697150eff32323",
         "title": "Intuit Stock (INTU): Wall Street Sees 37% Upside, But Are AI Fears Over?",
         "description": "Intuit’s (INTU) shares have fallen about 36% since the start of the year, as fears that artificial intelligence could render traditional softwar...",
@@ -125,38 +157,6 @@
             "name": "Al-Monitor",
             "url": "https://www.al-monitor.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "bd357d36ec2066925751982ed92b4c44",
-        "title": "It’s not just Florida and Texas that threaten NYC’s sputtering tax base - here's the next big worry",
-        "description": "Mayor Zohran Mamdani’s plan to tax his way out of the Big Apple’s self-imposed fiscal crisis is facing a fresh and little-discussed threat, according to well-placed financiers – and it’s coming from artificial intelligence.",
-        "content": "Mayor Zohran Mamdani’s plan to tax his way out of the Big Apple’s self-imposed fiscal crisis is facing a fresh and little-discussed threat, according to well-placed financiers – and it’s coming from artificial intelligence.\nAs I reported earlier this... [3103 chars]",
-        "url": "https://nypost.com/2026/04/03/business/its-not-just-florida-and-texas-that-threaten-nycs-sputtering-tax-base-heres-the-next-big-worry/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/Mamdani-versus-Ai.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-04-03T11:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "7300b5cb9d874398bd995b7880aff7cb",
-        "title": "Worried about AI? LinkedIn CEO reveals 5 skills artificial intelligence won’t replace",
-        "description": "To stay relevant in this changing world, LinkedIn CEO highlights five key skills that AI cannot easily replicate.",
-        "content": "As artificial intelligence is becoming an important part of people’s daily workflow, many young professionals are worried about their future. However, Ryan Roslansky, the CEO of LinkedIn, believes that AI won’t replace humans completely. Instead, it ... [2410 chars]",
-        "url": "https://www.financialexpress.com/life/technology-worried-about-ai-linkedin-ceo-reveals-5-skills-artificial-intelligence-wont-replace-4194163/",
-        "image": "https://images.financialexpressdigital.com/2026/02/artificial-intelligence-1_20251231171633_20260103172945_20260125175337_20260205172933_20260211172102_20260219155437.jpg",
-        "publishedAt": "2026-04-03T10:51:05Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
         }
     }
 ]
