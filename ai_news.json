@@ -1,5 +1,21 @@
 [
     {
+        "id": "2f3446e160bb17bebb76a7ff5a50b654",
+        "title": "Microsoft new AI models: Create transcriptions, voice, and images with MAI-Transcribe 1, MAI-Voice 1, MAI-Image 2",
+        "description": "Microsoft AI models: Microsoft has introduced three new artificial intelligence models-MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2-on April 2.",
+        "content": "Microsoft AI models: Microsoft has introduced three new artificial intelligence models-MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2-on April 2, expanding its AI offerings for developers and enterprise users. The models are designed to handle speech... [2501 chars]",
+        "url": "https://zeenews.india.com/technology/microsoft-new-ai-models-create-transcriptions-voice-and-images-with-mai-transcribe-1-mai-voice-1-mai-image-2-3033544.html",
+        "image": "https://english.cdn.zeenews.com/sites/default/files/2026/04/04/1926989-microsoft.jpg",
+        "publishedAt": "2026-04-04T06:10:24Z",
+        "lang": "en",
+        "source": {
+            "id": "e743cde6ee986921721e83d3957862dc",
+            "name": "Zee News",
+            "url": "https://zeenews.india.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "a54cbfd3a20e0de75e8f14eeebd143c9",
         "title": "Google ‘Gemma 4’ AI model: This new AI tool can build AI agents for you and handle text, image, audio tasks",
         "description": "Google Gemma 4: Google has introduced its new artificial intelligence model, Gemma 4, expanding its lineup of AI tools with a focus on multimodal capabilities and flexible deployment.",
@@ -141,22 +157,6 @@
             "name": "Daily Mail Online",
             "url": "https://www.dailymail.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "d5afb3cf53742bccc7d8a6f28e68da1b",
-        "title": "Elon Musk asks SpaceX IPO banks to buy Grok AI subscriptions: report",
-        "description": "Elon Musk is requiring banks and other advisers working on SpaceX’s planned IPO to buy subscriptions to Grok, his artificial intelligence chatbot, the New York Times reported Friday, citing people familiar with the matter.",
-        "content": "Elon Musk is requiring banks and other advisers working on SpaceX’s planned IPO to buy subscriptions to Grok, his artificial intelligence chatbot, the New York Times reported Friday, citing people familiar with the matter.\nSome banks have agreed to s... [776 chars]",
-        "url": "https://nypost.com/2026/04/03/business/elon-musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-report/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/elon-musk-spacex-ipo.jpg?quality=75&strip=all&1775241161&w=1200",
-        "publishedAt": "2026-04-03T22:47:18Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
-            "country": "us"
         }
     }
 ]
