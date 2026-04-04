@@ -1,5 +1,37 @@
 [
     {
+        "id": "ae7c048b7ec52d8de66e659714b9f9bd",
+        "title": "Can AI be your therapist? Here’s what a psychologist wants you to know: ‘We need to stop…’",
+        "description": "Artificial intelligence is taking over our world. But can it heal our mental health and replace a human therapist? A Delhi psychologist breaks down the reality. | Health",
+        "content": "A few years back, artificial intelligence (AI) was used to fix grammar, but now it is writing emails, making art, planning vacation, and more. AI has slowly made its way into almost every part of human life. Increasingly, people are relying on it for... [4176 chars]",
+        "url": "https://www.hindustantimes.com/lifestyle/health/can-ai-be-your-therapist-here-s-what-a-psychologist-wants-you-to-know-101775297350870.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/04/550x309/photo-1573497491208-6b1acb260507_1775297567581_1775297581671.jpg",
+        "publishedAt": "2026-04-04T10:23:04Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "f0051d619e635334898558dc065b9b0b",
+        "title": "China develops AI VF tools to raise birth rates",
+        "description": "The fertility industry in China is using artificial intelligence technology to solve the problem of declining birth rates in the country. BGI Genomics, which stands as a top Chinese biotechnology...",
+        "content": "The fertility industry in China is using artificial intelligence technology to solve the problem of declining birth rates in the country. BGI Genomics, which stands as a top Chinese biotechnology firm, creates AI-based chromosome screening solutions ... [1845 chars]",
+        "url": "https://www.thenews.com.pk/latest/1397740-bgi-genomics-integrates-ai-with-embryo-screening-to-improve-ivf-outcomes",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-04/1397740_024818_updates.jpg",
+        "publishedAt": "2026-04-04T09:42:07Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
         "id": "792b8530694009888862f4283ce130f6",
         "title": "Krazimo Helps Businesses Get the Most Out of Artificial Intelligence",
         "description": "AI is completely redefining how companies operate, but successfully implementing AI systems remains a challenge for many. Krazimo, an AI engineering and consulting company, works with businesses to design and deploy intelligent systems that deliver real operational value rather than experimental results. Across industries, companies are eager to introduce automation, machine learning, and AI-driven insights […]",
@@ -125,38 +157,6 @@
             "name": "Adirondack Daily Enterprise",
             "url": "https://www.adirondackdailyenterprise.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "8748dba26a9616479551fddab99a8d97",
-        "title": "Annie Altman Files Amended Lawsuit Against Brother Sam Altman In Federal Court As Filing Revives Explosive Abuse Allegations",
-        "description": "CASE AT A GLANCE A dismissed lawsuit involving one of the most powerful figures in artificial intelligence has unexpectedly been revived through a narrow legal pathway. The case now pivots on procedural law rather than factual determinations, raising critical questions about how courts handle delayed claims of childhood abuse. As the litigation moves forward, the An amended lawsuit revives allegations against OpenAI CEO Sam Altman, shifting the case into a new legal phase under Missouri’s childhood sexual abuse statute.",
-        "content": "CASE AT A GLANCE\nA dismissed lawsuit involving one of the most powerful figures in artificial intelligence has unexpectedly been revived through a narrow legal pathway.\nThe case now pivots on procedural law rather than factual determinations, raising... [5919 chars]",
-        "url": "https://usaherald.com/annie-altman-files-amended-lawsuit-against-brother-sam-altman-in-federal-court-as-filing-revives-explosive-abuse-allegations/",
-        "image": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
-        "publishedAt": "2026-04-03T23:57:55Z",
-        "lang": "en",
-        "source": {
-            "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
-            "name": "USA Herald",
-            "url": "https://usaherald.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "30031d3cf3d3c3f0a21529719cc47ad6",
-        "title": "Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",
-        "description": "April 3 (Reuters) - Elon ⁠Musk is requiring banks and other advisers ⁠working on SpaceX's planned IPO to buy subscriptions ‌to Grok, his artificial intelligence chatbot, the New York Times reported on Friday, citing people familiar with the matter.",
-        "content": "April 3 (Reuters) - Elon ⁠Musk is requiring banks and other advisers ⁠working on SpaceX’s planned IPO to buy subscriptions ‌to Grok, his artificial intelligence chatbot, the New York Times reported on Friday, citing people familiar with the matter.\nS... [1042 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/04/musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-nyt-reports",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/04/3843790.jpg",
-        "publishedAt": "2026-04-03T23:13:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
