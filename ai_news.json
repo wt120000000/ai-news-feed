@@ -1,5 +1,37 @@
 [
     {
+        "id": "4bf59ff5a47891db2b1169e999550d44",
+        "title": "Framework would protect news organizations from Artificial Intelligence",
+        "description": "A musician spends years learning and honing his craft, investing in equipment and practice space, hiring musicians, living on a friend’s couch and taking odd",
+        "content": "A musician spends years learning and honing his craft, investing in equipment and practice space, hiring musicians, living on a friend’s couch and taking odd jobs to pay for travel to venues. It’s not just an investment in time and money. It’s an inv... [6046 chars]",
+        "url": "https://www.adirondackdailyenterprise.com/opinion/editorials/2026/04/framework-would-protect-news-organizations-from-artificial-intelligence/",
+        "image": "https://d14e0irai0gcaa.cloudfront.net/www.adirondackdailyenterprise.com/images/2017/04/17105339/Untitled-2.jpg",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "fbff6d47774e0c7e2d634abcc48c9e12",
+            "name": "Adirondack Daily Enterprise",
+            "url": "https://www.adirondackdailyenterprise.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "8748dba26a9616479551fddab99a8d97",
+        "title": "Annie Altman Files Amended Lawsuit Against Brother Sam Altman In Federal Court As Filing Revives Explosive Abuse Allegations",
+        "description": "CASE AT A GLANCE A dismissed lawsuit involving one of the most powerful figures in artificial intelligence has unexpectedly been revived through a narrow legal pathway. The case now pivots on procedural law rather than factual determinations, raising critical questions about how courts handle delayed claims of childhood abuse. As the litigation moves forward, the An amended lawsuit revives allegations against OpenAI CEO Sam Altman, shifting the case into a new legal phase under Missouri’s childhood sexual abuse statute.",
+        "content": "CASE AT A GLANCE\nA dismissed lawsuit involving one of the most powerful figures in artificial intelligence has unexpectedly been revived through a narrow legal pathway.\nThe case now pivots on procedural law rather than factual determinations, raising... [5919 chars]",
+        "url": "https://usaherald.com/annie-altman-files-amended-lawsuit-against-brother-sam-altman-in-federal-court-as-filing-revives-explosive-abuse-allegations/",
+        "image": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+        "publishedAt": "2026-04-03T23:57:55Z",
+        "lang": "en",
+        "source": {
+            "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+            "name": "USA Herald",
+            "url": "https://usaherald.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "30031d3cf3d3c3f0a21529719cc47ad6",
         "title": "Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",
         "description": "April 3 (Reuters) - Elon ⁠Musk is requiring banks and other advisers ⁠working on SpaceX's planned IPO to buy subscriptions ‌to Grok, his artificial intelligence chatbot, the New York Times reported on Friday, citing people familiar with the matter.",
@@ -125,38 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "82b30bf4a3e4eff88e68324569da6584",
-        "title": "AI gives Japan's voice actors new commercial clout, rights protections",
-        "description": "Efforts to harness the voices of dubbing artists for commercial use are gaining momentum in Japan, spotlighting their potential to boost the global reach of Japanese anime in the age of artificial intelligence. AI-powered tools are also expected to strengthen protections for performers whose voices have become increasingly valuable even…",
-        "content": "Efforts to harness the voices of dubbing artists for commercial use are gaining momentum in Japan, spotlighting their potential to boost the global reach of Japanese anime in the age of artificial intelligence.\nAI-powered tools are also expected to s... [3680 chars]",
-        "url": "https://japantoday.com/category/entertainment/feature-ai-gives-japan%27s-voice-actors-new-commercial-clout-rights-protections",
-        "image": "https://japantoday.com/images/japan-today-social.jpg",
-        "publishedAt": "2026-04-03T19:47:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "0970725e4965d15803f6fa8c2ca0a3cb",
-        "title": "Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",
-        "description": "Elon Musk is requiring banks and other advisers working on SpaceX’s planned IPO to buy subscriptions to Grok, his artificial intelligence chatbot, the New York Times reported on Friday, citing people familiar with the matter.",
-        "content": "Elon Musk is requiring banks and other advisers working on SpaceX’s planned IPO to buy subscriptions to Grok, his artificial intelligence chatbot, the New York Times reported on Friday, citing people familiar with the matter.\nSome banks have agreed t... [943 chars]",
-        "url": "https://www.manilatimes.net/2026/04/04/business/sunday-business-it/musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-nyt-reports/2314145",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/04/1000888.jpg",
-        "publishedAt": "2026-04-03T19:04:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
