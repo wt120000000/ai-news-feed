@@ -1,5 +1,37 @@
 [
     {
+        "id": "a54cbfd3a20e0de75e8f14eeebd143c9",
+        "title": "Google ‘Gemma 4’ AI model: This new AI tool can build AI agents for you and handle text, image, audio tasks",
+        "description": "Google Gemma 4: Google has introduced its new artificial intelligence model, Gemma 4, expanding its lineup of AI tools with a focus on multimodal capabilities and flexible deployment.",
+        "content": "Google Gemma 4: Google has introduced its new artificial intelligence model, Gemma 4, on April 2, expanding its lineup of AI tools with a focus on multimodal capabilities and flexible deployment. Gemma 4 is designed as a multimodal model, meaning it ... [2042 chars]",
+        "url": "https://zeenews.india.com/technology/google-gemma-4-ai-model-this-new-ai-tool-can-build-ai-agents-for-you-and-handle-text-image-audio-tasks-3033524.html",
+        "image": "https://english.cdn.zeenews.com/sites/default/files/2026/04/04/1926969-google-gemma-4.jpg",
+        "publishedAt": "2026-04-04T05:01:21Z",
+        "lang": "en",
+        "source": {
+            "id": "e743cde6ee986921721e83d3957862dc",
+            "name": "Zee News",
+            "url": "https://zeenews.india.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b544e96504e52f8597722769a15239d1",
+        "title": "Microsoft to invest $10 billion for Japan AI data centres",
+        "description": "Microsoft said it will invest $10 billion in Japan over the next four years to build artificial intelligence data centres and related infrastructure.",
+        "content": "Microsoft said Friday it will invest $10 billion in Japan over the next four years to build artificial intelligence data centres and related infrastructure.\nPower-hungry data centres, or warehouse-like facilities that power AI tools from chatbots to ... [1634 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/microsoft-to-invest-10-billion-for-japan-ai-data-centres/article70822242.ece",
+        "image": "https://th-i.thgim.com/public/incoming/licavg/article70822246.ece/alternates/LANDSCAPE_1200/2026-03-26T181948Z_2137825233_RC2BODAM5OKQ_RTRMADP_3_MICROSOFT-WORKFORCE.JPG",
+        "publishedAt": "2026-04-04T04:56:34Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "23502bed29caccadf74275d7c3f17c7d",
         "title": "1995 vs 2026: Jeff Bezos and Elon Musk react after Amazon's first-ever customer's bill goes viral. What was the first order on Amazon?",
         "description": "A 1995 invoice reveals the very first item sold on Amazon. It was a book on artificial intelligence. This humble beginning has captured attention online. Amazon founder Jeff Bezos and Elon Musk have acknowledged its significance. Amazon started as an online bookstore in 1994. It aimed to offer a vast selection of books.",
@@ -124,38 +156,6 @@
             "id": "95a96a1867c4dac6f720e9d08d4c1b96",
             "name": "New York Post",
             "url": "https://nypost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "11b2e5bdad50373a6cc8d8abcaa0e043",
-        "title": "How AI Will Help People Instead of Taking Their Jobs Away",
-        "description": "Aryan Singh Vashista anjukumariartandcraft@gmail.com In the recent past, there has been much talk about the concept of artificial intelligence and how it will take over human jobs. However, looking back on the history of how technology has evolved over the years, we can get a better understanding of how artificial intelligence will not only not take our jobs, but also help us. The main idea behind the concept of artificial intelligence is to help people, not replace them. In most […]",
-        "content": "Aryan Singh Vashista\nanjukumariartandcraft@gmail.com\nIn the recent past, there has been much talk about the concept of artificial intelligence\nand how it will take over human jobs. However, looking back on the history of how\ntechnology has evolved ov... [3371 chars]",
-        "url": "https://www.dailyexcelsior.com/how-ai-will-help-people-instead-of-taking-their-jobs-away/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/ai.gif",
-        "publishedAt": "2026-04-03T22:30:52Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1cb322187c1bc139db65b95dea3670d3",
-        "title": "Off-Grid Data Centers Will Help Protect Ratepayers, But Codifying ARC-ES Would Do Even More",
-        "description": "With America’s 250th birthday right around the corner on July 4, it doesn’t require artificial intelligence to know that the biggest gift of all would be a guarantee of energy security and independence for ourselves, our children and generations to come.",
-        "content": "By Gary Abernathy\nThis article was originally published at The Empowerment Alliance and is re-published here with permission.\nBetween the war in Iran, the controversies involving the Immigration and Customs Enforcement agency and other developing nat... [5530 chars]",
-        "url": "https://wattsupwiththat.com/2026/04/03/off-grid-data-centers-will-help-protect-ratepayers-but-codifying-arc-es-would-do-even-more/",
-        "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/04/An_F-35_Flies_Over_the_White_House_48052634258.webp?fit=1024%2C512&quality=75&ssl=1",
-        "publishedAt": "2026-04-03T21:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c85e15f10f76e6bbc0ee7df63f5e2b27",
-            "name": "Watts Up With That",
-            "url": "https://wattsupwiththat.com",
             "country": "us"
         }
     }
