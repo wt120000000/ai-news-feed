@@ -1,5 +1,37 @@
 [
     {
+        "id": "4f84dab1451d5e8fc41fec6cee6a6bc2",
+        "title": "UK eyes Anthropic - Firstpost",
+        "description": "The UK government is stepping up efforts to attract leading artificial intelligence firm Anthropic, as it looks to position itself as a global hub for advanced AI. This comes as tensions grow between Anthropic and the US government over military use of its AI technology.",
+        "content": "The UK government is stepping up efforts to attract leading artificial intelligence firm Anthropic, as it looks to position itself as a global hub for advanced AI development. This comes as tensions grow between Anthropic and the US government over m... [2732 chars]",
+        "url": "https://www.firstpost.com/world/uk-eyes-anthropic-as-us-rift-deepens-over-military-use-of-ai-13996751.html",
+        "image": "https://images.firstpost.com/uploads/2026/02/Anthropic-logo-rep-Reuters-2026-02-e774e7ba1dffcd86cdd302303ed57901.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-04-05T07:16:34Z",
+        "lang": "en",
+        "source": {
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "3a117586a59a480267d26a7ae3511edc",
+        "title": "Data centers delayed by infrastructure",
+        "description": "In the red dirt of Abilene, Texas, more than 6,000 workers travel around on electric buggies, spending day and night constructing a massive data center that will feed the world's growing artificial intelligence needs. When completed this year, the eight sprawling buildings -- which OpenAI will use -- will consume 1.2 gigawatts of power, or enough electricity for nearly 1 million American households.",
+        "content": "In the red dirt of Abilene, Texas, more than 6,000 workers travel around on electric buggies, spending day and night constructing a massive data center that will feed the world's growing artificial intelligence needs. When completed this year, the ei... [8123 chars]",
+        "url": "https://www.arkansasonline.com/news/2026/apr/05/data-centers-delayed-by-infrastructure/",
+        "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/212591392_1G-OpenAi-0405-RGB_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+        "publishedAt": "2026-04-05T06:56:00Z",
+        "lang": "en",
+        "source": {
+            "id": "69a24b80e5bce5a07f808f5ea84c434b",
+            "name": "Arkansas Online",
+            "url": "https://www.arkansasonline.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "605034eeda3356e340844099e99a7b70",
         "title": "Britain woos Anthropic after US defence clash",
         "description": "Britain is seeking to attract AI company Anthropic to expand its presence in London after a major clash with the United States over the use of artificial intelligence in defence.\nThe UK government...",
@@ -125,38 +157,6 @@
             "name": "Reuters",
             "url": "https://www.reuters.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "5e2dcd5a653d97680969e671fa67faaa",
-        "title": "Multi-agency initiative brings AI-powered robots to Brunei Hari Raya celebration",
-        "description": "BANDAR SERI BEGAWAN: Imagine Sdn Bhd, in collaboration with Yayasan Sultan Haji Hassanal Bolkiah, brought an engaging showcase of artificial intelligence (AI) to the Yayasan Hari Raya Aidilfitri Celebration on Saturday (April 4), featuring AI-powered robot performances and interactive displays that captivated audiences while demonstrating the role of technology in enhancing community experiences.",
-        "content": "BANDAR SERI BEGAWAN: Imagine Sdn Bhd, in collaboration with Yayasan Sultan Haji Hassanal Bolkiah, brought an engaging showcase of artificial intelligence (AI) to the Yayasan Hari Raya Aidilfitri Celebration on Saturday (April 4), featuring AI-powered... [2651 chars]",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/05/multi-agency-initiative-brings-ai-powered-robots-to-brunei-hari-raya-celebration",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/05/3844846.jpg",
-        "publishedAt": "2026-04-05T03:37:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "a7b3cf2d9e5e5a9556fe397dc02cd96e",
-        "title": "Meta pauses all work with AI recruiting startup Mercor after $10 billion company confirms hacking",
-        "description": "Tech News News: Meta has indefinitely suspended all work with Mercor. This comes after the artificial intelligence (AI) data contracting startup valued at $10 billion.",
-        "content": "Representative Image\nMeta has indefinitely suspended all work with Mercor. This comes after the artificial intelligence (AI) data contracting startup valued at $10 billion confirmed a security breach that may have exposed proprietary training data be... [2474 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-pauses-all-work-with-ai-recruiting-startup-mercor-after-10-billion-company-confirms-hacking/articleshow/130033252.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130033247,width-1280,height-720,imgsize-17456,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-05T03:24:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
