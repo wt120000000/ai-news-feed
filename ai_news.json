@@ -1,5 +1,37 @@
 [
     {
+        "id": "ec98623f74370ba9c2f9f533a1061955",
+        "title": "Meet a former VC who has a plan to prepare American students for an AI-disrupted future",
+        "description": "For years, Ted Dintersmith has been sounding the alarm that American schools don’t adequately prepare children for the future. Artificial intelligence will be an inflection point, he said.",
+        "content": "“It’s a world where all of these jobs are going to just vanish. We don’t have time to mold this for 10 years,” Dintersmith told Fortune. “Would you rather spend thousands of hours on math you’ll never use in school, or get really good at something th... [5599 chars]",
+        "url": "https://fortune.com/2026/04/05/former-vc-plan-tamerican-students-ai-ted-dintersmith/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Ted-Dintersmith-by-Erick-Lusher.jpg?resize=1200,600",
+        "publishedAt": "2026-04-05T11:24:00Z",
+        "lang": "en",
+        "source": {
+            "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+            "name": "Fortune",
+            "url": "https://fortune.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "bf01cdbd2e3d2acb91a09c2e10c5b322",
+        "title": "AI Central in US-Iran 2026 War as Targeting Systems Speed Strikes but Spark Accuracy and Ethics",
+        "description": "Artificial intelligence has emerged as a defining feature of the ongoing U.S.-Israeli military campaign against Iran, enabling rapid targeting and a high tempo of strikes that military officials",
+        "content": "Artificial intelligence has emerged as a defining feature of the ongoing U.S.-Israeli military campaign against Iran, enabling rapid targeting and a high tempo of strikes that military officials describe as unprecedented, though questions persist abo... [6617 chars]",
+        "url": "https://www.ibtimes.com/ai-central-us-iran-2026-war-targeting-systems-speed-strikes-spark-accuracy-ethics-3800880",
+        "image": "https://d.ibtimes.com/en/full/4645560/artificial-intelligence-concept-illustration-representing-data-computation.png",
+        "publishedAt": "2026-04-05T11:19:05Z",
+        "lang": "en",
+        "source": {
+            "id": "933344203c2b862af768b5e662a162a4",
+            "name": "International Business Times",
+            "url": "https://www.ibtimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "5050f61dd50588e3741dcbba303dd6fa",
         "title": "Education minister bats for ‘Mahakal Standard Time’: ‘Ujjain is where Equator, Tropic of Cancer meet’",
         "description": "The BJP leader said that Ujjain was historically a major centre for astronomy and time calculation. He also asserted that modern artificial intelligence tools recognise Ujjain as an original centre of time calculation.",
@@ -125,38 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "f0d1b6a88a442a055fcadc76c1ce98de",
-        "title": "Foxconn first-quarter revenue jumps, company cautions on geopolitics",
-        "description": "Taiwan's Foxconn, the world's largest contract electronics maker, reported a 29.7% on-year rise in first-quarter revenue on strong demand for artificial intelligence products, though it cautioned...",
-        "content": "TAIPEI, April 5 (Reuters) - Taiwan's Foxconn, the world's largest contract electronics maker, reported a 29.7% on-year rise in first-quarter revenue on strong demand for artificial intelligence products, though it cautioned about \"volatile\" global po... [1683 chars]",
-        "url": "https://www.marketscreener.com/news/foxconn-first-quarter-revenue-jumps-company-cautions-on-geopolitics-ce7e51d2dc88f627",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-16T102239Z_1_LYNXMPEM2F0JX_RTROPTP_4_FOXCONN-RESULTS.JPG",
-        "publishedAt": "2026-04-05T08:07:14Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "712823e38173096dbf5f57364ea71351",
-        "title": "Gujarat high court bars AI use in judicial decision making allows limited administrative role",
-        "description": "News News: AHMEDABAD: The Gujarat high court has barred the use of Artificial Intelligence for any form of decision-making, judicial reasoning, order drafting or.",
-        "content": "Gujarat high court\nAHMEDABAD: The Gujarat high court has barred the use of Artificial Intelligence for any form of decision-making, judicial reasoning, order drafting or judgment preparation, bail and sentencing considerations, or any substantive adj... [4198 chars]",
-        "url": "https://timesofindia.indiatimes.com/legal/news/gujarat-hc-bars-ai-use-in-judicial-decision-making-allows-limited-administrative-role/articleshow/130035384.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130035415,width-1280,height-720,imgsize-27658,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-05T07:51:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
