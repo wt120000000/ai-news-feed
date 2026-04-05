@@ -1,5 +1,37 @@
 [
     {
+        "id": "605034eeda3356e340844099e99a7b70",
+        "title": "Britain woos Anthropic after US defence clash",
+        "description": "Britain is seeking to attract AI company Anthropic to expand its presence in London after a major clash with the United States over the use of artificial intelligence in defence.\nThe UK government...",
+        "content": "Britain is seeking to attract AI company Anthropic to expand its presence in London after a major clash with the United States over the use of artificial intelligence in defence.\nThe UK government is offering incentives, including office expansion an... [1932 chars]",
+        "url": "https://www.thenews.com.pk/latest/1397797-britain-woos-anthropic-after-us-defence-clash",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-05/1397797_120150_updates.jpg",
+        "publishedAt": "2026-04-05T06:40:51Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "2b939570d181cb2a6d7cb59cb39d3536",
+        "title": "Indian film studios are using AI to cut costs, speed production, despite mixed audience reactions",
+        "description": "Indian film studios are embracing Artificial Intelligence to slash production costs and speed up movie making. This technology helps overcome India's many languages with AI dubbing. While audiences have mixed reactions, studios are using AI for everything from creating new content to re-releasing older films with altered endings. Tech giants are partnering with Indian filmmakers to advance AI-driven storytelling.",
+        "content": "Synopsis\nIndian film studios are embracing Artificial Intelligence to slash production costs and speed up movie making. This technology helps overcome India's many languages with AI dubbing. While audiences have mixed reactions, studios are using AI ... [10630 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-studios-use-ai-to-cut-costs-speed-production-despite-mixed-audience-reactions/articleshow/130034364.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-75194,resizemode-75,msid-130034364/tech/artificial-intelligence/indian-studios-use-ai-to-cut-costs-speed-production-despite-mixed-audience-reactions.jpg",
+        "publishedAt": "2026-04-05T06:01:21Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "f24a4efd828ee55a54198422029ee13b",
         "title": "Judges are increasingly using AI to draft rulings and prepare for hearings",
         "description": "When Xavier Rodriguez, a Texas-based federal judge, prepares for a hearing, he usually begins by turning to artificial intelligence. He feeds the relevant court filings into an AI tool that quickly produces a timeline of the case and the claims that parties are making for him to review.",
@@ -124,38 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "925850d42d5e8ef3b750c8843b36db28",
-        "title": "AI at war: Five things to know about Project Maven",
-        "description": "Project Maven is the Pentagon's flagship artificial intelligence program, launched in 2017 as a narrow experiment to help military analysts make sense of the torrent of drone footage pouring in from conflict zones.",
-        "content": "A Pentagon AI program called Project Maven is at the center of the US strikes against Iran and potentially one of the most consequential transformations of modern warfare.\n- What is it? -\nProject Maven is the Pentagon's flagship artificial intelligen... [4012 chars]",
-        "url": "https://www.moneycontrol.com/world/ai-at-war-five-things-to-know-about-project-maven-article-13880218.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260403033538_iran-war.jpg",
-        "publishedAt": "2026-04-05T02:24:01Z",
-        "lang": "en",
-        "source": {
-            "id": "fd3677545b80d5db7541de8e111d27ba",
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "04f1912a9e98436d77a3b39fa0997d62",
-        "title": "Michel Foucault in the age of Artificial Intelligence",
-        "description": "Michel Foucault in the age of Artificial Intelligence",
-        "content": "On the centenary year of Michel Foucault’s birth, Artificial Intelligence has not merely vindicated his most famous provocation but it has also exposed its limits. The ‘death of the author’ now coincides with a deeper historical rupture: the exhausti... [6798 chars]",
-        "url": "https://www.telegraphindia.com/opinion/person-to-process-michel-foucault-in-the-age-of-artificial-intelligence-prnt/cid/2154676",
-        "image": "https://assets.telegraphindia.com/telegraph/2026/Apr/1775355233_michel-foucault.jpg",
-        "publishedAt": "2026-04-05T02:17:23Z",
-        "lang": "en",
-        "source": {
-            "id": "93a4f054e09bde095cda5265e575a952",
-            "name": "Telegraph India",
-            "url": "https://www.telegraphindia.com",
             "country": "in"
         }
     }
