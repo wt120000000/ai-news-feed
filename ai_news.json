@@ -1,5 +1,37 @@
 [
     {
+        "id": "524e6c3e882aa077c5482c073eee242e",
+        "title": "Britain woos Anthropic expansion after US defence clash, FT says",
+        "description": "Britain is trying to tempt Anthropic to ​expand its presence in the country, as ‌it seeks to capitalise on a fight between the maker of artificial intelligence app Claude ​and the U.S. Defense Department, the ​Financial Times said on Sunday.",
+        "content": "April 5 (Reuters) - Britain is trying to tempt Anthropic to ​expand its presence in the country, as ‌it seeks to capitalise on a fight between the maker of artificial intelligence app Claude ​and the U.S. Defense Department, the ​Financial Times said... [958 chars]",
+        "url": "https://www.reuters.com/world/uk/britain-woos-expansion-effort-by-anthropic-after-us-defence-clash-ft-says-2026-04-05/",
+        "image": "https://www.reuters.com/resizer/v2/NWESCFJX4VINLJAHR2Y67NXV2Y.jpg?auth=7fe8b1afb9a46f2061164ccf2883d0e5ce2b6c853e74819102c23ad7cf3d9691&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-04-05T04:29:28Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "5e2dcd5a653d97680969e671fa67faaa",
+        "title": "Multi-agency initiative brings AI-powered robots to Brunei Hari Raya celebration",
+        "description": "BANDAR SERI BEGAWAN: Imagine Sdn Bhd, in collaboration with Yayasan Sultan Haji Hassanal Bolkiah, brought an engaging showcase of artificial intelligence (AI) to the Yayasan Hari Raya Aidilfitri Celebration on Saturday (April 4), featuring AI-powered robot performances and interactive displays that captivated audiences while demonstrating the role of technology in enhancing community experiences.",
+        "content": "BANDAR SERI BEGAWAN: Imagine Sdn Bhd, in collaboration with Yayasan Sultan Haji Hassanal Bolkiah, brought an engaging showcase of artificial intelligence (AI) to the Yayasan Hari Raya Aidilfitri Celebration on Saturday (April 4), featuring AI-powered... [2651 chars]",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/05/multi-agency-initiative-brings-ai-powered-robots-to-brunei-hari-raya-celebration",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/05/3844846.jpg",
+        "publishedAt": "2026-04-05T03:37:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "a7b3cf2d9e5e5a9556fe397dc02cd96e",
         "title": "Meta pauses all work with AI recruiting startup Mercor after $10 billion company confirms hacking",
         "description": "Tech News News: Meta has indefinitely suspended all work with Mercor. This comes after the artificial intelligence (AI) data contracting startup valued at $10 billion.",
@@ -125,38 +157,6 @@
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "aa8e887709095be69b49825b3c578006",
-        "title": "Govt putting Indians’ security at risk with Chinese CCTVs: Rahul",
-        "description": "Leader of Opposition in the Lok Sabha Rahul Gandhi on Saturday alleged that the Centre is putting India’s security at risk by failing to come clean on the presence of Chinese CCTV cameras and the role of foreign artificial intelligence platforms in handling sensitive data.",
-        "content": "Leader of Opposition in the Lok Sabha Rahul Gandhi on Saturday alleged that the Centre is putting India’s security at risk by failing to come clean on the presence of Chinese CCTV cameras and the role of foreign artificial intelligence platforms in h... [1775 chars]",
-        "url": "https://www.tribuneindia.com/news/india/govt-putting-indians-security-at-risk-with-chinese-cctvs-rahul/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTgwZjQ3MmQwLTMwNjUtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-        "publishedAt": "2026-04-04T20:33:11Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "021c2e96dba6925e31ea72d2dbd35ad0",
-        "title": "AI adoption rises globally but gap widens -- Microsoft",
-        "description": "GLOBAL use of artificial intelligence continued to expand in 2025, but uneven adoption between advanced and developing economies is widening a digital divide, according to a new report and statements from Microsoft Philippines.",
-        "content": "GLOBAL use of artificial intelligence continued to expand in 2025, but uneven adoption between advanced and developing economies is widening a digital divide, according to a new report and statements from Microsoft Philippines.\nThe “Global AI Adoptio... [4926 chars]",
-        "url": "https://www.manilatimes.net/2026/04/05/business/sunday-business-it/ai-adoption-rises-globally-but-gap-widens-microsoft/2314235",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-04-04T16:07:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
