@@ -1,5 +1,21 @@
 [
     {
+        "id": "b445fb8f4949dfbb60a36ba0cf0cc081",
+        "title": "Economists once dismissed the AI job threat, but not anymore",
+        "description": "Artificial intelligence hasn't disrupted the labour market, economists say, but they are increasingly convinced that it will – and that policymakers are unprepared.",
+        "content": "Among tech evangelists in Silicon Valley, it has become conventional wisdom that artificial intelligence will rapidly reshape the labour market, for better or worse. Economists, however, have often discussed AI’s impact with a scepticism bordering on... [7676 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/06/economists-once-dismissed-the-ai-job-threat-but-not-anymore",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/06/3845964.jpg",
+        "publishedAt": "2026-04-06T05:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "58a771b80e4069a0016f79ade815d5fa",
         "title": "MU vs. STX vs. MRVL: Which ‘Strong Buy’ AI Infrastructure Stock Can Deliver the Best Upside?",
         "description": "The rapidly growing artificial intelligence (AI) market has boosted demand for companies providing AI infrastructure, such as chips, networking ...",
@@ -141,22 +157,6 @@
             "name": "Malayala Manorama",
             "url": "https://www.onmanorama.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "3554ac9fecf86c99de9544472db06a9b",
-        "title": "Why AI health chatbots won’t make you better at diagnosing yourself",
-        "description": "Millions of people are turning to artificial intelligence (AI) chatbots for advice on everything from cooking to tax returns. Increasingly, they are also asking chatbots about their health. But as the UK’s chief medical officer recently warned, that may not be wise when it comes to medical decisions. In a recent study,…",
-        "content": "Millions of people are turning to artificial intelligence (AI) chatbots for advice on everything from cooking to tax returns. Increasingly, they are also asking chatbots about their health.\nBut as the UK’s chief medical officer recently warned, that ... [5347 chars]",
-        "url": "https://japantoday.com/category/features/health/Why-AI-health-chatbots-won%E2%80%99t-make-you-better-at-diagnosing-yourself",
-        "image": "https://media.japantoday.com/img/store/34/1b/4d7baf12e3d45e5bcdc11fe267888d6db0b9/istock-2199586292/_w1700.jpeg",
-        "publishedAt": "2026-04-05T21:24:16Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
