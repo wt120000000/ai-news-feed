@@ -1,5 +1,21 @@
 [
     {
+        "id": "9972bbc8febe53580fc58a454acee8f4",
+        "title": "AI at war: Five things to know about Project Maven",
+        "description": "A Pentagon AI program called Project Maven is at the center of the U.S. strikes against Iran and potentially one of the most consequential transformations of modern warfare. What is it? Project Maven is the Pentagon's flagship artificial intelligence program, launched in 2017 as a narrow experiment to help military…",
+        "content": "A Pentagon AI program called Project Maven is at the center of the U.S. strikes against Iran and potentially one of the most consequential transformations of modern warfare.\nWhat is it?\nProject Maven is the Pentagon's flagship artificial intelligence... [4015 chars]",
+        "url": "https://japantoday.com/category/tech/ai-at-war-five-things-to-know-about-project-maven",
+        "image": "https://media.japantoday.com/img/store/59/4d/d8abadf6eac6e75a289e6b742f0caf751bdc/09a05bfe266a852a95981eb828408183a2c99e33/_w1700.jpeg",
+        "publishedAt": "2026-04-05T21:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "f3ae324e999bdfbb66f517cdcc1daa4c",
         "title": "Meta pauses all contracts with Mercor after breach",
         "description": "The data contracting firm works with all the major artificial intelligence providers, including Anthropic, OpenAI and Meta, and was hit by hackers last week, per Wired.",
@@ -141,22 +157,6 @@
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "f785a7280dc783791830e7607f056c23",
-        "title": "Globe CEO pushes AI-driven transformation",
-        "description": "MANILA, Philippines—Globe President and CEO Carl Cruz highlighted the telecommunications company’s artificial intelligence (AI)-driven transformation and commitment to digital inclusion during the Mobile World Congress (MWC) 2026.",
-        "content": "MANILA, Philippines—Globe President and CEO Carl Cruz highlighted the telecommunications company’s artificial intelligence (AI)-driven transformation and commitment to digital inclusion during the Mobile World Congress (MWC) 2026.\nCruz cited the firm... [2538 chars]",
-        "url": "https://www.manilatimes.net/2026/04/05/business/globe-ceo-pushes-ai-driven-transformation/2314462",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/05/1001747.jpg",
-        "publishedAt": "2026-04-05T14:23:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
