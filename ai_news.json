@@ -1,5 +1,37 @@
 [
     {
+        "id": "b2ae35672116168b3f207dfe3737d8c2",
+        "title": "Chinese AI satellite intelligence helping Iran target US forces with 'incredible precision', analysts say",
+        "description": "Chinese satellite images enhanced by artificial intelligence could help Iran target US and allied forces to within a third of a square metre, military analysts say.",
+        "content": "Chinese satellite images enhanced by artificial intelligence could help Iran target US and allied forces to within a third of a square metre, military analysts say.\nThe ABC has revealed the US Defense Intelligence Agency (DIA) has assessed that an AI... [4733 chars]",
+        "url": "https://www.abc.net.au/news/2026-04-06/chinese-satellite-intelligence-helping-iran-target-us-forces/106535420",
+        "image": "https://live-production.wcms.abc-cdn.net.au/30253e34d2afc4a2c9eb252abf4d174d?impolicy=wcms_watermark_news&cropH=723&cropW=1286&xPos=21&yPos=37&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-06T08:03:34Z",
+        "lang": "en",
+        "source": {
+            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+            "name": "ABC (Australian Broadcasting Corporation)",
+            "url": "https://www.abc.net.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "d65dd5bebb053e4c21d9152267346f40",
+        "title": "At 50 years old with 465 billion in revenue, against the challenge of AI",
+        "description": "Apple is celebrating 50 years of transforming technology and the daily lives of consumers around the world, but today it is challenged to prove it can remain a leader in an era dominated by artificial intelligence",
+        "content": "Newsroom April 6 10:45\nIn early 1976, in California, Steve Wozniak had just finished designing a motherboard, or computer board, which he planned to show off to other hobbyists at a well-known local club. His friend, Steve Jobs, immediately spotted a... [1627 chars]",
+        "url": "https://en.protothema.gr/2026/04/06/apple-from-a-garage-to-the-top-of-the-world-at-50-years-old-with-465-billion-in-revenue-against-the-challenge-of-ai/",
+        "image": "https://en.protothema.gr/wp-content/uploads/2026/04/apple-1.jpg-1.jpg",
+        "publishedAt": "2026-04-06T07:45:28Z",
+        "lang": "en",
+        "source": {
+            "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
+            "name": "Proto Thema",
+            "url": "https://en.protothema.gr",
+            "country": "gr"
+        }
+    },
+    {
         "id": "7f7d7a5655349e2e8c8aa8391f663065",
         "title": "The hidden bias in AI: How the future of work is quietly widening the gender gap",
         "description": "Artificial intelligence is reshaping workplace culture and decision-making, amplifying gender bias and widening the workplace gender gap. As AI transforms communication and leadership, unequal adoption may deepen gender inequality in the future of work.",
@@ -125,38 +157,6 @@
             "name": "Markets Insider",
             "url": "https://markets.businessinsider.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "b2f624c984e13c56c013b46c807105f2",
-        "title": "Elon Musk asks SpaceX IPO banks to buy Grok AI subscriptions: Report",
-        "description": "Elon Musk is requiring banks ‌and other advisers working on SpaceX’s ​planned IPO to buy subscriptions ⁠to Grok, his artificial intelligence chatbot, the New York Times reported",
-        "content": "Elon Musk is requiring banks ‌and other advisers working on SpaceX’s ​planned IPO to buy subscriptions ⁠to Grok, his artificial intelligence chatbot, the New York Times reported on Friday, ‌citing people familiar with the matter.\nSome banks have agre... [937 chars]",
-        "url": "https://www.thehindu.com/sci-tech/technology/elon-musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-report/article70828728.ece",
-        "image": "https://th-i.thgim.com/public/incoming/qufzvx/article70828730.ece/alternates/LANDSCAPE_1200/2026-03-27T111946Z_72850752_RC289Y97ZQ00_RTRMADP_3_SPACEX-IPO-MARKETS.JPG",
-        "publishedAt": "2026-04-06T04:41:07Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "85ed3b9eacb6e9bb93a068d9c1940dd6",
-        "title": "AI Leadership: organisational redesign comes first",
-        "description": "Most artificial intelligence strategies are not failing because of technology. They are failing because organisations have not changed.",
-        "content": "Most artificial intelligence strategies are not failing because of technology. They are failing because organisations have not changed.\nI’ve seen this pattern repeatedly. The conversation quickly moves to tools — what to build, where to deploy, how t... [1749 chars]",
-        "url": "https://www.bangkokpost.com/business/general/3231650/ai-leadership-organisational-redesign-comes-first",
-        "image": "https://static.bangkokpost.com/media/content/20260406/c1_3231650_700.jpeg",
-        "publishedAt": "2026-04-06T04:33:00Z",
-        "lang": "en",
-        "source": {
-            "id": "91120a92e0d24e24fbffb6d0affabfe6",
-            "name": "Bangkok Post",
-            "url": "https://www.bangkokpost.com",
-            "country": "th"
         }
     }
 ]
