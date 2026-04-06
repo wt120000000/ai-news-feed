@@ -1,5 +1,69 @@
 [
     {
+        "id": "105f4a1a468aa91a1735e6b91ebb53ca",
+        "title": "AI could transform patient education in eye care, new research shows",
+        "description": "From hospital leaflets to spoken answers in dozens of languages, new research from the University of East London (UEL) suggests artificial intelligence could dramatically improve how patients learn about serious eye conditions. A research team led by UEL's Dr. Mohammad Hossein Amirhosseini and Dr. Fatima Kalabi from Queen's Hospital in London, in collaboration with Moorfields Eye Hospital in London, and Inselspital University Hospital of Bern in Switzerland, has developed a multilingual, voice-enabled AI chatbot designed to help people understand retinal detachment—a sight-threatening condition that often requires urgent surgery. The system allows patients to ask questions in natural language and receive clear, clinically grounded answers drawn from trusted medical sources.",
+        "content": "From hospital leaflets to spoken answers in dozens of languages, new research from the University of East London (UEL) suggests artificial intelligence could dramatically improve how patients learn about serious eye conditions. A research team led by... [3950 chars]",
+        "url": "https://medicalxpress.com/news/2026-04-ai-patient-eye.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/eye.jpg",
+        "publishedAt": "2026-04-05T14:30:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "f785a7280dc783791830e7607f056c23",
+        "title": "Globe CEO pushes AI-driven transformation",
+        "description": "MANILA, Philippines—Globe President and CEO Carl Cruz highlighted the telecommunications company’s artificial intelligence (AI)-driven transformation and commitment to digital inclusion during the Mobile World Congress (MWC) 2026.",
+        "content": "MANILA, Philippines—Globe President and CEO Carl Cruz highlighted the telecommunications company’s artificial intelligence (AI)-driven transformation and commitment to digital inclusion during the Mobile World Congress (MWC) 2026.\nCruz cited the firm... [2538 chars]",
+        "url": "https://www.manilatimes.net/2026/04/05/business/globe-ceo-pushes-ai-driven-transformation/2314462",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/05/1001747.jpg",
+        "publishedAt": "2026-04-05T14:23:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "f124b17cc8bfe76c1205468385f93b08",
+        "title": "AI is breaking crypto security by making hacks cheaper and easier, Ledger CTO warns",
+        "description": "Ledger’s Charles Guillemet says artificial intelligence is making hacks cheaper and faster, forcing a rethink of how crypto systems stay secure.",
+        "content": "Crypto platforms — and investors — have long suffered from hacker attacks and exploits. Now, artificial intelligence (AI) is making that threat even worse.\nThat’s the view of Charles Guillemet, chief technology officer at crypto wallet provider Ledge... [2846 chars]",
+        "url": "https://www.coindesk.com/tech/2026/04/05/ai-is-making-crypto-s-security-problem-even-worse-ledger-cto-warns",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f205b693401668459daafca203c91ba897d86b9d-2516x1415.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-05T14:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "75ca59dd354694befc1cf6038cf9ca33",
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ce8b49fde299f1cb757b4e5ac469dcbd",
+        "title": "‘Learn to sit with…’: Data analyst shares 7 simple life lessons that AI cannot teach you",
+        "description": "Data analyst Sakshi Mishra shares seven essential strategies to navigate daily life without over-reliance on artificial intelligence. These methods aim to preserve individual thought and decision-making. Mishra emphasizes embracing discomfort, practicing deep listening, and adopting an entrepreneurial mindset. She also highlights the importance of basic life skills, diverse reading, investing in relationships, and cultivating a personal sense of purpose.",
+        "content": "Synopsis\nData analyst Sakshi Mishra shares seven essential strategies to navigate daily life without over-reliance on artificial intelligence. These methods aim to preserve individual thought and decision-making. Mishra emphasizes embracing discomfor... [4822 chars]",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/learn-to-sit-with-data-analyst-shares-7-simple-life-lessons-that-ai-cannot-teach-you/articleshow/130040541.cms",
+        "image": "https://img.etimg.com/thumb/msid-130040662,width-1200,height-630,imgsize-59910,overlay-etpanache/articleshow.jpg",
+        "publishedAt": "2026-04-05T13:59:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "ec98623f74370ba9c2f9f533a1061955",
         "title": "Meet a former VC who has a plan to prepare American students for an AI-disrupted future",
         "description": "For years, Ted Dintersmith has been sounding the alarm that American schools don’t adequately prepare children for the future. Artificial intelligence will be an inflection point, he said.",
@@ -93,70 +157,6 @@
             "name": "Slate",
             "url": "https://slate.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "4238ffd21e8e756c213c96ae1f64e662",
-        "title": "led demand to drive sharp surge in semiconductor revenues: Goldman Sachs",
-        "description": "Artificial intelligence is powering a boom in the semiconductor industry. Goldman Sachs reports strong investment and revenue growth are expected through 2026. AI-related hardware revenues could reach over $700 billion by late 2026. This surge is fueled by demand for AI infrastructure.",
-        "content": "Synopsis\nArtificial intelligence is powering a boom in the semiconductor industry. Goldman Sachs reports strong investment and revenue growth are expected through 2026. AI-related hardware revenues could reach over $700 billion by late 2026. This sur... [3537 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-led-demand-to-drive-sharp-surge-in-semiconductor-revenues-goldman-sachs/articleshow/130036959.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-111006,resizemode-75,msid-130036959/tech/artificial-intelligence/ai-led-demand-to-drive-sharp-surge-in-semiconductor-revenues-goldman-sachs.jpg",
-        "publishedAt": "2026-04-05T09:43:39Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a6f98b9791b1479355166265f6c12681",
-        "title": "American billionaire Mark Cuban warns startup CEOs: You are in deep shit if it doesn’t make sense for you to ask your AI models questions about ...",
-        "description": "Tech News News: American billionaire investor Mark Cuban has now sounded the alarm for startup CEOs, warning that those who fail to embrace artificial intelligence ri.",
-        "content": "Mark Cuban.\nAmerican billionaire investor Mark Cuban has now sounded the alarm for startup CEOs, warning that those who fail to embrace artificial intelligence risk being displayed by AI-native competitors. In a post shared on social media platform X... [3224 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/american-billionaire-mark-cuban-warns-startup-ceos-you-are-in-deep-shit-if-it-doesnt-make-sense-for-you-to-ask-your-ai-models-questions-about-/articleshow/130036650.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130036645,width-1280,height-720,imgsize-132326,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-05T09:16:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d305f3ecdd4ac223cf3755817b9829fa",
-        "title": "Assist, not abdicate: Drawing the line on lawyers’ use of AI",
-        "description": "#Benchmark: The Supreme Court has flagged what many had begun to suspect: petitions increasingly bear the imprint of artificial intelligence — not just in language, but in substance.",
-        "content": "It often starts as help for lawyers using AI. A line here, a paragraph there — and before long, the brief is no longer entirely their own.\nThat quiet shift has now reached the courtroom door.\nThe concern is no longer theoretical. The Supreme Court ha... [3947 chars]",
-        "url": "https://www.tribuneindia.com/news/india/assist-not-abdicate-drawing-the-line-on-lawyers-use-of-ai/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTcyMWU2ZTQwLTMwY2EtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-        "publishedAt": "2026-04-05T08:31:56Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8838e8e07e462e954a17f3d1758abe76",
-        "title": "Finance Complaint List Alerts Public to AI-Powered Deepfake Scams Using Celebrity Likenesses to Lure Crypto Investors",
-        "description": "Finance Complaint List has issued a new public warning addressing the rapid rise of sophisticated scams involving artificial intelligence and deepfake technology.",
-        "content": "Share\nShare\nShare\nShare\nEmail\nNew advisory highlights the growing threat of manipulated videos and fake endorsements targeting unsuspecting investors in digital asset markets.\nFinance Complaint List has issued a new public warning addressing the rapi... [6058 chars]",
-        "url": "https://techbullion.com/finance-complaint-list-alerts-public-to-ai-powered-deepfake-scams-using-celebrity-likenesses-to-lure-crypto-investors/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/04/image-3-1.jpeg",
-        "publishedAt": "2026-04-05T08:10:56Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
         }
     }
 ]
