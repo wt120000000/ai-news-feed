@@ -1,5 +1,37 @@
 [
     {
+        "id": "aa039a9430a0ee18461bf42843d60244",
+        "title": "Jeff Bezos’s startup lab hires xAI co",
+        "description": "Tech News News: Jeff Bezos’s \\\"secretive\\\" artificial intelligence (AI) startup lab reportedly continues to build its team. A report claims that the lab has recently hi.",
+        "content": "Jeff Bezos’s \"secretive\" artificial intelligence (AI) startup lab reportedly continues to build its team. A report claims that the lab has recently hired, which also reflects the ongoing talent movement across major AI companies. According to a repor... [3014 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezoss-startup-lab-hires-xai-co-founder-who-had-joined-openai/articleshow/130081987.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130081989,width-1280,height-720,imgsize-795460,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-07T09:11:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "fa3fcabae4b1f0bed19d44be6a942885",
+        "title": "AI in the mental health care workforce is met with fear, pushback — and enthusiasm",
+        "description": "Artificial intelligence tools that help mental health therapists take notes and keep records are quickly entering the marketplace. But some question the safety of AI in mental health care delivery.",
+        "content": "Artificial intelligence has arrived in the field of mental health. Large health systems and independent therapists alike have begun to adopt different AI tools to manage the delivery of mental health treatment.\nThe speed of the adoption — alongside d... [7041 chars]",
+        "url": "https://www.npr.org/2026/04/07/nx-s1-5771707/mental-health-care-workforce-artificial-intelligence-ai",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2033x1144+0+112/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2Fe1%2F2f5e2e244a11a2cb7b7d74dd3b95%2Fgettyimages-1609437924.jpg",
+        "publishedAt": "2026-04-07T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "b41851fb2662ea502db29f71ec4d1583",
+            "name": "NPR",
+            "url": "https://www.npr.org",
+            "country": "us"
+        }
+    },
+    {
         "id": "593fc9c1d042c85e499ea5730fa4db00",
         "title": "Anthropic partners with Broadcom and Google for AI chips",
         "description": "Anthropic on Monday announced a deal with Google and Broadcom for a massive infusion of computing capacity as demand for the startup's artificial intelligence offerings soars.",
@@ -125,38 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "ec1a625847e1a52a037740df4408a2c6",
-        "title": "iGOT Karmayogi: Haryana govt asks all state employees to undergo AI training via this portal; Check how to register and login for free",
-        "description": "iGOT Karmayogi: Haryana Chief Secretary Anurag Rastogi has issued a directive to all state administrative heads and educational institutions to prioritize Artificial Intelligence (AI) skilling through the iGOT Karmayogi platform. The initiative aims to modernize the state's administrative framework by providing officials with certified, self-paced digital courses on topics ranging from Generative AI to urban governance transformation.",
-        "content": "Synopsis\niGOT Karmayogi: Haryana Chief Secretary Anurag Rastogi has issued a directive to all state administrative heads and educational institutions to prioritize Artificial Intelligence (AI) skilling through the iGOT Karmayogi platform. The initiat... [4042 chars]",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/igot-karmayogi-haryana-govt-asks-all-state-employees-to-undergo-ai-training-via-this-portal-check-how-to-register-and-login-for-free/articleshow/130079035.cms",
-        "image": "https://img.etimg.com/thumb/msid-130079342,width-1200,height-630,imgsize-1235032,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-07T07:10:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "27dee9fbb036015c58baa801d578fb8c",
-        "title": "How is China helping Iran against US-Israel combine? Chinese AI satellite firm exposed for mapping American bases, reports claim",
-        "description": "Chinese technology firms are creating intelligence products using artificial intelligence and satellite data. These products are reportedly being used by Iran to target United States and allied forces in the Middle East. This development raises concerns about operational security and the potential for increased risks to military personnel. US authorities are reportedly taking steps to address this emerging threat.",
-        "content": "Synopsis\nChinese technology firms are creating intelligence products using artificial intelligence and satellite data. These products are reportedly being used by Iran to target United States and allied forces in the Middle East. This development rai... [4449 chars]",
-        "url": "https://economictimes.indiatimes.com/us/news/how-is-china-helping-iran-against-us-israel-combine-chinese-ai-satellite-firm-exposed-for-mapping-american-bases-reports-claim/articleshow/130077526.cms",
-        "image": "https://img.etimg.com/thumb/msid-130078255,width-1200,height-630,imgsize-82452,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-07T06:23:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
