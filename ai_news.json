@@ -1,5 +1,37 @@
 [
     {
+        "id": "e951bf17a2673170db6c88e2f5811c94",
+        "title": "Somerville company uses AI to improve cities’ road repairs",
+        "description": "Cyvl's technology uses vehicle-mounted cameras and sensors to collect roadway data, which artificial intelligence analyzes to assess road conditions.",
+        "content": "Cities are constantly balancing tight budgets with growing infrastructure needs. A company based in Somerville, Massachusetts, says artificial intelligence can help make those decisions easier — and cheaper.\nInside Cyvl's lab, engineers are using AI ... [3046 chars]",
+        "url": "https://www.nbcboston.com/news/local/somerville-company-uses-ai-to-improve-cities-handling-of-road-repairs/3929072/",
+        "image": "https://media.nbcboston.com/2026/04/Cyvl-040626.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2026-04-07T02:46:23Z",
+        "lang": "en",
+        "source": {
+            "id": "8749653ef849c3df2e467a8e0f0c6672",
+            "name": "NBC10 Boston",
+            "url": "https://www.nbcboston.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "daf7b5ae463fcfe39921bdccef4caf30",
+        "title": "'Within Missile Range': Iran Threatens To Target US-Linked AI Centre In Abu Dhabi Amid Strikes",
+        "description": "Iran has warned that a US-linked artificial intelligence facility in Abu Dhabi could be considered a strategic target, following an attack at Tehran’s Sharif University.",
+        "content": "Iran has warned that a US-linked artificial intelligence facility in Abu Dhabi could be considered a strategic target, following an attack at Tehran’s Sharif University.\nIran signalled it may target a major US artificial intelligence data centre in t... [2510 chars]",
+        "url": "https://www.news18.com/world/iran-threatens-strike-us-ai-centre-abu-dhabi-openai-stargate-data-centre-iran-missiles-warning-sharif-university-attack-ws-l-10018399.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/04/MixCollage-07-Apr-2026-08-15-AM-9305-2026-04-f44d05d67309714622424c8d3ef998c3-1200x675.jpg",
+        "publishedAt": "2026-04-07T02:46:10Z",
+        "lang": "en",
+        "source": {
+            "id": "ca84296ef941bfa461f4239a2290cb99",
+            "name": "News18",
+            "url": "https://www.news18.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "a95580fd99f8b0eae947cbefeedc6b26",
         "title": "OpenAI, Anthropic, Google unite to combat model copying in China",
         "description": "Rivals OpenAI, Anthropic PBC, and Alphabet’s Google have begun working together to try to clamp down on Chinese competitors extracting results from cutting-edge US artificial intelligence models to gain an edge in the global AI race. The rare collaboration underscores the severity of a concern raised by US AI companies that some users, especially in China, are creating imitation versions of their products that could undercut them on price and siphon away customers while posing a national security risk.",
@@ -125,38 +157,6 @@
             "name": "CNBC",
             "url": "https://www.cnbc.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "5a9e0e588a0d04203336f077802f433b",
-        "title": "AI, pay, workload to be debated at ASTI convention",
-        "description": "Pay, teacher workload, and the use of artificial intelligence (AI) by students will be among the topics debated at this year's annual convention of the Association of Secondary Teachers, Ireland (ASTI).",
-        "content": "Pay, teacher workload, and the use of artificial intelligence (AI) by students will be among the topics debated at this year's annual convention of the Association of Secondary Teachers, Ireland (ASTI).\nAround 500 second-level teachers from across th... [2575 chars]",
-        "url": "https://www.rte.ie/news/education/2026/0407/1566925-ai-pay-workload-to-be-debated-at-asti-convention/",
-        "image": "https://www.rte.ie/images/0023cc79-1600.jpg",
-        "publishedAt": "2026-04-06T23:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "4c8b69bf547b577f84acbba5157b439c",
-            "name": "RTE.ie",
-            "url": "https://www.rte.ie",
-            "country": "ie"
-        }
-    },
-    {
-        "id": "a0acee387da2e5cbbe990b054fe98fda",
-        "title": "Chennai college asks students to declare AI use in assignments",
-        "description": "Chennai: To encourage responsible and ethical use of artificial intelligence (AI), Stella Maris College has asked its students to declare the use of A.",
-        "content": "Chennai: To encourage responsible and ethical use of artificial intelligence (AI), Stella Maris College has asked its students to declare the use of AI in class assignments and projects. Students are now required to give a handwritten honour code ple... [1950 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/chennai/chennai-college-asks-students-to-declare-ai-use-in-assignments/articleshow/130069965.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130069942,width-1280,height-720,imgsize-14506,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-06T22:59:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
