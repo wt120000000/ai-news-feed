@@ -1,5 +1,53 @@
 [
     {
+        "id": "c6902fc19c75f22d27865b391b3fec71",
+        "title": "Nvidia-SchedMD deal raises AI software access concerns",
+        "description": "TORONTO/SAN FRANCISCO - A niche acquisition by Nvidia NVDA.O has raised concerns among artificial-intelligence and supercomputer specialists who see the move as a test of the biggest AI chip company's commitment to maintaining a fair playing field for chip rivals and AI data center builders.",
+        "content": "TORONTO/SAN FRANCISCO - A niche acquisition by Nvidia NVDA.O has raised concerns among artificial-intelligence and supercomputer specialists who see the move as a test of the biggest AI chip company's commitment to maintaining a fair playing field fo... [4644 chars]",
+        "url": "https://www.manilatimes.net/2026/04/07/business/sunday-business-it/nvidiaschedmd-deal-raises-ai-software-access-concerns/2314994",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/07/1002866.jpg",
+        "publishedAt": "2026-04-06T20:49:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "6d26e0499ea75d3b6b5bf56ef1423f9c",
+        "title": "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access",
+        "description": "A niche acquisition by Nvidia has raised concerns among artificial-intelligence and supercomputer specialists who see the move as a test of the biggest AI chip company's commitment to maintaining ​a fair playing field for chip rivals and AI data center builders.",
+        "content": "Nvidia last December announced it would acquire SchedMD, giving it control of open-source software called ‌Slurm, which schedules computing tasks and is critical for training large language models that power chatbots such as Anthropic's Claude. Slurm... [3881 chars]",
+        "url": "https://www.reuters.com/technology/nvidia-acquisition-schedmd-sparks-worry-among-ai-specialists-about-software-2026-04-06/",
+        "image": "https://www.reuters.com/resizer/v2/J3IPMGPSFZNEVOUHLR6V34C2X4.jpg?auth=e0ea8fa8339a58c826224841f3a912c0f1c0aaaba844972f49ad9095542e9937&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-04-06T19:33:22Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "bb6ebc348580e32f43d5f5395c28344f",
+        "title": "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access",
+        "description": "A niche acquisition by Nvidia has raised concerns among artificial-intelligence and supercomputer specialists who see the move as a test of the biggest AI chip company's commitment to maintaining a...",
+        "content": "TORONTO/SAN FRANCISCO, April 6 (Reuters) - A niche acquisition by Nvidia has raised concerns among artificial-intelligence and supercomputer specialists who see the move as a test of the biggest AI chip company's commitment to maintaining a fair play... [4804 chars]",
+        "url": "https://www.marketscreener.com/news/nvidia-acquisition-of-schedmd-sparks-worry-among-ai-specialists-about-software-access-ce7e51d3d98df625",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-06T193635Z_2_LYNXMPEM350T8_RTROPTP_4_CERAWEEK-ENERGY.JPG",
+        "publishedAt": "2026-04-06T19:32:18Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "e5972b5cfdf6adc4dbbff9f9091e1148",
         "title": "Rating community resilience with a deep learning framework",
         "description": "An understanding of community resilience and risk analysis is vital when it comes to protecting civilians and infrastructure from natural hazards, such as hurricanes or earthquakes. Artificial intelligence is an efficient way to rate a community's resilience and vulnerability. However, factors that affect community resilience—like power grids and communications systems—are ranked independently by current assessment methods based on the assumed impact of each factor.",
@@ -109,54 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "8b7821d5270b061dabd38d770d9dc00c",
-        "title": "Larry Berman: Why are U.S. earnings going higher?",
-        "description": "Why are U.S. earnings going higher? Simply, the impact of artificial intelligence (AI) on profit margins is significant. It’s expected to drive tech sector earnings in a material way. It is also impacting job growth in the sector and improving productivity.",
-        "content": "Why are U.S. earnings going higher? Simply, the impact of artificial intelligence (AI) on profit margins is significant. It’s expected to drive tech sector earnings in a material way. It is also impacting job growth in the sector and improving produc... [1115 chars]",
-        "url": "https://www.bnnbloomberg.ca/investing/opinion/2026/04/06/larry-berman-why-are-us-earnings-going-higher/",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/Q6DPNF7LPRGFWL47NDGA3B6YMQ.jpg?smart=true&auth=28462f67add0f4f34753e33385faf285ad1d27566474fb0b8e66151691db34d6&width=1200&height=630",
-        "publishedAt": "2026-04-06T17:18:41Z",
-        "lang": "en",
-        "source": {
-            "id": "1b697445987e8a33f6c82842e17d60d9",
-            "name": "Bnn Bloomberg",
-            "url": "https://www.bnnbloomberg.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "55603835fd32d557b2d540e9a120974b",
-        "title": "AI emerges throughout Southern California’s real estate industry",
-        "description": "Artificial intelligence has finally landed in the real estate industry to help with handwriting hundreds of prospecting cards to a digital consultant that can narrow down mortgage options.",
-        "content": "From a robot that can handwrite hundreds of real estate prospecting cards in minutes to a digital consultant that can narrow down thousands of mortgage options for a client, artificial intelligence has finally arrived in the real estate industry.\nAcr... [4103 chars]",
-        "url": "https://www.ocregister.com/2026/04/06/ai-emerges-throughout-southern-californias-real-estate-industry/",
-        "image": "https://www.ocregister.com/wp-content/uploads/2026/04/OCR-L-AI-REAL-ESTATEone-0405-01.jpg?w=720&h=480",
-        "publishedAt": "2026-04-06T17:15:23Z",
-        "lang": "en",
-        "source": {
-            "id": "840efb5642a2fd3ae6da920bb4981626",
-            "name": "Santa Ana Orange County Register",
-            "url": "https://www.ocregister.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a280e078f9831cbbb8b8cff00ddc7e10",
-        "title": "AI reveals hidden connections within legal systems",
-        "description": "As governments worldwide explore how artificial intelligence can transform decision-making, a recent study from Sultan Qaboos University demonstrates how AI can uncover hidden connections within legal systems—offering a powerful tool to support smarter lawmaking. Published in The Journal of Engineering Research, the study applies natural language processing (NLP) and network analysis to Oman's Labor Law of 2023, revealing a complex web of interdependencies between its articles that may not be apparent through conventional legal review.",
-        "content": "As governments worldwide explore how artificial intelligence can transform decision-making, a recent study from Sultan Qaboos University demonstrates how AI can uncover hidden connections within legal systems—offering a powerful tool to support smart... [2735 chars]",
-        "url": "https://phys.org/news/2026-04-ai-reveals-hidden-legal.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/can-ai-read-the-law-be.jpg",
-        "publishedAt": "2026-04-06T17:00:02Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
         }
     }
 ]
