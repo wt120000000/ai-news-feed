@@ -1,5 +1,37 @@
 [
     {
+        "id": "d148f68d49985cb022ffdd1c50917b55",
+        "title": "Young New Yorkers Are Lining Up for Construction Apprenticeships",
+        "description": "Facing a bleak job market and fears around artificial intelligence, young workers are lining up for a shot to develop skills and secure jobs in the trades.",
+        "content": "On a recent evening in Queens, Eddy Alvarez realized he needed to change his plans.\nHe was scouting out the office of the insulators union where he and two friends planned to pick up applications the next morning for an apprenticeship, a yearslong pr... [1769 chars]",
+        "url": "https://www.nytimes.com/2026/04/08/realestate/young-new-yorkers-construction-jobs.html",
+        "image": "https://static01.nyt.com/images/2026/04/08/multimedia/08re-construction-apprentices-bzgk/08re-construction-apprentices-bzgk-facebookJumbo.jpg",
+        "publishedAt": "2026-04-08T09:00:45Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "11c4a8a68d0fb475d80ff987d51f688d",
+        "title": "Missouri AI regulation bill stalls over federal broadband funds",
+        "description": "Missouri lawmakers' efforts to regulate artificial intelligence stalled over fears of losing $900 million in federal broadband funds.",
+        "content": "Missouri lawmakers are debating legislation to regulate artificial intelligence, including safeguards for campaign ads and chatbots.\nThe proposed bill stalled in the state Senate over concerns it could jeopardize nearly $900 million in federal broadb... [7918 chars]",
+        "url": "https://www.news-leader.com/story/news/politics/2026/04/08/missouri-ai-bill-stalls-over-federal-broadband-funds/89500708007/",
+        "image": "https://www.news-leader.com/gcdn/authoring/authoring-images/2026/04/07/PSPR/89500966007-010825-nicola-12048-x-1318.jpg?crop=2047,1153,x0,y82&width=2047&height=1153&format=pjpg&auto=webp",
+        "publishedAt": "2026-04-08T08:50:49Z",
+        "lang": "en",
+        "source": {
+            "id": "2f434f5c3d175cea37cf4888421571e1",
+            "name": "Springfield News-Leader",
+            "url": "https://www.news-leader.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d62be94e8ff985676f72894f074fee8e",
         "title": "From the Gobi Desert to Canada’s North: This Chinese visionary is betting on AI to power this country’s future",
         "description": "In China, the energy landscape has reached a historic tipping point. For the first time, its total installed wind and solar capacity has officially surpassed that of coal. It’s a shift driven by massive industrial scale and artificial intelligence — and Chinese energy giants have their sights set on the Canadian wilderness.",
@@ -125,38 +157,6 @@
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "7454d6246ea335866c2f5c79dc650f9b",
-        "title": "India mints new unicorn as KreditBee raises $280 million in Series E",
-        "description": "Bengaluru-based Digital lending platform KreditBee will invest the fresh capital to scale Artificial Intelligence capabilities and expand lending portfolio.",
-        "content": "Digital lending platform KreditBee has become India's newest unicorn startup after raising $280 million as part of Series E round valuing the business at $1.5 billion.\nThe Bengaluru-based startup will invest the fresh capital to scale Artificial Inte... [1376 chars]",
-        "url": "https://www.cnbctv18.com/business/startup/india-mints-new-unicorn-as-kreditbee-raises-280-million-in-series-e-ws-l-19882658.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/04/a2947cdf-decd-4c1d-8a95-6c9e791cf6d6-2026-04-1375f577b0da9ce747ee5cb3b4c384df.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-04-08T05:58:30Z",
-        "lang": "en",
-        "source": {
-            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-            "name": "CNBC TV18",
-            "url": "https://www.cnbctv18.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8aa7d66c5f806693df8d07a4ce47c7bd",
-        "title": "Melania Trump hails first conviction under new law banning AI-generated child sex abuse images",
-        "description": "First lady Melania Trump on Tuesday hailed the first criminal conviction, James Strahler, under legislation she championed to outlaw artificial intelligence-generated images of child sexual abuse and revenge porn.",
-        "content": "First lady Melania Trump on Tuesday hailed the first criminal conviction under legislation she championed to outlaw artificial intelligence-generated images of child sexual abuse and revenge porn.\nJames Strahler, 37, pleaded guilty in a US District C... [3136 chars]",
-        "url": "https://nypost.com/2026/04/08/us-news/melania-trump-hails-first-conviction-james-strahler-under-new-law-banning-ai-generated-child-sex-abuse-images/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/newspress-collage-n94ks5kwk-1775627263943.jpg?quality=75&strip=all&1775612893&w=1200",
-        "publishedAt": "2026-04-08T05:58:29Z",
-        "lang": "en",
-        "source": {
-            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-            "name": "New York Post",
-            "url": "https://nypost.com",
-            "country": "us"
         }
     }
 ]
