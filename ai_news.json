@@ -1,5 +1,37 @@
 [
     {
+        "id": "d62be94e8ff985676f72894f074fee8e",
+        "title": "From the Gobi Desert to Canada’s North: This Chinese visionary is betting on AI to power this country’s future",
+        "description": "In China, the energy landscape has reached a historic tipping point. For the first time, its total installed wind and solar capacity has officially surpassed that of coal. It’s a shift driven by massive industrial scale and artificial intelligence — and Chinese energy giants have their sights set on the Canadian wilderness.",
+        "content": "Near the edge of China’s Gobi Desert, massive wind hubs managed by artificial intelligence are churning out electricity at a fraction of the cost of coal power.\nNow, the visionary behind the technology says he's ready to replicate that model in remot... [6857 chars]",
+        "url": "https://www.cbc.ca/news/world/china-canada-renewable-energy-ai-9.7151817",
+        "image": "https://i.cbc.ca/ais/6e19355c-2512-4d8b-ab7f-f3bac8a7a60b,1775153962280/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C182%2C3500%2C1968%29%3BResize%3D620",
+        "publishedAt": "2026-04-08T08:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+            "name": "CBC.ca",
+            "url": "https://www.cbc.ca",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "2a1e133895f7bf62383ae6fd0f508e54",
+        "title": "Broadcom confirms it will make future versions of Google’s AI chips; says: Will draw on ...",
+        "description": "Tech News News: Broadcom confirmed this week that it has agreed to manufacture future version of Google’s artificial intelligence chips, cementing its role in powerin.",
+        "content": "Broadcom\nBroadcom confirmed this week that it has agreed to manufacture future version of Google’s artificial intelligence chips, cementing its role in powering the next wave of generative AI. Along with this, the company also announced an expanded p... [2255 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/broadcom-confirms-it-will-make-future-versions-of-googles-ai-chips-says-will-draw-on-/articleshow/130106349.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130106345,width-1280,height-720,imgsize-134768,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-08T07:39:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "750b498c352d288589f408ea35e50fc7",
         "title": "Crook: Humans can decide whether AI kills or creates jobs",
         "description": "Does artificial intelligence herald soaring prosperity or mass unemployment?",
@@ -125,38 +157,6 @@
             "name": "New York Post",
             "url": "https://nypost.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "a9f7a290392b63d614e43f6411f380a6",
-        "title": "International Internet Flagship Event Returns to Hong Kong to Bolster the City's Status as an International I&T Centre",
-        "description": "HONG KONG, April 8, 2026 /PRNewswire/ -- The World Internet Conference (WIC) Asia-Pacific Summit, hosted by the WIC, organised by the Hong Kong Special Administrative Region (HKSAR) Government, and co-organised by the Innovation, Technology and Industry Bureau, will return to the Hong Kong Convention and Exhibition Centre from April 13 to 14. Under the theme 'Digital and Intelligent Empowerment for Innovative Development - Jointly Building a Community with a Shared Future in Cyberspace,' this year's Summit is expected to attract government and business leaders, representatives of international organisations, and esteemed experts and scholars from home and abroad to explore the latest global trends in artificial intelligence (AI), security and governance, digital finance and more.",
-        "content": "HONG KONG, April 8, 2026 /PRNewswire/ -- The World Internet Conference (WIC) Asia-Pacific Summit, hosted by the WIC, organised by the Hong Kong Special Administrative Region (HKSAR) Government, and co-organised by the Innovation, Technology and Indus... [5636 chars]",
-        "url": "https://www.manilatimes.net/2026/04/08/tmt-newswire/pr-newswire/international-internet-flagship-event-returns-to-hong-kong-to-bolster-the-citys-status-as-an-international-it-centre/2316068",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/08/1004741.jpg",
-        "publishedAt": "2026-04-08T05:53:04Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "00b73a2567ea90975d36f3bca2066dd9",
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Revolutionizing Lending: FinBox Enhances AI with MCP Support",
-        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
-        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
-        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2026-04-08T05:48:16Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
