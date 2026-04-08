@@ -1,92 +1,60 @@
 [
     {
-        "id": "631fb2221fcc169b7d6fb1f9289aa534",
-        "title": "How far can automation and AI support psychotherapy?",
-        "description": "Psychotherapy has always been a deeply human endeavor: a patient talking, a therapist listening and responding, and healing happening through words. But with the rapid rise of conversational artificial intelligence, particularly large language models (LLMs), that paradigm is shifting fast.",
-        "content": "Psychotherapy has always been a deeply human endeavor: a patient talking, a therapist listening and responding, and healing happening through words. But with the rapid rise of conversational artificial intelligence, particularly large language models... [6200 chars]",
-        "url": "https://medicalxpress.com/news/2026-04-automation-ai-psychotherapy.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/psychotherapy.jpg",
-        "publishedAt": "2026-04-07T14:30:02Z",
+        "id": "5e1c007c2a47c81da9999cd40e8e9120",
+        "title": "Human Writers Who Rage Against A.I.",
+        "description": "Readers discuss the ways writing and artificial intelligence don’t mix. Also: A degraded civil culture.",
+        "content": "To the Editor:\nRe “The ‘Shy Girl’ Fiasco Shows How Readers Can Lose Faith in Writers,” by Andrea Bartz (Opinion guest essay, March 26):\nOver 40 years ago, my mother traveled from the United States to visit me and her new grandson in a top-notch Victo... [1226 chars]",
+        "url": "https://www.nytimes.com/2026/04/07/opinion/writers-ai.html",
+        "image": "https://static01.nyt.com/images/2026/03/25/opinion/25Bartz/25Bartz-facebookJumbo.jpg",
+        "publishedAt": "2026-04-07T17:04:57Z",
         "lang": "en",
         "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
         }
     },
     {
-        "id": "e3445eff184a0e22921393d61f90e2be",
-        "title": "Uber bets on Amazon's custom chips to boost AI efforts",
-        "description": "Uber is now using Amazon's special computer chips. These chips will make Uber's technology faster. This helps with computing and training artificial intelligence models. The company wants to improve its digital services. This includes matching rides and deliveries more smoothly. Amazon is also benefiting by selling more of its custom chips to businesses.",
-        "content": "Synopsis\nUber is now using Amazon's special computer chips. These chips will make Uber's technology faster. This helps with computing and training artificial intelligence models. The company wants to improve its digital services. This includes matchi... [1013 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uber-bets-on-amazons-custom-chips-to-boost-ai-efforts/articleshow/130089420.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-777026,resizemode-75,msid-130089420/tech/artificial-intelligence/uber-bets-on-amazons-custom-chips-to-boost-ai-efforts.jpg",
-        "publishedAt": "2026-04-07T14:21:38Z",
+        "id": "fa176415b07b62e5f4cdbc0d1d61cf9d",
+        "title": "AI Video Generators vs Image Generators: What You Should Know in 2026",
+        "description": "Artificial intelligence is no longer just a supporting apparatus in substance creation—it has become the foundation of cutting edge computerized generation. Whether you’re planning visuals, creating recordings, or building whole campaigns, AI is reshaping […]",
+        "content": "Artificial intelligence is no longer just a supporting apparatus in substance creation—it has become the foundation of cutting edge computerized generation. Whether you’re planning visuals, creating recordings, or building whole campaigns, AI is resh... [6683 chars]",
+        "url": "https://signalscv.com/2026/04/ai-video-generators-vs-image-generators-what-you-should-know-in-2026/",
+        "image": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2020/06/08212541/cropped-SignalAppIcon-IG-32x32.jpg",
+        "publishedAt": "2026-04-07T16:47:34Z",
         "lang": "en",
         "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
+            "id": "ab6b7d957a91e0dbf63976cb1b9c26f5",
+            "name": "Santa Clarita Valley Signal",
+            "url": "https://signalscv.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "1d3794e03eb2407a4e00e59dff7cc6d5",
+        "title": "Intel Joins Musk’s Terafab AI Chip Project To Power Humanoid, Data Centre Goals",
+        "description": "The announcement comes months after Musk laid out plans for Tesla to build ​a massive artificial-intelligence chip fab to power the EV-maker's autonomous ambitions, and suggested the company ​could work with Intel.",
+        "content": "Intel said on Tuesday it will join Elon Musk's Terafab AI chip complex project with SpaceX and Tesla to ​make processors powering the tech billionaire's robotics and data centre ambitions.\nIntel's shares jumped nearly ‌3% after the announcement. The ... [2244 chars]",
+        "url": "https://www.republicworld.com/tech/intel-joins-musks-terafab-ai-chip-project-to-power-humanoid-data-centre-goals",
+        "image": "https://img.republicworld.com/all_images/2026/04/intel-1775579647908-1280x720.webp",
+        "publishedAt": "2026-04-07T16:34:13Z",
+        "lang": "en",
+        "source": {
+            "id": "e479ce8332aab31d8bac6ba9584cedbb",
+            "name": "Republic World",
+            "url": "https://www.republicworld.com",
             "country": "in"
         }
     },
     {
-        "id": "93ff464991e587bf470f485c0aa3419c",
-        "title": "Google unveils new Gemini crisis feature",
-        "description": "Google on Tuesday announced updates to the mental health safeguards on its Gemini artificial intelligence chatbot, as the company faces a wrongful death lawsuit alleging the chatbot aided a user in his suicide.",
-        "content": "SAN FRANCISCO - Google on Tuesday announced updates to the mental health safeguards on its Gemini artificial intelligence chatbot, as the company faces a wrongful death lawsuit alleging the chatbot aided a user in his suicide.\nThe tech giant said Gem... [2057 chars]",
-        "url": "https://www.cp24.com/news/world/2026/04/07/google-adds-gemini-crisis-features-amid-lawsuit-over-users-suicide/",
-        "image": "https://www.cp24.com/resizer/v2/636TYLHE6SEKQBCDUHAG4YTLOQ.jpg?smart=true&auth=eacf4eb0d0e7ba3a47b7c64b4d1cea6d45c04b95a373fdfe43e1114a525066a8&width=1200&height=630",
-        "publishedAt": "2026-04-07T14:15:48Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "804cba1b93a4aa7ba72b476a946c542f",
-        "title": "E 2 and other top ChatGPT projects at OpenAI, quits: Read her note to employees",
-        "description": "Tech News News: Joanne Jang, a key executive who helped shape some of the top capabilities and personality of the world’s most popular artificial intelligence (AI) to.",
-        "content": "Credit: Time Magazine\nJoanne Jang, a key executive who helped shape some of the top capabilities and personality of the world’s most popular artificial intelligence (AI) tools, has announced her departure from OpenAI after four and a half years. Jang... [2830 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/joanne-jang-who-led-gpt-4-dall-e-2-and-other-top-chatgpt-projects-at-openai-quits-read-her-note-to-employees/articleshow/130089253.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130089233,width-1280,height-720,imgsize-23722,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-07T14:11:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "3a12a3cec5b1fd09c3a7c9d424e4ff23",
-        "title": "Interpretable machine learning model advances analysis of complex genetic traits",
-        "description": "A new study published in Genome Research presents an interpretable artificial intelligence framework that improves both the accuracy and transparency of genomic prediction, a key challenge in fields such as precision medicine, crop science, and animal breeding.",
-        "content": "A new study published in Genome Research presents an interpretable artificial intelligence framework that improves both the accuracy and transparency of genomic prediction, a key challenge in fields such as precision medicine, crop science, and anima... [2742 chars]",
-        "url": "https://www.news-medical.net/news/20260407/Interpretable-machine-learning-model-advances-analysis-of-complex-genetic-traits.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2026-04-07T14:09:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "a2cb88caa288ea7d0411ae4c4da77a7d",
-        "title": "Anthropic partners with Broadcom and Google for AI chips",
-        "description": "SAN FRANCISCO, California — Anthropic on Monday announced a deal with Google and Broadcom for a massive infusion of computing capacity as demand for the startup’s artificial intelligence (AI) offerings soars.",
-        "content": "SAN FRANCISCO, California — Anthropic on Monday announced a deal with Google and Broadcom for a massive infusion of computing capacity as demand for the startup’s artificial intelligence (AI) offerings soars.\nThe San Francisco-based AI firm is on pac... [1238 chars]",
-        "url": "https://www.manilatimes.net/2026/04/07/business/foreign-business/anthropic-partners-with-broadcom-and-google-for-ai-chips/2315709",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-04-07T14:00:00Z",
+        "id": "2effc4a1695d77cad5e9ff2e5bb3ba57",
+        "title": "Samsung flags eightfold jump in quarterly profit as AI chip demand pumps prices",
+        "description": "SEOUL — Tech giant Samsung Electronics estimated on Tuesday that its first-quarter (Q1) profit had soared 755 percent annually to a record high of 57.2 trillion won ($37.9 billion), driven by strong sales of chips crucial for artificial intelligence (AI).",
+        "content": "SEOUL — Tech giant Samsung Electronics estimated on Tuesday that its first-quarter (Q1) profit had soared 755 percent annually to a record high of 57.2 trillion won ($37.9 billion), driven by strong sales of chips crucial for artificial intelligence ... [3255 chars]",
+        "url": "https://www.manilatimes.net/2026/04/08/business/foreign-business/samsung-flags-eightfold-jump-in-quarterly-profit-as-ai-chip-demand-pumps-prices/2315725",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/07/1004026.jpg",
+        "publishedAt": "2026-04-07T16:21:00Z",
         "lang": "en",
         "source": {
             "id": "7c666ee953f873d3057b310220f510df",
@@ -96,67 +64,99 @@
         }
     },
     {
-        "id": "476a9e543b14cd349e314f47ccb7d41c",
-        "title": "Atento Achieves International Recognition for Applied AI Research",
-        "description": "/PRNewswire/ -- Atento announces that a scientific study developed in-house by its Artificial Intelligence team has been accepted for presentation at PROPOR...",
-        "content": "MIRAMAR, Fla., April 7, 2026 /PRNewswire/ -- Atento announces that a scientific study developed in-house by its Artificial Intelligence team has been accepted for presentation at PROPOR 2026 - 17th International Conference on Computational Processing... [3370 chars]",
-        "url": "https://www.prnewswire.co.uk/news-releases/atento-achieves-international-recognition-for-applied-ai-research-302735567.html",
-        "image": "https://mma.prnewswire.com/media/2790465/5903661/Atento_Logo.jpg?p=facebook",
-        "publishedAt": "2026-04-07T14:00:00Z",
+        "id": "ab6544a17b8c39e5a5dc097e9afe7046",
+        "title": "Google adds mental health tools to Gemini chatbot after lawsuit",
+        "description": "Alphabet Inc.'s Google plans to introduce new mental health support features for its Gemini chatbot as the company and rivals, like OpenAI, have faced several lawsuits accusing their artificial intelligence tools of leading to harm.",
+        "content": "By Mark Bergen, Bloomberg\nAlphabet Inc.’s Google plans to introduce new mental health support features for its Gemini chatbot as the company and rivals, like OpenAI, have faced several lawsuits accusing their artificial intelligence tools of leading ... [1737 chars]",
+        "url": "https://www.mercurynews.com/2026/04/07/google-adds-mental-health-tools-to-gemini-chatbot-after-lawsuit/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2026/01/Apple_Google_Artificial_Intelligence_82007.jpg?w=1024&h=682",
+        "publishedAt": "2026-04-07T15:57:46Z",
         "lang": "en",
         "source": {
-            "id": "f4d035ae0463df22c36ae97972a33ba6",
-            "name": "PR Newswire UK",
-            "url": "https://www.prnewswire.co.uk",
+            "id": "17d7c2645f485578130862e0c8dd9480",
+            "name": "The Mercury News",
+            "url": "https://www.mercurynews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "843a248fcc467b81afb9ef53ca3c14e6",
+        "title": "How to Invest in SpaceX Pre-IPO Via ETFs",
+        "description": "Market Analysis by covering: ERShares Private-Public Crossover ETF, KraneShares Artificial Intelligence and Technology ETF, Baron First Principles ETF, Tema Space Innovators ETF. Read 's Market Analysis on Investing.com",
+        "content": "We are heading into what could be one of the biggest IPO cycles in recent memory. There is no shortage of high-profile, innovative companies expected to debut, but unlike past cycles where valuations were in the billions, this time we are talking abo... [5287 chars]",
+        "url": "https://www.investing.com/analysis/how-to-invest-in-spacex-preipo-via-etfs-200677955",
+        "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+        "publishedAt": "2026-04-07T15:34:08Z",
+        "lang": "en",
+        "source": {
+            "id": "e86028f8795c9864b8757b36b53954ef",
+            "name": "Investing.com",
+            "url": "https://www.investing.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "8264454cc4251c8afdb9a1a7996ee240",
+        "title": "Why Seattle tech companies are still laying off workers",
+        "description": "Layoffs at tech companies are continuing at a blistering pace this year as the industry navigates emerging artificial intelligence trends and the ballooning costs associated with them. The tech sector, which includes Seattle's Amazon and Redmond's Microsoft as well as thousands of smaller firms, announced more than 18,700 job cuts in March for a total of 52,050 this year, according to a recent ...",
+        "content": "By Alex Halverson, The Seattle Times\nLayoffs at tech companies are continuing at a blistering pace this year as the industry navigates emerging artificial intelligence trends and the ballooning costs associated with them.\nThe tech sector, which inclu... [5250 chars]",
+        "url": "https://www.courant.com/2026/04/07/why-seattle-tech-companies-are-still-laying-off-workers-2/",
+        "image": "https://www.courant.com/wp-content/uploads/2026/04/202604061150MCT_____PHOTO____BIZ-CPT-TECH-LAYOFFS-SEATTLE-GET.jpg?w=1024&h=682",
+        "publishedAt": "2026-04-07T15:30:39Z",
+        "lang": "en",
+        "source": {
+            "id": "494f687bd1dfaa9f7b4a705c860671d0",
+            "name": "Hartford Courant",
+            "url": "https://www.courant.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6e90b5a916d7eb35ea54e64ebd139c3a",
+        "title": "How technology stopped being an ‘expensive toy’ and started generating profits",
+        "description": "A decade ago, advancements like artificial intelligence, augmented reality, and automation were seen as costly experiments for Silicon Valley giants.",
+        "content": "In 2026, the business world finally passed the point of no return in its relationship with ultramodern technology. Just a decade ago, advancements like artificial intelligence, augmented reality, and automation were perceived as prestige items or cos... [4802 chars]",
+        "url": "https://augustafreepress.com/commercial/how-technology-stopped-being-an-expensive-toy-and-started-generating-profits/",
+        "image": "https://augustafreepress.com/wp-content/uploads/2026/04/AI-cloud-password-protection-business-finance.jpg",
+        "publishedAt": "2026-04-07T15:16:47Z",
+        "lang": "en",
+        "source": {
+            "id": "4cda04aac68febbbf6f365965739681e",
+            "name": "Augusta Free Press",
+            "url": "https://augustafreepress.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3a833344276bdf689375c8cea3855e7d",
+        "title": "Meta Stock Dips Below $570 in 2026: Should Investors Buy the AI Dip or Sell Ahead of Earnings?",
+        "description": "Meta Platforms Inc. shares slid more than 1% in morning trading Tuesday, dipping below $570 as the social media and advertising powerhouse navigates heavy artificial intelligence spending and a",
+        "content": "Meta Platforms Inc. shares slid more than 1% in morning trading Tuesday, dipping below $570 as the social media and advertising powerhouse navigates heavy artificial intelligence spending and a pullback from last year's highs, leaving investors debat... [7066 chars]",
+        "url": "https://www.ibtimes.com/meta-stock-dips-below-570-2026-should-investors-buy-ai-dip-sell-ahead-earnings-3800954",
+        "image": "https://d.ibtimes.com/en/full/4647126/headquarters-facebook-parent-company-meta-platforms-inc-mountain-view.jpg",
+        "publishedAt": "2026-04-07T15:15:59Z",
+        "lang": "en",
+        "source": {
+            "id": "933344203c2b862af768b5e662a162a4",
+            "name": "International Business Times",
+            "url": "https://www.ibtimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3037f1acc5b316393b578f57b93a014e",
+        "title": "Wells Fargo issues urgent warning to all customers",
+        "description": "WELLS Fargo has urged all customers to protect themselves this year amid the widespread growth of generative artificial intelligence.\nThe...",
+        "content": "WELLS Fargo has urged all customers to protect themselves this year amid the widespread growth of generative artificial intelligence.\nThe warning comes not long after users with the bank and two top competitors faced a unique $4 charge scheme that dr... [3821 chars]",
+        "url": "https://www.the-sun.com/money/16189143/wells-fargo-urgent-warning-prevent-ai-scams/",
+        "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/03/wells-fargo-sign-wells-fargo-1065040983.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+        "publishedAt": "2026-04-07T15:00:04Z",
+        "lang": "en",
+        "source": {
+            "id": "df8898b40ea58da32bb50978f1d85cb3",
+            "name": "The Sun U.S Edition",
+            "url": "https://www.the-sun.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "5a03b7569eb469db44eb23dae6deed76",
-        "title": "P Radhakrishnan advocates ethical use of AI, modern tech",
-        "description": "V-P Radhakrishnan advocates ethical use of AI, modern tech - New Delhi, April 7 Advocating responsible and accountable use of modern technologies such as artificial intelligence, Vice President ... Get Latest News on National only on lokmattimes.com",
-        "content": "New Delhi, April 7 Advocating responsible and accountable use of modern technologies such as artificial intelligence, Vice President (V-P) C.P. Radhakrishnan said on Tuesday that scientific advancement should be guided by Bharat's ethical values.\nAdd... [2365 chars]",
-        "url": "https://www.lokmattimes.com/national/v-p-radhakrishnan-advocates-ethical-use-of-ai-modern-tech/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202604073738591_202604.jpg",
-        "publishedAt": "2026-04-07T13:30:44Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1a27022005c794bbff1223d1dc663e9d",
-        "title": "powered features to make shopping easier: What are they and how to use them",
-        "description": "Tech News News: Google has announced that it is rolling out three artificial intelligence (AI)-powered shopping features for Indian users. These features combine the .",
-        "content": "Google has announced that it is rolling out three artificial intelligence (AI)-powered shopping features for Indian users. These features combine the company’s Gemini AI models with its product database to make discovering, comparing and buying produ... [3978 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-brings-3-gemini-powered-features-to-make-shopping-easier-what-are-they-and-how-to-use-them/articleshow/130088161.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130088203,width-1280,height-720,imgsize-20120,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-07T13:22:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8a4604ec1b4f41190711fc442ce7411d",
-        "title": "‘AI will never replace teachers,’ says CEO of one of education’s Big Three: Here’s why",
-        "description": "News News: When conversations about artificial intelligence in education turn anxious, the fear is usually the same. Will machines replace teachers?Philip Moyer,.",
-        "content": "When conversations about artificial intelligence in education turn anxious, the fear is usually the same. Will machines replace teachers? Philip Moyer, President and Chief Executive Officer (CEO) of McGraw Hill, does not think so. In a recent opinion... [3942 chars]",
-        "url": "https://timesofindia.indiatimes.com/education/news/ai-will-never-replace-teachers-says-ceo-of-one-of-educations-big-three-heres-why/articleshow/130087893.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130088180,width-1280,height-720,imgsize-179370,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-07T13:21:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
