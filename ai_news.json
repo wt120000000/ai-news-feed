@@ -1,5 +1,37 @@
 [
     {
+        "id": "19caddc914d59016cb77d749cb8e38bb",
+        "title": "Anthropic’s Restraint Is a Terrifying Warning Sign",
+        "description": "The rapid advance of artificial intelligence is happening now.",
+        "content": "Normally right now I would be writing about the geopolitical implications of the war with Iran, and I am sure I will again soon. But I want to interrupt that thought to highlight a stunning advance in artificial intelligence — one that arrived sooner... [2326 chars]",
+        "url": "https://www.nytimes.com/2026/04/07/opinion/anthropic-ai-claude-mythos.html",
+        "image": "https://static01.nyt.com/images/2026/04/07/opinion/07friedman/07friedman-facebookJumbo.jpg",
+        "publishedAt": "2026-04-08T01:02:10Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "91b71ef58b3dc6870c8f3f6367ad26e8",
+        "title": "New research institute to ramp up efforts as Hong Kong pursues ‘AI for all’",
+        "description": "Artificial Intelligence Research and Development Institute’s first meeting will be held as early as this month to formulate city’s AI road map.",
+        "content": "A new research institute in Hong Kong is set to ramp up efforts to develop “AI for all” as early as this month, mapping out a strategy to strengthen the government’s capabilities while ensuring all residents and sectors benefit from the technology, a... [775 chars]",
+        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349304/new-research-institute-ramp-efforts-hong-kong-pursues-ai-all",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/07/3247fc52-a0e0-4b5d-9b39-4131adec75b2_04dc7787.jpg?itok=SS0ULhW9&v=1775576759",
+        "publishedAt": "2026-04-08T00:30:09Z",
+        "lang": "en",
+        "source": {
+            "id": "d6397b77175680e2678c0d60edcee7af",
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com",
+            "country": "hk"
+        }
+    },
+    {
         "id": "317139ab890763e3423a6cf96374015d",
         "title": "Anthropic pits bot against bot in AI cyberwar with powerful new model",
         "description": "A new release from the artificial intelligence giant is being viewed as a game-changer in stopping cyberattacks that could also expose dodgy software, experts say.",
@@ -125,38 +157,6 @@
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "c7e44b2483861a79719e0e13023c321d",
-        "title": "Michigan man allegedly used AI to create child sexually abusive material, prosecutors say",
-        "description": "Artificial intelligence technology was used to create at least some of the more than 40,0000 child sexually abusive images that resulted in multiple felony charges, prosecutors say.",
-        "content": "A Metro Detroit man who allegedly admitted to using artificial intelligence to create sexually explicit photos of children is now facing multiple charges, according to the Oakland County Prosecutor's Office.\nAustin McCarty, 35, of South Lyon, was cha... [1531 chars]",
-        "url": "https://www.cbsnews.com/detroit/news/ai-technology-child-sexually-abusive-material-oakland-county-michigan/",
-        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/27/f0a3ac7b-7c84-4cd5-8f78-a98cf1ff8a80/thumbnail/1200x630/5b4c4a8691214e79074152324740000b/gettyimages-2213986074.jpg",
-        "publishedAt": "2026-04-07T21:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "3a3847d645a619320aa3b3484581e395",
-            "name": "CBS News",
-            "url": "https://www.cbsnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f4c2698dadbe34339b955d7e9a9485dc",
-        "title": "Japan's plus-size industry holds strong despite weight stigma, rise of AI",
-        "description": "The body positivity movement may have cooled since its 2010s peak, but Japan's plus-size industry remains resilient thanks to tight-knit communities, even as weight stigma lingers and artificial intelligence could mark another turning point. In Japan, the movement has largely been grassroots, with social media driving change over the past…",
-        "content": "The body positivity movement may have cooled since its 2010s peak, but Japan's plus-size industry remains resilient thanks to tight-knit communities, even as weight stigma lingers and artificial intelligence could mark another turning point.\nIn Japan... [5130 chars]",
-        "url": "https://japantoday.com/category/features/lifestyle/feature-japan's-plus-size-industry-holds-strong-despite-weight-stigma-rise-of-ai",
-        "image": "https://media.japantoday.com/img/store/72/08/223572ef9bcafa74a40cb761244e2fe5212b/20260401kw___0022100010-ph-----n-ci0004/_w1700.jpeg",
-        "publishedAt": "2026-04-07T21:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
