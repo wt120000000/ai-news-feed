@@ -1,5 +1,37 @@
 [
     {
+        "id": "b2a2923791481f5894d3f34f45b22c66",
+        "title": "World-shaking cyberattack could hit in 2026, Sam Altman issues dire warning",
+        "description": "In the rapidly evolving age of artificial intelligence, cyber threats are becoming more pronounced and dangerous.\nWhat’s more scary is that OpenAI CEO Sam Altman issued a chilling warning of...",
+        "content": "In the rapidly evolving age of artificial intelligence, cyber threats are becoming more pronounced and dangerous.\nWhat’s more scary is that OpenAI CEO Sam Altman issued a chilling warning of an upcoming “world-shaking” cyberattack.\nAdvertisement\nIn a... [1516 chars]",
+        "url": "https://www.thenews.com.pk/latest/1398192-world-shaking-cyberattack-could-hit-in-2026-sam-altman-issues-dire-warning",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-08/1398192_043934_updates.jpg",
+        "publishedAt": "2026-04-08T11:39:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "342f74e29d3b9d48aaafcc49fa54095b",
+        "title": "Huawei Cloud Accelerates AI in Thailand’s Public Sector",
+        "description": "Bangkok, April 7 – Huawei Cloud is driving Thailand’s digital transformation by enabling the large-scale deployment of artificial intelligence (AI) across key government agencies, demonstrating how cloud and AI technologies can deliver tangible improvements in public services, regulatory efficiency, and economic development.",
+        "content": "Bangkok, April 7 – Huawei Cloud is driving Thailand’s digital transformation by enabling the large-scale deployment of artificial intelligence (AI) across key government agencies, demonstrating how cloud and AI technologies can deliver tangible impro... [5331 chars]",
+        "url": "https://www.bangkokpost.com/thailand/pr/3233303/huawei-cloud-accelerates-ai-in-thailands-public-sector",
+        "image": "https://static.bangkokpost.com/media/content/20260408/c1_3233303_700.jpg",
+        "publishedAt": "2026-04-08T11:11:00Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
         "id": "ce1b694457dfe53d449316493e372d24",
         "title": "Grab to lean on scale, AI to navigate rising fuel costs, CEO says",
         "description": "Southeast Asia's top ride-hailing and delivery firm Grab believes artificial intelligence-led products ‌and services will help it drive growth and navigate challenges such as affordability and rising fuel costs in the wake of the war in Iran, company CEO Anthony Tan told Reuters.",
@@ -125,38 +157,6 @@
             "name": "CBC.ca",
             "url": "https://www.cbc.ca",
             "country": "ca"
-        }
-    },
-    {
-        "id": "2a1e133895f7bf62383ae6fd0f508e54",
-        "title": "Broadcom confirms it will make future versions of Google’s AI chips; says: Will draw on ...",
-        "description": "Tech News News: Broadcom confirmed this week that it has agreed to manufacture future version of Google’s artificial intelligence chips, cementing its role in powerin.",
-        "content": "Broadcom\nBroadcom confirmed this week that it has agreed to manufacture future version of Google’s artificial intelligence chips, cementing its role in powering the next wave of generative AI. Along with this, the company also announced an expanded p... [2255 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/broadcom-confirms-it-will-make-future-versions-of-googles-ai-chips-says-will-draw-on-/articleshow/130106349.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130106345,width-1280,height-720,imgsize-134768,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-08T07:39:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "750b498c352d288589f408ea35e50fc7",
-        "title": "Crook: Humans can decide whether AI kills or creates jobs",
-        "description": "Does artificial intelligence herald soaring prosperity or mass unemployment?",
-        "content": "Does artificial intelligence herald soaring prosperity or mass unemployment, political breakdown and Orwellian subjection? Nobody, not even AI, can honestly say.\nForced to guess, I’d predict some of both. The point is, the outcome isn’t predetermined... [5731 chars]",
-        "url": "https://www.pressdemocrat.com/2026/04/08/crook-humans-can-decide-whether-ai-kills-or-creates-jobs/",
-        "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/04/GettyImages-2226867384.jpg?w=1024&h=576",
-        "publishedAt": "2026-04-08T07:00:18Z",
-        "lang": "en",
-        "source": {
-            "id": "6f68e6d7cd20b33baacb487a0e911008",
-            "name": "Santa Rosa Press Democrat",
-            "url": "https://www.pressdemocrat.com",
-            "country": "us"
         }
     }
 ]
