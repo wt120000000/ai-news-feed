@@ -1,5 +1,69 @@
 [
     {
+        "id": "790bb31685d162119c17a712299bd47f",
+        "title": "Elon Musk's xAI sues Colorado over state's new AI law",
+        "description": "April 9 (Reuters) - xAI filed a ⁠lawsuit on Thursday seeking to block Colorado from enforcing a new ⁠law regulating artificial intelligence systems, escalating a fight over whether oversight ‌should be handled by states or by Washington.",
+        "content": "April 9 (Reuters) - xAI filed a ⁠lawsuit on Thursday seeking to block Colorado from enforcing a new ⁠law regulating artificial intelligence systems, escalating a fight over whether oversight ‌should be handled by states or by Washington.\nThe lawsuit,... [1825 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/10/elon-musk039s-xai-sues-colorado-over-state039s-new-ai-law",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/10/3853007.jpg",
+        "publishedAt": "2026-04-09T23:31:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "2f35f798cb709717ea83b7ea807f7461",
+        "title": "Exclusive-Anthropic weighs building it own AI chips, sources say",
+        "description": "SAN FRANCISCO, April 9 (Reuters) - Artificial intelligence lab Anthropic is exploring ⁠the possibility of designing its own chips, three sources said, as ‌the company and its rivals respond to a shortage of AI chips needed to power and develop more advanced AI systems.",
+        "content": "SAN FRANCISCO, April 9 (Reuters) - Artificial intelligence lab Anthropic is exploring ⁠the possibility of designing its own chips, three sources said, as ‌the company and its rivals respond to a shortage of AI chips needed to power and develop more a... [1540 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/10/exclusive-anthropic-weighs-building-it-own-ai-chips-sources-say",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/10/3853006.jpg",
+        "publishedAt": "2026-04-09T23:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "761c0ed529b4bc3be6af2b053cc78bac",
+        "title": "Environment Canada to use AI in new weather forecasting model",
+        "description": "Environment and Climate Change Canada will use artificial intelligence to make its weather forecasts more accurate, the federal department said Thursday.",
+        "content": "Environment and Climate Change Canada will use artificial intelligence to make its weather forecasts more accurate, the federal department said Thursday.\nIt plans to launch a hybrid model this spring that uses both AI and traditional forecasting and ... [2415 chars]",
+        "url": "https://www.cbc.ca/news/politics/environment-canada-using-ai-weather-forecast-9.7158457",
+        "image": "https://i.cbc.ca/ais/5e7087ee-17d5-4b60-8557-33b74a4736cf,1775775395672/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C428%2C8192%2C4608%29%3BResize%3D620",
+        "publishedAt": "2026-04-09T23:07:27Z",
+        "lang": "en",
+        "source": {
+            "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+            "name": "CBC.ca",
+            "url": "https://www.cbc.ca",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "8eac9a05f3d7e731526e80f6b736da44",
+        "title": "Exclusive: Anthropic weighs building it own AI chips, sources say",
+        "description": "Artificial intelligence lab Anthropic is exploring the possibility of designing its own chips, ​three sources said, as the company and its rivals respond to ‌a shortage of AI chips needed to power and develop more advanced AI systems.",
+        "content": "SAN FRANCISCO, April 9 (Reuters) - Artificial intelligence lab Anthropic is exploring the possibility of designing its own chips, ​three sources said, as the company and its rivals respond to ‌a shortage of AI chips needed to power and develop more a... [1385 chars]",
+        "url": "https://www.reuters.com/business/anthropic-weighs-building-it-own-ai-chips-sources-say-2026-04-09/",
+        "image": "https://www.reuters.com/resizer/v2/EWB6CRWK7ZLNRLPTKHU2VEYHLE.jpg?auth=ba5767c9fc676e7bbeeb29384e8e6adc72cb28f1a56ec93dba8e5475fdbdc31c&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-04-09T23:00:30Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "1be226b264a6715234046451076bac01",
         "title": "Elon Musk's xAI sues Colorado over state's new AI law",
         "description": "xAI filed a lawsuit on Thursday seeking to block Colorado from enforcing a new law regulating artificial intelligence systems, escalating a fight over whether ​oversight should be handled by states or by Washington.",
@@ -93,70 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "cac196d3ac60d0eb91e871d3ce63cd72",
-        "title": "Waiting for DeepSeek: New model to test China's AI ambitions",
-        "description": "For weeks now, the global tech industry has been waiting for a major artificial intelligence launch from DeepSeek, seen as a benchmark for China's progress in the fast-moving field. More than a year has passed since the startup put Chinese AI on the map in early 2025 with a low-cost…",
-        "content": "For weeks now, the global tech industry has been waiting for a major artificial intelligence launch from DeepSeek, seen as a benchmark for China's progress in the fast-moving field.\nMore than a year has passed since the startup put Chinese AI on the ... [3759 chars]",
-        "url": "https://japantoday.com/category/tech/waiting-for-deepseek-new-model-to-test-china%27s-ai-ambitions",
-        "image": "https://media.japantoday.com/img/store/f0/df/c899f35d8ed85793cabaa834e5fe9660f4a3/46b2ac1614ede03cba8a908674ccbd14b1f08c21/_w1700.jpeg",
-        "publishedAt": "2026-04-09T20:42:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "b388fa00f37bd945bb26e4852ed1d9a8",
-        "title": "Waiting for DeepSeek: New model to test China's AI ambitions",
-        "description": "For weeks now, the global tech industry has been waiting for a major artificial intelligence launch from DeepSeek, seen as a benchmark for China's progress in the fast-moving field. More than a year has passed since the startup put Chinese AI on the map in early 2025 with a low-cost…",
-        "content": "For weeks now, the global tech industry has been waiting for a major artificial intelligence launch from DeepSeek, seen as a benchmark for China's progress in the fast-moving field.\nMore than a year has passed since the startup put Chinese AI on the ... [3759 chars]",
-        "url": "https://japantoday.com/category/tech/waiting-for-deepseek-new-model-to-test-china's-ai-ambitions",
-        "image": "https://media.japantoday.com/img/store/f0/df/c899f35d8ed85793cabaa834e5fe9660f4a3/46b2ac1614ede03cba8a908674ccbd14b1f08c21/_w1700.jpeg",
-        "publishedAt": "2026-04-09T20:42:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "261f77f6cb7f6d9586383519deffb63e",
-        "title": "Why AI Is Redefining Taxi Dispatch from Software to Mobility Infrastructure",
-        "description": "The worldwide market for taxi dispatch software has evolved rapidly over the past decade, but in 2026, one factor is clearly separating platforms: artificial intelligence.",
-        "content": "Share\nShare\nShare\nShare\nEmail\nTop Taxi Dispatch Systems in 2026: How AI Is Becoming the Key Differentiator\nThe worldwide market for taxi dispatch software has evolved rapidly over the past decade, but in 2026, one factor is clearly separating platfor... [2594 chars]",
-        "url": "https://techbullion.com/why-ai-is-redefining-taxi-dispatch-from-software-to-mobility-infrastructure-2/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/04/image-12-1-983x600.png",
-        "publishedAt": "2026-04-09T20:21:27Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "3c03b435e712fd5a294c0f92b98d3eae",
-        "title": "Universities of Wisconsin regents cite disputes over AI and other topics in president’s firing",
-        "description": "Leaders on the board that oversees the Universities of Wisconsin rebuffed the fired system president’s claim that he was “blindsided” by their decision to oust him, telling lawmakers Thursday that he was slow to address pressing issues like artificial intelligence and feared upsetting policymakers, faculty and staff.",
-        "content": "MADISON, Wis. (AP) — Leaders on the board that oversees the Universities of Wisconsin rebuffed the fired system president’s claim that he was “blindsided” by their decision to oust him, telling lawmakers Thursday that he was slow to address pressing ... [2592 chars]",
-        "url": "https://www.weau.com/2026/04/09/universities-wisconsin-regents-cite-disputes-over-ai-other-topics-presidents-firing/",
-        "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/H2NCMUJJDFAVNIEQJ3GTRXIRBE.jpg?auth=fdc93cf0ea6e048d1226362f660f5ae7aa152e0b76ef1139718658ce030adc46&width=1200&height=600&smart=true",
-        "publishedAt": "2026-04-09T20:13:49Z",
-        "lang": "en",
-        "source": {
-            "id": "3f09ae62ee37a33ab191a698fec83f4b",
-            "name": "WEAU",
-            "url": "https://www.weau.com",
-            "country": "us"
         }
     }
 ]
