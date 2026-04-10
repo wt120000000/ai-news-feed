@@ -1,5 +1,21 @@
 [
     {
+        "id": "f3e7196d240b7b138ca53be77ee410ef",
+        "title": "Chinese startup ShengShu raises $293 million to advance artificial general intelligence",
+        "description": "Founded in early 2023 by ​Tsinghua University alum Zhu Jun, ShengShu became the first Chinese company to release a video generation model when it launched Vidu in April 2024. The model was positioned as a competitor to OpenAI's Sora, which the US company later discontinued.",
+        "content": "Synopsis\nFounded in early 2023 by ​Tsinghua University alum Zhu Jun, ShengShu became the first Chinese company to release a video generation model when it launched Vidu in April 2024. The model was positioned as a competitor to OpenAI's Sora, which t... [2037 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/funding/chinese-startup-shengshu-raises-293-million-to-advance-artificial-general-intelligence/articleshow/130159734.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-136936,resizemode-75,msid-130159734/tech/funding/chinese-startup-shengshu-raises-293-million-to-advance-artificial-general-intelligence.jpg",
+        "publishedAt": "2026-04-10T04:55:05Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "2308887c3db03f154d91b81781a82659",
         "title": "Wipro shares jump 3% as board eyes buyback after three years on April 16",
         "description": "Wipro share price rallied 3% after the IT firm announced it would consider a share buyback. This potential move comes after a significant stock decline this year. The company is also focusing on artificial intelligence as a key growth driver. Management expects some margin pressure but remains confident in maintaining operating margins. Analyst sentiment is cautious regarding the stock.",
@@ -141,22 +157,6 @@
             "name": "Reuters",
             "url": "https://www.reuters.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "b3cb5dfbc6351b27bdcff2edce56f853",
-        "title": "US, India agree to further cooperation under Pax Silica",
-        "description": "India and the United States are set to deepen their collaboration. Discussions focused on Pax Silica, artificial intelligence, and critical minerals. Foreign Secretary Vikram Misri met with US Under Secretary Jacob Helberg. This engagement aims to strengthen economic and technology ties between the two nations. India joined Pax Silica earlier this year.",
-        "content": "Synopsis\nIndia and the United States are set to deepen their collaboration. Discussions focused on Pax Silica, artificial intelligence, and critical minerals. Foreign Secretary Vikram Misri met with US Under Secretary Jacob Helberg. This engagement a... [2653 chars]",
-        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-india-agree-to-further-cooperation-under-pax-silica/articleshow/130156681.cms",
-        "image": "https://img.etimg.com/thumb/msid-130156694,width-1200,height-630,imgsize-1295026,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-10T01:24:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
