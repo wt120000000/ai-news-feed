@@ -1,5 +1,37 @@
 [
     {
+        "id": "5b99b9c68ceacebf0d1cd2345fe59359",
+        "title": "Former OpenAI Stargate leaders plan to join Meta Platforms",
+        "description": "Three key players in OpenAI’s massive effort to set up hundreds of billions of dollars’ worth of artificial intelligence data center capacity are joining Meta Platforms. Peter Hoeschele, who played a critical role in OpenAI’s Stargate initiative, is one of the new hires.",
+        "content": "Synopsis\nThree key players in OpenAI’s massive effort to set up hundreds of billions of dollars’ worth of artificial intelligence data center capacity are joining Meta Platforms. Peter Hoeschele, who played a critical role in OpenAI’s Stargate initia... [2840 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/former-openai-stargate-leaders-plan-to-join-meta-platforms/articleshow/130184933.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37608,resizemode-75,msid-130184933/tech/technology/former-openai-stargate-leaders-plan-to-join-meta-platforms.jpg",
+        "publishedAt": "2026-04-11T05:14:33Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "e017a7546088ce71f2fee17df07bbe45",
+        "title": "China's state media turns to social media, AI to tell its story, often mock US",
+        "description": "The messaging from China's Communist government may once have been dogmatic and rigid - not anymore. Having largely tamed the internet at home with tight censorship, Beijing is now tapping the power of social media and artificial intelligence to tell its story - and often to skewer the US and its president.",
+        "content": "The messaging from China's Communist government may once have been dogmatic and rigid - not anymore. Having largely tamed the internet at home with tight censorship, Beijing is now tapping the power of social media and artificial intelligence to tell... [5132 chars]",
+        "url": "https://www.tribuneindia.com/news/china/chinas-state-media-turns-to-social-media-ai-to-tell-its-story-often-mock-us/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNlNmNlOTYwLTM1NjEtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
+        "publishedAt": "2026-04-11T04:49:16Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "9230657873f6321828b0309b37fc52cc",
         "title": "SAP CEO Christian Klein warns employees: Company’s AI transition would be as painful as its shift to ...",
         "description": "Tech News News: SAP CEO Christian Klein has warned employees that the company’s shift to artificial intelligence will not be easy, saying it could be as difficult as .",
@@ -125,38 +157,6 @@
             "name": "CP24 Toronto",
             "url": "https://www.cp24.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "751efe14174c49c5d2f44636a7ec1422",
-        "title": "China’s State Media Turns to Social Media and AI to Tell Its Story - and Often Mock the US",
-        "description": "BEIJING (AP) — The messaging from China’s Communist government may once have been dogmatic and rigid — not anymore. Having largely tamed the internet at home with tight censorship, Beijing is now tapping the power of social media and artificial intelligence to tell its story — and often to skewer the U.S. and its president.",
-        "content": "BEIJING (AP) — The messaging from China’s Communist government may once have been dogmatic and rigid — not anymore. Having largely tamed the internet at home with tight censorship, Beijing is now tapping the power of social media and artificial intel... [5386 chars]",
-        "url": "https://www.usnews.com/news/world/articles/2026-04-10/chinas-state-media-turns-to-social-media-and-ai-to-tell-its-story-and-often-mock-the-us",
-        "image": "https://www.usnews.com/dims4/USNEWS/7bc28e4/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F19%2Fe0ebb2dd79b2542f4ba8fb0babdf0d%2F755c75789d954a39946157621a269d59China_AI_Propaganda_Video_15_49.jpg",
-        "publishedAt": "2026-04-11T01:01:00Z",
-        "lang": "en",
-        "source": {
-            "id": "37128a060981dbbe79321f096e7d1108",
-            "name": "U.S. News & World Report",
-            "url": "https://www.usnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a115c622bb6f5d3755d395807df9e23e",
-        "title": "How AI helped 1 man (and his brother) build a US$1.8 billion company",
-        "description": "Who needs more than two employees when artificial intelligence can do so many corporate tasks? It's super efficient – and a little bit lonely.",
-        "content": "LOS ANGELES: Matthew Gallagher took just two months, US$20,000 (RM79,626) and more than a dozen artificial intelligence tools to get his startup off the ground.\nFrom his house in Los Angeles, Gallagher, 41, used AI to write the code for the software ... [9430 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/11/how-ai-helped-1-man-and-his-brother-build-a-us18-billion-company",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/10/3853714.jpg",
-        "publishedAt": "2026-04-11T01:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
