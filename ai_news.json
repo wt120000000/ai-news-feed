@@ -1,5 +1,37 @@
 [
     {
+        "id": "596b25220709a40f0cd80f5f3b4a861e",
+        "title": "PJM Targets 15 Gigawatts of New Power for Data Center Boom",
+        "description": "PJM Interconnection LLC is seeking 15 gigawatts of new power supplies in an emergency proposal to address potential electricity shortages stemming from the boom in artificial intelligence.",
+        "content": "PJM Interconnection LLC is seeking 15 gigawatts of new power supplies in an emergency proposal to address potential electricity shortages stemming from the boom in artificial intelligence .\nThe operator of the 13-state eastern US grid would match pro... [301 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-10/pjm-targets-15-gigawatts-of-new-power-to-feed-data-center-boom",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuuPsd91Usgs/v1/1200x800.jpg",
+        "publishedAt": "2026-04-10T21:35:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7a0397a20722c790dd3f8d7232000453",
+        "title": "Blackstone Files for IPO of Data Center Acquisition Firm",
+        "description": "Blackstone Inc. filed for an initial public offering of a new data-center acquisition vehicle that plans to buy already-built and leased properties benefiting from the artificial intelligence boom.",
+        "content": "Blackstone Inc. filed for an initial public offering of a new data-center acquisition vehicle that plans to buy already-built and leased properties benefiting from the artificial intelligence boom.\nThe new vehicle, Blackstone Digital Infrastructure T... [362 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-10/blackstone-files-for-ipo-of-data-center-acquisition-firm",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLoHResn1zkY/v0/1200x800.jpg",
+        "publishedAt": "2026-04-10T21:09:44Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d1c31cef5062b173bb4c51327f5e9145",
         "title": "AI safety institute examining OpenAI protocols: minister",
         "description": "Artificial Intelligence Minister Evan Solomon says Canada’s AI safety institute has now gained access to all of OpenAI’s “protocols.”",
@@ -125,38 +157,6 @@
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "1d11c621a4f2e539f1e733e49b4004b1",
-        "title": "Suspect arrested after Molotov cocktail attack at OpenAI CEO Sam Altman's home",
-        "description": "San Francisco police arrested a person for allegedly ​throwing a Molotov cocktail at OpenAI CEO Sam ‌Altman's home and for making threats outside the artificial intelligence startup's headquarters, the company said on Friday.",
-        "content": "April 10 (Reuters) - San Francisco police arrested a person for allegedly ​throwing a Molotov cocktail at OpenAI CEO Sam ‌Altman's home and for making threats outside the artificial intelligence startup's headquarters, the company said on Friday.\n\"Th... [1076 chars]",
-        "url": "https://www.reuters.com/world/us/suspect-arrested-after-molotov-cocktail-attack-openai-ceo-sam-altmans-home-2026-04-10/",
-        "image": "https://www.reuters.com/resizer/v2/QG2WGYMWYNMY5L5ILQFXW2JNLU.jpg?auth=1ee2601fb2e7e4a8e679b85518cf57a31f44d6f9e0051a7f06dc1ce78c4184a4&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-04-10T19:00:05Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ae52b086a18e1daac2aa64fd77516883",
-        "title": "Suspect arrested after Molotov cocktail attack at OpenAI CEO Sam Altman's home",
-        "description": "A person was arrested by San Francisco police for allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and for making threats outside the artificial intelligence startup's...",
-        "content": "April 10 (Reuters) - A person was arrested by San Francisco police for allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and for making threats outside the artificial intelligence startup's headquarters, the company said on Friday... [337 chars]",
-        "url": "https://www.marketscreener.com/news/suspect-arrested-after-molotov-cocktail-attack-at-openai-ceo-sam-altman-s-home-ce7e50d9db8cf12c",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-20T194610Z_3_LYNXMPEM2J14B_RTROPTP_4_OPENAI-ALTMAN-SISTER-LAWSUIT.JPG",
-        "publishedAt": "2026-04-10T18:56:14Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
