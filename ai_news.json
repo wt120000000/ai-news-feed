@@ -1,5 +1,37 @@
 [
     {
+        "id": "7b89897d637b955bea1135ed5b652fc0",
+        "title": "Banks Warned About Anthropic’s New, Powerful A.I. Technology",
+        "description": "In an unusual move, the Treasury secretary and the Federal Reserve chair gathered bank executives to caution about cyberthreats posed by artificial intelligence.",
+        "content": "The leaders of some of America’s largest banks were warned by a top government official this week about a new artificial intelligence model from Anthropic that could lead to heightened risks of cyberattacks, according to three people briefed on the m... [1761 chars]",
+        "url": "https://www.nytimes.com/2026/04/10/business/anthropic-claude-mythos-preview-banks.html",
+        "image": "https://static01.nyt.com/images/2026/04/10/multimedia/00banks-ai-lvzw/00banks-ai-lvzw-facebookJumbo.jpg",
+        "publishedAt": "2026-04-10T23:17:34Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "358933ca9ee72b742d40de047d617de4",
+        "title": "Minister says AI safety institute now looking at OpenAI protocols",
+        "description": "Canada’s AI safety institute has now gained access to all of OpenAI’s “protocols,” Artificial Intelligence Minister Evan Solomon said Friday.",
+        "content": "Canada’s AI safety institute has now gained access to all of OpenAI’s “protocols,” Artificial Intelligence Minister Evan Solomon said Friday.\nSolomon added the AI Safety Institute is working on a report and promised that “we will get accountability.”... [1620 chars]",
+        "url": "https://cheknews.ca/minister-says-ai-safety-institute-now-looking-at-openai-protocols-1318008/",
+        "image": "https://cheknews.ca/wp-content/uploads/2026/04/bc8714d8-3a12-481b-a63c-3d7b18ddfde7-scaled-e1775861027368.jpg",
+        "publishedAt": "2026-04-10T22:48:52Z",
+        "lang": "en",
+        "source": {
+            "id": "010284b7a4ddb4771793c29b39893951",
+            "name": "CHEK News",
+            "url": "https://cheknews.ca",
+            "country": "ca"
+        }
+    },
+    {
         "id": "ecdccfcd8b64ac6b87850d0482469cf6",
         "title": "Use of artificial intelligence in arbitration should be regulated, not shunned: CJI Surya Kant",
         "description": "NEW DELHI, Apr 10 : Chief Justice of India Surya Kant on Friday said the use of artificial technology in arbitration should not be shunned over concerns of confidentiality and independent decision-making; instead, its use should be regulated through a procedural framework. CJI Kant emphasised that protocols on cyber security and confidentiality should “keep pace” so that technology becomes arbitration’s “powerful ally” in a fast-paced world. The country’s top judge was speaking at the inaugural session of the Indian Council […]",
@@ -125,38 +157,6 @@
             "name": "BayToday",
             "url": "https://www.baytoday.ca",
             "country": "ca"
-        }
-    },
-    {
-        "id": "5563792c008983244244b9c4afdc8673",
-        "title": "Minister says AI safety institute now looking at OpenAI protocols",
-        "description": "OTTAWA — Artificial Intelligence Minister Evan Solomon says Canada’s AI safety institute has now gained access to all of OpenAI’s “protocols.",
-        "content": "OTTAWA — Artificial Intelligence Minister Evan Solomon says Canada’s AI safety institute has now gained access to all of OpenAI’s “protocols.”\nSolomon met with the CEO of OpenAI in March after news emerged that the company had banned the mass shooter... [931 chars]",
-        "url": "https://www.sootoday.com/national-news/minister-says-ai-safety-institute-now-looking-at-openai-protocols-12127555",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/7caddddc3e4c1073bf02388435486d8d96592726df79d7d7ec395b4774df4a37.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2026-04-10T20:37:30Z",
-        "lang": "en",
-        "source": {
-            "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-            "name": "SooToday",
-            "url": "https://www.sootoday.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "414bb2643525ee23fbbbde02670428b4",
-        "title": "Experts warn over growing dependence on conversational AI",
-        "description": "An increasing number of people are forming emotionally close relationships with conversational artificial intelligence tools such as ChatGPT, with some users describing them as friends, counselors or even family members, according to recent surveys. The findings suggest a shift in how AI is perceived, driven in part by its constant…",
-        "content": "An increasing number of people are forming emotionally close relationships with conversational artificial intelligence tools such as ChatGPT, with some users describing them as friends, counselors or even family members, according to recent surveys.\n... [3446 chars]",
-        "url": "https://japantoday.com/category/tech/feature-experts-warn-over-growing-dependence-on-conversational-ai",
-        "image": "https://japantoday.com/images/japan-today-social.jpg",
-        "publishedAt": "2026-04-10T20:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
