@@ -1,5 +1,37 @@
 [
     {
+        "id": "07d2d3980ba008db4d80d87d52511a46",
+        "title": "animated show Legenda Bertuah gets mixed reaction",
+        "description": "A television show that uses generative artificial intelligence to animate Indonesian folktales is creating a stir.",
+        "content": "Baca artikelnya dalam bahasa Indonesia\nAn evil giant thrashes his arms as brown waves of mud swallow the angry beast and he disappears beneath the surface.\nAt first glance, the creature from Javanese folktale the Legend of Timun Mas looks like a char... [7965 chars]",
+        "url": "https://www.abc.net.au/news/2026-04-12/indonesias-first-fully-animated-ai-television-program/106536048",
+        "image": "https://live-production.wcms.abc-cdn.net.au/a079ee7eb35c30640e0effb04b64d8ee?impolicy=wcms_watermark_news&cropH=555&cropW=987&xPos=2&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-12T02:20:03Z",
+        "lang": "en",
+        "source": {
+            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+            "name": "ABC (Australian Broadcasting Corporation)",
+            "url": "https://www.abc.net.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "b41a0ce5a0eb82e035010ab0e45ac100",
+        "title": "SoftBank has set up a company in Japan to develop AI domestically, Nikkei says",
+        "description": "SoftBank Group Corp:\nSoftBank has set up a company in Japan to develop artificial intelligence domestically, Nikkei says.\nEight companies, including NEC and Honda, are investing in SoftBank's new...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/softbank-has-set-up-a-company-in-japan-to-develop-ai-domestically-nikkei-says-ce7e50d9df8ff724",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-04-12T01:52:24Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "4c9b7f18e00b80b0fefdca4c2c4e5077",
         "title": "K’taka drafts AI-focused law to tighten social media regulation",
         "description": "Bengaluru: Karnataka's proposed digital safety law aims to tighten regulation of social media platforms with a focus on artificial intelligence (AI), .",
@@ -125,38 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "00b73a2567ea90975d36f3bca2066dd9",
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - NITK Unveils NOMAD: AI Platform Revolutionizing Disaster Management",
-        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
-        "content": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment ... [502 chars]",
-        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2026-04-11T13:16:31Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e370cd7908d04d7a299b06935475c932",
-        "title": "Can AI protect classified data? US defence tests limits",
-        "description": "The artificial intelligence security challenge is deepening as US defence and intelligence agencies race to adopt AI tools without risking sensitive data leaks.\nThe issue has gained attention...",
-        "content": "The artificial intelligence security challenge is deepening as US defence and intelligence agencies race to adopt AI tools without risking sensitive data leaks.\nThe issue has gained attention following tensions between Anthropic and the Pentagon, hig... [2116 chars]",
-        "url": "https://www.thenews.com.pk/latest/1398556-can-ai-protect-classified-data-us-defence-tests-limits",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-11/1398556_062102_updates.jpg",
-        "publishedAt": "2026-04-11T13:00:59Z",
-        "lang": "en",
-        "source": {
-            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-            "name": "The News International",
-            "url": "https://www.thenews.com.pk",
-            "country": "pk"
         }
     }
 ]
