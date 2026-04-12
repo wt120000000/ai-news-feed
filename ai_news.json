@@ -1,5 +1,37 @@
 [
     {
+        "id": "1dec03080d3423dd495a7cae62f02b41",
+        "title": "'Stop hiring humans'? Silicon Valley confronts AI job panic",
+        "description": "SAN FRANCISCO — AI industry insiders want workers to code smarter, think harder and lean into their humanity — but still dodge the question of how many jobs artificial intelligence will destroy.",
+        "content": "SAN FRANCISCO — AI industry insiders want workers to code smarter, think harder and lean into their humanity — but still dodge the question of how many jobs artificial intelligence will destroy.\nThe reassurance rang out across HumanX, a four-day conf... [3953 chars]",
+        "url": "https://www.manilatimes.net/2026/04/12/world/stop-hiring-humans-silicon-valley-confronts-ai-job-panic/2318627",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2026-04-12T11:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "2bc4b643019f9ce084fdbb182d6047cd",
+        "title": "powered energy efficiency at Mobile World Congress 2026",
+        "description": "As artificial intelligence rapidly expands across industries, a new question is emerging: how much energy will it consume, and how can telecommunication",
+        "content": "As artificial intelligence rapidly expands across industries, a new question is emerging: how much energy will it consume, and how can telecommunication companies manage energy demand responsibly? This was one of the key topics discussed at the GSMA ... [4142 chars]",
+        "url": "https://manilastandard.net/business/it-telecom/314725962/globe-spotlights-ai-powered-energy-efficiency-at-mobile-world-congress-2026.html",
+        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/04/Globe-at-Mobile-World-Congress-2026.jpg",
+        "publishedAt": "2026-04-12T11:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "e9207083a357fb7e76b38e485888ebe7",
+            "name": "manilastandard.net",
+            "url": "https://manilastandard.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "a2dbbdb2b4fadbf60ea2fe247a895366",
         "title": "UNM student calls for clear AI rules in the college classroom",
         "description": "A University of New Mexico junior describes how artificial intelligence tools like chatbots are reshaping college classes and argues that professors need clear AI guidelines to protect academic integrity and prepare students for the workforce.",
@@ -125,38 +157,6 @@
             "name": "The New York Times",
             "url": "https://www.nytimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "7c9e56603bcc4b9f9fc291aede97839f",
-        "title": "SCDOR to use AI to help decide which tax returns to audit",
-        "description": "Tax authorities have used artificial intelligence to find fraud and decide who to audit, with mixed results. In 2026 South Carolina will start using AI in audit selection, starting with",
-        "content": "South Carolina is joining a growing number of states using artificial intelligence to help select which taxpayers to audit starting this year.\n“We have been vetting for probably three or four years different companies and trying to decide if this is ... [4706 chars]",
-        "url": "https://www.postandcourier.com/news/sc-taxes-artificial-intelligence-audits-fast-scdor/article_54662d56-ae30-4130-845a-366547409477.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/8b/38b2455f-5cc3-4e79-bba1-6651cd48ba47/69a85f9819fa6.image.jpg?crop=1706%2C897%2C0%2C158&resize=1200%2C631&order=crop%2Cresize",
-        "publishedAt": "2026-04-12T09:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c1903669db0b115cc673ce9c333a70dd",
-            "name": "Charleston Post and Courier",
-            "url": "https://www.postandcourier.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0257a061b2b486a4f46cdf048b5104ce",
-        "title": "Expert parenting tips to raise emotionally strong children in an AI",
-        "description": "As artificial intelligence becomes increasingly embedded in education, work and daily life, the defining challenge of our time is no longer technologi.",
-        "content": "The Parenting Mistake Everyone’s Making in the AI Era\nAs artificial intelligence becomes increasingly embedded in education, work and daily life, the defining challenge of our time is no longer technological advancement alone but the preservation of ... [4847 chars]",
-        "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/expert-parenting-tips-to-raise-emotionally-strong-children-in-an-ai-driven-world/articleshow/130203336.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130204783,width-1280,height-720,imgsize-44740,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-12T08:33:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
