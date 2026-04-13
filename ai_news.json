@@ -1,5 +1,69 @@
 [
     {
+        "id": "875371fe7df3b30250e35636e26eced1",
+        "title": "Jennifer Lopez finally finds her dream man after Ben Affleck divorce",
+        "description": "It is being reported that Jennifer Lopez lost her trust in men and has turned to artificial intelligence to find love.\nRadar Online reported that Lopez sought the help of artificial intelligence to...",
+        "content": "It is being reported that Jennifer Lopez lost her trust in men and has turned to artificial intelligence to find love.\nRadar Online reported that Lopez sought the help of artificial intelligence to design the guy of her dreams with special attributes... [1151 chars]",
+        "url": "https://www.thenews.com.pk/latest/1398766-jennifer-lopez-finally-finds-her-dream-man-after-ben-affleck-divorce",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-13/1398766_044411_updates.jpg",
+        "publishedAt": "2026-04-13T11:37:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "9f84b11c9876f311e28fd1d3d967b074",
+        "title": "Apple's AI Chief John Giannandrea Departs This Week",
+        "description": "John Giannandrea, Apple's former head of artificial intelligence, is set to leave the company this week as his final stock vesting date approaches. In his \"Power On\" newsletter, Mark Gurman noted that Giannandrea's exit has been a prolonged one. Apple moved to dramatically reduce his role in March 2025 following the disappointing launch of Apple Intelligence and ongoing delays to the Siri overhaul, stripping him of oversight of Siri, robotics, and other AI teams at that time.",
+        "content": "John Giannandrea, Apple's former head of artificial intelligence, is set to leave the company this week as his final stock vesting date approaches.\nIn his \"Power On\" newsletter, Mark Gurman noted that Giannandrea's exit has been a prolonged one. Appl... [1489 chars]",
+        "url": "https://www.macrumors.com/2026/04/13/john-giannandrea-departs-apple-this-week/",
+        "image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
+        "publishedAt": "2026-04-13T11:23:27Z",
+        "lang": "en",
+        "source": {
+            "id": "10216cb8fabd0accd5eb967c97fc37ab",
+            "name": "MacRumors",
+            "url": "https://www.macrumors.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "fe3a116223709e5cca6e0a1d6843708a",
+        "title": "Sakeena Itoo Reviews Proposed AI Initiatives Of IIT Jammu For Reforms In School Education, Health Sectors",
+        "description": "JAMMU, Apr 13: Minister for Health and Medical Education, Social Welfare and Education, Sakeena Itoo, today chaired a high-level meeting to review the proposed Artificial Intelligence (AI) initiatives presented by IIT Jammu aimed at bringing transformational reforms in the School Education and Health sectors across Jammu and Kashmir. The meeting was attended by Commissioner Secretary, Health and Medical Education, M. Raju; CEO, State Health Agency, Anant Dwivedi; Directors of School Education Jammu/Kashmir and other senior officers of the Health and […]",
+        "content": "JAMMU, Apr 13: Minister for Health and Medical Education, Social Welfare and Education, Sakeena Itoo, today chaired a high-level meeting to review the proposed Artificial Intelligence (AI) initiatives presented by IIT Jammu aimed at bringing transfor... [3706 chars]",
+        "url": "https://www.dailyexcelsior.com/sakeena-itoo-reviews-proposed-ai-initiatives-of-iit-jammu-for-reforms-in-school-education-health-sectors/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/Sakeena-Itoo-reviews-proposed-AI-initiatives-of-IIT-Jammu-for-reforms-in-School-Education-Health-sectors-13.jpeg",
+        "publishedAt": "2026-04-13T11:21:27Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "3fdf91de8e1279d62c9d0fd358cfe2b4",
+        "title": "IIT-Kharagpur Launches Cutting-edge AI Certification Programmes",
+        "description": "The Indian Institute of Technology-Kharagpur has introduced online executive certification programs in artificial intelligence, aimed at equipping working professionals with practical skills. These programs, conducted by the Department of Computer Science and Engineering, include Generative AI and AI-Native Software Engineering, delivered through live online classes.",
+        "content": "The Indian Institute of Technology-Kharagpur has launched a groundbreaking series of online executive certification programmes in artificial intelligence, machine learning, and technology leadership.\nThe initiative aims to provide working professiona... [736 chars]",
+        "url": "https://www.devdiscourse.com/article/education/3872301-iit-kharagpur-launches-cutting-edge-ai-certification-programmes",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/02_10_2025_06_02_09_4748947.png?width=920&format=jpeg",
+        "publishedAt": "2026-04-13T11:17:15Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "f3e57b5d5570c6b840957e747516707b",
         "title": "OpenAI CEO Sam Altman addresses Molotov cocktail attack on his home and AI backlash",
         "description": "Hours after a Molotov cocktail was thrown at his San Francisco home, OpenAI Chief Executive Sam Altman addressed the criticism surrounding artificial intelligence that appears to have been the impetus for the attack.",
@@ -80,22 +144,6 @@
         }
     },
     {
-        "id": "448a4b4b3e18ba3561fe2a01ad959c77",
-        "title": "How AI could help doctors find lung cancer earlier - and save more lives",
-        "description": "Artificial intelligence is showing promise as a tool for detecting lung cancer nodules that even trained radiologists can miss, according to researchers in Cleveland.",
-        "content": "CLEVELAND, Ohio (InvestigateTV) — Artificial intelligence is showing promise as a tool for detecting lung cancer nodules that even trained radiologists can miss, according to researchers studying the technology at University Hospitals in Cleveland.\nL... [2476 chars]",
-        "url": "https://www.wistv.com/2026/04/13/how-ai-could-help-doctors-find-lung-cancer-earlier-save-more-lives/",
-        "image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/AUJX225GDNFKFP7MH6623OKL3A.png?auth=8aa614431cf91b0d5e126e1c067fbbeb5543c61b0d68791601e0cf2041474625&width=1200&height=600&smart=true",
-        "publishedAt": "2026-04-13T09:32:25Z",
-        "lang": "en",
-        "source": {
-            "id": "04c17c43a7507fac95fd9ba5d47715b5",
-            "name": "WIS10",
-            "url": "https://www.wistv.com",
-            "country": "us"
-        }
-    },
-    {
         "id": "3ffba0a1cf48d3663458129c4e8aa489",
         "title": "How AI could help doctors find lung cancer earlier - and save more lives",
         "description": "Artificial intelligence is showing promise as a tool for detecting lung cancer nodules that even trained radiologists can miss, according to researchers in Cleveland.",
@@ -108,54 +156,6 @@
             "id": "e7b4d14003cc89c64a689f1c38723ef5",
             "name": "Live 5 News WCSC",
             "url": "https://www.live5news.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "adfb6f4817e4cc6105edb074eb3a8be6",
-        "title": "Let's keep artificial intelligence inside prisons and out of classrooms: Here's why",
-        "description": "Asia’s rush to put AI in classrooms is driven as much by fear and profit as by progress. But what if this technology is harming children? AI is more likely to show positive educational results in other settings—such as skilling prison inmates for jobs.",
-        "content": "You don’t have to be a Luddite to see the problem: AI’s inherent promise is convenience, while learning requires effort. Those aims are fundamentally at odds. The technology does not belong in elementary school classrooms, and the later students enco... [4256 chars]",
-        "url": "https://www.livemint.com/opinion/online-views/artificial-intelligence-prisons-classrooms-ai-education-learning-edtech-jobs-upskilling-11775990408587.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/12/1600x900/logo/ai_robot_teacher_1775997284251_1775997292277.jpeg",
-        "publishedAt": "2026-04-13T09:30:24Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "507e33cbbad4592ea29b7cf8e5719d62",
-        "title": "AI users split into three groups as gap widens",
-        "description": "A growing divide in AI usage is creating three distinct groups of people: power users, doubters, and resisters, as artificial intelligence continues to reshape work and society. The trend involves...",
-        "content": "A growing divide in AI usage is creating three distinct groups of people: power users, doubters, and resisters, as artificial intelligence continues to reshape work and society. The trend involves industry leaders, workers, and policymakers, with dis... [1981 chars]",
-        "url": "https://www.thenews.com.pk/latest/1398739-ai-users-split-into-three-groups-as-gap-widens",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-13/1398739_023148_updates.jpg",
-        "publishedAt": "2026-04-13T09:22:31Z",
-        "lang": "en",
-        "source": {
-            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-            "name": "The News International",
-            "url": "https://www.thenews.com.pk",
-            "country": "pk"
-        }
-    },
-    {
-        "id": "5e9cc51f3ed0ea2b5a297e42bba2f257",
-        "title": "UT leads Tennessee's artificial intelligence future",
-        "description": "Our campuses are ensuring the benefits of artificial intelligence reach all 95 counties, writes UT System President Randy Boyd.",
-        "content": "Is the University of Tennessee System doing enough around artificial intelligence (AI)? I get that question a lot. The question isn’t whether Tennessee will be affected by AI. It’s whether we will lead.\nThe answer is yes.\nI graduated from UT Knoxvill... [3606 chars]",
-        "url": "https://www.knoxnews.com/story/opinion/columnists/2026/04/13/opinion-ut-leads-tennessees-artificial-intelligence-future/89538410007/",
-        "image": "https://www.knoxnews.com/gcdn/authoring/authoring-images/2026/03/23/PKNS/89288145007-knsut-ai-tennessee-event.jpg?crop=5551,3123,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2026-04-13T09:09:20Z",
-        "lang": "en",
-        "source": {
-            "id": "edabdc5188c3e742a3f9e22ffb926fed",
-            "name": "Knoxville News-Sentinel",
-            "url": "https://www.knoxnews.com",
             "country": "us"
         }
     }
