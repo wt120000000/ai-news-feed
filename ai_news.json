@@ -1,5 +1,21 @@
 [
     {
+        "id": "cbaae61937afc45fe7066e41e372357b",
+        "title": "Writers shouldn’t be ashamed of using AI",
+        "description": "Like most new technology, artificial intelligence makes work easier but does not replace it",
+        "content": "In the future universe imagined by Frank Herbert, the author of Dune, the absence of artificial intelligence even as humanity has colonised the stars is explained by an event of the distant past: “the Butlerian Jihad”.\n“Thou shalt not make a machine ... [4986 chars]",
+        "url": "https://www.thetimes.com/comment/columnists/article/writers-shouldnt-ashamed-using-ai-bpndknkqk",
+        "image": "https://www.thetimes.com/imageserver/image/9f1976b3-de8a-4b42-9947-ca2428685729.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
+        "publishedAt": "2026-04-12T23:01:00Z",
+        "lang": "en",
+        "source": {
+            "id": "b419a989918b3665a34559f5047546b6",
+            "name": "The Sunday Times",
+            "url": "https://www.thetimes.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "a39d53a93d7a8813b048237421cafa23",
         "title": "SoftBank, other major Japan firms set up new company for AI development",
         "description": "Major Japanese companies, including SoftBank Corp, NEC Corp, Honda Motor Co and Sony Group Corp, have established a new firm to develop large-scale artificial intelligence for use by domestic companies, sources familiar with the matter said Sunday. The companies hope to catch up with U.S. and Chinese rivals in developing…",
@@ -141,22 +157,6 @@
             "name": "Chicago Tribune",
             "url": "https://www.chicagotribune.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "586c55b764846f2ee0b236cb4d43be5c",
-        "title": "Headwinds may be past us, FY27 to be better: TCS CEO K Krithivasan",
-        "description": "Krithivasan discusses growth prospects for FY27, the perceived threat from artificial intelligence tools, and hiring trends",
-        "content": "Annual revenue growth has dropped to 2.4 per cent. Could you discuss that?\nAre we happy with the year-on-year decline? Not really. But at the same time, if you look at it, the decline happened because of the impact in the first quarter of the year. A... [5872 chars]",
-        "url": "https://www.business-standard.com/companies/people/headwinds-may-be-past-us-fy27-to-be-better-tcs-ceo-k-krithivasan-126041200587_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/12/full/1776004533-173.jpg",
-        "publishedAt": "2026-04-12T18:35:56Z",
-        "lang": "en",
-        "source": {
-            "id": "44d394a4e765f82b49b452e4302a72b0",
-            "name": "Business Standard",
-            "url": "https://www.business-standard.com",
-            "country": "in"
         }
     }
 ]
