@@ -1,5 +1,37 @@
 [
     {
+        "id": "a0887f6a9315b5717290c144cce14126",
+        "title": "If first word is ‘artificial,’ can we call it ‘intelligence’?",
+        "description": "A number of Globe stories on AI, from deepfake porn roiling schools to chatbots invading the human writing process, stirred readers to share their thoughts.",
+        "content": "Of course, marvels from MRIs to personal computers have certainly enhanced our lives. But too often technology, now supercharged with AI, also seduces us with convenience while sowing doubt about perception itself. Any reporting our president doesn’t... [5237 chars]",
+        "url": "https://www.bostonglobe.com/2026/04/18/opinion/letters-artificial-intelligence-human-thought/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/V5LUTUXEXCQX7KD23UTSZ5MAWY.jpeg?auth=74c20cb276b4356b48775d6b7f4f063a91e4933d3ac67dbbf082cd57553ead5a&width=1440",
+        "publishedAt": "2026-04-18T06:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "39bffbb3d8d034924999bb916928bb6c",
+        "title": "Cerritos teen invents AI-powered device to help detect and treat crossed eyes",
+        "description": "An eighth grader from Cerritos has developed an artificial intelligence-powered wearable device designed to help people with strabismus.",
+        "content": "An eighth grader from Cerritos has developed an artificial intelligence-powered wearable device designed to help people with strabismus, commonly known as crossed eyes, by detecting eye drift in real time.\nFourteen-year-old Aaryan Balani created the ... [3339 chars]",
+        "url": "https://abc7.com/post/teen-invents-ai-powered-device-help-detect-treat-crossed-eyes/18894498/",
+        "image": "https://cdn.abcotvs.com/dip/images/18894302_041526-kabc-4pm-ai-crossed-eyes-vid.jpg?w=1600",
+        "publishedAt": "2026-04-18T06:02:00Z",
+        "lang": "en",
+        "source": {
+            "id": "8500efae8310099b1bcee1ef95a0434e",
+            "name": "KABC-TV",
+            "url": "https://abc7.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "6c85cbc13c98a1f985e4766346826d73",
         "title": "White House chief Of Staff Meets Anthropic CEO Over New AI Technology",
         "description": "The White House has begun discussions with leading AI developers as officials assess the potential risks and benefits of powerful new artificial intelligence systems.",
@@ -125,38 +157,6 @@
             "name": "Moneycontrol",
             "url": "https://www.moneycontrol.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "edca9b474dfdb70b6c7a8b52edca5d55",
-        "title": "Anthropic and Trump officials meet to discuss Mythos access",
-        "description": "The White House said opportunities for collaboration and for addressing the challenges from artificial intelligence were discussed.",
-        "content": "The White House said a meeting Friday with Anthropic CEO Dario Amodei was \"productive and constructive” as U.S. President Donald Trump's administration seeks wider access to the company’s powerful new Mythos artificial intelligence model.\nThe White H... [427 chars]",
-        "url": "https://www.japantimes.co.jp/business/2026/04/18/tech/anthropic-trump-officials-mythos/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/18/535665.jpg?v=3.1",
-        "publishedAt": "2026-04-18T02:36:04Z",
-        "lang": "en",
-        "source": {
-            "id": "4b9101ef61d45607a32072a7504f5fb0",
-            "name": "The Japan Times ",
-            "url": "https://www.japantimes.co.jp",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "92e071b6460305a415ed989a0321519d",
-        "title": "China Central Bank’s Pan Flags AI Risks, Opportunities at IMF",
-        "description": "China’s central bank governor Pan Gongsheng said artificial intelligence is driving a new wave of technological and industrial transformation that brings both opportunities and risks to the global economy.",
-        "content": "China’s central bank governor Pan Gongsheng said artificial intelligence is driving a new wave of technological and industrial transformation that brings both opportunities and risks to the global economy.\nSpeaking at an International Monetary Fund m... [264 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-18/china-central-bank-s-pan-flags-ai-risks-opportunities-at-imf",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNuRXuxWlMhI/v0/1200x800.jpg",
-        "publishedAt": "2026-04-18T02:26:33Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
         }
     }
 ]
