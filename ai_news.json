@@ -1,5 +1,21 @@
 [
     {
+        "id": "5e62541e9a17f12bdb0588012035a102",
+        "title": "Sandra Bullock Advocates for Creative Use of AI in Hollywood",
+        "description": "Oscar-winner Sandra Bullock believes Hollywood should embrace artificial intelligence creatively. While acknowledging potential misuse, she advocates for understanding AI as an ally. Bullock's comments came after fan-made AI trailers of her film 'Practical Magic 2,' sparking conversations about AI's role in the film industry.",
+        "content": "Oscar-winning actor Sandra Bullock has voiced her support for integrating artificial intelligence into Hollywood in a constructive manner. Speaking at the CNBC Changemakers Summit, she emphasized the industry's need to approach AI as a creative ally.... [571 chars]",
+        "url": "https://www.devdiscourse.com/article/entertainment/3878564-sandra-bullock-advocates-for-creative-use-of-ai-in-hollywood",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_04_2026_11_26_24_7432913.jpg?width=920&format=jpeg",
+        "publishedAt": "2026-04-18T07:44:53Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "d37074b143745f5face8094936a2f5b3",
         "title": "Pope Leo XIV warns AI could spread ‘fear and violence’ worldwide",
         "description": "Pope Leo XIV used a speech to students and teachers in Cameroon's capital Yaoundé on Friday to deliver his sharpest warning yet about artificial intelligence, saying the technology risked...",
@@ -140,22 +156,6 @@
             "id": "63361c66f51ee0c82a5325ba1c7b8d06",
             "name": "The Financial Express",
             "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a59d87a016ffb0485817943954616be0",
-        "title": "Lawsuit aside, White House holds talks with Anthropic over powerful AI tool",
-        "description": "Nearly a month after declaring the company a 'supply chain risk,' the White House on Saturday held talks with the top executives of artificial intelligence firm Anthropic, describing the meeting as 'productive and constructive.'",
-        "content": "Nearly a month after declaring the company a ‘supply chain risk,’ the White House on Saturday held talks with the top executives of artificial intelligence firm Anthropic, describing the meeting as ‘productive and constructive.’\nThe talks come at a t... [2719 chars]",
-        "url": "https://www.firstpost.com/world/white-house-meeting-with-anthropic-dario-amodei-claude-mythos-14001759.html",
-        "image": "https://images.firstpost.com/uploads/2026/04/Anthropic-2026-04-e104edeb7e1e5b31b7f94a1178500759-1200x675.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-04-18T02:54:22Z",
-        "lang": "en",
-        "source": {
-            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-            "name": "Firstpost",
-            "url": "https://www.firstpost.com",
             "country": "in"
         }
     }
