@@ -1,5 +1,37 @@
 [
     {
+        "id": "d37074b143745f5face8094936a2f5b3",
+        "title": "Pope Leo XIV warns AI could spread ‘fear and violence’ worldwide",
+        "description": "Pope Leo XIV used a speech to students and teachers in Cameroon's capital Yaoundé on Friday to deliver his sharpest warning yet about artificial intelligence, saying the technology risked...",
+        "content": "Pope Leo XIV used a speech to students and teachers in Cameroon's capital Yaoundé on Friday to deliver his sharpest warning yet about artificial intelligence, saying the technology risked replacing reality itself with simulation and that the conseque... [2123 chars]",
+        "url": "https://www.thenews.com.pk/latest/1399437-pope-leo-xiv-warns-ai-could-spread-fear-and-violence-worldwide",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-18/1399437_124420_updates.jpg",
+        "publishedAt": "2026-04-18T07:40:29Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "3f6723d47c175898db6c2557b4f2e707",
+        "title": "AI To Become Core In Punjab Schools As PSEB Reforms Curriculum & Links Learning Outcomes To Board Certificates",
+        "description": "Punjab will integrate Artificial Intelligence as a core component of school education, with computer science learning outcomes reflected in board certificates, PSEB announced. At a national AI conference, officials outlined a roadmap to modernise education, boost innovation, and prepare students for a technology-driven future while emphasising ethical AI use and workforce readiness.",
+        "content": "Chandigarh: Artificial Intelligence will be integrated and form a core component of Punjab school education, with learning outcomes in computer science to reflect on certificates, the state's school education board announced on Friday.\nThe announceme... [1925 chars]",
+        "url": "https://www.freepressjournal.in/education/ai-to-become-core-in-punjab-schools-as-pseb-reforms-curriculum-links-learning-outcomes-to-board-certificates",
+        "image": "https://media.assettype.com/freepressjournal/2025-11-09/feb99s1y/unnamed-7.jpg",
+        "publishedAt": "2026-04-18T07:38:30Z",
+        "lang": "en",
+        "source": {
+            "id": "7eeaf9a839918543cc708f2d331c3be4",
+            "name": "Free Press Journal",
+            "url": "https://www.freepressjournal.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "a0887f6a9315b5717290c144cce14126",
         "title": "If first word is ‘artificial,’ can we call it ‘intelligence’?",
         "description": "A number of Globe stories on AI, from deepfake porn roiling schools to chatbots invading the human writing process, stirred readers to share their thoughts.",
@@ -124,38 +156,6 @@
             "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
             "name": "Firstpost",
             "url": "https://www.firstpost.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "354267d83198d075ea5605052bfd9346",
-        "title": "Al’ attacker who tried to murder OpenAI CEO Sam Altman found ChatGPT ‘awesome’ because…",
-        "description": "Tech News News: Daniel Moreno-Gama, who is accused of throwing a Molotov cocktail at OpenAI CEO Sam Altman's home, didn’t always hate artificial intelligence (AI), a .",
-        "content": "Daniel Moreno-Gama, who is accused of throwing a Molotov cocktail at OpenAI CEO Sam Altman's home, didn’t always hate artificial intelligence (AI), a report has said, adding that the 20-year-old Texas man once thought it was pretty great but for a wr... [2790 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/anti-al-attacker-who-tried-to-murder-openai-ceo-sam-altman-found-chatgpt-awesome-because/articleshow/130342489.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130342480,width-1280,height-720,imgsize-62300,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-18T02:54:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "bfaf49e77b1a27a23e7d5c5209784525",
-        "title": "OpenAI leadership shakeup: Srinivas Narayanan resigns amid multiple exits",
-        "description": "Three OpenAI executives announced their departures from the company on Friday, the latest in a series of leadership shakeups at the artificial intelligence startup.",
-        "content": "Amid several leadership exits, Srinivas Narayanan, OpenAI's chief technology officer for its B2B applications, has resigned and is leaving to spend more time with his family, he wrote on LinkedIn.\nThree OpenAI executives announced their departures fr... [1474 chars]",
-        "url": "https://www.moneycontrol.com/news/business/openai-leadership-shakeup-cto-srinivas-narayanan-resigns-amid-multiple-exits-13892474.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251013153351_openai4.jpg",
-        "publishedAt": "2026-04-18T02:51:19Z",
-        "lang": "en",
-        "source": {
-            "id": "fd3677545b80d5db7541de8e111d27ba",
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com",
             "country": "in"
         }
     }
