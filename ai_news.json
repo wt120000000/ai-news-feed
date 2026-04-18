@@ -1,5 +1,37 @@
 [
     {
+        "id": "2f785783c542aa89f1f62831ba9453e8",
+        "title": "White House chief of staff meets with Anthropic CEO over its new AI technology",
+        "description": "WASHINGTON (AP) — White House chief of staff Susie Wiles on Friday sounded out Anthropic CEO Dario Amodei about the artificial intelligence company'",
+        "content": "WASHINGTON (AP) — White House chief of staff Susie Wiles on Friday sounded out Anthropic CEO Dario Amodei about the artificial intelligence company’s new Mythos model, which has attracted attention from the federal government for how it could transfo... [5381 chars]",
+        "url": "https://wtop.com/europe/2026/04/white-house-chief-of-staff-to-meet-with-anthropic-ceo-over-its-new-ai-technology/",
+        "image": "https://wtop.com/wp-content/uploads/2026/04/Pentagon_AI_Anthropic_6155_-scaled.jpg",
+        "publishedAt": "2026-04-17T22:20:45Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6d536f5ceaed9b400e5298bbe6144433",
+        "title": "White House, Anthropic Discuss Risks of AI",
+        "description": "White House chief of staff Susie Wiles sounded out Anthropic CEO Dario Amodei about the artificial intelligence company's new Mythos model, which has attracted attention from the federal government for how it could transform national security and the economy.",
+        "content": "White House chief of staff Susie Wiles sounded out Anthropic CEO Dario Amodei on Friday about the artificial intelligence company's new Mythos model, which has attracted attention from the federal government for how it could transform national securi... [4725 chars]",
+        "url": "https://www.newsmax.com/newsfront/white-house-anthropic-meeting/2026/04/17/id/1253347/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=a925ef61-b4cf-4497-ac43-0fe4b05e7e39&SiteName=Newsmax",
+        "publishedAt": "2026-04-17T22:06:46Z",
+        "lang": "en",
+        "source": {
+            "id": "a8984f03fe66dae9745793f6560aa444",
+            "name": "Newsmax",
+            "url": "https://www.newsmax.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b49ee18cbbb476e5951c318fdc10859d",
         "title": "Meta prepares to lay off a tenth of its workforce",
         "description": "The owner of Facebook and Instagram will cut 8,000 jobs next month and more later in the year as it spends hundreds of billions on artificial intelligence",
@@ -124,38 +156,6 @@
             "id": "da5c26287bdd02563a2c32b55cb12051",
             "name": "Reuters",
             "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6fba2abe9fd64757d137ec36d780b286",
-        "title": "AI demand is inflated",
-        "description": "The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated.",
-        "content": "The main demand signal for artificial intelligence looks explosive on paper, but it may be significantly overstated. Anthropic, by pricing its tools for that reality, might be the best-positioned AI company if a correction comes.\nTokens are the basic... [5594 chars]",
-        "url": "https://www.cnbc.com/2026/04/17/ai-tokens-anthropic-openai-nvidia.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108269270-1771956501559-gettyimages-2261854833-AFP_98666EE.jpeg?v=1776444231&w=1920&h=1080",
-        "publishedAt": "2026-04-17T19:10:15Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "db34e8e1662a6aff908ae566ee0d2774",
-        "title": "NVIDIA Stock Climbs 1.2% to $200 as AI Demand Fuels Continued Momentum in Chip Sector",
-        "description": "NVIDIA Corp. shares rose more than 1% Friday, climbing to $200.67 in midday trading on the Nasdaq as investors continued to bet on the company's dominance in artificial intelligence infrastructure,",
-        "content": "NVIDIA Corp. shares rose more than 1% Friday, climbing to $200.67 in midday trading on the Nasdaq as investors continued to bet on the company's dominance in artificial intelligence infrastructure, even amid broader market volatility and upcoming sup... [7241 chars]",
-        "url": "https://www.ibtimes.com/nvidia-stock-climbs-12-200-ai-demand-fuels-continued-momentum-chip-sector-3801413",
-        "image": "https://d.ibtimes.com/en/full/4646248/jensen-huang-co-founder-ceo-nvidia-recently-convinced-donald-trump-lift-restrictions-certain.jpg",
-        "publishedAt": "2026-04-17T19:06:47Z",
-        "lang": "en",
-        "source": {
-            "id": "933344203c2b862af768b5e662a162a4",
-            "name": "International Business Times",
-            "url": "https://www.ibtimes.com",
             "country": "us"
         }
     }
