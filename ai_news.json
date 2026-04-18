@@ -1,5 +1,53 @@
 [
     {
+        "id": "edca9b474dfdb70b6c7a8b52edca5d55",
+        "title": "Anthropic and Trump officials meet to discuss Mythos access",
+        "description": "The White House said opportunities for collaboration and for addressing the challenges from artificial intelligence were discussed.",
+        "content": "The White House said a meeting Friday with Anthropic CEO Dario Amodei was \"productive and constructive” as U.S. President Donald Trump's administration seeks wider access to the company’s powerful new Mythos artificial intelligence model.\nThe White H... [427 chars]",
+        "url": "https://www.japantimes.co.jp/business/2026/04/18/tech/anthropic-trump-officials-mythos/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/18/535665.jpg?v=3.1",
+        "publishedAt": "2026-04-18T02:36:04Z",
+        "lang": "en",
+        "source": {
+            "id": "4b9101ef61d45607a32072a7504f5fb0",
+            "name": "The Japan Times ",
+            "url": "https://www.japantimes.co.jp",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "92e071b6460305a415ed989a0321519d",
+        "title": "China Central Bank’s Pan Flags AI Risks, Opportunities at IMF",
+        "description": "China’s central bank governor Pan Gongsheng said artificial intelligence is driving a new wave of technological and industrial transformation that brings both opportunities and risks to the global economy.",
+        "content": "China’s central bank governor Pan Gongsheng said artificial intelligence is driving a new wave of technological and industrial transformation that brings both opportunities and risks to the global economy.\nSpeaking at an International Monetary Fund m... [264 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-18/china-central-bank-s-pan-flags-ai-risks-opportunities-at-imf",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNuRXuxWlMhI/v0/1200x800.jpg",
+        "publishedAt": "2026-04-18T02:26:33Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d263369a530cd86be81494fd8931c69e",
+        "title": "Meta plans to slash roughly 8,000 jobs next month: report",
+        "description": "Meta is reportedly planning to lay off nearly 8,000 employees on May 20, according to sources, as the tech giant seeks to offset rising artificial intelligence infrastructure costs.",
+        "content": "Meta is preparing to cut thousands of jobs as early as next month, with deeper layoffs expected later this year, according to a report.\nThe tech giant intends to slash roughly 10% of its global workforce — or nearly 8,000 employees — in an initial ro... [1935 chars]",
+        "url": "https://www.foxbusiness.com/technology/meta-plans-major-layoffs-next-month-more-cuts-expected-report",
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/mark-zuckerberg.jpg?ve=1&tl=1",
+        "publishedAt": "2026-04-18T01:30:14Z",
+        "lang": "en",
+        "source": {
+            "id": "1b97b25c0ec482f85326378f82f7f815",
+            "name": "Fox Business",
+            "url": "https://www.foxbusiness.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "804fd134f16a1445c9f05633bc8fc020",
         "title": "Palantir Eyes Major FAA Deal to Modernize Air Traffic",
         "description": "The U.S. Federal Aviation Administration is working with several companies to develop a new artificial intelligence tool for managing air traffi...",
@@ -109,54 +157,6 @@
             "name": "Newsmax",
             "url": "https://www.newsmax.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "b49ee18cbbb476e5951c318fdc10859d",
-        "title": "Meta prepares to lay off a tenth of its workforce",
-        "description": "The owner of Facebook and Instagram will cut 8,000 jobs next month and more later in the year as it spends hundreds of billions on artificial intelligence",
-        "content": "Meta Platforms is said to be planning a wave of sweeping job cuts involving thousands of staff worldwide starting next month with more to follow later in the year.\nThe owner of Facebook and Instagram will lay off about 10 per cent of its global workf... [2088 chars]",
-        "url": "https://www.thetimes.com/us/business-us/article/meta-prepares-to-lay-off-a-tenth-of-its-workforce-flz9fklqj",
-        "image": "https://www.thetimes.com/imageserver/image/b58bed42-2f9a-4be3-a380-dab119ac40ff.jpg?strip=all&format=webp&crop=3800px%2C2137px%2C0px%2C197px&resize=1200",
-        "publishedAt": "2026-04-17T21:20:00Z",
-        "lang": "en",
-        "source": {
-            "id": "b419a989918b3665a34559f5047546b6",
-            "name": "The Sunday Times",
-            "url": "https://www.thetimes.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "2f97a701d1905d30e104d1fcfb5f0625",
-        "title": "How artificial intelligence is changing business interaction with customers",
-        "description": "Businesses say they are using AI to speed up service delivery and improve the customer experience, but economists warn this may be the \"calm before the storm\".",
-        "content": "Artificial intelligence is having a significant impact on our daily lives and how we interact with the services sector.\nFor instance, how we deal with the legal profession is changing rapidly.\nTypically, having a lawyer assess your case, for example,... [4217 chars]",
-        "url": "https://www.abc.net.au/news/2026-04-18/artificial-intelligence-changing-businesses-customer-interaction/106567874",
-        "image": "https://live-production.wcms.abc-cdn.net.au/8defeb6a1da07a836b3597ed3438dba9?impolicy=wcms_watermark_news&cropH=2812&cropW=4999&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-17T21:18:36Z",
-        "lang": "en",
-        "source": {
-            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-            "name": "ABC (Australian Broadcasting Corporation)",
-            "url": "https://www.abc.net.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "c525d074af4808ae0d88afcc3d7b74ee",
-        "title": "Tech Up as AI Momentum Persists - Tech Roundup",
-        "description": "Shares of technology companies rallied as traders chased momentum in artificial-intelligence leaders.\nNvidia, the leading developer of chips for AI infrastructure, added roughly 8% for the week....",
-        "content": "Shares of technology companies rallied as traders chased momentum in artificial-intelligence leaders.\nNvidia, the leading developer of chips for AI infrastructure, added roughly 8% for the week.\nDario Amodei was scheduled to meet White House chief of... [461 chars]",
-        "url": "https://www.marketscreener.com/news/tech-up-as-ai-momentum-persists-tech-roundup-ce7e50d3d88ffe26",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-04-17T21:08:18Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
