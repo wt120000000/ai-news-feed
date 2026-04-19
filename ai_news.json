@@ -1,5 +1,37 @@
 [
     {
+        "id": "e0f3dc77b3915e91833f6d46c067b944",
+        "title": "I wanted more from life: How IIT Guwahati is helping me rewrite my future",
+        "description": "This sophomore at IIT Guwahati, pursuing Data Science and Artificial Intelligence, says that after two years in my degree, he has become a much better person – socially, technically, and culturally.",
+        "content": "Early life and motivation\nI am 19, a sophomore at IIT Guwahati pursuing Data Science and Artificial Intelligence as my major. I come from the steel city of Jamshedpur, Jharkhand, while my roots are connected to Odisha. I mostly grew up in Jamshedpur,... [7185 chars]",
+        "url": "https://indianexpress.com/article/education/life-in-an-iit-guwahati-btech-data-science-and-artificial-intelligence-jeemain-2026-results-jee-advanced-odisha-jamshedpur-10644383/",
+        "image": "https://images.indianexpress.com/2026/04/life-in-iit-jee-main-2026-results.jpg",
+        "publishedAt": "2026-04-19T04:30:54Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "e32e5c236d3b2bce6704146c992282d7",
+        "title": "Jack Dorsey who openly admitted that he is laying off thousands from his $41 billion company Block due to AI; says: I wanted to make sure that if we ...",
+        "description": "Tech News News: In a rare moment of candour among tech leaders, Jack Dorsey, CEO of fintech giant Block, openly admitted that artificial intelligence was the driving .",
+        "content": "In a rare moment of candour among tech leaders, Jack Dorsey, CEO of fintech giant Block, openly admitted that artificial intelligence was the driving force behind the company’s decision to lay off 40% of its workforce which account to more than 4,000... [2336 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/jack-dorsey-who-openly-admitted-that-he-is-laying-off-thousands-from-his-41-billion-company-block-due-to-ai-says-i-wanted-to-make-sure-that-if-we-/articleshow/130364748.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130364744,width-1280,height-720,imgsize-1020587,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-19T03:50:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "43fe8a97df555a0079e5a12428910c0a",
         "title": "How do you measure an AI boom?",
         "description": "Today’s artificial intelligence boom is awash in data showing the rapid progress of AI systems, and hype-filled claims about what the technology can and can’t do.",
@@ -124,38 +156,6 @@
             "id": "c477009a98f37b19212d8ae20ce8c018",
             "name": "POLITICO",
             "url": "https://www.politico.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ff30e8c800ed70d4c5cb67e5f73be1db",
-        "title": "In A First, Indore's DAVV To Introduce IKS And AI In All Courses From 2026-27",
-        "description": "DAVV has announced a major academic reform to introduce Artificial Intelligence and Indian Knowledge Systems across all undergraduate and postgraduate programmes from the 2026–27 session. The initiative, aligned with the National Education Policy, aims to combine modern technology with traditional learning, with faculty training and updated curricula planned across disciplines.",
-        "content": "Indore (Madhya Pradesh): In a first in the state, Devi Ahilya Vishwavidyalaya (DAVV) has announced a major academic reform, integrating Indian Knowledge Systems (IKS) and Artificial Intelligence (AI) into all undergraduate and postgraduate programmes... [1819 chars]",
-        "url": "https://www.freepressjournal.in/indore/in-a-first-indores-davv-to-introduce-iks-and-ai-in-all-courses-from-202627",
-        "image": "https://media.assettype.com/freepressjournal/2025-08-27/pxnp5g9i/DAVV.jpg",
-        "publishedAt": "2026-04-18T18:47:49Z",
-        "lang": "en",
-        "source": {
-            "id": "7eeaf9a839918543cc708f2d331c3be4",
-            "name": "Free Press Journal",
-            "url": "https://www.freepressjournal.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "3320cbec3388673c5825ecee616d4e42",
-        "title": "Elon Musk Says 'If AI/Robots Increase Output, Then You Must Issue Dollars To People or There Will Be Mass",
-        "description": "Elon Musk has argued that federally funded checks delivering a universal high income are his preferred response to job losses tied to artificial intelligence, framing it as an inflation-safe policy if automation expands real output fast enough.",
-        "content": "In a conversation on X, Musk wrote that handing out more dollars only becomes a problem when the economy's supply of goods and services fails to surge alongside the money supply. Musk's core claim is that AI and robots could lift production so sharpl... [3010 chars]",
-        "url": "https://www.benzinga.com/news/politics/26/04/51902572/elon-musk-says-if-ai-robots-increase-output-then-you-must-issue-dollars-to-people-or-there-will-be-massive-disinflation",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/04/18/Tesla-CEO-Elon-Musk-at-an-event.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-04-18T18:31:09Z",
-        "lang": "en",
-        "source": {
-            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-            "name": "Benzinga",
-            "url": "https://www.benzinga.com",
             "country": "us"
         }
     }
