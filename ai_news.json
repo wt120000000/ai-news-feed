@@ -1,5 +1,21 @@
 [
     {
+        "id": "608f32dccdd1a318bd2894f03c286f1c",
+        "title": "Verizon CEO Dan Schulman says ‘not scared of’ Anthropic’s Mythos: ‘It is just a…’",
+        "description": "Tech News News: Verizon CEO Dan Schulman is not backing down from the rapid rise of artificial intelligence (AI), and has said that the telecom giant is already utili.",
+        "content": "Dan Schulman\nVerizon CEO Dan Schulman is not backing down from the rapid rise of artificial intelligence (AI), and has said that the telecom giant is already utilizing Mythos, the powerful new AI model from Anthropic, to reshape how the company opera... [2209 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/verizon-ceo-dan-schulman-says-not-scared-of-anthropics-mythos-it-is-just-a/articleshow/130364863.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130364870,width-1280,height-720,imgsize-85894,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-19T05:01:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "e0f3dc77b3915e91833f6d46c067b944",
         "title": "I wanted more from life: How IIT Guwahati is helping me rewrite my future",
         "description": "This sophomore at IIT Guwahati, pursuing Data Science and Artificial Intelligence, says that after two years in my degree, he has become a much better person – socially, technically, and culturally.",
@@ -141,22 +157,6 @@
             "name": "Daily Mail Online",
             "url": "https://www.dailymail.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "7b2f6451feecacef06a925f403393a1d",
-        "title": "‘No such thing as absolute safety’: Japan embraces nuclear post-Fukushima",
-        "description": "The country is rapidly moving to restart reactors as artificial intelligence increases electricity demand and foreign wars choke gas supplies.",
-        "content": "This week, Japan will open its 16th reactor since the 2011 Fukushima nuclear accident — at a nuclear plant run by the same utility that oversaw Daiichi during the meltdown.\nToyoshi Fuketa, former chair of Japan’s Nuclear Regulation Authority, said th... [11644 chars]",
-        "url": "https://www.politico.com/news/2026/04/18/japan-nuclear-fukushima-energy-00816474",
-        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F1e%2F2a%2Fbf18e27e47918a4044439ecf69e9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2256821449",
-        "publishedAt": "2026-04-18T20:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c477009a98f37b19212d8ae20ce8c018",
-            "name": "POLITICO",
-            "url": "https://www.politico.com",
-            "country": "us"
         }
     }
 ]
