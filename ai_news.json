@@ -1,5 +1,53 @@
 [
     {
+        "id": "46d75064d0eb38e4c4eda8a2b7391546",
+        "title": "FAA accepting bids for AI system to assist air traffic controllers",
+        "description": "The FAA is working to develop artificial intelligence software to help air traffic controllers manage flights across the nation's airspace.",
+        "content": "April 18 (UPI) -- The Federal Aviation Administration is working with three bidders to develop artificial intelligence software to help air traffic controllers manage flights across the nation's airspace.\nTransportation Secretary Sean Duffy discussed... [1704 chars]",
+        "url": "https://www.upi.com/Top_News/US/2026/04/18/faa-bids-ai-system-air-traffic-control-assistance/7181776557305/",
+        "image": "https://cdnph.upi.com/sv/ph/og/upi_com/7181776557305/2026/1/202c1fa298e7e03e9752a902cb2944dd/v1.5/FAA-accepting-bids-for-AI-system-to-assist-air-traffic-controllers.jpg",
+        "publishedAt": "2026-04-19T00:52:20Z",
+        "lang": "en",
+        "source": {
+            "id": "79baacd62152cf257ee35e8c0bec19a2",
+            "name": "UPI News",
+            "url": "https://www.upi.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "9c9c44fdb4a8e9d1f679d1cfc8d3d268",
+        "title": "JU, NIELIT conduct interactive session on AI skill training",
+        "description": "Excelsior Correspondent JAMMU, Apr 18: The Centre for Distance and Online Education (CDOE), University of Jammu, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), Jammu, organized an interactive session on Artificial Intelligence (AI) skill training for its students today. Two skill-based training programmes-Fundamentals of Data Annotation Using Python and Fundamentals of Data Curation Using Python-are currently being conducted for the students of CDOE by officers from NIELIT, Jammu, under a Memorandum of Understanding (MoU) signed between […]",
+        "content": "Excelsior Correspondent\nJAMMU, Apr 18: The Centre for Distance and Online Education (CDOE), University of Jammu, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), Jammu, organized an interactive session ... [2208 chars]",
+        "url": "https://www.dailyexcelsior.com/ju-nielit-conduct-interactive-session-on-ai-skill-training/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/page8-5-11.jpg",
+        "publishedAt": "2026-04-19T00:00:48Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "6991bffacf6a206d94539ced20d57e63",
+        "title": "‘Use AI in a really constructive & creative way...’",
+        "description": "Sandra Bullock has called on the entertainment industry to embrace artificial intelligence, urging creatives to adapt to its growing influence while remaining cautious about its risks.",
+        "content": "Sandra Bullock has called on the entertainment industry to embrace artificial intelligence, urging creatives to adapt to its growing influence while remaining cautious about its risks.\nSpeaking at an event, the Oscar-winning star addressed the rise o... [2745 chars]",
+        "url": "https://www.tribuneindia.com/news/lifestyle/use-ai-in-a-really-constructive-creative-way/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM0NjliZDAwLTNiODEtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
+        "publishedAt": "2026-04-18T23:52:52Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "6a517a474ff63dd5bf50d949f07eb889",
         "title": "New artificial intelligence bots could drain nation's cash machines",
         "description": "British banks are set to be given early access to stress-test their cyber defences against Claude Mythos, a state-of-the-art AI bot.",
@@ -108,54 +156,6 @@
             "id": "e743cde6ee986921721e83d3957862dc",
             "name": "Zee News",
             "url": "https://zeenews.india.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8b290012e1f204625718a593c00cddf4",
-        "title": "Pomelli, Gemini and the women teaching themselves to use them",
-        "description": "MOST small Filipino businesses do not have anyone whose job is marketing. The owner does it. Writes the captions, answers the messages, figures out what to post next, usually after closing up for the day. Two Google tools have been changing what that owner can get done in an hour. One is Pomelli, an experimental artificial intelligence (AI) tool Google Labs has just expanded access to. The other is Gemini, which has been around long enough that some mompreneurs are now teaching each other how to use it.",
-        "content": "MOST small Filipino businesses do not have anyone whose job is marketing. The owner does it. Writes the captions, answers the messages, figures out what to post next, usually after closing up for the day. Two Google tools have been changing what that... [4288 chars]",
-        "url": "https://www.manilatimes.net/2026/04/19/business/sunday-business-it/pomelli-gemini-and-the-women-teaching-themselves-to-use-them/2323187",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/18/1018716.jpg",
-        "publishedAt": "2026-04-18T16:06:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "4cef894eded9054060dc522f517cee2d",
-        "title": "Data complexity: Why Philippine enterprises aren't AI-ready",
-        "description": "ACROSS many Philippine enterprises, critical business information still sits across disconnected systems, spreadsheets, emails, and legacy platforms. While companies have invested in digital tools over the years, these systems often operate in silos, creating a significant barrier for artificial intelligence (AI) systems that rely on integrated, high-quality data. The issue is not unique to the Philippines, but it is particularly relevant in markets where many organizations are still in the middle of their digital transformation journey.",
-        "content": "ACROSS many Philippine enterprises, critical business information still sits across disconnected systems, spreadsheets, emails, and legacy platforms. While companies have invested in digital tools over the years, these systems often operate in silos,... [5843 chars]",
-        "url": "https://www.manilatimes.net/2026/04/19/business/sunday-business-it/data-complexity-why-philippine-enterprises-arent-ai-ready/2323186",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/18/1018712.jpg",
-        "publishedAt": "2026-04-18T16:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "ccee1a3f0920533c951f55320a88f908",
-        "title": "AI cannot replace human conscience in justice delivery: Karnataka CM Siddaramaiah",
-        "description": "Karnataka Chief Minister Siddaramaiah urged caution regarding artificial intelligence in the justice system. He stressed that human empathy and moral reasoning are irreplaceable by algorithms. While AI can aid legal research and case management, it poses risks like algorithmic bias and opaque decision-making. Judicial independence must be preserved from technological dependence. Constitutional morality should guide AI adoption, not the reverse.",
-        "content": "Synopsis\nKarnataka Chief Minister Siddaramaiah urged caution regarding artificial intelligence in the justice system. He stressed that human empathy and moral reasoning are irreplaceable by algorithms. While AI can aid legal research and case managem... [4411 chars]",
-        "url": "https://economictimes.indiatimes.com/news/india/ai-cannot-replace-human-conscience-in-justice-delivery-karnataka-cm-siddaramaiah/articleshow/130357581.cms",
-        "image": "https://img.etimg.com/thumb/msid-130357618,width-1200,height-630,imgsize-61132,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-18T16:04:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
