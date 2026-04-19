@@ -1,5 +1,37 @@
 [
     {
+        "id": "6a517a474ff63dd5bf50d949f07eb889",
+        "title": "New artificial intelligence bots could drain nation's cash machines",
+        "description": "British banks are set to be given early access to stress-test their cyber defences against Claude Mythos, a state-of-the-art AI bot.",
+        "content": "A powerful new artificial intelligence (AI) tool could be used by hackers to break into bank computer systems and even drain hole-in-the-wall ATMs of cash, cybersecurity experts warned this weekend.\nThe Bank of England is preparing to hold crisis tal... [3812 chars]",
+        "url": "https://www.dailymail.co.uk/money/markets/article-15744747/New-artificial-intelligence-bots-drain-nations-cash-machines.html",
+        "image": "https://i.dailymail.co.uk/1s/2026/04/18/19/107991837-0-image-m-176_1776536330227.jpg",
+        "publishedAt": "2026-04-18T20:50:07Z",
+        "lang": "en",
+        "source": {
+            "id": "0c9364fff53c0e5a3450947d9a54e795",
+            "name": "Daily Mail Online",
+            "url": "https://www.dailymail.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "7b2f6451feecacef06a925f403393a1d",
+        "title": "‘No such thing as absolute safety’: Japan embraces nuclear post-Fukushima",
+        "description": "The country is rapidly moving to restart reactors as artificial intelligence increases electricity demand and foreign wars choke gas supplies.",
+        "content": "This week, Japan will open its 16th reactor since the 2011 Fukushima nuclear accident — at a nuclear plant run by the same utility that oversaw Daiichi during the meltdown.\nToyoshi Fuketa, former chair of Japan’s Nuclear Regulation Authority, said th... [11644 chars]",
+        "url": "https://www.politico.com/news/2026/04/18/japan-nuclear-fukushima-energy-00816474",
+        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F1e%2F2a%2Fbf18e27e47918a4044439ecf69e9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2256821449",
+        "publishedAt": "2026-04-18T20:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c477009a98f37b19212d8ae20ce8c018",
+            "name": "POLITICO",
+            "url": "https://www.politico.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "ff30e8c800ed70d4c5cb67e5f73be1db",
         "title": "In A First, Indore's DAVV To Introduce IKS And AI In All Courses From 2026-27",
         "description": "DAVV has announced a major academic reform to introduce Artificial Intelligence and Indian Knowledge Systems across all undergraduate and postgraduate programmes from the 2026–27 session. The initiative, aligned with the National Education Policy, aims to combine modern technology with traditional learning, with faculty training and updated curricula planned across disciplines.",
@@ -112,22 +144,6 @@
         }
     },
     {
-        "id": "1fa03f7ee7023a2a97890ca866497e25",
-        "title": "AI reshapes identity security as enterprises confront new risks",
-        "description": "ENTERPRISES are rethinking cybersecurity strategies as artificial intelligence (AI) introduces new risks and expands the scope of digital identities that must be secured, according to a senior executive of SailPoint Technologies.",
-        "content": "ENTERPRISES are rethinking cybersecurity strategies as artificial intelligence (AI) introduces new risks and expands the scope of digital identities that must be secured, according to a senior executive of SailPoint Technologies.\nIn an exclusive inte... [5606 chars]",
-        "url": "https://www.manilatimes.net/2026/04/19/business/sunday-business-it/ai-reshapes-identity-security-as-enterprises-confront-new-risks/2323185",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-04-18T16:04:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
         "id": "ccee1a3f0920533c951f55320a88f908",
         "title": "AI cannot replace human conscience in justice delivery: Karnataka CM Siddaramaiah",
         "description": "Karnataka Chief Minister Siddaramaiah urged caution regarding artificial intelligence in the justice system. He stressed that human empathy and moral reasoning are irreplaceable by algorithms. While AI can aid legal research and case management, it poses risks like algorithmic bias and opaque decision-making. Judicial independence must be preserved from technological dependence. Constitutional morality should guide AI adoption, not the reverse.",
@@ -141,22 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "ad50b405cfb398c3668fab589ebeeefc",
-        "title": "Digital forum tackles trust as currency in AI economy",
-        "description": "GOVERNMENT officials, industry leaders and technology advocates framed “truth” as a critical asset in the digital economy, calling for stronger governance, identity systems and public trust as artificial intelligence (AI) adoption accelerates.",
-        "content": "GOVERNMENT officials, industry leaders and technology advocates framed “truth” as a critical asset in the digital economy, calling for stronger governance, identity systems and public trust as artificial intelligence (AI) adoption accelerates.\nThe Ma... [5399 chars]",
-        "url": "https://www.manilatimes.net/2026/04/19/business/sunday-business-it/digital-forum-tackles-trust-as-currency-in-ai-economy/2323184",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/18/1018694.jpg",
-        "publishedAt": "2026-04-18T16:03:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
