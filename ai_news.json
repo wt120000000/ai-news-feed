@@ -1,5 +1,21 @@
 [
     {
+        "id": "405b1d38c7cbd822d6910ad74c41757a",
+        "title": "Word of the Week: Slopaganda - the AI-generated visuals of Trump and Iran flooding the internet",
+        "description": "As the war between Iran and the US continues, it’s hard not to have come across the many videos on social media poking fun at the US president. What about Donald Trump’s now-deleted image of him in a Jesus-like avatar? All of this is slopaganda — propaganda material which is created with the use of artificial intelligence",
+        "content": "The Iran war has seen the deployment of missiles, drones, and other weaponry.\nBut this war has also seen the internet flooded with AI videos and images, racking up millions of views and drawing a lively response from audiences around the world. Every... [4511 chars]",
+        "url": "https://www.firstpost.com/explainers/word-of-the-week-slopaganda-the-ai-generated-visuals-of-trump-and-iran-flooding-the-internet-14001181.html",
+        "image": "https://images.firstpost.com/uploads/2026/04/slop1-2026-04-432a1ecabd2fdab08d6c67aafb60026a.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-04-19T06:00:17Z",
+        "lang": "en",
+        "source": {
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "608f32dccdd1a318bd2894f03c286f1c",
         "title": "Verizon CEO Dan Schulman says ‘not scared of’ Anthropic’s Mythos: ‘It is just a…’",
         "description": "Tech News News: Verizon CEO Dan Schulman is not backing down from the rapid rise of artificial intelligence (AI), and has said that the telecom giant is already utili.",
@@ -141,22 +157,6 @@
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "6a517a474ff63dd5bf50d949f07eb889",
-        "title": "New artificial intelligence bots could drain nation's cash machines",
-        "description": "British banks are set to be given early access to stress-test their cyber defences against Claude Mythos, a state-of-the-art AI bot.",
-        "content": "A powerful new artificial intelligence (AI) tool could be used by hackers to break into bank computer systems and even drain hole-in-the-wall ATMs of cash, cybersecurity experts warned this weekend.\nThe Bank of England is preparing to hold crisis tal... [3812 chars]",
-        "url": "https://www.dailymail.co.uk/money/markets/article-15744747/New-artificial-intelligence-bots-drain-nations-cash-machines.html",
-        "image": "https://i.dailymail.co.uk/1s/2026/04/18/19/107991837-0-image-m-176_1776536330227.jpg",
-        "publishedAt": "2026-04-18T20:50:07Z",
-        "lang": "en",
-        "source": {
-            "id": "0c9364fff53c0e5a3450947d9a54e795",
-            "name": "Daily Mail Online",
-            "url": "https://www.dailymail.co.uk",
-            "country": "gb"
         }
     }
 ]
