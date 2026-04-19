@@ -1,5 +1,37 @@
 [
     {
+        "id": "43fe8a97df555a0079e5a12428910c0a",
+        "title": "How do you measure an AI boom?",
+        "description": "Today’s artificial intelligence boom is awash in data showing the rapid progress of AI systems, and hype-filled claims about what the technology can and can’t do.",
+        "content": "Today’s artificial intelligence boom is awash in data showing the rapid progress of AI systems, and hype-filled claims about what the technology can and can’t do.\nBut none of it has captured the public’s attention quite like a chart made by METR, an ... [9753 chars]",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/how-do-you-measure-an-ai-boom-10644349/",
+        "image": "https://images.indianexpress.com/2026/04/Tech-featured-image188.jpg",
+        "publishedAt": "2026-04-19T03:27:50Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "264cb69eddad85ecb6f6e5818f394859",
+        "title": "Zoho’s Sridhar Vembu has some advice for techies on weathering the AI storm",
+        "description": "Sridhar Vembu, founder and former CEO of Zoho, has shared his perspective on how software engineers can stay relevant in the age of artificial intelligence | Trending",
+        "content": "Vembu, 58, weighed in on the ongoing debate around AI-driven productivity gains. While acknowledging that AI tools can significantly speed up the creation of working prototypes, he noted that building a finished product involves multiple stages, many... [1483 chars]",
+        "url": "https://www.hindustantimes.com/trending/zohos-sridhar-vembu-has-some-advice-for-techies-on-weathering-the-ai-storm-101776567918251.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/19/550x309/1_oLT5ALK5TcTh1JezHRk44Q_1611593562622_1611593566881_1776568170975.jpeg",
+        "publishedAt": "2026-04-19T03:09:56Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "e79d156812e189bad08b3bbd5b7e7bcd",
         "title": "Barclays CEO CS Venkatakrishnan to everyone in the banking community: Anthropic Mythos is a serious threat; but here's the thing that there will be …",
         "description": "Tech News News: Barclays CEO CS Venkatakrishnan has a major warning for Anthropic’s Mythos artificial intelligence (AI) model. According to a report by the news agenc.",
@@ -124,38 +156,6 @@
             "id": "d4e7f6a65e15620f4e4044691a99d0fd",
             "name": "Benzinga",
             "url": "https://www.benzinga.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "39576f7baf4f77fefa6880ab3df0cf24",
-        "title": "Pro-Trump AI influencers are flooding social media.",
-        "description": "The New York Times has found hundreds of fake accounts on Instagram, TikTok, and Facebook that appear to be a pre-midterm push to get conservative voters to the polls in support of Trump’s agenda. The accounts often use the same captions and awkward phrasing.\n> It’s not clear who created the A.I. accounts, and determining whether they are the product of a hired content farm, a foreign influence operation, an experiment or something else is difficult, experts said. They all agree, however, that creating such avatars is becoming easier, especially for contractors and marketing companies that now specialize in developing and dispatching A.I. avatars in bulk for increasingly low prices.\n[Link: Hundreds of Fake Pro-Trump Avatars Emerge on Social Media | https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html | New York Times]",
-        "content": "T\nExternal Link\nPro-Trump AI influencers are flooding social media.\nThe New York Times has found hundreds of fake accounts on Instagram, TikTok, and Facebook that appear to be a pre-midterm push to get conservative voters to the polls in support of T... [1020 chars]",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/914668/pro-trump-ai-influencers-are-flooding-social-media",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-        "publishedAt": "2026-04-18T18:19:36Z",
-        "lang": "en",
-        "source": {
-            "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-            "name": "The Verge",
-            "url": "https://www.theverge.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "331103af636e6cb014a71890f28e3353",
-        "title": "Marvell (MRVL) Is an AI Winner. Three Reasons the Bull Case Still Holds",
-        "description": "Marvell Technology (MRVL) has been a major winner of the artificial intelligence (AI) boom so far. In April alone, the data infrastructure semic...",
-        "content": "Marvell Technology (MRVL) has been a major winner of the artificial intelligence (AI) boom so far. In April alone, the data infrastructure semiconductor company’s stock has surged more than 50%, delivering substantial gains. The recent gains on the s... [5671 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/marvell-mrvl-is-an-ai-winner-three-reasons-the-bull-case-still-holds-1036035339",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/MRVL-Stock-Analysis.jpg?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-04-18T17:25:13Z",
-        "lang": "en",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Markets Insider",
-            "url": "https://markets.businessinsider.com",
             "country": "us"
         }
     }
