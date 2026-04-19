@@ -1,5 +1,37 @@
 [
     {
+        "id": "92a2bc32102d3c9d5e91a9f9689fd2de",
+        "title": "South China Morning Post",
+        "description": "As artificial intelligence upends job markets and academic norms, we must go beyond the fear of change to redefine what it means to be educated.",
+        "content": "Generative artificial intelligence (AI) powered by large language models presents a significant breakthrough. For the first time, humans are communicating with computers using language instructions. This has enabled the use of AI agents to perform in... [926 chars]",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3350030/ai-advancing-now-its-humans-redefine-their-worth",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/04/14/ed8a493d-9dae-4c21-a90f-dce6a8ac3ffc_db50fc1d.jpg?itok=tf-puETJ&v=1776155709",
+        "publishedAt": "2026-04-19T08:30:07Z",
+        "lang": "en",
+        "source": {
+            "id": "d6397b77175680e2678c0d60edcee7af",
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com",
+            "country": "hk"
+        }
+    },
+    {
+        "id": "ef61446020b80034c25be6d1beb573b2",
+        "title": "From using AI to deploying more pumps—how BMC is preparing for monsoon this year",
+        "description": "Besides installing a slew of dewatering pumps and carrying out interventions in flood prone zones, the Brihanmumbai Municipal Corporation has derived its own Artificial Intelligence model to keep a track of the ongoing desilting works and flag fraudulent practice.",
+        "content": "How AI is pushing transparency in desilting\nTo carry out desilting, the civic authorities appoint private contractors, who charge the BMC on the basis of the quantum of silt removed. Therefore, to ensure there are no fraudulent measures implemented b... [5138 chars]",
+        "url": "https://indianexpress.com/article/cities/mumbai/from-using-ai-to-deploying-more-pumps-how-bmc-preparing-for-monsoon-this-year-10644772/",
+        "image": "https://images.indianexpress.com/2026/04/BMC-mumbai-1.jpg",
+        "publishedAt": "2026-04-19T08:06:35Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "28db47fb966ffe9f7895ed7269c3d26a",
         "title": "'It Was Purely A Gimmick': Varun Dhawan's Hai Jawani Toh Ishq Hona Hai Team Denies AI Use In Film Amid Row Over 'AI Babies' In Teaser",
         "description": "The AI-driven concept triggered speculation online, with many wondering whether Hai Jawani Toh Ishq Hona Hai itself relies heavily on artificial intelligence. Addressing these concerns, a source close to the production clarified that the use of AI was limited to the teaser",
@@ -124,38 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "46d75064d0eb38e4c4eda8a2b7391546",
-        "title": "FAA accepting bids for AI system to assist air traffic controllers",
-        "description": "The FAA is working to develop artificial intelligence software to help air traffic controllers manage flights across the nation's airspace.",
-        "content": "April 18 (UPI) -- The Federal Aviation Administration is working with three bidders to develop artificial intelligence software to help air traffic controllers manage flights across the nation's airspace.\nTransportation Secretary Sean Duffy discussed... [1704 chars]",
-        "url": "https://www.upi.com/Top_News/US/2026/04/18/faa-bids-ai-system-air-traffic-control-assistance/7181776557305/",
-        "image": "https://cdnph.upi.com/sv/ph/og/upi_com/7181776557305/2026/1/202c1fa298e7e03e9752a902cb2944dd/v1.5/FAA-accepting-bids-for-AI-system-to-assist-air-traffic-controllers.jpg",
-        "publishedAt": "2026-04-19T00:52:20Z",
-        "lang": "en",
-        "source": {
-            "id": "79baacd62152cf257ee35e8c0bec19a2",
-            "name": "UPI News",
-            "url": "https://www.upi.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9c9c44fdb4a8e9d1f679d1cfc8d3d268",
-        "title": "JU, NIELIT conduct interactive session on AI skill training",
-        "description": "Excelsior Correspondent JAMMU, Apr 18: The Centre for Distance and Online Education (CDOE), University of Jammu, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), Jammu, organized an interactive session on Artificial Intelligence (AI) skill training for its students today. Two skill-based training programmes-Fundamentals of Data Annotation Using Python and Fundamentals of Data Curation Using Python-are currently being conducted for the students of CDOE by officers from NIELIT, Jammu, under a Memorandum of Understanding (MoU) signed between […]",
-        "content": "Excelsior Correspondent\nJAMMU, Apr 18: The Centre for Distance and Online Education (CDOE), University of Jammu, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), Jammu, organized an interactive session ... [2208 chars]",
-        "url": "https://www.dailyexcelsior.com/ju-nielit-conduct-interactive-session-on-ai-skill-training/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/page8-5-11.jpg",
-        "publishedAt": "2026-04-19T00:00:48Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
             "country": "in"
         }
     }
