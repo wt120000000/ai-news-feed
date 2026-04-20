@@ -1,5 +1,37 @@
 [
     {
+        "id": "6588d97eed0d51eac4d225ae9d16af8e",
+        "title": "Chatbots often offer ‘problematic' cancer advice, study finds",
+        "description": "Popular artificial intelligence programs told users where to find alternative, potentially dangerous treatments for cancer and other health scenarios.",
+        "content": "Artificial intelligence chatbots will tell you where to find alternatives to chemotherapy if you ask them, a new study finds.\nAt a time when influencers and political figures on social media increasingly promote bogus treatments for cancer or other h... [4639 chars]",
+        "url": "https://www.nbcchicago.com/news/national-international/chatbots-problematic-cancer-advice-study/3925185/",
+        "image": "https://media.nbcchicago.com/2026/04/GettyImages-2261040378.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2026-04-20T10:25:00Z",
+        "lang": "en",
+        "source": {
+            "id": "046a50607901bb9bca25f6624dc87f76",
+            "name": "NBC 5 Chicago",
+            "url": "https://www.nbcchicago.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7f7c1f066139433a659c2cff548d4162",
+        "title": "Chatbots often offer ‘problematic' cancer advice, study finds",
+        "description": "Popular artificial intelligence programs told users where to find alternative, potentially dangerous treatments for cancer and other health scenarios.",
+        "content": "Artificial intelligence chatbots will tell you where to find alternatives to chemotherapy if you ask them, a new study finds.\nAt a time when influencers and political figures on social media increasingly promote bogus treatments for cancer or other h... [4639 chars]",
+        "url": "https://www.nbcboston.com/news/national-international/chatbots-problematic-cancer-advice-study/3936350/",
+        "image": "https://media.nbcboston.com/2026/04/GettyImages-2261040378.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2026-04-20T10:25:00Z",
+        "lang": "en",
+        "source": {
+            "id": "8749653ef849c3df2e467a8e0f0c6672",
+            "name": "NBC10 Boston",
+            "url": "https://www.nbcboston.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "62a442824aafd9dcab4b0987f92df494",
         "title": "Banks in close contact with European regulator on Anthropic's Mythos, banker says",
         "description": "Banks ​are in ​close contact with their ‌European regulators regarding ​Anthropic's new artificial intelligence model Mythos, Christian Sewing, president ‌of the German banking association and CEO of Deutsche Bank, said on Monday.",
@@ -125,38 +157,6 @@
             "name": "Reuters",
             "url": "https://www.reuters.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "ccdb37ce622c732af06da7c403ec40a8",
-        "title": "Morgan Stanley sees agentic AI widening chip spending beyond graphics processors to CPUs",
-        "description": "Morgan Stanley said increasingly autonomous artificial intelligence could boost demand for central processing units , reshape data center buildout and widen investment beyond the graphic chips that...",
-        "content": "April 20 (Reuters) - Morgan Stanley said increasingly autonomous artificial intelligence could boost demand for central processing units (CPUs), reshape data center buildout and widen investment beyond the graphic chips that have dominated the AI boo... [1286 chars]",
-        "url": "https://www.marketscreener.com/news/morgan-stanley-sees-agentic-ai-widening-chip-spending-beyond-graphics-processors-to-cpus-ce7e50d3d189f425",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-15T125153Z_1_LYNXMPEM3E0SZ_RTROPTP_4_MORGAN-STANLEY-RESULTS.JPG",
-        "publishedAt": "2026-04-20T08:14:49Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "ea151da6f6ac89c2ecb26908340cb35d",
-        "title": "South Korea's Lee in India for talks on shipping, AI",
-        "description": "NEW DELHI, India —  India gave a red-carpet welcome for South Korean President Lee Jae-myung in New Delhi on Monday, with shipbuilding and artificial intelligence high on the agenda for talks with Prime Minister Narendra Modi.",
-        "content": "NEW DELHI, India — India gave a red-carpet welcome for South Korean President Lee Jae-myung in New Delhi on Monday, with shipbuilding and artificial intelligence high on the agenda for talks with Prime Minister Narendra Modi.\n\"Amidst ongoing supply c... [1218 chars]",
-        "url": "https://www.manilatimes.net/2026/04/20/news/south-koreas-lee-in-india-for-talks-on-shipping-ai/2323686",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/20/1019921.jpg",
-        "publishedAt": "2026-04-20T08:02:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
