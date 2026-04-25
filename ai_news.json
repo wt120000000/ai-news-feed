@@ -1,5 +1,53 @@
 [
     {
+        "id": "25e2336abff96049060d014ef2ff6b8a",
+        "title": "‘Father of AGI’ Ben Goertzel shares three skills employees need to remain useful and relevant as AI disrupts job market",
+        "description": "Tech News News: Ben Goertzel, the computer scientist who famously coined the term “Artificial General Intelligence” (AGI), has a warning for the global workforce: a “.",
+        "content": "Ben Goertzel, the computer scientist who famously coined the term “Artificial General Intelligence” (AGI), has a warning for the global workforce: a “job apocalypse” is looming, and it is arriving much faster than previously anticipated. Goertzel, of... [2275 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/father-of-agi-ben-goertzel-shares-three-skills-employees-need-to-remain-useful-and-relevant-as-ai-disrupts-job-market/articleshow/130478416.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130478458,width-1280,height-720,imgsize-36716,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-25T03:11:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "59ad0799a779a451f3f5be96e832a624",
+        "title": "Kazakhstan’s digital leap: How Central Asia’s tech hub is shaping the future of AI and GovTech",
+        "description": "Kazakhstan is emerging as a key digital hub in Central Asia, backed by a broad national push in artificial intelligence, digital governance, connectivity and startup development. The country has rolled out major reforms and infrastructure upgrades to position itself as a bridge between Europe and Asia in the global technology race.",
+        "content": "Synopsis\nKazakhstan is emerging as a key digital hub in Central Asia, backed by a broad national push in artificial intelligence, digital governance, connectivity and startup development. The country has rolled out major reforms and infrastructure up... [8824 chars]",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/kazakhstans-digital-leap-how-central-asias-tech-hub-is-shaping-the-future-of-ai-and-govtech/articleshow/130507193.cms",
+        "image": "https://img.etimg.com/thumb/msid-130507239,width-1200,height-630,imgsize-38456,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-04-25T03:05:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "db123f4fb62a2cac8ff6b0eef65b4cf9",
+        "title": "AI hedge as global capital seeks diversification says Mirae Asset's Swarup Mohanty",
+        "description": "While Indian markets currently lack a pure-play AI champion and large IT services firms face disruption risks from artificial intelligence, Mirae Asset Mutual Fund's CEO and Vice President Swarup Mohanty believes India could emerge as a 'non-AI hedge' in global portfolios once capital allocations to the technology peak out.",
+        "content": "New Delhi [India], April 25 (ANI): While Indian markets currently lack a pure-play AI champion and large IT services firms face disruption risks from artificial intelligence, Mirae Asset Mutual Fund's CEO and Vice President, Swarup Mohanty, believes ... [3141 chars]",
+        "url": "https://www.tribuneindia.com/news/business/india-can-be-a-non-ai-hedge-as-global-capital-seeks-diversification-says-mirae-assets-swarup-mohanty/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY5M2IzOTIwLTQwNTItMTFmMS05Yjg1LWU5NDFlYmJlZTdkNy5qcGc=",
+        "publishedAt": "2026-04-25T03:00:46Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "807b9db21868c13833abfe5fd76c8ca3",
         "title": "Trump administration is joining Elon Musk’s xAI in its legal challenge to Colorado’s new state law",
         "description": "Tech News News: Elon Musk’s artificial intelligence (AI) company, xAI, has received support from the Trump administration in opposing a new Colorado law. The US gover.",
@@ -109,54 +157,6 @@
             "name": "SooToday",
             "url": "https://www.sootoday.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "a41c6d4e8c5b8405c4426360f5721dcf",
-        "title": "AI smart glasses are helping visually impaired runners take on the London Marathon",
-        "description": "Smart glasses use a front facing camera to capture visual input and artificial intelligence to analyze it, converting the information into audio delivered through speakers built into the frame.",
-        "content": "Dowler, who has Stargardt disease and says she has about 10% useful vision, only began running last year, starting with a couch to 5K program before building up to marathon distance. She is now preparing to run the London Marathon with her boyfriend ... [4912 chars]",
-        "url": "https://fortune.com/2026/04/24/ai-smart-glasses-london-marathon-meta/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/AP26114567782373-e1777061306458.jpg?resize=1200,600",
-        "publishedAt": "2026-04-24T20:51:02Z",
-        "lang": "en",
-        "source": {
-            "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-            "name": "Fortune",
-            "url": "https://fortune.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0b99cf44311212a16380af41afddd53c",
-        "title": "China's DeepSeek releases long-awaited new AI model",
-        "description": "Chinese startup DeepSeek released a new artificial intelligence model Friday, more than a year after it stunned the world with a low-cost reasoning model that matched the capabilities of U.S. rivals. DeepSeek-V4 \"features an ultra-long context of one million words\", the company said in a statement on social media platform…",
-        "content": "Chinese startup DeepSeek released a new artificial intelligence model Friday, more than a year after it stunned the world with a low-cost reasoning model that matched the capabilities of U.S. rivals.\nDeepSeek-V4 \"features an ultra-long context of one... [3147 chars]",
-        "url": "https://japantoday.com/category/tech/china's-deepseek-says-releases-long-awaited-new-ai-model",
-        "image": "https://media.japantoday.com/img/store/4b/8a/20998d1324751623f109bec90829bd498fb8/5a1252bfc202c14dbfc85d9a7c24384f08c07e75/_w1700.jpeg",
-        "publishedAt": "2026-04-24T20:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "88dda7442744ed9efe5f8641183c970b",
-        "title": "China's DeepSeek releases long-awaited new AI model",
-        "description": "Chinese startup DeepSeek released a new artificial intelligence model Friday, more than a year after it stunned the world with a low-cost reasoning model that matched the capabilities of U.S. rivals. DeepSeek-V4 \"features an ultra-long context of one million words\", the company said in a statement on social media platform…",
-        "content": "Chinese startup DeepSeek released a new artificial intelligence model Friday, more than a year after it stunned the world with a low-cost reasoning model that matched the capabilities of U.S. rivals.\nDeepSeek-V4 \"features an ultra-long context of one... [3147 chars]",
-        "url": "https://japantoday.com/category/tech/china%27s-deepseek-says-releases-long-awaited-new-ai-model",
-        "image": "https://media.japantoday.com/img/store/4b/8a/20998d1324751623f109bec90829bd498fb8/5a1252bfc202c14dbfc85d9a7c24384f08c07e75/_w1700.jpeg",
-        "publishedAt": "2026-04-24T20:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
