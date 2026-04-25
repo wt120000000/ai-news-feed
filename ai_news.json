@@ -1,5 +1,21 @@
 [
     {
+        "id": "7ac6f12f72acd925d99fe77252eaf4da",
+        "title": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
+        "description": "The U.S. State Department ​has ordered a global push to bring attention to what it says are widespread efforts by Chinese companies, including AI ‌startup DeepSeek, to steal intellectual property from U.S. artificial intelligence labs, according to a diplomatic cable seen by Reuters.",
+        "content": "WASHINGTON, April 24 (Reuters) - The U.S. State Department ​has ordered a global push to bring attention to what it says are widespread efforts by Chinese companies, including AI ‌startup DeepSeek, to steal intellectual property from U.S. artificial ... [3213 chars]",
+        "url": "https://www.reuters.com/world/china/us-state-dept-orders-global-warning-about-alleged-china-ai-thefts-by-deepseek-2026-04-24/",
+        "image": "https://www.reuters.com/resizer/v2/KIK4AUMDLBLZ3MA7ULN3KENZZQ.jpg?auth=4daeda6a00bb880345fa05de17b38bfaba770f66458d51fd3a707542e01f98ee&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-04-24T22:32:23Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "532955b67817ea87c2db7feff7745339",
         "title": "OpenAI CEO Sam Altman 'deeply sorry' over Tumbler Ridge shooting where 8 were killed",
         "description": "The head of an artificial intelligence company that admitted it knew of the troubling behaviour of a woman before she killed eight and wounded dozens more in Tumbler Ridge, B.C., has apologized for not going to police.",
@@ -141,22 +157,6 @@
             "name": "Boulder Daily Camera",
             "url": "https://www.dailycamera.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "da11f77ff5fa345cb85bcf452c5c6f7b",
-        "title": "Anthropic says Google to pump $40 bil into AI startup",
-        "description": "Google is planning to invest up to $40 billion in Anthropic, the artificial intelligence firm confirmed Friday, expanding a long-standing alliance between the two companies. The investment builds on a partnership in which Anthropic will use custom Google chips and cloud computing services to power its technology. An Anthropic representative…",
-        "content": "Google is planning to invest up to $40 billion in Anthropic, the artificial intelligence firm confirmed Friday, expanding a long-standing alliance between the two companies.\nThe investment builds on a partnership in which Anthropic will use custom Go... [1637 chars]",
-        "url": "https://japantoday.com/category/tech/anthropic-says-google-to-pump-40-bn-into-ai-startup",
-        "image": "https://media.japantoday.com/img/store/8d/7b/afa060befdb926e7bc29b4d94a2dadd900ca/02a4ab75d3827240462bd7d7e38662a3766a6bb0/_w1700.jpeg",
-        "publishedAt": "2026-04-24T18:58:19Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
