@@ -1,5 +1,37 @@
 [
     {
+        "id": "f47bfe4390ee7d1da70e919ed3fb2268",
+        "title": "OpenAI case narrows as Musk withdraws fraud allegations before key trial; here's what we know",
+        "description": "At the heart of the dispute is Musk’s claim that OpenAI strayed from its founding mission. Co-founded in 2015 as a nonprofit, the organisation was intended to develop artificial intelligence for the benefit of humanity.",
+        "content": "Elon Musk has withdrawn his fraud allegations against OpenAI and its co-founders Sam Altman and Greg Brockman, significantly narrowing a high-profile lawsuit just days before trial. A US federal court will now hear only two claims—unjust enrichment a... [3167 chars]",
+        "url": "https://www.businesstoday.in/technology/news/story/openai-case-narrows-as-musk-withdraws-fraud-allegations-before-key-trial-heres-what-we-know-527423-2026-04-25",
+        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202604/69ec4fdca07df-sam-altman-vs-elon-musk-252334967-16x9.jpg",
+        "publishedAt": "2026-04-25T05:25:50Z",
+        "lang": "en",
+        "source": {
+            "id": "76a2f820b104591b97fed1b0932cec38",
+            "name": "Business Today",
+            "url": "https://www.businesstoday.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "ea0da71ebd533f5e0ec2fcaed814f148",
+        "title": "Domestic jobs market facing artificial intelligence ‘upheaval’, says Taoiseach",
+        "description": "Micheál Martin’s comments come as Meta cuts 10% of global staff, about 8,000 workers",
+        "content": "The Government is bracing for possible turbulence in the Republic’s tech sector as artificial intelligence (AI) threatens to cause “significant upheaval” to large parts of the Irish workforce in the coming years.\nIn a forthright warning about the dis... [3154 chars]",
+        "url": "https://www.irishtimes.com/politics/2026/04/25/domestic-jobs-market-facing-artificial-intelligence-upheaval-says-taoiseach/",
+        "image": "https://www.irishtimes.com/resizer/v2/CNYZLETBDYIJORVTY22T5XRE3Q.jpg?smart=true&auth=afa1dd48d3466503814d5bcdf8e78ba6fd95b0ee7fca66e19a47ebb136fa36d1&width=1200&height=630",
+        "publishedAt": "2026-04-25T05:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "dd1d806725f45e4403e75c1bb23b447a",
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com",
+            "country": "ie"
+        }
+    },
+    {
         "id": "2a3e734006ce97ab5d050cdec82a3490",
         "title": "Banks’ steady support key to growth: Finance minister Nirmala Sitharaman",
         "description": "The finance minister called for greater adaptability in the banking system in response to rapid advances in artificial intelligence, citing emerging risks from next-generation models such as Claude Mythos that can identify and exploit software vulnerabilities faster than human experts",
@@ -124,38 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "579d1edbd3900946abbf5d3d08ec9077",
-        "title": "AI-assisted doctors perform better in complex clinical decision making",
-        "description": "Artificial intelligence-powered chatbots are getting pretty good at diagnosing some diseases, even when they are complex.",
-        "content": "Artificial intelligence-powered chatbots are getting pretty good at diagnosing some diseases, even when they are complex. But how do chatbots do when guiding treatment and care after the diagnosis? For example, how long before surgery should a patien... [6880 chars]",
-        "url": "https://www.news-medical.net/news/20260424/AI-assisted-doctors-perform-better-in-complex-clinical-decision-making.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2026-04-25T01:26:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "cd8d46f8e2b066d728d9894222503868",
-        "title": "AI Chip Surge Elevates Taiwan, Korea in Global Equity Rankings",
-        "description": "The artificial intelligence boom has triggered a seismic reshuffling of global equity markets, with Taiwan and South Korea muscling past European nations one by one.",
-        "content": "The artificial intelligence boom has triggered a seismic reshuffling of global equity markets, with Taiwan and South Korea muscling past European nations one by one.\nWith its stock market now valued at nearly $4.3 trillion, Taiwan surpassed the Unite... [5133 chars]",
-        "url": "https://www.livemint.com/market/ai-chip-surge-elevates-taiwan-korea-in-global-equity-rankings-11777076636370.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-        "publishedAt": "2026-04-25T00:23:55Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
             "country": "in"
         }
     }
