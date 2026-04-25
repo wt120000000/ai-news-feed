@@ -1,5 +1,37 @@
 [
     {
+        "id": "532955b67817ea87c2db7feff7745339",
+        "title": "OpenAI CEO Sam Altman 'deeply sorry' over Tumbler Ridge shooting where 8 were killed",
+        "description": "The head of an artificial intelligence company that admitted it knew of the troubling behaviour of a woman before she killed eight and wounded dozens more in Tumbler Ridge, B.C., has apologized for not going to police.",
+        "content": "The head of an artificial intelligence company that admitted it knew of the troubling behaviour of a woman before she killed eight and wounded dozens more in Tumbler Ridge, B.C., has apologized for not going to police.\nA letter from OpenAI CEO Sam Al... [3303 chars]",
+        "url": "https://www.baytoday.ca/national-news/openai-ceo-sam-altman-deeply-sorry-over-tumbler-ridge-shooting-where-8-were-killed-12191159",
+        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/62229053fc95507c60cd7d8f529d823006e7c7f6232e3d4fe676dd4dc49152a1.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2026-04-24T21:47:41Z",
+        "lang": "en",
+        "source": {
+            "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+            "name": "BayToday",
+            "url": "https://www.baytoday.ca",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "c41412442cb4f89e6e933a6248a4527e",
+        "title": "OpenAI CEO Sam Altman 'deeply sorry' over Tumbler Ridge shooting where 8 were killed",
+        "description": "The head of an artificial intelligence company that admitted it knew of the troubling behaviour of a woman before she killed eight and wounded dozens more in Tumbler Ridge, B.C., has apologized for not going to police.",
+        "content": "The head of an artificial intelligence company that admitted it knew of the troubling behaviour of a woman before she killed eight and wounded dozens more in Tumbler Ridge, B.C., has apologized for not going to police.\nA letter from OpenAI CEO Sam Al... [3303 chars]",
+        "url": "https://www.sootoday.com/national-news/openai-ceo-sam-altman-deeply-sorry-over-tumbler-ridge-shooting-where-8-were-killed-12191159",
+        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/62229053fc95507c60cd7d8f529d823006e7c7f6232e3d4fe676dd4dc49152a1.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2026-04-24T21:47:41Z",
+        "lang": "en",
+        "source": {
+            "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+            "name": "SooToday",
+            "url": "https://www.sootoday.com",
+            "country": "ca"
+        }
+    },
+    {
         "id": "a41c6d4e8c5b8405c4426360f5721dcf",
         "title": "AI smart glasses are helping visually impaired runners take on the London Marathon",
         "description": "Smart glasses use a front facing camera to capture visual input and artificial intelligence to analyze it, converting the information into audio delivered through speakers built into the frame.",
@@ -125,38 +157,6 @@
             "name": "Japan Today",
             "url": "https://japantoday.com",
             "country": "jp"
-        }
-    },
-    {
-        "id": "cac13976f148f5589e1ef5c85002bf8a",
-        "title": "Google to invest up to US$40B in Anthropic",
-        "description": "Google-parent Alphabet will invest up to US$40 billion in Anthropic, as the tech giant deepens its partnership with the artificial intelligence startup that is also its rival in the global AI race.",
-        "content": "Google-parent Alphabet will invest up to US$40 billion in Anthropic, as the tech giant deepens its partnership with the artificial intelligence startup that is also its rival in the global AI race.\nAnthropic said on Friday that Google has committed $... [1569 chars]",
-        "url": "https://www.bnnbloomberg.ca/business/company-news/2026/04/24/google-to-invest-up-to-us40b-in-ai-rival-anthropic/",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/FYBFRWLNANW42DHGOACLM5VLJI.jpg?smart=true&auth=b1ca1e8ca39ea7556be9c48439c3a05151a2b8ed1441b94e76eadb24010b22d4&width=1200&height=630",
-        "publishedAt": "2026-04-24T18:17:24Z",
-        "lang": "en",
-        "source": {
-            "id": "1b697445987e8a33f6c82842e17d60d9",
-            "name": "Bnn Bloomberg",
-            "url": "https://www.bnnbloomberg.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "79e8f12b1256fff9e7e5eb4297dc68f1",
-        "title": "Google to invest up to US$40B in Anthropic",
-        "description": "Google-parent Alphabet will invest up to US$40 billion in Anthropic, as the tech giant deepens its partnership with the artificial intelligence startup that is also its rival in the global AI race.",
-        "content": "Google-parent Alphabet will invest up to US$40 billion in Anthropic, as the tech giant deepens its partnership with the artificial intelligence startup that is also its rival in the global AI race.\nAnthropic said on Friday that Google has committed $... [1569 chars]",
-        "url": "https://www.cp24.com/news/money/2026/04/24/google-to-invest-up-to-us40b-in-ai-rival-anthropic/",
-        "image": "https://www.cp24.com/resizer/v2/FYBFRWLNANW42DHGOACLM5VLJI.jpg?smart=true&auth=b1ca1e8ca39ea7556be9c48439c3a05151a2b8ed1441b94e76eadb24010b22d4&width=1200&height=630",
-        "publishedAt": "2026-04-24T18:17:24Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
         }
     }
 ]
