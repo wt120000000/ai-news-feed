@@ -1,5 +1,21 @@
 [
     {
+        "id": "baea3e3c6c1efd98822dd8d0b60e4336",
+        "title": "The feds join Elon Musk’s attempt to stop new AI regulations in Colorado.",
+        "description": "A report by Bloomberg points out that the DOJ has joined an xAI lawsuit against the Consumer Protections for Artificial Intelligence law that is set to take effect in Colorado on June 30th. In their filing, the government’s lawyers claim that by requiring developers to take “reasonable care to protect consumers” from algorithmic discrimination, the law violates the Equal Protection Clause of the Constitution.\n[Link: Meet the new tech laws of 2026 | https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair#:~:text=Colorado%3A%20AI%20regulations | The Verge]",
+        "content": "R\nThe Verge\nThe feds join Elon Musk’s attempt to stop new AI regulations in Colorado.\nA report by Bloomberg points out that the DOJ has joined an xAI lawsuit against the Consumer Protections for Artificial Intelligence law that is set to take effect ... [684 chars]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/918492/the-feds-join-elon-musks-attempt-to-stop-new-ai-regulations-in-colorado",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+        "publishedAt": "2026-04-24T23:05:04Z",
+        "lang": "en",
+        "source": {
+            "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+            "name": "The Verge",
+            "url": "https://www.theverge.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "7ac6f12f72acd925d99fe77252eaf4da",
         "title": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
         "description": "The U.S. State Department ​has ordered a global push to bring attention to what it says are widespread efforts by Chinese companies, including AI ‌startup DeepSeek, to steal intellectual property from U.S. artificial intelligence labs, according to a diplomatic cable seen by Reuters.",
@@ -140,22 +156,6 @@
             "id": "4fb6c3338f91da7f3748e0764d095541",
             "name": "The Denver Post",
             "url": "https://www.denverpost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "bed118205a4d7ec7786c776999d360bd",
-        "title": "Justice Department joins Colorado AI rules lawsuit filed by Musk's xAI",
-        "description": "Donald Trump's Department of Justice has joined Elon Musk's xAI in seeking to strike down Colorado artificial intelligence regulations, just as lawmakers and Gov. Jared Polis prepare to rewrite them.",
-        "content": "The Department of Justice has joined a lawsuit by billionaire Elon Musk’s xAI that challenges Colorado’s dormant artificial intelligence regulations, just as lawmakers prepare to rewrite those rules.\nThe federal government announced Friday that it wa... [1618 chars]",
-        "url": "https://www.dailycamera.com/2026/04/24/colorado-artificial-intelligence-lawsuit-justice-department-musk/",
-        "image": "https://www.dailycamera.com/wp-content/uploads/2026/04/Election_2024_Musk_10014.jpg?w=1024&h=682",
-        "publishedAt": "2026-04-24T19:15:22Z",
-        "lang": "en",
-        "source": {
-            "id": "d9acc08d8066fc3620da5e6b20b406ad",
-            "name": "Boulder Daily Camera",
-            "url": "https://www.dailycamera.com",
             "country": "us"
         }
     }
