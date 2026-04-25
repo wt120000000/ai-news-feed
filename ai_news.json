@@ -1,5 +1,69 @@
 [
     {
+        "id": "2a3e734006ce97ab5d050cdec82a3490",
+        "title": "Banks’ steady support key to growth: Finance minister Nirmala Sitharaman",
+        "description": "The finance minister called for greater adaptability in the banking system in response to rapid advances in artificial intelligence, citing emerging risks from next-generation models such as Claude Mythos that can identify and exploit software vulnerabilities faster than human experts",
+        "content": "Finance minister Nirmala Sitharaman has underscored the need for banks to provide “predictable support” to sustain India’s consumption-driven growth amid rising global uncertainties.\nHer remarks come at a time when analysts expect moderation in bank ... [2411 chars]",
+        "url": "https://www.telegraphindia.com/business/banks-steady-support-key-to-growth-finance-minister-nirmala-sitharaman-prnt/cid/2157703",
+        "image": "https://assets.telegraphindia.com/telegraph/2026/Apr/1777090696_new-project-4.jpg",
+        "publishedAt": "2026-04-25T04:39:29Z",
+        "lang": "en",
+        "source": {
+            "id": "93a4f054e09bde095cda5265e575a952",
+            "name": "Telegraph India",
+            "url": "https://www.telegraphindia.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "83486c4aad2f1895c0bed96939c67663",
+        "title": "Artificial Intelligence will bore us to death before it kills us",
+        "description": "Before the world ends, Artificial Intelligence poses another grave threat to humanity: it risks boring us to death",
+        "content": "Now that MI5 has been called in to protect us from rogue AI systems and Anthropic has opted not to release its Claude Mythos model to the public over safety concerns, it seems that talk of AI erasing humanity is not entirely overblown. But before the... [4004 chars]",
+        "url": "https://spectator.com/article/artificial-intelligence-will-bore-us-to-death-before-it-kills-us/",
+        "image": "https://spectator.com/wp-content/uploads/2026/04/GettyImages-2260945036.jpg",
+        "publishedAt": "2026-04-25T04:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "88e222cab209b86d787c4fdccf161c76",
+            "name": "The Spectator",
+            "url": "https://spectator.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "b07f1cfc40a31fd0be446332b11fb729",
+        "title": "AI united Sam Altman and Elon Musk, then drove them apart",
+        "description": "Elon Musk and Sam Altman, co-founders of OpenAI, are set to face off in court over a clash of visions regarding artificial intelligence. Their initial collaboration, driven by a shared concern for AI's future, has fractured due to differing approaches to its development and commercialization.",
+        "content": "Synopsis\nElon Musk and Sam Altman, co-founders of OpenAI, are set to face off in court over a clash of visions regarding artificial intelligence. Their initial collaboration, driven by a shared concern for AI's future, has fractured due to differing ... [3428 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-united-sam-altman-and-elon-musk-then-drove-them-apart/articleshow/130508103.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49160,resizemode-75,msid-130508103/tech/artificial-intelligence/ai-united-sam-altman-and-elon-musk-then-drove-them-apart.jpg",
+        "publishedAt": "2026-04-25T04:27:19Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "292db403f145ce67e513a14f08c53d3e",
+        "title": "Wall Street Week Ahead: Soaring US stocks face pivotal week of tech-led earnings, Fed meeting",
+        "description": "Indian markets brace for a crucial week. Major tech giants like Microsoft and Alphabet report earnings. Investors watch for clues on artificial intelligence spending. The U.S. Federal Reserve meets, with potential changes at its helm. Economic growth and inflation data will also be released. Geopolitical tensions in the Middle East remain a key concern for asset prices.",
+        "content": "Synopsis\nIndian markets brace for a crucial week. Major tech giants like Microsoft and Alphabet report earnings. Investors watch for clues on artificial intelligence spending. The U.S. Federal Reserve meets, with potential changes at its helm. Econom... [6099 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-soaring-us-stocks-face-pivotal-week-of-tech-led-earnings-fed-meeting/articleshow/130507988.cms",
+        "image": "https://img.etimg.com/thumb/msid-130508007,width-1200,height-630,imgsize-13832,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-04-25T04:17:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "25e2336abff96049060d014ef2ff6b8a",
         "title": "‘Father of AGI’ Ben Goertzel shares three skills employees need to remain useful and relevant as AI disrupts job market",
         "description": "Tech News News: Ben Goertzel, the computer scientist who famously coined the term “Artificial General Intelligence” (AGI), has a warning for the global workforce: a “.",
@@ -93,70 +157,6 @@
             "name": "Livemint",
             "url": "https://www.livemint.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "baea3e3c6c1efd98822dd8d0b60e4336",
-        "title": "The feds join Elon Musk’s attempt to stop new AI regulations in Colorado.",
-        "description": "A report by Bloomberg points out that the DOJ has joined an xAI lawsuit against the Consumer Protections for Artificial Intelligence law that is set to take effect in Colorado on June 30th. In their filing, the government’s lawyers claim that by requiring developers to take “reasonable care to protect consumers” from algorithmic discrimination, the law violates the Equal Protection Clause of the Constitution.\n[Link: Meet the new tech laws of 2026 | https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair#:~:text=Colorado%3A%20AI%20regulations | The Verge]",
-        "content": "R\nThe Verge\nThe feds join Elon Musk’s attempt to stop new AI regulations in Colorado.\nA report by Bloomberg points out that the DOJ has joined an xAI lawsuit against the Consumer Protections for Artificial Intelligence law that is set to take effect ... [684 chars]",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/918492/the-feds-join-elon-musks-attempt-to-stop-new-ai-regulations-in-colorado",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-        "publishedAt": "2026-04-24T23:05:04Z",
-        "lang": "en",
-        "source": {
-            "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-            "name": "The Verge",
-            "url": "https://www.theverge.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "7ac6f12f72acd925d99fe77252eaf4da",
-        "title": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
-        "description": "The U.S. State Department ​has ordered a global push to bring attention to what it says are widespread efforts by Chinese companies, including AI ‌startup DeepSeek, to steal intellectual property from U.S. artificial intelligence labs, according to a diplomatic cable seen by Reuters.",
-        "content": "WASHINGTON, April 24 (Reuters) - The U.S. State Department ​has ordered a global push to bring attention to what it says are widespread efforts by Chinese companies, including AI ‌startup DeepSeek, to steal intellectual property from U.S. artificial ... [3213 chars]",
-        "url": "https://www.reuters.com/world/china/us-state-dept-orders-global-warning-about-alleged-china-ai-thefts-by-deepseek-2026-04-24/",
-        "image": "https://www.reuters.com/resizer/v2/KIK4AUMDLBLZ3MA7ULN3KENZZQ.jpg?auth=4daeda6a00bb880345fa05de17b38bfaba770f66458d51fd3a707542e01f98ee&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-04-24T22:32:23Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "532955b67817ea87c2db7feff7745339",
-        "title": "OpenAI CEO Sam Altman 'deeply sorry' over Tumbler Ridge shooting where 8 were killed",
-        "description": "The head of an artificial intelligence company that admitted it knew of the troubling behaviour of a woman before she killed eight and wounded dozens more in Tumbler Ridge, B.C., has apologized for not going to police.",
-        "content": "The head of an artificial intelligence company that admitted it knew of the troubling behaviour of a woman before she killed eight and wounded dozens more in Tumbler Ridge, B.C., has apologized for not going to police.\nA letter from OpenAI CEO Sam Al... [3303 chars]",
-        "url": "https://www.baytoday.ca/national-news/openai-ceo-sam-altman-deeply-sorry-over-tumbler-ridge-shooting-where-8-were-killed-12191159",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/62229053fc95507c60cd7d8f529d823006e7c7f6232e3d4fe676dd4dc49152a1.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2026-04-24T21:47:41Z",
-        "lang": "en",
-        "source": {
-            "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-            "name": "BayToday",
-            "url": "https://www.baytoday.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "c41412442cb4f89e6e933a6248a4527e",
-        "title": "OpenAI CEO Sam Altman 'deeply sorry' over Tumbler Ridge shooting where 8 were killed",
-        "description": "The head of an artificial intelligence company that admitted it knew of the troubling behaviour of a woman before she killed eight and wounded dozens more in Tumbler Ridge, B.C., has apologized for not going to police.",
-        "content": "The head of an artificial intelligence company that admitted it knew of the troubling behaviour of a woman before she killed eight and wounded dozens more in Tumbler Ridge, B.C., has apologized for not going to police.\nA letter from OpenAI CEO Sam Al... [3303 chars]",
-        "url": "https://www.sootoday.com/national-news/openai-ceo-sam-altman-deeply-sorry-over-tumbler-ridge-shooting-where-8-were-killed-12191159",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/62229053fc95507c60cd7d8f529d823006e7c7f6232e3d4fe676dd4dc49152a1.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2026-04-24T21:47:41Z",
-        "lang": "en",
-        "source": {
-            "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-            "name": "SooToday",
-            "url": "https://www.sootoday.com",
-            "country": "ca"
         }
     }
 ]
