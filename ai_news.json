@@ -1,5 +1,37 @@
 [
     {
+        "id": "fb2ff60fb77e6e6b836b585000907d77",
+        "title": "AI Replicas Of The Dead Are Reshaping How People Deal With Loss",
+        "description": "As artificial intelligence and voice technology improve, these tools are becoming more realistic and readily available.",
+        "content": "A new form of technology is changing how people deal with loss, allowing them to stay connected with loved ones even after death. Justin Harrison, founder of a California-based startup called You, Only Virtual, has created AI replicas of people who h... [2273 chars]",
+        "url": "https://www.ndtv.com/feature/ai-replicas-of-the-dead-are-reshaping-how-people-deal-with-loss-11410632",
+        "image": "https://c.ndtvimg.com/2026-04/ol791lj8_ai_625x300_26_April_26.jpeg",
+        "publishedAt": "2026-04-26T06:45:30Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "0e3a89f06e54ed5285ac5a61597cd633",
+        "title": "Russia weaponising AI deepfakes in grey zone warfare to shatter Western support for Ukraine, report warns",
+        "description": "The Kremlin has launched a sophisticated \"asymmetric assault\" on Western democracy, deploying advanced artificial intelligence and deepfake technology to flood the information space with realistic lies about the war in Ukraine.",
+        "content": "According to a landmark study by the Henry Jackson Society, Moscow has pivoted toward \"grey zone\" tactics as its conventional military faces setbacks and its economy remains isolated by global sanctions.\nThe report, authored by Michael McManus, revea... [2880 chars]",
+        "url": "https://www.lbc.co.uk/article/russia-weaponising-ai-deepfakes-in-grey-zone-warfare-to-shatter-western-support-5HjdYHM_2/",
+        "image": "https://images.globalplayer.com/images/808730?crop=16_9&width=1200&signature=SxsBtxNJD_x2J8QdoZ16oDMuRgQ=",
+        "publishedAt": "2026-04-26T06:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "027234d3c0a6aefa3d7ab81380e63d86",
+            "name": "LBC",
+            "url": "https://www.lbc.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "308b09dcc29c2883a452f5c16b13e380",
         "title": "Google Earmarks $40 Billion for Anthropic Investment",
         "description": "Alphabet's Google will earmark up to $40 billion into artificial intelligence company Anthropic, according to an April 25 release.\nUnder the investment, the technology giant will initially invest...",
@@ -125,38 +157,6 @@
             "name": "SFGATE",
             "url": "https://www.sfgate.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "7c5c35ca027ac402db0bd16ce3687077",
-        "title": "Quote of the day by Sam Altman: AI won't replace humans. But humans who use AI ...",
-        "description": "Sam Altman's widely shared quote frames AI as a tool that rewards adaptation. It has added to the debate on how workers can stay relevant as artificial intelligence changes jobs.",
-        "content": "\"AI won't replace humans. But humans who use AI will replace those who don't.\"\nThe quote by Sam Altman has been widely circulated in discussions about artificial intelligence and the future of work. It reflects a practical and forward-looking view ra... [2394 chars]",
-        "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/quote-of-the-day-by-sam-altman-ai-wont-replace-humans-but-humans-who-use-ai-2901394-2026-04-26",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/sam-altman-175223836-16x9_0.jpg?VersionId=0njrDocNr6.K_2amKfDa5EKCiTWxGTol",
-        "publishedAt": "2026-04-26T02:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "140d868a9538a101b34221830e40c6b2",
-        "title": "Microsoft CEO Satya Nadella may have just agreed with VP Rajesh Jha on the solution to software companies’ biggest fear",
-        "description": "Tech News News: The rise of agentic AI has triggered a crises in the enterprise software industry. The fear goes something like this: if artificial intelligence (AI) .",
-        "content": "The rise of agentic AI has triggered a crises in the enterprise software industry. The fear goes something like this: if artificial intelligence (AI) makes every worker more productive, companies will need fewer employees. Fewer employees means fewer... [2671 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-may-have-just-agreed-with-vp-rajesh-jha-on-the-solution-to-software-companies-biggest-fear/articleshow/130522881.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130522877,width-1280,height-720,imgsize-27690,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-26T01:25:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
