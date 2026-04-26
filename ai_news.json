@@ -1,5 +1,21 @@
 [
     {
+        "id": "b5aac1458de5011877d100469e0edff5",
+        "title": "US senator Bernie Sanders warns AI can wipe out humanity",
+        "description": "Geoffrey Hinton, the Nobel Prize-winning scientist widely called the godfather of AI, believes there is a 10 to 20% chance artificial intelligence wipes out humanity. Bernie Sanders wants to know...",
+        "content": "Geoffrey Hinton, the Nobel Prize-winning scientist widely called the godfather of AI, believes there is a 10 to 20% chance artificial intelligence wipes out humanity. Bernie Sanders wants to know why that number hasn't caused a single serious debate ... [1710 chars]",
+        "url": "https://www.thenews.com.pk/latest/1400406-bernie-sanders-warns-ai-can-wipe-out-humanity",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-26/1400406_021130_updates.jpg",
+        "publishedAt": "2026-04-26T09:05:42Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
         "id": "fb2ff60fb77e6e6b836b585000907d77",
         "title": "AI Replicas Of The Dead Are Reshaping How People Deal With Loss",
         "description": "As artificial intelligence and voice technology improve, these tools are becoming more realistic and readily available.",
@@ -141,22 +157,6 @@
             "name": "SooToday",
             "url": "https://www.sootoday.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "8edb2891bc90efcb734dc520fcdaeb97",
-        "title": "Edsource: Achievement Gaps, Artificial Intelligence And More: State Superintendent Hopefuls Detail Their Plans At Candidate Forums",
-        "description": "EdSource",
-        "content": "EdSource\nThe top candidates vying to be California's next superintendent of public instruction took the stage for two virtual forums this week, detailing how they would handle achievement gaps, artificial intelligence concerns, LGBTQ+ protections and... [7239 chars]",
-        "url": "https://www.sfgate.com/news/bayarea/article/edsource-achievement-gaps-artificial-22226675.php",
-        "image": "https://s.hdnux.com/photos/01/54/20/70/28380735/6/rawImage.jpg",
-        "publishedAt": "2026-04-26T02:03:02Z",
-        "lang": "en",
-        "source": {
-            "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-            "name": "SFGATE",
-            "url": "https://www.sfgate.com",
-            "country": "us"
         }
     }
 ]
