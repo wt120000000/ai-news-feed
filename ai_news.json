@@ -1,12 +1,28 @@
 [
     {
-        "id": "6496e94eb087851d04ddce26bf499da1",
-        "title": "Global Market | AI boom fuels record earnings surge at Samsung Electronics",
-        "description": "Samsung Electronics reported a dramatic surge in first-quarter earnings, driven by soaring memory chip prices amid a global artificial intelligence boom that has tightened supply across the semiconductor industry.",
-        "content": "Synopsis\nSamsung Electronics reported a dramatic surge in first-quarter earnings, driven by soaring memory chip prices amid a global artificial intelligence boom that has tightened supply across the semiconductor industry.\nSamsung Electronics reporte... [4159 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ai-boom-fuels-record-earnings-surge-at-samsung-electronics/articleshow/130622883.cms",
-        "image": "https://img.etimg.com/thumb/msid-130622876,width-1200,height-630,imgsize-234944,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-04-30T04:14:00Z",
+        "id": "107a889cf89bf5b03b2c7138a9fc055a",
+        "title": "The trillion-dollar question: Is tech's massive AI spending actually working?",
+        "description": "A frenzied day of earnings reports offered a glimpse at how some of the world’s biggest tech companies are doing in artificial intelligence.",
+        "content": "A frenzied day of earnings reports offered a glimpse at how some of the world’s biggest tech companies are doing in artificial intelligence. The upshot: Alphabet Inc.’s Google is seeing a clear payoff from its AI spending, while Meta Platforms Inc. i... [3930 chars]",
+        "url": "https://www.latimes.com/business/story/2026-04-29/trillion-dollar-question-is-techs-massive-ai-spending-actually-working",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/d41e9d8/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F40%2Fde532d22f4aba838a5804d0cdf52%2F1x-1.jpg",
+        "publishedAt": "2026-04-30T06:05:45Z",
+        "lang": "en",
+        "source": {
+            "id": "492abf277b7277432148b61b21ddc836",
+            "name": "Los Angeles Times",
+            "url": "https://www.latimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "9d596032e0186e83f7ae4a2930432708",
+        "title": "Tech’s AI Bet: Transforming earnings and market trends",
+        "description": "Major US technology companies have reported strong quarterly earnings, with artificial intelligence emerging as the central driver of both growth and investor enthusiasm. While markets remain broadly optimistic, there is a growing sense of caution as investors assess whether this AI-led expansion can be sustained over the long term. The Big Picture",
+        "content": "Major US technology companies have reported strong quarterly earnings, with artificial intelligence emerging as the central driver of both growth and investor enthusiasm. While markets remain broadly optimistic, there is a growing sense of caution as... [2163 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/techs-ai-bet-transforming-earnings-and-market-trends/slideshow/130624764.cms",
+        "image": "https://img.etimg.com/thumb/msid-130624764,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+        "publishedAt": "2026-04-30T05:57:00Z",
         "lang": "en",
         "source": {
             "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -16,147 +32,131 @@
         }
     },
     {
-        "id": "a39019095ed40ecd097189c899d2fc5f",
-        "title": "WRAPUP 1-US growth likely picked up in first quarter, but consumer spending probably cooled",
-        "description": "The anticipated increase in gross domestic product last quarter also would reflect robust growth in business investment in equipment, fueled by an artificial intelligence spending boom and the building of data centers underpinning the technology. The Commerce Department's advance estimate of first-quarter gross domestic product on Thursday is, however, expected to show consumer spending losing further momentum even before the U.S.-Israeli ‌war with Iran raised the average U.S. gasoline price to above $4 a gallon.",
-        "content": "U.S. economic growth likely accelerated in the first quarter on a rebound in government spending after ​a crippling government shutdown, but the pickup is expected to be short-lived as the war ‌with ​Iran drives up gasoline prices and squeezes househ... [5263 chars]",
-        "url": "https://www.devdiscourse.com/article/business/3891443-wrapup-1-us-growth-likely-picked-up-in-first-quarter-but-consumer-spending-probably-cooled",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_19_16_04_3385426.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-04-30T04:04:07Z",
+        "id": "0d436f2f5a31c1b32a328eb600519f34",
+        "title": "White House against Anthropic expanding Mythos model access: report",
+        "description": "The White House is opposing Anthropic's plans to expand access to its new artificial intelligence model Mythos to 120 companies, the Wall Street Journal",
+        "content": "The White House is opposing Anthropic’s plans to expand access to its new artificial intelligence model Mythos to 120 companies, the Wall Street Journal reported Wednesday.\nPresident Donald Trump’s administration and Anthropic had only recently start... [2004 chars]",
+        "url": "https://www.breitbart.com/news/white-house-against-anthropic-expanding-mythos-model-access-report/",
+        "image": "https://media.breitbart.com/media/2026/04/wi/afp/white-house-reportedly-expressed-security-concerns-anthropic-expanding-access-mythos-ai-model-640x335.jpg",
+        "publishedAt": "2026-04-30T05:48:13Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "27d8d4694c2bb2502d581112223b938c",
+        "title": "The AP Interview: Ukraine bets on battlefield AI as the race for weapons autonomy intensifies",
+        "description": "KYIV, Ukraine (AP) — Rapid military adoption of artificial intelligence is becoming essential to Ukraine's survival, even as full integration across the…",
+        "content": "KYIV, Ukraine (AP) — Rapid military adoption of artificial intelligence is becoming essential to Ukraine’s survival, even as full integration across the battlefield may still be several years away, according to a senior AI official.\nDanylo Tsvok said... [3227 chars]",
+        "url": "https://wtop.com/russia-ukraine-war-news/2026/04/the-ap-interview-ukraine-bets-on-battlefield-ai-as-the-race-for-weapons-autonomy-intensifies/",
+        "image": "https://wtop.com/wp-content/uploads/2026/04/Russia_Ukraine_War_Battlefield_AI_65843-scaled.jpg",
+        "publishedAt": "2026-04-30T05:35:33Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e34db4cf7728e5b0fb24052c5f32e38e",
+        "title": "Schneider Electric tops revenue forecast as it rides AI data centre wave",
+        "description": "Schneider Electric narrowly beat first-quarter revenue expectations on Thursday, once again ​boosted by the global artificial intelligence data centre buildout reinforcing ‌the French group's role as one of the most sought-after suppliers.",
+        "content": "Revenue in the three months through March grew 11.2% organically to 9.77 billion euros ($11.39 billion). That was a ​notch above the average consensus estimate of 9.76 billion euros, with ​10.1% organic growth expected by analysts polled by the compa... [1794 chars]",
+        "url": "https://www.reuters.com/business/schneider-electric-tops-revenue-forecast-it-rides-ai-data-centre-wave-2026-04-30/",
+        "image": "https://www.reuters.com/resizer/v2/ICOWXKNBZNNFXKSCVUBZCMVESU.jpg?auth=91d1a8a8a7f0eae73bee08eb2b51329f889f2b80a250dfe3dd7c05377a0d91cd&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-04-30T05:31:41Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "4322718c189138bed2cddec1f8aaab08",
+        "title": "Military's adoption of AI seen as key to Ukraine's survival",
+        "description": "Ukraine is accelerating the use of artificial intelligence to retain an edge on the battlefield, as the war with Russia enters a new technological phase.",
+        "content": "KYIV, Ukraine (AP) — Rapid military adoption of artificial intelligence is becoming essential to Ukraine’s survival, even as full integration across the battlefield may still be several years away, according to a senior AI official.\nDanylo Tsvok said... [3094 chars]",
+        "url": "https://apnews.com/article/russia-ukraine-war-artificial-intelligence-europe-a7d2cce367f68caa3598f4e0bd8b50c9",
+        "image": "https://dims.apnews.com/dims4/default/bb68c2a/2147483647/strip/true/crop/3264x2175+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F48%2Ff3%2Ff422222cbf35e034502cacb73c00%2F0aa84ba4d2ec43d3998c10d28979d8a2",
+        "publishedAt": "2026-04-30T05:29:58Z",
+        "lang": "en",
+        "source": {
+            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+            "name": "The Associated Press",
+            "url": "https://apnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2cfc7a3943de5fe1a71242d33d941357",
+        "title": "The AP Interview: Ukraine bets on battlefield AI as the race for weapons autonomy intensifies",
+        "description": "Ukraine is accelerating the use of artificial intelligence to retain an edge on the battlefield, as the war with Russia enters a new technological phase.",
+        "content": "KYIV – Rapid military adoption of artificial intelligence is becoming essential to Ukraine's survival, even as full integration across the battlefield may still be several years away, according to a senior AI official.\nDanylo Tsvok said AI is already... [3080 chars]",
+        "url": "https://www.clickondetroit.com/tech/2026/04/30/the-ap-interview-ukraine-bets-on-battlefield-ai-as-the-race-for-weapons-autonomy-intensifies/",
+        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/3W5COCKZP5BCBOK2G2PWO72744.jpg?_a=DATAg1fkZAA0",
+        "publishedAt": "2026-04-30T05:29:57Z",
+        "lang": "en",
+        "source": {
+            "id": "35515662ec044d3f94b543cd8802d63f",
+            "name": "WDIV ClickOnDetroit",
+            "url": "https://www.clickondetroit.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "99d22ca49ba05b768234bb91ab3aadd2",
+        "title": "The AP Interview: Ukraine Bets on Battlefield AI as the Race for Weapons Autonomy Intensifies",
+        "description": "KYIV, Ukraine (AP) — Rapid military adoption of artificial intelligence is becoming essential to Ukraine's survival, even as full integration across the battlefield may still be several years away, according to a senior AI official.",
+        "content": "KYIV, Ukraine (AP) — Rapid military adoption of artificial intelligence is becoming essential to Ukraine's survival, even as full integration across the battlefield may still be several years away, according to a senior AI official.\nDanylo Tsvok said... [3227 chars]",
+        "url": "https://www.usnews.com/news/technology/articles/2026-04-30/the-ap-interview-ukraine-bets-on-battlefield-ai-as-the-race-for-weapons-autonomy-intensifies",
+        "image": "https://www.usnews.com/dims4/USNEWS/8d4ca61/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fd3%2Fd6c096580209e548136cafa282796c%2F0aa84ba4d2ec43d3998c10d28979d8a2Russia_Ukraine_War_Battlefield_AI_65843.jpg",
+        "publishedAt": "2026-04-30T05:29:00Z",
+        "lang": "en",
+        "source": {
+            "id": "37128a060981dbbe79321f096e7d1108",
+            "name": "U.S. News & World Report",
+            "url": "https://www.usnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "926c649b5610bbed87ec10b46296d6f9",
+        "title": "Amazon beats expectations but rattles markets with massive spending",
+        "description": "Despite robust results driven by cloud services and advertising, the group's shares slipped as markets questioned the scale of its capex in artificial intelligence and ce.",
+        "content": "Amazon reported Q1 earnings that topped expectations, with EPS coming in at $2.78, well ahead of the $1.64 anticipated. Revenue reached $181.52bn, also exceeding forecasts set at $177.30bn. Performance was notably bolstered by Amazon Web Services, wh... [757 chars]",
+        "url": "https://www.marketscreener.com/news/amazon-beats-expectations-but-rattles-markets-with-massive-spending-ce7f58dbd88bf22c",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-01-28T114906Z_1_LYNXMPEM0R0RP_RTROPTP_4_AMAZON-EUROPE-CLOUD.JPG",
+        "publishedAt": "2026-04-30T05:26:26Z",
+        "lang": "en",
+        "source": {
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "a1dd47b6a80e11446abf34d6f6980f7a",
+        "title": "Ahmedabad Cyber Police arrest four accused of Aadhaar-based fraud of Rs 25,000",
+        "description": "Ahmedabad Cyber Police have arrested four accused of an Aadhaar-based fraud of Rs 25,000. The fraudsters changed the registered mobile number with Aadhaar and used artificial intelligence (AI) for biometric authentication, DCP Lavina Sinha said.",
+        "content": "Ahmedabad Cyber Police have arrested four accused in an alleged Aadhaar-based fraud of Rs 25,000. The fraudsters changed the registered mobile number with Aadhaar and used artificial intelligence (AI) for biometric authentication, Deputy Commissioner... [2118 chars]",
+        "url": "https://www.devdiscourse.com/article/headlines/3891520-ahmedabad-cyber-police-arrest-four-accused-of-aadhaar-based-fraud-of-rs-25000",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/30_04_2026_10_55_54_7844087.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-04-30T05:25:57Z",
         "lang": "en",
         "source": {
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "47d4161164020208b97f1b2a8a6fc36e",
-        "title": "US Stock Market | Meta ramps up AI spending amid regulatory heat and user concerns",
-        "description": "Meta Platforms has sharply increased its capital spending outlook, underscoring its aggressive push into artificial intelligence even as it faces intensifying regulatory scrutiny and growing backlash over the impact of social media on younger users.",
-        "content": "Meta Platforms has sharply increased its capital spending outlook, underscoring its aggressive push into artificial intelligence even as it faces intensifying regulatory scrutiny and growing backlash over the impact of social media on younger users.\n... [5044 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-meta-ramps-up-ai-spending-amid-regulatory-heat-and-user-concerns/articleshow/130622618.cms",
-        "image": "https://img.etimg.com/thumb/msid-130622612,width-1200,height-630,imgsize-56350,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-04-30T03:56:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c6c4be1ba0483a0ebb64563f796d4a99",
-        "title": "Elon Musk contradicts bold AGI claims, tells court Tesla isn’t working on it",
-        "description": "Elon Musk told a California court that Tesla is not currently pursuing artificial general intelligence, contradicting his recent public claims. The testimony came during his lawsuit against OpenAI, raising fresh questions about strategy, credibility, and the future of AI competition.",
-        "content": "For someone who thrives on spectacle, Elon Musk delivered a moment that felt unusually grounded, and quietly contradictory. Inside a California federal courtroom, away from the amplification of social media, Musk acknowledged under oath that Tesla is... [3811 chars]",
-        "url": "https://www.firstpost.com/tech/elon-musk-contradicts-bold-agi-claims-tells-court-tesla-isnt-working-on-it-14005967.html",
-        "image": "https://images.firstpost.com/uploads/2026/04/2026-04-29T194110Z_1620640284_RC27ZKAFUTLY_RTRMADP_3_MUSK-OPENAI-COURT-2026-04-40822ae3f77964cc50175b515a1c9089-1200x675.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-04-30T03:20:50Z",
-        "lang": "en",
-        "source": {
-            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-            "name": "Firstpost",
-            "url": "https://www.firstpost.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "cbf793587a5f616efa40505d4787a46e",
-        "title": "Journalism classes lack a consistent approach to AI use across institutions",
-        "description": "Artificial intelligence is steadily becoming more embedded in journalism; part of how journalists write, edit, research and more. But little is known about how future journalists are learning about the technology. New research from the University of Kansas has found that journalism classes across the country are taking varying approaches, from considering its use in academic dishonesty to encouraging its use or discussing the matter philosophically. That scattershot approach can both shortchange and confuse students, while more consistency could better serve education and practice, according to the authors.",
-        "content": "Artificial intelligence is steadily becoming more embedded in journalism; part of how journalists write, edit, research and more. But little is known about how future journalists are learning about the technology. New research from the University of ... [5588 chars]",
-        "url": "https://phys.org/news/2026-04-journalism-classes-lack-approach-ai.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/university-lecture.jpg",
-        "publishedAt": "2026-04-30T02:20:01Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "7c92449dab5a0c4354a91e1dd40cdf29",
-        "title": "21-year-old dies in Noida; autopsy shows ‘heart enlargement’",
-        "description": "Police identified the deceased as a student of Artificial Intelligence (AI) at the Meerut University who resided at a high-rise in Greater Noida, Techzone 4 with his family members",
-        "content": "Police identified the deceased as a student of Artificial Intelligence (AI) at the Meerut University who resided at a high-rise in Greater Noida, Techzone 4 with his family members.\n“On Tuesday afternoon, the 21-year-old student along with his family... [1340 chars]",
-        "url": "https://www.hindustantimes.com/cities/noida-news/21yearold-dies-in-noida-autopsy-shows-heart-enlargement-101777489685148.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/29/550x309/The-ADCP-said---No-complaint-has-been-received-yet_1777489682404.jpg",
-        "publishedAt": "2026-04-30T01:30:14Z",
-        "lang": "en",
-        "source": {
-            "id": "21468bec836de1ebb209ff6f78fbfe3e",
-            "name": "Hindustan Times",
-            "url": "https://www.hindustantimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1086bf9eca7dbc2efc92391b8a867e1d",
-        "title": "SoftBank to create and list AI firm Roze in U.S., Financial Times reports",
-        "description": "The Japanese group has piled on debt as founder Masayoshi Son seeks to position himself as a linchpin in the global artificial intelligence boom.",
-        "content": "SoftBank plans to establish and float a standalone artificial intelligence robotics and data center company called Roze in the U.S., the Financial Times reported, citing unidentified people familiar with the matter.\nThe Japanese investment firm aims ... [558 chars]",
-        "url": "https://www.japantimes.co.jp/business/2026/04/30/companies/softbank-ai-firm-us/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/30/537807.jpg?v=3.1",
-        "publishedAt": "2026-04-30T01:25:47Z",
-        "lang": "en",
-        "source": {
-            "id": "4b9101ef61d45607a32072a7504f5fb0",
-            "name": "The Japan Times ",
-            "url": "https://www.japantimes.co.jp",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "18cfda4f55d177cba94f04e70a5e82ef",
-        "title": "Meta chief Zuckerberg doubles down on AI spending",
-        "description": "SAN FRANCISCO — Meta chief Mark Zuckerberg on Wednesday defended massive spending on artificial intelligence that dragged down shares despite strong earnings boosted by the technology.",
-        "content": "SAN FRANCISCO — Meta chief Mark Zuckerberg on Wednesday defended massive spending on artificial intelligence that dragged down shares despite strong earnings boosted by the technology.\nThe social networking colossus raised its capital expenditures fo... [2631 chars]",
-        "url": "https://www.manilatimes.net/2026/04/30/business/foreign-business/meta-chief-zuckerberg-doubles-down-on-ai-spending/2332202",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/30/1035947.jpg",
-        "publishedAt": "2026-04-30T01:23:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "edea595a13564469e2201934767910ff",
-        "title": "Samsung Electronics posts record quarterly profit on AI boom",
-        "description": "Samsung Electronics posted a record quarterly profit on Thursday, driven by strong sales of chips crucial for artificial intelligence. South Korea's benchmark Kospi stock index opened at a fresh high of over 6,700 on Thursday following strong earnings figures from Samsung and US technology giants.",
-        "content": "Synopsis\nSamsung Electronics posted a record quarterly profit on Thursday, driven by strong sales of chips crucial for artificial intelligence. South Korea's benchmark Kospi stock index opened at a fresh high of over 6,700 on Thursday following stron... [1714 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-posts-record-quarterly-profit-on-ai-boom/articleshow/130620652.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-35086,resizemode-75,msid-130620652/tech/technology/samsung-electronics-posts-record-quarterly-profit-on-ai-boom.jpg",
-        "publishedAt": "2026-04-30T01:02:54Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "15d241d3d0332afc336f12865da7690e",
-        "title": "Melania Trump emerging as AI and education champion, advisor says",
-        "description": "Melania Trump is positioning herself as a leading voice on artificial intelligence and education, her senior advisor says, highlighting her Fostering the Future Together initiative.",
-        "content": "NEWYou can now listen to Fox News articles!\nEXCLUSIVE: First Lady Melania Trump is carving out a forward-looking role in the White House, positioning herself as a leading voice on artificial intelligence and education as the administration embraces e... [2859 chars]",
-        "url": "https://www.foxnews.com/politics/melania-trump-embraces-ai-education-initiative-white-house-tech-push-shes-been-champion",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/Melania-Trump-AI.jpeg",
-        "publishedAt": "2026-04-30T01:01:45Z",
-        "lang": "en",
-        "source": {
-            "id": "8da923084554b2821233d6c5c5f02c97",
-            "name": "Fox News",
-            "url": "https://www.foxnews.com",
-            "country": "us"
         }
     }
 ]
