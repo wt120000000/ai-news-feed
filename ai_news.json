@@ -1,5 +1,69 @@
 [
     {
+        "id": "9e9aeabcd79efd57b909d64d38f0c4d8",
+        "title": "KKR launches $10B AI infrastructure startup Helix, taps ex",
+        "description": "KKR is making a $10 billion bet that the real bottleneck in artificial intelligence isn’t models or chips. It’s everything around them. The private equity giant has launched Helix Digital Infrastructure, a new standalone company built to supply the physical foundation that AI now depends on. The pitch is simple: build the data centers, secure",
+        "content": "KKR is making a $10 billion bet that the real bottleneck in artificial intelligence isn’t models or chips. It’s everything around them. The private equity giant has launched Helix Digital Infrastructure, a new standalone company built to supply the p... [4710 chars]",
+        "url": "https://techstartups.com/2026/05/01/kkr-launches-10b-ai-infrastructure-startup-helix-taps-ex-aws-ceo-adam-selipsky-to-lead/",
+        "image": "https://techstartups.com/wp-content/uploads/2024/11/kkr-960x542.jpg",
+        "publishedAt": "2026-05-01T11:44:15Z",
+        "lang": "en",
+        "source": {
+            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+            "name": "TechStartups.com",
+            "url": "https://techstartups.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "28c6d56202339fd43dcfc9b11c093cea",
+        "title": "Human software engineers now a sidekick? OpenAI reveals 80 percent code is written by AI",
+        "description": "OpenAI has said artificial intelligence now writes 80% of its code. The claim highlights a shift in software engineering roles as humans increasingly guide and review machine output.",
+        "content": "AI is rapidly moving from coding assistant to coding powerhouse. OpenAI President Greg Brockman has revealed that AI tools are now writing a much larger share of software code than before, raising fresh questions about whether human engineers are bec... [3277 chars]",
+        "url": "https://www.indiatoday.in/technology/news/story/human-software-engineers-now-a-sidekick-openai-reveals-80-percent-code-is-written-by-ai-2904313-2026-05-01",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/software-engineers--ai-012409777-16x9_0.png?VersionId=eOxEu76ipe273MyNH.Y0xbjaqOgy3l_F",
+        "publishedAt": "2026-05-01T11:24:33Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "aa559c633000fb37c3774a1b4eecdeb2",
+        "title": "‘This is a real risk, we all could die as a result of artificial intelligence’ — the OpenAI trial took a dramatic turn as Elon Musk and Sam Altman faced off over AI’s real-world danger",
+        "description": "A dramatic courtroom clash between Elon Musk and Sam Altman briefly turned into a stark warning about AI extinction risk — before the judge shut it down.",
+        "content": "Elon Musk and Sam Altman’s trial veered into AI extinction debate\nThe judge shut down claims AI could pose a real-world threat\nThe case could reshape OpenAI and the future of ChatGPT\n“This is a real risk, we all could die as a result of artificial in... [3238 chars]",
+        "url": "https://www.techradar.com/ai-platforms-assistants/this-is-a-real-risk-we-all-could-die-as-a-result-of-artificial-intelligence-the-openai-trial-took-a-dramatic-turn-as-elon-musk-and-sam-altman-faced-off-over-ais-real-world-danger",
+        "image": "https://cdn.mos.cms.futurecdn.net/T92beSHk2LpXWzzpYpqveg-2560-80.jpg",
+        "publishedAt": "2026-05-01T11:19:17Z",
+        "lang": "en",
+        "source": {
+            "id": "76684855c5d801b81fd06490668d04fe",
+            "name": "TechRadar",
+            "url": "https://www.techradar.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "6c4055e02bed2541dec8121378def877",
+        "title": "Nvidia, Microsoft, AWS Expanding Classified Military AI Use",
+        "description": "The Pentagon has struck agreements with four more technology companies for expansive use of advanced artificial intelligence tools on classified military networks, according to a Defense Department statement and two defense officials briefed on the matter.",
+        "content": "The Pentagon has struck agreements with four more technology companies for expansive use of advanced artificial intelligence tools on classified military networks, according to a Defense Department statement and two defense officials briefed on the m... [271 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-01/nvidia-microsoft-aws-expanding-classified-military-ai-use",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNw1yx99vkmA/v1/1200x800.jpg",
+        "publishedAt": "2026-05-01T11:03:32Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "58070cf29ed759956c84e2d195f1462a",
         "title": "Reporters at McClatchy withhold bylines in dispute over AI content",
         "description": "McClatchy, the newspaper chain behind publications including The Sacramento Bee, The Miami Herald and The Idaho Statesman, has started to use a new artificial intelligence tool that can summarize traditional articles and spit out different versions for different audiences.",
@@ -93,70 +157,6 @@
             "name": "Breitbart News Network",
             "url": "https://www.breitbart.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "9d24ecffe06a96f722d8e6fb76b5ad1a",
-        "title": "‘So delicious to watch as they clash’: Elon Musk vs Sam Altman feud explained - inside the explosive OpenAI battle",
-        "description": "Trending News: Artificial intelligence is once again at the center of a major global conversation, but this time it is not about new tools or tech updates. It is abo.",
-        "content": "Artificial intelligence is once again at the center of a major global conversation, but this time it is not about new tools or tech updates. It is about a serious legal fight between Elon Musk and Sam Altman. The two well-known tech figures are now f... [2883 chars]",
-        "url": "https://timesofindia.indiatimes.com/etimes/trending/so-delicious-to-watch-as-they-clash-elon-musk-vs-sam-altman-feud-explained-inside-the-explosive-openai-battle/articleshow/130673903.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130673982,width-1280,height-720,imgsize-87376,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-01T09:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "454dfb4c4175f1209764004cc1403370",
-        "title": "Companies are increasingly favoring temporary staff over permanent hires",
-        "description": "Employers across the US and Europe are increasingly relying on temporary workers to keep their businesses going, holding off on permanent hires because of economic instability and artificial intelligence-driven disruptions.",
-        "content": "Employers across the US and Europe are increasingly relying on temporary workers to keep their businesses going, holding off on permanent hires because of economic instability and artificial intelligence-driven disruptions.\nStaffing firms, in their l... [2536 chars]",
-        "url": "https://www.spokesman.com/stories/2026/may/01/companies-are-increasingly-favoring-temporary-staf/",
-        "image": "https://thumb.spokesman.com/9CBs5cF50GSE402IgbM_siBkVQg=/1200x630/smart/media.spokesman.com/photos/2026/05/01/69f4f3c85db22.hires.jpg",
-        "publishedAt": "2026-05-01T09:04:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c8c865ed042eb14694b8d596e22efe99",
-            "name": "Spokane Spokesman-Review",
-            "url": "https://www.spokesman.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d8f55f5278791cbdda7489486e7f2c65",
-        "title": "AI ping pong bot stuns developers by developing ability to defeat top human table tennis players",
-        "description": "A cutting-edge robotic system developed by Sony has demonstrated human-level competitive ability in table tennis, raising new questions about how artificial intelligence can operate in fast-moving, unpredictable environments.",
-        "content": "A table tennis-playing robot has demonstrated the ability to defeat elite human ping pong players.\nMarking what researchers describe as a breakthrough moment for artificial intelligence in real-world sport, the Sony Ace cyborg, developed by Sony, is ... [2779 chars]",
-        "url": "https://www.perthnow.com.au/news/world/ai-ping-pong-bot-stuns-developers-by-developing-ability-to-defeat-top-human-table-tennis-players-c-22223077",
-        "image": "https://images.perthnow.com.au/publication/C-22223077/a8293cf7a8f227372a4f467c26616ced1b30a522-16x9-x0y192w2048h1152.jpg?imwidth=1200",
-        "publishedAt": "2026-05-01T09:03:23Z",
-        "lang": "en",
-        "source": {
-            "id": "7f6e8514e9d8f8376aaa9a7229861518",
-            "name": "PerthNow",
-            "url": "https://www.perthnow.com.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "244436fec7e1a3ef6e4a0e05fa54fedc",
-        "title": "Nobel prize-winning physicist warns humanity has only ‘35 years left’",
-        "description": "A leading Nobel Prize-winning scientist has raised concerns over the accelerating risks posed by nuclear weapons and artificial intelligence, suggesting humanity faces a narrowing window to avoid global catastrophe.",
-        "content": "Humanity could face extinction within decades due to the threats of nuclear war and artificial intelligence, a Nobel Prize-winning theoretical physicist has warned.\nDavid Gross, 85, who shared the 2004 Nobel honour in physics with Frank Wilczek and H... [2710 chars]",
-        "url": "https://www.perthnow.com.au/news/world/nobel-prize-winning-physicist-warns-humanity-has-only-35-years-left-c-22223075",
-        "image": "https://images.perthnow.com.au/publication/C-22223075/9083a1da692d004ba3ca0eec52144ca723ac09fb-16x9-x0y192w2048h1152.jpg?imwidth=1200",
-        "publishedAt": "2026-05-01T09:03:18Z",
-        "lang": "en",
-        "source": {
-            "id": "7f6e8514e9d8f8376aaa9a7229861518",
-            "name": "PerthNow",
-            "url": "https://www.perthnow.com.au",
-            "country": "au"
         }
     }
 ]
