@@ -1,5 +1,21 @@
 [
     {
+        "id": "2fdf0ead11619b64f9ae8782a3f2db4c",
+        "title": "AI-powered university policy hub to simplify student access",
+        "description": "MANILA, Philippines—The Department of Science and Technology (DOST) launched an artificial intelligence-driven university policy hub, aimed at simplifying access to institutional policies for students.",
+        "content": "MANILA, Philippines—The Department of Science and Technology (DOST) launched an artificial intelligence-driven university policy hub, aimed at simplifying access to institutional policies for students.\nThe hub, in partnership with the Camarines Sur P... [625 chars]",
+        "url": "https://www.manilatimes.net/2026/05/02/news/ai-powered-university-policy-hub-to-simplify-student-access/2334169",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2026-05-02T05:20:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "f70684f47d74d0bece07adc7ce57b0bd",
         "title": "Pentagon inks AI deals with tech firms, snubs Anthropic",
         "description": "The US military has agreed to deals with seven big tech firms as it expands its artificial intelligence capabilities.",
@@ -141,22 +157,6 @@
             "name": "The Atlanta Journal-Constitution",
             "url": "https://www.ajc.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "b261ef90991befad2a1a9064b45c69a1",
-        "title": "AI actors and writers will be ineligible for Oscars",
-        "description": "The Academy Awards will now require acting and writing to be human-created for Oscar eligibility. New rules clarify that artificial intelligence cannot be used for these categories. This change applies to submissions for the March 2027 ceremony. The move addresses concerns about AI replacing human workers in the film industry.",
-        "content": "Synopsis\nThe Academy Awards will now require acting and writing to be human-created for Oscar eligibility. New rules clarify that artificial intelligence cannot be used for these categories. This change applies to submissions for the March 2027 cerem... [1276 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-actors-and-writers-will-be-ineligible-for-oscars/articleshow/130708656.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-166420,resizemode-75,msid-130708656/tech/artificial-intelligence/ai-actors-and-writers-will-be-ineligible-for-oscars.jpg",
-        "publishedAt": "2026-05-02T02:06:52Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
