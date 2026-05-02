@@ -1,108 +1,12 @@
 [
     {
-        "id": "9e9aeabcd79efd57b909d64d38f0c4d8",
-        "title": "KKR launches $10B AI infrastructure startup Helix, taps ex",
-        "description": "KKR is making a $10 billion bet that the real bottleneck in artificial intelligence isn’t models or chips. It’s everything around them. The private equity giant has launched Helix Digital Infrastructure, a new standalone company built to supply the physical foundation that AI now depends on. The pitch is simple: build the data centers, secure",
-        "content": "KKR is making a $10 billion bet that the real bottleneck in artificial intelligence isn’t models or chips. It’s everything around them. The private equity giant has launched Helix Digital Infrastructure, a new standalone company built to supply the p... [4710 chars]",
-        "url": "https://techstartups.com/2026/05/01/kkr-launches-10b-ai-infrastructure-startup-helix-taps-ex-aws-ceo-adam-selipsky-to-lead/",
-        "image": "https://techstartups.com/wp-content/uploads/2024/11/kkr-960x542.jpg",
-        "publishedAt": "2026-05-01T11:44:15Z",
-        "lang": "en",
-        "source": {
-            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-            "name": "TechStartups.com",
-            "url": "https://techstartups.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "28c6d56202339fd43dcfc9b11c093cea",
-        "title": "Human software engineers now a sidekick? OpenAI reveals 80 percent code is written by AI",
-        "description": "OpenAI has said artificial intelligence now writes 80% of its code. The claim highlights a shift in software engineering roles as humans increasingly guide and review machine output.",
-        "content": "AI is rapidly moving from coding assistant to coding powerhouse. OpenAI President Greg Brockman has revealed that AI tools are now writing a much larger share of software code than before, raising fresh questions about whether human engineers are bec... [3277 chars]",
-        "url": "https://www.indiatoday.in/technology/news/story/human-software-engineers-now-a-sidekick-openai-reveals-80-percent-code-is-written-by-ai-2904313-2026-05-01",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/software-engineers--ai-012409777-16x9_0.png?VersionId=eOxEu76ipe273MyNH.Y0xbjaqOgy3l_F",
-        "publishedAt": "2026-05-01T11:24:33Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "aa559c633000fb37c3774a1b4eecdeb2",
-        "title": "‘This is a real risk, we all could die as a result of artificial intelligence’ — the OpenAI trial took a dramatic turn as Elon Musk and Sam Altman faced off over AI’s real-world danger",
-        "description": "A dramatic courtroom clash between Elon Musk and Sam Altman briefly turned into a stark warning about AI extinction risk — before the judge shut it down.",
-        "content": "Elon Musk and Sam Altman’s trial veered into AI extinction debate\nThe judge shut down claims AI could pose a real-world threat\nThe case could reshape OpenAI and the future of ChatGPT\n“This is a real risk, we all could die as a result of artificial in... [3238 chars]",
-        "url": "https://www.techradar.com/ai-platforms-assistants/this-is-a-real-risk-we-all-could-die-as-a-result-of-artificial-intelligence-the-openai-trial-took-a-dramatic-turn-as-elon-musk-and-sam-altman-faced-off-over-ais-real-world-danger",
-        "image": "https://cdn.mos.cms.futurecdn.net/T92beSHk2LpXWzzpYpqveg-2560-80.jpg",
-        "publishedAt": "2026-05-01T11:19:17Z",
-        "lang": "en",
-        "source": {
-            "id": "76684855c5d801b81fd06490668d04fe",
-            "name": "TechRadar",
-            "url": "https://www.techradar.com",
-            "country": "au"
-        }
-    },
-    {
-        "id": "6c4055e02bed2541dec8121378def877",
-        "title": "Nvidia, Microsoft, AWS Expanding Classified Military AI Use",
-        "description": "The Pentagon has struck agreements with four more technology companies for expansive use of advanced artificial intelligence tools on classified military networks, according to a Defense Department statement and two defense officials briefed on the matter.",
-        "content": "The Pentagon has struck agreements with four more technology companies for expansive use of advanced artificial intelligence tools on classified military networks, according to a Defense Department statement and two defense officials briefed on the m... [271 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-01/nvidia-microsoft-aws-expanding-classified-military-ai-use",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNw1yx99vkmA/v1/1200x800.jpg",
-        "publishedAt": "2026-05-01T11:03:32Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "58070cf29ed759956c84e2d195f1462a",
-        "title": "Reporters at McClatchy withhold bylines in dispute over AI content",
-        "description": "McClatchy, the newspaper chain behind publications including The Sacramento Bee, The Miami Herald and The Idaho Statesman, has started to use a new artificial intelligence tool that can summarize traditional articles and spit out different versions for different audiences.",
-        "content": "McClatchy, the newspaper chain behind publications including The Sacramento Bee, The Miami Herald and The Idaho Statesman, has started to use a new artificial intelligence tool that can summarize traditional articles and spit out different versions f... [5112 chars]",
-        "url": "https://www.spokesman.com/stories/2026/may/01/reporters-at-mcclatchy-withhold-bylines-in-dispute/",
-        "image": "https://thumb.spokesman.com/l2sMHX5ZvY-IivJJOF8GNS33NSY=/600x0/media.spokesman.com/graphics/2020/08/sr_placeholder.png",
-        "publishedAt": "2026-05-01T10:47:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c8c865ed042eb14694b8d596e22efe99",
-            "name": "Spokane Spokesman-Review",
-            "url": "https://www.spokesman.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a6f1821ad11f7089dfcfaaaa720ee062",
-        "title": "ChatGPT OpenAI Elon Musk trial: From calling Artificial Intelligence firm charity to existential crisis, key takeaways from Tesla boss' testimony",
-        "description": "Elon Musk repeatedly described OpenAI as a charity and testified that Altman and Brockman reneged on an initial promise to keep the nonprofit model.",
-        "content": "Synopsis\nElon Musk repeatedly described OpenAI as a charity and testified that Altman and Brockman reneged on an initial promise to keep the nonprofit model.\nElon Musk testified for more than seven hours over three days this week at a trial in Oaklan... [5795 chars]",
-        "url": "https://economictimes.indiatimes.com/news/international/us/chatgpt-openai-elon-musk-trial-from-calling-artificial-intelligence-firm-charity-to-existential-crisis-key-takeaways-from-tesla-boss-testimony/articleshow/130675705.cms",
-        "image": "https://img.etimg.com/thumb/msid-130675705,width-1200,height-630,imgsize-147684,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-05-01T10:37:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "ef2b4a6ec719b43a3855fe0ce80bcb38",
-        "title": "AI outperforms doctors in emergency diagnosis, claims Harvard study",
-        "description": "Tech News News: A study led by researchers at Harvard Medical School has found that an advanced artificial intelligence system can outperform human doctors in certain.",
-        "content": "A study led by researchers at Harvard Medical School has found that an advanced artificial intelligence system can outperform human doctors in certain emergency diagnosis tasks. The research compared physicians with an AI model, OpenAI o1, using real... [3534 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-outperforms-doctors-in-emergency-diagnosis-claims-harvard-study/articleshow/130675313.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130675466,width-1280,height-720,imgsize-910119,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-01T10:23:00Z",
+        "id": "4422374c84ea8a8d4706e32ab829d7d5",
+        "title": "As ChatGPT and Claude remain banned in China, Goldman Sachs tells employees in Hong Kong: Do not use Anthropic AI models",
+        "description": "Tech News News: Goldman Sachs has now barred its bankers in Hong Kong from using Anthropic’s Claude AI models, underscoring how emerging artificial intelligence techn.",
+        "content": "Goldman Sachs has now barred its bankers in Hong Kong from using Anthropic’s Claude AI models, underscoring how emerging artificial intelligence technologies are increasingly caught in the crossfire of US-China tensions. According to a report by Fina... [2253 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-chatgpt-and-claude-remain-banned-in-china-goldman-sachs-tells-employees-in-hong-kong-do-not-use-anthropic-ai-models/articleshow/130681346.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130681341,width-1280,height-720,imgsize-29387,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-01T15:22:00Z",
         "lang": "en",
         "source": {
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -112,13 +16,125 @@
         }
     },
     {
-        "id": "d19a554d6abd3a63e9d248b822215dac",
-        "title": "US Navy turns to AI firm Domino for options to counter Iranian mines",
-        "description": "The U.S. Navy is accelerating its artificial intelligence capabilities to detect Iranian mines in the Strait of Hormuz, a critical shipping lane. A new contract with Domino Data Lab aims to significantly reduce the time it takes to train underwater drones to identify new mine types, potentially cutting a six-month process down to days.",
-        "content": "Synopsis\nThe U.S. Navy is accelerating its artificial intelligence capabilities to detect Iranian mines in the Strait of Hormuz, a critical shipping lane. A new contract with Domino Data Lab aims to significantly reduce the time it takes to train und... [2879 chars]",
-        "url": "https://economictimes.indiatimes.com/news/defence/us-navy-turns-to-ai-firm-domino-for-options-to-counter-iranian-mines/articleshow/130675467.cms",
-        "image": "https://img.etimg.com/thumb/msid-130675532,width-1200,height-630,imgsize-5914,overlay-etdefence/articleshow.jpg",
-        "publishedAt": "2026-05-01T10:22:00Z",
+        "id": "82fed527fbf99ba47cb12a7fd8556357",
+        "title": "Apple proves once again it is the ultimate cash machine. How to trade the stock from here",
+        "description": "While the rest of the 'Mag 7' is caught up in the artificial intelligence arms race, Apple remains the ultimate shareholder 'Cash Machine.'",
+        "content": "Apple (AAPL) didn't just report strong fiscal second quarter earnings yesterday ; it delivered what CEO Tim Cook called the \"best March quarter ever.\" While the rest of the 'Mag 7' is caught up in the artificial intelligence arms race (spending hundr... [3394 chars]",
+        "url": "https://www.cnbc.com/2026/05/01/apple-proves-once-again-it-is-the-ultimate-cash-machine-how-to-trade-the-stock-from-here.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108269905-17720332362026-02-25t143034z_1357522177_rc21tja8ftkn_rtrmadp_0_spain-antitrust-apple-amazon.jpeg?v=1772033262&w=1920&h=1080",
+        "publishedAt": "2026-05-01T15:13:58Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7e3f1c11a5a647e8c1a09e63c7685bb2",
+        "title": "Synthesized Command & Control: A new way human choices can guide AI warfighting",
+        "description": "Two AI experts propose a new way to train artificial intelligence for warfighters.",
+        "content": "As the US military races to adapt to ever-larger amounts of increasingly advanced, and iteratively autonomous AI, how do humans stay in control? The standard answer is that no machine can exercise lethal force without human approval — but this soluti... [10938 chars]",
+        "url": "https://breakingdefense.com/2026/05/synthesized-command-control-a-new-way-human-choices-can-guide-ai-warfighting/",
+        "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/AdobeStock_952852899-e1777497681436.jpeg",
+        "publishedAt": "2026-05-01T15:12:00Z",
+        "lang": "en",
+        "source": {
+            "id": "391302f06b19835f4e0d9f8b4aa57091",
+            "name": "Breaking Defense",
+            "url": "https://breakingdefense.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3524d0ccf089aed2cad315701ec3dc9b",
+        "title": "Ravi K assumes charge as HAL CMD, pitches AI",
+        "description": "Outlining his vision for the company, Ravi K said, 'My vision is to transform HAL into a globally competitive aerospace and defence enterprise, driven by innovation, Artificial Intelligence (AI), operational excellence, and people.'",
+        "content": "Bengaluru (Karnataka) [India], May 1 (ANI): Ravi K on Friday assumed charge as the 22nd Chairman and Managing Director of Hindustan Aeronautics Limited (HAL), succeeding Dr D K Sunil, who superannuated on April 30, according to an official statement.... [2141 chars]",
+        "url": "https://www.tribuneindia.com/news/business/ravi-k-assumes-charge-as-hal-cmd-pitches-ai-led-transformation-and-global-expansion/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWVlZWE4N2IwLTQ1NmYtMTFmMS1iM2QwLWI3YzFiZWUzMDg5MS5qcGc=",
+        "publishedAt": "2026-05-01T15:10:39Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "a847aa20d4f6937f98d07bb7c2e55cee",
+        "title": "AI chatbots of dead relatives could make your grief ‘pathological’, ethicist warns",
+        "description": "An AI ethicist has warned that chatbots using artificial intelligence to replicate deceased loved ones may make a person's grief pathological, where a person is unable to cope with emotional distress or daily activities after more than a year. Emmanuelle Marceau, of the University of Montreal, issued the warning in a piece for The Conversation.",
+        "content": "Many of us will know of the episode “Be Right Back” from Charlie Brooker’s eerie anthology series Black Mirror, where Hayley Atwell’s Martha uses artificial intelligence to communicate with her dead boyfriend Ash (played by Domhnall Gleeson).\nIt’s al... [2266 chars]",
+        "url": "https://www.indy100.com/science-tech/ai-chatbot-dead-relatives-grief",
+        "image": "https://www.indy100.com/media-library/a-white-woman-types-messages-into-her-phone-with-a-holographic-text-conversation-appearing-above-it.jpg?id=66667061&width=1200&height=600&coordinates=0%2C104%2C0%2C105",
+        "publishedAt": "2026-05-01T15:06:19Z",
+        "lang": "en",
+        "source": {
+            "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
+            "name": "indy100",
+            "url": "https://www.indy100.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "cf208b3b96028e3edf0b22a187a08f87",
+        "title": "AI Company In Woburn Faces Investor Lawsuit Over Claims Of 'Phantom Deals,' Cover-Up",
+        "description": "The business, which uses artificial intelligence to develop specialized battery systems, has been financially struggling.",
+        "content": "The business, which uses artificial intelligence to develop specialized battery systems, has been financially struggling.\nWOBURN, MA — A high-tech Woburn company faces a class-action lawsuit claiming it misled investors and covered up important infor... [1752 chars]",
+        "url": "https://patch.com/massachusetts/woburn/ai-company-woburn-faces-investor-lawsuit-over-claims-phantom-deals-cover",
+        "image": "https://patch.com/img/cdn20/shutterstock/27234115/20260501/104441/styles/patch_image/public/shutterstock-420591208___01104235099.jpg",
+        "publishedAt": "2026-05-01T14:53:08Z",
+        "lang": "en",
+        "source": {
+            "id": "6846daa87323f7404a84cefc5b102157",
+            "name": "Joliet, IL Patch",
+            "url": "https://patch.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "bf8da54c3b5ba1a3445dc30a3623eb20",
+        "title": "Godfathers of AI are fighting over AI wiping away millions of jobs; Yann LeCun says don't listen to Geoffery Hinton as AI scientists are brilliant, be they are ...",
+        "description": "Tech News News: Two of the most influential figures in artificial intelligence (AI) have different view when AI-led job cuts are concerned. Geoffrey Hinton and Yann L.",
+        "content": "Two of the most influential figures in artificial intelligence (AI) have different view when AI-led job cuts are concerned. Geoffrey Hinton and Yann LeCun – widely known as the “Godfathers of AI” – have taken vastly different stances on how the techn... [2240 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/godfathers-of-ai-are-fighting-over-ai-wiping-away-millions-of-jobs-yann-lecun-says-dont-listen-to-geoffery-hinton-as-ai-scientists-are-brilliant-be-they-are-/articleshow/130680712.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130680717,width-1280,height-720,imgsize-63588,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-01T14:44:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "569a133a650ba1a13cc92c92105541fa",
+        "title": "Pentagon tech chief says 'Anthropic is still blacklisted' despite Mythos program distinction",
+        "description": "Pentagon-Anthropic rivalry again heats up. Defense Department CTO Emil Michael on Friday said Anthropic AI is still a supply chain risk, but that Mythos, the company’s artificial intelligence...",
+        "content": "Pentagon-Anthropic rivalry again heats up. Defense Department CTO Emil Michael on Friday said Anthropic AI is still a supply chain risk, but that Mythos, the company’s artificial intelligence model with advanced cyber capabilities, is a “separate nat... [1554 chars]",
+        "url": "https://www.thenews.com.pk/latest/1401079-pentagon-tech-chief-says-anthropic-is-still-blacklisted-despite-mythos-program-distinction",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-05-01/1401079_072310_updates.jpg",
+        "publishedAt": "2026-05-01T14:22:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "06c8fa66efea512c598193183f653dba",
+        "title": "Nebius to buy Eigen AI for $643 million to boost inference and US expansion",
+        "description": "Amsterdam-based Nebius is acquiring Eigen AI for approximately $643 million. This strategic move aims to enhance Nebius' production-grade artificial intelligence capabilities and expand its United States operations. The deal will integrate Eigen AI's inference and optimization technology into Nebius' Token Factory platform. This acquisition is set to close in the coming weeks.",
+        "content": "Synopsis\nAmsterdam-based Nebius is acquiring Eigen AI for approximately $643 million. This strategic move aims to enhance Nebius' production-grade artificial intelligence capabilities and expand its United States operations. The deal will integrate E... [1807 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/startups/nebius-to-buy-eigen-ai-for-643-million-to-boost-inference-and-us-expansion/articleshow/130680117.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-43664,resizemode-75,msid-130680117/tech/startups/nebius-to-buy-eigen-ai-for-643-million-to-boost-inference-and-us-expansion.jpg",
+        "publishedAt": "2026-05-01T14:20:00Z",
         "lang": "en",
         "source": {
             "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -128,34 +144,18 @@
         }
     },
     {
-        "id": "8893a064794a268c47e88d162b9025c8",
-        "title": "Apple shares rise as iPhone 17 and MacBook Neo drive forecast",
-        "description": "The upbeat outlook and a fresh $100-billion share buyback offers reassurance to investors weighing Apple’s leadership transition amid intensifying competition in artificial intelligence",
-        "content": "SAN FRANCISCO, USA – Apple on Thursday, April 30, touted blowout demand for its flagship iPhone 17 and the MacBook Neo that helped power a solid sales forecast and sent its shares up nearly 4% after hours.\nApple, though, warned of continuing chip sup... [3839 chars]",
-        "url": "https://www.rappler.com/technology/apple-earnings-april-30-2026/",
-        "image": "https://www.rappler.com/tachyon/2024/12/apple-store-new-york-august-1-2018-reuters.jpg",
-        "publishedAt": "2026-05-01T10:09:41Z",
+        "id": "f4e9439b9be0d9f9ee1692efab74e328",
+        "title": "McKinsey Plans to Use AI Agents to Help Choose Client Teams",
+        "description": "The move marks the firm’s latest step to adopt artificial intelligence across its operations.",
+        "content": "McKinsey & Co. plans to use AI agents to help choose the consultants assigned to client teams, a shift that may surprise some of its customers around the globe.\nThe management consulting firm will use agents to supplement the work of its so-called pr... [346 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-01/mckinsey-plans-to-use-ai-agents-to-help-choose-client-teams",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqxLjRK3OpR0/v1/1200x800.jpg",
+        "publishedAt": "2026-05-01T13:30:18Z",
         "lang": "en",
         "source": {
-            "id": "1290fbc1799ff6b270a6f8b7e9761c18",
-            "name": "Rappler",
-            "url": "https://www.rappler.com",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "c26d40770dfa7dd595b8c2074442334d",
-        "title": "US military reaches deals with 7 tech companies to use their AI on classified systems",
-        "description": "The Pentagon says it's partnering with seven tech companies to tap into their artificial intelligence in classified systems, allowing the military to",
-        "content": "The Pentagon says it’s partnering with seven tech companies to tap into their artificial intelligence in classified systems, allowing the military to boost its use of AI to help it fight wars\nUS military reaches deals with 7 tech companies to use the... [2185 chars]",
-        "url": "https://www.breitbart.com/news/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/",
-        "image": "https://media.breitbart.com/media/2026/04/wi/ap/pentagon-bus-crash-99-79-pentagon-bus-crash-pentagon-is-air-force-it-flies-washington-march-640x335.jpg",
-        "publishedAt": "2026-05-01T09:48:25Z",
-        "lang": "en",
-        "source": {
-            "id": "85b540771682043e2a9f294068f5345b",
-            "name": "Breitbart News Network",
-            "url": "https://www.breitbart.com",
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
             "country": "us"
         }
     }
