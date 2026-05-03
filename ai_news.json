@@ -1,5 +1,21 @@
 [
     {
+        "id": "376465ddca7b70de9694f7738bb8a144",
+        "title": "One Issue Uniting Democrats and Republicans? Worries About A.I.",
+        "description": "The growing unease over artificial intelligence is something elements of the left and the right can agree on in a polarized age.",
+        "content": "In a polarized America divided on matters of war, immigration enforcement and even the Super Bowl halftime show, Democrats and Republicans are finding common ground on one issue — the growing unease about artificial intelligence.\nAs public concerns m... [1989 chars]",
+        "url": "https://www.nytimes.com/2026/05/03/us/politics/democrats-republicans-ai.html",
+        "image": "https://static01.nyt.com/images/2026/05/03/multimedia/03pol-ai-google-tcjf/03pol-ai-google-tcjf-facebookJumbo.jpg",
+        "publishedAt": "2026-05-03T09:01:22Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "46db42fd3ffc6dc4d56bde75889c2bed",
         "title": "Oscars organization expands international film eligibility, addresses AI in new rules",
         "description": "The organization behind the Oscars is for the first time addressing the use of artificial intelligence in performances and scripts for the 2027 Academy Awards. The Academy of Motion Picture Arts and Sciences on Friday released updates across many categories, stressing the importance of human authorship while not banning AI.",
@@ -141,22 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "86190489192b3cb9fe11a648070fb3d6",
-        "title": "PennWest California professor to study AI education in Brazil on Fulbright Scholar award",
-        "description": "A Pennsylvania Western University professor will be researching artificial intelligence and higher education during a trip to the Amazon this summer. Mark Lennon, a business professor at PennWest California, was selected as a Fulbright U.S. Scholar to Brazil. In June, he will travel to the University of the Amazon in",
-        "content": "A Pennsylvania Western University professor will be researching artificial intelligence and higher education during a trip to the Amazon this summer.\nMark Lennon, a business professor at PennWest California, was selected as a Fulbright U.S. Scholar t... [3017 chars]",
-        "url": "https://triblive.com/local/regional/pennwest-california-professor-to-study-ai-education-in-brazil-on-fulbright-scholar-award/",
-        "image": "https://assets-varnish.triblive.com/2026/05/9538092_web1_ptr-MarkLennon.jpg",
-        "publishedAt": "2026-05-03T05:20:00Z",
-        "lang": "en",
-        "source": {
-            "id": "b1fa63410571207862faad9daf9b4527",
-            "name": "Pittsburgh Tribune-Review",
-            "url": "https://triblive.com",
-            "country": "us"
         }
     }
 ]
