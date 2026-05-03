@@ -1,5 +1,21 @@
 [
     {
+        "id": "884f25478921790a650308106238d84a",
+        "title": "MI5 offering £73,000 a year for boffin to provide spies with AI gadgets",
+        "description": "MI5 is offering £73,000 a year for a boffin to provide spies with gadgets that use artificial intelligence.\nThe job involves ensuring real-life...",
+        "content": "MI5 is offering £73,000 a year for a boffin to provide spies with gadgets that use artificial intelligence.\nThe job involves ensuring real-life James Bonds have the tech to complete missions.\nAdvertisement\nSpy chiefs say the role is part of the commi... [866 chars]",
+        "url": "https://www.thesun.co.uk/news/38999088/mi5-73-k-job-spies-ai-gadgets/",
+        "image": "https://www.thesun.co.uk/wp-content/uploads/2025/06/NINTCHDBPICT000649226087.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+        "publishedAt": "2026-05-02T21:52:21Z",
+        "lang": "en",
+        "source": {
+            "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+            "name": "The Sun",
+            "url": "https://www.thesun.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "666ef35723532a37e114ea58da8b1674",
         "title": "U.S. military reaches deals with 7 tech companies to use their AI on classified systems",
         "description": "The Pentagon says it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks, allowing the military to tap into AI-powered capabilities to help it fight wars. Google, Microsoft, Amazon Web Services, Nvidia, OpenAI, Reflection and SpaceX will provide their resources to help…",
@@ -141,22 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "32a583c3c4c8629bb918698f0d75dc90",
-        "title": "Physicians benefit from AI when making nuanced clinical decisions, study shows",
-        "description": "Artificial intelligence-powered chatbots are getting pretty good at diagnosing some diseases, even when they are complex. But how do chatbots do when guiding treatment and care after the diagnosis? For example, how long before surgery should a patient stop taking prescribed blood thinners? Should a patient's treatment protocol change if they've had adverse reactions to similar drugs in the past?",
-        "content": "Artificial intelligence-powered chatbots are getting pretty good at diagnosing some diseases, even when they are complex. But how do chatbots do when guiding treatment and care after the diagnosis? For example, how long before surgery should a patien... [6614 chars]",
-        "url": "https://medicalxpress.com/news/2026-04-physicians-benefit-ai-nuanced-clinical.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/physician-2.jpg",
-        "publishedAt": "2026-05-02T16:00:04Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
         }
     }
 ]
