@@ -1,5 +1,37 @@
 [
     {
+        "id": "7add9355cd38e3d74591d60cb08fb35f",
+        "title": "Chinese stocks are about to get a big AI boost, Morgan Stanley predicts",
+        "description": "The investment bank also raised its price targets on two Chinese companies that develop artificial intelligence models.",
+        "content": "The investment bank also raised its price targets on two Chinese companies that develop artificial intelligence models.\nMore than $1 billion is poised to flow into the underperforming Hang Seng Tech Index, thanks to the upcoming inclusion of two Chin... [399 chars]",
+        "url": "https://www.cnbctv18.com/technology/chinese-stocks-are-about-to-get-a-big-ai-boost-morgan-stanley-predicts-19897786.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/05/images_1777858766-scaled.jpeg?im=FitAndFill,width=500,height=300",
+        "publishedAt": "2026-05-04T01:42:17Z",
+        "lang": "en",
+        "source": {
+            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+            "name": "CNBC TV18",
+            "url": "https://www.cnbctv18.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "1ecd529d4726b6d5991896140b2902e6",
+        "title": "Anthropic co-founder: AI impact ‘10x larger and 10x faster than industrial revolution’",
+        "description": "Artificial intelligence is evolving faster than ever - and the debate over AI safety, regulation, and control is intensifying.",
+        "content": "Artificial intelligence is evolving faster than ever – and the debate over AI safety, regulation, and control is intensifying.\nIn this episode of Ways to Change the World, Krishnan Guru-Murthy speaks to Jack Clark, co-founder and Head of Policy at An... [669 chars]",
+        "url": "https://www.channel4.com/news/anthropic-co-founder-ai-impact-10x-larger-and-10x-faster-than-industrial-revolution",
+        "image": "https://fournews-assets-prod-s3-ew1-nmprod.s3.amazonaws.com/media/2026/05/THUMB-TO-POST-2-1920x1080.jpg",
+        "publishedAt": "2026-05-04T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ad5dd96810e3196a400f3f456d756e28",
+            "name": "Channel 4 News",
+            "url": "https://www.channel4.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "35c52612d37b44ba57db9cafe2529beb",
         "title": "The Week in Breakingviews: Taking stock of tech",
         "description": "As demand for ⁠artificial intelligence surges, ​is Big Tech’s ​big bet paying off? This week’s recap ​explores why this ​year’s $725 bln capex splurge ‌is ⁠still risky for investors. Plus why computers won’t replace ​fund ​managers, ⁠and highlights from China’s ​high-tech car celebration.",
@@ -125,38 +157,6 @@
             "name": "Deccan Chronicle",
             "url": "https://www.deccanchronicle.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "d1df855c41d583f81ed26f96be01970c",
-        "title": "Secret Pentagon AI Deals: Why Google, SpaceX, And OpenAI Are Joining The Frontlines",
-        "description": "The US Department of Defence has secured deals with Nvidia, Microsoft, and Amazon to deploy artificial intelligence across its highly classified networks, aiming to enhance decision-making and establish an AI-first fighting force.",
-        "content": "The United States War Department has announced a major partnership with eight of the world's most prominent technology firms to integrate advanced artificial intelligence into its classified networks. This strategic move includes agreements with Spac... [2439 chars]",
-        "url": "https://www.ndtv.com/world-news/secret-pentagon-ai-deals-why-nvidia-and-microsoft-are-joining-the-frontlines-11443189",
-        "image": "https://c.ndtvimg.com/2026-05/grigl48o_pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks_625x300_03_May_26.jpeg",
-        "publishedAt": "2026-05-03T14:13:10Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d73d0b1cccc8572075ecb07ba90f6c87",
-        "title": "Why the war on Iran matters for the global AI energy race",
-        "description": "As artificial intelligence reshapes global competition, control of the energy that powers it has become a strategic prize",
-        "content": "The US-Israeli war on Iran, which began on 28 February, has been presented in Washington as a response to \"imminent threats\" and concerns over nuclear proliferation.\nCeasefire talks in Islamabad collapsed on 12 April after 21 hours without a deal, an... [7406 chars]",
-        "url": "https://www.middleeasteye.net/opinion/why-war-iran-matters-global-ai-energy-race",
-        "image": "https://www.middleeasteye.net/sites/default/files/images-story/2026-01-13T000000Z_388286008_MT1ABCPR983963024_RTRMADP_3_ABACA-PRESS%281%29.jpg",
-        "publishedAt": "2026-05-03T14:00:30Z",
-        "lang": "en",
-        "source": {
-            "id": "889c2ae8e81821912c4441fd9ba1323e",
-            "name": "Middle East Eye",
-            "url": "https://www.middleeasteye.net",
-            "country": "gb"
         }
     }
 ]
