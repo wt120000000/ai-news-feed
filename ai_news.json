@@ -1,5 +1,37 @@
 [
     {
+        "id": "82699554d449d8adfac8183c50503c6b",
+        "title": "Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It",
+        "description": "The war in Iran, trade, artificial intelligence and Taiwan are expected to be on the agenda. But expectations are modest.",
+        "content": "President Trump and China’s leader, Xi Jinping, are scheduled to meet in Beijing next week for a high-stakes summit that could shape the next stage of rivalry between the world’s two major powers.\nMr. Trump and Mr. Xi are expected to discuss the war ... [447 chars]",
+        "url": "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html",
+        "image": "https://static01.nyt.com/images/2026/05/07/multimedia/OakArticle-69fd448d-fbvp/OakArticle-69fd448d-fbvp-facebookJumbo.jpg",
+        "publishedAt": "2026-05-09T04:01:19Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "840e3476d1dff9cd5313c2cd02cb344e",
+        "title": "Decision to introduce AI tech in PFSA",
+        "description": "LAHORE  -  Punjab Forensic Science Authority (PFSA) has decided to introduce artificial intelligence (AI) technology to develop the investigation system on",
+        "content": "LAHORE - Punjab Forensic Science Authority (PFSA) has decided to introduce artificial intelligence (AI) technology to develop the investigation system on modern lines. According to officials, AI technology will be used to identify crimes and implemen... [522 chars]",
+        "url": "https://www.nation.com.pk/09-May-2026/decision-introduce-ai-tech-pfsa",
+        "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+        "publishedAt": "2026-05-09T03:58:00Z",
+        "lang": "en",
+        "source": {
+            "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+            "name": "The Nation",
+            "url": "https://www.nation.com.pk",
+            "country": "pk"
+        }
+    },
+    {
         "id": "d50f27b144180932f62489a00d219029",
         "title": "India push AI defence cooperation",
         "description": "US-India push AI defence cooperation - Washington, May 9 The United States and India must step up cooperation in artificial intelligence and defence as ... Get Latest News on International only on lokmattimes.com",
@@ -125,38 +157,6 @@
             "name": "Mechanicsburg Patriot News ",
             "url": "https://www.pennlive.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "f02a80f2b82877f5ed9308e2f35cb23e",
-        "title": "India among first in Global South to develop Health AI benchmarking platform, says health body CEO",
-        "description": "India is among the first countries in the Global South to develop an open Health AI benchmarking platform to evaluate artificial intelligence models on diverse Indian datasets before deployment at a population scale, National Health Authority (NHA) CEO Dr Sunil Kumar Barnwal said on Friday.",
-        "content": "India is among the first countries in the Global South to develop an open Health AI benchmarking platform to evaluate artificial intelligence models on diverse Indian datasets before deployment at a population scale, National Health Authority (NHA) C... [2443 chars]",
-        "url": "https://www.cnbctv18.com/lifestyle/healthcare/india-among-first-in-global-south-to-develop-health-ai-benchmarking-platform-says-health-body-ceo-19902309.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/03/1773824962_4pSffne1rc-healthcarepharmamedicineMar18jpg-yE0Y2G2KcL.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-05-08T20:43:01Z",
-        "lang": "en",
-        "source": {
-            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-            "name": "CNBC TV18",
-            "url": "https://www.cnbctv18.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "46a89d8b5d0bd69ba3dc7c89b6845dad",
-        "title": "Need to better capabilities in AI, autonomous systems: Rajnath",
-        "description": "Marking the first anniversary of Operation Sindoor, the skirmish with Pakistan last May, Defence Minister Rajnath Singh today said there was a need to strengthen capabilities in artificial intelligence, autonomous systems, data analytics and secure communication networks.",
-        "content": "Marking the first anniversary of Operation Sindoor, the skirmish with Pakistan last May, Defence Minister Rajnath Singh today said there was a need to strengthen capabilities in artificial intelligence, autonomous systems, data analytics and secure c... [1132 chars]",
-        "url": "https://www.tribuneindia.com/news/india/need-to-better-capabilities-in-ai-autonomous-systems-rajnath/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ4MTMwYTUwLTRiMWMtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
-        "publishedAt": "2026-05-08T20:30:54Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
         }
     }
 ]
