@@ -1,5 +1,37 @@
 [
     {
+        "id": "8c470bd1ba0c927e1d0f89f5eba99bc1",
+        "title": "Telangana govt to establish special degree colleges for minorities in 10 districts",
+        "description": "The 10 districts in Telangana during undivided Andhra Pradesh were reorganised into 33 during the previous BRS regime. The proposed colleges would be equipped with skill development and AI (Artificial Intelligence) training for the students.",
+        "content": "Telangana Chief Minister A Revanth Reddy has announced the establishment of special degree colleges for minorities in the headquarters of 10 districts.\nThe 10 districts in Telangana during undivided Andhra Pradesh were reorganised into 33 during the ... [633 chars]",
+        "url": "https://indianexpress.com/article/education/telangana-govt-to-establish-special-degree-colleges-for-minorities-in-10-districts-10680756/",
+        "image": "https://images.indianexpress.com/2026/05/telangana-Express-Photo-by-Prashant-Nadkar-representative.jpg",
+        "publishedAt": "2026-05-09T07:15:55Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "0e49baf6fe628148fbdc85142fe833c9",
+        "title": "AI turns 12 years of couple chats into wedding story; Anthropic employee’s project goes viral",
+        "description": "Trending News: Artificial intelligence is usually linked with offices, coding, or automation tasks. But a recent viral story has shown a very different use of AI, on.",
+        "content": "An Anthropic employee transformed 12 years of iMessages with his wife into a captivating wedding website. Using AI, he analyzed over 160,000 messages, revealing relationship milestones like peak communication during long-distance college years and a ... [3542 chars]",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/ai-turns-12-years-of-couple-chats-into-wedding-story-anthropic-employees-project-goes-viral/articleshow/130971774.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130971774,width-1280,height-720,imgsize-60076,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-09T06:01:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "bb241efa080fbecc7cbab8a479090b3c",
         "title": "Spotify to label human and AI artists separately",
         "description": "Spotify is rolling out a sophisticated new verification system designed to help listeners distinguish between human artists and artificial intelligence, as the surge of AI-generated content continues to blur the lines on streaming platforms.",
@@ -125,38 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "b9b8ab822bd02b60878b89b96447a74a",
-        "title": "AI Gives Cybersecurity Competitive Advantage",
-        "description": "By Satyaki Chakraborty GENEVA: Artificial intelligence is rapidly reshaping cybersecurity and is the biggest driver of change in the field, according to a new World Economic Forum report released on May 4. Some 94% of cyber leaders identify AI as a defining force and 77% of organizations already use it in their cyber operations. The AI and Cyber: Empowering Defenders report, developed in collaboration with KPMG, highlights measurable gains in cost reduction, response speed and resilience. While threat actors […]",
-        "content": "By Satyaki Chakraborty\nGENEVA: Artificial intelligence is rapidly reshaping cybersecurity and is the biggest driver of change in the field, according to a new World Economic Forum report released on May 4. Some 94% of cyber leaders identify AI as a d... [3996 chars]",
-        "url": "https://www.dailyexcelsior.com/ai-gives-cybersecurity-competitive-advantage/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/screen.gif",
-        "publishedAt": "2026-05-08T22:30:16Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e0bca9fb11344d575082adb59f452677",
-        "title": "Qualcomm Throws Down the Gauntlet to Nvidia on Chips",
-        "description": "Qualcomm is taking aim at Nvidias leadership in data centre chips designed for artificial intelligence (AI) workloads, targeting a significant market share in the category in the coming year.",
-        "content": "Synopsis\nQualcomm is taking aim at Nvidia’s leadership in data centre chips designed for artificial intelligence (AI) workloads, targeting a significant market share in the category in the coming year.\nQualcomm is taking aim at Nvidia’s leadership in... [3966 chars]",
-        "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/may/09/satet-front/qualcomm-throws-down-the-gauntlet-to-nvidia-on-chips/articleshow/130966976.cms",
-        "image": "https://img.etimg.com/thumb/msid-130966976,width-1200,height-630,imgsize-222914,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-05-08T21:33:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
