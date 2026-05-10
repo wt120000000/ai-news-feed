@@ -1,5 +1,21 @@
 [
     {
+        "id": "b06e63cdb07ebad3df6d872889f40179",
+        "title": "Dispatch from Wyoming: Why I dodge billionaires, smartphones and artificial intelligence",
+        "description": "For 20-some years I’ve been writing about the sheriff of the least-populated county in the scarcely populated state of Wyoming, but only five years have passed for Walt Longmire.",
+        "content": "For 20-some years I’ve been writing about the sheriff of the least-populated county in the scarcely populated state of Wyoming, but only five years have passed for Walt Longmire.\nThat’s one of my favorite perks as a novelist: my world, my rules.\nIn m... [4495 chars]",
+        "url": "https://www.spokesman.com/stories/2026/may/10/dispatch-from-wyoming-why-i-dodge-billionaires-sma/",
+        "image": "https://thumb.spokesman.com/IDWWaZPLv6xu71tDy9kTnVp797Y=/1200x630/smart/media.spokesman.com/photos/2026/05/06/6837dcd90447d.hires.jpg",
+        "publishedAt": "2026-05-10T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c8c865ed042eb14694b8d596e22efe99",
+            "name": "Spokane Spokesman-Review",
+            "url": "https://www.spokesman.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "a3f6ff515518de54fd3b832c66c66dd1",
         "title": "Paperwork Causing AI Mission Lag as Startups Flag Funding, IP Concerns",
         "description": "The Centre has not yet signed formal agreements with at least five of the 12 startups selected under the IndiaAI Mission to be incentivised for building indigenous foundational artificial intelligence (AI) models, though they were chosen between eight and 12 months ago.",
@@ -141,22 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "f0a8851531d26b2d364b7ae4df71d606",
-        "title": "Legal and sovereignty questions",
-        "description": "THE proposed Pax Silica project in New Clark City in Tarlac has drawn public attention due to its scale and implications. Initial reports describe a 4,000-acre site, or about 1,600 hectares, that will host an artificial intelligence (AI) industrial hub mainly from the United States. The project is presented as an economic initiative that will attract investments, generate employment, and place the Philippines within emerging technology supply chains. Special arrangements may be granted within the zone, including privileges for foreign entities. These features raise legal questions.",
-        "content": "THE proposed Pax Silica project in New Clark City in Tarlac has drawn public attention due to its scale and implications. Initial reports describe a 4,000-acre site, or about 1,600 hectares, that will host an artificial intelligence (AI) industrial h... [4655 chars]",
-        "url": "https://www.manilatimes.net/2026/05/10/opinion/columns/legal-and-sovereignty-questions/2340038",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/09/1050153.jpg",
-        "publishedAt": "2026-05-09T16:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
