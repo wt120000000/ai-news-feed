@@ -1,5 +1,37 @@
 [
     {
+        "id": "4ef1d215783d458187414ec301eaee98",
+        "title": "AI use surges globally but rich-poor divide widens, Microsoft says",
+        "description": "Generative artificial intelligence is being used by 17.8 percent of the world's working-age population, but the gap between wealthy and developing nations continues to widen, according to a report published by Microsoft. In the first quarter of 2026, 27.5 percent of people aged 15-64 in developed countries used a generative…",
+        "content": "Generative artificial intelligence is being used by 17.8 percent of the world's working-age population, but the gap between wealthy and developing nations continues to widen, according to a report published by Microsoft.\nIn the first quarter of 2026,... [1979 chars]",
+        "url": "https://japantoday.com/category/tech/ai-use-surges-globally-but-rich-poor-divide-widens-microsoft-says",
+        "image": "https://media.japantoday.com/img/store/94/2b/c354e8c8905d44aeaf24db5a6b1e645ae2c2/0a28dea13fae1b548f85e7b08507bc4044c44055/_w1700.jpeg",
+        "publishedAt": "2026-05-09T20:18:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "141c154415c16940d30081643810c9ae",
+        "title": "How the FAA wants to use artificial intelligence",
+        "description": "The agency’s new effort isn’t focused on “safety critical functions,” according to one participant.",
+        "content": "The AI-powered initiative is called the Strategic Management of Airspace Routing Trajectories, or SMART.\n“To be very clear, SMART is not aimed at separating aircraft or doing any of those kind of safety critical functions,” said Todd Donovan, Thales’... [6080 chars]",
+        "url": "https://www.politico.com/news/2026/05/09/faa-artificial-intelligence-00909097",
+        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fc2%2F88%2F1534c75e4a13a125adaf58fc270c%2Fgovernment-shutdown-40766.jpg",
+        "publishedAt": "2026-05-09T20:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c477009a98f37b19212d8ae20ce8c018",
+            "name": "POLITICO",
+            "url": "https://www.politico.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "159c37565106efe08277e57ffadf7f27",
         "title": "AI-powered electrocardiogram detects early signs of heart failure",
         "description": "Interpreting relatively inexpensive electrocardiograms (ECGs) with an artificial intelligence (AI) algorithm accurately screened patients for a key precursor of heart failure in Kenya, a study led by UT Southwestern Medical Center researchers shows. The results, published in JAMA Cardiology, suggest AI-augmented ECG (AI-ECG) analysis could be a potential low-cost strategy for identifying patients who have underlying impairment in heart function.",
@@ -124,38 +156,6 @@
             "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
             "name": "Firstpost",
             "url": "https://www.firstpost.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e014047223cd918998deca0fc88bf6a5",
-        "title": "Michael Saylor Says Don't Bother Working Hard: Is The Crypto Billionaire's Take Controversial Or Simply C",
-        "description": "Strategy Inc. (NASDAQ:MSTR) co-founder Michael Saylor recently expressed a view on the diminishing value of hard work amid the rise of artificial intelligence.",
-        "content": "Strategy Inc. (NASDAQ:MSTR) co-founder Michael Saylor recently expressed a view on the diminishing value of hard work amid the rise of artificial intelligence.\nAI Will Make Hard Work Obsolete?\nDuring the Peter McCormack show dated April 30, Saylor su... [1134 chars]",
-        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/05/52435013/michael-saylor-dont-bother-working-hard-crypto-billionaire-controversial-take",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/05/09/Fit-Young-Determined-Man-Climbing-To-Top.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-05-09T15:31:51Z",
-        "lang": "en",
-        "source": {
-            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-            "name": "Benzinga",
-            "url": "https://www.benzinga.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "2b263c1754cc784efa29fa8ebe47e325",
-        "title": "Rural students now discussing AI and how to use it effectively, says Sharad Pawar",
-        "description": "Satara, May 9 (PTI) Students from villages are now discussing Artificial Intelligence (AI) and how it can be used effectively, NCP (SP) supremo Sharad Pawar said on Saturday. The former Union minister was addressing a gathering at the Rayat Shikshan Sanstha’s headquarters here on the death anniversary of its founder Karmaveer Bhaurao Patil. “The world […]",
-        "content": "Satara, May 9 (PTI) Students from villages are now discussing Artificial Intelligence (AI) and how it can be used effectively, NCP (SP) supremo Sharad Pawar said on Saturday.\nThe former Union minister was addressing a gathering at the Rayat Shikshan ... [1730 chars]",
-        "url": "https://theprint.in/india/rural-students-now-discussing-ai-and-how-to-use-it-effectively-says-sharad-pawar/2926867/",
-        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-        "publishedAt": "2026-05-09T14:18:37Z",
-        "lang": "en",
-        "source": {
-            "id": "34cc62608b4607dc3a776802caadb7bd",
-            "name": "ThePrint",
-            "url": "https://theprint.in",
             "country": "in"
         }
     }
