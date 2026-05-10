@@ -1,5 +1,37 @@
 [
     {
+        "id": "07cc93451e848ec17ebbcff8b3356618",
+        "title": "Airbnb CEO Brian Chesky says AI now writes 60% of the company's code",
+        "description": "Tech News News: Airbnb CEO Brian Chesky recently said artificial intelligence played a major role in software development at Airbnb during the first quarter of 2026, .",
+        "content": "Airbnb CEO Brian Chesky recently said artificial intelligence played a major role in software development at Airbnb during the first quarter of 2026, with AI generating around 60% of the code produced by the company’s engineers. Speaking during Airbn... [1875 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/airbnb-ceo-brian-chesky-says-ai-now-writes-60-of-the-companys-code/articleshow/130990619.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130990608,width-1280,height-720,imgsize-20268,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-10T11:41:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "c7714fe4b7f16042d0309ce87a44ebfd",
+        "title": "Shark Tank star Mark Cuban says AI can’t be trusted without humans",
+        "description": "Billionaire investor Mark Cuban warned the corporate world that artificial intelligence's greatest weakness isn't a lack of power; it's a fundamental inability to provide consistent answers.\nOn...",
+        "content": "Billionaire investor Mark Cuban warned the corporate world that artificial intelligence's greatest weakness isn't a lack of power; it's a fundamental inability to provide consistent answers.\nOn their X account, the famous personality from Shark Tank ... [1792 chars]",
+        "url": "https://www.thenews.com.pk/latest/1402074-shark-tank-star-mark-cuban-says-ai-cant-be-trusted-without-humans",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-05-10/1402074_041157_updates.jpg",
+        "publishedAt": "2026-05-10T11:01:48Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
         "id": "7ca78fdef39e7858923757c1da415bef",
         "title": "Study finds women judged more harshly for using AI",
         "description": "Women are significantly penalised for using artificial intelligence to create job application materials, while men who use identical AI assistance receive forgiveness and understanding, according to...",
@@ -125,38 +157,6 @@
             "name": "The Irish Times",
             "url": "https://www.irishtimes.com",
             "country": "ie"
-        }
-    },
-    {
-        "id": "fdbfe5f8ff9d40483378632e577b0143",
-        "title": "Logitech bets on AI, gaming and business users as it raises spending, CEO says",
-        "description": "Logitech International will increase spending on product development and marketing this year, CEO Hanneke Faber said, even as concernsgrowof a possible global economic slowdown fuelled by the Iran war. The Swiss-U.S. maker of keyboards, mice and video-conferencing equipment is betting on gaming, business customers and artificial intelligence-enabled devices to maintain growth.",
-        "content": "Technology 27 min ago\nThis is an AI assisted summary.\nLogitech International will increase spending on product development and marketing this year, CEO Hanneke Faber said, even as concernsgrowof a possible global economic slowdown fuelled by the Iran... [21787 chars]",
-        "url": "https://indianexpress.com/shorts/technology/logitech-bets-on-ai-gaming-and-business-users-as-it-raises-spending-ceo-says-10681943/",
-        "image": "https://images.indianexpress.com/2026/02/IE-2026-02-10T174600.419.jpg",
-        "publishedAt": "2026-05-10T04:45:11Z",
-        "lang": "en",
-        "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "670f453c1074359433ec4b99ad814f22",
-        "title": "Traders looking for next leg in global stocks rally bet on Asia",
-        "description": "Investors are increasingly betting on Asia for the next phase of the global equities rally, driven by enthusiasm around artificial intelligence and strong performances in South Korean and Taiwanese markets. Strategists remain bullish on AI-linked semiconductor and hardware stocks, while India lags due to oil dependence, weaker currency trends and limited AI exposure.",
-        "content": "Synopsis\nInvestors are increasingly betting on Asia for the next phase of the global equities rally, driven by enthusiasm around artificial intelligence and strong performances in South Korean and Taiwanese markets. Strategists remain bullish on AI-l... [5157 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/traders-looking-for-next-leg-in-global-stocks-rally-bet-on-asia/articleshow/130986358.cms",
-        "image": "https://img.etimg.com/thumb/msid-130986391,width-1200,height-630,imgsize-151740,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-05-10T04:39:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
