@@ -1,108 +1,28 @@
 [
     {
-        "id": "0b44a57bf5eb30abcef796353de7fc19",
-        "title": "First responders testing AI for pediatric emergencies",
-        "description": "Boston researchers are testing whether artificial intelligence could one day help paramedics treat children during life-threatening emergencies.",
-        "content": "Boston researchers are testing whether artificial intelligence could one day help paramedics treat children during life-threatening emergencies.\nInside a Pro EMS ambulance bay in Cambridge, first responders recently worked through a high-stakes emerg... [1817 chars]",
-        "url": "https://www.nbcboston.com/news/local/ai-pediatric-emergency-ems-research/3949592/",
-        "image": "https://media.nbcboston.com/2026/05/bu-pediatric-emergency-ai-research.jpg?quality=85&strip=all&resize=1200%2C675",
-        "publishedAt": "2026-05-14T00:08:46Z",
+        "id": "0b7e6b423531e9da7f57cf8a29227a7e",
+        "title": "Cisco layoffs: Tech giant cuts 4,000 jobs to fund growing AI ambitions",
+        "description": "Cisco is cutting nearly 4,000 jobs while doubling down on artificial intelligence after reporting stronger-than-expected earnings and surging AI infrastructure demand. The company raised its annual forecasts, sending shares sharply higher, as investors backed Cisco’s growing role in powering hyperscaler AI data centres and enterprise networking infrastructure.",
+        "content": "Cisco is trying to reinvent itself for the AI era, and Wall Street appears convinced the strategy is beginning to work. The networking company reported stronger-than-expected quarterly results on Wednesday, raised its annual revenue forecast and reve... [2875 chars]",
+        "url": "https://www.firstpost.com/tech/cisco-layoffs-tech-giant-cuts-4000-jobs-to-fund-growing-ai-ambitions-14011002.html",
+        "image": "https://images.firstpost.com/uploads/2026/05/2026-04-28T090021Z_1745521147_RC27VV9ZSO1C_RTRMADP_3_USA-COURT-CISCO-SYSTEMS-2026-05-089ce4c97697d25b4cab7bba2571dded-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-05-14T03:19:08Z",
         "lang": "en",
         "source": {
-            "id": "8749653ef849c3df2e467a8e0f0c6672",
-            "name": "NBC10 Boston",
-            "url": "https://www.nbcboston.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "cfabe4b6c992776c085a48ac6921f8a3",
-        "title": "Spending on AI, New Businesses Eats Into Profits of China’s Tech Giants",
-        "description": "Spending on AI, New Businesses Eats Into Profits of China’s Tech Giants - Alibaba, Tencent and JD.com ramped up investments in artificial intelligence, cloud infrastructure and overseas expansion in the first quarter, squeezing the companies’ bottom lines",
-        "content": "1. China's tech giants' latest quarterly results indicate that heavy investments in AI and new initiatives have pressured profits.[para. 1]\n2. Alibaba reported net profit more than doubling to 25.5 billion yuan ($3.7 billion) for the three months end... [2293 chars]",
-        "url": "https://www.caixinglobal.com/2026-05-14/spending-on-ai-new-businesses-eats-into-profits-of-chinas-tech-giants-102444090.html",
-        "image": "https://img.caixin.com/2026-05-14/177875641427887_560_373.jpg",
-        "publishedAt": "2026-05-14T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "f6aff458be2c33b80c8600fb696f68fb",
-            "name": "Caixin",
-            "url": "https://www.caixinglobal.com",
-            "country": "cn"
-        }
-    },
-    {
-        "id": "ad91959da5b3a38ba7f7b4d62021f284",
-        "title": "Gallery: Chinese Robot Seeks Religious Enlightenment",
-        "description": "Gallery: Chinese Robot Seeks Religious Enlightenment - A humanoid robot developed by China’s Unitree Robotics has made headlines for becoming a Buddhist monk in Seoul. Last week, the robot named Gabi took part in a precept-taking ritual at a temple in the South Korean capital, where it formally accepted five Buddhist vows adapted for robots, including a promise not to overcharge itself. The ceremony is the latest example of artificial intelligence being used in areas once seen as deeply human, as religious groups across Asia increasingly experiment with robot monks and AI-powered sermon systems",
-        "content": "A 130-centimeter-tall humanoid robot dressed in traditional Buddhist robes presses its palms together during an ordination ceremony at Jogye Temple in Seoul on May 6. Photo: VCG\nThe robot, developed by China’s Unitree Robotics and given the Dharma na... [424 chars]",
-        "url": "https://www.caixinglobal.com/2026-05-14/gallery-chinese-robot-seeks-religious-enlightenment-102443995.html",
-        "image": "https://img.caixin.com/2026-05-14/177873844104974_560_373.jpg",
-        "publishedAt": "2026-05-14T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "f6aff458be2c33b80c8600fb696f68fb",
-            "name": "Caixin",
-            "url": "https://www.caixinglobal.com",
-            "country": "cn"
-        }
-    },
-    {
-        "id": "b44a5ef46f8fcc1d10f2adf2485a7a9e",
-        "title": "From ChatGPT to deepfakes: Osceola schools confront AI challenges",
-        "description": "The Osceola County School District is taking steps to keep up with the everchanging world of artificial intelligence. At a workshop last week, the School Board discussed the use and abuse of AI by students—and the consequences of such actions.",
-        "content": "The Osceola County School District is taking steps to keep up with the everchanging world of artificial intelligence. At a workshop last week, the School Board discussed the use and abuse of AI by students—and the consequences of such actions.\nCommon... [3907 chars]",
-        "url": "https://www.aroundosceola.com/news/chatgpt-deepfakes-osceola-schools-confront-ai-challenges",
-        "image": "http://www.aroundosceola.com/sites/aroundosceola.com/files/1f67397c13_Ar00101001.jpg",
-        "publishedAt": "2026-05-14T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "4ecbadd82aa9fe7a52c0a3b5454020ab",
-            "name": "Around Osceola",
-            "url": "https://www.aroundosceola.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "7845c4d3fffff11290a33e4ec30798b6",
-        "title": "AI IQ is here: a new site scores frontier AI models on the human IQ scale. The results are already dividing tech.",
-        "description": "AI IQ ranks frontier AI models like ChatGPT, Claude and Gemini on the human IQ scale, sparking debate over how artificial intelligence should be measured.",
-        "content": "For decades, the IQ test has been one of the most familiar — and most contested — yardsticks for human intelligence. Now, a startup project called AI IQ is applying the same metaphor to artificial intelligence, assigning estimated intelligence quotie... [12204 chars]",
-        "url": "https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/LXlQ0Fb1icQNc42FLtzxY/f7d524bafbe137ed51215797495e242d/Nuneybits_Vector_art_of_glowing_scatterplot_transformed_into_co_2860d5e5-a9d2-4366-acd8-947838753fb6.webp?w=800&q=75",
-        "publishedAt": "2026-05-13T23:47:24Z",
-        "lang": "en",
-        "source": {
-            "id": "b669a363e34e1a8211e6f2cd9c5420a4",
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0bf1004816ca68b0806caccea3eed240",
-        "title": "Trump's Economic Turbulence: Navigating Challenges with Xi",
-        "description": "U.S. President Donald Trump is heading into his summit with Chinese President Xi Jinping with diminished leverage. While artificial intelligence investments boost markets, Trump's tariffs face legal hurdles, inflation nears 4%, and gas prices soar due to the ongoing Iran conflict, impacting his domestic approval ahead of midterms.",
-        "content": "U.S. President Donald Trump prepares to meet Chinese President Xi Jinping in Beijing amid mounting economic and political challenges. Although the stock market benefits from artificial intelligence investments, Trump's tariffs face judicial setbacks.... [792 chars]",
-        "url": "https://www.devdiscourse.com/article/headlines/3907523-trumps-economic-turbulence-navigating-challenges-with-xi",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/13_05_2026_17_24_02_6033378.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-05-13T23:30:40Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
             "country": "in"
         }
     },
     {
-        "id": "ea36df04ec6b6c956991266c2249d45d",
-        "title": "Cisco to cut about 4,000 jobs in AI-focused restructuring as orders surge",
-        "description": "May 13 (Reuters) - Cisco said ⁠on Wednesday it would cut nearly 4,000 jobs, as part of a restructuring aimed at ⁠shifting investment toward artificial intelligence and related growth areas, and raised its annual revenue ‌forecast after a surge in hyperscaler orders.",
-        "content": "May 13 (Reuters) - Cisco said ⁠on Wednesday it would cut nearly 4,000 jobs, as part of a restructuring aimed at ⁠shifting investment toward artificial intelligence and related growth areas, and raised its annual revenue ‌forecast after a surge in hyp... [2300 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/05/14/cisco-announces-5-job-cuts-raises-annual-revenue-forecast",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/14/3907021.jpg",
-        "publishedAt": "2026-05-13T23:21:00Z",
+        "id": "8503a42e17f61c55ea02713382acbd99",
+        "title": "AI boom puts SK Hynix on the cusp $1 trillion market value",
+        "description": "SEOUL, May 14 (Reuters) - SK Hynix ⁠is on the verge of topping a $1 trillion market value, just weeks ⁠after Samsung Electronics crossed the milestone, as strong demand for artificial intelligence ‌places South Korea at the heart of Asia's AI boom.",
+        "content": "SEOUL, May 14 (Reuters) - SK Hynix ⁠is on the verge of topping a $1 trillion market value, just weeks ⁠after Samsung Electronics crossed the milestone, as strong demand for artificial intelligence ‌places South Korea at the heart of Asia's AI boom.\nS... [1853 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/05/14/ai-boom-puts-sk-hynix-on-the-cusp-1-trillion-market-value",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/14/3907107.jpg",
+        "publishedAt": "2026-05-14T03:11:00Z",
         "lang": "en",
         "source": {
             "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -112,51 +32,131 @@
         }
     },
     {
-        "id": "297326aef33d6245e5e9fa3302008425",
-        "title": "Exclusive-Microsoft eyeing startup deals for life after OpenAI",
-        "description": "SAN FRANCISCO / NEW YORK, ⁠May 13 (Reuters) - Microsoft is shopping for artificial-intelligence startups as the software company prepares for a future independent of its once-vital partner OpenAI, five people familiar with ⁠the matter said.",
-        "content": "SAN FRANCISCO / NEW YORK, ⁠May 13 (Reuters) - Microsoft is shopping for artificial-intelligence startups as the software company prepares for a future independent of its once-vital partner OpenAI, five people familiar with ⁠the matter said.\nThe poten... [4218 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/05/14/exclusive-microsoft-eyeing-startup-deals-for-life-after-openai",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/14/3907020.jpg",
-        "publishedAt": "2026-05-13T23:19:00Z",
+        "id": "1950e5d5f57f5f0534e3b8ff3e9ad17c",
+        "title": "AI boom puts SK Hynix on the cusp $1 trillion market value",
+        "description": "SK Hynix is on the verge of topping a $1 trillion market value, just weeks after Samsung Electronics crossed the milestone, as strong demand for artificial intelligence places South Korea at the heart...",
+        "content": "SEOUL, May 14 (Reuters) - SK Hynix is on the verge of topping a $1 trillion market value, just weeks after Samsung Electronics crossed the milestone, as strong demand for artificial intelligence places South Korea at the heart of Asia's AI boom.\nSK H... [1832 chars]",
+        "url": "https://www.marketscreener.com/news/ai-boom-puts-sk-hynix-on-the-cusp-1-trillion-market-value-ce7f5bdcd08ff124",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-01/2026-01-14T220217Z_1_LYNXMPEM0D1BO_RTROPTP_4_SK-HYNIX-RESULTS.JPG",
+        "publishedAt": "2026-05-14T02:48:19Z",
         "lang": "en",
         "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
         }
     },
     {
-        "id": "1b59ddf0c7029e69d2305d5d2a561ea7",
-        "title": "Will Trump and Xi try to slow the AI arms race?",
-        "description": "When President Trump and President Xi Jinping of China meet in Beijing this week, they are expected to discuss, for the first time, how to manage the risks of artificial intelligence. But in many ways, the two countries seem farther apart than ever on that question.",
-        "content": "In recent weeks, US officials have boasted that AI is helping them choose targets in the US war in Iran. China, in a giant military parade last year, showed off drones designed to fly autonomously alongside fighter jets.\nEven those who favor cooperat... [5468 chars]",
-        "url": "https://www.bostonglobe.com/2026/05/13/world/will-trump-xi-try-slow-ai-arms-race/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/OLRIKCFYA5JJDLPYDGFZCHLZZM.jpg?auth=e3261ed4e7ad6c19297a9526ba1e45196d22eb273db01e7fed371cb94ea86b7e&width=1440",
-        "publishedAt": "2026-05-13T23:18:54Z",
+        "id": "79a48f9f7206c2c4bc7748669e848aa5",
+        "title": "Sensex Today | Stock Market Live: Sensex, Nifty set for firm start tracking global rally; oil, rupee key concerns",
+        "description": "Sensex Today | Stock Market Live: Sensex and Nifty are likely to open higher on Thursday tracking strong global cues after US markets hit fresh record highs and Asian stocks rallied sharply on continued artificial intelligence-driven optimism. GIFT Nifty was trading around 23,550 in early morning trade, up 126 points or 0.54 percent.",
+        "content": "Sensex Today | Stock Market Live: Sensex and Nifty are likely to open higher on Thursday tracking strong global cues after US markets hit fresh record highs and Asian stocks rallied sharply on continued artificial intelligence-driven optimism. GIFT N... [768 chars]",
+        "url": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-sensex-nifty-set-for-firm-start-tracking-global-rally-oil-rupee-key-concerns-liveblog-13918710.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260418030043_market_up_higher.jpg?impolicy=website&width=1280&height=720",
+        "publishedAt": "2026-05-14T02:42:00Z",
         "lang": "en",
         "source": {
-            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-            "name": "The Boston Globe",
-            "url": "https://www.bostonglobe.com",
-            "country": "us"
+            "id": "fd3677545b80d5db7541de8e111d27ba",
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com",
+            "country": "in"
         }
     },
     {
-        "id": "91ec84310495b94631394f4b26198743",
-        "title": "DIAGNOS Announces Amendment to Convertible Debentures",
-        "description": "BROSSARD, Quebec, May 13, 2026 (GLOBE NEWSWIRE) -- Diagnos Inc. ('DIAGNOS” or the 'Corporation”) (TSX Venture: ADK, OTCQB: DGNOF, FWB: 4D4A), a company dedicated to the early detection of critical health issues using advanced Artificial Intelligence (AI) techniques, announces that it intends to extend the maturity date of an aggregate amount of $300,000 of unsecured convertible debentures (each, a Debenture) issued as part of a non-brokered private placement of units initially announced on May 18, 2023, and subsequently amended on May 18, 2025 (pleaser refer to the press release dated May 20, 2025). The amended maturity date set for May 18, 2026, is extended to May 18, 2027 (the 'Amendment”).",
-        "content": "BROSSARD, Quebec, May 13, 2026 (GLOBE NEWSWIRE) -- Diagnos Inc. (\"DIAGNOS” or the \"Corporation”) (TSX Venture: ADK, OTCQB: DGNOF, FWB: 4D4A), a company dedicated to the early detection of critical health issues using advanced Artificial Intelligence ... [2771 chars]",
-        "url": "https://www.manilatimes.net/2026/05/14/tmt-newswire/globenewswire/diagnos-announces-amendment-to-convertible-debentures/2343490",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/14/1056272.png",
-        "publishedAt": "2026-05-13T23:17:20Z",
+        "id": "d4b8fedb1722d1b934ba45cd51756733",
+        "title": "Korea Exchange begins adopting AI in capital market monitoring works",
+        "description": "SEOUL  -  The Korea Exchange, South Korea’s bourse operator, said Wednesday it has begun adopting artificial intelligence (AI) technology in its capital",
+        "content": "SEOUL - The Korea Exchange, South Korea’s bourse operator, said Wednesday it has begun adopting artificial intelligence (AI) technology in its capital market monitoring works. The formal adoption of AI technology came about three months after the Kor... [814 chars]",
+        "url": "https://www.nation.com.pk/14-May-2026/korea-exchange-begins-adopting-ai-capital-market-monitoring-works",
+        "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+        "publishedAt": "2026-05-14T02:42:00Z",
+        "lang": "en",
+        "source": {
+            "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+            "name": "The Nation",
+            "url": "https://www.nation.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "79c3358f15192fefa711226029470fde",
+        "title": "Donald Trump, Xi Jinping Meet At China's Great Hall Of The People Ahead Of Crucial Beijing Talks; US President Welcomed Amid Much Fanfare - VIDEOS",
+        "description": "US President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday for high-level talks centred on trade, artificial intelligence and global security. Trump is likely to push for greater Chinese purchases of US goods and improved market access. The summit will also focus on AI chip restrictions, rare earth exports and supply chain stability amid growing geopolitical tensions.",
+        "content": "Beijing: US President Donald Trump met Chinese President Xi Jinping at Beijing’s Great Hall of the People on Thursday for a closely watched summit expected to shape the future of US-China relations amid growing tensions over trade, artificial intelli... [2795 chars]",
+        "url": "https://www.freepressjournal.in/world/donald-trump-xi-jinping-meet-at-chinas-great-hall-of-the-people-ahead-of-crucial-beijing-talks-us-president-welcomed-amid-much-fanfare-videos",
+        "image": "https://media.assettype.com/freepressjournal/2026-05-14/jnsqoz7k/Nanobot-1-2026-05-14T080103.810.jpg",
+        "publishedAt": "2026-05-14T02:35:56Z",
+        "lang": "en",
+        "source": {
+            "id": "7eeaf9a839918543cc708f2d331c3be4",
+            "name": "Free Press Journal",
+            "url": "https://www.freepressjournal.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "cb237dee7ab8c6bb4ad9e7573a9e0e86",
+        "title": "Robo.ai Subsidiary Neurovia AI Launches NeuroStream™ Technology Platform to Build Physical AI Visual Data Infrastructure",
+        "description": "**media[1056354]**DUBAI, UAE, May 14, 2026 /PRNewswire/ -- Robo.ai Inc. (Nasdaq: AIIO), announced today that its wholly-owned AI data processing and compression technology subsidiary, Neurovia AI, has officially released its core technology platform, NeuroStream™. Designed for the machine economy era, the platform utilizes a bitmap vectorization algorithm to provide high-fidelity, low-bandwidth, and low-power infrastructure support for the massive visual data generated by physical artificial intelligence. Mansoor Ali Khan, Chief Technology Officer of Neurovia AI, detailed the platform's technical architecture and application cases.**media[1056355]**",
+        "content": "DUBAI, UAE, May 14, 2026 /PRNewswire/ -- Robo.ai Inc. (Nasdaq: AIIO), announced today that its wholly-owned AI data processing and compression technology subsidiary, Neurovia AI, has officially released its core technology platform, NeuroStream™. Des... [5024 chars]",
+        "url": "https://www.manilatimes.net/2026/05/14/tmt-newswire/pr-newswire/roboai-subsidiary-neurovia-ai-launches-neurostream-technology-platform-to-build-physical-ai-visual-data-infrastructure/2343539",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/14/1056352.jpg",
+        "publishedAt": "2026-05-14T02:34:45Z",
         "lang": "en",
         "source": {
             "id": "7c666ee953f873d3057b310220f510df",
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
+        }
+    },
+    {
+        "id": "8568b7bb908dcaecb28c74421b661208",
+        "title": "Looming AI risks dominate US-China summit as neither side seeks to cede technological edge",
+        "description": "As high-level delegations from the United States and China prepare for an anticipated summit, discussions surrounding the burgeoning field of artificial intelligence are set to take center stage. Leaders from both global powers are expected to grapple with the profound implications and inherent dangers posed by this rapidly advancing technology. The complex agenda underscores a […]",
+        "content": "As high-level delegations from the United States and China prepare for an anticipated summit, discussions surrounding the burgeoning field of artificial intelligence are set to take center stage. Leaders from both global powers are expected to grappl... [7928 chars]",
+        "url": "https://www.mixvale.com.br/2026/05/13/looming-ai-risks-dominate-us-china-summit-as-neither-side-seeks-to-cede-technological-edge/",
+        "image": "https://www.mixvale.com.br/wp-content/uploads/2025/04/mixvaleportal.jpg",
+        "publishedAt": "2026-05-14T01:52:18Z",
+        "lang": "en",
+        "source": {
+            "id": "4a3f486cf6959a11cc9acb689add5fc7",
+            "name": "Portal Mix Vale",
+            "url": "https://www.mixvale.com.br",
+            "country": "br"
+        }
+    },
+    {
+        "id": "af73dcc3e5ddc6f997dcb607aaee43d2",
+        "title": "Blackstone’s AirTrunk Seeks $2 Billion Loan for Malaysia Growth",
+        "description": "Blackstone Inc.-owned data center firm AirTrunk is marketing a $2.3 billion loan to fund a Malaysia project, according to people familiar with the matter, part of a slew of tech-linked financings in Southeast Asia spurred by the artificial intelligence boom.",
+        "content": "Blackstone Inc.-owned data center firm AirTrunk is marketing a $2.3 billion loanBloomberg Terminal to fund a Malaysia project, according to people familiar with the matter, part of a slew of tech-linked financings in Southeast Asia spurred by the art... [435 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-14/blackstone-s-airtrunk-seeks-2-billion-loan-for-malaysia-growth",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAXWw51MbpbM/v1/1200x800.jpg",
+        "publishedAt": "2026-05-14T01:42:01Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e061df908ae6eb41415dc54f832fb211",
+        "title": "Cisco layoffs loom as company pivots deeper into AI after strong quarter",
+        "description": "Cisco is planning to cut fewer than 4,000 jobs as it shifts resources toward artificial intelligence, after the tech giant posted stronger-than-expected earnings.",
+        "content": "Cisco Systems is planning to cut nearly 4,000 employees as part of a broader strategic shift toward artificial intelligence (AI), following a stronger-than-expected earnings report on Wednesday.\nThe layoffs, representing less than 5% of the company’s... [2393 chars]",
+        "url": "https://www.foxbusiness.com/technology/cisco-cut-thousands-jobs-ai-push-accelerates-earnings-beat",
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/03/0/0/cisco-Getty.jpg?ve=1&tl=1",
+        "publishedAt": "2026-05-14T01:04:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1b97b25c0ec482f85326378f82f7f815",
+            "name": "Fox Business",
+            "url": "https://www.foxbusiness.com",
+            "country": "us"
         }
     }
 ]
