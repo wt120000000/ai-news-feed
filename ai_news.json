@@ -1,5 +1,85 @@
 [
     {
+        "id": "033bf6442dcfc05e8aaa9dbc4848251b",
+        "title": "Report: House AI Talks Target Calif., NY Frontier Safety Laws",
+        "description": "With a two-year window before states could regulate top developers again, Bipartisan House negotiators are converging on a federal artificial intelligence bill that would block California and New York from enforcing their new frontier AI safety laws.",
+        "content": "Bipartisan House negotiators are converging on a federal artificial intelligence bill that would block California and New York from enforcing their new frontier AI safety laws, with a two-year window before states could regulate top developers again,... [3033 chars]",
+        "url": "https://www.newsmax.com/politics/ai-safety-california/2026/05/15/id/1256472/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=b62b1f98-49ae-4901-8735-e05f9453d122&SiteName=Newsmax",
+        "publishedAt": "2026-05-16T01:28:38Z",
+        "lang": "en",
+        "source": {
+            "id": "a8984f03fe66dae9745793f6560aa444",
+            "name": "Newsmax",
+            "url": "https://www.newsmax.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "efbbfaa46641e0b036360f11d0873c8f",
+        "title": "Drones will define future wars: US Army",
+        "description": "Drones will define future wars: US Army - Washington, May 16 The US Army has told lawmakers that drones, artificial intelligence and autonomous systems are rapidly ... Get Latest News on International only on lokmattimes.com",
+        "content": "Washington, May 16 The US Army has told lawmakers that drones, artificial intelligence and autonomous systems are rapidly reshaping modern warfare, as senior military leaders pointed to lessons from the Ukraine conflict and warned that future battlef... [3080 chars]",
+        "url": "https://www.lokmattimes.com/international/drones-will-define-future-wars-us-army/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202605163789637_202605.jpg",
+        "publishedAt": "2026-05-16T00:55:30Z",
+        "lang": "en",
+        "source": {
+            "id": "f2ddccedc9e60d844e7a1045928cad48",
+            "name": "Lokmat Times",
+            "url": "https://www.lokmattimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "f6c7c954b43f0bf5f053da97e0a04213",
+        "title": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices",
+        "description": "The acquisition, Weights.gg, was a sort of social network for creating and sharing artificial intelligence algorithms.",
+        "content": "Two years ago, technologists at OpenAI published a blog post detailing how the company had developed the ability to replicate human voices using powerful artificial intelligence technology. The new software was so advanced, the researchers said, that... [909 chars]",
+        "url": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html",
+        "image": "https://static01.nyt.com/images/2026/05/15/multimedia/15biz-openai-weights-1-phtw/15biz-openai-weights-1-phtw-facebookJumbo.jpg",
+        "publishedAt": "2026-05-16T00:33:55Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "75bc2d40abb1561ae4bebb63e62fa1bf",
+        "title": "Why AI safety controls are not very effective",
+        "description": "SAN FRANCISCO – When companies like Anthropic, Google and OpenAI build their artificial intelligence systems, they spend months adding ways to prevent people from using their technology to spread disinformation, build weapons or hack into computer networks.",
+        "content": "SAN FRANCISCO – When companies like Anthropic, Google and OpenAI build their artificial intelligence systems, they spend months adding ways to prevent people from using their technology to spread disinformation, build weapons or hack into computer ne... [8296 chars]",
+        "url": "https://www.spokesman.com/stories/2026/may/16/why-ai-safety-controls-are-not-very-effective/",
+        "image": "https://thumb.spokesman.com/zvui1ojggupa3IqtA7LRNxV47P8=/1200x630/smart/media.spokesman.com/photos/2026/05/15/6a0784c8ea049.hires.jpg",
+        "publishedAt": "2026-05-16T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c8c865ed042eb14694b8d596e22efe99",
+            "name": "Spokane Spokesman-Review",
+            "url": "https://www.spokesman.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "246b2c64377300d9c51de48cad19d065",
+        "title": "Markets drop worldwide as oil prices rattle bond market",
+        "description": "NEW YORK — The U.S. stock market fell from its records Friday and joined a worldwide drop for stocks after higher oil prices sent a shiver through the bond market. Stocks that had been caught up in the euphoria around artificial-intelligence technology led the way lower. The S&P 500 fell 1.2% from its all-time high […]",
+        "content": "NEW YORK — The U.S. stock market fell from its records Friday and joined a worldwide drop for stocks after higher oil prices sent a shiver through the bond market. Stocks that had been caught up in the euphoria around artificial-intelligence technolo... [2797 chars]",
+        "url": "https://www.altoonamirror.com/news/national/2026/05/markets-drop-worldwide-as-oil-prices-rattle-bond-market/",
+        "image": "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg",
+        "publishedAt": "2026-05-16T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "68e8a9c1e60db86af8601f08c15463a0",
+            "name": "Altoona Mirror",
+            "url": "https://www.altoonamirror.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "02f80183604857fa268407945963b872",
         "title": "A closer look at the AI hype train",
         "description": "As Thailand adopts artificial intelligence (AI), IT specialists warn some government agencies developing AI projects may repeat the mistakes of the app development era, when huge budgets were spent on digital projects that allegedly delivered little benefit to the public.",
@@ -77,86 +157,6 @@
             "name": "Breitbart News Network",
             "url": "https://www.breitbart.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "ab702235c07c0f1f87212b3815b4ab1e",
-        "title": "Proposed SC law would protect children from AI exploitation",
-        "description": "Artificial intelligence can be used to generate realistic images in seconds, and predators no longer need physical access to a child to cause lasting harm.",
-        "content": "South Carolina has a responsibility to protect its children from the predators, platforms and emerging technologies that can be used to exploit them. That responsibility does not disappear simply because the threat is new, digital or powered by artif... [3866 chars]",
-        "url": "https://www.postandcourier.com/opinion/commentary/sc-proposed-law-ai-exploitation-protect-children/article_715590db-131e-44d4-9cd6-bf20cfb23778.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/6/60/660f2dd6-e4a9-412e-b162-287dbb7ec8c8/6840609cd61f3.image.jpg?crop=1174%2C616%2C0%2C378",
-        "publishedAt": "2026-05-15T21:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c1903669db0b115cc673ce9c333a70dd",
-            "name": "Charleston Post and Courier",
-            "url": "https://www.postandcourier.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1953257c3611f67612b93cf81710aa3d",
-        "title": "Artificial intelligence and the future of jobs",
-        "description": "Discover how artificial intelligence is reshaping jobs and explore strategies to adapt to the evolving future of work. Read more at straitstimes.com.",
-        "content": "SINGAPORE - Fear it or love it, we are living in an era of artificial intelligence.\nRapid AI development over the past four years has triggered unparalleled breakthroughs.\nRadiologists use AI to analyse a high volume of imaging data in real time, so ... [5200 chars]",
-        "url": "https://www.straitstimes.com/tech/dont-let-the-ai-wave-leave-you-behind",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/679c8c08f4151d1f82ff99731932e5bccc628c4ec0983f460290c5eb256cbd88",
-        "publishedAt": "2026-05-15T21:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-            "name": "The Straits Times",
-            "url": "https://www.straitstimes.com",
-            "country": "sg"
-        }
-    },
-    {
-        "id": "53193e4300da70ff54024b63ec923d59",
-        "title": "The barista is human but an AI agent runs this experimental Swedish cafe",
-        "description": "The coffee might be poured by a human hand, but behind the counter something far less traditional is calling the shots at an experimental cafe in Stockholm. San Francisco-based startup Andon Labs has put an artificial intelligence agent nicknamed “Mona” in charge at the eponymous Andon Café in the Swedish…",
-        "content": "The coffee might be poured by a human hand, but behind the counter something far less traditional is calling the shots at an experimental cafe in Stockholm.\nSan Francisco-based startup Andon Labs has put an artificial intelligence agent nicknamed “Mo... [4430 chars]",
-        "url": "https://japantoday.com/category/tech/the-barista-is-human-but-an-ai-agent-runs-this-experimental-swedish-cafe",
-        "image": "https://media.japantoday.com/img/store/24/e5/d3cccfd51761e5018fc1c9f7ca83a20e8655/download/_w1700.jpeg",
-        "publishedAt": "2026-05-15T20:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "bbdb0df09fceec957cda9d4ee0169c08",
-        "title": "Chipmaker Kioxia expects April-June net profit to rise 47-fold on AI boom",
-        "description": "Japanese chipmaker Kioxia Holdings Corp said Friday it expects its net profit for the April-June period to increase more than 47-fold from a year earlier to 869 billion yen ($5.7 billion) amid rising demand for semiconductors used for data centers to run booming artificial intelligence. As a leading producer of…",
-        "content": "Japanese chipmaker Kioxia Holdings Corp said Friday it expects its net profit for the April-June period to increase more than 47-fold from a year earlier to 869 billion yen ($5.7 billion) amid rising demand for semiconductors used for data centers to... [2520 chars]",
-        "url": "https://japantoday.com/category/tech/update2-chipmaker-kioxia-expects-april-june-net-profit-to-rise-47-fold-amid-ai-boom",
-        "image": "https://japantoday.com/images/japan-today-social.jpg",
-        "publishedAt": "2026-05-15T20:25:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "0c7225e17691481f9b1e06bfb24236c1",
-        "title": "Quote of the day by Stephen Hawking: 'Success in creating AI would be the biggest event in human history. Unfortunately, it might also...' - lessons from the astrophysicist's warning on risks of artif",
-        "description": "Quote of the day by Stephen Hawking: He warned that while creating artificial intelligence could be humanity's greatest achievement, it might also pose significant risks if not managed responsibly. His insights highlight the urgent need for ethical considerations in AI development to ensure its benefits outweigh potential dangers.",
-        "content": "Synopsis\nQuote of the day by Stephen Hawking: Renowned physicist Stephen Hawking cautioned about artificial intelligence. He believed AI could be humanity's greatest achievement, but also its last if risks are not managed. Hawking foresaw AI's power ... [6725 chars]",
-        "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-may-15-by-stephen-hawking-success-in-creating-ai-would-be-the-biggest-event-in-human-history-unfortunately-it-might-also-lessons-from-the-astrophysicists-warning-on-risks-of-artificial-intelligence-and-human-responsibility/articleshow/131127158.cms",
-        "image": "https://img.etimg.com/thumb/msid-131127361,width-1200,height-630,imgsize-878465,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-05-15T20:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
