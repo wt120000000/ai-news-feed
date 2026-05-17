@@ -1,5 +1,85 @@
 [
     {
+        "id": "4392474a68841d20a89425efdf6b14f3",
+        "title": "I went inside OpenAI's secretive San Francisco headquarters",
+        "description": "OpenAI, the hottest artificial intelligence company in the world, resides in a very nondescript building in San Francisco. Here's what's inside.",
+        "content": "Normally, when I approach the incognito San Francisco headquarters of OpenAI, a benignly terrifying security guard in a rugby shirt stares me down.\nLast week, though, I got to waltz right past him.\nWell, almost. Apparently I waltzed a bit prematurely... [6673 chars]",
+        "url": "https://www.sfgate.com/tech/article/openai-san-francisco-headquarters-22259754.php",
+        "image": "https://s.hdnux.com/photos/01/66/21/77/31006660/5/rawImage.jpg",
+        "publishedAt": "2026-05-17T11:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "384b3c633f1aa3e0a1bcb208f94d519d",
+            "name": "SFGATE",
+            "url": "https://www.sfgate.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3bb69093e85b904f818a91e0f77e0b35",
+        "title": "Nvidia CEO Jensen Huang on competition with China: ‘Why wake up in the morning when…’",
+        "description": "Tech News News: Nvidia CEO Jensen Huang has fired back at critics who argue the US should completely cut off China from advanced artificial intelligence (AI) chips. T.",
+        "content": "Nvidia CEO Jensen Huang has fired back at critics who argue the US should completely cut off China from advanced artificial intelligence (AI) chips. The tech billionaire dismissed the idea that American companies should simply surrender foreign marke... [2500 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-on-competition-with-china-why-wake-up-in-the-morning-when/articleshow/131152506.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131152579,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-17T10:53:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "392ade917585b450e86eecc957a39ea8",
+        "title": "60+ N.J. groups urge Sherrill to pause AI data center construction",
+        "description": "Advocates warn the booming artificial intelligence industry could drive up electric bills and strain the state's water supply.",
+        "content": "A coalition of New Jersey groups is urging the state to temporarily halt the approval and construction of large-scale data centers, warning the booming artificial intelligence industry could cause “irreversible harm” to communities.\nMore than 60 envi... [5021 chars]",
+        "url": "https://www.nj.com/news/2026/05/60-groups-just-called-on-nj-governor-to-immediately-pause-all-ai-data-center-projects.html",
+        "image": "https://www.nj.com/resizer/v2/RYZ625TENZF2RGPD2QBXODHIWA.JPG?auth=5c91394935d99fc36b2e3c970a923cc75710ad9933c01a7618baee3acc66e13e&width=1280&smart=true&quality=90",
+        "publishedAt": "2026-05-17T10:31:00Z",
+        "lang": "en",
+        "source": {
+            "id": "49751e72ee79ba8eb1d9dcf6e10bf195",
+            "name": "NJ.com",
+            "url": "https://www.nj.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "b38ba76bbbdca6be786a5f996e543f42",
+        "title": "'New CA syllabus': AI, data analytics to enter ICAI’s curriculum- what it means for students",
+        "description": "News News: Students preparing for chartered accountancy in India may soon need to study subjects linked to artificial intelligence, data analytics, ESG and susta.",
+        "content": ".\nStudents preparing for chartered accountancy in India may soon need to study subjects linked to artificial intelligence, data analytics, ESG and sustainability as the Institute of Chartered Accountants of India (ICAI) plans major changes in its cur... [2190 chars]",
+        "url": "https://timesofindia.indiatimes.com/education/news/new-ca-syllabus-ai-data-analytics-to-enter-icais-curriculum-what-it-means-for-students/articleshow/131152082.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131152156,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-17T10:12:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "c8add9a7322165d902fecda80ec313f0",
+        "title": "ICAI Revolutionizes Curriculum by Integrating AI and Data Analytics",
+        "description": "The Institute of Chartered Accountants of India (ICAI) plans to update its curriculum to include artificial intelligence (AI) and data analytics. This initiative aims to align with technological advancements and evolving professional demands. ICAI has created a Committee for Review of Education and Training (CRET) to finalize recommendations by December.",
+        "content": "The Institute of Chartered Accountants of India (ICAI) is taking decisive steps to modernize its curriculum by incorporating artificial intelligence (AI), data analytics, and other cutting-edge subjects. This move comes as the accountancy field conti... [637 chars]",
+        "url": "https://www.devdiscourse.com/article/education/3911584-icai-revolutionizes-curriculum-by-integrating-ai-and-data-analytics",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/27_03_2025_15_37_21_5556394.png&width=920&format=jpeg",
+        "publishedAt": "2026-05-17T10:09:40Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "e74bb43f66a0df1652eaf56e653a2815",
         "title": "‘Jobs are evaporating’: Ex-Google CEO Eric Schmidt heavily booed for AI speech",
         "description": "US university students are standing against artificial intelligence and top tech executives, citing concerns about job market consumption and negative societal impacts. Former Google CEO Eric Schmidt’s speech at the University of Arizona was met with boos, and other recent AI speeches at US universities have sparked controversy. | financialexpress.com",
@@ -77,86 +157,6 @@
             "name": "Times Now",
             "url": "https://www.timesnownews.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "6f0e4776f74b0f3545a590f1f9da35bd",
-        "title": "More than 100 drones on standby for wildfire season across Greece",
-        "description": "The Hellenic Fire Service and Civil Protection of Greece are deploying unmanned aerial vehicles equipped with thermal cameras and artificial intelligence for the immediate monitoring, detection, and management of forest fires",
-        "content": "More than 100 drones distributed across all regions of Greece will be available to the Fire Service and Civil Protection during this year’s wildfire season, as part of the country’s forest surveillance mechanism.\nAccording to Civil Protection sources... [5516 chars]",
-        "url": "https://en.protothema.gr/2026/05/17/more-than-100-drones-on-standby-for-wildfire-season-across-greece/",
-        "image": "https://en.protothema.gr/wp-content/uploads/2026/05/drones_pyrkagies-1.jpg-1.jpg",
-        "publishedAt": "2026-05-17T06:07:42Z",
-        "lang": "en",
-        "source": {
-            "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
-            "name": "Proto Thema",
-            "url": "https://en.protothema.gr",
-            "country": "gr"
-        }
-    },
-    {
-        "id": "08fb0d0739a6b7d814bba4097741db59",
-        "title": "Modern technologies bringing revolutionary changes to healthcare systems: PA Speaker",
-        "description": "LAHORE  -  Punjab Assembly Speaker Malik Muhammad Ahmad Khan has said that modern technologies such as artificial intelligence, telemedicine, genomic research,",
-        "content": "LAHORE - Punjab Assembly Speaker Malik Muhammad Ahmad Khan has said that modern technologies such as artificial intelligence, telemedicine, genomic research, and robotic surgery are bringing revolutionary changes to healthcare systems. He was address... [1477 chars]",
-        "url": "https://www.nation.com.pk/17-May-2026/modern-technologies-bringing-revolutionary-changes-healthcare-systems-pa-speaker",
-        "image": "https://www.nation.com.pk/print_images/large/2026-05-17/modern-technologies-bringing-revolutionary-changes-healthcare-systems-pa-speaker-1778995691-7571.jpg",
-        "publishedAt": "2026-05-17T05:28:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-            "name": "The Nation",
-            "url": "https://www.nation.com.pk",
-            "country": "pk"
-        }
-    },
-    {
-        "id": "ca2822d13654e60fedf659090378d003",
-        "title": "As electric bills rise, some states are focusing on the growing profits of utilities",
-        "description": "The artificial intelligence boom is leading to fights in some states over growing utility profits. Governors, attorneys general and others are protesting rising electricity bills and say cash-strapped residents are stuck in a broken system. Officials in over a half-dozen states are going to new lengths to try to block rate increases proposed by utilities. Some are pressing utilities to completely change their model for financing major system upgrades. The push comes during a midterm election year in which “affordability” is the leading theme in Democrats’ attempts to loosen Republicans’ control of Washington.",
-        "content": "HARRISBURG, Pa. (AP) — The artificial intelligence boom is leading to fights in some states over growing utility profits, as governors, attorneys general and others protesting rising electricity bills say cash-strapped residents are stuck in a broken... [1374 chars]",
-        "url": "https://www.ajc.com/news/2026/05/as-electric-bills-rise-some-states-are-focusing-on-the-growing-profits-of-utilities/",
-        "image": "https://images.ajc.com/resizer/v2/TSQU7JA4DJFBFBKYV2J2Z4ZDAE.jpg?auth=72e4d117e896befebc3642ad88417864b868dac4fa8ed47f09950d86c5c87df5&width=1200&height=630&smart=true",
-        "publishedAt": "2026-05-17T04:22:30Z",
-        "lang": "en",
-        "source": {
-            "id": "79e9a45376a66fd7e1a4e68bba928c39",
-            "name": "The Atlanta Journal-Constitution",
-            "url": "https://www.ajc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5c059d7fe7bb04013fb27fc177784a04",
-        "title": "As electric bills rise, some states are focusing on the growing profits of utilities",
-        "description": "HARRISBURG, Pa. (AP) — The artificial intelligence boom is leading to fights in some states over growing utility profits, as governors…",
-        "content": "HARRISBURG, Pa. (AP) — The artificial intelligence boom is leading to fights in some states over growing utility profits, as governors, attorneys general and others protesting rising electricity bills say cash-strapped residents are stuck in a broken... [7032 chars]",
-        "url": "https://wtop.com/national/2026/05/as-electric-bills-rise-some-states-are-focusing-on-the-growing-profits-of-utilities/",
-        "image": "https://wtop.com/wp-content/uploads/2026/05/Electric_Bills_States_32286-scaled.jpg",
-        "publishedAt": "2026-05-17T04:20:07Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1882975ea09b257434fe7812788d5923",
-        "title": "As electric bills rise, some states are focusing on the growing profits of utilities",
-        "description": "HARRISBURG, Pa. (AP) — The artificial intelligence boom is leading to fights in some states over growing utility profits, as governors, attorneys general a",
-        "content": "HARRISBURG, Pa. (AP) — The artificial intelligence boom is leading to fights in some states over growing utility profits, as governors, attorneys general and others protesting rising electricity bills say cash-strapped residents are stuck in a broken... [6847 chars]",
-        "url": "https://www.newsbreak.com/the-associated-press-510077/4655531924310-as-electric-bills-rise-some-states-are-focusing-on-the-growing-profits-of-utilities",
-        "image": "https://img.particlenews.com/img/id/1e2rIQ_1BT0mOuv00",
-        "publishedAt": "2026-05-17T04:13:29Z",
-        "lang": "en",
-        "source": {
-            "id": "b270331faaf20dc58f78e3a4fb5c2faf",
-            "name": "NewsBreak",
-            "url": "https://www.newsbreak.com",
-            "country": "us"
         }
     }
 ]
