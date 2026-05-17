@@ -1,5 +1,37 @@
 [
     {
+        "id": "4b27a1aa8cdbbac1d6595c9b96875924",
+        "title": "Survey claims Americans don’t want data centres that power AI near their homes but are ‘okay’ with …",
+        "description": "Tech News News: A Gallup survey found that most Americans oppose the construction of data centres powered by artificial intelligence near their homes, more than they .",
+        "content": "Representative Image\nA Gallup survey found that most Americans oppose the construction of data centres powered by artificial intelligence near their homes, more than they oppose nuclear plants. It shows that people fear AI technology more for its imm... [3184 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/survey-claims-americans-dont-want-data-centres-that-power-ai-near-their-homes-but-are-okay-with-/articleshow/131145516.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131145518,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-17T01:41:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "ab43aac4f9046aeb7ccec0c03d1e1e34",
+        "title": "AI Will Create More Jobs, Not Destroy Them: Nvidia CEO Jensen Huang",
+        "description": "The debate surrounding artificial intelligence often centres on fears of job loss and automation, but Nvidia CEO Jensen Huang argues that these concerns are overstated. , Technology & Science, Times Now",
+        "content": "Artificial intelligence has become one of the most debated technologies in the world right now. Every few weeks, there’s another conversation around AI replacing jobs, automating industries, or making certain professions irrelevant. But Nvidia CEO Je... [2808 chars]",
+        "url": "https://www.timesnownews.com/technology-science/ai-will-create-more-jobs-not-destroy-them-nvidia-ceo-jensen-huang-article-154333031",
+        "image": "https://images.timesnownews.com/thumb/msid-154333031,width-1280,height-720,resizemode-75/154333031.jpg",
+        "publishedAt": "2026-05-17T01:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+            "name": "Times Now",
+            "url": "https://www.timesnownews.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "853596eaf6003f70dd834589d8f90a45",
         "title": "From ChatGPT to deepfakes: Osceola schools confront AI challenges",
         "description": "The Osceola County School District is taking steps to keep up with the everchanging world of artificial intelligence. At a workshop last week, the School Board discussed the use and abuse of AI by students—and the consequences of such actions.",
@@ -125,38 +157,6 @@
             "name": "The Sun",
             "url": "https://www.thesun.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "48cbc7785761067435e669a6f07ede9a",
-        "title": "Memory Boom Fuels DRAM ETF's Sprint To $10 Billion, But Risks Remain",
-        "description": "The Roundhill Memory ETF (CBOE: DRAM) continued its strong momentum last week, helped by the strong demand for memory products as the artificial intelligence (AI) boom continued.",
-        "content": "The Roundhill Memory ETF (CBOE: DRAM) continued its strong momentum last week, helped by the strong demand for memory products as the artificial intelligence (AI) boom continued.\nRoundhill Memory ETF Demand Is Nearing $10B AUM\nDRAM jumped to a record... [1745 chars]",
-        "url": "https://www.benzinga.com/etfs/sector-etfs/26/05/52623061/memory-boom-fuels-dram-etfs-sprint-to-10-billion-but-risks-remain",
-        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/16/Konskie--Poland---November-21--2024-Micr_0.jpeg",
-        "publishedAt": "2026-05-16T20:00:37Z",
-        "lang": "en",
-        "source": {
-            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-            "name": "Benzinga",
-            "url": "https://www.benzinga.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5b250246e5b99ea24ddc05319641f73b",
-        "title": "Pope creates group to study artificial intelligence as Vatican prepares to release his first encyclical",
-        "description": "Pope Leo XIV formed the group as part of his ongoing concern about the technology and its ethical implications.",
-        "content": "VATICAN CITY — Pope Leo XIV has created a study group on artificial intelligence, the Vatican said Saturday, as he gears up to release his first encyclical that is expected to emphasize the need for an ethics-based approach to the technology that pri... [6404 chars]",
-        "url": "https://www.inquirer.com/news/nation-world/artificial-intelligence-pope-leo-study-group-vatican-first-encyclical-ethics-trump-20260516.html",
-        "image": "https://www.inquirer.com/resizer/v2/2ZTKNRB6SSJYXIEXYACRKYIUQA.jpg?auth=ef7d6aace50f2f90aeb98ee79cb1d72b869a122d857e5026415d00036a05f993&width=760&height=507&smart=true",
-        "publishedAt": "2026-05-16T18:13:05Z",
-        "lang": "en",
-        "source": {
-            "id": "091dc78b9d3467c25d28c392b1c1c4c2",
-            "name": "The Philadelphia Inquirer",
-            "url": "https://www.inquirer.com",
-            "country": "us"
         }
     }
 ]
