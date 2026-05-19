@@ -1,12 +1,28 @@
 [
     {
-        "id": "d4d06abe7c3e2a3dce903677bf52a6b5",
-        "title": "Dell Added 1,000 AI Factory Customers Last Quarter",
-        "description": "Dell Technologies' AI Factory added 1,00 customers in the past quarter, bringing the total to 5,000 for its product line of servers used to power artificial intelligence work with Nvidia's chips,...",
+        "id": "66cba1fd6673b3951c2666ba72b11c33",
+        "title": "New Mexico using AI to implement Medicaid work requirements under federal law",
+        "description": "New Mexico is one of only six states already using artificial intelligence to process Medicaid work requirement documentation ahead of the Jan. 1, 2027, federal deadline. State officials say AI will assist caseworkers but not make eligibility decisions.",
+        "content": "New Mexico is one of six states that has already begun using artificial intelligence to comply with a major Medicaid overhaul contained in the “One Big Beautiful Bill Act” that President Donald Trump signed last year.\nThat’s according to a study from... [2642 chars]",
+        "url": "https://www.abqjournal.com/news/nm-one-of-handful-of-states-using-ai-to-implement-new-federal-medicaid-work-requirements/3045224",
+        "image": "https://image.abqjournal.com/3045317.jpg?imageId=3045317&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-05-18T21:48:00Z",
+        "lang": "en",
+        "source": {
+            "id": "e3cad7a35669a0f5933fa172f5aa2e41",
+            "name": "Albuquerque Journal",
+            "url": "https://www.abqjournal.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "46ff99ce6ca33f988a2e8cf15db1c5e5",
+        "title": "Dover Unit to Debut RF, AI-Enabled Defense Products",
+        "description": "Dover's Microwave Products Group unit said late Monday it will introduce three new radio frequency and artificial intelligence-enabled products for aerospace and defense customers at the AOC...",
         "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/dell-added-1-000-ai-factory-customers-last-quarter-ce7f5adade80f22d",
+        "url": "https://www.marketscreener.com/news/dover-unit-to-debut-rf-ai-enabled-defense-products-ce7f5adbd98bf42d",
         "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2026-05-18T17:02:14Z",
+        "publishedAt": "2026-05-18T21:44:38Z",
         "lang": "en",
         "source": {
             "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -16,77 +32,45 @@
         }
     },
     {
-        "id": "8311f8802b94be44039a7cd09fc1deba",
-        "title": "OpenAI says ChatGPT is not a lawyer, asks to dismiss case",
-        "description": "OpenAI has asked a federal judge to dismiss a lawsuit alleging it gave unauthorised legal advice, arguing that its generative artificial intelligence platform ChatGPT is not a lawyer and does not practice law.",
-        "content": "OpenAI has asked a federal judge to dismiss a lawsuit alleging it gave unauthorised legal advice, arguing that its generative artificial intelligence platform ChatGPT is not a lawyer and does not practice law.\nIn a filing on Friday in federal court i... [1716 chars]",
-        "url": "https://www.rte.ie/news/business/2026/0518/1574003-chat-gpt-not-lawyer/",
-        "image": "https://www.rte.ie/images/0022ff5d-1600.jpg",
-        "publishedAt": "2026-05-18T17:01:29Z",
+        "id": "8ce22f2eb9433399c33e4c436040cf83",
+        "title": "Speakers learn the hard way class of 2026 doesn't want to be lectured on embracing AI",
+        "description": "For better or worse, artificial intelligence is poised to revolutionize our lives, and even an AI chatbot will say young people aren't thrilled about this.",
+        "content": "For better or worse, artificial intelligence is poised to revolutionize our lives, and even an AI chatbot will say young people aren't thrilled about this.\nWhen asked, \"How do young people feel about AI?\" ChatGPT replied: “Young people — especially G... [2655 chars]",
+        "url": "https://foxbaltimore.com/news/nation-world/speakers-learn-the-hard-way-class-of-2026-doesnt-want-to-be-lectured-on-embracing-ai-gen-z-university",
+        "image": "https://foxbaltimore.com/resources/media2/16x9/3000/1320/0x157/90/b7a9348c-d4b9-4cbc-8286-11c82dfeaf6b-GettyImages22646405563.jpg",
+        "publishedAt": "2026-05-18T21:39:40Z",
         "lang": "en",
         "source": {
-            "id": "4c8b69bf547b577f84acbba5157b439c",
-            "name": "RTE.ie",
-            "url": "https://www.rte.ie",
-            "country": "ie"
-        }
-    },
-    {
-        "id": "2662b337dbda15fa33c125a7d2361b65",
-        "title": "Booing Commencement Speakers Over AI Is Almost a Trend",
-        "description": "Commencement speakers are facing boos and jeers from the Class of 2026 when they invoke artificial intelligence in their speeches.",
-        "content": "Graduation season is in full swing, and students nationwide are sitting through commencement addresses that they will likely forget the moment they’re handed a diploma. But a few recent commencement speakers have provided some memorable moments — jus... [3845 chars]",
-        "url": "https://nymag.com/intelligencer/article/booing-commencement-speakers-over-ai-is-almost-a-trend.html",
-        "image": "https://pyxis.nymag.com/v1/imgs/9b7/247/f6c1a786b2b5e9ed78a213f3c3db605a86-Eric-Schmidt.1x.rsocial.w1200.jpg",
-        "publishedAt": "2026-05-18T16:56:07Z",
-        "lang": "en",
-        "source": {
-            "id": "967c0cb40338f57cf71cfa281c64caa9",
-            "name": "New York Magazine",
-            "url": "https://nymag.com",
+            "id": "9f53afb019d44feb16bcc7da150e679a",
+            "name": "Baltimore News",
+            "url": "https://foxbaltimore.com",
             "country": "us"
         }
     },
     {
-        "id": "9f2319180615a0cb6a9fdfbbe34c249f",
-        "title": "Dell Adds 1,000 Clients for AI Servers, Targets Corporate Users",
-        "description": "Dell Technologies Inc. said it added 1,000 customers for a key AI product line in the past quarter as the company tries to capture business from traditional large businesses taking on new artificial intelligence workloads.",
-        "content": "Dell Technologies Inc. said it added 1,000 customers for a key AI product line in the past quarter as the company tries to capture business from traditional large businesses taking on new artificial intelligence workloads.\nDell now has 5,000 clients ... [455 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-18/dell-sells-1-000-ai-servers-with-nvidia-chips-in-current-quarter",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibTtdCHx0JnM/v0/1200x800.jpg",
-        "publishedAt": "2026-05-18T16:45:00Z",
+        "id": "37d6af91fc7c0d3e0de28ff05c69445f",
+        "title": "Speakers learn the hard way class of 2026 doesn't want to be lectured on embracing AI",
+        "description": "For better or worse, artificial intelligence is poised to revolutionize our lives, and even an AI chatbot will say young people aren't thrilled about this.",
+        "content": "For better or worse, artificial intelligence is poised to revolutionize our lives, and even an AI chatbot will say young people aren't thrilled about this.\nWhen asked, \"How do young people feel about AI?\" ChatGPT replied: “Young people — especially G... [2655 chars]",
+        "url": "https://wjla.com/news/nation-world/speakers-learn-the-hard-way-class-of-2026-doesnt-want-to-be-lectured-on-embracing-ai-gen-z-university",
+        "image": "https://wjla.com/resources/media2/16x9/3000/1320/0x157/90/b7a9348c-d4b9-4cbc-8286-11c82dfeaf6b-GettyImages22646405563.jpg",
+        "publishedAt": "2026-05-18T21:39:40Z",
         "lang": "en",
         "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
+            "id": "2f5884e252590f739df55c0e7db375df",
+            "name": "WJLA",
+            "url": "https://wjla.com",
             "country": "us"
         }
     },
     {
-        "id": "d100fdd53eacaab3991b993207073d01",
-        "title": "Anthropic Stock Crackdown Jolts Buyers in Pre-IPO AI Startups",
-        "description": "In the moments after Anthropic expanded a ban on popular ways to buy its shares, investor chatrooms around the world lit up. “Are we screwed?” one person wrote in a WhatsApp chat for family offices with several hundred members. Similar questions reverberated more publicly across X, Reddit and Chinese-language social media, as investors worried whether their shares in the artificial intelligence developer — one of the most coveted private companies — had suddenly become worthless.Days later, ther",
-        "content": "In the moments after Anthropic expanded a ban on popular ways to buy its shares, investor chatrooms around the world lit up.\n“Are we screwed?” one person wrote in a WhatsApp chat for family offices with several hundred members. Similar questions reve... [2728 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-18/anthropic-sends-jolt-through-the-market-for-buying-shares-in-the-hottest-pre-ipo-startups",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZMMGEbgxe50/v1/1200x800.jpg",
-        "publishedAt": "2026-05-18T16:44:19Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "025c197dec5be4b66721c433794a1e7f",
-        "title": "Anthropic to Brief Global Finance Officials on Cyber Risks Found by Latest AI Model",
-        "description": "Amazon.com-backed Anthropic has agreed to brief international finance ministries and central banks on cyber weaknesses discovered by its new artificial intelligence model Claude Mythos, the...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/anthropic-to-brief-global-finance-officials-on-cyber-risks-found-by-latest-ai-model-ce7f5adade8ef125",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-05-18T16:37:34Z",
+        "id": "e2a1b4e102bfe3314de50d3dfe01d6c5",
+        "title": "Tech Down as AI Euphoria Wanes -- Tech Roundup",
+        "description": "Shares of technology companies slipped as artificial-intelligence euphoria waned.\nNvidia shares slipped ahead of the AI bellwether's earnings report later in the week. With a market capitalization...\n-May 18, 2026 at 05:34 pm EDT\n- MarketScreener",
+        "content": "Shares of technology companies slipped as artificial-intelligence euphoria waned.\nNvidia shares slipped ahead of the AI bellwether's earnings report later in the week. With a market capitalization above $5 trillion, the chip maker dwarfs major global... [639 chars]",
+        "url": "https://www.marketscreener.com/news/tech-down-as-ai-euphoria-wanes-tech-roundup-ce7f5adbd988f22d",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-05-18T21:34:25Z",
         "lang": "en",
         "source": {
             "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -96,67 +80,83 @@
         }
     },
     {
-        "id": "362c727bc5c0a62dee4b48a58b9a39dd",
-        "title": "Pizza Hut franchise alleges company’s new AI system cost it $100 million; says in lawsuit: 'It caused significant delays and …’",
-        "description": "Tech News News: An artificial intelligence (AI) system has reportedly cost a Pizza Hut franchise operator in the US millions of dollars. One report claims that a larg.",
-        "content": "An artificial intelligence (AI) system has reportedly cost a Pizza Hut franchise operator in the US millions of dollars. One report claims that a large franchisee of the food chain has sued the company, alleging that an AI-powered delivery management... [3224 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/pizza-hut-franchise-alleges-companys-new-ai-system-cost-it-100-million-says-in-lawsuit-it-caused-significant-delays-and-/articleshow/131181602.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131181575,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-18T16:36:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "ae6f0ca7b0451eb8afbabb663f517076",
-        "title": "Your AI Glossary: 54 Terms Everyone Should Know",
-        "description": "How does artificial intelligence use tokens, and should we be worried that AI now has claws? Here's a quick primer on the vocabulary of today's inescapable technology.",
-        "content": "AI is moving at a breakneck pace, and frankly, it's hard to keep up. Sure, it's cool to have a chatbot that acts like it has a Ph.D. in everything, but the reality is a lot messier. You can't turn around without running into ChatGPT, Gemini or Meta A... [11582 chars]",
-        "url": "https://www.cnet.com/tech/services-and-software/artificial-intelligence-ai-terms-glossary/",
-        "image": "https://www.cnet.com/a/img/resize/e04dea9310087520fca752e0cf31f24baa1a1ee6/hub/2025/09/26/2893ec86-2d86-4545-98b0-65786bc6ffc6/ai-cnet-2.png?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-05-18T16:26:10Z",
-        "lang": "en",
-        "source": {
-            "id": "6f4f13c21bb217801ab4b37c367f97aa",
-            "name": "CNET",
-            "url": "https://www.cnet.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b7e3a0591fc6afd6fa50816e8eac7e56",
+        "id": "0543489ad77d97a9f1fd9adde3c12af7",
         "title": "Pope and co-founder of Anthropic to launch pontiff's AI encyclical on May 25",
-        "description": "ROME — Pope Leo XIV and the co-founder of artificial intelligence company Anthropic will launch the pontiff’s first encyclical on May 25, a document on the care of human dignity in the era of AI, the Vatican said Monday.",
-        "content": "ROME — Pope Leo XIV and the co-founder of artificial intelligence company Anthropic will launch the pontiff’s first encyclical on May 25, a document on the care of human dignity in the era of AI, the Vatican said Monday.\nAnthropic has billed itself a... [3159 chars]",
-        "url": "https://www.manilatimes.net/2026/05/19/news/world/pope-and-co-founder-of-anthropic-to-launch-pontiffs-ai-encyclical-on-may-25/2346530",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/19/1061983.jpg",
-        "publishedAt": "2026-05-18T16:24:00Z",
+        "description": "Pope Leo XIV and the co-founder of artificial intelligence company Anthropic will launch the pontiff’s first encyclical on May 25, a document on the care of hum",
+        "content": "Pope Leo XIV and the co-founder of artificial intelligence company Anthropic will launch the pontiff’s first encyclical on May 25, a document on the care of human dignity in the era of artificial intelligence, the Vatican said Monday.\nAnthropic has b... [3638 chars]",
+        "url": "https://wjla.com/news/nation-world/pope-and-co-founder-of-anthropic-to-launch-pontiffs-ai-encyclical-on-may-25-05-18-2026",
+        "image": "https://wjla.com/resources/media2/16x9/8256/1320/0x42/90/9bc80cf3-24b7-4c06-8cc2-42f0027cb9c9-GettyImages2270329423.jpg",
+        "publishedAt": "2026-05-18T21:31:58Z",
         "lang": "en",
         "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
+            "id": "2f5884e252590f739df55c0e7db375df",
+            "name": "WJLA",
+            "url": "https://wjla.com",
+            "country": "us"
         }
     },
     {
-        "id": "1f15d2ade25d023613efcb9bb4120bee",
-        "title": "Pope Leo XIV to unveil AI-focused encyclical with Anthropic co-founder on May 25",
-        "description": "Pope Leo XIV will unveil ‘Magnifica Humanitas’, the Vatican’s first AI-focused encyclical, addressing artificial intelligence, warfare, workers’ rights and human dignity alongside Anthropic co-founder Christopher Olah.",
-        "content": "Pope Leo XIV will formally unveil his first major encyclical on May 25, with the Vatican confirming that the document will focus extensively on the rise of artificial intelligence and its impact on humanity, labour, and warfare.\nIn an unprecedented m... [3058 chars]",
-        "url": "https://www.moneycontrol.com/world/pope-leo-xiv-to-unveil-ai-focused-encyclical-with-anthropic-co-founder-on-may-25-article-13922961.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2025/05/20250518085042_Pope-Leo.jpg",
-        "publishedAt": "2026-05-18T16:12:47Z",
+        "id": "c24761893214e50ff985f5834611f4f6",
+        "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
+        "description": "A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.",
+        "content": "Elon Musk’s $150 billion lawsuit against OpenAI and Sam Altman was quickly rejected by a federal jury on Monday, in a major blow to Mr. Musk’s credibility and his effort to become a serious competitor in the artificial intelligence race.\nThe nine-mem... [1635 chars]",
+        "url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
+        "image": "https://static01.nyt.com/images/2026/05/18/multimedia/18biz-ai-trial-ledeall-brockamn-glbh/18biz-ai-trial-ledeall-brockamn-glbh-facebookJumbo.jpg",
+        "publishedAt": "2026-05-18T21:31:32Z",
         "lang": "en",
         "source": {
-            "id": "fd3677545b80d5db7541de8e111d27ba",
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com",
-            "country": "in"
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "39e4cef9b6c16b2a39ef87cc6e8a5547",
+        "title": "AI Triggers Controversial Commencement Season",
+        "description": "The mere mention of artificial intelligence or some other hot-button topics has led students to jeer speakers at graduation ceremonies across the country.",
+        "content": "Former Google CEO Eric Schmidt was almost apologetic as he addressed the transformative impact of artificial intelligence in front of the University of Arizona’s graduating class.\n“There is a fear in your generation that … you are inheriting a mess t... [5386 chars]",
+        "url": "https://www.usnews.com/news/national-news/articles/2026-05-18/ai-dei-the-middle-east-controversial-commencement-season-sees-students-rain-boos-on-speakers",
+        "image": "https://www.usnews.com/dims4/USNEWS/add01ef/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fbe%2Ff1%2F719ef71648528d84f29431181bec%2Fgettyimages-1185673388.jpg",
+        "publishedAt": "2026-05-18T21:25:00Z",
+        "lang": "en",
+        "source": {
+            "id": "37128a060981dbbe79321f096e7d1108",
+            "name": "U.S. News & World Report",
+            "url": "https://www.usnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "37085d5d7db20e02994abba67cc2ce63",
+        "title": "Pope Leo, Anthropic to launch pontiff’s AI encyclical",
+        "description": "Pope Leo XIV and the co-founder of artificial intelligence company Anthropic will launch the pontiff’s first encyclical on May 25, a document on the care of human dignity in the era of AI, the Vatican said Monday.",
+        "content": "ROME — Pope Leo XIV and the co-founder of artificial intelligence company Anthropic will launch the pontiff’s first encyclical on May 25, a document on the care of human dignity in the era of AI, the Vatican said Monday.\nAnthropic has billed itself a... [3422 chars]",
+        "url": "https://www.chicagotribune.com/2026/05/18/pope-leo-anthropic-ai-encyclical/",
+        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/05/Vatican_Pope_91787-1.jpg?w=1024&h=683",
+        "publishedAt": "2026-05-18T21:05:43Z",
+        "lang": "en",
+        "source": {
+            "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+            "name": "Chicago Tribune",
+            "url": "https://www.chicagotribune.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "67131b675c4dad52948ec4b221cef382",
+        "title": "Cuban: Crypto Industry Finally Wants Regulation",
+        "description": "Billionaire investor Mark Cuban is pointing to the cryptocurrency industry's dramatic pivot on government regulation to defend his controversial new proposal for a federal tax on artificial intelligence.",
+        "content": "Billionaire investor Mark Cuban has pointed to the cryptocurrency industry's dramatic change in its stance on government oversight to defend his recent, controversial proposal to implement a federal tax on artificial intelligence (AI) computing.\nA co... [1526 chars]",
+        "url": "https://u.today/cuban-crypto-industry-finally-wants-regulation",
+        "image": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2026-05/5795.jpg",
+        "publishedAt": "2026-05-18T20:52:33Z",
+        "lang": "en",
+        "source": {
+            "id": "6330fe7e7b8cfc9b8540c05881fcc289",
+            "name": "U.Today",
+            "url": "https://u.today",
+            "country": "ae"
         }
     }
 ]
