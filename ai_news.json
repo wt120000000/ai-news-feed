@@ -1,5 +1,21 @@
 [
     {
+        "id": "139cc482c5565323f341ffb833ff64ba",
+        "title": "Startup raises US$1.3bil for an AI ‘grid’",
+        "description": "As tech giants dominate the hardware needed to build artificial intelligence, Amp hopes to create an alternative.",
+        "content": "SAN FRANCISCO: The world’s leading artificial intelligence companies are spending hundreds of billions of dollars on the computer data centres needed to create AI.\nTech giants like Amazon and Google and well-funded startups like Anthropic and OpenAI ... [2774 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/05/23/startup-raises-us13bil-for-an-ai-grid",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/22/3919401.jpg",
+        "publishedAt": "2026-05-23T02:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "d9d44cbd54fe9dba3b3d6086ca2151e4",
         "title": "Takaichi considering new quota for growth investment",
         "description": "The plan would cover 17 growth areas, including artificial intelligence and semiconductors, to support long-term corporate investments.",
@@ -141,22 +157,6 @@
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "6cebe42e83f5b6725aa23b34075ce950",
-        "title": "SpaceX’s Money-Losing Rockets Are Biggest Asset in AI Dream",
-        "description": "SpaceX revealed eye-popping numbers in its IPO prospectus, including a $26.5 trillion potential market for an empire spanning artificial intelligence and telecommunications.",
-        "content": "(Bloomberg) -- SpaceX revealed eye-popping numbers in its IPO prospectus, including a $26.5 trillion potential market for an empire spanning artificial intelligence and telecommunications.\nBut another, comparatively low, number also stood out. SpaceX... [5383 chars]",
-        "url": "https://www.livemint.com/companies/spacexs-money-losing-rockets-are-biggest-asset-in-ai-dream-11779477585360.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
-        "publishedAt": "2026-05-22T19:19:45Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
         }
     }
 ]
