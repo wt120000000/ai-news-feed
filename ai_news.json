@@ -1,5 +1,21 @@
 [
     {
+        "id": "d9d44cbd54fe9dba3b3d6086ca2151e4",
+        "title": "Takaichi considering new quota for growth investment",
+        "description": "The plan would cover 17 growth areas, including artificial intelligence and semiconductors, to support long-term corporate investments.",
+        "content": "Prime Minister Sanae Takaichi has unveiled a plan to set up a new investment quota for 17 growth areas, including artificial intelligence and semiconductors, to support long-term corporate investments.\nAt a meeting of the Council on Economic and Fisc... [1426 chars]",
+        "url": "https://www.japantimes.co.jp/business/2026/05/23/takaichi-quota-growth-investment/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/23/541995.jpg?v=3.1",
+        "publishedAt": "2026-05-23T00:36:03Z",
+        "lang": "en",
+        "source": {
+            "id": "4b9101ef61d45607a32072a7504f5fb0",
+            "name": "The Japan Times ",
+            "url": "https://www.japantimes.co.jp",
+            "country": "jp"
+        }
+    },
+    {
         "id": "38b7e5c97c06976377cae2551f0a455d",
         "title": "Silicon Valley to get its first two-year degree focused on AI",
         "description": "De Anza College's new Associate in Science degree in Applied Artificial Intelligence will be available this fall, along with six new AI-focused credentials and more than 20 additional new degree and certificate programs, the school announced this week.",
@@ -141,22 +157,6 @@
             "name": "Livemint",
             "url": "https://www.livemint.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "4f77d6678a4d81912bf60155d8d28146",
-        "title": "Sick paedo creates 13 AI images of kids - they looked real",
-        "description": "Warped Adam Evans used artificial intelligence to mock up degenerate sexualised photos of children.",
-        "content": "A vile sex offender who used AI to create indecent sexualised images of children to satisfy his depraved desires has been jailed for four years. Bald Adam Evans, 51, refused to answer police questions in interview after he was snared for making the s... [2551 chars]",
-        "url": "https://www.express.co.uk/news/uk/2208779/sick-paedo-creates-children-sex-images-AI",
-        "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/6937082.jpg",
-        "publishedAt": "2026-05-22T19:06:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c97ef3cad273a1993c998ca7ddcc5212",
-            "name": "Daily Express",
-            "url": "https://www.express.co.uk",
-            "country": "gb"
         }
     }
 ]
