@@ -1,76 +1,28 @@
 [
     {
-        "id": "90041853bf841cbcb905a681e4c4c234",
-        "title": "Donald Trump needs artificial intelligence. He lacks the other kind",
-        "description": "This longtime con man was doing deepfakes long before that was a thing. He's a bot in human form",
-        "content": "Has anyone fallen deeper in love with artificial intelligence than Donald Trump?\nThe man who threatened to sue the places he attended school to stop them from releasing his grades and who, while playacting as president, regularly badmouths his own co... [7147 chars]",
-        "url": "https://www.salon.com/2026/05/23/donald-trump-needs-artificial-intelligence-he-lacks-the-other-kind/",
-        "image": "https://www.salon.com/app/uploads/2025/09/GettyImages-2211177567.jpg",
-        "publishedAt": "2026-05-23T10:30:19Z",
+        "id": "306636c2e143eb4e6751d2aea30d2d97",
+        "title": "How AI is fast-tracking search for drugs to treat brain conditions",
+        "description": "In the rapidly evolving age of artificial intelligence, scientists are using it to expedite drug development, uncovering treatments for neurological conditions that may be hiding in plain sight....",
+        "content": "In the rapidly evolving age of artificial intelligence, scientists are using it to expedite drug development, uncovering treatments for neurological conditions that may be hiding in plain sight.\nHowever, researchers at the UK Dementia Research Instit... [1988 chars]",
+        "url": "https://www.thenews.com.pk/latest/1403572-how-ai-is-fast-tracking-search-for-drugs-to-treat-brain-conditions",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-05-23/1403572_072442_updates.jpg",
+        "publishedAt": "2026-05-23T14:24:00Z",
         "lang": "en",
         "source": {
-            "id": "d64c9f761b22764bd19004c3945d6428",
-            "name": "Salon",
-            "url": "https://www.salon.com",
-            "country": "us"
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
         }
     },
     {
-        "id": "b19210c744e049dd4e32cfa90317b2c8",
-        "title": "Sam Altman’s AI Question Revealed Humanity’s Biggest Health Fears And Hopes",
-        "description": "Sam Altman’s AI question sparked viral responses as most people hoped artificial intelligence could cure cancer, ageing, dementia, and disease. , Health, Times Now",
-        "content": "When Sam Altman recently asked people online a simple but profound question, “What problem do you most hope AI will solve in the future?” the internet’s response revealed something deeply human. Thousands of replies showed that the overwhelming major... [6002 chars]",
-        "url": "https://www.timesnownews.com/health/sam-altman-asked-one-question-about-ais-future-the-answers-were-deeply-human-article-154382868",
-        "image": "https://images.timesnownews.com/thumb/msid-154382868,width-1280,height-720,resizemode-75/154382868.jpg",
-        "publishedAt": "2026-05-23T10:29:45Z",
-        "lang": "en",
-        "source": {
-            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-            "name": "Times Now",
-            "url": "https://www.timesnownews.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "2898887abfd42e4ab6581df9a54fbcbd",
-        "title": "Maharashtra pitches nuclear energy push, invites US firms to invest",
-        "description": "MUMBAI: With power demand expected to surge due to artificial intelligence, data centres, semiconductors and advanced manufacturing, Maharashtra is po.",
-        "content": "MUMBAI: With power demand expected to surge due to artificial intelligence, data centres, semiconductors and advanced manufacturing, Maharashtra is positioning itself as a future hub for nuclear energy and has invited American companies to invest in ... [2653 chars]",
-        "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-pitches-nuclear-energy-push-invites-us-firms-to-invest/articleshow/131277728.cms",
-        "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-        "publishedAt": "2026-05-23T10:29:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "2f6343d00c74742541a450cdee0147fb",
-        "title": "US company ClickUp lays off 22% workforce, but CEO says bigger rewards await those...",
-        "description": "ClickUp Layoffs: ClickUp is cutting 22 per cent of its workforce as the company shifts more aggressively towards artificial intelligence-driven operations. CEO Zeb Evans said the move is part of a broader plan to achieve “100x output” using AI tools and automation. He also stated that employees who deliver exceptional results with AI could qualify for significantly higher salary bands. The development reflects a wider trend across the tech industry, where companies are embracing AI while simultaneously reducing headcount.",
-        "content": "Synopsis\nClickUp Layoffs: ClickUp is cutting 22 per cent of its workforce as the company shifts more aggressively towards artificial intelligence-driven operations. CEO Zeb Evans said the move is part of a broader plan to achieve “100x output” using ... [4642 chars]",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/us-company-clickup-lays-off-22-workforce-but-ceo-says-bigger-rewards-await-those-who-master-ai/articleshow/131276511.cms",
-        "image": "https://img.etimg.com/thumb/msid-131276548,width-1200,height-630,imgsize-1170804,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-05-23T09:02:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "f3c234f2af5e07d14d569486dce07e3c",
-        "title": "AMD CEO says rapid AI growth brings CPUs back into focus",
-        "description": "The artificial intelligence (AI) infrastructure market is growing at a rapid pace, with rising inferencing demand bringing central processing units (CPUs) back to the core of computing, AMD Chair and CEO Lisa Su said Friday, according to reports by Focus Taiwan.",
-        "content": "Taipei [Taiwan], May 23 (ANI): The artificial intelligence (AI) infrastructure market is growing at a rapid pace, with rising inferencing demand bringing central processing units (CPUs) back to the core of computing, AMD Chair and CEO Lisa Su said Fr... [2641 chars]",
-        "url": "https://www.tribuneindia.com/news/business/amd-ceo-says-rapid-ai-growth-brings-cpus-back-into-focus/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI3NjM0ZTAwLTU2ODMtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-05-23T08:41:05Z",
+        "id": "c030ad851083f10b32a0e7b354093107",
+        "title": "powered campaign song ahead of 2027 polls",
+        "description": "The track, developed using artificial intelligence to blend traditional Punjabi folk rhythms with modern beats, quickly gained traction across social media",
+        "content": "The Bharatiya Janata Party (BJP) on Saturday released a new AI-powered Punjabi campaign song titled 'Modi da Punjab', intensifying its outreach efforts in the state in the run-up to the 2027 Assembly elections.\nThe track, developed using artificial i... [1262 chars]",
+        "url": "https://www.tribuneindia.com/news/punjab/modi-da-punjab-bjp-releases-ai-powered-campaign-song-ahead-of-2027-polls/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWYxMDM2ZTEwLTU2YjEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-05-23T14:16:01Z",
         "lang": "en",
         "source": {
             "id": "c5725557f39c24c8b029ee39900a8406",
@@ -80,45 +32,13 @@
         }
     },
     {
-        "id": "f8bd3df395ea05490ab1a471361c8fdc",
-        "title": "Govt expands AI development to rural areas to improve tech literacy",
-        "description": "KUANTAN: The government is expanding the development of artificial intelligence (AI) skills comprehensively so that it is not only concentrated in urban areas, but also involves residents in small towns and rural areas, says Deputy Economy Minister Mohd Shahar Abdullah.",
-        "content": "KUANTAN: The government is expanding the development of artificial intelligence (AI) skills comprehensively so that it is not only concentrated in urban areas, but also involves residents in small towns and rural areas, says Deputy Economy Minister M... [1663 chars]",
-        "url": "https://www.thestar.com.my/news/nation/2026/05/23/govt-expands-ai-development-to-rural-areas-to-improve-tech-literacy",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/23/3923256.jpg",
-        "publishedAt": "2026-05-23T08:17:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "2a47dd84e5a94f07076f36cec8acda90",
-        "title": "Goa Fest 2026 Day 4: In the Age Of Artificial Intelligence, Originality Is Way Through",
-        "description": "The article argues that AI will soon outperform humans in routine creative output, making originality and authorship the true differentiators. As execution becomes automated and uniformity rises, human value shifts toward taste, instinct, and unique perspective. The key takeaway from Goafest 2026 is to stop imitating patterns and focus on distinct, original expression.",
-        "content": "We keep worrying about: what happens when AI can do what we do?\nBut what we should be really worried about is: What then happens when AI becomes extremely good at doing, what everyone else is already doing?\nThrough sessions that resonated most strong... [1868 chars]",
-        "url": "https://www.freepressjournal.in/business/goa-fest-2026-day-4-in-the-age-of-artificial-intelligence-originality-is-way-through",
-        "image": "https://media.assettype.com/freepressjournal/2026-05-23/hq7u2uo2/Untitled-design-2026-05-23T133404.111.jpg",
-        "publishedAt": "2026-05-23T08:04:26Z",
-        "lang": "en",
-        "source": {
-            "id": "7eeaf9a839918543cc708f2d331c3be4",
-            "name": "Free Press Journal",
-            "url": "https://www.freepressjournal.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "cdd50d6d49874f952ccc098f94248807",
-        "title": "Amazon founder to all those predicting AI bubble: Even if it turns out to be a bubble, you should not worry because ...",
-        "description": "Tech News News: Amazon founder Jeff Bezos has now dismissed the fears of artificial intelligence bubble. In a recent interview with CNBC, Bezos said that even if the .",
-        "content": "Amazon founder Jeff Bezos has now dismissed the fears of artificial intelligence bubble. In a recent interview with CNBC, Bezos said that even if the current frenzy around AI valuations and investments proves unsustainable, the long-term benefits wil... [2806 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-founder-to-all-those-predicting-ai-bubble-even-if-it-turns-out-to-be-a-bubble-you-should-not-worry-because-/articleshow/131275820.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131275799,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-23T08:04:00Z",
+        "id": "3ac8a6215966686106686b9ce04e4896",
+        "title": "Emerging Roles In Ai: Unlocking the Future: AI's Impact on Jobs and Workforce Transformation in India",
+        "description": "India News: Explore the groundbreaking report by CPRG and AI4India on how artificial intelligence is transforming job roles and creating new opportunities in the workforce. Discover India's unique position in this technological shift and the emerging roles amidst AI integration.",
+        "content": "NEW DELHI: The Centre of Policy Research and Governance (CPRG) and AI4India have published the report Future of Jobs in the Age of AI, Emerging Roles, New Opportunities, a significant study on the impact of artificial intelligence on employment and w... [3103 chars]",
+        "url": "https://timesofindia.indiatimes.com/india/center-of-policy-research-and-governance-and-ai4india-publish-report-on-future-of-jobs-in-the-age-of-ai/articleshow/131280835.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131273194,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-23T14:04:00Z",
         "lang": "en",
         "source": {
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -128,35 +48,115 @@
         }
     },
     {
-        "id": "5aa5c56e8e4ebacf5f8f5bcca7c6c366",
-        "title": "MICHELLE GOLDBERG: The generation that grew up with AI hates it",
-        "description": "When Eric Schmidt, former CEO of Google, started talking about artificial intelligence during a commencement speech at the University of Arizona last week, the graduates erupted in boos. \"AI is going to touch everything,\" said Schmidt, as his stadium-sized audience roared its disapproval. \"Whatever path you choose, AI will become part of how work is done.\" Maybe he meant this as a promise of opportunity, but the students seemed to hear it as a threat--or a curse.",
-        "content": "When Eric Schmidt, former CEO of Google, started talking about artificial intelligence during a commencement speech at the University of Arizona last week, the graduates erupted in boos. \"AI is going to touch everything,\" said Schmidt, as his stadium... [3700 chars]",
-        "url": "https://www.arkansasonline.com/news/2026/may/23/michelle-goldberg-the-generation-that-grew-up/",
-        "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
-        "publishedAt": "2026-05-23T07:54:00Z",
+        "id": "d3f2df1ca88dc6b0da9085e688197d2b",
+        "title": "China's DeepSeek to make permanent 75% price cut on flagship V4‑Pro AI model",
+        "description": "Chinese artificial intelligence startup DeepSeek will ​make permanent a 75% price cut on ‌its flagship V4‑Pro artificial intelligence model, keeping prices at a quarter of their original level, the company said in a ​statement on Saturday.",
+        "content": "May 23 (Reuters) - Chinese artificial intelligence startup DeepSeek will ​make permanent a 75% price cut on ‌its flagship V4‑Pro artificial intelligence model, keeping prices at a quarter of their original level, the company said in a ​statement on S... [1137 chars]",
+        "url": "https://www.reuters.com/world/china/chinas-deepseek-make-permanent-75-price-cut-flagship-v4pro-ai-model-2026-05-23/",
+        "image": "https://www.reuters.com/resizer/v2/3MYR2LUM3VK5VJ5GPFES4QM7XQ.jpg?auth=6fc9fde5cff93cf7455e4cfdbc132c5350ad587f932ce2473df56be9463260a4&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-05-23T13:33:22Z",
         "lang": "en",
         "source": {
-            "id": "69a24b80e5bce5a07f808f5ea84c434b",
-            "name": "Arkansas Online",
-            "url": "https://www.arkansasonline.com",
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
             "country": "us"
         }
     },
     {
-        "id": "8813e9f628b81cf090d9871460c775b9",
-        "title": "Artificial Intelligence's Terror: Red Fort Bomb Blast Case NIA Exposes AI's Role",
-        "description": "For the first time in the history of terrorism, NIA documents how AI was used to make precision weapons to target innocents. , India News, Times Now",
-        "content": "In what is possibly the first documented instance of terrorists allegedly using ChatGPT to cause mass casualties, the National Investigation Agency has, in its chargesheet in the Red Fort vehicle-borne IED blast case, revealed how artificial intellig... [3854 chars]",
-        "url": "https://www.timesnownews.com/india/artificial-intelligences-terror-red-fort-bomb-blast-case-nia-exposes-ais-role-article-154381682",
-        "image": "https://images.timesnownews.com/thumb/msid-154381682,width-1280,height-720,resizemode-75/154381682.jpg",
-        "publishedAt": "2026-05-23T06:26:06Z",
+        "id": "a9ea920a1368ab16142e076f95e0ed16",
+        "title": "AI is a digital East India Company. India needs to use ‘juggad’ to protect itself",
+        "description": "As artificial intelligence turns transparency into a tool of economic extraction, India faces a new colonial challenge: how to protect sovereignty in a world driven by predictive algorithms, data legibility, and algorithmic front-running.",
+        "content": "Advertisement\nThree hundred years ago, the East India Company didn’t conquer India with muskets alone; they conquered us with ledgers. They spent decades mapping our terrain, cataloguing our crops, and indexing our social structures until the vast co... [7250 chars]",
+        "url": "https://indianexpress.com/article/opinion/columns/ai-digital-east-india-company-jugaad-sovereignty-satyagraha-10704582/",
+        "image": "https://images.indianexpress.com/2026/05/intersection-humanity-artificial-intelligence-dna-connection_20260523130618.jpg",
+        "publishedAt": "2026-05-23T13:08:41Z",
         "lang": "en",
         "source": {
-            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-            "name": "Times Now",
-            "url": "https://www.timesnownews.com",
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
             "country": "in"
+        }
+    },
+    {
+        "id": "a3f8d6ad8e3cf32667d8122d273f4f89",
+        "title": "Patna Hosts Bihar’s First-Ever AI Summit",
+        "description": "The two-day event in Patna’s Urja Auditorium is expected to feature around eight panel discussions on the interface of Artificial Intelligence with various sectors.",
+        "content": "Urja Auditorium in Patna witnessed the start of Bihar’s maiden AI summit with the Chief Minister delivering the inaugural address. Samrat Choudhary linked education, health, agriculture, and administrative systems with AI-based development as he adde... [1232 chars]",
+        "url": "https://www.outlookindia.com/national/patna-hosts-bihars-first-ever-ai-summit",
+        "image": "https://cf-images.assettype.com/outlookindia/2026-05-23/79sguu83/HINA0ObEAAqJur.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-05-23T13:04:30Z",
+        "lang": "en",
+        "source": {
+            "id": "b76d069607ae6330d5f65a02c543a320",
+            "name": "Outlook India",
+            "url": "https://www.outlookindia.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "d0a9dd2b46cdb8fb2b273beecbd625b4",
+        "title": "‘F*** this guy’: Graduation speakers keep getting booed for talking about artificial intelligence",
+        "description": "Commencement speakers want new graduates to feel optimistic about artificial intelligence — instead students are booing. New grads tell Josh Marcus that their fury about doddering policymakers and looming layoffs should be listened to",
+        "content": "From coast to coast, commencement speakers have faced an audience of booing graduates each time they bring up artificial intelligence.\nThe boos came when music executive Scott Borchetta told the grads at Middle Tennessee State University, “It’s a too... [4589 chars]",
+        "url": "https://www.independent.co.uk/news/world/americas/ai-college-graduation-eric-schmidt-google-b2981383.html",
+        "image": "https://static.independent.co.uk/2026/05/22/9/04/Graduate-split.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-05-23T12:54:56Z",
+        "lang": "en",
+        "source": {
+            "id": "97497c18f5cb431f5f324b3d8643c24f",
+            "name": "The Independent",
+            "url": "https://www.independent.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "d69bbf5b0fe3c4713b9138a7d163f54c",
+        "title": "Bihar to roll out AI policy soon: Samrat",
+        "description": "Patna, May 23 (PTI) Chief Minister Samrat Choudhary on Saturday said his government would soon roll out an artificial intelligence (AI) policy as part of its plan to develop Bihar as a major AI hub. Speaking at the inauguration of the ‘Bihar AI Summit 2026’ at Urja Auditorium in Patna, Choudhary said AI would play […]",
+        "content": "Choudhary urged all government departments to maximise the use of AI to ensure transparency in welfare schemes and improve public service delivery.\nHe specifically referred to the ‘Sahyog Shivirs’, grievance redressal camps launched by the state gove... [2320 chars]",
+        "url": "https://theprint.in/india/bihar-to-roll-out-ai-policy-soon-samrat/2939629/",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+        "publishedAt": "2026-05-23T12:15:22Z",
+        "lang": "en",
+        "source": {
+            "id": "34cc62608b4607dc3a776802caadb7bd",
+            "name": "ThePrint",
+            "url": "https://theprint.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "9a757976325e0646218b7d4c62bd896b",
+        "title": "Inside the bloodletting at Meta as Mark Zuckerberg pivots to AI",
+        "description": "Tech is coming for tech jobs, including 8,000 at the Facebook owner, as artificial intelligence burns through Silicon Valley’s workforce",
+        "content": "The email arrived while he slept — at 4am — so that it was waiting for him when he woke up. “Unfortunately, your role has been eliminated as part of today’s reorganisation,” read the message. “If you are already in the office, we ask that you please ... [6922 chars]",
+        "url": "https://www.thetimes.com/business/technology/article/meta-job-cuts-artificial-intelligence-3tsqds6pm",
+        "image": "https://www.thetimes.com/imageserver/image/79b53467-9d45-4155-8b7b-6ebb3ea0c236.jpg?strip=all&format=webp&crop=6545px%2C3681px%2C0px%2C341px&resize=1200",
+        "publishedAt": "2026-05-23T12:15:07Z",
+        "lang": "en",
+        "source": {
+            "id": "b419a989918b3665a34559f5047546b6",
+            "name": "The Sunday Times",
+            "url": "https://www.thetimes.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "bb611435836949fd69b33fb29c2ed540",
+        "title": "South Korea warns AI wealth gap could fuel labor unrest",
+        "description": "South Korea's Deputy Prime Minister Bae Kyung-hoon warned that artificial intelligence poses serious risks of widening inequality and triggering job losses, even as the nation's stock market surges...",
+        "content": "South Korea's Deputy Prime Minister Bae Kyung-hoon warned that artificial intelligence poses serious risks of widening inequality and triggering job losses, even as the nation's stock market surges on AI-driven gains at Samsung Electronics and SK Hyn... [1524 chars]",
+        "url": "https://www.thenews.com.pk/latest/1403561-south-korea-warns-ai-wealth-gap-could-fuel-labor-unrest",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-05-23/1403561_050952_updates.jpg",
+        "publishedAt": "2026-05-23T12:01:51Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
         }
     }
 ]
