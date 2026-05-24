@@ -1,5 +1,21 @@
 [
     {
+        "id": "d189cb1957f154138f4afc2b74f55edc",
+        "title": "How US government’s chip shortage problem may be ‘good news for’ Anthropic which it has designated ‘national security threat’",
+        "description": "Tech News News: A critical shortage of advanced computer hardware has forced the US government to deepen its reliance on Anthropic – the artificial intelligence (AI) .",
+        "content": "A critical shortage of advanced computer hardware has forced the US government to deepen its reliance on Anthropic – the artificial intelligence (AI) company that the Pentagon has officially blacklisted as a national security supply chain threat. Acc... [2555 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-us-governments-chip-shortage-problem-may-be-good-news-for-anthropic-which-it-has-designated-national-security-threat/articleshow/131285478.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131285510,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-24T02:24:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "e25f744d438d1f7f1429e413c3bb5afb",
         "title": "Fans create AI-generated team songs ahead of World Cup",
         "description": "World Cup fans are wielding artificial intelligence to mass-produce viral songs supporting their teams ahead of next month's tournament. As the fan-made football anthems are raking in millions of plays across YouTube, TikTok and Instagram, experts say that the viral tunes raise questions about song ownership, artist compensation and the…",
@@ -141,22 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "306636c2e143eb4e6751d2aea30d2d97",
-        "title": "How AI is fast-tracking search for drugs to treat brain conditions",
-        "description": "In the rapidly evolving age of artificial intelligence, scientists are using it to expedite drug development, uncovering treatments for neurological conditions that may be hiding in plain sight....",
-        "content": "In the rapidly evolving age of artificial intelligence, scientists are using it to expedite drug development, uncovering treatments for neurological conditions that may be hiding in plain sight.\nHowever, researchers at the UK Dementia Research Instit... [1988 chars]",
-        "url": "https://www.thenews.com.pk/latest/1403572-how-ai-is-fast-tracking-search-for-drugs-to-treat-brain-conditions",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-05-23/1403572_072442_updates.jpg",
-        "publishedAt": "2026-05-23T14:24:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-            "name": "The News International",
-            "url": "https://www.thenews.com.pk",
-            "country": "pk"
         }
     }
 ]
