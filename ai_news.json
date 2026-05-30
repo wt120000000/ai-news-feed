@@ -1,5 +1,37 @@
 [
     {
+        "id": "2a00c1f6579649f833ae6b8590abd815",
+        "title": "SpaceX said to cut IPO value goal to at least $1.8 trillion",
+        "description": "SpaceX is currently targeting a valuation of at least $1.8 trillion in its initial public offering, according to people familiar with the matter, as Elon Musk's rocket and artificial intelligence company nears its debut.",
+        "content": "By Kiel Porter and Ed Ludlow, Bloomberg\nSpaceX is currently targeting a valuation of at least $1.8 trillion in its initial public offering, according to people familiar with the matter, as Elon Musk’s rocket and artificial intelligence company nears ... [2259 chars]",
+        "url": "https://www.ocregister.com/2026/05/29/spacex-said-to-cut-ipo-value-goal-to-at-least-1-8-trillion/",
+        "image": "https://www.ocregister.com/wp-content/uploads/2026/05/SpaceX-Firings_42325-1-1.jpg?w=1024&h=682",
+        "publishedAt": "2026-05-29T21:58:17Z",
+        "lang": "en",
+        "source": {
+            "id": "840efb5642a2fd3ae6da920bb4981626",
+            "name": "Santa Ana Orange County Register",
+            "url": "https://www.ocregister.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "822ba13d49659ccde49b0083f8be678d",
+        "title": "Truist Lifts Alphabet (GOOGL) Stock Price Target; What’s Driving the Optimism?",
+        "description": "Alphabet (GOOGL) stock has risen about 22% year-to-date and nearly 122% over the past year. Artificial intelligence (AI)-led demand for Google C...",
+        "content": "Alphabet (GOOGL) stock has risen about 22% year-to-date and nearly 122% over the past year. Artificial intelligence (AI)-led demand for Google Cloud, rising adoption of TPU (tensor processing unit) chips, and integration of AI features across the com... [2635 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/truist-lifts-alphabet-googl-stock-price-target-what-s-driving-the-optimism-1036209425",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-3189.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2026-05-29T21:43:58Z",
+        "lang": "en",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Markets Insider",
+            "url": "https://markets.businessinsider.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b095a343d2716e430237b14675c94422",
         "title": "Carney speaks to Pope Leo about artificial intelligence",
         "description": "Carney spoke to Pope Leo XIV about the importance of protecting humanity when it comes to artificial intelligence, according to his office.",
@@ -125,38 +157,6 @@
             "name": "Moneycontrol",
             "url": "https://www.moneycontrol.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "495a8dfa79cd672510507dec2e66219d",
-        "title": "Researchers develop open source framework for health AI research",
-        "description": "A research team led by Columbia University has developed an open-source framework designed to streamline and accelerate artificial intelligence research using health data, addressing longstanding challenges in data standardization, reproducibility, and collaboration across institutions.",
-        "content": "A research team led by Columbia University has developed an open-source framework designed to streamline and accelerate artificial intelligence research using health data, addressing longstanding challenges in data standardization, reproducibility, a... [3354 chars]",
-        "url": "https://www.news-medical.net/news/20260529/Researchers-develop-open-source-framework-for-health-AI-research.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2014/7/Electronic_Health_Record-620x480.jpg",
-        "publishedAt": "2026-05-29T19:29:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "d7fbb323ccaa6862ea7f087706f0c7f9",
-        "title": "UK banks still lack access to Mythos AI model, BoE's Bailey says",
-        "description": "British banks still have not been able to gain access to Anthropic's Mythos artificial intelligence model to check their systems against cyber threats, six weeks after it first drew concern, Bank of...\n-May 29, 2026 at 02:51 pm EDT\n- MarketScreener",
-        "content": "LONDON, May 29 (Reuters) - British banks still have not been able to gain access to Anthropic's Mythos artificial intelligence model to check their systems against cyber threats, six weeks after it first drew concern, Bank of England Governor Andrew ... [1650 chars]",
-        "url": "https://www.marketscreener.com/news/uk-banks-still-lack-access-to-mythos-ai-model-boe-s-bailey-says-ce7f5ddbd18df425",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-29T093059Z_1_LYNXMPEM4S0L4_RTROPTP_4_BRITAIN-BOE-BAILEY.JPG",
-        "publishedAt": "2026-05-29T18:51:20Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
