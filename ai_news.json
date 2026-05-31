@@ -1,5 +1,69 @@
 [
     {
+        "id": "317899ffc11f53c60b08545f005efdbd",
+        "title": "Pope Leo’s encyclical on AI is a striking manifesto of Christian humanism",
+        "description": "Rite and Reason: Magnifica Humanitas considers what it might mean to safeguard the best parts of being human in the time of artificial intelligence",
+        "content": "When drawing up a list of people to consult on technological developments, the Bishop of Rome would not be near the top of many people’s rankings. But this week, Pope Leo XIV published a 42,000-word teaching on the ethical and political implications ... [4886 chars]",
+        "url": "https://www.irishtimes.com/opinion/2026/05/31/pope-leos-encyclical-on-ai-is-a-striking-manifesto-of-christian-humanism/",
+        "image": "https://www.irishtimes.com/resizer/v2/V23SHSX346RRMK3RS4IZVMMZ5Y.jpg?smart=true&auth=ec1b979fad3313b7151a5131caec507f2f916a7fc4da0ef75b2165631c296493&width=1200&height=630",
+        "publishedAt": "2026-05-30T23:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "dd1d806725f45e4403e75c1bb23b447a",
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com",
+            "country": "ie"
+        }
+    },
+    {
+        "id": "a737192c428eff2729c844ea7afba84b",
+        "title": "SoftBank to build up AI data centres in France with major investment",
+        "description": "PARIS, May 30 (Reuters) - ⁠Japan's SoftBank Group will invest €45 billion over the ⁠next five years in a push to build ‌up artificial intelligence infrastructure in France, founder Masayoshi Son told the paper La Tribune Dimanche in an interview published on Saturday.",
+        "content": "PARIS, May 30 (Reuters) - ⁠Japan's SoftBank Group will invest €45 billion over the ⁠next five years in a push to build ‌up artificial intelligence infrastructure in France, founder Masayoshi Son told the paper La Tribune Dimanche in an interview publ... [1134 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/05/31/softbank-to-build-up-ai-data-centres-in-france-with-major-investment",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/31/3935131.jpg",
+        "publishedAt": "2026-05-30T23:01:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "691f1e983ba45cf9d34453b6e2bdc82e",
+        "title": "Centre unveils AI-enabled chatbot to help citizens launch grievances online",
+        "description": "NEW DELHI, May 30: The Centre today unveiled an Artificial Intelligence (AI)-enabled chatbot to help citizens raise grievances against Government Departments online. Launching the chatbot named ‘Samadhan Didi’ here, Union Minister of State for Personnel Jitendra Singh termed it as “democratisation of the public grievance mechanism” in the nation showcasing the government’s unwavering commitment to enhance ease of using public services for citizens. The chatbot marks a significant step towards making public grievance redressal simpler, more accessible and truly multilingual, […]",
+        "content": "NEW DELHI, May 30: The Centre today unveiled an Artificial Intelligence (AI)-enabled chatbot to help citizens raise grievances against Government Departments online.\nLaunching the chatbot named ‘Samadhan Didi’ here, Union Minister of State for Person... [3955 chars]",
+        "url": "https://www.dailyexcelsior.com/centre-unveils-ai-enabled-chatbot-to-help-citizens-launch-grievances-online/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/hatbox.jpg",
+        "publishedAt": "2026-05-30T23:00:38Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "98e83acfaf22551deee0083c3a0922a1",
+        "title": "Immigration lawyers say automation is partly driving a massive Federal Court backlog",
+        "description": "OTTAWA — The number of immigration cases being brought to Federal Court has more than quadrupled since 2020 — and some immigration lawyers are linking the surge in part to the federal government's use of artificial intelligence and automation to clea",
+        "content": "OTTAWA — The number of immigration cases being brought to Federal Court has more than quadrupled since 2020 — and some immigration lawyers are linking the surge in part to the federal government's use of artificial intelligence and automation to clea... [7744 chars]",
+        "url": "https://www.sootoday.com/national-news/immigration-lawyers-say-automation-is-partly-driving-a-massive-federal-court-backlog-12352130",
+        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/8a6e1b229ab819d917daad4a525b45d36e71fa414e28bb4f725940c9bb252eb2.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2026-05-30T22:38:12Z",
+        "lang": "en",
+        "source": {
+            "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+            "name": "SooToday",
+            "url": "https://www.sootoday.com",
+            "country": "ca"
+        }
+    },
+    {
         "id": "0004cad80730e18c9428d956e4b02bee",
         "title": "India & US Drive AI, Semicon Ties",
         "description": "India and the US will be encouraging businesses from both countries dealing with artificial intelligence and semiconductors to collaborate more, officials said.",
@@ -93,70 +157,6 @@
             "name": "Livemint",
             "url": "https://www.livemint.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "eee688aaf1b9749cac42eb03af381209",
-        "title": "The schools in Asia embracing artificial intelligence in classrooms",
-        "description": "Countries in Asia are emerging as the world's early adopters of AI in education, as the global race to lead in the technology accelerates.",
-        "content": "Anaiya Singhvi loves school, but she often finds chemistry tough going.\n\"It's kind of hard to visualise in real life since it's about molecules and atoms,\" the Singapore-based secondary school student said.\n\"I've been using AI to help me with that.\"\n... [9008 chars]",
-        "url": "https://www.abc.net.au/news/2026-05-31/schools-in-asia-embracing-ai/106703054",
-        "image": "https://live-production.wcms.abc-cdn.net.au/f06d74f6c8370524872cec38839fcc6c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-30T19:12:22Z",
-        "lang": "en",
-        "source": {
-            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-            "name": "ABC (Australian Broadcasting Corporation)",
-            "url": "https://www.abc.net.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "c49b6c910dff41f6a9b10fd21fcd9439",
-        "title": "SoftBank to build up AI data centres in France with major investment",
-        "description": "Japan's SoftBank Group will invest EUR45 billion over the next five years in a push to build up artificial intelligence infrastructure in France, founder Masayoshi Son told the paper La Tribune...",
-        "content": "PARIS, May 30 (Reuters) - Japan's SoftBank Group will invest EUR45 billion over the next five years in a push to build up artificial intelligence infrastructure in France, founder Masayoshi Son told the paper La Tribune Dimanche in an interview publi... [1117 chars]",
-        "url": "https://www.marketscreener.com/news/softbank-to-build-up-ai-data-centres-in-france-with-major-investment-ce7f5dd8da8ef425",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-12T030932Z_1_LYNXMPEM4B056_RTROPTP_4_SOFTBANK-GROUP-RESULTS.JPG",
-        "publishedAt": "2026-05-30T19:03:20Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "5ec491fe41a0e0ca4de1b32992874a9d",
-        "title": "SoftBank to build up AI data centres in France with major investment",
-        "description": "Japan's SoftBank Group will invest €45 billion over the next five years in a push ​to build up artificial intelligence infrastructure in France, ‌founder Masayoshi Son told the paper La Tribune Dimanche in an interview published on Saturday.",
-        "content": "Son said the investment, described ​as the biggest of its kind so far ​in Europe, would be made in the ⁠northern Hauts-de-France region. The overall sum SoftBank intends ​to invest in France will reach €75 billion, Son said.\nSign up here.\nThe ​invest... [879 chars]",
-        "url": "https://www.reuters.com/business/media-telecom/softbank-build-up-ai-data-centres-france-with-major-investment-2026-05-30/",
-        "image": "https://www.reuters.com/resizer/v2/IAKMTHIIPZOBLKINXWZYVJHH7I.jpg?auth=b69c66a36463077b0117fb0b1748d4f76001a51d65d622c181307259a2362547&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-05-30T19:02:10Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "755ebfd8bd4d40d8fb17d3c66c2063bc",
-        "title": "AI helped a musician with Parkinson’s finish his new album when he could no longer play guitar",
-        "description": "Artificial intelligence is helping a London-based singer-songwriter continue writing and recording music after Parkinson’s disease largely took away his ability to play guitar.",
-        "content": "The demos he created by humming rough melodies into his phone and uploading the recordings into song generators like Suno and Udio weren’t for mixing into the final studio version of “Horizon,” Smith stressed. But tremors, stiffness and fatigue, whic... [6453 chars]",
-        "url": "https://www.bostonglobe.com/2026/05/30/world/ai-helped-musician-with-parkinsons-finish-his-new-album-when-he-could-no-longer-play-guitar/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/G4RPLF4OOCD6JE6HS6YTDV32RI.jpg?auth=b806c6ed5791f8e2f90dcd68720135657c0ef95c122765171f5706d56a608d9a&width=1440",
-        "publishedAt": "2026-05-30T17:30:08Z",
-        "lang": "en",
-        "source": {
-            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-            "name": "The Boston Globe",
-            "url": "https://www.bostonglobe.com",
-            "country": "us"
         }
     }
 ]
