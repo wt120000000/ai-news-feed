@@ -1,12 +1,76 @@
 [
     {
-        "id": "66b46f68da29b87e6dea5d9697eb3a21",
-        "title": "LezDo TechMed - The Firm That Sets a New Standard in the Medical Record Review Industry",
-        "description": "New York, United States, June 1, 2026 /MarketersMEDIA/ -- The medical record review industry has stepped into a new era, driven by artificial intelligence, rising litigation demands, and the growing need for faster, smarter, and more defensible case analysis.",
-        "content": "-- The medical record review industry has stepped into a new era, driven by artificial intelligence, rising litigation demands, and the growing need for faster, smarter, and more defensible case analysis.\nLaw firms, insurers, life care planners, and ... [3776 chars]",
-        "url": "https://www.manilatimes.net/2026/06/01/tmt-newswire/plentisoft/lezdo-techmed-the-firm-that-sets-a-new-standard-in-the-medical-record-review-industry/2355721",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/01/1080100.jpg",
-        "publishedAt": "2026-06-01T12:14:33Z",
+        "id": "1a6119dc1157e7900fabee93c4970306",
+        "title": "Walmart caps usage of an AI tool for employees after high demand",
+        "description": "Walmart Inc. is limiting staff’s usage of an artificial-intelligence tool following high demand, illustrating how corporations are adjusting their calculations for incorporating the technology. The retailer is now offering a set amount of “tokens” per employee to use Code Puppy, an AI agent that helps with tasks ranging from spreadsheets to presentations, said people familiar with the matter ...",
+        "content": "Walmart Inc. is limiting staff’s usage of an artificial-intelligence tool following high demand, illustrating how corporations are adjusting their calculations for incorporating the technology.\nThe retailer is now offering a set amount of “tokens” pe... [1671 chars]",
+        "url": "https://www.spokesman.com/stories/2026/jun/01/walmart-caps-usage-of-an-ai-tool-for-employees-aft/",
+        "image": "https://thumb.spokesman.com/8r5ya8Rfb5SOYjNYKHmYynyc5aM=/1200x630/smart/media.spokesman.com/photos/2026/06/01/6a1e4122676d6.hires.jpg",
+        "publishedAt": "2026-06-01T17:51:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c8c865ed042eb14694b8d596e22efe99",
+            "name": "Spokane Spokesman-Review",
+            "url": "https://www.spokesman.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e8ed0f2c5672b9bacd443718451367aa",
+        "title": "ROG turns 20: ASUS introduces G1000 Edition 20, Xbox Ally X20, and outlines AI future",
+        "description": "During the event, ASUS Chairman Jonney Shih also outlined the company's vision for AI-powered gaming, where players could one day create entire game worlds with the help of artificial intelligence.",
+        "content": "According to Shih, AI could eventually enable gamers to create entire worlds on their own, ushering in what he described as the era of the “one-person game creator.” He said the technology would transform games from pre-written experiences into livin... [4283 chars]",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/asus-rog-edition-20-computex-2026-10719052/",
+        "image": "https://images.indianexpress.com/2026/06/Asus-Rog-turns-20.jpg",
+        "publishedAt": "2026-06-01T17:40:55Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "0116f7cf0019bc423568c50e8a821cc4",
+        "title": "Head of US Special Operations Command wary of AI use in military",
+        "description": "Some military leaders are wary of how artificial intelligence will be used moving forward, even as the Pentagon pushes to expand its usage.",
+        "content": "During Secretary of War Pete Hegseth’s tenure, the department has emphasized prioritizing the development of its AI capabilities and has agreed to deal with several relevant companies to use their platforms in classified and non-classified settings. ... [1994 chars]",
+        "url": "https://www.washingtonexaminer.com/policy/defense/4589334/us-special-operations-command-wary-artificial-intelligence-military/",
+        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26149753830989.jpg?resize=1200,683",
+        "publishedAt": "2026-06-01T17:39:54Z",
+        "lang": "en",
+        "source": {
+            "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+            "name": "Washington Examiner",
+            "url": "https://www.washingtonexaminer.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "f2edd2678a318962f0ccd94ca5be87b7",
+        "title": "Anthropic eyes Wall Street debut; Claude maker files confidentially for IPO",
+        "description": "International Business News: Artificial intelligence company Anthropic has taken a major step towards a public market debut, announcing that it has confidentially filed paperwork .",
+        "content": "Artificial intelligence company Anthropic has taken a major step towards a public market debut, announcing that it has confidentially filed paperwork with the US Securities and Exchange Commission (SEC) for a proposed initial public offering (IPO), A... [1358 chars]",
+        "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-eyes-wall-street-debut-claude-maker-files-confidentially-for-ipo/articleshow/131447586.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131447666,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-01T17:38:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "18092909c210dfb06e12e552280e2656",
+        "title": "New York Times publisher slams AI companies' 'brazen theft' from news outlets",
+        "description": "MARSEILLE, France — The New York Times publisher on Monday slammed artificial intelligence companies for 'brazen theft of intellectual property', warning they threaten the future of journalism during a speech at the World News Media Congress in the French city of Marseille.",
+        "content": "MARSEILLE, France — The New York Times publisher on Monday slammed artificial intelligence companies for \"brazen theft of intellectual property\", warning they threaten the future of journalism during a speech at the World News Media Congress in the F... [1654 chars]",
+        "url": "https://www.manilatimes.net/2026/06/02/world/new-york-times-publisher-slams-ai-companies-brazen-theft-from-news-outlets/2356185",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/02/1080942.jpg",
+        "publishedAt": "2026-06-01T17:37:00Z",
         "lang": "en",
         "source": {
             "id": "7c666ee953f873d3057b310220f510df",
@@ -16,147 +80,83 @@
         }
     },
     {
-        "id": "09523aeb804b99850ca69668f156b517",
-        "title": "Cars24 launches AI Labs, commits $20 million to back AI startups",
-        "description": "Used-car marketplace Cars24 has launched AI Labs, an initiative focused on building AI-first products and backing startups developing next-generation artificial intelligence technologies.",
-        "content": "Cars24 said AI Labs will focus on three areas: building AI-native products, partnering with leading AI companies, and investing in startups creating category-defining AI businesses.\nBy Aishwarya Anand\nUsed-car marketplace Cars24 has launched AI Labs,... [2561 chars]",
-        "url": "https://www.cnbctv18.com/business/startup/cars24-launches-ai-labs-commits-20-million-to-back-ai-startups-ws-l-19917145.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/05/1779899409_pZBtmWI3nZ-funding-27mayjpg-vIIXUlKqCh.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-06-01T11:52:57Z",
+        "id": "d1c0146a3ebc6afe3ab915f48c2f7017",
+        "title": "AI giant Anthropic files confidential draft papers for proposed IPO in US",
+        "description": "In a significant development, US-based artificial intelligence company Anthropic has confidentially submitted a draft registration statement to the US Securities and Exchange Commission (SEC) for a proposed initial public offering (IPO) of its common stock.",
+        "content": "San Francisco [US], June 1 (ANI): In a significant development, US-based artificial intelligence company Anthropic has confidentially submitted a draft registration statement to the US Securities and Exchange Commission (SEC) for a proposed initial p... [2720 chars]",
+        "url": "https://www.tribuneindia.com/news/business/ai-giant-anthropic-files-confidential-draft-papers-for-proposed-ipo-in-us/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTk5NTU5OTEwLTVkZGYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-06-01T17:30:27Z",
         "lang": "en",
         "source": {
-            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-            "name": "CNBC TV18",
-            "url": "https://www.cnbctv18.com",
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
             "country": "in"
         }
     },
     {
-        "id": "5af54b776ea3d2a1998b781e06f3754e",
-        "title": "Related Job Cuts Amid Growing Economic Inequality – NaturalNews.com",
-        "description": "A new survey from consulting firm Mercer indicates that 99% of corporate executives expect artificial intelligence to lead to headcount reductions within the next two years, according to a report by Michael Snyder via the Economic Collapse blog [1]. The 2026 Global Talent Trends report surveyed 825 C-suite leaders and 1,650 HR leaders, finding that […]",
-        "content": "A new survey from consulting firm Mercer indicates that 99% of corporate executives expect artificial intelligence to lead to headcount reductions within the next two years, according to a report by Michael Snyder via the Economic Collapse blog [1]. ... [6929 chars]",
-        "url": "https://www.naturalnews.com/2026-06-01-survey-ceos-plan-ai-related-job-cuts.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/ai-job-cuts-corporate-layoffs-economic-inequality-1796-original.jpg",
-        "publishedAt": "2026-06-01T11:22:20Z",
+        "id": "ff4c8506ba73e3d6c4712d84091f7aed",
+        "title": "Nvidia aims to dominate the personal AI agent market with its latest chip",
+        "description": "At the Computex trade show in Taipei, Nvidia unveiled a new chip developed in partnership with Microsoft. Dubbed the RTX Spark, it is designed to run artificial intelligence agents directly on...",
+        "content": "For several years, Jensen Huang's keynote at Computex has served as a premier showcase for Nvidia's strategic direction in artificial intelligence. This year's edition is no exception. The CEO notably highlighted Vera, the group's new processor now i... [1796 chars]",
+        "url": "https://www.marketscreener.com/news/nvidia-aims-to-dominate-the-personal-ai-agent-market-with-its-latest-chip-ce7f5dd9da81f22d",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-06-01T073215Z_1_LYNXMPEM50115_RTROPTP_4_COMPUTEX-NVIDIA-KEYNOTE.JPG",
+        "publishedAt": "2026-06-01T17:28:57Z",
         "lang": "en",
         "source": {
-            "id": "188e9ebf53d05fc7ba360240a0b28154",
-            "name": "Natural News",
-            "url": "https://www.naturalnews.com",
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "6af681abdf1af2513aed0f5013cdf59e",
+        "title": "Anthropic confidentially Files for IPO at Nearly $1 Trillion Valuation, Setting the Stage for the Biggest AI Listing Yet",
+        "description": "Anthropic, the company behind the Claude chatbot, said Monday that it has confidentially filed for a U.S. initial public offering, taking the first formal step toward what could become one of the largest and most closely watched technology listings in history. The filing arrives at a time when artificial intelligence has become the dominant force",
+        "content": "Anthropic, the company behind the Claude chatbot, said Monday that it has confidentially filed for a U.S. initial public offering, taking the first formal step toward what could become one of the largest and most closely watched technology listings i... [3547 chars]",
+        "url": "https://techstartups.com/2026/06/01/anthropic-confidentially-files-for-ipo-at-nearly-1-trillion-valuation-setting-the-stage-for-the-biggest-ai-listing-yet/",
+        "image": "https://techstartups.com/wp-content/uploads/2024/06/Anthropic.jpg",
+        "publishedAt": "2026-06-01T17:26:52Z",
+        "lang": "en",
+        "source": {
+            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+            "name": "TechStartups.com",
+            "url": "https://techstartups.com",
             "country": "us"
         }
     },
     {
-        "id": "c473c40e137b4f8e9176ab68cdefae07",
-        "title": "Morgan Stanley sees Reliance Industries’ AI, new energy bets powering next growth chapters. Here’s why",
-        "description": "Morgan Stanley believes Reliance Industries has entered its fifth monetisation cycle, with artificial intelligence infrastructure and new energy businesses poised to become key growth drivers. Maintaining an overweight rating and a target price of Rs 1,803, the brokerage sees 34% upside in the stock.",
-        "content": "Mukesh Ambani-led Reliance Industries has entered its fifth monetisation cycle, with artificial intelligence infrastructure and new energy emerging as the company's next major value drivers, according to a Morgan Stanley report that examined the grou... [5948 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/morgan-stanley-sees-reliance-industries-ai-new-energy-bets-powering-next-growth-chapters-heres-why/articleshow/131441134.cms",
-        "image": "https://img.etimg.com/thumb/msid-131441227,width-1200,height-630,imgsize-48994,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-06-01T11:07:00Z",
+        "id": "719a82e0f10fe9509d521d3bc731671f",
+        "title": "AI System Failed to Flag Fentanyl Diversion in Tenn.",
+        "description": "A certified registered nurse anesthetist at Erlanger Medical Center diverted fentanyl from surgical waste for months while the hospital's artificial intelligence drug-monitoring system failed to detect multiple warning signs, according to a Tennessee Board of Nursing order.",
+        "content": "A certified registered nurse anesthetist at Erlanger Medical Center diverted fentanyl from surgical waste for months while the hospital's artificial intelligence drug-monitoring system failed to detect multiple warning signs, according to a Tennessee... [2457 chars]",
+        "url": "https://www.newsmax.com/newsfront/ai-nursing-order/2026/06/01/id/1258164/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=a60bb363-a029-48d2-9d79-f1399eeab719&SiteName=Newsmax",
+        "publishedAt": "2026-06-01T17:26:37Z",
         "lang": "en",
         "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
+            "id": "a8984f03fe66dae9745793f6560aa444",
+            "name": "Newsmax",
+            "url": "https://www.newsmax.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "8f51f51e1a22d43b04d66b613de494e2",
+        "title": "OpenAI, Sam Altman sued by Florida over 'web of deceit and the exploitation of users': What is the case all about?",
+        "description": "Florida Attorney General James Uthmeier sued artificial intelligence company OpenAI and its CEO, Sam Altman, accusing them of putting profit over safety. The lawsuit is separate from the criminal investigation against the firm. The development comes a month after Uthmeier issued subpoenas.",
+        "content": "Swati Gandhi\nSwati Gandhi is a digital journalist with over four years of experience, specialising in international and geopolitical issues. Her work focuses on foreign policy, global power shifts, and the political and economic forces shaping intern... [1563 chars]",
+        "url": "https://www.livemint.com/news/us-news/openai-sam-altman-sued-by-florida-over-web-of-deceit-and-the-exploitation-of-users-what-is-the-case-all-about-11780332391500.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/01/1600x900/logo/AI-Health-Care-Poll-0_1776995450207_1776995461188_1780332773821_ecefef7a-30cb-41ba-996f-75628fb077ea.jpg",
+        "publishedAt": "2026-06-01T17:22:48Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "1eaae624118332aca54b47422d039559",
-        "title": "Nvidia bets on new chip powering Windows laptops",
-        "description": "Nvidia unveiled Monday new powerful chips that would bring advanced artificial intelligence functions into laptops and desktop computers, with the new personal computer models from brands including Microsoft and Dell set to roll out later this year.",
-        "content": "TAIPEI, Taiwan — Nvidia unveiled Monday new powerful chips that would bring advanced artificial intelligence functions into laptops and desktop computers, with the new personal computer models from brands including Microsoft and Dell set to roll out ... [2636 chars]",
-        "url": "https://www.bnnbloomberg.ca/business/company-news/2026/06/01/nvidia-bets-on-ai-personal-computers-with-new-chip-powering-windows-laptops/",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/BLIU46IV6G76Q6AH2XG2V53KSE.jpg?smart=true&auth=afdad70afe5a8845c64083fb2bf5ce170cc81213f63d314dd4123c170404b3b0&width=1200&height=630",
-        "publishedAt": "2026-06-01T11:05:10Z",
-        "lang": "en",
-        "source": {
-            "id": "1b697445987e8a33f6c82842e17d60d9",
-            "name": "Bnn Bloomberg",
-            "url": "https://www.bnnbloomberg.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "24d916fc5c10e903325ee8d1f75a2de6",
-        "title": "AI Drug Monitoring System Failed to Detect Nurse's Fentanyl Theft at Tennessee Hospital",
-        "description": "An AI-powered medication monitoring system failed to detect months of fentanyl theft by a nurse at Tennessee's largest hospital in Chattanooga, according to state nursing board records that raise questions about the effectiveness of artificial intelligence systems used in hundreds of American hospitals.",
-        "content": "An AI-powered medication monitoring system failed to detect months of fentanyl theft by a nurse at Tennessee’s largest hospital in Chattanooga, according to state nursing board records that raise questions about the effectiveness of artificial intell... [3353 chars]",
-        "url": "https://www.breitbart.com/politics/2026/06/01/ai-drug-monitoring-system-failed-to-detect-nurses-fentanyl-theft-at-tennessee-hospital/",
-        "image": "https://media.breitbart.com/media/2026/06/Fentanyl-injection-in-hospital-640x335.jpg",
-        "publishedAt": "2026-06-01T11:01:27Z",
-        "lang": "en",
-        "source": {
-            "id": "85b540771682043e2a9f294068f5345b",
-            "name": "Breitbart News Network",
-            "url": "https://www.breitbart.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d6cc9a487ab2d7e51bd3b6b1933a70f4",
-        "title": "AI Drug Monitoring System Failed to Detect Nurse's Fentanyl Theft at Tennessee Hospital",
-        "description": "An AI-powered medication monitoring system failed to detect months of fentanyl theft by a nurse at Tennessee's largest hospital in Chattanooga, according to state nursing board records that raise questions about the effectiveness of artificial intelligence systems used in hundreds of American hospitals.",
-        "content": "An AI-powered medication monitoring system failed to detect months of fentanyl theft by a nurse at Tennessee’s largest hospital in Chattanooga, according to state nursing board records that raise questions about the effectiveness of artificial intell... [3353 chars]",
-        "url": "https://www.breitbart.com/tech/2026/06/01/ai-drug-monitoring-system-failed-to-detect-nurses-fentanyl-theft-at-tennessee-hospital/",
-        "image": "https://media.breitbart.com/media/2026/06/Fentanyl-injection-in-hospital-640x335.jpg",
-        "publishedAt": "2026-06-01T11:01:27Z",
-        "lang": "en",
-        "source": {
-            "id": "85b540771682043e2a9f294068f5345b",
-            "name": "Breitbart News Network",
-            "url": "https://www.breitbart.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6a3f9d1ebb05d23757ad1e704ce01365",
-        "title": "World does not want ‘AI Iron Curtain’, China’s Communist Party mouthpiece says",
-        "description": "People’s Daily says China and US should work together to advance the development and governance of artificial intelligence.",
-        "content": "The Communist Party’s mouthpiece newspaper, People’s Daily, described artificial intelligence on Monday as a “new frontier” for Chinese cooperation with the US, marking one of Beijing’s clearest articulations yet of how it sees AI fitting into the bi... [1085 chars]",
-        "url": "https://www.scmp.com/economy/china-economy/article/3355574/world-does-not-want-ai-iron-curtain-chinas-communist-party-mouthpiece-says",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/01/60176fb7-fe7a-4f44-93dd-f1f2660d7105_62111772.jpg?itok=NbWMDh69&v=1780307743",
-        "publishedAt": "2026-06-01T11:00:11Z",
-        "lang": "en",
-        "source": {
-            "id": "d6397b77175680e2678c0d60edcee7af",
-            "name": "South China Morning Post",
-            "url": "https://www.scmp.com",
-            "country": "hk"
-        }
-    },
-    {
-        "id": "b0214cf10f3eba501f67f14be65ac9ef",
-        "title": "Students welcome AI teacher Iris at Vishwajyothi School in Kochi",
-        "description": "Designed to enhance the communication and interaction skills of students, Iris will step into classrooms during free periods and whenever teachers.robot teacher, robotic educator, artificial intelligence education, Iris robot, classroom technology, student interaction, learning enhancement, personalized learning, future of education, Kerala startup mission, school automation, educational robots, teaching assistant robot, AI in schools, robotic learning companion",
-        "content": "Angamaly: Students at Vishwajyothi School now have a teacher who never tires of questions. Iris, an AI-powered robotic educator, can respond instantly to queries, engage students in conversation and support teachers in a range of classroom tasks.\nDes... [936 chars]",
-        "url": "https://www.onmanorama.com/news/kerala/2026/06/01/robot-teacher-vishwjyothi-iris-robot-educator.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/6/1/iris-wmc.jpg",
-        "publishedAt": "2026-06-01T10:59:39Z",
-        "lang": "en",
-        "source": {
-            "id": "60c457b35b486691319f105c3a760060",
-            "name": "Malayala Manorama",
-            "url": "https://www.onmanorama.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "28326166d3ec87d44c4472bde48e86ee",
-        "title": "Nvidia bets on AI personal computers with new chip powering Windows laptops",
-        "description": "Nvidia has unveiled powerful new chips to bring advanced artificial intelligence to Windows laptops and desktops. These superchips will be powering new personal computer models from brands like Microsoft and Dell, and are set to roll out in the fall of this year, according to Nvidia CEO Jensen Huang. Huang spoke at the annual Nvidia GTC conference in Taipei on Monday. Nvidia and Microsoft are aiming to reinvent the personal computer, he said, and the new laptops and desktops will be able to run AI agents locally. Analysts say Nvidia's move could revolutionize the PC market, drive AI applications at home, and offer more choices for consumers.",
-        "content": "TAIPEI, Taiwan (AP) — Nvidia unveiled Monday new powerful chips that would bring advanced artificial intelligence functions into laptops and desktop computers, with the new personal computer models from brands including Microsoft and Dell set to roll... [270 chars]",
-        "url": "https://www.ajc.com/news/2026/06/nvidia-bets-on-ai-personal-computers-with-new-chip-powering-windows-laptops/",
-        "image": "https://images.ajc.com/resizer/v2/HP4DF34VFVEFJGAOJSHGJIIVWM.jpg?auth=5fe8c6fbd6aa201fb93ab9c79add9f82a901820c4e2fcd8e963430e494268065&width=1200&height=630&smart=true",
-        "publishedAt": "2026-06-01T10:43:22Z",
-        "lang": "en",
-        "source": {
-            "id": "79e9a45376a66fd7e1a4e68bba928c39",
-            "name": "The Atlanta Journal-Constitution",
-            "url": "https://www.ajc.com",
-            "country": "us"
         }
     }
 ]
