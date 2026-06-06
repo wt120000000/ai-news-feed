@@ -1,5 +1,69 @@
 [
     {
+        "id": "33b75074bf8b653b96fe6ab16411b847",
+        "title": "Scientists map more than 200 years of nature's progress",
+        "description": "Armed with trail cameras, artificial intelligence, and a powerful national research network, scientists are revisiting Lewis and Clark's legendary journey to see how America's wildlife has changed over the past 200 years.",
+        "content": "Armed with trail cameras, artificial intelligence, and a powerful national research network, scientists are revisiting Lewis and Clark's legendary journey to see how America's wildlife has changed over the past 200 years.\nThe University of Missouri i... [3425 chars]",
+        "url": "https://phys.org/news/2026-06-scientists-years-nature.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/mizzou-helps-smithsoni.jpg",
+        "publishedAt": "2026-06-06T02:40:01Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "08d926f8135c3e502a52e0b0b25b1364",
+        "title": "Companies push employees to use AI - just not too much",
+        "description": "Big companies are goading workers to start using AI. Or they're gatekeeping access to it. The stance is evolving as corporate employers waffle between justifying their investments in artificial intelligence and keeping a lid on usage as computing costs mount.",
+        "content": "Big companies are goading workers to start using AI. Or they're gatekeeping access to it. The stance is evolving as corporate employers waffle between justifying their investments in artificial intelligence and keeping a lid on usage as computing cos... [5326 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/06/06/companies-push-employees-to-use-ai--just-not-too-much",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/06/05/3944503.jpg",
+        "publishedAt": "2026-06-06T02:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "c5e40b83e43c3c71660ef310c5c0ab5f",
+        "title": "How AI governance is taking shape in the Philippines",
+        "description": "As Congress tackles the rapid rise of artificial intelligence, a slew of proposed bills aim to establish regulatory frameworks, protect workers, and ensure ethical standards in AI development and deployment",
+        "content": "We’ve taken a look at bills on social media regulation, deepfakes, and disinformation. Now, we look at another important technology issue, artificial intelligence.\nIts emergence into the mainstream began a few years ago when ChatGPT became a hit, and... [6745 chars]",
+        "url": "https://www.rappler.com/technology/features/artificial-intelligence-bills-20th-congress-philippines/",
+        "image": "https://www.rappler.com/tachyon/2026/02/reuters-ai-feb-2026-scaled.jpg",
+        "publishedAt": "2026-06-06T01:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1290fbc1799ff6b270a6f8b7e9761c18",
+            "name": "Rappler",
+            "url": "https://www.rappler.com",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "bf65ec84a0cf9ee82bbee4b76f16a51e",
+        "title": "Artificial intelligence company Anthropic urges AI pause due to rapid advances in the technology",
+        "description": "The team behind Claude say the rapid advances in artificial intelligence could soon break free of needing humans.",
+        "content": "Anthropic is calling on major artificial intelligence labs to consider a co-ordinated and verifiable pause in development, warning that rapid advances in the technology could soon allow AI systems to improve themselves faster than society can manage ... [3672 chars]",
+        "url": "https://7news.com.au/technology/artificial-intelligence-company-anthropic-urges-ai-pause-due-to-rapid-advances-in-the-technology-c-22393010",
+        "image": "https://images.7news.com.au/publication/C-22393010/38afdc99383750ea5bef5963ef699c27d9116b53-16x9-x0y0w1280h720.jpg?imwidth=1200",
+        "publishedAt": "2026-06-06T00:47:20Z",
+        "lang": "en",
+        "source": {
+            "id": "e0c33fc9d04ac3cbaad8f31915a02767",
+            "name": "7NEWS Australia",
+            "url": "https://7news.com.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "c5556af7b772f10f9fa74ab4b16b16ff",
         "title": "AI could double electricity use by 2030",
         "description": "contrary to popular beliefs, artificial intelligence could double its electricity consumption by 2030 to about 3 per cent of the world’s power use and produce greenhouse gas emissions equivalent to the united kingdom, a report has said. the report from the united nations also warned that ai could deplete more water for cooling than the annual drinking water needs of the global population. it mentioned that the use of ai will lead to “jevons paradox”, which entails that as technological improvements increase",
@@ -92,70 +156,6 @@
             "id": "31177620c1e6e610b5d2b67916ed3615",
             "name": "PBS News",
             "url": "https://www.pbs.org",
-            "country": "us"
-        }
-    },
-    {
-        "id": "aaaecbe976c5df2682e48312219e4164",
-        "title": "Trump Calls for Military to Accelerate Use of AI",
-        "description": "While acknowledging the need to protect civil liberties and maintain oversight over autonomous weapon systems, President Donald Trump issued a memo Friday that calls for the U.S. military and national security agencies to accelerate their use of artificial intelligence.",
-        "content": "President Donald Trump issued a memo Friday that calls for the U.S. military and national security agencies to accelerate their use of artificial intelligence, while acknowledging the need to protect civil liberties and maintain oversight over autono... [3473 chars]",
-        "url": "https://www.newsmax.com/politics/artificial-intelligence-donald-trump-pete-hegseth/2026/06/05/id/1258722/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=dca8a099-5b44-4866-b80b-a147ce2b45a1&SiteName=Newsmax",
-        "publishedAt": "2026-06-05T22:19:17Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4d362a46da4e4c6786fa276e4d3b0e0d",
-        "title": "OpenAI in talks to give U.S. government an equity stake in $850 billion AI startup as IPO nears",
-        "description": "Just a day after Senator Bernie Sanders proposed that Americans should share directly in the wealth created by artificial intelligence, OpenAI is reportedly discussing an unprecedented idea with the Trump administration: giving the U.S. government an ownership stake in the company. \"OpenAI CEO Sam Altman and the White House are in ongoing talks about a",
-        "content": "Just a day after Senator Bernie Sanders proposed that Americans should share directly in the wealth created by artificial intelligence, OpenAI is reportedly discussing an unprecedented idea with the Trump administration: giving the U.S. government an... [4063 chars]",
-        "url": "https://techstartups.com/2026/06/05/openai-in-talks-to-give-u-s-government-an-equity-stake-in-850-billion-ai-startup-as-ipo-nears/",
-        "image": "https://techstartups.com/wp-content/uploads/2025/03/Altman.jpg",
-        "publishedAt": "2026-06-05T22:08:43Z",
-        "lang": "en",
-        "source": {
-            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-            "name": "TechStartups.com",
-            "url": "https://techstartups.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "20d53ab2661f7e9f187273fb0ee2ebc1",
-        "title": "White House to accelerate development of AI for 'war fighting' and national security",
-        "description": "As a major AI company warns of an increased risk of \"humans losing control over AI systems\", the Trump administration says it will accelerate the development and use of artificial intelligence for national security applications.",
-        "content": "The White House says it will accelerate the development and use of artificial intelligence for national security applications.\nThe news came as a major AI company warned of an increased risk of \"humans losing control over AI systems\".\nThe Trump admin... [3678 chars]",
-        "url": "https://www.abc.net.au/news/2026-06-06/trump-to-accelerate-development-of-ai-for-war/106767300",
-        "image": "https://live-production.wcms.abc-cdn.net.au/2985f1337e8caf2b15ba0ea4c02e1421?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=126&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-06-05T22:00:38Z",
-        "lang": "en",
-        "source": {
-            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-            "name": "ABC (Australian Broadcasting Corporation)",
-            "url": "https://www.abc.net.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "6221bd56ff6064e011a04e24c245571c",
-        "title": "Actors’ union approves 4-year contract with studios and streamers",
-        "description": "Television and movie actors on Thursday voted overwhelmingly to ratify a four-year contract with studios and streaming services, a month after their union leaders negotiated a deal they say provides protections against synthetic actors created by artificial intelligence.",
-        "content": "By ANDREW DALTON\nLOS ANGELES (AP) — Television and movie actors on Thursday voted overwhelmingly to ratify a four-year contract with studios and streaming services, a month after their union leaders negotiated a deal they say provides protections aga... [1701 chars]",
-        "url": "https://www.baltimoresun.com/2026/06/05/actors-union-approves-4-year-contract-with-studios-and-streamers/",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/06/Hollywood_Strikes_7_858.jpg?w=1024&h=682",
-        "publishedAt": "2026-06-05T21:53:43Z",
-        "lang": "en",
-        "source": {
-            "id": "3271eb2093cfa66b030a37cf84a8df5e",
-            "name": "Baltimore Sun",
-            "url": "https://www.baltimoresun.com",
             "country": "us"
         }
     }
