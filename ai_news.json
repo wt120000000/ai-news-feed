@@ -1,5 +1,37 @@
 [
     {
+        "id": "daebb494ebbb69002728f22e63286020",
+        "title": "Google Drive updates document scanner with multi-page AI feature",
+        "description": "Google is upgrading its Document Scanner feature within the mobile Google Drive application, leveraging on-device artificial intelligence (AI) to allow users to scan multiple pages simultaneously. While many users are already familiar with the existing scanning tool, this latest update significantly enhances its capabilities by shifting to an automated, intelligent process.",
+        "content": "Google is upgrading its Document Scanner feature within the mobile Google Drive application, leveraging on-device artificial intelligence (AI) to allow users to scan multiple pages simultaneously. While many users are already familiar with the existi... [2369 chars]",
+        "url": "https://www.bangkokpost.com/life/tech/3267228/google-drive-updates-document-scanner-with-multipage-ai-feature",
+        "image": "https://static.bangkokpost.com/media/content/20260607/c2_3267228_260607081128.jpg",
+        "publishedAt": "2026-06-07T03:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
+        "id": "7fc0de7edaa92cbae3c46fbf63b9da99",
+        "title": "Google CEO Sundar Pichai to entry-level graduates: Some people are painting a very troubled scenario due to AI, and I don;t agree with it because ...",
+        "description": "Tech News News: At a time when artificial intelligence (AI) is reshaping the global job market, and various executives have predicted massive job cuts, Google CEO Sun.",
+        "content": "Sundar Pichai\nAt a time when artificial intelligence (AI) is reshaping the global job market, and various executives have predicted massive job cuts, Google CEO Sundar Pichai has a reassuring message for the entry-level graduates: the economic future... [2984 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-to-entry-level-graduates-some-people-are-painting-a-very-troubled-scenario-due-to-ai-and-i-dont-agree-with-it-because-/articleshow/131558844.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131558849,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-07T02:57:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "91aa8edcca394aaf20034547b2c40abb",
         "title": "What to expect from Apple’s AI, Siri and iOS 27 launch at WWDC",
         "description": "Apple Inc will unveil a new artificial intelligence strategy on Monday at its annual Worldwide Developers Conference, aiming for redemption two years after its first AI rollout was plagued by subpar technology and delayed features.",
@@ -125,38 +157,6 @@
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "53841560bd5ae85e1df438839e856d33",
-        "title": "AI fever spreads, but are markets masking economic cracks?",
-        "description": "SpaceX's record-smashing IPO plan shows investors are eager to keep pouring money into all things AI, even as alarm bells ring for the wider economy. And that has analysts wondering: Where will the cash come from if soaring inflation dents growth? Or if the artificial intelligence rollout proves less profitable…",
-        "content": "SpaceX's record-smashing IPO plan shows investors are eager to keep pouring money into all things AI, even as alarm bells ring for the wider economy.\nAnd that has analysts wondering: Where will the cash come from if soaring inflation dents growth? Or... [4795 chars]",
-        "url": "https://japantoday.com/category/business/ai-fever-spreads-but-are-markets-masking-economic-cracks",
-        "image": "https://media.japantoday.com/img/store/db/82/b35cbe638c524ff7ee67f9718935ce5882f4/04809e04a5c0bbef8bdafe7e65076b515704333d-1/_w1700.jpeg",
-        "publishedAt": "2026-06-06T20:23:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
-        }
-    },
-    {
-        "id": "b000cde7e9a918bd2465fa5063edf2cb",
-        "title": "Energy, water use and pollution of AI and data centers rival most countries",
-        "description": "The environmental footprint of data centers already rivals some of the world's largest countries, according to a United Nations University report, which also predicts their water and energy use and pollution will double in just four years as use of artificial intelligence grows. Last year, global data centers used 448…",
-        "content": "The environmental footprint of data centers already rivals some of the world's largest countries, according to a United Nations University report, which also predicts their water and energy use and pollution will double in just four years as use of a... [5739 chars]",
-        "url": "https://japantoday.com/category/tech/un-calculates-nation-sized-environmental-footprints-for-ai-and-data-centers",
-        "image": "https://media.japantoday.com/img/store/9d/30/d143c619692cf7e5ef8d91e42e0293942e86/download/_w1700.jpeg",
-        "publishedAt": "2026-06-06T20:10:00Z",
-        "lang": "en",
-        "source": {
-            "id": "11d4381a1e8f7aca7628d0319a52a040",
-            "name": "Japan Today",
-            "url": "https://japantoday.com",
-            "country": "jp"
         }
     }
 ]
