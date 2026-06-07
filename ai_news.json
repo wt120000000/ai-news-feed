@@ -1,5 +1,37 @@
 [
     {
+        "id": "4bcbd5dae3b904e995542d86fa62a10b",
+        "title": "All clear: Massive Homer City power project finishes major demolition",
+        "description": "Homer City Generation L.P. reached a major construction milestone this week, completing a massive, high-speed demolition at its former coal-burning power plant in Indiana County. To clear the way for massive artificial intelligence data centers, workers dismantled heavy industrial structures and excavated roughly 3 million cubic yards of earth ahead",
+        "content": "Homer City Generation L.P. reached a major construction milestone this week, completing a massive, high-speed demolition at its former coal-burning power plant in Indiana County.\nTo clear the way for massive artificial intelligence data centers, work... [6877 chars]",
+        "url": "https://triblive.com/local/regional/all-clear-massive-homer-city-power-project-finishes-major-demolition/",
+        "image": "https://assets-varnish.triblive.com/2026/06/9635288_web1_GTR-homercityDATA-copy.jpg",
+        "publishedAt": "2026-06-07T06:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "b1fa63410571207862faad9daf9b4527",
+            "name": "Pittsburgh Tribune-Review",
+            "url": "https://triblive.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "67373c0224a34d947e15e337105c1b94",
+        "title": "SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth",
+        "description": "South Korean President Lee Jae Myung nominated SME and Startup Minister Han Seong-sook as prime minister, betting the tech industry veteran will help the country realize its artificial intelligence ambitions.",
+        "content": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world\nConnecting decision makers to a dynamic network of infor... [641 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-07/lee-nominates-tech-guru-han-as-prime-minister-to-lead-ai-growth",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM_zFHICuo5U/v1/1200x800.jpg",
+        "publishedAt": "2026-06-07T05:58:50Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "daebb494ebbb69002728f22e63286020",
         "title": "Google Drive updates document scanner with multi-page AI feature",
         "description": "Google is upgrading its Document Scanner feature within the mobile Google Drive application, leveraging on-device artificial intelligence (AI) to allow users to scan multiple pages simultaneously. While many users are already familiar with the existing scanning tool, this latest update significantly enhances its capabilities by shifting to an automated, intelligent process.",
@@ -125,38 +157,6 @@
             "name": "NewsX",
             "url": "https://www.newsx.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "afc09d5e1a33f1354c8c78b4c68fdfe0",
-        "title": "'This is herculean:' How Alberta, B.C. Mounties are using AI to write reports",
-        "description": "Mounties are testing a program that could eventually see criminal defendants battle a new opponent in court — artificial intelligence.",
-        "content": "Mounties are testing a program that could eventually see criminal defendants battle a new opponent in court — artificial intelligence.\nRCMP say AI is being used to write police reports on everything from traffic tickets to serious offences — except m... [5093 chars]",
-        "url": "https://cheknews.ca/this-is-herculean-how-alberta-b-c-mounties-are-using-ai-to-write-reports-1329140/",
-        "image": "https://i0.wp.com/cheknews.ca/wp-content/uploads/2026/03/90271d97-417e-48ef-91e7-195efc96f3c3-scaled.jpg?fit=2560%2C1724&ssl=1",
-        "publishedAt": "2026-06-06T21:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "010284b7a4ddb4771793c29b39893951",
-            "name": "CHEK News",
-            "url": "https://cheknews.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "9fbed89e67bda9ea27cb3673b039f252",
-        "title": "Researchers develop world's first AI for objective pain assessment",
-        "description": "A research team has developed technology that uses artificial intelligence to analyze electroencephalogram signals triggered by thermal stimuli and objectively classify pain intensity. The study is published in IEEE Transactions on Neural Systems and Rehabilitation Engineering.",
-        "content": "A research team has developed technology that uses artificial intelligence to analyze electroencephalogram signals triggered by thermal stimuli and objectively classify pain intensity. The study is published in IEEE Transactions on Neural Systems and... [2352 chars]",
-        "url": "https://medicalxpress.com/news/2026-06-world-ai-pain.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/researchers-develop-wo.jpg",
-        "publishedAt": "2026-06-06T21:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
         }
     }
 ]
