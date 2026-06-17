@@ -1,28 +1,124 @@
 [
     {
-        "id": "6beddbf5f2e47d7dd1837d4c8db7c753",
-        "title": "SpaceX rally adds $164 billion to Musk's fortune, more than Buffett's net worth",
-        "description": "Shares of the space and artificial intelligence company surged 19.6% on Monday, adding an estimated $164 billion to Musk's net worth",
-        "content": "Elon Musk added more wealth in a single day than Warren Buffett has accumulated over a lifetime, as a blistering rally in newly listed SpaceX shares made him the world's first trillionaire.\nShares of the space and artificial intelligence company surg... [1867 chars]",
-        "url": "https://www.moneycontrol.com/news/business/markets/spacex-rally-adds-164-billion-to-musk-s-fortune-more-than-buffett-s-net-worth-13950989.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260612165312_SpaceX-CEO-Elon-Musk.png",
-        "publishedAt": "2026-06-16T12:17:47Z",
+        "id": "72b03f2bbc9aea185e0b0ddfec926d5f",
+        "title": "Google Rolls Out Android 17; Major AI Features to Follow This Summer",
+        "description": "Alphabet Inc.’s Google has begun rolling out Android 17, the latest major update to its popular mobile operating system, though some of its marquee artificial intelligence features will not arrive for another few months.",
+        "content": "Alphabet Inc.’s Google has begun rolling out Android 17, the latest major update to its popular mobile operating system, though some of its marquee artificial intelligence features will not arrive for another few months.\nThe initial wave of enhanceme... [489 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-16/google-debuts-android-17-multitasking-social-video-and-the-other-best-features",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5xs9Fq7BpKk/v1/1200x799.jpg",
+        "publishedAt": "2026-06-16T18:00:15Z",
         "lang": "en",
         "source": {
-            "id": "fd3677545b80d5db7541de8e111d27ba",
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com",
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "0b74119d2c66d0238100df81d42d9fda",
+        "title": "Karnataka should explore dedicated investment mechanisms for BT: Mazumdar-Shaw",
+        "description": "Karnataka should explore dedicated biotechnology investment mechanisms while embedding artificial intelligence across the biotechnology value chain to unlock new opportunities in drug discovery, diagnostics, precision medicine, and biomanufacturing, said Kiran Mazumdar-Shaw, Chairperson, Vision Group on Biotechnology.",
+        "content": "Karnataka should explore dedicated biotechnology investment mechanisms while embedding artificial intelligence across the biotechnology value chain to unlock new opportunities in drug discovery, diagnostics, precision medicine, and biomanufacturing, ... [1970 chars]",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-should-explore-dedicated-investment-mechanisms-for-bt-mazumdar-shaw/article71110407.ece",
+        "image": "https://th-i.thgim.com/public/incoming/746kn2/article71110662.ece/alternates/LANDSCAPE_1200/20260616262L.jpg",
+        "publishedAt": "2026-06-16T17:51:46Z",
+        "lang": "en",
+        "source": {
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
             "country": "in"
         }
     },
     {
-        "id": "35444bf47a2ce3ca37f7d4b02bd22481",
-        "title": "Can AI help us age better? Bay Area scientists are trying to find out",
-        "description": "Can AI help us age better? Discover how Bay Area labs are using advanced artificial intelligence models to predict biological age and target chronic diseases.",
-        "content": "A growing number of researchers are turning to artificial intelligence to understand why some people remain healthy into their 90s while others develop chronic diseases decades earlier.\nAt labs throughout the Bay Area, the technology is fueling a wav... [6218 chars]",
-        "url": "https://www.mercurynews.com/2026/06/16/can-ai-help-us-age-better-bay-area-scientists-are-trying-to-find-out/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-MAXTOKI-04XX-3.jpg?w=1024&h=683",
-        "publishedAt": "2026-06-16T12:00:26Z",
+        "id": "4af0f11437a118fdeda5916d6144db23",
+        "title": "The AI Boom Is Becoming A $4.1 Trillion Debt Story: JPMorgan",
+        "description": "The race to build artificial intelligence infrastructure is no longer just a technology story. According to JPMorgan, it’s rapidly becoming one of the largest financing stories on Wall Street.",
+        "content": "The race to build artificial intelligence infrastructure is no longer just a technology story. According to JPMorgan, it’s rapidly becoming one of the largest financing stories on Wall Street.\nIn an analyst report, published Tuesday, the firm project... [2684 chars]",
+        "url": "https://www.benzinga.com/markets/tech/26/06/53233210/the-ai-boom-is-becoming-a-4-1-trillion-debt-story-jpmorgan-says",
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/16/Ai-Technology-Bubble-Concept-Chip-Stock-.jpeg",
+        "publishedAt": "2026-06-16T17:48:05Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "b303233b87b2066c516d26fedd0960fd",
+        "title": "AI decodes plant DNA 'switches' to better predict gene control",
+        "description": "An international research team led by Forschungszentrum Jülich and the IPK Leibniz Institute has developed an artificial intelligence model that predicts where regulatory proteins dock onto plant DNA to switch genes on and off. Trained entirely on the rich genomic data available for the model plant Arabidopsis thaliana, the model transfers successfully to crops such as maize—opening new ways to understand how genetic variation shapes crop performance. The study was recently published in Nature Communications.",
+        "content": "An international research team led by Forschungszentrum Jülich and the IPK Leibniz Institute has developed an artificial intelligence model that predicts where regulatory proteins dock onto plant DNA to switch genes on and off. Trained entirely on th... [3584 chars]",
+        "url": "https://phys.org/news/2026-06-ai-decodes-dna-gene.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/ai-decodes-the-languag.jpg",
+        "publishedAt": "2026-06-16T17:40:04Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "0dd2e54fd21b2035116bf10cf666b78b",
+        "title": "Missoula park camera proposal delayed amid AI concerns",
+        "description": "The cameras have the capability to use artificial intelligence, and some of the cameras are \"optimized for license plate recognition.\"",
+        "content": "Griffen Smith is the local government reporter for the Missoulian.\nYou must be logged in to react.\nClick any reaction to login.\nLove\n0\nFunny\n0\nWow\n0\nSad\n0\nAngry\n0\nGet Government & Politics updates in your inbox!\nStay up-to-date on the latest in local... [573 chars]",
+        "url": "https://missoulian.com/news/local/government-politics/article_1e1ec2f9-40cc-4cc7-b582-b01798fbaf3c.html",
+        "image": "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/1/e1/1e1ec2f9-40cc-4cc7-b582-b01798fbaf3c/6a31819e9b59e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+        "publishedAt": "2026-06-16T17:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "f68f975281ced878edef3dab628ecffd",
+            "name": "Missoula Missoulian",
+            "url": "https://missoulian.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e784f29a92b104809bfa10c97079499e",
+        "title": "Psychologists say patients are turning to chatbots as mental health professionals",
+        "description": "More than three-quarters of psychologists report their patients are discussing artificial intelligence in therapy, using the technology to seek additional support with their mental health, find a diagnosis, or for friendship and intimate relationships, according to a survey by the American Psychological Association.",
+        "content": "More than three-quarters of psychologists report their patients are discussing artificial intelligence in therapy, using the technology to seek additional support with their mental health, find a diagnosis, or for friendship and intimate relationship... [5261 chars]",
+        "url": "https://medicalxpress.com/news/2026-06-psychologists-patients-chatbots-mental-health.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/psychologists-say-pati.jpg",
+        "publishedAt": "2026-06-16T17:20:11Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "97eb5d4e32414d385b9805bf4537eae1",
+        "title": "JMIR articles address AI clinical decision-making and health care worker burnout",
+        "description": "JMIR Publications released two feature stories in its News and Perspectives section. Shalini Kathuria Narang's \"Can Humanlike Reasoning Be Replicated in Large Language Models for Clinical Decision-Making?\" and Sara Novak's \"How Health Care Workers Can Manage Digital Fatigue\" offer complementary looks into the capabilities of artificial intelligence in diagnostics, and the real-world exhaustion faced by medical professionals managing digital systems.",
+        "content": "JMIR Publications released two feature stories in its News and Perspectives section. Shalini Kathuria Narang's \"Can Humanlike Reasoning Be Replicated in Large Language Models for Clinical Decision-Making?\" and Sara Novak's \"How Health Care Workers Ca... [3675 chars]",
+        "url": "https://www.news-medical.net/news/20260616/JMIR-articles-address-AI-clinical-decision-making-and-health-care-worker-burnout.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
+        "publishedAt": "2026-06-16T17:14:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "60b4108f6ba9033988c813a633789888",
+        "title": "SpaceX buys AI coding startup Cursor for $60 billion in race for an edge over Anthropic and OpenAI",
+        "description": "SpaceX will move forward with its $60 billion acquisition of artificial intelligence startup Cursor as Elon Musk's space exploration and AI company seeks a competitive edge against rivals Anthropic and OpenAI after its Wall Street debut last week.",
+        "content": "SpaceX will move forward with its $60 billion acquisition of artificial intelligence startup Cursor as Elon Musk’s space exploration and AI company seeks a competitive edge against rivals Anthropic and OpenAI after its Wall Street debut last week.\nSp... [1516 chars]",
+        "url": "https://www.mercurynews.com/2026/06/16/spacex-buys-ai-coding-startup-cursor-for-60-billion-in-race-for-an-edge-over-anthropic-and-openai/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/SpaceX_IPO_72635_0b2391.jpg?w=1024&h=682",
+        "publishedAt": "2026-06-16T17:00:18Z",
         "lang": "en",
         "source": {
             "id": "17d7c2645f485578130862e0c8dd9480",
@@ -32,109 +128,13 @@
         }
     },
     {
-        "id": "66ab8c20d6e19beef08e30eb655306f5",
-        "title": "DeepSeek becomes China’s most valuable AI startup after over $7.4 billion fundraise",
-        "description": "China’s DeepSeek raised more than $7.4 billion in its first round of fundraising to support its costly development of artificial intelligence.",
-        "content": "China’s DeepSeek raised more than $7.4 billion in its first round of fundraising to support its costly development of artificial intelligence.\nInvestors valued the company at more than $50 billion, people familiar with the matter said, making it the ... [2787 chars]",
-        "url": "https://www.livemint.com/global/deepseek-becomes-china-s-most-valuable-ai-startup-after-over-7-4-billion-fundraise-11781609546128.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/06/16/1600x900/logo/DEEPSEEK-FUNDING--0_1781610943889_1781610958138_7c046733-67e2-4833-aec4-adf25ac08f64.JPG",
-        "publishedAt": "2026-06-16T11:57:24Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "79fac06079db6322e1744c31f792afe5",
-        "title": "Geo-political conflict, economic growth: List of topics PM Modi to speak on at G7 Summit in France",
-        "description": "As per the Council of the European Union, the G-7 summit will focus on the future of artificial intelligence and balanced economic growth. However, geopolitical challenges such as the conflict in West Asia and free navigation, as well as the ongoing war in Ukraine will be discussed too.",
-        "content": "Paris:\nPrime Minister Modi will on Tuesday address the G-7 Summit at Évian-les-Bains in France. PM Modi is currently on the second leg of his two-nation visit. Earlier, Secretary (West), Ministry of External Affairs, Sibi George stated that “this wil... [3869 chars]",
-        "url": "https://www.indiatvnews.com/news/world/geo-political-conflict-economic-growth-list-of-topics-pm-modi-to-speak-on-at-g7-summit-in-france-2026-06-16-1045058",
-        "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/06/modi-22-1781610601.jpg",
-        "publishedAt": "2026-06-16T11:56:05Z",
-        "lang": "en",
-        "source": {
-            "id": "143b993b193f72147f3de29ebcfbf505",
-            "name": "India TV News",
-            "url": "https://www.indiatvnews.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "e3c4f89537e3df1c4eddc82ed8f05c23",
-        "title": "AMD, Rackspace Strike Deal to Deploy 30MW of AI Compute",
-        "description": "By Adriano Marchese\nAMD has struck a deal with Rackspace Technology to deploy 30 megawatts of artificial intelligence computing power across Rackspace's data centers, expanding AMD's enterprise...",
-        "content": "By Adriano Marchese\nAMD has struck a deal with Rackspace Technology to deploy 30 megawatts of artificial intelligence computing power across Rackspace's data centers, expanding AMD's enterprise AI ambitions.\nThe two companies signed an agreement for ... [1486 chars]",
-        "url": "https://www.marketscreener.com/news/amd-rackspace-strike-deal-to-deploy-30mw-of-ai-compute-ce7f5cdfdd89f72d",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-06-16T11:55:21Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "bef49a4b68c366bbd76a7d3f47adc008",
-        "title": "India Chair On Artificial Intelligence To Be Established At Slovak University Following Bilateral Talks",
-        "description": "India Slovakia Talks: The two leaders agreed to encourage enhanced mobility of students, academics and researchers.",
-        "content": "India and Slovakia will establish an \"India Chair on Artificial Intelligence\" at a Slovak university after recent bilateral talks, marking a fresh step in academic and technological cooperation between the two countries. The first-ever ICCR Chair in ... [2034 chars]",
-        "url": "https://www.ndtv.com/education/india-chair-on-artificial-intelligence-to-be-established-at-slovak-university-following-bilateral-talks-11644157",
-        "image": "https://c.ndtvimg.com/2026-06/6pl5l0n4_india-slovakia_625x300_16_June_26.jpeg",
-        "publishedAt": "2026-06-16T11:54:34Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1c1161f06428847104b41e8eeb2c6627",
-        "title": "SpaceX buys AI startup Cursor for $60 billion",
-        "description": "SpaceX will move forward with its $60 billion acquisition of artificial intelligence startup Cursor as Elon Musk’s space exploration and AI company seeks a competitive edge against rivals Anthropic and OpenAI after its Wall Street debut last week.",
-        "content": "SpaceX will move forward with its $60 billion acquisition of artificial intelligence startup Cursor as Elon Musk’s space exploration and AI company seeks a competitive edge against rivals Anthropic and OpenAI after its Wall Street debut last week.\nSp... [1516 chars]",
-        "url": "https://apnews.com/article/spacex-cursor-acquisition-vibe-coding-a5c60fcbaaca262cf107d30f1de899ef",
-        "image": "https://dims.apnews.com/dims4/default/73c1287/2147483647/strip/true/crop/4367x2910+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F13%2Fa2%2F8c1de497fc28e0ce9a8db4de8e91%2F175bee518a5a4f52b3535fdc3938398b",
-        "publishedAt": "2026-06-16T11:31:33Z",
-        "lang": "en",
-        "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "246dbcd4242ffdc6dbaf7ae14cc82ebc",
-        "title": "SpaceX buys AI coding startup Cursor for $60 billion in race for an edge over Anthropic and OpenAI",
-        "description": "SpaceX will move forward with its $60 billion acquisition of artificial intelligence startup Cursor as Elon Musk’s space exploration and AI company seeks a competitive edge against rivals Anthropic and OpenAI after its Wall Street debut last week.",
-        "content": "SpaceX will move forward with its $60 billion acquisition of artificial intelligence startup Cursor as Elon Musk's space exploration and AI company seeks a competitive edge against rivals Anthropic and OpenAI after its Wall Street debut last week.\nSp... [1516 chars]",
-        "url": "https://www.clickondetroit.com/news/2026/06/16/spacex-buys-ai-coding-startup-cursor-for-60-billion-in-race-for-an-edge-over-anthropic-and-openai/",
-        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/JSGTDHCXBBB27EVBO2AGS3KZ64.jpg?_a=DATAg1iuZAA0",
-        "publishedAt": "2026-06-16T11:31:32Z",
-        "lang": "en",
-        "source": {
-            "id": "35515662ec044d3f94b543cd8802d63f",
-            "name": "WDIV ClickOnDetroit",
-            "url": "https://www.clickondetroit.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ccbd857a36bedb0e190d777da1caea09",
-        "title": "Japan Downplays Impact of Anthropic Freeze But Warns of Rising Digital Vulnerabilities",
-        "description": "By Yang Jie and Megumi Fujikawa\nThe U.S.'s suspension of advanced artificial-intelligence tools being tested by Japanese banks poses no operational threat as trials remain in the early stages,...",
-        "content": "By Yang Jie and Megumi Fujikawa\nThe U.S.'s suspension of advanced artificial-intelligence tools being tested by Japanese banks poses no operational threat as trials remain in the early stages, Japan's finance minister said Tuesday.\nSpeaking to report... [1668 chars]",
-        "url": "https://www.marketscreener.com/news/japan-downplays-impact-of-anthropic-freeze-but-warns-of-rising-digital-vulnerabilities-ce7f5cdfda8cf223",
+        "id": "eb3c6490d47b6960f04f1930c1e03b17",
+        "title": "CIBC Says Buybacks in E&C, Heavy Equipment Space, Influenced by AI Narrative",
+        "description": "CIBC Capital Markets said buyback activity in the engineering & construction and heavy equipment companies it covers appear to be influenced by an artificial intelligence narrative.\nCiting the most...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/cibc-says-buybacks-in-e-c-heavy-equipment-space-influenced-by-ai-narrative-ce7f5cdfde8ff324",
         "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2026-06-16T11:17:32Z",
+        "publishedAt": "2026-06-16T16:56:17Z",
         "lang": "en",
         "source": {
             "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -144,13 +144,13 @@
         }
     },
     {
-        "id": "c5a47f93de9b19931a20ecdfbb0e02f8",
-        "title": "Twitch CEO Dan Clancy on how live streaming services are stopping AI from taking ‘humans out of the equation’",
-        "description": "Tech News News: Amazon-owned live-streaming company Twitch's CEO, Dan Clancy, believes that its services are more human-centric in this age of artificial intelligence.",
-        "content": "Amazon-owned live-streaming company Twitch's CEO, Dan Clancy, believes that its services are more human-centric in this age of artificial intelligence (AI). Speaking at the Fortune Brainstorm Tech conference in Aspen, he said, “AI is trying to take h... [3292 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/twitch-ceo-dan-clancy-on-how-live-streaming-services-are-stopping-ai-from-taking-humans-out-of-the-equation/articleshow/131769697.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131769662,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-06-16T11:15:00Z",
+        "id": "e16ffaaaac7329aa8e37aa7deb9b73d7",
+        "title": "Why AI startup CEO gave every employee $3,000 technology-loaded mattress covers",
+        "description": "Tech News News: Artificial intelligence (AI) startup Factory spent thousands of dollars on an unusual employee benefit last year: sleep technology. The company's CEO,.",
+        "content": "Image credit: Eight Sleep\nArtificial intelligence (AI) startup Factory spent thousands of dollars on an unusual employee benefit last year: sleep technology. The company's CEO, Matan Grinberg, said he purchased $3,000 Eight Sleep mattress covers for ... [3324 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/why-ai-startup-ceo-gave-every-employee-3000-technology-loaded-mattress-covers/articleshow/131773967.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131774063,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-16T16:39:00Z",
         "lang": "en",
         "source": {
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
