@@ -1,5 +1,101 @@
 [
     {
+        "id": "60491c64f5e64214d92b3d562d96e620",
+        "title": "Anthropic Has the Template for Fixing Its Mythos Nightmare",
+        "description": "Dario Amodei arrived at the G7 summit this week with a problem few tech bosses have faced: The US government had just treated his newest artificial-intelligence models as too dangerous to export. The Anthropic chief executive officer, long admired for warning Washington about AI’s worst risks, suddenly found those warnings turned back on him.",
+        "content": "Dario Amodei arrived at the G7 summit this week with a problem few tech bosses have faced: The US government had just treated his newest artificial-intelligence models as too dangerous to export. The Anthropic chief executive officer, long admired fo... [434 chars]",
+        "url": "https://www.bloomberg.com/opinion/articles/2026-06-19/anthropic-has-nvidia-template-for-fixing-its-mythos-fable-nightmare",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOsonbYnWg1I/v1/1200x800.jpg",
+        "publishedAt": "2026-06-19T04:00:15Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a3e749a4dfb0ef30a3156987cdd6e79f",
+        "title": "Apple CEO says AI boom makes price increases 'unavoidable'",
+        "description": "Outgoing Apple CEO Tim Cook warned that demand for memory chips from the artificial intelligence boom will force the tech giant to increase the prices of its products, according to an interview with the Wall Street Journal published on June 17.",
+        "content": "SAN FRANCISCO: Outgoing Apple CEO Tim Cook warned that demand for memory chips from the artificial intelligence boom will force the tech giant to increase the prices of its products, according to an interview with the Wall Street Journal published on... [1193 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/06/19/apple-ceo-says-ai-boom-makes-price-increases-039unavoidable039",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/06/19/3965936.jpg",
+        "publishedAt": "2026-06-19T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "8dd96a7f6e6a405c021cc02bcef21c98",
+        "title": "Man vs machine: Who will walk on Mars first?",
+        "description": "As advances in artificial intelligence and robotics accelerate, humanoid robots could be capable of exploring other worlds within the next decade. So who will walk on Mars first?",
+        "content": "The race between humans and machines may extend far beyond Earth.\nAs advances in artificial intelligence and robotics accelerate, humanoid robots could be capable of exploring other worlds within the next decade.\nThat raises a fascinating question: W... [2089 chars]",
+        "url": "https://www.foxweather.com/earth-space/man-vs-machine-who-walk-mars-first-kalshi",
+        "image": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/06/1024/512/gettyimages-615304646-scaled.jpg?ve=1&tl=1",
+        "publishedAt": "2026-06-19T02:39:46Z",
+        "lang": "en",
+        "source": {
+            "id": "cd80188579ee5a2180862a3115ebdca2",
+            "name": "FOX Weather",
+            "url": "https://www.foxweather.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e62f95c4e065f0ffc71eda30b6ce63a2",
+        "title": "Your Social Feed Is About To Change Forever. Here's How",
+        "description": "Industry leaders such as Threads, Instagram, and TikTok are introducing tools that allow users to actively choose, filter, and adjust content topics using artificial intelligence.",
+        "content": "For years, major social media platforms strictly dictated what appeared in content feeds through behind-the-scenes recommendation models. Whilst individuals could use basic tools like unfollowing or tapping a \"not interested\" button, the central plat... [1761 chars]",
+        "url": "https://www.ndtv.com/feature/instagram-threads-tiktok-your-social-feed-is-about-to-change-forever-heres-how-11657488",
+        "image": "https://c.ndtvimg.com/2026-06/p2si5pb8_instagram-threads-tiktok_625x300_19_June_26.jpeg",
+        "publishedAt": "2026-06-19T02:38:38Z",
+        "lang": "en",
+        "source": {
+            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+            "name": "NDTV.com",
+            "url": "https://www.ndtv.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "5ecce4458423661c0c3712c6330b463c",
+        "title": "John Waters Would Use AI To \"Cure Cancer\" But \"Not To Help Me Write\"",
+        "description": "The Pope of Trash has weighed in on the future of artificial intelligence as many remain divided on its place in Hollywood.",
+        "content": "The Pope of Trash has weighed in on the future of artificial intelligence as many remain divided on its place in Hollywood.\nIn a recent interview, John Waters explained that he thought AI “would be good for pornography” but discovered he was wrong, a... [1093 chars]",
+        "url": "https://deadline.com/2026/06/john-waters-would-not-use-ai-help-me-write-1236962505/",
+        "image": "https://deadline.com/wp-content/uploads/2026/06/P115WFS6-e1781833262875.jpg?w=750",
+        "publishedAt": "2026-06-19T01:52:47Z",
+        "lang": "en",
+        "source": {
+            "id": "9a0aedadcf2d0a6144f3064cb144bae4",
+            "name": "Deadline",
+            "url": "https://deadline.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3dd37710b6443959924824b94ef75ce7",
+        "title": "OpenAI eyes bigger India team in pursuit of AGI",
+        "description": "OpenAI plans to expand its India engineering team to develop a context-aware personalized voice AI assistant in its push towards artificial general intelligence",
+        "content": "Muchhal said language and culture are central to building more capable AI systems. While AGI can mean different things to different people, its ultimate goal is to improve lives and eventually handle any task. “(And) for that to happen, AGI needs to ... [2728 chars]",
+        "url": "https://www.livemint.com/ai/artificial-intelligence/openai-india-team-artificial-general-intelligence-personlised-voice-ai-assistant-chatgpt-anthropic-google-11781766302966.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/18/1600x900/logo/TECH-AI-OPENAI-SHAZEER-0_1781782411184_1781782425616_ae19f0f4-5aad-41ff-8496-5b44fd2aa7d8.JPG",
+        "publishedAt": "2026-06-19T00:15:26Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "61fa52cf7fc5bfbbcdaedf5a8fe7d8f3",
         "title": "Analysis: China’s New Jobs Plan Zeros In on AI, Youth Employment",
         "description": "Analysis: China’s New Jobs Plan Zeros In on AI, Youth Employment - The roadmap aims to harness artificial intelligence to create new work opportunities while focusing more on college graduates, as the country grapples with shifting labor demand and a high jobless rate among young people",
@@ -60,102 +156,6 @@
             "id": "28bc60a23a7bf89e60f893506992a3fe",
             "name": "Daily Excelsior",
             "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "de306024bae2a4ef2785bab24ce6b7a0",
-        "title": "SpaceX shares end first week of trading up 37% from IPO price",
-        "description": "Shares of Elon Musk’s rocket, satellite and artificial intelligence company fell 3.6% Thursday, bringing a two-day decline to 8.3%.",
-        "content": "SpaceX stock ended higher in its first week of trading, even though its rough ride showed the largest-ever IPO was not immune to the type of share-price volatility that tends to rock big companies after they go public.\nShares of Elon Musk’s rocket, s... [7606 chars]",
-        "url": "https://www.moneycontrol.com/news/business/spacex-shares-end-first-week-of-trading-up-37-from-ipo-price-13953521.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260515195018_spaceXRTR1.png",
-        "publishedAt": "2026-06-18T22:06:49Z",
-        "lang": "en",
-        "source": {
-            "id": "fd3677545b80d5db7541de8e111d27ba",
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "768bb151ade428703b1de263405499a3",
-        "title": "New National Digital Health Index identifies communities most at risk of being left behind in the digital health era",
-        "description": "As telehealth, remote monitoring and artificial intelligence-powered health tools become increasingly integrated into health care delivery, a new study published in JAMA Network Open introduces the first comprehensive national measure designed to assess whether communities are prepared to benefit from digital health services.",
-        "content": "As telehealth, remote monitoring and artificial intelligence-powered health tools become increasingly integrated into health care delivery, a new study published in JAMA Network Open introduces the first comprehensive national measure designed to ass... [1734 chars]",
-        "url": "https://medicalxpress.com/news/2026-06-national-digital-health-index-communities.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/telehealth.jpg",
-        "publishedAt": "2026-06-18T21:00:08Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "f48228071c408a33cdc70a792299b311",
-        "title": "Conservative Group Plans AI Data Center Protests",
-        "description": "A nationwide protest against the rapid expansion of AI data centers is being organized by a conservative organization calling for stronger safeguards on artificial intelligence.",
-        "content": "A conservative organization calling for stronger safeguards on artificial intelligence is mobilizing activists across the country for a nationwide protest against the rapid expansion of AI data centers.\nHumans First, which advocates for an \"America F... [2363 chars]",
-        "url": "https://www.newsmax.com/us/humans-first-ai-data-centers/2026/06/18/id/1260164/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=eb3f1b7a-4206-48bb-89a6-19857f3bcc99&SiteName=Newsmax",
-        "publishedAt": "2026-06-18T20:51:23Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3e7aa06739a6a63190a5b8977a788329",
-        "title": "AI Is Reshaping the Workplace: Here’s How HR Teams in the UAE Are Preparing Their Workforce",
-        "description": "Explore HR upskilling in artificial intelligence AI to adapt to rapid technological changes in the workplace and enhance employee skills.",
-        "content": "Share\nShare\nShare\nShare\nEmail\nAI is not something that will happen in the future. It is already reshaping how business works. Regardless of whether it is related to automation or improved decision-making, AI is already grabbing the spotlight in workp... [4616 chars]",
-        "url": "https://techbullion.com/ai-is-reshaping-the-workplace-heres-how-hr-teams-in-the-uae-are-preparing-their-workforce/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/06/HR-Teams-in-the-UAE-1000x600.png",
-        "publishedAt": "2026-06-18T19:21:08Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "4723dcae92a8d7ddefb2a82f213b4fa1",
-        "title": "Federal regulators order grid operators to speed power to energy-hungry AI data centers",
-        "description": "Federal regulators have ordered regional grid operators to help large energy users connect more quickly to the nation’s inefficient and aging electric transmission system. They're saying it's a step needed to accommodate surging demand from power-hungry artificial intelligence data centers. The Federal Energy Regulatory Commission said its order leaves states in control of retail electric rates, terms and conditions. The commission’s actions come as a backlash grows against data centers over concerns about the massive amounts of energy and water they use and fears about noise and air pollution, water shortages and a loss of open space or farmland.",
-        "content": "WASHINGTON (AP) — Federal regulators on Thursday ordered regional grid operators to help large energy users connect more quickly to the nation’s inefficient and aging electric transmission system, a step they said is needed to accommodate surging dem... [761 chars]",
-        "url": "https://www.ajc.com/news/2026/06/federal-regulators-order-grid-operators-to-speed-power-to-energy-hungry-ai-data-centers/",
-        "image": "https://images.ajc.com/resizer/v2/IYO34GLNJRBC5JON6TSYAAAIAE.jpg?auth=4b991ae82b4c888226017ccefbd56f441dcff60e97bc6d512db7e172cfdeed9b&width=1200&height=630&smart=true",
-        "publishedAt": "2026-06-18T18:51:17Z",
-        "lang": "en",
-        "source": {
-            "id": "79e9a45376a66fd7e1a4e68bba928c39",
-            "name": "The Atlanta Journal-Constitution",
-            "url": "https://www.ajc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "bdd80a1ca05b4585fc1aa223d553eefd",
-        "title": "India's Artificial Intelligence Data Centres Plan May Hit 'Heat' Hurdle",
-        "description": "The report, 2026 Global Analysis of Planned Data Centres for Physical Climate Risk and Resilience, analysed 2,595 planned data centres worldwide to assess their exposure to direct climate damage.",
-        "content": "As India races to attract billions of dollars in investment for artificial intelligence, cloud computing, and digital infrastructure, a new global assessment warns that the country's next generation of data centres may be increasingly exposed to clim... [4674 chars]",
-        "url": "https://www.ndtv.com/india-news/indias-artificial-intelligence-data-centres-plan-may-hit-heat-hurdle-11656747",
-        "image": "https://c.ndtvimg.com/2026-06/65mko7h8_ais-energy_625x300_06_June_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-06-18T18:47:29Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
             "country": "in"
         }
     }
