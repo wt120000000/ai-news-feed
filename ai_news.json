@@ -1,12 +1,76 @@
 [
     {
-        "id": "60491c64f5e64214d92b3d562d96e620",
-        "title": "Anthropic Has the Template for Fixing Its Mythos Nightmare",
-        "description": "Dario Amodei arrived at the G7 summit this week with a problem few tech bosses have faced: The US government had just treated his newest artificial-intelligence models as too dangerous to export. The Anthropic chief executive officer, long admired for warning Washington about AI’s worst risks, suddenly found those warnings turned back on him.",
-        "content": "Dario Amodei arrived at the G7 summit this week with a problem few tech bosses have faced: The US government had just treated his newest artificial-intelligence models as too dangerous to export. The Anthropic chief executive officer, long admired fo... [434 chars]",
-        "url": "https://www.bloomberg.com/opinion/articles/2026-06-19/anthropic-has-nvidia-template-for-fixing-its-mythos-fable-nightmare",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOsonbYnWg1I/v1/1200x800.jpg",
-        "publishedAt": "2026-06-19T04:00:15Z",
+        "id": "88e5182b72a70db05680f81e4c6073d3",
+        "title": "AI Godfather Says Elon Musk's xAI Is A Failure, Doubts It Can Catch Anthropic Or OpenAI",
+        "description": "The competition in artificial intelligence is intensifying, but Yann LeCun, a renowned AI expert, raises concerns about Elon Musk's company, xAI. , Technology & Science, Times Now",
+        "content": "Yann LeCun has expressed scepticism about Elon Musk's AI venture, xAI, citing significant challenges it faces in competing with leaders like OpenAI and Anthropic. (AI Image)\nThe battle for AI supremacy is becoming increasingly crowded, but not everyo... [3024 chars]",
+        "url": "https://www.timesnownews.com/technology-science/ai-godfather-says-elon-musks-xai-is-a-failure-doubts-it-can-catch-anthropic-or-openai-article-154682540",
+        "image": "https://images.timesnownews.com/thumb/msid-154682540,width-1280,height-720,resizemode-75/154682540.jpg",
+        "publishedAt": "2026-06-19T06:45:56Z",
+        "lang": "en",
+        "source": {
+            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+            "name": "Times Now",
+            "url": "https://www.timesnownews.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "61798a03f3c79abbed1006820692c2ce",
+        "title": "How much AI is too much AI? Smartphones are about to find out",
+        "description": "Tech News News: For years, smartphone makers competed on cameras, chips and battery life. Now, they are locked in a race to cram as much artificial intelligence into .",
+        "content": "For years, smartphone makers competed on cameras, chips and battery life. Now, they are locked in a race to cram as much artificial intelligence into our pockets as possible. Google, Apple, Samsung, Nothing and OnePlus all want their phones to rememb... [4845 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-much-ai-is-too-much-ai-smartphones-are-about-to-find-out/articleshow/131848428.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131848542,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-19T06:04:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "519a4323fd54ce08b4141383ca874ca2",
+        "title": "Amazon employees who called out its data centre expansion are under investigation, here is why",
+        "description": "Amazon is allegedly investigating employees who criticised the company's rapid expansion of artificial intelligence data centres and supported tighter regulation of such projects in Seattle.",
+        "content": "Amazon is reportedly investigating several employees who publicly criticised the company's growing investment in artificial intelligence data centres and called for tighter regulation of such projects in Seattle.\nThe dispute emerged earlier this mont... [3453 chars]",
+        "url": "https://www.indiatoday.in/technology/news/story/amazon-employees-who-called-out-its-data-centre-expansion-are-under-investigation-here-is-why-2929639-2026-06-19",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/amazon-q1-2026-results-303200386-16x9.jpg?VersionId=D7ZKpqj7oEMK68I1e_sK2wRvtNweKPMa",
+        "publishedAt": "2026-06-19T05:52:37Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "d17b6f7e44f7e238437f770d59964884",
+        "title": "Fair Work says stopping AI dismissal claims is an exercise in futility",
+        "description": "Fair Work’s general manager has conceded that it would be “an exercise in futility” to try to stop artificial intelligence affecting the operations of the workplace umpire.",
+        "content": "The unprecedented artificial intelligence-driven surge in dismissal claims has blown out the time to resolve cases from less than four weeks to almost seven as the umpire concedes it cannot stop AI affecting its operations.\nFair Work Commission gener... [250 chars]",
+        "url": "https://www.afr.com/work-and-careers/workplace/from-cut-and-paste-to-days-of-work-how-ai-is-used-on-dismissal-claims-20260619-p608as",
+        "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/74f97dc76b689a9876f20477f892998c031af9fa0de0e221376997047731daf4",
+        "publishedAt": "2026-06-19T05:50:49Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "db45f8974e2bae99554d3dc9ffa91471",
+        "title": "Kotak Mahindra Bank’s Profit Push Carries an AI Warning on Jobs",
+        "description": "Kotak Mahindra Bank Ltd. is aiming to become one of India’s three most profitable private-sector banking groups by 2030, betting that artificial intelligence, tighter cost controls and potential acquisitions can help it narrow the gap with larger rivals.",
+        "content": "Kotak Mahindra Bank Ltd. is aiming to become one of India’s three most profitable private-sector banking groups by 2030, betting that artificial intelligence, tighter cost controls and potential acquisitions can help it narrow the gap with larger riv... [283 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-19/kotak-mahindra-bank-s-profit-push-carries-an-ai-warning-on-jobs",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihqHDhxDWh0s/v1/1200x800.jpg",
+        "publishedAt": "2026-06-19T05:40:00Z",
         "lang": "en",
         "source": {
             "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -16,146 +80,82 @@
         }
     },
     {
-        "id": "a3e749a4dfb0ef30a3156987cdd6e79f",
-        "title": "Apple CEO says AI boom makes price increases 'unavoidable'",
-        "description": "Outgoing Apple CEO Tim Cook warned that demand for memory chips from the artificial intelligence boom will force the tech giant to increase the prices of its products, according to an interview with the Wall Street Journal published on June 17.",
-        "content": "SAN FRANCISCO: Outgoing Apple CEO Tim Cook warned that demand for memory chips from the artificial intelligence boom will force the tech giant to increase the prices of its products, according to an interview with the Wall Street Journal published on... [1193 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/06/19/apple-ceo-says-ai-boom-makes-price-increases-039unavoidable039",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/06/19/3965936.jpg",
-        "publishedAt": "2026-06-19T03:00:00Z",
+        "id": "bd09c16fad60e439013796ea3d446b88",
+        "title": "WA Police to roll out real-time facial recognition to track West Aussies from Monday",
+        "description": "The technology, which uses artificial intelligence to cross-reference faces with a database, will be deployed in WA from Monday.",
+        "content": "For the first time in Australia, police will roll out real-time facial recognition cameras in public areas to scan crowds for suspects and criminals.\nThe technology, which uses artificial intelligence to cross-reference faces with a database, will be... [1809 chars]",
+        "url": "https://www.perthnow.com.au/wa/perth/eye-spy-police-to-deploy-australian-first-surveillance-c-22456334",
+        "image": "https://images.perthnow.com.au/publication/C-22456334/b1f66c24a7d07a82799408b13b772a1b43235f08-16x9-x0y0w1280h720.jpg?imwidth=1200",
+        "publishedAt": "2026-06-19T05:29:58Z",
         "lang": "en",
         "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
+            "id": "7f6e8514e9d8f8376aaa9a7229861518",
+            "name": "PerthNow",
+            "url": "https://www.perthnow.com.au",
+            "country": "au"
         }
     },
     {
-        "id": "8dd96a7f6e6a405c021cc02bcef21c98",
-        "title": "Man vs machine: Who will walk on Mars first?",
-        "description": "As advances in artificial intelligence and robotics accelerate, humanoid robots could be capable of exploring other worlds within the next decade. So who will walk on Mars first?",
-        "content": "The race between humans and machines may extend far beyond Earth.\nAs advances in artificial intelligence and robotics accelerate, humanoid robots could be capable of exploring other worlds within the next decade.\nThat raises a fascinating question: W... [2089 chars]",
-        "url": "https://www.foxweather.com/earth-space/man-vs-machine-who-walk-mars-first-kalshi",
-        "image": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/06/1024/512/gettyimages-615304646-scaled.jpg?ve=1&tl=1",
-        "publishedAt": "2026-06-19T02:39:46Z",
+        "id": "b38e2b1e5029bf2bfbc2d2068c612143",
+        "title": "Infosys, TCS & other Indian IT stocks crash! How Accenture’s warning has led to big sell-off - what brokerages are saying",
+        "description": "India Business News: Indian IT stocks crashed on Friday as growing disruption fears from artificial intelligence weighed on major stocks such as Tata Consultancy Services .",
+        "content": "The latest sell-off has further deepened the sector's troubles, taking the Nifty IT index's decline for calendar year 2026 to 29%. (AI image)\nIndian IT stocks crashed on Friday as growing disruption fears from artificial intelligence weighed on major... [3908 chars]",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/infosys-tcs-other-indian-it-stocks-crash-how-accentures-warning-has-led-to-big-sell-off-what-brokerages-are-saying/articleshow/131847530.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131847806,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-19T05:24:00Z",
         "lang": "en",
         "source": {
-            "id": "cd80188579ee5a2180862a3115ebdca2",
-            "name": "FOX Weather",
-            "url": "https://www.foxweather.com",
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "eced83fc6153c64c10d39b1ceba83c87",
+        "title": "Reality Check: What triggered Accenture's historic stock plunge",
+        "description": "Accenture witnessed one of the sharpest declines in its history after reporting its third-quarter FY26 results. While the company remains optimistic about the long-term opportunity in artificial intelligence, investors reacted negatively to weaker revenue guidance and slowing bookings, raising questions about the pace of enterprise technology spending. (Sources: Barron's, Financial Times, The Motley Fool) ​Accenture's Biggest-Ever Stock Crash",
+        "content": "Accenture witnessed one of the sharpest declines in its history after reporting its third-quarter FY26 results. While the company remains optimistic about the long-term opportunity in artificial intelligence, investors reacted negatively to weaker re... [3400 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/reality-check-what-triggered-accentures-historic-stock-plunge/slideshow/131847579.cms",
+        "image": "https://img.etimg.com/thumb/msid-131847579,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+        "publishedAt": "2026-06-19T05:17:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b456056457b5d8ca42d020c82f7c6759",
+        "title": "Traders’ Latest AI-Related Play Is a Struggling Car Parts Stock",
+        "description": "Investors looking for the stock market’s next artificial intelligence winner have honed in on embattled French car parts maker Valeo SE.",
+        "content": "Investors looking for the stock market’s next artificial intelligence winner have honed in on embattled French car parts maker Valeo SE.\nShares in Valeo, which makes engine cooling parts as well as sensors and displays, surged this month after analys... [288 chars]",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-19/traders-latest-ai-related-play-is-a-struggling-car-parts-stock",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3Jl5XgaiLHw/v0/1200x800.jpg",
+        "publishedAt": "2026-06-19T05:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7006f2c40c7cc01195608dbfd60259b3",
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com",
             "country": "us"
         }
     },
     {
-        "id": "e62f95c4e065f0ffc71eda30b6ce63a2",
-        "title": "Your Social Feed Is About To Change Forever. Here's How",
-        "description": "Industry leaders such as Threads, Instagram, and TikTok are introducing tools that allow users to actively choose, filter, and adjust content topics using artificial intelligence.",
-        "content": "For years, major social media platforms strictly dictated what appeared in content feeds through behind-the-scenes recommendation models. Whilst individuals could use basic tools like unfollowing or tapping a \"not interested\" button, the central plat... [1761 chars]",
-        "url": "https://www.ndtv.com/feature/instagram-threads-tiktok-your-social-feed-is-about-to-change-forever-heres-how-11657488",
-        "image": "https://c.ndtvimg.com/2026-06/p2si5pb8_instagram-threads-tiktok_625x300_19_June_26.jpeg",
-        "publishedAt": "2026-06-19T02:38:38Z",
+        "id": "8bc4f51c2cccfd8ebc7ba3262a914143",
+        "title": "AI is coming for your job, but what If it also paid you $60,000 a year?",
+        "description": "Imagine losing your job to artificial intelligence, and still taking home upwards of $60,000 a year. That is the core promise of Universal High Income, a concept gaining serious traction among AI thinkers, policymakers, and even Elon Musk. It sounds far-fetched. But the debate has moved well beyond theory. What happens when AI takes your job, but still pays your bills?",
+        "content": "Imagine losing your job to artificial intelligence, and still taking home upwards of $60,000 a year. That is the core promise of Universal High Income, a concept gaining serious traction among AI thinkers, policymakers, and even Elon Musk. It sounds ... [2469 chars]",
+        "url": "https://economictimes.indiatimes.com/wealth/earn/ai-is-coming-for-your-job-but-what-if-it-also-paid-you-60000-a-year/slideshow/131847499.cms",
+        "image": "https://img.etimg.com/thumb/msid-131847499,width-1200,height-900,overlay-etwealth/slideshow.jpg",
+        "publishedAt": "2026-06-19T05:11:00Z",
         "lang": "en",
         "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "5ecce4458423661c0c3712c6330b463c",
-        "title": "John Waters Would Use AI To \"Cure Cancer\" But \"Not To Help Me Write\"",
-        "description": "The Pope of Trash has weighed in on the future of artificial intelligence as many remain divided on its place in Hollywood.",
-        "content": "The Pope of Trash has weighed in on the future of artificial intelligence as many remain divided on its place in Hollywood.\nIn a recent interview, John Waters explained that he thought AI “would be good for pornography” but discovered he was wrong, a... [1093 chars]",
-        "url": "https://deadline.com/2026/06/john-waters-would-not-use-ai-help-me-write-1236962505/",
-        "image": "https://deadline.com/wp-content/uploads/2026/06/P115WFS6-e1781833262875.jpg?w=750",
-        "publishedAt": "2026-06-19T01:52:47Z",
-        "lang": "en",
-        "source": {
-            "id": "9a0aedadcf2d0a6144f3064cb144bae4",
-            "name": "Deadline",
-            "url": "https://deadline.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3dd37710b6443959924824b94ef75ce7",
-        "title": "OpenAI eyes bigger India team in pursuit of AGI",
-        "description": "OpenAI plans to expand its India engineering team to develop a context-aware personalized voice AI assistant in its push towards artificial general intelligence",
-        "content": "Muchhal said language and culture are central to building more capable AI systems. While AGI can mean different things to different people, its ultimate goal is to improve lives and eventually handle any task. “(And) for that to happen, AGI needs to ... [2728 chars]",
-        "url": "https://www.livemint.com/ai/artificial-intelligence/openai-india-team-artificial-general-intelligence-personlised-voice-ai-assistant-chatgpt-anthropic-google-11781766302966.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/06/18/1600x900/logo/TECH-AI-OPENAI-SHAZEER-0_1781782411184_1781782425616_ae19f0f4-5aad-41ff-8496-5b44fd2aa7d8.JPG",
-        "publishedAt": "2026-06-19T00:15:26Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "61fa52cf7fc5bfbbcdaedf5a8fe7d8f3",
-        "title": "Analysis: China’s New Jobs Plan Zeros In on AI, Youth Employment",
-        "description": "Analysis: China’s New Jobs Plan Zeros In on AI, Youth Employment - The roadmap aims to harness artificial intelligence to create new work opportunities while focusing more on college graduates, as the country grapples with shifting labor demand and a high jobless rate among young people",
-        "content": "1. [para. 1][para. 2][para. 3][para. 4] China’s State Council issued a five-year employment plan implementing the “employment-first strategy” through 2030, marking an upgrade from previous “employment promotion” titles. The plan makes high-quality an... [3874 chars]",
-        "url": "https://www.caixinglobal.com/2026-06-19/analysis-chinas-new-jobs-plan-zeros-in-on-ai-youth-employment-102455779.html",
-        "image": "https://img.caixin.com/2026-06-18/178176623996713_560_373.jpg",
-        "publishedAt": "2026-06-19T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "f6aff458be2c33b80c8600fb696f68fb",
-            "name": "Caixin",
-            "url": "https://www.caixinglobal.com",
-            "country": "cn"
-        }
-    },
-    {
-        "id": "ec9c382ae9d359f84f25ba347c4c9b16",
-        "title": "In Depth: How AI Is Rewiring White",
-        "description": "In Depth: How AI Is Rewiring White-Collar Work in China - As companies race to cut costs, artificial intelligence is merging roles, raising output expectations and leaving workers scrambling to keep up",
-        "content": "“Did you know? My mom got laid off!”\nWu Qiong’s daughter leaned toward a classmate at kindergarten, eager to share the “news.”\nThe child did not understand the gravity of a layoff. To her, it was simply the latest novelty in her mother’s life.\nFor Wu... [311 chars]",
-        "url": "https://www.caixinglobal.com/2026-06-19/in-depth-how-ai-is-rewiring-white-collar-work-in-china-102455431.html",
-        "image": "https://img.caixin.com/2026-06-18/178176770101752_560_373.jpg",
-        "publishedAt": "2026-06-19T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "f6aff458be2c33b80c8600fb696f68fb",
-            "name": "Caixin",
-            "url": "https://www.caixinglobal.com",
-            "country": "cn"
-        }
-    },
-    {
-        "id": "16a7e62bd12bb3bd2062f0f6d96a19f5",
-        "title": "Reliance Industries AGM 2026: Five key things investors will watch for",
-        "description": "Investors and market participants will keenly be awaiting fresh details on the listing of the telecom arm, progress on the new energy firm, and watch for any update on the company’s plans in the area of artificial intelligence (AI).",
-        "content": "Oil-to-telecom conglomerate Reliance Industries' 49th Annual General Meeting (AGM) will be held later today, on June 19. Investors and market participants will keenly be awaiting fresh details on the listing of the telecom arm, progress on the new en... [3407 chars]",
-        "url": "https://www.moneycontrol.com/news/business/markets/reliance-industries-agm-2026-five-key-things-investors-will-watch-for-13953316.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260506122417_reliance-industries.jpg",
-        "publishedAt": "2026-06-18T23:30:06Z",
-        "lang": "en",
-        "source": {
-            "id": "fd3677545b80d5db7541de8e111d27ba",
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "bffa6d7827e7414edb2f22fa0fb02f5c",
-        "title": "At VivaTech 2026, Modi bats for democratisation of tech; says for India AI means 'All Inclusive'",
-        "description": "PARIS, Jun 18 : Prime Minister Narendra Modi on Thursday made a strong pitch for democratisation of technology, asserting that AI means 'all inclusive' for India, days after the US imposed curbs on access to certain artificial intelligence models. Addressing...",
-        "content": "PARIS, Jun 18 : Prime Minister Narendra Modi on Thursday made a strong pitch for democratisation of technology, asserting that AI means \"all inclusive\" for India, days after the US imposed curbs on access to certain artificial intelligence models.\nAd... [3127 chars]",
-        "url": "https://www.dailyexcelsior.com/at-vivatech-2026-modi-bats-for-democratisation-of-tech-says-for-india-ai-means-all-inclusive/",
-        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTdiMDUwMjYwLTZiNjktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-06-18T23:00:19Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
