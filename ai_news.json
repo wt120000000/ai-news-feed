@@ -1,5 +1,101 @@
 [
     {
+        "id": "689254d04f8ef1eff6b42cb6ae6cd215",
+        "title": "Trump tells Axios he doesn’t see Anthropic as U.S. security threat",
+        "description": "President Trump said he doesn’t view Anthropic PBC as a national-security threat, days after his administration took steps to cut off foreign access to the tech company’s most advanced artificial intelligence models.",
+        "content": "President Trump said he doesn’t view Anthropic PBC as a national-security threat, days after his administration took steps to cut off foreign access to the tech company’s most advanced artificial intelligence models.\nThe government’s order poses a ch... [2210 chars]",
+        "url": "https://www.latimes.com/business/story/2026-06-19/trump-tells-axios-he-doesnt-see-anthropic-as-u-s-security-threat",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/6bc4663/2147483647/strip/true/crop/7140x3749+0+506/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa1%2F70%2F647c527e46e08cd48348d732d18f%2F1e82b5de757e411abcdb85a499d8170a.jpg",
+        "publishedAt": "2026-06-20T01:08:41Z",
+        "lang": "en",
+        "source": {
+            "id": "492abf277b7277432148b61b21ddc836",
+            "name": "Los Angeles Times",
+            "url": "https://www.latimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "fa1a9c7ed7cc25c7265fb705eb77daec",
+        "title": "Jeff Bezos rejects AI is wiping away millions of jobs argument; repeats his 'labour scarcity' statement; says: AI is going to ...",
+        "description": "Tech News News: Amazon founder Jeff Bezos has once again dismissed concerns about artificial intelligence (AI) taking away human jobs. Speaking at the VivaTech confer.",
+        "content": "Amazon founder Jeff Bezos has once again dismissed concerns about artificial intelligence (AI) taking away human jobs. Speaking at the VivaTech conference in Paris, Bezos said he disagrees with the view that AI will make workers redundant. Instead, h... [3831 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-rejects-ai-is-wiping-away-millions-of-jobs-argument-repeats-his-labour-scarcity-statement-says-ai-is-going-to-/articleshow/131866548.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131866543,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-20T00:46:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "e71475d79cfcb1b87bab9bcbfcf36b71",
+        "title": "AI Didn’t Kill Coding Jobs. It Created a New Industry",
+        "description": "The rise of AI slop refactoring is creating new demand for experienced engineers to turn AI-generated prototypes into production-ready software. For nearly four years, the tech industry has been flooded with predictions that artificial intelligence would replace software developers. The narrative gained momentum with the rise of \"vibe coding,\" a term popularized by OpenAI co-founder",
+        "content": "The rise of AI slop refactoring is creating new demand for experienced engineers to turn AI-generated prototypes into production-ready software.\nFor nearly four years, the tech industry has been flooded with predictions that artificial intelligence w... [19343 chars]",
+        "url": "https://techstartups.com/2026/06/19/ai-didnt-kill-coding-jobs-it-created-a-new-industry/",
+        "image": "https://techstartups.com/wp-content/uploads/2026/06/AI-Didnt-Kill-Coding-Jobs-The-Rise-of-AI-Slop-Refactoring-960x559.jpg",
+        "publishedAt": "2026-06-20T00:34:21Z",
+        "lang": "en",
+        "source": {
+            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+            "name": "TechStartups.com",
+            "url": "https://techstartups.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7e063ee33a4bbbd20d9221b6126db239",
+        "title": "Automakers and workers face existential fight over robots, future",
+        "description": "Automakers and workers are teed up for what each side views as a fight for existence — with cobots in the middle and already operating inside General Motors Co's Factory ZERO in Detroit. Artificial intelligence, robots and automation took center stage in Detroit during this week's UAW Constitutional Convention and Reindustrialize, an industry conference focused on tech, manufacturing and ...",
+        "content": "Automakers and workers are teed up for what each side views as a fight for existence – with cobots in the middle and already operating inside General Motors Co’s Factory ZERO in Detroit.\nArtificial intelligence, robots and automation took center stag... [5454 chars]",
+        "url": "https://www.spokesman.com/stories/2026/jun/20/automakers-and-workers-face-existential-fight-over/",
+        "image": "https://thumb.spokesman.com/9cLH3EejP6w9zjOTfzJExh3PO9w=/1200x630/smart/media.spokesman.com/photos/2026/06/19/6a35a00704fd3.hires.jpg",
+        "publishedAt": "2026-06-20T00:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c8c865ed042eb14694b8d596e22efe99",
+            "name": "Spokane Spokesman-Review",
+            "url": "https://www.spokesman.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "f497053424fced87645001b42b77b01e",
+        "title": "Amazon’s Movie Arm Abandons Film About OpenAI",
+        "description": "The company, which invested $50 billion in the artificial intelligence start-up this year, will let the team behind the film, “Artificial,” try to sell the project to another studio.",
+        "content": "Amazon’s movie arm is abandoning an upcoming film, “Artificial,” about Sam Altman and his rocky road to becoming the chief executive of OpenAI.\nAmazon, which announced plans to invest $50 billion in OpenAI this year, said in a statement on Friday tha... [2054 chars]",
+        "url": "https://www.nytimes.com/2026/06/19/business/media/amazon-openai-artificial-movie-sam-altman.html",
+        "image": "https://static01.nyt.com/images/2026/06/19/multimedia/19biz-artificial-pmcj/19biz-artificial-pmcj-facebookJumbo.jpg",
+        "publishedAt": "2026-06-20T00:11:02Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "bf02a60591bec16bd6f2f61fd1f9c86f",
+        "title": "Provincial AI strategy could protect residents, scale Sask. workforce: advocates",
+        "description": "Advocates in Saskatchewan say a provincial artificial intelligence strategy could help protect residents and strengthen the workforce.",
+        "content": "As Canada works to implement a national strategy around artificial intelligence, announced earlier this month, advocates in Saskatchewan say a provincial version could help, too.\nThe federal government unveiled Canada’s new AI strategy on June 4, cen... [3388 chars]",
+        "url": "https://globalnews.ca/news/11914167/provincial-ai-strategy-residents-sask-workforce-advocates/",
+        "image": "https://globalnews.ca/wp-content/uploads/2026/06/ai-innovation-privacy-commissioner.bmp?w=720&h=379&crop=1",
+        "publishedAt": "2026-06-20T00:02:40Z",
+        "lang": "en",
+        "source": {
+            "id": "49853ffafc28f405ff8ed06043290ae8",
+            "name": "Global News",
+            "url": "https://globalnews.ca",
+            "country": "ca"
+        }
+    },
+    {
         "id": "5764e40fc0288971f2d4d8c5cf9d9b0d",
         "title": "Trump tells Axios he no longer views Anthropic as national security threat",
         "description": "June 19 (Reuters) - U.S. President ⁠Donald Trump said he might have viewed artificial intelligence company ⁠Anthropic as a national security threat last week, but he ‌no longer does, according to an interview with \"The Axios Show\" published on Friday.",
@@ -61,102 +157,6 @@
             "name": "News18",
             "url": "https://www.news18.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "5d79855aaaeb70c01ee9478c277cbf6c",
-        "title": "Trump tells Axios he no longer views Anthropic as national security threat",
-        "description": "U.S. President Donald Trump said he might have viewed artificial intelligence company Anthropic as a national security threat last ​week, but he no longer does, according to an ‌interview with \"The Axios Show\" published on Friday.",
-        "content": "June 19 (Reuters) - U.S. President Donald Trump said he might have viewed artificial intelligence company Anthropic as a national security threat last ​week, but he no longer does, according to an ‌interview with \"The Axios Show\" published on Friday.... [493 chars]",
-        "url": "https://www.reuters.com/world/us/trump-tells-axios-he-no-longer-views-anthropic-national-security-threat-2026-06-19/",
-        "image": "https://www.reuters.com/resizer/v2/XFBVJZ4LUVOTNERQF7LH56TK4Q.jpg?auth=cd88de0a3a03a0b0a30743a7e8ebb995b663ad63c5d96ed6c33c443479172e70&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-06-19T19:55:53Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0f07716af4403e95120bca79298674c6",
-        "title": "Trump tells Axios he no longer views Anthropic as national security threat",
-        "description": "U.S. President Donald Trump said he might have viewed artificial intelligence company Anthropic as a national security threat last week, but he no longer does, according to an interview with The Axios...\n-June 19, 2026 at 03:53 pm EDT\n- MarketScreener",
-        "content": "June 19 (Reuters) - U.S. President Donald Trump said he might have viewed artificial intelligence company Anthropic as a national security threat last week, but he no longer does, according to an interview with \"The Axios Show\" published on Friday.\nS... [1427 chars]",
-        "url": "https://www.marketscreener.com/news/trump-tells-axios-he-no-longer-views-anthropic-as-national-security-threat-ce7f5cd2de89f326",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-09T173510Z_1_LYNXMPEM581C9_RTROPTP_4_ANTHROPIC-AI.JPG",
-        "publishedAt": "2026-06-19T19:53:43Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "aeda990ecd22da5f055a1e8a99484d57",
-        "title": "Trump Tells Axios He Doesn’t See Anthropic as US Security Threat",
-        "description": "President Donald Trump said he doesn’t view Anthropic PBC as a national-security threat, days after his administration took steps to cut off foreign access to the tech company’s most advanced artificial intelligence models.",
-        "content": "President Donald Trump said he doesn’t view Anthropic PBC as a national-security threat, days after his administration took steps to cut off foreign access to the tech company’s most advanced artificial intelligence models.\nIn a pretaped interviewBlo... [299 chars]",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-19/trump-tells-axios-he-doesn-t-see-anthropic-as-us-security-threat",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1zEdjcxHEBU/v1/1200x800.jpg",
-        "publishedAt": "2026-06-19T19:49:23Z",
-        "lang": "en",
-        "source": {
-            "id": "7006f2c40c7cc01195608dbfd60259b3",
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f2986f826883db436002fb69d3b46218",
-        "title": "DeepSeek Slaps Investors With Non-Negotiable No-Poaching Clause in $7.4B Funding Round",
-        "description": "China’s most valuable artificial intelligence (AI) startup, DeepSeek, has drawn a bold line in the sand with its just-completed maiden funding r...",
-        "content": "China’s most valuable artificial intelligence (AI) startup, DeepSeek, has drawn a bold line in the sand with its just-completed maiden funding round. To protect its elite workforce from aggressive tech rivals, DeepSeek’s founder, Liang Wenfeng, has i... [2476 chars]",
-        "url": "https://markets.businessinsider.com/news/stocks/deepseek-slaps-investors-with-non-negotiable-no-poaching-clause-in-7-4b-funding-round-1036263505",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-20-1-1024x521.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-06-19T19:26:58Z",
-        "lang": "en",
-        "source": {
-            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-            "name": "Markets Insider",
-            "url": "https://markets.businessinsider.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4c181be32fabbd62ea9fedb769643d97",
-        "title": "powered governance to improve traffic, public services",
-        "description": "Delhi’s administration is preparing to place artificial intelligence (AI) at the centre of urban governance, with Lieutenant-Governor Sardar TS Sandhu on Thursday indicating that the technology could soon be used across sectors ranging from traffic management and environmental monitoring to infrastructure maintenance and grievance redressal.",
-        "content": "Delhi’s administration is preparing to place artificial intelligence (AI) at the centre of urban governance, with Lieutenant-Governor Sardar TS Sandhu on Thursday indicating that the technology could soon be used across sectors ranging from traffic m... [2227 chars]",
-        "url": "https://www.tribuneindia.com/news/delhi/delhi-eyes-ai-powered-governance-to-improve-traffic-public-services/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdkMjBlZTMwLTZjMTEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-06-19T19:02:56Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "398c58819384144314ee5cc83d7b1e92",
-        "title": "Abu Dhabi's MGX weighs multi-billion deal for data center operator DayOne, sources say",
-        "description": "Abu Dhabi-backed artificial intelligence investor MGX has been exploring buying Singapore-based data ‌centre operator DayOne, three sources said, in what would mark a major step in its global expansion into the technology.",
-        "content": "LONDON/DUBAI/HONG KONG, June 19 (Reuters) - Abu Dhabi-backed artificial intelligence investor MGX has been exploring buying Singapore-based data ‌centre operator DayOne, three sources said, in what would mark a major step in its global expansion into... [2325 chars]",
-        "url": "https://www.reuters.com/world/asia-pacific/abu-dhabis-mgx-weighs-multi-billion-deal-data-centre-operator-dayone-sources-say-2026-06-19/",
-        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-06-19T18:50:55Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
         }
     }
 ]
