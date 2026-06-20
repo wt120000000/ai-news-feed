@@ -1,5 +1,21 @@
 [
     {
+        "id": "f14da5592596b2ca3f300207600bf621",
+        "title": "Whether Artificial General Intelligence Will Arise Spontaneously Or Via Slow Roll",
+        "description": "Many believe that pinnacle AI of AGI or ASI will only be reached via spontaneous intelligence explosion. This forsakes the incremental path. Here's the full inside scoop.",
+        "content": "In today’s column, I do some myth-busting by taking apart a prevailing assumption that attaining artificial general intelligence (AGI) and artificial superintelligence (ASI) will of necessity happen on a spontaneous basis. The prevailing wisdom is th... [14120 chars]",
+        "url": "https://www.forbes.com/sites/lanceeliot/2026/06/20/whether-artificial-general-intelligence-will-arise-spontaneously-or-via-slow-roll/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67dba144fbaeade39f12da30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-06-20T07:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "a0300bc9a6e9d5b317bd6f614767231f",
+            "name": "Forbes",
+            "url": "https://www.forbes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b81152e5862c14c0b7b511c50666031c",
         "title": "Trump makes major U-turn on Anthropic; says AI firm is no longer a national security threat",
         "description": "US President Donald Trump stated that he previously considered the artificial intelligence company Anthropic to be a national security threat. The statement came during an interview with “The...",
@@ -140,22 +156,6 @@
             "id": "c8c865ed042eb14694b8d596e22efe99",
             "name": "Spokane Spokesman-Review",
             "url": "https://www.spokesman.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f497053424fced87645001b42b77b01e",
-        "title": "Amazon’s Movie Arm Abandons Film About OpenAI",
-        "description": "The company, which invested $50 billion in the artificial intelligence start-up this year, will let the team behind the film, “Artificial,” try to sell the project to another studio.",
-        "content": "Amazon’s movie arm is abandoning an upcoming film, “Artificial,” about Sam Altman and his rocky road to becoming the chief executive of OpenAI.\nAmazon, which announced plans to invest $50 billion in OpenAI this year, said in a statement on Friday tha... [2054 chars]",
-        "url": "https://www.nytimes.com/2026/06/19/business/media/amazon-openai-artificial-movie-sam-altman.html",
-        "image": "https://static01.nyt.com/images/2026/06/19/multimedia/19biz-artificial-pmcj/19biz-artificial-pmcj-facebookJumbo.jpg",
-        "publishedAt": "2026-06-20T00:11:02Z",
-        "lang": "en",
-        "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
             "country": "us"
         }
     }
