@@ -1,5 +1,37 @@
 [
     {
+        "id": "b81152e5862c14c0b7b511c50666031c",
+        "title": "Trump makes major U-turn on Anthropic; says AI firm is no longer a national security threat",
+        "description": "US President Donald Trump stated that he previously considered the artificial intelligence company Anthropic to be a national security threat. The statement came during an interview with “The...",
+        "content": "US President Donald Trump stated that he previously considered the artificial intelligence company Anthropic to be a national security threat. The statement came during an interview with “The Axios Show” published on Friday, signaling a major turnaro... [1344 chars]",
+        "url": "https://www.thenews.com.pk/latest/1406584-trump-makes-major-u-turn-on-anthropic-says-ai-firm-is-no-longer-a-national-security-threat",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-06-20/1406584_110144_updates.jpg",
+        "publishedAt": "2026-06-20T06:01:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "1c5d67ba25efaa3838849d94e90db5d5",
+        "title": "TGCSB's IntraGPT gives Telangana cops instant access to years of case records",
+        "description": "HYDERABAD: The Telangana Cyber Security Bureau (TGCSB) has developed IntraGPT, an offline artificial intelligence platform that enables police officer.",
+        "content": "Telangana police have launched IntraGPT, an offline AI platform to swiftly search years of case records using simple language\nHYDERABAD: The Telangana Cyber Security Bureau (TGCSB) has developed IntraGPT, an offline artificial intelligence platform t... [2259 chars]",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/tgcsbs-intragpt-gives-telangana-cops-instant-access-to-years-of-case-records/articleshow/131870888.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131870934,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-20T05:26:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "b892a0201e0b09a138bf478240b56a69",
         "title": "Delhi LG Sandhu says AI can transform governance, improve civic services and efficiency",
         "description": "Addressing an AI governance seminar, Sandhu said artificial intelligence can aid traffic, infrastructure, environment monitoring and grievance redressal.",
@@ -125,38 +157,6 @@
             "name": "The New York Times",
             "url": "https://www.nytimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "bf02a60591bec16bd6f2f61fd1f9c86f",
-        "title": "Provincial AI strategy could protect residents, scale Sask. workforce: advocates",
-        "description": "Advocates in Saskatchewan say a provincial artificial intelligence strategy could help protect residents and strengthen the workforce.",
-        "content": "As Canada works to implement a national strategy around artificial intelligence, announced earlier this month, advocates in Saskatchewan say a provincial version could help, too.\nThe federal government unveiled Canada’s new AI strategy on June 4, cen... [3388 chars]",
-        "url": "https://globalnews.ca/news/11914167/provincial-ai-strategy-residents-sask-workforce-advocates/",
-        "image": "https://globalnews.ca/wp-content/uploads/2026/06/ai-innovation-privacy-commissioner.bmp?w=720&h=379&crop=1",
-        "publishedAt": "2026-06-20T00:02:40Z",
-        "lang": "en",
-        "source": {
-            "id": "49853ffafc28f405ff8ed06043290ae8",
-            "name": "Global News",
-            "url": "https://globalnews.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "5764e40fc0288971f2d4d8c5cf9d9b0d",
-        "title": "Trump tells Axios he no longer views Anthropic as national security threat",
-        "description": "June 19 (Reuters) - U.S. President ⁠Donald Trump said he might have viewed artificial intelligence company ⁠Anthropic as a national security threat last week, but he ‌no longer does, according to an interview with \"The Axios Show\" published on Friday.",
-        "content": "June 19 (Reuters) - U.S. President ⁠Donald Trump said he might have viewed artificial intelligence company ⁠Anthropic as a national security threat last week, but he ‌no longer does, according to an interview with \"The Axios Show\" published on Friday... [1448 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/06/20/trump-tells-axios-he-no-longer-views-anthropic-as-national-security-threat",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/06/20/3967686.jpg",
-        "publishedAt": "2026-06-19T23:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
