@@ -1,5 +1,37 @@
 [
     {
+        "id": "29f28ef3176554e23bb8e7529a0867f0",
+        "title": "Chip supply to stay constrained 'beyond 2027,' Micron executives say",
+        "description": "Demand driven by artificial intelligence will keep conditions tight beyond calendar year 2027, said CEO Sanjay Mehrotra.",
+        "content": "Memory chipmaker Micron Technology blew past expectations on revenue and earnings per share in its fiscal third quarter on Wednesday, but analysts were laser-focused on the company's future pricing power during the earnings call. Micron CEO Sanjay Me... [3318 chars]",
+        "url": "https://www.cnbc.com/2026/06/24/chip-supply-to-stay-constrained-beyond-2027-micron-executives-say.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108279191-1773779927968-gettyimages-2256071928-MICRON_NY.jpeg?v=1778011808&w=1920&h=1080",
+        "publishedAt": "2026-06-24T23:11:56Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a152c4f7cd926f52cc4294f91dadedf7",
+        "title": "AI chatbots show left-wing bias, bombshell report finds; ChatGPT gives lefty answers 80% of time",
+        "description": "Artificial-intelligence chatbots show a strongly left-leaning political bias – contrary to what leading AI companies claim, according to a bombshell report.",
+        "content": "Artificial-intelligence chatbots show a strongly left-leaning political bias — contrary to what leading AI companies claim, according to a bombshell report.\nWhen asked about issues from DEI and gay conversion to campaign finance and defunding the pol... [3918 chars]",
+        "url": "https://nypost.com/2026/06/24/media/ai-chatbots-show-left-wing-bias-bombshell-report-finds-chatgpt-gives-lefty-answers-80-of-time/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/Anthropic-CEO-comp.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-06-24T22:51:40Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "4b22b3b185fb484ccd2a4249664efeb1",
         "title": "Thailand data usage beats global average",
         "description": "Thailand's data consumption is expected to exceed the global average by 2031, driven by artificial intelligence (AI) applications, extended reality devices and video generation, says Ericsson.",
@@ -125,38 +157,6 @@
             "name": "Phys.org",
             "url": "https://phys.org",
             "country": "gb"
-        }
-    },
-    {
-        "id": "f59245a48f0b74021621f0fe6c551a44",
-        "title": "The Physical AI Era Has Arrived. The Real Question Is Who's Steering It?",
-        "description": "According to Monty McCoy, owner of McCoy Ventures LLC, many people still view artificial intelligence through the lens of chatbots and digital assistants, even as a far more tangible transformation",
-        "content": "Today, autonomous vehicles are navigating city streets, and robots are delivering meals in restaurants. Smart cameras, thermostats, environmental controls, and connected devices are seemingly coordinating activities across homes and workplaces. Accor... [5491 chars]",
-        "url": "https://www.ibtimes.com/physical-ai-era-has-arrived-real-question-whos-steering-it-3804526",
-        "image": "https://d.ibtimes.com/en/full/4650553/monty-mccoy.png",
-        "publishedAt": "2026-06-24T19:52:48Z",
-        "lang": "en",
-        "source": {
-            "id": "933344203c2b862af768b5e662a162a4",
-            "name": "International Business Times",
-            "url": "https://www.ibtimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "7d7f9e72639f82a94e4935435ae64d32",
-        "title": "Qualcomm to Buy Modular for $3.9B to Help AI Push",
-        "description": "Bloomberg's Ryan Gould joins Dani Burger on Bloomberg Deals. Qualcomm said it is acquiring Modular for about $3.9 billion in stock, adding artificial intelligence software capabilities that will...",
-        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-        "url": "https://www.marketscreener.com/news/qualcomm-to-buy-modular-for-3-9b-to-help-ai-push-ce7f5fdbd080f024",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3654434.png",
-        "publishedAt": "2026-06-24T19:48:25Z",
-        "lang": "en",
-        "source": {
-            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-            "name": "MarketScreener",
-            "url": "https://www.marketscreener.com",
-            "country": "fr"
         }
     }
 ]
