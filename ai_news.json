@@ -1,5 +1,37 @@
 [
     {
+        "id": "2e90ea51a86d6a6a6ed321e832b66e3f",
+        "title": "US warns China stealing AI secrets",
+        "description": "US warns China stealing AI secrets - Washington, June 27 US lawmakers have warned that China is intensifying efforts to acquire American artificial intelligence technology ... Get Latest News on International only on lokmattimes.com",
+        "content": "Washington, June 27 US lawmakers have warned that China is intensifying efforts to acquire American artificial intelligence technology and other advanced innovations through economic espionage, cyber operations and commercial investments, describing ... [2865 chars]",
+        "url": "https://www.lokmattimes.com/international/us-warns-china-stealing-ai-secrets/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606273840946_202606.jpg",
+        "publishedAt": "2026-06-27T01:17:29Z",
+        "lang": "en",
+        "source": {
+            "id": "f2ddccedc9e60d844e7a1045928cad48",
+            "name": "Lokmat Times",
+            "url": "https://www.lokmattimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "49c0fe56cf93dbc3e2830458b1313e46",
+        "title": "U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model",
+        "description": "The move de-escalates a clash between the Trump administration and the company over its cutting-edge artificial intelligence systems.",
+        "content": "Anthropic and the Trump administration reached a deal on Friday to bring one of the company’s most powerful artificial intelligence models back online, after days of tense negotiations.\nIn a letter sent to Anthropic, the Commerce Department gave the ... [1395 chars]",
+        "url": "https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html",
+        "image": "https://static01.nyt.com/images/2026/06/26/business/26biz-anthropic-deal-mythos/26biz-anthropic-deal-mythos-facebookJumbo.jpg",
+        "publishedAt": "2026-06-27T00:21:36Z",
+        "lang": "en",
+        "source": {
+            "id": "e553cce06d349ac1f7fbb7618a979256",
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "661a8ec83d8e77c4b756db353ebbf997",
         "title": "XMax Announces Up to Approximately US$25 million in AI API-Related Service Contracts and Expansion into GPU-as-a-Service",
         "description": "LOS ANGELES, June 26, 2026 (GLOBE NEWSWIRE) -- XMax Inc. (Nasdaq: XMAX) ('XMax' or the 'Company') today announced a significant commercial milestone in its artificial intelligence business, reporting that since launching its AI platform initiative, the Company has executed multiple AI model API service agreements with an aggregate contractual value of up to approximately US$25 million, subject to actual service usage and consumption levels.",
@@ -125,38 +157,6 @@
             "name": "Daily Excelsior",
             "url": "https://www.dailyexcelsior.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "ec89d4fba15c64caa47277065ea9a6b9",
-        "title": "Regional: Pg&E Uses Artificial Intelligence To Weigh Elevated Fire Risk",
-        "description": "Pacific Gas & Electric is increasingly turning to artificial intelligence to refine the accuracy of weather models as it forecasts an above average risk in the wildfire season.",
-        "content": "Pacific Gas & Electric is increasingly turning to artificial intelligence to refine the accuracy of weather models as it forecasts an above average risk in the wildfire season.\nThe utility has issued Public Safety Power Shutoffs since 2018 to cut pow... [2273 chars]",
-        "url": "https://www.sfgate.com/news/bayarea/article/regional-pg-e-uses-artificial-intelligence-to-22323204.php",
-        "image": "https://s.hdnux.com/photos/01/66/54/10/31113741/3/rawImage.jpg",
-        "publishedAt": "2026-06-26T22:17:03Z",
-        "lang": "en",
-        "source": {
-            "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-            "name": "SFGATE",
-            "url": "https://www.sfgate.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6e3962084f1eca28ed7466aa4e48e4db",
-        "title": "GOP candidates clash over credit for AI in ESA program",
-        "description": "Key Points: Schools superintendent, treasurer, dispute credit for AI improvement implementation Race to rollout new technology comes as two faceoff in July primary election AI upgrades remain top priority to address ongoing misspending, oversight woes An artificial intelligence arms race is unfolding between the state treasurer and superintendent of public instruction over Arizona’s $1 billion An artificial intelligence arms race is unfolding between the state treasurer and superintendent of public instruction over the state's ESA program.",
-        "content": "Key Points:\nSchools superintendent, treasurer, dispute credit for AI improvement implementation\nRace to rollout new technology comes as two faceoff in July primary election\nAI upgrades remain top priority to address ongoing misspending, oversight woe... [5031 chars]",
-        "url": "https://azcapitoltimes.com/news/2026/06/26/gop-candidates-clash-over-credit-for-ai-in-esa-program/",
-        "image": "https://azcapitoltimes.com/files/2026/06/Untitled-design-5.png",
-        "publishedAt": "2026-06-26T22:00:17Z",
-        "lang": "en",
-        "source": {
-            "id": "0289eb2190ee47ce5d9073c58959546d",
-            "name": "Arizona Capitol Times",
-            "url": "https://azcapitoltimes.com",
-            "country": "us"
         }
     }
 ]
