@@ -1,5 +1,85 @@
 [
     {
+        "id": "379faf32dec9a3901b8cc238a3475b44",
+        "title": "New future of work",
+        "description": "Gen Alpha's arrival is expected to reshape and be shaped by workplace expectations in an age defined by artificial intelligence.",
+        "content": "JUST as employers begin to understand their Gen Z workers, a new cohort is knocking on their door: Generation Alpha.\nGen Z (born between 1997 and 2009) is reshaping the Malaysian working environment through shifting expectations around flexibility, p... [5999 chars]",
+        "url": "https://www.thestar.com.my/news/focus/2026/06/28/new-future-of-work",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/06/28/3980878.jpg",
+        "publishedAt": "2026-06-27T23:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "5d53bc8dcf6d87d6b7a8165226434644",
+        "title": "The $7 Trillion AI Boom Is Turning Into The Energy Trade of the Century",
+        "description": "The rapid expansion of artificial intelligence is being constrained not by chips or software, but by access to reliable, scalable electricity infrastructure.",
+        "content": "You might think that Shark Tank’s “Mr. Wonderful,” Kevin O’Leary, is betting it all on AI, but he is not.\nHe is betting on the $5+ trillion in infrastructure required to run it, and that’s where big capital is flowing now.\nAnd he’s betting on Bitzero... [15327 chars]",
+        "url": "https://oilprice.com/Energy/Energy-General/The-7-Trillion-AI-Boom-Is-Turning-Into-The-Energy-Trade-of-the-Century.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-27_igwldvjoqs.jpg",
+        "publishedAt": "2026-06-27T23:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
+            "name": "OilPrice",
+            "url": "https://oilprice.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6ddc0db87f682e07f580c9167e19fe92",
+        "title": "US Govt to Vet Sharing AI Models: Cos",
+        "description": "ChatGPT maker OpenAI said it is restricting the release of its new artificial intelligence model at the request of US President Donald Trump's administration, the latest in an unprecedented government vetting of AI products for cybersecurity risks.",
+        "content": "Synopsis\nChatGPT maker OpenAI said it is restricting the release of its new artificial intelligence model at the request of US President Donald Trump's administration, the latest in an unprecedented government vetting of AI products for cybersecurity... [1076 chars]",
+        "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jun/28/sunet-front/us-govt-to-vet-sharing-ai-models-cos/articleshow/132042209.cms",
+        "image": "https://img.etimg.com/thumb/msid-132043133,width-1200,height-630,imgsize-53598,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-06-27T21:33:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "6f34fec4940dd836890cf2031acbcd3b",
+        "title": "Trump's AI Balancing Act: Beat China, Calm the Base",
+        "description": "The Trump administration's increasing oversight of advanced artificial intelligence has left leading AI companies calling for clearer rules.",
+        "content": "The Trump administration's increasing oversight of advanced artificial intelligence has left leading AI companies calling for clearer rules, marking a sharp departure from President Donald Trump's earlier promise to take a hands-off approach to the i... [2372 chars]",
+        "url": "https://www.newsmax.com/newsfront/trump-artificialintelligence-anthropic/2026/06/27/id/1261087/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=22541616-bec5-42e9-87ed-585c6333197b&SiteName=Newsmax",
+        "publishedAt": "2026-06-27T20:35:53Z",
+        "lang": "en",
+        "source": {
+            "id": "a8984f03fe66dae9745793f6560aa444",
+            "name": "Newsmax",
+            "url": "https://www.newsmax.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "226daadb9d8d56918955d5d8997b3634",
+        "title": "AI is plowing through the workplace. This new group wants to help people adapt and have jobs",
+        "description": "America has been rushing into an artificial intelligence future without much of a plan to stop what could be catastrophic job losses. Critics warn of doomsday scenarios out of a sci-fi thriller, while backers say AI will generate so much new wealth that no one should worry too much about…",
+        "content": "America has been rushing into an artificial intelligence future without much of a plan to stop what could be catastrophic job losses.\nCritics warn of doomsday scenarios out of a sci-fi thriller, while backers say AI will generate so much new wealth t... [5216 chars]",
+        "url": "https://japantoday.com/category/tech/ai-is-plowing-through-the-workplace.-this-new-group-wants-to-help-people-adapt-and-have-jobs",
+        "image": "https://media.japantoday.com/img/store/03/92/6a9a09dd68c0eac0b5340ed345ec454596b6/download/_w1700.jpeg",
+        "publishedAt": "2026-06-27T20:35:00Z",
+        "lang": "en",
+        "source": {
+            "id": "11d4381a1e8f7aca7628d0319a52a040",
+            "name": "Japan Today",
+            "url": "https://japantoday.com",
+            "country": "jp"
+        }
+    },
+    {
         "id": "b6dd8a16e61b16418e2c56da28a87155",
         "title": "AI is an energy and water hog, here's what you can do to counter that",
         "description": "As the world tries to curb human-caused climate change and not run dry of water, every online query is increasing our environmental footprint and exacerbating the problem. Artificial intelligence and the data centers they require use growing amounts of energy and are water hogs — and AI companies aren't transparent…",
@@ -77,86 +157,6 @@
             "name": "NDTV Profit",
             "url": "https://www.ndtvprofit.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "01323e847782de3b50ed24b11d0b64dd",
-        "title": "As Digital India turns 11, govt bets on AI, semiconductors to drive next growth phase",
-        "description": "As the Digital India programme completes 11 years on July 1, the government on Saturday highlighted a shift in its focus towards artificial intelligence (AI) and semiconductor manufacturing, saying it has approved investments worth Rs 1.64 lakh crore across 12 semiconductor projects while building a national AI ecosystem backed by over 45,000 GPUs.",
-        "content": "New Delhi [India], June 27 (ANI): As the Digital India programme completes 11 years on July 1, the government on Saturday highlighted a shift in its focus towards artificial intelligence (AI) and semiconductor manufacturing, saying it has approved in... [3429 chars]",
-        "url": "https://www.tribuneindia.com/news/business/as-digital-india-turns-11-govt-bets-on-ai-semiconductors-to-drive-next-growth-phase/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZjYmUzNWEwLTcyNDktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-06-27T16:58:25Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "9d7cd2af5e3ec26e682746634936d368",
-        "title": "Japan draft AI plan targets cyber threats, AI-generated misinformation",
-        "description": "JAPAN'S government has released a draft revision of its AI Basic Plan that proposes closer cooperation with foreign governments and artificial intelligence developers while expanding measures to address cyber threats and AI-generated misinformation.",
-        "content": "JAPAN'S government has released a draft revision of its AI Basic Plan that proposes closer cooperation with foreign governments and artificial intelligence developers while expanding measures to address cyber threats and AI-generated misinformation.\n... [1662 chars]",
-        "url": "https://www.manilatimes.net/2026/06/28/business/sunday-business-it/japan-draft-ai-plan-targets-cyber-threats-ai-generated-misinformation/2374203",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/27/1116352.jpg",
-        "publishedAt": "2026-06-27T16:03:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "b0c47abcaa7f6be3303050d8d04b28ad",
-        "title": "Zoom unveils AI assistant for workplace tasks",
-        "description": "ZOOM Communications Inc. has launched ZoomMate, an artificial intelligence (AI) assistant designed to help users turn workplace conversations into completed tasks by connecting meetings with business applications and enterprise workflows.",
-        "content": "ZOOM Communications Inc. has launched ZoomMate, an artificial intelligence (AI) assistant designed to help users turn workplace conversations into completed tasks by connecting meetings with business applications and enterprise workflows.\nThe product... [2064 chars]",
-        "url": "https://www.manilatimes.net/2026/06/28/business/sunday-business-it/zoom-unveils-ai-assistant-for-workplace-tasks/2374199",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/27/1116350.jpg",
-        "publishedAt": "2026-06-27T16:02:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "8f618064926c978bed1e3eadd2a2b645",
-        "title": "AI’s Coming Reality Check: When the Physics Finally Hits the Hype",
-        "description": "Delve into the conversation around AI energy consumption and its significance amidst the growing presence of artificial intelligence.",
-        "content": "In five years, we’ll all likely be chuckling and shaking our heads over AI. Because today, the tech feels free and limitless, doesn’t it?\nPeople are generating endless content: images, videos, memes, code snippets, social posts. Companies are bolting... [5812 chars]",
-        "url": "https://www.activistpost.com/ais-coming-reality-check-when-the-physics-finally-hits-the-hype/",
-        "image": "https://www.activistpost.com/wp-content/uploads/2026/06/article-image-editorial_illustration_of_a_data_ce_1_600w-1.jpg",
-        "publishedAt": "2026-06-27T16:01:29Z",
-        "lang": "en",
-        "source": {
-            "id": "435d508bebcc8689d5c7711d44865b80",
-            "name": "Activist Post",
-            "url": "https://www.activistpost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "92b13bc438171b9be70dc1bd7994859f",
-        "title": "AI firm opens Makati hub, expands overseas operations",
-        "description": "AN ARTIFICIAL intelligence company said it has expanded its operations in the Philippines and overseas as it opened its first regional innovation hub in Makati City.",
-        "content": "AN ARTIFICIAL intelligence company said it has expanded its operations in the Philippines and overseas as it opened its first regional innovation hub in Makati City.\nNMBLR.ai announced on Tuesday the opening of Programmable, an AI-focused innovation ... [2049 chars]",
-        "url": "https://www.manilatimes.net/2026/06/28/business/sunday-business-it/ai-firm-opens-makati-hub-expands-overseas-operations/2374194",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/27/1116345.jpg",
-        "publishedAt": "2026-06-27T16:01:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
