@@ -1,5 +1,21 @@
 [
     {
+        "id": "400c5ddbd0869b9cf4d3d1fd7d72ab49",
+        "title": "AI is like aviation. It needs systems to guard against human fallibility",
+        "description": "The issue is not whether artificial intelligence can be trusted but how systems are designed to manage its imperfections.",
+        "content": "As AI adoption accelerates, society is rightly asking how much we can trust AI systems. But maybe the first question should be, how did we ever trust human ones?\nWe know that large language models, the technology behind tools like ChatGPT, can make t... [311 chars]",
+        "url": "https://www.afr.com/technology/ai-is-like-aviation-it-needs-systems-to-guard-against-human-fallibility-20260627-p60ake",
+        "image": "https://static.ffx.io/images/$zoom_0.3311%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/9699dbd5d16d2a7fa798f6e6b05efe6c0c449d4c79ab3300c3031fdd7f6a9dcb",
+        "publishedAt": "2026-06-28T02:19:15Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "751a317ae25b66e88025972989feff76",
         "title": "Is your best friend an AI chatbot? Psychologists' tips to stay safe",
         "description": "According to the American Psychological Association(APA), many psychologists report that their patients are seeking mental support from AI, for.AI companionship, digital friend, loneliness solution, AI chatbots, virtual relationships, human connection, artificial intelligence, emotional AI, AI for mental health, Malayala Manorama Online News, AI and loneliness, digital intimacy, AI relationship, AI companionship pros and cons, AI chatbots, Artificial intelligence and loneliness",
@@ -141,22 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "6f34fec4940dd836890cf2031acbcd3b",
-        "title": "Trump's AI Balancing Act: Beat China, Calm the Base",
-        "description": "The Trump administration's increasing oversight of advanced artificial intelligence has left leading AI companies calling for clearer rules.",
-        "content": "The Trump administration's increasing oversight of advanced artificial intelligence has left leading AI companies calling for clearer rules, marking a sharp departure from President Donald Trump's earlier promise to take a hands-off approach to the i... [2372 chars]",
-        "url": "https://www.newsmax.com/newsfront/trump-artificialintelligence-anthropic/2026/06/27/id/1261087/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=22541616-bec5-42e9-87ed-585c6333197b&SiteName=Newsmax",
-        "publishedAt": "2026-06-27T20:35:53Z",
-        "lang": "en",
-        "source": {
-            "id": "a8984f03fe66dae9745793f6560aa444",
-            "name": "Newsmax",
-            "url": "https://www.newsmax.com",
-            "country": "us"
         }
     }
 ]
