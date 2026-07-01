@@ -1,44 +1,108 @@
 [
     {
-        "id": "8fee56c25909eb605adeddaa36e32dad",
-        "title": "Microsoft to layoff over 5,000 employees across teams",
-        "description": "The workforce reduction may impact sales, Xbox gaming division, and consulting, while it continues to invest heavily in Artificial Intelligence (AI) infrastructure.",
-        "content": "Microsoft is reported to conduct fresh round of layoffs that could impact nearly 2.5% of the workforce globally across teams. According to a Business Insider report, the workforce reduction may impact sales, Xbox gaming division, and consulting, whil... [1829 chars]",
-        "url": "https://www.businesstoday.in/technology/news/story/microsoft-to-layoff-over-5000-employees-across-teams-540239-2026-07-01",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a44c449862a1-microsoft-layoffs-0139484-16x9.jpeg",
-        "publishedAt": "2026-07-01T07:43:35Z",
+        "id": "2282988d17235686d48756ec737abcd9",
+        "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns",
+        "description": "Developments in artificial ​intelligence are outpacing scientific understanding and government policy, meaning there are no guarantees the technology will not cause ‌catastrophic harm, a United Nations independent panel warned on Wednesday.",
+        "content": "GENEVA, July 1 (Reuters) - Developments in artificial ​intelligence are outpacing scientific understanding and government policy, meaning there are no guarantees the technology will not cause ‌catastrophic harm, a United Nations independent panel war... [2908 chars]",
+        "url": "https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/",
+        "image": "https://www.reuters.com/resizer/v2/WIQ5OVQUWFOG3OLQUA6OGJFZC4.jpg?auth=cb340b1829ca1dd6c79cb992fc936744ac570c432b0a018350aec6d06e7c9ee1&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-07-01T10:15:40Z",
         "lang": "en",
         "source": {
-            "id": "76a2f820b104591b97fed1b0932cec38",
-            "name": "Business Today",
-            "url": "https://www.businesstoday.in",
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "0c147278e4439ebc62ad1859f290ae6b",
+        "title": "Delhi HC says public figures 'should not be thin-skinned, must tolerate satire'; orders removal of certain posts on Raghav Chadha",
+        "description": "At the same time, Justice Subramonium Prasad clarified that the Court was not endorsing the misuse of artificial intelligence to generate deepfake videos, morphed images or similar content intended to damage an individual's dignity.",
+        "content": "The Delhi High Court has held that politicians occupying public office must be prepared to face satirical criticism and political humour, observing that such expression does not automatically amount to defamation.\nWhile refusing to treat most social ... [5558 chars]",
+        "url": "https://www.moneycontrol.com/news/india/delhi-hc-says-public-figures-should-not-be-thin-skinned-must-tolerate-satire-orders-removal-of-certain-posts-targeting-raghav-chadha-13963500.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260403060634_Raghav-chadha-image.jpg",
+        "publishedAt": "2026-07-01T10:07:57Z",
+        "lang": "en",
+        "source": {
+            "id": "fd3677545b80d5db7541de8e111d27ba",
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com",
             "country": "in"
         }
     },
     {
-        "id": "61e83a52139b72fd259544bc7d769e4c",
-        "title": "The AI power grab: How the race to build artificial intelligence is driving up your electricity bill",
-        "description": "Rapid expansion of AI infrastructure is straining power grids, driving up household electricity costs and fuelling a political debate over who should pay for the energy transition.",
-        "content": "Artificial intelligence is no longer just transforming technology; it is reshaping electricity markets and increasing power bills for millions of Americans.\nThe rapid expansion of AI data centers, packed with energy-intensive servers and graphics pro... [3810 chars]",
-        "url": "https://www.firstpost.com/business/the-ai-power-grab-how-the-race-to-build-artificial-intelligence-is-driving-up-your-electricity-bill-14027977.html",
-        "image": "https://images.firstpost.com/uploads/2026/06/image-2026-06-d68f0fafd3e8dd5b22892eb8e1fe7a0e-1200x675.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-07-01T07:42:06Z",
+        "id": "290f1b2f380fc4a4d07fa5fcae5d431c",
+        "title": "Artificial intelligence and data analytics play pivotal roles in Wimbledon",
+        "description": "Data analytics from artificial intelligence may have assisted a professional tennis player’s next shot at Wimbledon. Like many sports, tennis is adapting to AI, using data analytics into sports science methodologies to better model how the human body performs, strengthens and recovers. Analytics can improve an athlete’s split-second decision making",
+        "content": "Data analytics from artificial intelligence may have assisted a professional tennis player’s next shot at Wimbledon.\nLike many sports, tennis is adapting to AI, using data analytics into sports science methodologies to better model how the human body... [3902 chars]",
+        "url": "https://triblive.com/sports/artificial-intelligence-and-data-analytics-play-pivotal-roles-in-wimbledon/",
+        "image": "https://assets-varnish.triblive.com/2026/07/9711585_web1_ptr-AinikaHou.jpg",
+        "publishedAt": "2026-07-01T10:01:00Z",
         "lang": "en",
         "source": {
-            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-            "name": "Firstpost",
-            "url": "https://www.firstpost.com",
-            "country": "in"
+            "id": "b1fa63410571207862faad9daf9b4527",
+            "name": "Pittsburgh Tribune-Review",
+            "url": "https://triblive.com",
+            "country": "us"
         }
     },
     {
-        "id": "08923fef179879d6bc0f45ad5f6149f3",
-        "title": "MLCC Prices Surge as AI Supply Chain Faces New Bottleneck",
-        "description": "The massive wave of investment in artificial intelligence servers continues to strain increasingly broad segments of the electronics supply chain. Following GPUs, HBM memory, and advanced substrates,...",
-        "content": "These discrete components play a pivotal role in AI architectures. Also utilized in electric vehicles, aerospace, defense, and radar systems, certain MLCCs are positioned as close as possible to GPUs, TPUs, and HBM memory modules to stabilize power d... [1693 chars]",
-        "url": "https://www.marketscreener.com/news/mlcc-prices-surge-as-ai-supply-chain-faces-new-bottleneck-ce7f5fddde88f42c",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_3558402_800.png",
-        "publishedAt": "2026-07-01T07:33:47Z",
+        "id": "e3de88cae4a204ead21856b73120ac72",
+        "title": "Google highlights ProtoThema as an international case study for Artificial Intelligence use",
+        "description": "Google has showcased ProtoThema as an example of innovation in the use of Artificial Intelligence in digital media, highlighting AI applications that have improved journalistic workflows, reader experience, and the performance of the digital platform",
+        "content": "ProtoThema is now included among the international examples promoted by Google for the use of Artificial Intelligence in digital news media, through an in-depth case study published by the US technology giant.\nGoogle presents ProtoThema as the leadin... [4419 chars]",
+        "url": "https://en.protothema.gr/2026/07/01/google-highlights-protothema-as-an-international-case-study-for-artificial-intelligence-use/",
+        "image": "https://en.protothema.gr/wp-content/uploads/2026/07/protothema-news-room.webp",
+        "publishedAt": "2026-07-01T09:55:01Z",
+        "lang": "en",
+        "source": {
+            "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
+            "name": "Proto Thema",
+            "url": "https://en.protothema.gr",
+            "country": "gr"
+        }
+    },
+    {
+        "id": "dbf5cc705f8cb94e5f58c54e3d914acb",
+        "title": "Artificial Intelligence: Empowering the Future of Innovation",
+        "description": "Artificial Intelligence is transforming every aspect of the digital economy. From automating business operations to enhancing creative workflows,",
+        "content": "Share\nShare\nShare\nShare\nEmail\nArtificial Intelligence (AI) has become a cornerstone of digital innovation, enabling businesses and individuals to solve complex problems with speed and precision. From automating routine operations to creating intellig... [7030 chars]",
+        "url": "https://techbullion.com/artificial-intelligence-empowering-the-future-of-innovation/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/07/1764673390123-1000x600.png",
+        "publishedAt": "2026-07-01T09:37:43Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "d916ec7597a1f8f685923ac9d3fa4f64",
+        "title": "Retiree loses over RM914,000 to fake 'AI-powered' investment scheme",
+        "description": "MUKAH: A 56-year-old government retiree lost over RM914,000 after being lured into a bogus online investment scheme that promised lucrative returns through an artificial intelligence (AI)-powered trading system.",
+        "content": "MUKAH: A 56-year-old government retiree lost over RM914,000 after being lured into a bogus online investment scheme that promised lucrative returns through an artificial intelligence (AI)-powered trading system.\nMukah OCPD Deputy Supt Muhamad Rizal A... [1349 chars]",
+        "url": "https://www.thestar.com.my/news/nation/2026/07/01/retiree-loses-over-rm914000-to-fake-039ai-powered039-investment-scheme",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/01/3986707.jpg",
+        "publishedAt": "2026-07-01T09:32:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "9e57bd51c28fabbd64c3a2259577b66b",
+        "title": "Haleon Expands Microsoft Partnership With Five-Year AI, Cloud Deal",
+        "description": "Haleon said Wednesday it signed a five-year partnership with Microsoft to expand its use of artificial intelligence, cloud and data technologies across its business.\nThe company said it will...",
+        "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+        "url": "https://www.marketscreener.com/news/haleon-expands-microsoft-partnership-with-five-year-ai-cloud-deal-ce7f5fddd18bf523",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-07-01T09:31:34Z",
         "lang": "en",
         "source": {
             "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -48,114 +112,50 @@
         }
     },
     {
-        "id": "d36b1c22e4634ca4727651c9d25d82a4",
-        "title": "Anthropic joins AI race in healthcare with drug discovery program: What it is, everything else to know",
-        "description": "Anthropic has entered the healthcare AI space with a drug discovery programme. The move adds it to a widening race to apply artificial intelligence in medicine.",
-        "content": "Anthropic is expanding beyond chatbots and coding tools by stepping into healthcare with a new drug discovery program. The company has announced that it will start its own internal research effort aimed at finding treatments for diseases that have re... [3449 chars]",
-        "url": "https://www.indiatoday.in/technology/news/story/anthropic-healthcare-ai-drug-discovery-program-what-to-know-2938105-2026-07-01",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pokharna-said-fable-5-and-mythos-5-deliver-substantially-stronger-software-engineering-capabilities-112128210-16x9.jpg?VersionId=tWTersqwnVvDTIoVbT952p9n1gDtV8.h",
-        "publishedAt": "2026-07-01T07:19:08Z",
+        "id": "1f57fe963cbd14ebd6458d4546511629",
+        "title": "Understanding Dharma: Can India's spiritual wisdom heal a fractured world?",
+        "description": "Conscious Circle News: As the world grapples with greed, conflict, and the disruptive impact of artificial intelligence, India's spiritual wisdom offers a message of hope an.",
+        "content": "Anil K Rajvanshi highlighted at a US conference how Dharma, as a universal search for truth, can guide technology towards compassion and sustainability\nAs the world grapples with greed, conflict, and the disruptive impact of artificial intelligence, ... [4377 chars]",
+        "url": "https://timesofindia.indiatimes.com/speaking-tree/conscious-circle/understanding-dharma-can-indias-spiritual-wisdom-heal-a-fractured-world/articleshow/132111343.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132111319,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-01T09:31:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "f9551cb5f59666a2e132636a81ab3d10",
+        "title": "Trump Administration Lifts Export Controls on Anthropic's 'Fable' and 'Mythos' AI Models",
+        "description": "The U.S. Department of Commerce has lifted export controls on Anthropic's Claude Fable 5 and Mythos 5 AI models, ending a two-week standoff between the artificial intelligence company and the Trump administration.",
+        "content": "The U.S. Department of Commerce has lifted export controls on Anthropic’s Claude Fable 5 and Mythos 5 AI models, ending a two-week standoff between the artificial intelligence company and the Trump administration.\nCNBC reports that the Department of ... [4033 chars]",
+        "url": "https://www.breitbart.com/tech/2026/07/01/trump-administration-lifts-export-controls-on-anthropics-fable-and-mythos-ai-models/",
+        "image": "https://media.breitbart.com/media/2026/07/Dario-Amodei-of-Anthropic-scores-an-AI-win-640x335.jpg",
+        "publishedAt": "2026-07-01T09:09:30Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "75f7fa86c48171f785f7462f2dfc75ab",
+        "title": "RBI's latest worry isn't inflation. It's artificial intelligence",
+        "description": "The RBI has identified AI-enabled cyber threats as the most significant emerging risk for banks and NBFCs. It said weak preparedness, shared platforms and third-party dependence could deepen systemic disruption.",
+        "content": "Artificial intelligence (AI) may be helping banks become smarter and faster, but India's central bank believes it is also creating one of the biggest new threats to the country's financial system.\nIn its June 2026 Financial Stability Report (FSR), th... [5419 chars]",
+        "url": "https://www.indiatoday.in/business/story/ai-risk-cyber-threats-rbi-banks-ransomware-financial-stability-report-mythos-2938195-2026-07-01",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/rbi-ai-warning-015524487-16x9_0.png?VersionId=4nyQ3iDgj.YI_ygmBU1h878OOKxOINc9",
+        "publishedAt": "2026-07-01T09:07:52Z",
         "lang": "en",
         "source": {
             "id": "c73686fdf0e30639d57eddaf7a77236e",
             "name": "India Today",
             "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "9a1f8e0b07efce278aa8ea62bc302fde",
-        "title": "Tech exports boost China’s June factory activity",
-        "description": "HONG KONG -- China's factory activity picked up pace in June, an official survey showed Tuesday, as demand for artificial intelligence hardware made exports robust.",
-        "content": "HONG KONG -- China's factory activity picked up pace in June, an official survey showed Tuesday, as demand for artificial intelligence hardware made exports robust.\nThe official manufacturing purchasing managers index, or PMI, expanded to 50.3 from 5... [1475 chars]",
-        "url": "https://www.arkansasonline.com/news/2026/jul/01/tech-exports-boost-chinas-june-factory-activity/",
-        "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213159588_213156633-110e5efd1b88472a8f8e11152c5134c9_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-        "publishedAt": "2026-07-01T07:01:00Z",
-        "lang": "en",
-        "source": {
-            "id": "69a24b80e5bce5a07f808f5ea84c434b",
-            "name": "Arkansas Online",
-            "url": "https://www.arkansasonline.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1c9edc1907b70dd72ea9147a5ac3b1ee",
-        "title": "Reliance Power share price surges over 18% after announcing foray into Artificial Intelligence",
-        "description": "Reliance Power has reported a consolidated net loss of Rs 494 crore for the January-March quarter of the financial year 2025-26.",
-        "content": "Mumbai:\nShares of Reliance Power, part of Reliance Group, surged over 18 per cent amid strong buying interest from investors after the company announced a foray into artificial intelligence (AI). In a regulatory filing, the company said that it has t... [2131 chars]",
-        "url": "https://www.indiatvnews.com/business/markets/reliance-power-share-price-surges-over-18-pc-after-announcing-foray-into-artificial-intelligence-2026-07-01-1046743",
-        "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/07/reliancepower-1782888786.jpg",
-        "publishedAt": "2026-07-01T06:54:28Z",
-        "lang": "en",
-        "source": {
-            "id": "143b993b193f72147f3de29ebcfbf505",
-            "name": "India TV News",
-            "url": "https://www.indiatvnews.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "413fedb800514860ecaf93e1974bf6e1",
-        "title": "AI companies urged to pay up or stay out of Australia",
-        "description": "Australian news outlets are under threat from a growing number of hungry tech companies, including artificial intelligence firms which do not pay for content.",
-        "content": "Australia should hold fast against powerful artificial intelligence companies seeking to bend the nation's copyright laws and should not allow their bosses into parliament house if they do not pay for stolen work, the Digital Publisher Alliance says.... [2551 chars]",
-        "url": "https://www.perthnow.com.au/news/politics/ai-companies-urged-to-pay-up-or-stay-out-of-australia-c-22515131",
-        "image": "https://images.perthnow.com.au/publication/C-22515131/0ea30d67cf2491838fcfc166d1473d913825a80f-16x9-x0y0w1280h720.jpg?imwidth=1200",
-        "publishedAt": "2026-07-01T06:45:53Z",
-        "lang": "en",
-        "source": {
-            "id": "7f6e8514e9d8f8376aaa9a7229861518",
-            "name": "PerthNow",
-            "url": "https://www.perthnow.com.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "952dba90df94f2e8135d31d1f881dd24",
-        "title": "AI companies urged to pay up or stay out of Australia",
-        "description": "Australian news outlets are under threat from a growing number of hungry tech companies, including artificial intelligence firms...",
-        "content": "Digital Publishers Alliance chair Tim Duggan has called on AI companies to pay for media scraping. Photo: Lukas Coch/AAP PHOTOS\nAustralia should hold fast against powerful artificial intelligence companies seeking to bend the nation's copyright laws ... [4684 chars]",
-        "url": "https://www.canberratimes.com.au/story/9303091/ai-companies-urged-to-pay-up-or-stay-out-of-australia/",
-        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/258d8fcc-63a2-4f9c-a034-19e7ad53788c.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-        "publishedAt": "2026-07-01T06:43:27Z",
-        "lang": "en",
-        "source": {
-            "id": "92021aca7322dc2b29226023c35d9a4a",
-            "name": "The Canberra Times",
-            "url": "https://www.canberratimes.com.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "c2f05edc2c9dc785274c2bcb474fccc1",
-        "title": "US Lifts Export Ban on Anthropic's Mythos, Fable",
-        "description": "Washington has lifted export curbs on Anthropic’s Mythos and Fable AI models less than three weeks after a national security suspension. Commerce Secretary Howard Lutnick confirmed special licences are no longer required, as Anthropic agrees to tighter risk monitoring and cooperation with US authorities amid growing scrutiny of advanced artificial intelligence.",
-        "content": "The US Commerce Department has lifted export controls on Anthropic's Fable and Mythos artificial intelligence models, according to Reuters. The reversal comes less than three weeks after an initial suspension order on June 12 over national security r... [2041 chars]",
-        "url": "https://www.outlookbusiness.com/news/us-lifts-export-ban-on-anthropics-mythos-fable",
-        "image": "https://media.assettype.com/outlookbusiness/2026-04-30/dw6k9l3e/Anthropic.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-07-01T06:41:37Z",
-        "lang": "en",
-        "source": {
-            "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-            "name": "Outlook Business",
-            "url": "https://www.outlookbusiness.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "b7a5add528a7b82541857cc904bcfb4d",
-        "title": "Can AI Replace Doctors? Experts Say The Future Of Medicine Is Human Plus Machine",
-        "description": "As artificial intelligence (AI) rapidly becomes part of everyday life, one question continues to dominate conversations across healthcare: Can AI replace docto",
-        "content": "As artificial intelligence (AI) rapidly becomes part of everyday life, one question continues to dominate conversations across healthcare: Can AI replace doctors? From interpreting scans and identifying cancers earlier to predicting disease risk and ... [8550 chars]",
-        "url": "https://www.ndtv.com/health/can-ai-replace-doctors-experts-say-the-future-of-medicine-is-human-plus-machine-11711085",
-        "image": "https://c.ndtvimg.com/2026-07/bi88lgmk_national_625x300_01_July_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-07-01T06:34:38Z",
-        "lang": "en",
-        "source": {
-            "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-            "name": "NDTV.com",
-            "url": "https://www.ndtv.com",
             "country": "in"
         }
     }
