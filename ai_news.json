@@ -1,44 +1,12 @@
 [
     {
-        "id": "6f4a189750b6cbc73ac462c3e2bd4a89",
-        "title": "Mark Zuckerberg Says AI Could Create More Jobs, Not Destroy Them, Despite Meta Layoffs",
-        "description": "Mark Zuckerberg says Artificial Intelligence can create more jobs by boosting human productivity, even as Meta cuts 8,000 roles and ramps up investments in AI., Companies, Times Now",
-        "content": "Just days after Meta issued layoff notices to around 8,000 employees, CEO Mark Zuckerberg has argued that concerns over artificial intelligence replacing large numbers of workers may be exaggerated. Instead of viewing AI as a force that will inevitab... [3153 chars]",
-        "url": "https://www.timesnownews.com/business-economy/companies/despite-meta-layoffs-mark-zuckerberg-says-ai-could-create-more-jobs-not-destroy-them-article-154820426",
-        "image": "https://images.timesnownews.com/thumb/msid-154820438,thumbsize-57254,width-1280,height-720,resizemode-75/154820438.jpg",
-        "publishedAt": "2026-07-01T12:01:21Z",
-        "lang": "en",
-        "source": {
-            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-            "name": "Times Now",
-            "url": "https://www.timesnownews.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "aa05e7af285eee45981cb7647354c591",
-        "title": "What to tell your kids (and grandkids) in an AI world",
-        "description": "Artificial intelligence can’t make something as beautiful as the drawings you scrawl on scrap paper with purple crayons.",
-        "content": "This is an opinion column.\nIt’s true what they say about being a grandparent. All of the joy. Less of the stress.\nI don’t try to tell their parents how to raise them. I marvel at the job they do. I sit back and reap the benefits. And go home.\nBut the... [3768 chars]",
-        "url": "https://www.al.com/news/2026/07/what-to-tell-your-kids-and-grandkids-in-an-ai-world.html",
-        "image": "https://www.al.com/resizer/v2/H7HW2334ZRFEXK3IRNL65AOGRU.jpg?auth=a182a6715031e7bd1ed25d5beffa5d1d580b12cacb82b04c7530c61edf634846&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-07-01T12:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6d317e2944258f799763413d14b479f4",
-            "name": "AL.com",
-            "url": "https://www.al.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "fbac0390990f8bd761f568a83b84d39b",
-        "title": "Did Anthropic secretly monitor Chinese Claude Code users? New claims spark controversy",
-        "description": "Anthropic is once again mired in controversy as new claims accuse the US-based artificial intelligence of embedding hidden spyware in Claude to target Chinese users. In a recent report published by...",
-        "content": "Anthropic is once again mired in controversy as new claims accuse the US-based artificial intelligence of embedding hidden spyware in Claude to target Chinese users.\nIn a recent report published by International Cyber Digest, a developer has publicly... [1709 chars]",
-        "url": "https://www.thenews.com.pk/latest/1407768-did-anthropic-secretly-monitor-chinese-claude-code-users-new-claims-spark-controversy",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-07-01/1407768_045705_updates.jpg",
-        "publishedAt": "2026-07-01T11:57:00Z",
+        "id": "c7e411d124b570e620da4d9bd08b05a7",
+        "title": "Meta to launch Cloud business to monetize excess AI computing power",
+        "description": "Meta is building a cloud business to sell excess artificial intelligence computing capacity.The decision comes as tech giants seek returns on costly AI investments amid worries about...",
+        "content": "Meta is building a cloud business to sell excess artificial intelligence computing capacity.\nThe decision comes as tech giants seek returns on costly AI investments amid worries about overspending.\nAs the Bloomberg News reported on Wednesday, the pla... [1676 chars]",
+        "url": "https://www.thenews.com.pk/latest/1407796-meta-to-launch-cloud-business-to-monetize-excess-ai-computing-power",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-07-01/1407796_095216_updates.jpg",
+        "publishedAt": "2026-07-01T16:52:00Z",
         "lang": "en",
         "source": {
             "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
@@ -48,61 +16,109 @@
         }
     },
     {
-        "id": "0229bdd78e7d587c3832a93544e5a191",
-        "title": "AI Data Center Expansion Faces Grid Constraints as Power Demand Surges",
-        "description": "The rapid expansion of artificial intelligence data centers is encountering a significant obstacle: insufficient capacity on electrical grids to support them. According to industry projections, AI-related infrastructure spending could exceed $5 trillion by 2030, with data center capacity demand reaching 100 gigawatts, according to McKinsey and JLL estimates cited by Charles Kennedy on OilPrice.com. Utilities […]",
-        "content": "The rapid expansion of artificial intelligence data centers is encountering a significant obstacle: insufficient capacity on electrical grids to support them. According to industry projections, AI-related infrastructure spending could exceed $5 trill... [6645 chars]",
-        "url": "https://www.naturalnews.com/2026-07-01-ai-data-center-expansion-faces-grid-constraints.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/ai-data-centers-grid-constraints-power-demand-2429-original.jpg",
-        "publishedAt": "2026-07-01T11:31:59Z",
+        "id": "c2a6572eb633e0a199975c08c6273f65",
+        "title": "AI turns mouse movements into language-like tokens, uncovering autism-related social behavior patterns",
+        "description": "An artificial intelligence model capable of reading and interpreting animal behavior like language has been developed by researchers at KAIST. The team created an AI model that learns behavioral data in a manner similar to natural language and was able to independently identify social behavioral deficits in an autism mouse model, opening a new avenue for interpretable neuroscience.",
+        "content": "An artificial intelligence model capable of reading and interpreting animal behavior like language has been developed by researchers at KAIST. The team created an AI model that learns behavioral data in a manner similar to natural language and was ab... [4207 chars]",
+        "url": "https://medicalxpress.com/news/2026-07-ai-mouse-movements-language-tokens.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/kaist-develops-ai-that.jpg",
+        "publishedAt": "2026-07-01T16:40:02Z",
         "lang": "en",
         "source": {
-            "id": "188e9ebf53d05fc7ba360240a0b28154",
-            "name": "Natural News",
-            "url": "https://www.naturalnews.com",
-            "country": "us"
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
         }
     },
     {
-        "id": "1e542e85014d7a28562954364cc6e831",
-        "title": "As Companies Race for Cheaper A.I. Options, This Start-Up Pitches a Solution",
-        "description": "Together AI, which specializes in open-source artificial intelligence models, is now worth more than $8 billion.",
-        "content": "In recent weeks, two related developments have threatened to reshape the fast-moving artificial intelligence boom: Companies using the most advanced A.I. tools have begun to balk at the cost, and new open-source models from China have become nearly a... [1625 chars]",
-        "url": "https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html",
-        "image": "https://static01.nyt.com/images/2026/07/01/business/01DB-together-ai-founders/01DB-together-ai-founders-facebookJumbo.jpg",
-        "publishedAt": "2026-07-01T11:30:04Z",
+        "id": "eb359acdde1cad2a888fa2b9259a4ac5",
+        "title": "Professor: AI will reshape, not replace jobs",
+        "description": "FEAR has a way of narrowing down our vision, and much of the conversation around artificial intelligence (AI) today stems from one dreaded reality: that AI is coming for our jobs.",
+        "content": "FEAR has a way of narrowing down our vision, and much of the conversation around artificial intelligence (AI) today stems from one dreaded reality: that AI is coming for our jobs.\nIt is not a baseless concern. Across industries, AI is automating task... [4251 chars]",
+        "url": "https://www.manilatimes.net/2026/07/02/campus-press/professor-ai-will-reshape-not-replace-jobs/2377015",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/02/1121336.png",
+        "publishedAt": "2026-07-01T16:24:00Z",
         "lang": "en",
         "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
-            "country": "us"
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
         }
     },
     {
-        "id": "7e6d946a9d047914dbf8effd6bd373f3",
-        "title": "'It's like having a dumb friend': Young San Franciscans hate AI",
-        "description": "San Francisco is the artificial intelligence center of the world, but the city's young residents are pushing back on the technology.",
-        "content": "When Somerset Dwyer found a two-bedroom apartment in Nob Hill, she felt she had done the impossible. Having grown up four blocks from her new place, she would be moving to her first apartment after college, returning to San Francisco for the first ti... [9968 chars]",
-        "url": "https://www.sfgate.com/tech/article/san-francisco-ai-backlash-22325141.php",
-        "image": "https://s.hdnux.com/photos/01/66/55/65/31120741/3/rawImage.jpg",
-        "publishedAt": "2026-07-01T11:00:00Z",
+        "id": "ec5972dbecc8b92bda4557f08f95dc76",
+        "title": "Alternatives to college education",
+        "description": "THE dynamic Naga College Foundation (NCF) President Mario Villanueva invited me as commencement speaker at one of the biggest private schools in the Bicol region and the first to set up artificial intelligence labs.",
+        "content": "THE dynamic Naga College Foundation (NCF) President Mario Villanueva invited me as commencement speaker at one of the biggest private schools in the Bicol region and the first to set up artificial intelligence labs.\nMore than 2,300 students graduated... [5005 chars]",
+        "url": "https://www.manilatimes.net/2026/07/02/campus-press/alternatives-to-college-education/2377012",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/02/1121647.jpg",
+        "publishedAt": "2026-07-01T16:23:00Z",
         "lang": "en",
         "source": {
-            "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-            "name": "SFGATE",
-            "url": "https://www.sfgate.com",
-            "country": "us"
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
         }
     },
     {
-        "id": "efbb5265afb4934708d55c7ffeb507b0",
-        "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns",
-        "description": "GENEVA, July 1 (Reuters) - ⁠Developments in artificial intelligence are outpacing scientific understanding and government policy, meaning there are no guarantees ⁠the technology will not cause catastrophic harm, a United Nations independent panel warned on Wednesday.",
-        "content": "GENEVA, July 1 (Reuters) - ⁠Developments in artificial intelligence are outpacing scientific understanding and government policy, meaning there are no guarantees ⁠the technology will not cause catastrophic harm, a United Nations independent panel war... [2673 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/01/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/01/3986901.jpg",
-        "publishedAt": "2026-07-01T10:37:00Z",
+        "id": "d95fa6d3dbaa6ae129cdde5166579b79",
+        "title": "AI can be a personal trainer in your pocket-but is it safe?",
+        "description": "Generative artificial intelligence (AI) is changing the fitness industry: People can now ask chatbots to write marathon plans, build gym programs and even adjust workouts based on sleep or heart rate data.",
+        "content": "Generative artificial intelligence (AI) is changing the fitness industry: People can now ask chatbots to write marathon plans, build gym programs and even adjust workouts based on sleep or heart rate data.\nFor many, AI feels like the future of fitnes... [4878 chars]",
+        "url": "https://medicalxpress.com/news/2026-07-ai-personal-trainer-pocket-safe.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-can-be-a-personal-t.jpg",
+        "publishedAt": "2026-07-01T16:20:03Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "e9aba0d1ec2d5b412e84c9d3ceab53c5",
+        "title": "AUB to integrate AI in ‘future-ready’ roadmap",
+        "description": "ASIA United Bank (AUB) will integrate generative artificial intelligence (AI) into its banking services to deliver personalized financial advice and expand lending to micro, small and medium enterprises (MSMEs) as part of measures to strengthen digital flexibility.",
+        "content": "ASIA United Bank (AUB) will integrate generative artificial intelligence (AI) into its banking services to deliver personalized financial advice and expand lending to micro, small and medium enterprises (MSMEs) as part of measures to strengthen digit... [1946 chars]",
+        "url": "https://www.manilatimes.net/2026/07/02/business/corporate-news/aub-to-integrate-ai-in-future-ready-roadmap/2376919",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/01/1121537.png",
+        "publishedAt": "2026-07-01T16:10:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "f13671f49fe0fc843ec6bf9189af1341",
+        "title": "AI chip race opens new opportunities for Indian semiconductor startups",
+        "description": "Lam Capital President Audrey Charles says India's deep-tech and semiconductor startups are gaining global attention as artificial intelligence drives fresh investment and innovation in advanced chip technologies.",
+        "content": "Lam Capital President Audrey Charles says India's deep-tech and semiconductor startups are gaining global attention as artificial intelligence drives fresh investment and innovation in advanced chip technologies.\nBy Shereen Bhan\nArtificial intelligen... [4126 chars]",
+        "url": "https://www.cnbctv18.com/technology/ai-chip-race-opens-new-opportunities-for-indian-semiconductor-startups-19936790.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/07/lam-capital-a-charles-01jul-2026-07-9868e413bef58bb5fb98a4712787d433.jpg?im=FitAndFill,width=1200,height=675",
+        "publishedAt": "2026-07-01T16:05:00Z",
+        "lang": "en",
+        "source": {
+            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+            "name": "CNBC TV18",
+            "url": "https://www.cnbctv18.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "44090e725ad77e2ad0b81472ee353732",
+        "title": "Portugal launches first open-source AI model, joining Europe's sovereignty push",
+        "description": "LISBON, July 1 (Reuters) - ⁠Portugal launched on Wednesday its first open-source artificial intelligence model, joining ⁠a growing push across Europe for greater AI sovereignty and reduced ‌reliance on U.S. providers.",
+        "content": "LISBON, July 1 (Reuters) - ⁠Portugal launched on Wednesday its first open-source artificial intelligence model, joining ⁠a growing push across Europe for greater AI sovereignty and reduced ‌reliance on U.S. providers.\nThe move follows similar initiat... [1897 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/02/portugal-launches-first-open-source-ai-model-joining-europe039s-sovereignty-push",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/02/3987262.jpg",
+        "publishedAt": "2026-07-01T16:01:00Z",
         "lang": "en",
         "source": {
             "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -112,51 +128,35 @@
         }
     },
     {
-        "id": "7f77a0062a5f1d08c8f2a7ed2a7296ec",
-        "title": "Artificial Intelligence is Raising Cyber Threats",
-        "description": "AI-enabled attacks are coming faster and more often. Here’s a security update and some advice on how to be prepared.",
-        "content": "To help you understand the trends surrounding business and technology and what we expect to happen in the future, our highly experienced Kiplinger Letter team will keep you abreast of the latest developments and forecasts. (Get a free issue of The Ki... [4271 chars]",
-        "url": "https://www.kiplinger.com/business/apples-price-hikes-signal-costlier-electronics-for-years-to-come",
-        "image": "https://cdn.mos.cms.futurecdn.net/LSSPL5ejVmRayBF3zgHBBC-2560-80.jpg",
-        "publishedAt": "2026-07-01T10:30:00Z",
+        "id": "c6dff4eaef538f2a367a9e97613cde74",
+        "title": "source AI model, joining Europe's sovereignty push",
+        "description": "Portugal has unveiled its inaugural open-source artificial intelligence model, named Amalia, a significant step towards European AI sovereignty. This initiative aims to reduce reliance on US tech giants, empowering local institutions and businesses to develop tailored AI applications. Backed by EU funds and developed by Portuguese universities, Amalia promises to enhance productivity across various sectors while ensuring data security and fostering innovation.",
+        "content": "Synopsis\nPortugal has unveiled its inaugural open-source artificial intelligence model, named Amalia, a significant step towards European AI sovereignty. This initiative aims to reduce reliance on US tech giants, empowering local institutions and bus... [2373 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/portugal-launches-first-open-source-ai-model-joining-europes-sovereignty-push/articleshow/132118835.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-552924,resizemode-75,msid-132118835/tech/technology/portugal-launches-first-open-source-ai-model-joining-europes-sovereignty-push.jpg",
+        "publishedAt": "2026-07-01T16:00:05Z",
         "lang": "en",
         "source": {
-            "id": "ca0ac0e9c1dc28f0363e86d46cc022aa",
-            "name": "Kiplinger",
-            "url": "https://www.kiplinger.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "2282988d17235686d48756ec737abcd9",
-        "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns",
-        "description": "Developments in artificial ​intelligence are outpacing scientific understanding and government policy, meaning there are no guarantees the technology will not cause ‌catastrophic harm, a United Nations independent panel warned on Wednesday.",
-        "content": "GENEVA, July 1 (Reuters) - Developments in artificial ​intelligence are outpacing scientific understanding and government policy, meaning there are no guarantees the technology will not cause ‌catastrophic harm, a United Nations independent panel war... [2908 chars]",
-        "url": "https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/",
-        "image": "https://www.reuters.com/resizer/v2/WIQ5OVQUWFOG3OLQUA6OGJFZC4.jpg?auth=cb340b1829ca1dd6c79cb992fc936744ac570c432b0a018350aec6d06e7c9ee1&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-07-01T10:15:40Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0c147278e4439ebc62ad1859f290ae6b",
-        "title": "Delhi HC says public figures 'should not be thin-skinned, must tolerate satire'; orders removal of certain posts on Raghav Chadha",
-        "description": "At the same time, Justice Subramonium Prasad clarified that the Court was not endorsing the misuse of artificial intelligence to generate deepfake videos, morphed images or similar content intended to damage an individual's dignity.",
-        "content": "The Delhi High Court has held that politicians occupying public office must be prepared to face satirical criticism and political humour, observing that such expression does not automatically amount to defamation.\nWhile refusing to treat most social ... [5558 chars]",
-        "url": "https://www.moneycontrol.com/news/india/delhi-hc-says-public-figures-should-not-be-thin-skinned-must-tolerate-satire-orders-removal-of-certain-posts-targeting-raghav-chadha-13963500.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260403060634_Raghav-chadha-image.jpg",
-        "publishedAt": "2026-07-01T10:07:57Z",
-        "lang": "en",
-        "source": {
-            "id": "fd3677545b80d5db7541de8e111d27ba",
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com",
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
             "country": "in"
+        }
+    },
+    {
+        "id": "a46da432fbb599a65fb35582b4144c29",
+        "title": "Anwar: Malaysia’s workforce must be prepared for AI era",
+        "description": "KUALA LUMPUR: Malaysia must prepare its workforce for the artificial intelligence (AI) era through stronger education, skills training and talent development to ensure the country fully benefits from rapid technological change, says Datuk Seri Anwar Ibrahim.",
+        "content": "KUALA LUMPUR: Malaysia must prepare its workforce for the artificial intelligence (AI) era through stronger education, skills training and talent development to ensure the country fully benefits from rapid technological change, says Datuk Seri Anwar ... [2566 chars]",
+        "url": "https://www.thestar.com.my/news/nation/2026/07/02/anwar-malaysias-workforce-must-be-prepared-for-ai-era",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/02/3987698.JPG",
+        "publishedAt": "2026-07-01T16:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
         }
     }
 ]
