@@ -1,5 +1,37 @@
 [
     {
+        "id": "d83dfcae8d9cc77bb27f01592f42370b",
+        "title": "Why building a full AI ecosystem in schools is the next big thing for Indian education",
+        "description": "Artificial Intelligence and Computational Thinking are becoming foundational elements in the Indian education system, with computer science moving beyond basic computer skills to essence of learning",
+        "content": "The Indian education system is currently experiencing a critical phase of transformation. Earlier, technology in schools largely meant knowing basic computer skills and surfing the internet. Today, it has become a crucial part of the very essence of ... [4105 chars]",
+        "url": "https://www.theweek.in/news/sci-tech/2026/07/04/why-building-a-full-ai-ecosystem-in-schools-is-the-next-big-thing-for-indian-education.html",
+        "image": "https://img.theweek.in/content/dam/week/en/archive/news/sci-tech/images/2026/7/4/AI-in-school.jpg",
+        "publishedAt": "2026-07-04T07:48:08Z",
+        "lang": "en",
+        "source": {
+            "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+            "name": "THE WEEK",
+            "url": "https://www.theweek.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "e595e23b45746c9eef3f350499813e47",
+        "title": "World's First BRICS Nations Hackathon Sets 17,000 Young Innovators on India and Russia's Energy Challenges",
+        "description": "Bengaluru (Karnataka) [India], July 4: The GO-BRICS India-Russia Energy-o-thon 2026, described by its organisers as the world's first BRICS nations hackathon, was launched today in a virtual opening ceremony, setting thousands of engineering students from India and Russia onto a single, concrete problem: how to keep a power-short industrial grid running with the help of artificial intelligence.",
+        "content": "PNN\nBengaluru (Karnataka) [India], July 4: The GO-BRICS India-Russia Energy-o-thon 2026, described by its organisers as the world's first BRICS nations hackathon, was launched today in a virtual opening ceremony, setting thousands of engineering stud... [5374 chars]",
+        "url": "https://www.tribuneindia.com/news/business/worlds-first-brics-nations-hackathon-sets-17000-young-innovators-on-india-and-russias-energy-challenges/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJmNjI4OWQwLTc3NmUtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-07-04T06:08:10Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "6dc1f4f55dac5da3698fd880f455f7cc",
         "title": "SAP tightens hiring, travel spend as it ramps up AI investments",
         "description": "German tech giant SAP is strategically curbing hiring, travel, and external spending to fuel its ambitious artificial intelligence investments. The company is prioritizing core AI roles and acquisitions, acknowledging rising costs associated with increased AI adoption. While non-essential internal travel is paused, customer-facing and AI-critical trips will proceed, reflecting SAP's commitment to its AI-driven future.",
@@ -125,38 +157,6 @@
             "name": "Forbes",
             "url": "https://www.forbes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "441edf4a700af11779502cbd967e3b64",
-        "title": "Benitez presents AI regulation bill to business leaders in summit",
-        "description": "MANILA, Philippines — Negros Occidental Rep. Javier Miguel Benitez has presented a proposal that would develop and regulate Artificial Intelligence during a summit organized by the Management Association of the Philippines and accounting firm KPMG.",
-        "content": "MANILA, Philippines — Negros Occidental Rep. Javier Miguel Benitez has presented a proposal that would develop and regulate Artificial Intelligence during a summit organized by the Management Association of the Philippines and accounting firm KPMG.\nB... [1365 chars]",
-        "url": "https://www.manilatimes.net/2026/07/04/news/benitez-presents-ai-regulation-bill-to-business-leaders-in-summit/2378282",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/04/1123330.jpg",
-        "publishedAt": "2026-07-03T19:38:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "371848fcb483286f349d51884f899bd8",
-        "title": "Govt may look at a separate legal framework for AI: Secretary",
-        "description": "India Business News: NEW DELHI: Govt may examine a dedicated legal framework for artificial intelligence, signalling a significant shift from its long-standing position of.",
-        "content": "Representative image\nNEW DELHI: Govt may examine a dedicated legal framework for artificial intelligence, signalling a significant shift from its long-standing position of relying on existing laws to govern the fast-evolving technology. At a Confeder... [1735 chars]",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/govt-may-look-at-a-separate-legal-framework-for-ai-secretary/articleshow/132170345.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132170344,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-03T19:34:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
