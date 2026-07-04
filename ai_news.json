@@ -1,5 +1,37 @@
 [
     {
+        "id": "b8efec2afa41b9a4c96d2b08606141e3",
+        "title": "Saskatchewan startups turning to AI to start businesses, accelerate growth",
+        "description": "Local tech startups based in Saskatoon say artificial intelligence is helping them develop and scale their businesses much faster than imagined.",
+        "content": "For Saskatoon-based Realtor Gregg Bamford, who has been in the business for more than two decades, clients are the core of his business.\nBut sometimes, he says, managing these relationships could prove difficult. That, he says, is why he was all in w... [3027 chars]",
+        "url": "https://globalnews.ca/news/11952430/saskatchewan-startups-turning-to-ai/",
+        "image": "https://globalnews.ca/wp-content/uploads/2026/07/AI-INNOVATION-STORY-2.bmp?w=720&h=379&crop=1",
+        "publishedAt": "2026-07-03T23:42:35Z",
+        "lang": "en",
+        "source": {
+            "id": "49853ffafc28f405ff8ed06043290ae8",
+            "name": "Global News",
+            "url": "https://globalnews.ca",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "15b2ee3c56e4e910533c92158a35ff52",
+        "title": "College of Charleston embraces AI in the classroom, teaching students to use it responsibly",
+        "description": "While many colleges are banning generative artificial intelligence tools like ChatGPT, professors at the College of Charleston School of Business are taking a different approach: teaching students how to use them.",
+        "content": "CHARLESTON, S.C. (WCSC) — While many colleges are banning generative artificial intelligence tools like ChatGPT, professors at the College of Charleston School of Business are taking a different approach: teaching students how to use them.\nThe messag... [4565 chars]",
+        "url": "https://www.live5news.com/2026/07/03/college-charleston-embraces-ai-classroom-teaching-students-use-it-responsibly/",
+        "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/I5MKKA52NZH7ZH66YHA7VAHCCM.jpg?auth=4b2c6e22a642f86586605209902c0586dc71a4ddce7581771414f25fda39e493&width=1200&height=600&smart=true",
+        "publishedAt": "2026-07-03T23:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "e7b4d14003cc89c64a689f1c38723ef5",
+            "name": "Live 5 News WCSC",
+            "url": "https://www.live5news.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f97ad1a8d84be15cb8bdcd2281c169cc",
         "title": "Has Technology Ruined The World Cup?",
         "description": "This comes after FIFA invested years developing tools that combine player tracking, artificial intelligence and ball sensors to reduce human error in crucial moments.",
@@ -112,22 +144,6 @@
         }
     },
     {
-        "id": "d925140c613a141e14831a804103a3c2",
-        "title": "Is the US Economy Strong Enough to Support Its Own AI Infrastructure Buildout?",
-        "description": "We’re falling deeper into an artificial intelligence space race, where global AI leaders in the United States are scrambling to stay ahead of their high potential Chinese counterparts. But can the US economy support the rapid buildout of infrastructu...",
-        "content": "With a combined market capitalization of $21.7 trillion, it’s clear that the AI-heavy Magnificent Seven collection of Wall Street giants are well-positioned to support domestic infrastructure projects.\nBut with significant structural and physical bot... [5525 chars]",
-        "url": "https://www.barchart.com/story/news/3118423/is-the-us-economy-strong-enough-to-support-its-own-ai-infrastructure-buildout",
-        "image": "https://media.barchart.com/contributors-admin/common-images/images/Government/Congress%20building%20close%20up%20by%20Mesut%20Dogan%20via%20iStock.jpg",
-        "publishedAt": "2026-07-03T16:23:34Z",
-        "lang": "en",
-        "source": {
-            "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-            "name": "Barchart",
-            "url": "https://www.barchart.com",
-            "country": "us"
-        }
-    },
-    {
         "id": "47aff84d944bf727902ba14ad6b5a44d",
         "title": "Is the US Economy Strong Enough to Support Its Own AI Infrastructure Buildout?",
         "description": "We’re falling deeper into an artificial intelligence space race, where global AI leaders in the United States are scrambling to stay ahead of their high potential Chinese counterparts. But can the US economy support the rapid buildout of infrastructu...",
@@ -141,22 +157,6 @@
             "name": "Barchart",
             "url": "https://www.barchart.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "61a6428d35132803c1ae79f2f3425da8",
-        "title": "The Manila Times releases 8th TMT 500 on AI's promise and perils",
-        "description": "THE Manila Times will release the eighth edition of the TMT 500 and the Next 500, highlighting the opportunities and challenges presented by artificial intelligence (AI).",
-        "content": "THE Manila Times will release the eighth edition of the TMT 500 and the Next 500, highlighting the opportunities and challenges presented by artificial intelligence (AI).\nThe publication features contributions from more than 60 thought leaders, polic... [4349 chars]",
-        "url": "https://www.manilatimes.net/2026/07/04/news/national/the-manila-times-releases-8th-tmt-500-on-ais-promise-and-perils/2378218",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/03/1124137.jpg",
-        "publishedAt": "2026-07-03T16:10:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
