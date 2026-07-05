@@ -1,5 +1,21 @@
 [
     {
+        "id": "9ce4746a7306ff889ae393332b5145c7",
+        "title": "AI security questions loom over NATO summit",
+        "description": "The deployment of rapidly advancing artificial intelligence technology is fast becoming a global security imperative.",
+        "content": "These simmering concerns about AI technology are quietly looming over the summit in Ankara.\nThe official agenda for the summit includes a track on “emerging and disruptive technologies,” including new AI developments. The alliance notes on its websit... [3106 chars]",
+        "url": "https://www.politico.com/news/2026/07/04/ai-security-nato-access-00984758",
+        "image": "https://www.politico.com/favicon.ico?v=2",
+        "publishedAt": "2026-07-04T20:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c477009a98f37b19212d8ae20ce8c018",
+            "name": "POLITICO",
+            "url": "https://www.politico.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "a3752b3ad4b542ac9550b8968ea21f22",
         "title": "Digital fraud is reshaping trust across Asia-Pacific",
         "description": "LSEG Risk Intelligence’s Consumer Fraud Report 2026 found that as scams become more sophisticated — and increasingly powered by artificial intelligence (AI) — consumer fraud is reshaping trust across Asia-Pacific. Its impact extends beyond financial losses, influencing how people use digital services, make payments and interact with financial institutions.",
@@ -141,22 +157,6 @@
             "name": "Los Angeles Times",
             "url": "https://www.latimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "8c024fba5b0aa5ae4c565a34d0c0706d",
-        "title": "Think before you post: UK parents urged to stop sharing kids’ photos publicly amid AI abuse risks",
-        "description": "UK News: Parents should avoid posting photographs of their children on public social media accounts as advances in artificial intelligence (AI) are making it e.",
-        "content": "UK parents urged to stop sharing kids’ photos publicly\nParents should avoid posting photographs of their children on public social media accounts as advances in artificial intelligence (AI) are making it easier for criminals to create child sexual ab... [3660 chars]",
-        "url": "https://timesofindia.indiatimes.com/world/uk/think-before-you-post-uk-parents-urged-to-stop-sharing-kids-photos-publicly-amid-ai-abuse-risks/articleshow/132178667.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132178713,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-04T09:48:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
