@@ -1,5 +1,21 @@
 [
     {
+        "id": "b7491d5d9bd6f509f9d7354233c7acc1",
+        "title": "'Never say yes' to these 3 questions when your phone rings",
+        "description": "An expert in artificial intelligence has explained how fraudsters are your using your voice during phone calls and what you need to do to avoid being scammed",
+        "content": "A tech expert has issued a warning that the rapid advancement of artificial intelligence (AI) has allowed telephone fraudsters to achieve unprecedented levels of sophistication. Hector Chavez has said, in order to stay safe from scams, you should nev... [2881 chars]",
+        "url": "https://www.express.co.uk/life-style/science-technology/2224444/never-say-yes-three-phone-scam-questions-tech-expert-warns-could-cost-you",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/59/1200x630/7017067.jpg",
+        "publishedAt": "2026-07-05T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c97ef3cad273a1993c998ca7ddcc5212",
+            "name": "Daily Express",
+            "url": "https://www.express.co.uk",
+            "country": "gb"
+        }
+    },
+    {
         "id": "6ab127b992e2385ca99ce9535b8eee40",
         "title": "Can billion-dollar acquisitions help Indian IT firms in the AI era?",
         "description": "Artificial intelligence is pushing Indian IT companies to buy capabilities rather than build them. As the industry's traditional business model comes under pressure, acquisitions are becoming the fastest route to AI expertise—but they also bring new financial and execution risks.",
@@ -140,22 +156,6 @@
             "id": "214d496d625fc657723cf4da80cff8ce",
             "name": "Deccan Chronicle",
             "url": "https://www.deccanchronicle.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "60f5380f9a89a353f7c97163cfe88103",
-        "title": "Can digital twins help athletes win? How AI is changing sport",
-        "description": "Sports News: One of the biggest stories of this year’s football World Cup isn’t just about star players but about how artificial intelligence is changing The Beaut.",
-        "content": "Shruti Sonal\nTNN Jul 04, 2026, 19:01 IST IST\nOne of the biggest stories of this year’s football World Cup isn’t just about star players but about how artificial intelligence is changing The Beautiful Game. From AI-enabled match balls that help offici... [268 chars]",
-        "url": "https://timesofindia.indiatimes.com/toi-plus/sports/can-digital-twins-help-athletes-win-how-ai-is-changing-sport/articleshow/132182420.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132182416,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-04T13:31:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     }
