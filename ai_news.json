@@ -1,5 +1,53 @@
 [
     {
+        "id": "6ab127b992e2385ca99ce9535b8eee40",
+        "title": "Can billion-dollar acquisitions help Indian IT firms in the AI era?",
+        "description": "Artificial intelligence is pushing Indian IT companies to buy capabilities rather than build them. As the industry's traditional business model comes under pressure, acquisitions are becoming the fastest route to AI expertise—but they also bring new financial and execution risks.",
+        "content": "For example, India's largest IT services firm, TCS, acquired Coastal Cloud for $700 million to strengthen its Salesforce and AI capabilities. Infosys acquired In-Tech for $480 million to expand its engineering R&D capabilities in the German automotiv... [6007 chars]",
+        "url": "https://www.livemint.com/industry/infotech/can-billion-dollar-acquisitions-help-indian-it-firms-in-the-ai-era-ai-is-pushing-indian-it-companies-11783079757185.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/07/03/1600x900/logo/EU-AI--0_1777541371444_1777541381748_1783097954370_30e9404f-588e-4411-b019-adf3c43bd8a5.JPG",
+        "publishedAt": "2026-07-05T01:30:20Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "1132da4e56380e48527d45383aeefe29",
+        "title": "iFLYTEK Officially Launches Open Platform in Central Asia, Positioning Uzbekistan as a New Regional AI Hub",
+        "description": "TASHKENT, Uzbekistan, July 04, 2026 (GLOBE NEWSWIRE) -- Global artificial intelligence leader iFLYTEK officially launched iFLYTEK Open Platform Central Asia during the 2026 iFLYTEK Open Platform Central Asia Launch Event held in Tashkent on July 1. Under the theme 'Let's Spark Central Asia with AI,' the event marked the company's official entry into the Central Asian market and highlighted the growing role of artificial intelligence in driving digital transformation across the region.",
+        "content": "TASHKENT, Uzbekistan, July 04, 2026 (GLOBE NEWSWIRE) -- Global artificial intelligence leader iFLYTEK officially launched iFLYTEK Open Platform Central Asia during the 2026 iFLYTEK Open Platform Central Asia Launch Event held in Tashkent on July 1. U... [5030 chars]",
+        "url": "https://www.manilatimes.net/2026/07/05/tmt-newswire/globenewswire/iflytek-officially-launches-open-platform-in-central-asia-positioning-uzbekistan-as-a-new-regional-ai-hub/2378525",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/05/1124854.jpg",
+        "publishedAt": "2026-07-05T01:20:50Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "fe46ec38d74a383eab78f04f3ee2d9db",
+        "title": "[Tech Thoughts] Godbots, or when religion mixes with artificial intelligence",
+        "description": "If we want spiritual guidance, we shouldn't rely on AI to interpret scripture for us",
+        "content": "Time and again, we’ve run across an issue of AI chatbots helping to make impressionable people do unsafe things they normally wouldn’t.\nFor instance, recent talk has been about OpenAI and ChatGPT being a disservice to people in mental health distress... [3223 chars]",
+        "url": "https://www.rappler.com/technology/features/tech-thoughts-godbots-when-religion-mixes-artificial-intelligence/",
+        "image": "https://www.rappler.com/tachyon/2026/07/godbot-july-3-2026.jpg",
+        "publishedAt": "2026-07-05T01:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1290fbc1799ff6b270a6f8b7e9761c18",
+            "name": "Rappler",
+            "url": "https://www.rappler.com",
+            "country": "ph"
+        }
+    },
+    {
         "id": "b58e3bc00553fb9173a1da6c9901e72d",
         "title": "US Startup Plans Data Centres’ Space Odyssey",
         "description": "It sounds like science fiction, but US-based satellite startup Orbital is looking to set up data centres in space that may power responses given by chatbots as artificial intelligence (AI) drives an unprecedented demand for computing power.",
@@ -108,54 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6a18601a5e1b9304d7b2dfc883ee5586",
-        "title": "Questioning leadership in the Age of AI: Why human skills may matter more than ever",
-        "description": "Experts at the Jaipuria Institute of Management's international conference addressed the profound impact of Artificial Intelligence on the modern world",
-        "content": "Artificial Intelligence is no longer a futuristic concept waiting in the wings. It is already reshaping workplaces, eliminating some jobs, creating new ones, and forcing businesses, policymakers and educational institutions to rethink what leadership... [4728 chars]",
-        "url": "https://www.theweek.in/news/sci-tech/2026/07/04/questioning-leadership-in-the-age-of-ai-why-human-skills-may-matter-more-than-ever.html",
-        "image": "https://img.theweek.in/content/dam/week/en/archive/news/sci-tech/images/2026/7/4/aim-peace-summit.jpg",
-        "publishedAt": "2026-07-04T13:09:14Z",
-        "lang": "en",
-        "source": {
-            "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
-            "name": "THE WEEK",
-            "url": "https://www.theweek.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "002fd3f1be6284581684f3cf7c56cd6a",
-        "title": "43% Indian firms use AI, but workforce readiness still lags",
-        "description": "Aon's Human Capital Trends Study found 43% of Indian organisations have deployed artificial intelligence, with another 20% piloting it. The findings show adoption is rising faster than workforce readiness and benefits alignment.",
-        "content": "Artificial intelligence is no longer a future plan for Indian workplaces, it is becoming part of everyday business. But while companies are investing in technology at a steady pace, preparing employees to work alongside it remains a bigger challenge.... [4121 chars]",
-        "url": "https://www.indiatoday.in/jobs/story/workforce-readiness-in-the-age-of-ai-43-indian-firms-use-ai-but-people-lack-skills-educ-2940523-2026-07-04",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/ai-202121694-16x9.png?VersionId=I23uEvZkniXXyUEIl5PhUXqIAR7FA6BZ",
-        "publishedAt": "2026-07-04T10:57:33Z",
-        "lang": "en",
-        "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "b99984455b7f9b44500bbe7c3b7c8dca",
-        "title": "Indian IT firms likely to report muted Q1 growth amid AI spending, macro uncertainty",
-        "description": "India's Information Technology (IT) companies are expected to report another quarter of subdued earnings growth despite seasonal strength, due to client-specific issues, weakness in select verticals and geopolitical uncertainty. Addressable tech spending in Indian IT companies is expected to remain softer year-on-year as enterprises redirect technology budgets towards artificial intelligence (AI) initiatives and Global Capability Centres (GCCs), according to a report by Systematix Research.",
-        "content": "Synopsis\nI ndia's Information Technology (IT) companies are expected to report another quarter of subdued earnings growth despite seasonal strength, due to client-specific issues, weakness in select verticals and geopolitical uncertainty. Addressable... [2921 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-it-firms-likely-to-report-muted-q1-growth-amid-ai-spending-macro-uncertainty/articleshow/132179121.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-146428,resizemode-75,msid-132179121/tech/artificial-intelligence/indian-it-firms-likely-to-report-muted-q1-growth-amid-ai-spending-macro-uncertainty.jpg",
-        "publishedAt": "2026-07-04T10:05:27Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
