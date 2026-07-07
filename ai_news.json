@@ -1,60 +1,124 @@
 [
     {
-        "id": "f41433aa72889938e624a8733996a25c",
-        "title": "First Tick: Top global cues to watch in today's trade",
-        "description": "The S&P 500 and Nasdaq ended sharply higher ​on Monday, with Broadcom and other chip stocks rallying as investors bought shares in companies related to artificial intelligence that ‌are expected to drive a strong second-quarter earnings season.",
-        "content": "Indian benchmark indices are set for a positive opening on July 7, tracking firm cues from GIFT Nifty, which was trading around 24,574.50 in early trade.\nTrack the latest updates on GIFT Nifty right here on Moneycontrol\nIndian equity markets extended... [3871 chars]",
-        "url": "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-180-13967104.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260704033427_market_stocks_sensex_Nifty.jpg",
-        "publishedAt": "2026-07-07T02:03:28Z",
+        "id": "1a5a0741b16f378b0d22152e054afa07",
+        "title": "AI Won’t Bring Back Era of Rapid Growth, Says Nobel Prize Winner",
+        "description": "A Nobel Prize-winning economist has warned that artificial intelligence will not return Western economies to the era of rapid productivity growth, which may be gone forever.",
+        "content": "A Nobel Prize-winning economist has warned that artificial intelligence will not return Western economies to the era of rapid productivity growth, which may be gone forever.\nChristopher Pissarides, who specializes on the impact of automation in work,... [373 chars]",
+        "url": "https://news.bloombergtax.com/daily-tax-report/ai-wont-bring-back-era-of-rapid-growth-says-nobel-prize-winner",
+        "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+        "publishedAt": "2026-07-07T05:15:00Z",
         "lang": "en",
         "source": {
-            "id": "fd3677545b80d5db7541de8e111d27ba",
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com",
+            "id": "2b5db686603d0197d748f18d2dc01aec",
+            "name": "Bloomberg Tax News",
+            "url": "https://news.bloombergtax.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "fe0f262d012837e5f704c6ec9594ac8e",
+        "title": "Big Tech cage fight stars old investment fallacy",
+        "description": "Alphabet, Microsoft and ⁠rival giants are ​set to spend ​some $5 trln by 2030 to dominate artificial ​intelligence. Funding ​from shareholders comes with an ‌expectation ⁠of widespread success while sustaining high profitability. Financial ​history ​suggests ⁠it rarely works out ​that way.",
+        "content": "LONDON, July 7 (Reuters Breakingviews) - Exciting inventions lead to dangerous booms, like the one occurring now in artificial intelligence. From the construction of canals and railways in Victorian England to the discovery of electricity and the arr... [6419 chars]",
+        "url": "https://www.reuters.com/commentary/breakingviews/big-tech-cage-fight-stars-old-investment-fallacy-2026-07-07/",
+        "image": "https://www.reuters.com/resizer/v2/IYE4NFC5SNPADBV5JSO3Z2RUGM.jpg?auth=5fdb7a5cb24e1a2816f9ecc0c378119184ab04b74f60b877634c5f4097aa772f&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-07-07T05:00:31Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d15d052ad4a53d40391ffefcde244dd9",
+        "title": "Efficiency cannot be the only measure of progress with AI",
+        "description": "Speed with which artificial intelligence is being absorbed into workspaces is worrying",
+        "content": "Sir, – We are repeatedly told that artificial intelligence will “free” workers from boring tasks. That may be true for some. But for many, it will simply remove the worker from the task altogether and, in many cases, already has.\nThe problem is not t... [890 chars]",
+        "url": "https://www.irishtimes.com/opinion/letters/2026/07/07/efficiency-cannot-be-the-only-measure-of-progress-with-ai/",
+        "image": "https://www.irishtimes.com/resizer/v2/6GVJTWXOI5FYPOLOK3JLHZZVVU.jpg?smart=true&auth=2781af11b396c223ac2b1f05df19ecc2dafc39caa2ffa2f14069f0e5a11189ee&width=1200&height=630",
+        "publishedAt": "2026-07-07T05:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "dd1d806725f45e4403e75c1bb23b447a",
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com",
+            "country": "ie"
+        }
+    },
+    {
+        "id": "f224d9566be5d5e40a4b28df186efca3",
+        "title": "Google Brain cofounder writes an open letter on 'Loop engineering', the term made viral by Claude creator who said that 'coding is dead'",
+        "description": "Tech News News: As artificial intelligence (AI) continues to reshape tech, the phrase “loop engineering” is now the new buzzword. A pioneering voice has now joined th.",
+        "content": "As artificial intelligence (AI) continues to reshape tech, the phrase “loop engineering” is now the new buzzword. A pioneering voice has now joined the conversation. In a newly published open letter, Andrew Ng, the cofounder of Google Brain broke dow... [6388 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-brain-cofounder-writes-an-open-letter-on-loop-engineering-the-term-made-viral-by-claude-creator-who-said-that-coding-is-dead/articleshow/132230526.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132230510,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-07T04:44:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     },
     {
-        "id": "17c258ae637a6c7182b8b5c65dbf9d2c",
-        "title": "Wall Street warms to India’s markets as oil pressures fade",
-        "description": "India had fallen out of favor as investors chased markets with greater exposure to the artificial intelligence boom, while the energy shock triggered by the US-Iran war stoked concerns about the countrys external finances, pushing the rupee to record lows. As those pressures ease, bankers and investors say interest in local assets is beginning to recover.",
-        "content": "Synopsis\nIndia had fallen out of favor as investors chased markets with greater exposure to the artificial intelligence boom, while the energy shock triggered by the US-Iran war stoked concerns about the country’s external finances, pushing the rupee... [5833 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-warms-to-indias-markets-as-oil-pressures-fade/articleshow/132228488.cms",
-        "image": "https://img.etimg.com/thumb/msid-132228478,width-1200,height-630,imgsize-140766,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-07-07T02:01:00Z",
+        "id": "a68d871d660a8bbd4df19759651ce5a5",
+        "title": "We’re only starting to grasp the pitfalls of using AI at work",
+        "description": "Scholars say the \"unknown unknowns\" of using artificial intelligence in the workplace may be undermining the technology's advertised benefits.",
+        "content": "Over the past year or two, companies have started using so-called artificial intelligence (AI) agents as bona fide “employees,” even including them in their organisational charts.\nEmma Wiles, a Boston University professor who studies how AI affects w... [6134 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/07/were-only-starting-to-grasp-the-pitfalls-of-using-ai-at-work",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996378.jpg",
+        "publishedAt": "2026-07-07T04:30:00Z",
         "lang": "en",
         "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "c03a9d293bf6f7ef078f10b6a2ab8209",
+        "title": "Nigeria probes big tech, AI firms for 'unlawful' media content use",
+        "description": "Nigeria's competition regulator said on July 6 it was investigating major technology and artificial intelligence (AI) companies over allegations of \"unlawful exploitation of news content\" and \"unfair market practices\".",
+        "content": "LAGOS: Nigeria's competition regulator said on July 6 it was investigating major technology and artificial intelligence (AI) companies over allegations of \"unlawful exploitation of news content\" and \"unfair market practices\".\nThe Federal Competition ... [1954 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/07/nigeria-probes-big-tech-ai-firms-for-039unlawful039-media-content-use",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996351.jpg",
+        "publishedAt": "2026-07-07T04:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "35e22ed09447641e723176b6104669b6",
+        "title": "Elon Musk's xAI rebrands to SpaceXAI, unveils new logo",
+        "description": "Tech News News: Elon Musk’s artificial intelligence (AI) venture, xAI, is officially no more as the company has formally been rebranded as SpaceXAI. In an announcemen.",
+        "content": "Elon Musk’s artificial intelligence (AI) venture, xAI, is officially no more as the company has formally been rebranded as SpaceXAI. In an announcement on X (formerly Twitter), it unveiled a brand-new logo. The change represents the final step in mer... [2631 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-xai-rebrands-to-spacexai-unveils-new-logo/articleshow/132228745.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132228813,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-07T03:48:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     },
     {
-        "id": "6405fab5cfac2305f7a19729db21e416",
-        "title": "Before we hail Hong Kong cinema’s return, let’s ensure its survival",
-        "description": "The rules we make around artificial intelligence and creative work today will define what the city’s culture and economy look like tomorrow.",
-        "content": "Advertisement\nBefore we hail Hong Kong cinema’s return, let’s ensure its survival\nThe rules we make around artificial intelligence and creative work today will define what the city’s culture and economy look like tomorrow\n3 -MIN READ3 -MIN\nAdam Au is... [2187 chars]",
-        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3359454/we-hail-hong-kong-cinemas-return-lets-ensure-its-survival",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/07/05/bfada570-05cd-4ac2-b1df-80defced23de_a8bb2f28.jpg?itok=4ewka_N0&v=1783227989",
-        "publishedAt": "2026-07-07T01:30:06Z",
-        "lang": "en",
-        "source": {
-            "id": "d6397b77175680e2678c0d60edcee7af",
-            "name": "South China Morning Post",
-            "url": "https://www.scmp.com",
-            "country": "hk"
-        }
-    },
-    {
-        "id": "69351aba6adecf32094075b013cd0002",
-        "title": "Ashiana Public School, Chandigarh, hosts faculty development session on AI",
-        "description": "Ashiana Public School, Chandigarh, hosted a faculty development session on artificial intelligence (AI) and computational learning, led by resource person Ravjot Singh. The session introduced teachers to computational learning as a systematic approach to solving problems through logic, observation, pattern recognition and mathematical reasoning. Educators also explored fundamental AI concepts, including algorithms, machine learning, neural networks, datasets and the craft of writing effective prompts. Engaging demonstrations of Claude and NotebookLM illustrated how AI can thoughtfully enhance teaching and learning, while underscoring the importance of validating AI-generated information through credible and diverse sources. Singh further encouraged students to participate actively in Olympiads, highlighting how such experiences nurture confidence, resilience and critical thinking. Concluding on an inspiring note, he reminded everyone that education must prepare children not merely for university, but for the universe. The session reaffirmed a powerful truth: AI will never diminish the role of teachers; rather, it will amplify their significance, for no technology can replace a teacher's ability to cultivate integrity, creativity, empathy, civic responsibility and the timeless values that shape thoughtful, compassionate human beings.",
-        "content": "Ashiana Public School, Chandigarh, hosted a faculty development session on artificial intelligence (AI) and computational learning, led by resource person Ravjot Singh. The session introduced teachers to computational learning as a systematic approac... [1104 chars]",
-        "url": "https://www.tribuneindia.com/news/schools/ashiana-public-school-chandigarh-hosts-faculty-development-session-on-ai/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBiNDI0YjgwLTc5OTgtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-07-07T00:08:27Z",
+        "id": "979e4110752c174a19bf95f3c4ae7707",
+        "title": "Foxconn sales hit record high in second quarter on AI Demand",
+        "description": "Hon Hai Precision Industry Co. reported record-high second-quarter sales driven by a surge in global demand for artificial intelligence servers. The Taiwan-based electronics manufacturing giant, widely known as Foxconn, experienced significant growth across its core operational divisions during the April to June period.",
+        "content": "Taipei [Taiwan], July 7 (ANI): Hon Hai Precision Industry Co. reported record-high second-quarter sales driven by a surge in global demand for artificial intelligence servers. The Taiwan-based electronics manufacturing giant, widely known as Foxconn,... [2736 chars]",
+        "url": "https://www.tribuneindia.com/news/business/foxconn-sales-hit-record-high-in-second-quarter-on-ai-demand/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA1MTUzMjQwLTc5YjYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-07-07T03:43:24Z",
         "lang": "en",
         "source": {
             "id": "c5725557f39c24c8b029ee39900a8406",
@@ -64,99 +128,35 @@
         }
     },
     {
-        "id": "cba760a988bbda00b4a7d4421b2bc7a1",
-        "title": "‘Will humanity shape AI or let it shape us?’",
-        "description": "as artificial intelligence races at “runaway speed”, the un launched on monday a global meeting to ponder the existential question posed by secretary-general antonio guterres: will humanity “shape this transformation together -- or let it shape us”? “today, that question has an answer -- right here, at this global dialogue on ai governance,” he said. “for the first time, every country has a seat at the table, and we have a shared base of evidence.” “some lines, once crossed, cannot be uncrossed,” he warned",
-        "content": "UNITED NATIONS :\nAS artificial intelligence races at “runaway speed”, the UN launched on Monday a global meeting to ponder the existential question posed by Secretary-General Antonio Guterres: Will humanity “shape this transformation together -- or l... [1753 chars]",
-        "url": "https://www.thehitavada.com/Encyc/2026/7/7/will-humanity-shape-ai-or-let-it-shape-us.html",
-        "image": "https://www.thehitavada.com/Encyc/2026/7/7/Will-humanity-shape-AI-or-let-it-shape-us_202607071127388575_H@@IGHT_573_W@@IDTH_1800.jpg",
-        "publishedAt": "2026-07-07T00:00:00Z",
+        "id": "7ebd7b4166148f88342973ce4f5d6d66",
+        "title": "Delhi High Court Protects Ravi Kishan's Personality Rights, Restrains AI and Deepfake Misuse",
+        "description": "The court restrained the defendants from misappropriating Ravi Kishan's public persona attributes through any technology, including Artificial Intelligence, Generative Al, Machine Learning and Deepfakes, across any medium.",
+        "content": "New Delhi: The Delhi High Court has granted an ex parte ad interim injunction in favour of actor and BJP MP Ravi Kishan, restraining the unauthorised use of his name, image, voice and other personality attributes for commercial or personal gain. The ... [1534 chars]",
+        "url": "https://www.deccanchronicle.com/entertainment/bollywood/delhi-high-court-protects-ravi-kishans-personality-rights-restrains-ai-and-deepfake-misuse-1968963",
+        "image": "https://www.deccanchronicle.com/h-upload/2026/07/07/2060865-ravi-kishan.jpg",
+        "publishedAt": "2026-07-07T03:35:59Z",
         "lang": "en",
         "source": {
-            "id": "2ff4b6327735b249ca9fe9bb8f044251",
-            "name": "The Hitavada",
-            "url": "https://www.thehitavada.com",
+            "id": "214d496d625fc657723cf4da80cff8ce",
+            "name": "Deccan Chronicle",
+            "url": "https://www.deccanchronicle.com",
             "country": "in"
         }
     },
     {
-        "id": "463a03c219266b4bac03d014de99b06e",
-        "title": "Ranking the top Agentic AI Security Solutions in 2026",
-        "description": "Agentic AI is changing the way businesses use artificial intelligence. Traditional AI tools simply generate responses. AI agents can make decisions. They can interact with...",
-        "content": "GUEST OPINION: Agentic AI is changing the way businesses use artificial intelligence. Traditional AI tools simply generate responses. AI agents can make decisions. They can interact with systems and complete tasks independently.\nWhile this creates ne... [3319 chars]",
-        "url": "https://itwire.com/guest-articles/guest-opinion/ranking-the-top-agentic-ai-security-solutions-in-2026",
-        "image": "https://media.itwire.com/2026/07/06/ranking-the-top-agentic-ai-security-solutions-in-2026-0212448d0bb2.png",
-        "publishedAt": "2026-07-06T22:42:16Z",
-        "lang": "en",
-        "source": {
-            "id": "10cbfb3760cfcdeb78c733c527f0e814",
-            "name": "iTWire",
-            "url": "https://itwire.com",
-            "country": "au"
-        }
-    },
-    {
-        "id": "6423684a49bd3906ad74bdde9ece1a23",
-        "title": "Is AI ready to take over your prescriptions? Doctors are wary of Utah's automated refill program.",
-        "description": "WASHINGTON — A prescription refill program that quietly launched in Utah earlier this year has kicked off a big medical debate: Is artificial intelligence ready to take over tasks that, until now, could only be performed by doctors?",
-        "content": "At the center of the debate: state and federal laws limit prescribing to licensed medical professionals. Proponents say those laws, which have underwritten American medicine for over 100 years, should be updated to include AI chatbots and other new t... [6284 chars]",
-        "url": "https://www.bostonglobe.com/2026/07/06/nation/is-ai-ready-take-over-your-prescriptions-doctors-are-wary-utahs-automated-refill-program/",
-        "image": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=672",
-        "publishedAt": "2026-07-06T22:25:23Z",
-        "lang": "en",
-        "source": {
-            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-            "name": "The Boston Globe",
-            "url": "https://www.bostonglobe.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6fef9512f40feea4ac1e37e21672fafa",
-        "title": "How AI Is Transforming the Collision Repair Industry",
-        "description": "A good auto collision repair company uses a combination of skilled craftsmanship, years of experience, and specialized equipment to perform these tasks. However, modern collision repair companies want to ensure they are making accurate assessments, repair estimates, and more efficient repairs. That is why they are turning to artificial intelligence (AI) for assistance.",
-        "content": "Share\nShare\nShare\nShare\nEmail\nCollision repair is a billion-dollar industry. When people suffer auto collisions that cause damage to their vehicles, they need a professional collision repair company to assess and repair the damage. These repair servi... [6747 chars]",
-        "url": "https://techbullion.com/how-ai-is-transforming-the-collision-repair-industry/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/07/Collision-Repair-1000x600.png",
-        "publishedAt": "2026-07-06T22:12:47Z",
-        "lang": "en",
-        "source": {
-            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-            "name": "TechBullion",
-            "url": "https://techbullion.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "e0eb03ef7cbe9a639cf7dffac7cd9ce8",
-        "title": "Harvey Keitel reveals why he thinks AI has already ‘failed’",
-        "description": "The veteran actor has voiced concerns over artificial intelligence in filmmaking, arguing technology cannot replicate the emotional depth of a human performance while also revealing details of his latest independent film project.",
-        "content": "Harvey Keitel has warned artificial intelligence cannot replicate the emotional depth of a human performance.\nThe actor, 87, says the technology has failed to capture the qualities that make actors unique as he voiced concerns about the movie industr... [3290 chars]",
-        "url": "https://www.perthnow.com.au/entertainment/celebrity-gossip/harvey-keitel-reveals-why-he-thinks-ai-has-already-failed-c-22540438",
-        "image": "https://images.perthnow.com.au/publication/C-22540438/160ebfa0a436a9133daf2c1f2a43eb652bbc1ba7-16x9-x0y192w2048h1152.jpg?imwidth=1200",
-        "publishedAt": "2026-07-06T22:02:10Z",
+        "id": "f439fdc07c1d6816b30f4ed2394deb6e",
+        "title": "AI powers around a quarter of child image abuse cases",
+        "description": "Artificial intelligence is heavily involved in the online sexual victimisation of Australian children, changing both how they are harmed and how they seek help.",
+        "content": "AI is now fuelling more than a quarter of cases of non-consensual sexual image sharing of children, while also increasingly becoming a victim's confidant.\nBreakthrough research released by the International Centre for Missing and Exploited Children A... [1677 chars]",
+        "url": "https://www.perthnow.com.au/lifestyle/family-life/ai-powers-around-a-quarter-of-child-image-abuse-cases-c-22542307",
+        "image": "https://images.perthnow.com.au/publication/C-22542307/8c0f1140b617b06dacb95094500f657836aa91fe-16x9-x0y0w1280h720.jpg?imwidth=1200",
+        "publishedAt": "2026-07-07T03:28:50Z",
         "lang": "en",
         "source": {
             "id": "7f6e8514e9d8f8376aaa9a7229861518",
             "name": "PerthNow",
             "url": "https://www.perthnow.com.au",
             "country": "au"
-        }
-    },
-    {
-        "id": "4f1cac6d6b9436fc487e795888b74b7f",
-        "title": "U.S. Companies Have Been Taking Measures To Prevent China To Take From Their AI Models. Now They're Escalating.",
-        "description": "Leading U.S. artificial intelligence companies are quietly deploying increasingly aggressive measures to prevent Chinese rivals from using their technology to accelerate their own development.",
-        "content": "Leading U.S. artificial intelligence companies are quietly deploying increasingly aggressive measures to prevent Chinese rivals from using their technology to accelerate their own development.\nAnthropic recently admitted that it briefly embedded soft... [4291 chars]",
-        "url": "https://www.ibtimes.com/us-companies-have-been-taking-measures-prevent-china-take-their-ai-models-now-theyre-3804982",
-        "image": "https://d.ibtimes.com/en/full/4651071/china-ai-war-us.jpg",
-        "publishedAt": "2026-07-06T22:02:01Z",
-        "lang": "en",
-        "source": {
-            "id": "933344203c2b862af768b5e662a162a4",
-            "name": "International Business Times",
-            "url": "https://www.ibtimes.com",
-            "country": "us"
         }
     }
 ]
