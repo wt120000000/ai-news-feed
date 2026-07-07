@@ -1,76 +1,44 @@
 [
     {
-        "id": "1a5a0741b16f378b0d22152e054afa07",
-        "title": "AI Won’t Bring Back Era of Rapid Growth, Says Nobel Prize Winner",
+        "id": "12931b679e43ebb24af0ffaccc6c95bc",
+        "title": "'Deceiving' AI tech to be expanded in Australia",
+        "description": "Artificial intelligence technology can already blackmail humans and hack computer systems, a minister warns, and an Australian agency...",
+        "content": "Artificial Intelligence testing has found the tool could make harmful decisions without guardrails. Photo: George Chan/AAP PHOTOS\nThe artificial intelligence technology of a company wanting to massively expand in Australia is one of several hacking, ... [5118 chars]",
+        "url": "https://www.canberratimes.com.au/story/9306192/deceiving-ai-tech-to-be-expanded-in-australia/",
+        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/d7792b73-6968-46ad-8bee-debebdf1494e.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+        "publishedAt": "2026-07-07T07:32:57Z",
+        "lang": "en",
+        "source": {
+            "id": "92021aca7322dc2b29226023c35d9a4a",
+            "name": "The Canberra Times",
+            "url": "https://www.canberratimes.com.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "634ac9f8535894e8fd392d9f04e8aa3e",
+        "title": "AI's cooling crisis: Why future data centres in space may not need a single drop of water",
+        "description": "Science News: Artificial intelligence is driving an unprecedented surge in demand for computing power. Still, the data centres behind today's most advanced AI model.",
+        "content": "Artificial intelligence is driving an unprecedented surge in demand for computing power. Still, the data centres behind today's most advanced AI models face a growing challenge: keeping millions of processors cool without consuming vast amounts of en... [6531 chars]",
+        "url": "https://timesofindia.indiatimes.com/science/ais-cooling-crisis-why-future-data-centres-in-space-may-not-need-a-single-drop-of-water/articleshow/132232641.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132232699,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-07T07:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "a6c3f52c1e045c656e2b0abdf4f0e616",
+        "title": "AI won’t bring back era of rapid growth, says Nobel Prize winner",
         "description": "A Nobel Prize-winning economist has warned that artificial intelligence will not return Western economies to the era of rapid productivity growth, which may be gone forever.",
-        "content": "A Nobel Prize-winning economist has warned that artificial intelligence will not return Western economies to the era of rapid productivity growth, which may be gone forever.\nChristopher Pissarides, who specializes on the impact of automation in work,... [373 chars]",
-        "url": "https://news.bloombergtax.com/daily-tax-report/ai-wont-bring-back-era-of-rapid-growth-says-nobel-prize-winner",
-        "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
-        "publishedAt": "2026-07-07T05:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "2b5db686603d0197d748f18d2dc01aec",
-            "name": "Bloomberg Tax News",
-            "url": "https://news.bloombergtax.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "fe0f262d012837e5f704c6ec9594ac8e",
-        "title": "Big Tech cage fight stars old investment fallacy",
-        "description": "Alphabet, Microsoft and ⁠rival giants are ​set to spend ​some $5 trln by 2030 to dominate artificial ​intelligence. Funding ​from shareholders comes with an ‌expectation ⁠of widespread success while sustaining high profitability. Financial ​history ​suggests ⁠it rarely works out ​that way.",
-        "content": "LONDON, July 7 (Reuters Breakingviews) - Exciting inventions lead to dangerous booms, like the one occurring now in artificial intelligence. From the construction of canals and railways in Victorian England to the discovery of electricity and the arr... [6419 chars]",
-        "url": "https://www.reuters.com/commentary/breakingviews/big-tech-cage-fight-stars-old-investment-fallacy-2026-07-07/",
-        "image": "https://www.reuters.com/resizer/v2/IYE4NFC5SNPADBV5JSO3Z2RUGM.jpg?auth=5fdb7a5cb24e1a2816f9ecc0c378119184ab04b74f60b877634c5f4097aa772f&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-07-07T05:00:31Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d15d052ad4a53d40391ffefcde244dd9",
-        "title": "Efficiency cannot be the only measure of progress with AI",
-        "description": "Speed with which artificial intelligence is being absorbed into workspaces is worrying",
-        "content": "Sir, – We are repeatedly told that artificial intelligence will “free” workers from boring tasks. That may be true for some. But for many, it will simply remove the worker from the task altogether and, in many cases, already has.\nThe problem is not t... [890 chars]",
-        "url": "https://www.irishtimes.com/opinion/letters/2026/07/07/efficiency-cannot-be-the-only-measure-of-progress-with-ai/",
-        "image": "https://www.irishtimes.com/resizer/v2/6GVJTWXOI5FYPOLOK3JLHZZVVU.jpg?smart=true&auth=2781af11b396c223ac2b1f05df19ecc2dafc39caa2ffa2f14069f0e5a11189ee&width=1200&height=630",
-        "publishedAt": "2026-07-07T05:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "dd1d806725f45e4403e75c1bb23b447a",
-            "name": "The Irish Times",
-            "url": "https://www.irishtimes.com",
-            "country": "ie"
-        }
-    },
-    {
-        "id": "f224d9566be5d5e40a4b28df186efca3",
-        "title": "Google Brain cofounder writes an open letter on 'Loop engineering', the term made viral by Claude creator who said that 'coding is dead'",
-        "description": "Tech News News: As artificial intelligence (AI) continues to reshape tech, the phrase “loop engineering” is now the new buzzword. A pioneering voice has now joined th.",
-        "content": "As artificial intelligence (AI) continues to reshape tech, the phrase “loop engineering” is now the new buzzword. A pioneering voice has now joined the conversation. In a newly published open letter, Andrew Ng, the cofounder of Google Brain broke dow... [6388 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-brain-cofounder-writes-an-open-letter-on-loop-engineering-the-term-made-viral-by-claude-creator-who-said-that-coding-is-dead/articleshow/132230526.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132230510,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-07T04:44:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a68d871d660a8bbd4df19759651ce5a5",
-        "title": "We’re only starting to grasp the pitfalls of using AI at work",
-        "description": "Scholars say the \"unknown unknowns\" of using artificial intelligence in the workplace may be undermining the technology's advertised benefits.",
-        "content": "Over the past year or two, companies have started using so-called artificial intelligence (AI) agents as bona fide “employees,” even including them in their organisational charts.\nEmma Wiles, a Boston University professor who studies how AI affects w... [6134 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/07/were-only-starting-to-grasp-the-pitfalls-of-using-ai-at-work",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996378.jpg",
-        "publishedAt": "2026-07-07T04:30:00Z",
+        "content": "A Nobel Prize-winning economist has warned that artificial intelligence (AI) will not return Western economies to the era of rapid productivity growth, which may be gone forever.\nChristopher Pissarides, who specialises in the impact of automation in ... [2171 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/07/ai-wont-bring-back-era-of-rapid-growth-says-nobel-prize-winner",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996730.jpg",
+        "publishedAt": "2026-07-07T07:00:00Z",
         "lang": "en",
         "source": {
             "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -80,45 +48,29 @@
         }
     },
     {
-        "id": "c03a9d293bf6f7ef078f10b6a2ab8209",
-        "title": "Nigeria probes big tech, AI firms for 'unlawful' media content use",
-        "description": "Nigeria's competition regulator said on July 6 it was investigating major technology and artificial intelligence (AI) companies over allegations of \"unlawful exploitation of news content\" and \"unfair market practices\".",
-        "content": "LAGOS: Nigeria's competition regulator said on July 6 it was investigating major technology and artificial intelligence (AI) companies over allegations of \"unlawful exploitation of news content\" and \"unfair market practices\".\nThe Federal Competition ... [1954 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/07/nigeria-probes-big-tech-ai-firms-for-039unlawful039-media-content-use",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996351.jpg",
-        "publishedAt": "2026-07-07T04:00:00Z",
+        "id": "74c8f586ca0ab4ce3c247ff8a374849a",
+        "title": "South Korea's Kospi Tumbles Over 8%; What It Means for Indian Stocks",
+        "description": "Weakness came amid growing concerns that the rally in artificial intelligence-related stocks may have run ahead of fundamentals., Markets, Times Now",
+        "content": "A dealer watches computer monitors at a dealing room of Hana Bank in Seoul, South Korea. (AP Photo/Lee Jin-man)\nPhoto : AP\nSouth Korea's stock markets on Tuesday fell over 8 per cent due to the renewed selling in the Information Technology (IT) stock... [1093 chars]",
+        "url": "https://www.timesnownews.com/business-economy/markets/south-koreas-kospi-tumbles-over-8-what-it-means-for-indian-stocks-article-154954390",
+        "image": "https://images.timesnownews.com/thumb/msid-154954408,thumbsize-54410,width-1280,height-720,resizemode-75/154954408.jpg",
+        "publishedAt": "2026-07-07T06:50:52Z",
         "lang": "en",
         "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "35e22ed09447641e723176b6104669b6",
-        "title": "Elon Musk's xAI rebrands to SpaceXAI, unveils new logo",
-        "description": "Tech News News: Elon Musk’s artificial intelligence (AI) venture, xAI, is officially no more as the company has formally been rebranded as SpaceXAI. In an announcemen.",
-        "content": "Elon Musk’s artificial intelligence (AI) venture, xAI, is officially no more as the company has formally been rebranded as SpaceXAI. In an announcement on X (formerly Twitter), it unveiled a brand-new logo. The change represents the final step in mer... [2631 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-xai-rebrands-to-spacexai-unveils-new-logo/articleshow/132228745.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132228813,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-07T03:48:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
+            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+            "name": "Times Now",
+            "url": "https://www.timesnownews.com",
             "country": "in"
         }
     },
     {
-        "id": "979e4110752c174a19bf95f3c4ae7707",
-        "title": "Foxconn sales hit record high in second quarter on AI Demand",
-        "description": "Hon Hai Precision Industry Co. reported record-high second-quarter sales driven by a surge in global demand for artificial intelligence servers. The Taiwan-based electronics manufacturing giant, widely known as Foxconn, experienced significant growth across its core operational divisions during the April to June period.",
-        "content": "Taipei [Taiwan], July 7 (ANI): Hon Hai Precision Industry Co. reported record-high second-quarter sales driven by a surge in global demand for artificial intelligence servers. The Taiwan-based electronics manufacturing giant, widely known as Foxconn,... [2736 chars]",
-        "url": "https://www.tribuneindia.com/news/business/foxconn-sales-hit-record-high-in-second-quarter-on-ai-demand/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA1MTUzMjQwLTc5YjYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-07-07T03:43:24Z",
+        "id": "4aa12bbbb838f93655b92da0e2ff4bbe",
+        "title": "IIM Bangalore to open campus in Indonesia, announces PM Modi; hails bilateral pacts \"driven by technology\" in AI, space",
+        "description": "India and Indonesia signed major agreements to boost cooperation in artificial intelligence, digital infrastructure, startups, and space research. The two countries also announced the establishment of an IIM Bangalore campus in Indonesia, strengthening educational, technological, and youth partnerships during Prime Minister Narendra Modi's visit.",
+        "content": "Jakarta [Indonesia], July 7 (ANI): Signalling a massive leap in bilateral tech and educational ties, India and Indonesia on Tuesday finalised a series of landmark pacts aimed at empowering the youth of both nations and expanding cooperation in cuttin... [3891 chars]",
+        "url": "https://www.tribuneindia.com/news/world/iim-bangalore-to-open-campus-in-indonesia-announces-pm-modi-hails-bilateral-pacts-driven-by-technology-in-ai-space/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZjM2JkMzgwLTc5Y2UtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-07-07T06:38:01Z",
         "lang": "en",
         "source": {
             "id": "c5725557f39c24c8b029ee39900a8406",
@@ -128,35 +80,83 @@
         }
     },
     {
-        "id": "7ebd7b4166148f88342973ce4f5d6d66",
-        "title": "Delhi High Court Protects Ravi Kishan's Personality Rights, Restrains AI and Deepfake Misuse",
-        "description": "The court restrained the defendants from misappropriating Ravi Kishan's public persona attributes through any technology, including Artificial Intelligence, Generative Al, Machine Learning and Deepfakes, across any medium.",
-        "content": "New Delhi: The Delhi High Court has granted an ex parte ad interim injunction in favour of actor and BJP MP Ravi Kishan, restraining the unauthorised use of his name, image, voice and other personality attributes for commercial or personal gain. The ... [1534 chars]",
-        "url": "https://www.deccanchronicle.com/entertainment/bollywood/delhi-high-court-protects-ravi-kishans-personality-rights-restrains-ai-and-deepfake-misuse-1968963",
-        "image": "https://www.deccanchronicle.com/h-upload/2026/07/07/2060865-ravi-kishan.jpg",
-        "publishedAt": "2026-07-07T03:35:59Z",
+        "id": "f59e6b3523c3db891b9bcb7a2c019826",
+        "title": "UN Launches First Global Dialogue on AI Governance",
+        "description": "UN Secretary-General António Guterres warned that artificial intelligence is advancing at an extraordinary pace, making international cooperation more important than ever.",
+        "content": "The United Nations has launched its first Global Dialogue on Artificial Intelligence Governance, bringing together governments, technology companies, researchers, civil society organisations, and technical experts to shape a more inclusive approach t... [4305 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3946292-un-launches-first-global-dialogue-on-ai-governance",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/07_07_2026_11_30_33_4080176.png&width=920&format=jpeg",
+        "publishedAt": "2026-07-07T06:37:48Z",
         "lang": "en",
         "source": {
-            "id": "214d496d625fc657723cf4da80cff8ce",
-            "name": "Deccan Chronicle",
-            "url": "https://www.deccanchronicle.com",
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
             "country": "in"
         }
     },
     {
-        "id": "f439fdc07c1d6816b30f4ed2394deb6e",
-        "title": "AI powers around a quarter of child image abuse cases",
-        "description": "Artificial intelligence is heavily involved in the online sexual victimisation of Australian children, changing both how they are harmed and how they seek help.",
-        "content": "AI is now fuelling more than a quarter of cases of non-consensual sexual image sharing of children, while also increasingly becoming a victim's confidant.\nBreakthrough research released by the International Centre for Missing and Exploited Children A... [1677 chars]",
-        "url": "https://www.perthnow.com.au/lifestyle/family-life/ai-powers-around-a-quarter-of-child-image-abuse-cases-c-22542307",
-        "image": "https://images.perthnow.com.au/publication/C-22542307/8c0f1140b617b06dacb95094500f657836aa91fe-16x9-x0y0w1280h720.jpg?imwidth=1200",
-        "publishedAt": "2026-07-07T03:28:50Z",
+        "id": "e71e85541c6f7fbb231c156f5b5137d9",
+        "title": "Elon Musk's xAI Rebrands To SpaceXAI, Unveils New Logo",
+        "description": "Elon Musk’s artificial intelligence company xAI has officially become SpaceXAI after completing its integration with SpaceX. The company changed its X handle and unveiled a new logo, while AI products including Grok will now operate under the SpaceXAI name. The move follows SpaceX’s acquisition of xAI earlier this year.",
+        "content": "Elon Musk's artificial intelligence company xAI has officially rebranded as SpaceXAI, rolling out a new logo and switching its handle on X. The change, which went live this week, marks the completion of xAI's absorption into SpaceX months after the t... [1286 chars]",
+        "url": "https://www.freepressjournal.in/tech/elon-musks-xai-rebrands-to-spacexai-unveils-new-logo",
+        "image": "https://media.assettype.com/freepressjournal/2026-07-07/3y0hiwzs/spacexAi.jpg",
+        "publishedAt": "2026-07-07T06:17:12Z",
         "lang": "en",
         "source": {
-            "id": "7f6e8514e9d8f8376aaa9a7229861518",
-            "name": "PerthNow",
-            "url": "https://www.perthnow.com.au",
-            "country": "au"
+            "id": "7eeaf9a839918543cc708f2d331c3be4",
+            "name": "Free Press Journal",
+            "url": "https://www.freepressjournal.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "9f0aefd260bd62e5a5f0178a56bddb0c",
+        "title": "AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns",
+        "description": "Andrew Charlton says artificial intelligence ‘cheating, deceiving, going their own way’ – and time to get ahead of it is in testing lab",
+        "content": "Artificial intelligence models are already “cheating, deceiving and going their own way”, Australia’s assistant minister for technology, Andrew Charlton, has warned, as the federal government’s AI Safety Institute begins testing the latest models.\nIn... [3319 chars]",
+        "url": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
+        "image": "https://i.guim.co.uk/img/media/a873423527e0a1a4bde5e05f0361df22ab3d934c/440_0_3261_2609/master/3261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e0302805ddb0161b691bf0f92838fe5",
+        "publishedAt": "2026-07-07T06:08:57Z",
+        "lang": "en",
+        "source": {
+            "id": "01558c024928d45cf320f6f75eede787",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "91f86f30240fd5c739fbdfd3c7136b7c",
+        "title": "Season 3 launches its season finale episode featuring Sriram Santhanam, Head of Startups, AWS India",
+        "description": "New Delhi [India], July 7: India's startup ecosystem is entering a defining phase where innovation is no longer just about building fast, but building intelligently at scale. As artificial intelligence moves from experimentation to real-world deployment and cloud infrastructure becomes more deeply embedded in business strategy, startups are shifting towards leaner, more efficient and globally competitive models. With increasing access to advanced technologies and stronger ecosystem support, founders across the country are now equipped to transform bold ideas into scalable and future-ready enterprises.",
+        "content": "VMPL\nNew Delhi [India], July 7: India's startup ecosystem is entering a defining phase where innovation is no longer just about building fast, but building intelligently at scale. As artificial intelligence moves from experimentation to real-world de... [5934 chars]",
+        "url": "https://www.tribuneindia.com/news/business/crafting-bharat-season-3-launches-its-season-finale-episode-featuring-sriram-santhanam-head-of-startups-aws-india/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVjNTM1NzgwLTc5YzUtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-07-07T05:33:11Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "9c5931d61a21de4bd95c43d36dc6b61a",
+        "title": "Reddit is cracking down on AI marketing slop with its own AI",
+        "description": "Reddit Inc is battling a new kind of spam: stealth marketing content created by brands that want to get mentioned by popular artificial intelligence chatbots like ChatGPT and Gemini.",
+        "content": "Reddit Inc is battling a new kind of spam: stealth marketing content created by brands that want to get mentioned by popular artificial intelligence (AI) chatbots like ChatGPT and Gemini.\nOpenAI and Alphabet Inc, whose AI tools formulate responses an... [3269 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/07/reddit-is-cracking-down-on-ai-marketing-slop-with-its-own-ai",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996456.jpg",
+        "publishedAt": "2026-07-07T05:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
         }
     }
 ]
