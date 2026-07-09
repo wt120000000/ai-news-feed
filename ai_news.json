@@ -1,5 +1,85 @@
 [
     {
+        "id": "a30d6ff45d0aa5a6296d56474c71d756",
+        "title": "OpenAI to launch new AI model after US lifts restrictions",
+        "description": "WASHINGTON:  OpenAI said its latest generation of artificial intelligence models, the GPT-5.6 series, will be released to the public on Thursda",
+        "content": "WASHINGTON: OpenAI said its latest generation of artificial intelligence models, the GPT-5.6 series, will be released to the public on Thursday after a period of limited access, amid heightened scrutiny over the technology’s potential cybersecurity r... [2528 chars]",
+        "url": "https://www.bolnews.com/technology/openai-to-launch-new-ai-model-after-us-lifts-restrictions/",
+        "image": "https://www.bolnews.com/wp-content/uploads/2026/07/FotoJet-11-3.webp",
+        "publishedAt": "2026-07-08T12:05:41Z",
+        "lang": "en",
+        "source": {
+            "id": "e98c4d2585c4c5661ffe60fed4d51930",
+            "name": "BOL News",
+            "url": "https://www.bolnews.com",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "5ce1c43f7a46de88b91a531b3985b7d9",
+        "title": "AI penetration doubles in India's retail GCCs, but senior talent remains scarce",
+        "description": "Artificial intelligence penetration in India's retail Global Capability Centres (GCC) has doubled, yet AI professionals still represent fewer than one in 20 employees, according to a report by TeamLease Digital. The findings highlighted a stark capability mismatch even as India scales its presence globally, holding 180 centres and over 270,000 professionals.",
+        "content": "Synopsis\nArtificial intelligence penetration in India's retail Global Capability Centres (GCC) has doubled, yet AI professionals still represent fewer than one in 20 employees, according to a report by TeamLease Digital. The findings highlighted a st... [3650 chars]",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/ai-penetration-doubles-in-indias-retail-gccs-but-senior-talent-remains-scarce/articleshow/132262139.cms",
+        "image": "https://img.etimg.com/thumb/msid-132262226,width-1200,height-630,imgsize-146428,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-07-08T11:28:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "68891fd909ca2f9b30c5b7b51aac0b0c",
+        "title": "China warns of \"security backdoor\" in Anthropic AI coding tool",
+        "description": "A Chinese industry regulator warned users of a \"security backdoor\" embedded in versions of U.S. artificial intelligence company Anthropic's coding tool, Claude Code.",
+        "content": "Beijing — A Chinese industry regulator warned users on Wednesday of a \"security backdoor\" embedded in versions of U.S. artificial intelligence giant Anthropic's coding tool, Claude Code.\nThe alleged backdoor could enable the software to \"transmit sen... [2077 chars]",
+        "url": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/08/6477fa20-b3ac-4405-b5bc-bfd2831400bc/thumbnail/1200x630/a9f258c367462c38b4948918414bfebf/gettyimages-2284602172.jpg",
+        "publishedAt": "2026-07-08T11:10:14Z",
+        "lang": "en",
+        "source": {
+            "id": "3a3847d645a619320aa3b3484581e395",
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "3b4e8810a3d125082a6a985891888b63",
+        "title": "AI penetration doubles in India's retail GCCs, but senior talent remains scarce: Report",
+        "description": "Artificial intelligence penetration in India's retail Global Capability Centres (GCC) has doubled, yet AI professionals still represent fewer than one in 20 employees, according to a report by TeamLease Digital. The findings highlighted a stark capability mismatch even as India scales its presence globally, holding 180 centres and over 270,000 professionals.",
+        "content": "New Delhi [India], July 8 (ANI): Artificial intelligence penetration in India's retail Global Capability Centres (GCC) has doubled, yet AI professionals still represent fewer than one in 20 employees, according to a report by TeamLease Digital. The f... [2777 chars]",
+        "url": "https://www.tribuneindia.com/news/business/ai-penetration-doubles-in-indias-retail-gccs-but-senior-talent-remains-scarce-report/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE2YjJjNGQwLTdhYmMtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-07-08T11:03:19Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "883071956a0bdb23fd580540dc81614b",
+        "title": "UNHCR Warns AI-Fuelled Misinformation Is Putting Refugees at Risk",
+        "description": "Speaking at the AI for Good Summit in Geneva, UNHCR said artificial intelligence is reshaping the global information landscape in ways that bring both promise and danger.",
+        "content": "The UN Refugee Agency (UNHCR) has warned that the rapid spread of misinformation, hate speech and AI-generated deepfakes is creating serious risks for refugees and humanitarian workers, making it harder for displaced people to access protection while... [3540 chars]",
+        "url": "https://www.devdiscourse.com/article/other/3946988-unhcr-warns-ai-fuelled-misinformation-is-putting-refugees-at-risk",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/08_07_2026_11_14_16_2570829.png&width=920&format=jpeg",
+        "publishedAt": "2026-07-08T10:42:18Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "b965275a6985db48f6867b46ddeae970",
         "title": "Seoul shares plummet 5.4 pct on extended tech losses",
         "description": "Seoul shares plummeted 5.4 percent Wednesday as technology stocks extended their losses and investors reassessed the outlook for artificial intelligence (AI) trade.",
@@ -76,86 +156,6 @@
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "ba380a15c51d74d015ecadff45a3f908",
-        "title": "Singapore's Temasek to ramp up AI exposure as its portfolio value hits record high",
-        "description": "Temasek said it has benefited from the digitisation wave in the past and that it viewed the advancement of AI as a pivotal phase that will create new opportunities. The company has identified five focus areas to deploy capital in artificial intelligence.",
-        "content": "Singapore, July 8, (ANI): Singapore's state-backed investor Temasek is betting big on artificial intelligence as it scopes opportunities in emerging technologies to deliver sustainable returns.\nThe investment giant said that it plans to take the AI-r... [2342 chars]",
-        "url": "https://www.tribuneindia.com/news/business/singapores-temasek-to-ramp-up-ai-exposure-as-its-portfolio-value-hits-record-high/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdhNjgyMmIwLTdhYWEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-07-08T08:53:17Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "07517785d1de43f66f4ae8a1de9c277e",
-        "title": "Invest in AI, improve enforcement, set aside schisms",
-        "description": "The needs of SC employers are rapidly changing. If we want our workforce to thrive in the decades ahead, we must embrace innovation and strengthen America's leadership in artificial intelligence.",
-        "content": "Invest in AI\nThe needs of S.C. employers are rapidly changing. If we want our workforce to thrive in the decades ahead, we must embrace innovation and strengthen America's leadership in artificial intelligence.\nThe Palmetto State’s economy has grown ... [3596 chars]",
-        "url": "https://www.postandcourier.com/opinion/letters_to_editor/inivest-ai-enforcement-charleston-livability-letters-to-the-editor/article_f09d081a-464d-47ce-a4a4-6aea2debb5df.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/b/56/b5646c5a-d217-40ae-8b3b-8ee0edb3c22f/698e3a9bcf50d.image.jpg?crop=1634%2C858%2C0%2C190&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2026-07-08T08:45:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c1903669db0b115cc673ce9c333a70dd",
-            "name": "Charleston Post and Courier",
-            "url": "https://www.postandcourier.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d7f6cc511a31858cda246a7d5b677261",
-        "title": "Arunkumar Raman's Hotel Growth Hub Leads India's AI",
-        "description": "Chennai (Tamil Nadu) [India], July 8: Artificial Intelligence, Google Search, changing traveller behaviour, and increasing dependence on Online Travel Agencies (OTAs) are redefining how hotels attract guests and grow their business. While large hotel brands continue to invest heavily in technology and digital marketing, thousands of independent hotels are searching for practical ways to remain competitive.",
-        "content": "VMPL\nChennai (Tamil Nadu) [India], July 8: Artificial Intelligence, Google Search, changing traveller behaviour, and increasing dependence on Online Travel Agencies (OTAs) are redefining how hotels attract guests and grow their business. While large ... [4029 chars]",
-        "url": "https://www.tribuneindia.com/news/business/arunkumar-ramans-hotel-growth-hub-leads-indias-ai-powered-hotel-growth-summit-ignite-2026/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIxYTJhNzMwLTdhYTctMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-07-08T08:33:20Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "b849ac705485456c8f37a61362ad1b68",
-        "title": "Oil prices jump more than 2% after US strikes on Iran, while world shares retreat",
-        "description": "Shares are mostly lower in Europe and Asia and oil prices surged more than 2% after the U.S. launched strikes on Iran. Stocks in South Korea dipped 5.4% following a retreat on Wall Street as the AI roller-coaster took tech shares sharply lower. On Tuesday, the S&P 500 fell 0.4% even though the majority of stocks within the index rose. The downturn for artificial-intelligence-related stocks dragged the Nasdaq composite down 1.2%. The Dow Jones Industrial Average dipped 0.2%. AI stocks worldwide have been swinging because of worries their prices have shot too high. Stocks also felt pressure from rising oil prices. The latest strikes on Iran followed attacks on three ships in the Strait of Hormuz.",
-        "content": "BANGKOK (AP) — Shares fell Wednesday in Europe and Asia and oil prices surged more than 2% after the U.S. launched strikes on Iran following attacks on three ships in the Strait of Hormuz.\nBrent crude, the international standard, jumped 2.2% to $75.8... [1267 chars]",
-        "url": "https://www.ajc.com/news/2026/07/oil-prices-jump-more-than-3-after-us-strikes-on-iran-while-shares-in-asia-are-mixed/",
-        "image": "https://images.ajc.com/resizer/v2/WO2ZUNQNWFH2NMLEFTW72T5GGQ.jpg?auth=ed0aff4d86d6f8063fc6e73d9ed11607bdf6c20bc0ee1318d0f084cfd40d6ec3&width=1200&height=630&smart=true",
-        "publishedAt": "2026-07-08T08:22:42Z",
-        "lang": "en",
-        "source": {
-            "id": "79e9a45376a66fd7e1a4e68bba928c39",
-            "name": "The Atlanta Journal-Constitution",
-            "url": "https://www.ajc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c73ce32e28c3c5b4b5ca5f566d26be10",
-        "title": "AI expected to unlock up to 35% in profitability for Indian MSMEs; Nearly 60% to achieve double",
-        "description": "Artificial intelligence integration promises significant profit improvements for Indian MSMEs. Digital adoption helps nearly sixty percent of these businesses achieve double-digit revenue growth. Expanded market access and improved customer acquisition are key benefits reported by MSMEs. Digital advertising by MSMEs contributes substantially to the national economy. Technology adoption is crucial for strengthening skilling and formalization efforts.",
-        "content": "Synopsis\nArtificial intelligence integration promises significant profit improvements for Indian MSMEs. Digital adoption helps nearly sixty percent of these businesses achieve double-digit revenue growth. Expanded market access and improved customer ... [3371 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-expected-to-unlock-up-to-35-in-profitability-for-indian-msmes-nearly-60-to-achieve-double-digit-revenue-growth-report/articleshow/132257744.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-173670,resizemode-75,msid-132257744/tech/artificial-intelligence/ai-expected-to-unlock-up-to-35-in-profitability-for-indian-msmes-nearly-60-to-achieve-double-digit-revenue-growth-report.jpg",
-        "publishedAt": "2026-07-08T08:14:21Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
