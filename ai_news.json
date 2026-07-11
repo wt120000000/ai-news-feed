@@ -1,12 +1,108 @@
 [
     {
-        "id": "b403a512ae56dd64c1529f69eab9e10b",
-        "title": "SK Hynix Debuts On Nasdaq With $26.5 Bn Listing, Marking Milestone In AI Chip Growth",
-        "description": "SK Hynix made its debut on the Nasdaq on Friday following a $26.5 billion US share sale, with the South Korean memory chipmaker's American Depositary Receipts (ADRs) indicated to open around 20% above the offer price, reflecting sustained investor appetite for artificial intelligence (AI)-linked semiconductor companies. The listing represents a significant milestone for the company, which has transformed from a struggling memory chip manufacturer into the world's largest producer of high-bandwidth memory (HBM) chips, a critical component used in AI accelerators developed by companies such as Nvidia.",
-        "content": "SK Hynix made its debut on the Nasdaq on Friday following a $26.5 billion US share sale, with the South Korean memory chipmaker's American Depositary Receipts (ADRs) indicated to open around 20% above the offer price, reflecting sustained investor ap... [2235 chars]",
-        "url": "https://www.outlookbusiness.com/markets/sk-hynix-debuts-on-nasdaq-with-265-bn-listing-marking-milestone-in-ai-chip-growth",
-        "image": "https://media.assettype.com/outlookbusiness/2026-07-06/3ugen739/SK-Hynix-Launches-28-Billion-US-Listing?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-07-10T15:24:30Z",
+        "id": "b51a45e6a924d53c55e382e46d8fe2ff",
+        "title": "Trump Appointed Kevin Warsh as the Federal Reserve Chairman. Now He's Assembling an AI Taskforce",
+        "description": "Federal Reserve Chairman Kevin Warsh has assembled a new artificial intelligence task force whose members believe that AI has the potential to reshape the U.S. economy in ways that could benefit",
+        "content": "Federal Reserve Chairman Kevin Warsh has assembled a new artificial intelligence task force whose members believe that AI has the potential to reshape the U.S. economy in ways that could benefit government and industry.\nThe task force, unveiled Thurs... [4222 chars]",
+        "url": "https://www.ibtimes.com/trump-appointed-kevin-warsh-federal-reserve-chairman-now-hes-assembling-ai-taskforce-3805166",
+        "image": "https://d.ibtimes.com/en/full/4650246/kevin-warsh.jpg",
+        "publishedAt": "2026-07-10T18:07:01Z",
+        "lang": "en",
+        "source": {
+            "id": "933344203c2b862af768b5e662a162a4",
+            "name": "International Business Times",
+            "url": "https://www.ibtimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a5dde11b3ede3316f0fd209f8419e718",
+        "title": "AI Isn't The Real Reason Behind Layoffs, Says Agentic Trading Platform Co-Founder",
+        "description": "The fear is everywhere. Scroll through LinkedIn on any given day, and you will find another post about AI replacing writers, analysts, coders, and customer service teams. The question of whether artificial intelligence",
+        "content": "The fear is everywhere. Scroll through LinkedIn on any given day, and you will find another post about AI replacing writers, analysts, coders, and customer service teams. The question of whether artificial intelligence is coming for jobs has moved fr... [8380 chars]",
+        "url": "https://www.benzinga.com/Opinion/26/07/60396668/ai-isnt-the-real-reason-behind-layoffs-says-agentic-trading-platform-co-founder",
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/10/image.png",
+        "publishedAt": "2026-07-10T18:06:25Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "4fda293df2b475ad3109c3651db895a8",
+        "title": "Meta CEO Mark Zuckerberg wore a $2 million vintage watch from the 1950s that tracks the cycles of the moon while talking about how AI could help medical research",
+        "description": "Tech News News: Meta CEO Mark Zuckerberg recently detailed his plans to use artificial intelligence (AI) to permanently accelerate medical research while wearing a vi.",
+        "content": "Mark Zuckerberg wore a $2 million Rolex that tracks the moon while talking about an AI lab trying to change the clock on disease\nMeta CEO Mark Zuckerberg recently detailed his plans to use artificial intelligence (AI) to permanently accelerate medica... [6562 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-wore-a-2-million-vintage-watch-from-the-1950s-that-tracks-the-cycles-of-the-moon-while-talking-about-how-ai-could-help-medical-research/articleshow/132317687.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132317877,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-10T17:47:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b94006bc5bdcc35f738e7ebd96f46249",
+        "title": "AI Daily: Amazon’s new Alexa AI project codenamed ‘Moonraker’",
+        "description": "Catch up on the top artificial intelligence news and commentary by Wall Street analysts on publicly traded companies in the space with this dail...",
+        "content": "Catch up on the top artificial intelligence news and commentary by Wall Street analysts on publicly traded companies in the space with this daily recap compiled by The Fly.\nTipRanks Welcomes a New ETF – NYSE:RANK\nTipRanks has entered a new arena in t... [1064 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/ai-daily-amazon-s-new-alexa-ai-project-codenamed-moonraker-1036316069",
+        "image": "https://markets.businessinsider.com/favicon-32x32.png",
+        "publishedAt": "2026-07-10T17:45:22Z",
+        "lang": "en",
+        "source": {
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Markets Insider",
+            "url": "https://markets.businessinsider.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "86810f34b808128310bd2daf21c474ab",
+        "title": "AI therapy is growing fast, but psychologists say chatbots still can't replace human care",
+        "description": "Tech News News: As artificial intelligence (AI) becomes increasingly accessible, more people are turning to AI chatbots for emotional support and mental health guidan.",
+        "content": "AI generated image for representation\nAs artificial intelligence (AI) becomes increasingly accessible, more people are turning to AI chatbots for emotional support and mental health guidance. While some users say these digital companions help them or... [6354 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-therapy-is-growing-fast-but-psychologists-say-chatbots-still-cant-replace-human-care/articleshow/132315502.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132315815,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-10T17:44:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "6f2668ffb3adf5541de876509801f3d7",
+        "title": "Big Tech doubles debt load to $350 billion in AI spending spree",
+        "description": "The largest builders of artificial intelligence data centers are financing an unprecedented spending spree they claim is needed to transform the economy.",
+        "content": "By Matt Day and Ian King | Bloomberg\nThe largest builders of artificial intelligence data centers have doubled their debt load in the last five years, turning to borrowing to finance an unprecedented spending spree they claim is needed to transform t... [5859 chars]",
+        "url": "https://www.ocregister.com/2026/07/10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree/",
+        "image": "https://www.ocregister.com/wp-content/uploads/2026/07/Climate_Data_Centers_Mayors__717-1.jpg?w=1024&h=575",
+        "publishedAt": "2026-07-10T17:29:52Z",
+        "lang": "en",
+        "source": {
+            "id": "840efb5642a2fd3ae6da920bb4981626",
+            "name": "Santa Ana Orange County Register",
+            "url": "https://www.ocregister.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a866af0450d2cb88ebcae64ab3c5cd33",
+        "title": "Elon Musk Admits He Was 'Wrong' About Anthropic, Calls It The 'Leader In AI' Industry",
+        "description": "Elon Musk has made a striking reversal in his public stance on Anthropic, admitting that he had been \"wrong\" about the artificial intelligence (AI) company and describing it as the current leader in the sector after months of sharp criticism. \"I was clearly wrong about Anthropic. They are obviously currently the leader in AI. No company has released a model as good as Mythos/Fable and they will undoubtedly have Mythos 2 ready soon,\" Musk wrote while responding to a post on X (formerly Twitter). The remark marks a notable shift from Musk's earlier comments about the company, which he had previously described as \"hypocritical\", \"misanthropic and evil\", and unlikely to succeed in the AI race. The latest statement comes as Anthropic continues to strengthen its position among the world's most valuable AI startups ahead of a widely anticipated public listing.",
+        "content": "Elon Musk has made a striking reversal in his public stance on Anthropic, admitting that he had been \"wrong\" about the artificial intelligence (AI) company and describing it as the current leader in the sector after months of sharp criticism.\n\"I was ... [1632 chars]",
+        "url": "https://www.outlookbusiness.com/deeptech/elon-musk-admits-he-was-wrong-about-anthropic-calls-it-the-leader-in-ai-industry",
+        "image": "https://media.assettype.com/outlookbusiness/2026-05-21/qz7r88r3/Things-To-Know-About-Starlink-and-its-Internet-Services-In-Detail.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-07-10T17:28:29Z",
         "lang": "en",
         "source": {
             "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
@@ -16,146 +112,50 @@
         }
     },
     {
-        "id": "9e65f0021365170aef7aa51ac2b5f341",
-        "title": "South Korean billionaire's risky bet pays off, as SK Hynix debuts in New York",
-        "description": "South Korean billionaire Chey Tae-won's bold acquisition of SK Hynix has paid off significantly. The company is now a leading producer of high-bandwidth memory chips for AI. This strategic investment has positioned SK Hynix as a key player in the booming artificial intelligence industry. However, concerns about future demand and potential oversupply are now emerging. Chey's leadership style and past controversies also define his unique corporate legacy.",
-        "content": "When South Korean billionaire Chey Tae-won rang the Nasdaq's opening bell for SK Hynix's $26.5 billion listing on Friday, it marked the ultimate payoff of a bet many once considered risky: buying a loss-making chipmaker that has since become an AI po... [6071 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-billionaires-risky-bet-pays-off-as-sk-hynix-debuts-in-new-york/articleshow/132315233.cms",
-        "image": "https://img.etimg.com/thumb/msid-132315233,width-1200,height-630,imgsize-105188,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-07-10T15:21:00Z",
+        "id": "4051d79bb85e48ff38ef945b21e3612e",
+        "title": "The AI issue that Democrats need",
+        "description": "Young voters are sounding the alarm over artificial intelligence. Instead of embracing Silicon Valley, Democrats should become the party of AI accountability.",
+        "content": "Dan Cluchey is a speechwriter with Fenway Strategies and a former senior presidential speechwriter to President Joe Biden.\nThe most important — and most heartening — viral video clip in recent memory was a snippet of a commencement speech at the Univ... [4189 chars]",
+        "url": "https://www.bostonglobe.com/2026/07/10/opinion/democrats-ai-accountability/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/5KTFOXY2QRGWHL3DQXRV6XPY7I.jpg?auth=f83938aceae3fb8c8b0ca4645052f1edc07b73ac099be6e9ed471ca9ee0bb17f&width=1440",
+        "publishedAt": "2026-07-10T17:18:23Z",
         "lang": "en",
         "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a5f3abde6ef6c3e433f20bdc897ba7df",
-        "title": "Draft health research policy proposes National Research Agenda to address emerging health challenges",
-        "description": "Research in emerging sectors such as digital health, artificial intelligence and data science in health, cell and gene therapy, obesity, climate change and health will be prioritised.",
-        "content": "The draft National Health Research Policy proposes the creation of the National Health Research Agenda (NHRA) as the country's central framework for health research. The agenda aims to guide research priorities and investments, reduce fragmentation a... [2151 chars]",
-        "url": "https://www.tribuneindia.com/news/india/draft-health-research-policy-proposes-national-research-agenda-to-address-emerging-health-challenges/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI0OTFjZTQwLTdjNzEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-07-10T15:07:47Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c4154aed2f659ef6452ef457e6c44382",
-        "title": "Fed report cites 'stepped-up' inflation due to tariffs, Iran war, AI buildout",
-        "description": "U.S. inflation \"stepped up further this spring\" as the ​evolving impact of tariffs, a war-related rise in energy costs, and the booming artificial intelligence buildout boosted price pressures that took root last year, the Federal Reserve said on Friday ‌in a monetary policy report to Congress.",
-        "content": "\"Inflation has risen this year and remains elevated relative to the Federal Open Market Committee's longer-run objective of 2%,\" with the most recent data showing the U.S. central bank's preferred Personal Consumption Expenditures Price Index running... [4635 chars]",
-        "url": "https://www.reuters.com/business/fed-report-cites-stepped-up-inflation-2026-07-10/",
-        "image": "https://www.reuters.com/resizer/v2/CGKA7RZ675LGHPBYN2TFWTFNRI.jpg?auth=6984d309025ec8622c54cb204e5529f01d2d084d6de64914f1631774bde0cb71&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-07-10T15:02:42Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
             "country": "us"
         }
     },
     {
-        "id": "f0c6671a51afcfca3273a0808e586cee",
-        "title": "Micron boosts US spending to $250 billion to feed memory boom",
-        "description": "Micron Technology Inc. plans to increase its spending on new plants in the U.S. to $250 billion to help meet unprecedented demand for its memory chips fueled by the global artificial intelligence boom. The funds would add $50 billion to the company’s previously announced commitment of $200 billion toward expanding domestic chipmaking that includes projects in New York, Idaho and Virginia. The ...",
-        "content": "By Maggie Eastland, Bloomberg News\nMicron Technology Inc. plans to increase its spending on new plants in the U.S. to $250 billion to help meet unprecedented demand for its memory chips fueled by the global artificial intelligence boom.\nThe funds wou... [3951 chars]",
-        "url": "https://www.courant.com/2026/07/10/micron-boosts-us-spending-to-250-billion-to-feed-memory-boom-3/",
-        "image": "https://www.courant.com/wp-content/uploads/2026/07/202607091407MCT_____PHOTO____BIZ-CPT-MICRON-MEMORY-CHIPS-FILEPIC-ID_4cfdff.jpg?w=1024&h=617",
-        "publishedAt": "2026-07-10T15:00:26Z",
+        "id": "8591ed32fc2f0b6459b9834c568fb30e",
+        "title": "Lunar Colonies to Be Occupied by Tesla Robots: Tesla Stock (NASDAQ:TSLA) Notches Up",
+        "description": "Electric vehicle giant Tesla (TSLA) has been actively working to diversify, particularly into artificial intelligence (AI) and robotics. And now...",
+        "content": "Electric vehicle giant Tesla (TSLA) has been actively working to diversify, particularly into artificial intelligence (AI) and robotics. And now, reports suggest that Tesla has a whole new angle in mind that it will pursue much sooner than some might... [2438 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/lunar-colonies-to-be-occupied-by-tesla-robots-tesla-stock-nasdaq-tsla-notches-up-1036316032",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-13-06-19-Tesla-Inc-1024x767.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2026-07-10T17:08:56Z",
         "lang": "en",
         "source": {
-            "id": "494f687bd1dfaa9f7b4a705c860671d0",
-            "name": "Hartford Courant",
-            "url": "https://www.courant.com",
+            "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+            "name": "Markets Insider",
+            "url": "https://markets.businessinsider.com",
             "country": "us"
         }
     },
     {
-        "id": "da6eac510734da1bd6166dd52907eaf2",
-        "title": "OpenAI faces sanctions bid as newspapers say ChatGPT was trained on stolen news",
-        "description": "The New York Times, the Daily News and other media outlets are asking a federal judge to impose sanctions on OpenAI, escalating a legal fight over artificial intelligence and copyright that could shape the future of a struggling news industry",
-        "content": "The New York Times, the Daily News and other media outlets are asking a federal judge to impose sanctions on OpenAI, escalating a fight over artificial intelligence and copyright that could shape the future of a struggling news industry.\nThe newspape... [4220 chars]",
-        "url": "https://www.latimes.com/business/story/2026-07-10/openai-faces-sanctions-bid-as-newspapers-say-chatgpt-was-trained-on-stolen-news",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/fed015e/2147483647/strip/true/crop/4771x2505+0+338/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F78%2F99%2F6b76af444aaaabcf1e113cc3c7d8%2Fdf048727b111403e9acdb937a29ddbe9.jpg",
-        "publishedAt": "2026-07-10T14:28:46Z",
+        "id": "163e44535a0ce7c99ac7b1c6b0a037d3",
+        "title": "AI notetakers promise easy meeting recaps, but some professionals question their use",
+        "description": "Launching an artificial intelligence tool to take notes and summarize important information from a virtual meeting can be alluring. But the way popular AI notetakers accomplish those tasks makes some people avoid using them.",
+        "content": "By CATHY BUSSEWITZ, Associated Press\nNEW YORK — Launching an artificial intelligence tool to take notes and summarize important information from a virtual meeting can be alluring. Seconds after one of the agents attends an hour-long video conference,... [7135 chars]",
+        "url": "https://www.mercurynews.com/2026/07/10/ai-notetakers-promise-easy-meeting-recaps-but-some-professionals-question-their-use/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/Be-Well-Working-Well-AI-Notetakers.jpg?w=1024&h=683",
+        "publishedAt": "2026-07-10T16:38:54Z",
         "lang": "en",
         "source": {
-            "id": "492abf277b7277432148b61b21ddc836",
-            "name": "Los Angeles Times",
-            "url": "https://www.latimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4d4ffcb6dda27f093dfe2b04a97e8685",
-        "title": "Apple sues OpenAI, alleging the AI company stole trade secrets",
-        "description": "SAN FRANCISCO - Tech giant Apple sued ChatGPT-maker OpenAI on Friday, alleging the artificial intelligence company stole its trade secrets as part of efforts to build out a competing hardware business.",
-        "content": "SAN FRANCISCO - Tech giant Apple sued ChatGPT-maker OpenAI on Friday, alleging the artificial intelligence company stole its trade secrets as part of efforts to build out a competing hardware business.\n“This case is about Apple’s former employees ste... [1379 chars]",
-        "url": "https://www.spokesman.com/stories/2026/jul/10/apple-sues-openai-alleging-the-ai-company-stole-tr/",
-        "image": "https://media.spokesman.com/graphics/2020/08/sr_placeholder.png",
-        "publishedAt": "2026-07-10T14:17:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c8c865ed042eb14694b8d596e22efe99",
-            "name": "Spokane Spokesman-Review",
-            "url": "https://www.spokesman.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3832d0510cbc323107618878bdf567d6",
-        "title": "The Road To $380 For Qualcomm Stock",
-        "description": "Qualcomm, previously overshadowed in the AI surge, is now positioned for substantial growth as artificial intelligence transitions from data centers to edge devices.",
-        "content": "This article was written by Doug Nathman, with research by his team at Trefis.\nFor a duration of three years, the AI surge left Qualcomm in the shadows.\nNvidia (NVDA) experienced significant growth. AMD increased considerably. Data center chip manufa... [5037 chars]",
-        "url": "https://www.forbes.com/sites/greatspeculations/2026/07/10/the-road-to-380-for-qualcomm-stock/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a50de29bdc128802070dc6e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-10T14:10:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a0300bc9a6e9d5b317bd6f614767231f",
-            "name": "Forbes",
-            "url": "https://www.forbes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "974c8aaf1c3df7b8b4938c0c4e07ff84",
-        "title": "The Work of Helping A.I. Destroy Work",
-        "description": "Start-ups are paying white-collar professionals to teach their jobs to artificial intelligence models. It’s a bonanza. It’s bleak. Where will it end?",
-        "content": "Every day, Mercor, a start-up that sells training data to artificial intelligence companies, pays 30,000 contractors more than $4 million to help make their jobs, and those of their colleagues, obsolete.\nIt’s gig work, but for professionals with rare... [2304 chars]",
-        "url": "https://www.nytimes.com/2026/07/10/business/ai-white-collar-jobs.html",
-        "image": "https://static01.nyt.com/images/2026/07/09/11biz-whitecollar-ai-75814-cover/11biz-whitecollar-ai-75814-cover-facebookJumbo.jpg",
-        "publishedAt": "2026-07-10T14:00:10Z",
-        "lang": "en",
-        "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0a8c644d99bce9e7957e80627d2fe072",
-        "title": "SK Hynix hits the U.S. stock market as demand for memory chips soars amid AI frenzy",
-        "description": "SK Hynix, one of the world’s largest makers of memory chips, is hitting the U.S. stock market at a time when demand for its chips is outpacing its ability to make them thanks to the frenzy over artificial intelligence.",
-        "content": "SK Hynix, one of the world’s largest makers of memory chips, is hitting the U.S. stock market at a time when demand for its chips is outpacing its ability to make them thanks to the frenzy over artificial intelligence.\nThe company is already one of t... [2460 chars]",
-        "url": "https://www.chicagotribune.com/2026/07/10/sk-hynix-us-stock-market/",
-        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/07/South_Korea_Financial_Markets_35437_ba4d74-1.jpg?w=1024&h=683",
-        "publishedAt": "2026-07-10T13:27:56Z",
-        "lang": "en",
-        "source": {
-            "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
-            "name": "Chicago Tribune",
-            "url": "https://www.chicagotribune.com",
+            "id": "17d7c2645f485578130862e0c8dd9480",
+            "name": "The Mercury News",
+            "url": "https://www.mercurynews.com",
             "country": "us"
         }
     }
