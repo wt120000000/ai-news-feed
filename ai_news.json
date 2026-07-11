@@ -1,5 +1,21 @@
 [
     {
+        "id": "a76a942d9b372a2110e04d3d4dfe08c3",
+        "title": "Altera returns to growth as AI, robotics fuel demand, CEO says",
+        "description": "Altera, a chip maker spun from Intel, is experiencing significant annual growth. The company anticipates strong performance driven by artificial intelligence and robotics applications. Altera is also preparing for a potential public listing in the near future. They have reduced reliance on Intel and are using advanced memory technology. This strategic positioning aims to capitalize on future market opportunities.",
+        "content": "Synopsis\nAltera, a chip maker spun from Intel, is experiencing significant annual growth. The company anticipates strong performance driven by artificial intelligence and robotics applications. Altera is also preparing for a potential public listing ... [2637 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/altera-returns-to-growth-as-ai-robotics-fuel-demand-ceo-says/articleshow/132323767.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-237450,resizemode-75,msid-132323767/tech/artificial-intelligence/altera-returns-to-growth-as-ai-robotics-fuel-demand-ceo-says.jpg",
+        "publishedAt": "2026-07-11T03:12:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "59fdaa94ce21e79c8f1ef7b49befc563",
         "title": "Music industry launches AI",
         "description": "Music organisations have introduced a voluntary labeling system for AI-generated content. This system aims to inform listeners about the use of artificial intelligence in music. Two labels will distinguish between fully AI-generated and AI-assisted recordings. Streaming services are closely monitoring this development for enhanced transparency. The proposed labels seek broad global adoption across various platforms.",
@@ -141,22 +157,6 @@
             "name": "CBC.ca",
             "url": "https://www.cbc.ca",
             "country": "ca"
-        }
-    },
-    {
-        "id": "67921830b305cfe4a43f9a727c50bb03",
-        "title": "India’s AI Newbies Rake in $1b in H1 ’26 as Venture Capitals Double Down",
-        "description": "Funding in Indian AI startups crossed the $1-billion mark in the first six months of 2026, as venture capital investors double down on artificial intelligence amid a shift towards frontier, cutting-edge technology.",
-        "content": "Synopsis\nFunding in Indian AI startups crossed the $1-billion mark in the first six months of 2026, as venture capital investors double down on artificial intelligence amid a shift towards frontier, cutting-edge technology.\nFunding in Indian AI start... [3327 chars]",
-        "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jul/11/satet-front/indias-ai-newbies-rake-in-1bin-h1-26-as-vcs-double-down/articleshow/132320708.cms",
-        "image": "https://img.etimg.com/thumb/msid-132322731,width-1200,height-630,imgsize-138882,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-07-10T21:36:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
