@@ -1,5 +1,21 @@
 [
     {
+        "id": "3aeb1a924032915c27316956b70b5117",
+        "title": "From space rovers to hunger maps: How AI is reshaping humanitarian aid",
+        "description": "Artificial intelligence (AI) is often discussed for its potential threats to humanity. But humanitarian organisations are using it to predict hunger, map destruction and deliver aid without sending people into danger.",
+        "content": "Delivering food through conflict zones, minefields and floods can put humanitarian workers at mortal risk.\nNow, technology developed to control rovers on distant planets is being adapted to take aid workers out of some of the world’s most dangerous a... [3746 chars]",
+        "url": "https://www.euronews.com/next/2026/07/12/from-space-rovers-to-hunger-maps-how-ai-is-reshaping-humanitarian-aid",
+        "image": "https://images.euronews.com/articles/stories/09/83/40/07/1200x675_cmsv2_f87c0551-1305-5224-b4d6-51c5af662239-9834007.jpg",
+        "publishedAt": "2026-07-12T11:23:20Z",
+        "lang": "en",
+        "source": {
+            "id": "3d24c816061d69b2e23b8583aed9b447",
+            "name": "Euronews",
+            "url": "https://www.euronews.com",
+            "country": "fr"
+        }
+    },
+    {
         "id": "991729736338f0b052eb87fb4583fd2c",
         "title": "AI, science and the risks in China’s reliance on imported precision equipment",
         "description": "The country is dependent on overseas high-end scientific instruments, crimping use of artificial intelligence, researcher says",
@@ -141,22 +157,6 @@
             "name": "Outlook Business",
             "url": "https://www.outlookbusiness.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "a7491e855bebfc368da3e016e6f4fac0",
-        "title": "'What's left is you': AI is the elephant in the room of Europe's biggest animation festival",
-        "description": "The Annecy animation festival in France is widely recognised as the industry's biggest event in Europe, where deals and careers are made and films are bought and sold. This year, however talk on and away from the market floor was dominated by artificial intelligence and the winds of change.",
-        "content": "It was close to 40 degrees inside the tent, and the heatwave outside was the worst France had experienced in years. Animators, producers and the executives who finance and sell their films had crowded in anyway, to talk about the thing reshaping thei... [8520 chars]",
-        "url": "https://www.euronews.com/culture/2026/07/12/whats-left-is-you-ai-is-the-elephant-in-the-room-of-europes-biggest-animation-festival",
-        "image": "https://images.euronews.com/articles/stories/09/83/47/69/1200x675_cmsv2_5801489c-3381-5de6-9d5b-3a3c845b3599-9834769.jpg",
-        "publishedAt": "2026-07-12T05:47:55Z",
-        "lang": "en",
-        "source": {
-            "id": "3d24c816061d69b2e23b8583aed9b447",
-            "name": "Euronews",
-            "url": "https://www.euronews.com",
-            "country": "fr"
         }
     }
 ]
