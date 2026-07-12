@@ -1,5 +1,37 @@
 [
     {
+        "id": "8e0e5e7f327fabe5667447e2f4bc100c",
+        "title": "AGA launches AI-powered virtual assistant for gastroenterology and hepatology care",
+        "description": "The American Gastroenterological Association (AGA) today announced the launch of Nigel, an artificial intelligence (AI)-powered virtual assistant developed exclusively for gastroenterology and hepatology.",
+        "content": "The American Gastroenterological Association (AGA) today announced the launch of Nigel, an artificial intelligence (AI)-powered virtual assistant developed exclusively for gastroenterology and hepatology. Built using AGA's trusted clinical guidance a... [2495 chars]",
+        "url": "https://www.news-medical.net/news/20260711/AGA-launches-AI-powered-virtual-assistant-for-gastroenterology-and-hepatology-care.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/Gastroenterology-620x480.jpg",
+        "publishedAt": "2026-07-11T19:05:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "45bf7235ee085bf218f9137f8296aeea",
+        "title": "The gap between forecasts and reality can change public emotions during disasters",
+        "description": "What happens when weather forecasts do not match reality? How does the public emotionally respond when a disaster unfolds differently from what they expected? A research team led by Professor Jonghun Kam and Kiru Kim from the Department of Environmental Engineering at POSTECH investigated how forecast error types influenced public emotion during the landfall of Typhoon Khanun. Using artificial intelligence (AI) and natural language processing (NLP), the researchers found that different types of forecast error (e.g., overestimation and underestimation) triggered distinct emotional responses among the public. The study has been published in GeoHealth.",
+        "content": "What happens when weather forecasts do not match reality? How does the public emotionally respond when a disaster unfolds differently from what they expected? A research team led by Professor Jonghun Kam and Kiru Kim from the Department of Environmen... [3907 chars]",
+        "url": "https://phys.org/news/2026-07-gap-reality-emotions-disasters.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-gap-between-foreca.jpg",
+        "publishedAt": "2026-07-11T19:00:04Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
         "id": "1c30d080db0cc954c93d1e156b703fe2",
         "title": "HDFC Bank redeploys backend employees to customer-facing roles",
         "description": "HDFC Bank is shifting backend employees to customer roles. Technology efficiencies are enabling this strategic talent redeployment. The bank is accelerating investments in artificial intelligence and dispute resolution. Cybersecurity defenses are strengthened against evolving digital threats. HDFC Bank's in-house AI model, Neev, supports these initiatives.",
@@ -119,38 +151,6 @@
         "url": "https://www.manilatimes.net/2026/07/12/business/sunday-business-it/independent-un-panel-warns-ai-is-outpacing-the-worlds-ability-to-govern-it/2382705",
         "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/11/1133285.jpg",
         "publishedAt": "2026-07-11T16:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "bd97c49bd4c8bfafbd6ce9e6f2271295",
-        "title": "Securing the modern Philippine workspace",
-        "description": "THE WAY organizations work has changed significantly. Hybrid work models, cloud platforms and artificial intelligence tools have expanded how teams communicate, collaborate and access information. Employees now rely on messaging applications, shared digital workspaces and SaaS platforms, often connecting from multiple locations and devices.",
-        "content": "THE WAY organizations work has changed significantly. Hybrid work models, cloud platforms and artificial intelligence tools have expanded how teams communicate, collaborate and access information. Employees now rely on messaging applications, shared ... [4565 chars]",
-        "url": "https://www.manilatimes.net/2026/07/12/business/sunday-business-it/securing-the-modern-philippine-workspace/2382704",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/11/1133260.jpg",
-        "publishedAt": "2026-07-11T16:03:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "25da890e06466340963a80aa81daaacc",
-        "title": "Mobile sector seen adding $11.3T by 2030",
-        "description": "MOBILE technologies and services are projected to contribute $11.3 trillion to the global economy by 2030 as artificial intelligence (AI), fifth-generation (5G) networks, and enterprise digital transformation reshape the telecommunications industry, according to a new report released by the GSM Association (GSMA), a global industry organization representing mobile network operators and companies across the mobile communications ecosystem.",
-        "content": "MOBILE technologies and services are projected to contribute $11.3 trillion to the global economy by 2030 as artificial intelligence (AI), fifth-generation (5G) networks, and enterprise digital transformation reshape the telecommunications industry, ... [4807 chars]",
-        "url": "https://www.manilatimes.net/2026/07/12/business/sunday-business-it/mobile-sector-seen-adding-113t-by-2030/2382700",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/11/1133253.jpg",
-        "publishedAt": "2026-07-11T16:00:00Z",
         "lang": "en",
         "source": {
             "id": "7c666ee953f873d3057b310220f510df",
