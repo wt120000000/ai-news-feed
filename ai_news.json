@@ -1,5 +1,69 @@
 [
     {
+        "id": "41c27c0e851202ad6c6e0fb2a5b913c6",
+        "title": "Mag 7 and software could boost portfolio in second half: ETF Action",
+        "description": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
+        "content": "Overlooked market areas may have a banner second half of the year.\nETF Action co-founder Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.\nHe told \"ETF Edge\" this w... [2087 chars]",
+        "url": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108288920-1775679881284-gettyimages-2269830686-AFP_A77J38N.jpeg?v=1783716112&w=1920&h=1080",
+        "publishedAt": "2026-07-11T15:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "4ad4f788c1b31161ea5a5ad4932bc41e",
+        "title": "LTM profit jumps 17% to Rs 1,468 crore in April",
+        "description": "LTM's managing director and chief executive, Venu Lambu, said the results reflect the progress in executing an artificial intelligence-centric strategy among other aspects and termed the order book as \"strong\" with a healthy pipeline across sectors. The company's overall revenue grew 18% on-year in rupee terms to Rs 11,608 crore during the reporting quarter, and was up 2.8% when compared with the March quarter.",
+        "content": "Synopsis\nLTM's managing director and chief executive, Venu Lambu, said the results reflect the progress in executing an artificial intelligence-centric strategy among other aspects and termed the order book as \"strong\" with a healthy pipeline across ... [2005 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/information-tech/ltm-profit-jumps-17-to-rs-1468-crore-in-april-june-quarter/articleshow/132333081.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-924208,resizemode-75,msid-132333081/tech/information-tech/ltm-profit-jumps-17-to-rs-1468-crore-in-april-june-quarter.jpg",
+        "publishedAt": "2026-07-11T14:58:47Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "0a7d3461eed4af4a4991ed8fb10395d9",
+        "title": "India to Augment AI Compute Capacity, Says Ashwini Vaishnaw",
+        "description": "Union Minister for Electronics and Information Technology Ashwini Vaishnaw on Saturday said India will augment its computing capacity to support the country's growing artificial intelligence (AI) ecosystem, while urging the IT industry to partner with educational institutions to develop next-generation technology solutions.",
+        "content": "Hyderabad (Telangana) [India], July 11 (ANI): Union Minister for Electronics and Information Technology Ashwini Vaishnaw on Saturday said India will augment its computing capacity to support the country's growing artificial intelligence (AI) ecosyste... [3341 chars]",
+        "url": "https://www.tribuneindia.com/news/business/india-to-augment-ai-compute-capacity-says-ashwini-vaishnaw/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc1ZDllOTMwLTdkMzUtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-07-11T14:33:13Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "8579205546e0b0f6692e566756e2e666",
+        "title": "AI Training Startup Mercor Aims to Double Valuation to $20 Bn on Surging AI Revenue",
+        "description": "Artificial Intelligence (AI) training startup Mercor is in early discussions to raise fresh capital at a valuation of around $20 billion, potentially doubling its valuation from less than a year ago. Mercor has informed prospective investors that it has already received at least one term sheet reflecting the proposed valuation, Bloomberg reported citing people familiar with the matter. However, the discussions remain preliminary and there is no certainty that the fundraising will be completed or that the final terms will remain unchanged.",
+        "content": "Artificial Intelligence (AI) training startup Mercor is in early discussions to raise fresh capital at a valuation of around $20 billion, potentially doubling its valuation from less than a year ago.\nMercor has informed prospective investors that it ... [1975 chars]",
+        "url": "https://www.outlookbusiness.com/deeptech/ai-training-startup-mercor-aims-to-double-valuation-to-20-bn-on-surging-ai-revenue",
+        "image": "https://media.assettype.com/outlookbusiness/2026-07-11/2hcg2qzg/AI-Training-Startup-Mercor-Funding?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-07-11T13:05:56Z",
+        "lang": "en",
+        "source": {
+            "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+            "name": "Outlook Business",
+            "url": "https://www.outlookbusiness.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "8d42b1874f9456dc0a49c72c26777879",
         "title": "HDFC Bank bets on AI, seeks ₹60,000 crore capital raise as digital push gathers pace",
         "description": "The lender has launched its in-house Generative AI platform Neev to embed artificial intelligence across operations, while its annual report also addressed governance concerns following former chairman Atanu Chakraborty's resignation.",
@@ -92,70 +156,6 @@
             "id": "76a2f820b104591b97fed1b0932cec38",
             "name": "Business Today",
             "url": "https://www.businesstoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "dde58059abf8bb13bb2764c86ccc3f28",
-        "title": "Nearly 60% of foreign inflows into India-focused funds withdrawn since 2024 peak: Report",
-        "description": "Foreign investors have withdrawn nearly sixty percent of funds from India-focused equity. This capital shift is driven by global artificial intelligence investment opportunities and momentum. Investors pulled nine billion dollars from India funds in calendar year twenty twenty six. Gold funds saw a modest inflow after significant outflows, while US equities attracted fresh investment. Europe also registered its first weekly inflow in nearly three months.",
-        "content": "Synopsis\nForeign investors have withdrawn nearly sixty percent of funds from India-focused equity. This capital shift is driven by global artificial intelligence investment opportunities and momentum. Investors pulled nine billion dollars from India ... [4447 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nearly-60-of-foreign-inflows-into-india-focused-funds-withdrawn-since-2024-peak-report/articleshow/132328818.cms",
-        "image": "https://img.etimg.com/thumb/msid-132328876,width-1200,height-630,imgsize-28629,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-07-11T10:29:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "dbba35fa25e5d159256cc7555f54e56d",
-        "title": "focused funds withdrawn since 2024 peak: Report",
-        "description": "Nearly 60 per cent of the foreign money that flowed into India-focused equity funds during the 2023-24 investment rally has now been withdrawn as global investors continue to shift capital towards artificial intelligence (AI)-linked opportunities, according to an Elara Capital research report.",
-        "content": "New Delhi [India], July 11 (ANI): Nearly 60 per cent of the foreign money that flowed into India-focused equity funds during the 2023-24 investment rally has now been withdrawn as global investors continue to shift capital towards artificial intellig... [2548 chars]",
-        "url": "https://www.tribuneindia.com/news/business/nearly-60-of-foreign-inflows-into-india-focused-funds-withdrawn-since-2024-peak-report/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTYyY2FkNDcwLTdkMGUtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-07-11T09:53:28Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8e3b5c40c12b812b7463807f226ef59a",
-        "title": "Nvidia CEO Jensen Huang says: Software engineers at Nvidia love how AI is changing their role, rather than writing Python code, they prefer to ...",
-        "description": "Tech News News: Nvidia CEO Jensen Huang has revealed how artificial intelligence (AI) is changing the way software engineers work at the company. The chief executive .",
-        "content": "Nvidia CEO Jensen Huang has revealed how artificial intelligence (AI) is changing the way software engineers work at the company. The chief executive of the US-based chip giant has disclosed that several of the company’s software engineers are now sp... [2859 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-says-software-engineers-at-nvidia-love-how-ai-is-changing-their-role-rather-than-writing-python-code-they-prefer-to-/articleshow/132328265.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132328242,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-11T09:48:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "86eb2e6e628861e50f7b011e3a73803d",
-        "title": "India set to play larger role in building global fintech infrastructure, says Payoneer",
-        "description": "India's position as the world's third-largest fintech ecosystem is now translating into a larger platform-building role. Global financial technology companies are increasingly turning to the country for product engineering, artificial intelligence and cross-border infrastructure. The country's fintech sector is estimated at USD 111 billion and is projected to reach USD 421 billion by 2029.",
-        "content": "Synopsis\nIndia's position as the world's third-largest fintech ecosystem is now translating into a larger platform-building role. Global financial technology companies are increasingly turning to the country for product engineering, artificial intell... [4071 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/india-set-to-play-larger-role-in-building-global-fintech-infrastructure-says-payoneer/articleshow/132327385.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-13484,resizemode-75,msid-132327385/tech/technology/india-set-to-play-larger-role-in-building-global-fintech-infrastructure-says-payoneer.jpg",
-        "publishedAt": "2026-07-11T09:24:46Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
