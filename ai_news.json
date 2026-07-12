@@ -1,5 +1,37 @@
 [
     {
+        "id": "619849ba7a0bd0d42e314c7a4f7e9461",
+        "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+        "description": "Tata Consultancy Services is building a team of up to 8,900 forward-deployed engineers ‌and hunting for AI acquisitions as it bets artificial intelligence will create new business rather than undermine outsourcing, two TCS executives told Reuters.",
+        "content": "The strategy emerges amid investor concern that AI could disrupt India's $315 billion IT services industry by reducing demand for engineering teams, ​shortening project timelines and squeezing prices as clients seek a share of productivity gains.\nSig... [2441 chars]",
+        "url": "https://www.reuters.com/world/india/indias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-2026-07-12/",
+        "image": "https://www.reuters.com/resizer/v2/PW2ALT7JGNJYVPDAPPWODAFLIE.jpg?auth=a39b25aee0b2186862858a31e890f5657d1fa4b12950d21cbab34ec2b7437233&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-07-12T08:37:03Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "b5196005b64b2bae90ab18b0bb8f9ed8",
+        "title": "Canada based Punjabi Abhinandan Gill warns against misuse of artificial intelligence in politics",
+        "description": "BATHINDA: Going by the political slugfest being fought in Punjab using the Artificial Intelligence (AI), Canada based youth of Punjab origin is seeing.",
+        "content": "BATHINDA: Going by the political slugfest being fought in Punjab using the Artificial Intelligence (AI), Canada based youth of Punjab origin is seeing it as unethical which could have cascading effect on the lives of people. 33 years Abhinandan Singh... [3999 chars]",
+        "url": "https://timesofindia.indiatimes.com/city/chandigarh/canada-based-punjabi-abhinandan-gill-warns-against-misuse-of-artificial-intelligence-in-politics/articleshow/132342644.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132342780,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-12T08:26:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "e87818adda894999333ad6347607d6a6",
         "title": "Chhattisgarh to deploy AI road monitoring system for PMGSY roads",
         "description": "RAIPUR: Chhattisgarh is set to deploy artificial intelligence (AI) to monitor the condition of rural roads built under the Pradhan Mantri Gram Sadak Y.",
@@ -125,38 +157,6 @@
             "name": "Digital Trends",
             "url": "https://www.digitaltrends.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "8e0e5e7f327fabe5667447e2f4bc100c",
-        "title": "AGA launches AI-powered virtual assistant for gastroenterology and hepatology care",
-        "description": "The American Gastroenterological Association (AGA) today announced the launch of Nigel, an artificial intelligence (AI)-powered virtual assistant developed exclusively for gastroenterology and hepatology.",
-        "content": "The American Gastroenterological Association (AGA) today announced the launch of Nigel, an artificial intelligence (AI)-powered virtual assistant developed exclusively for gastroenterology and hepatology. Built using AGA's trusted clinical guidance a... [2495 chars]",
-        "url": "https://www.news-medical.net/news/20260711/AGA-launches-AI-powered-virtual-assistant-for-gastroenterology-and-hepatology-care.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2014/7/Gastroenterology-620x480.jpg",
-        "publishedAt": "2026-07-11T19:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "45bf7235ee085bf218f9137f8296aeea",
-        "title": "The gap between forecasts and reality can change public emotions during disasters",
-        "description": "What happens when weather forecasts do not match reality? How does the public emotionally respond when a disaster unfolds differently from what they expected? A research team led by Professor Jonghun Kam and Kiru Kim from the Department of Environmental Engineering at POSTECH investigated how forecast error types influenced public emotion during the landfall of Typhoon Khanun. Using artificial intelligence (AI) and natural language processing (NLP), the researchers found that different types of forecast error (e.g., overestimation and underestimation) triggered distinct emotional responses among the public. The study has been published in GeoHealth.",
-        "content": "What happens when weather forecasts do not match reality? How does the public emotionally respond when a disaster unfolds differently from what they expected? A research team led by Professor Jonghun Kam and Kiru Kim from the Department of Environmen... [3907 chars]",
-        "url": "https://phys.org/news/2026-07-gap-reality-emotions-disasters.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-gap-between-foreca.jpg",
-        "publishedAt": "2026-07-11T19:00:04Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
         }
     }
 ]
