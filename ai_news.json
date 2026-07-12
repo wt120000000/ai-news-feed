@@ -1,5 +1,21 @@
 [
     {
+        "id": "be33a6045280d6eb8c56d58c053fc9a1",
+        "title": "Your next Spotify song could soon carry an AI warning label, and the music industry is all for it",
+        "description": "The music industry wants Spotify and Apple Music to label AI-generated songs, giving listeners greater transparency as artificial intelligence becomes increasingly common in music production.",
+        "content": "The music industry’s battle with artificial intelligence is entering a new phase. After spending the past two years fighting AI companies in court and pushing back against unauthorized training on copyrighted music, record labels are now turning thei... [4491 chars]",
+        "url": "https://www.digitaltrends.com/home-theater/your-next-spotify-song-could-soon-carry-an-ai-warning-label-and-the-music-industry-is-all-for-it/",
+        "image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-12T060317.613.jpg?resize=1200%2C630",
+        "publishedAt": "2026-07-12T00:37:51Z",
+        "lang": "en",
+        "source": {
+            "id": "a11116890ae17f53bebab1bc67660326",
+            "name": "Digital Trends",
+            "url": "https://www.digitaltrends.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "8e0e5e7f327fabe5667447e2f4bc100c",
         "title": "AGA launches AI-powered virtual assistant for gastroenterology and hepatology care",
         "description": "The American Gastroenterological Association (AGA) today announced the launch of Nigel, an artificial intelligence (AI)-powered virtual assistant developed exclusively for gastroenterology and hepatology.",
@@ -141,22 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "462812bc20ad55f62ec2e4500d2494f3",
-        "title": "Independent UN panel warns AI is outpacing the world’s ability to govern it",
-        "description": "A SCIENTIFIC panel created by the United Nations released its first independent assessment of artificial intelligence (AI) this month, and the warning at its center is a blunt one. The technology is moving faster than governments can measure it, let alone manage it. Behind the report is the Independent International Scientific Panel on Artificial Intelligence, a body of 40 independent experts that counts one Filipino among them: Maria Ressa, who co-chairs the panel with Canadian computer scientist Yoshua Bengio. They presented the findings in New York on July 1.",
-        "content": "A SCIENTIFIC panel created by the United Nations released its first independent assessment of artificial intelligence (AI) this month, and the warning at its center is a blunt one. The technology is moving faster than governments can measure it, let ... [4916 chars]",
-        "url": "https://www.manilatimes.net/2026/07/12/business/sunday-business-it/independent-un-panel-warns-ai-is-outpacing-the-worlds-ability-to-govern-it/2382705",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/11/1133285.jpg",
-        "publishedAt": "2026-07-11T16:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
