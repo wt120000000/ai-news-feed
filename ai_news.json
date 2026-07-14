@@ -1,5 +1,53 @@
 [
     {
+        "id": "640a92d2277e6b8371be0ffca76a4c61",
+        "title": "PM's China trip aims to boost tech investment",
+        "description": "Prime Minister Anutin Charnvirakul is set to embark on a crucial visit to China later this week, aiming to strengthen economic ties and attract investment in Thailand's future industries, notably semiconductors, artificial intelligence (AI), and electric vehicles.",
+        "content": "Prime Minister Anutin Charnvirakul is set to embark on a crucial visit to China later this week, aiming to strengthen economic ties and attract investment in Thailand's future industries, notably semiconductors, artificial intelligence (AI), and elec... [2257 chars]",
+        "url": "https://www.bangkokpost.com/business/investment/3285495/pms-china-trip-aims-to-boost-tech-investment",
+        "image": "https://static.bangkokpost.com/media/content/20260714/c1_3285495_260714053204_700.jpg",
+        "publishedAt": "2026-07-13T22:28:00Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
+        "id": "ac18c15df130aaca7f6102be2ea37a49",
+        "title": "Carbon storage could curb more than 90% of AI data center emissions, study finds",
+        "description": "As artificial intelligence accelerates demand for computing power across the U.S., a new study co-authored by Hon Chung Lau, adjunct professor in the Department of Chemical and Biomolecular Engineering at Rice University and founder of Low Carbon Energies LLC, has found that carbon capture and storage could play a major role in limiting the climate impact of data centers.",
+        "content": "As artificial intelligence accelerates demand for computing power across the U.S., a new study co-authored by Hon Chung Lau, adjunct professor in the Department of Chemical and Biomolecular Engineering at Rice University and founder of Low Carbon Ene... [3595 chars]",
+        "url": "https://phys.org/news/2026-07-carbon-storage-curb-ai-center.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/data-center-1.jpg",
+        "publishedAt": "2026-07-13T20:20:03Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "d8281008d867a89cc413fb660e500eef",
+        "title": "Thomson Reuters to cut 'small number' of engineering jobs",
+        "description": "Thomson Reuters on Monday said it is cutting \"a small number of roles\" in engineering, as the Canadian content and technology ​company aggressively deploys artificial intelligence across its businesses.",
+        "content": "The layoffs ‌affect the global staff and were announced during a technology staff meeting earlier in the day, an employee who attended the meeting said. The ​employee requested anonymity as the meeting was not public.\nSign up here.\nThomson ​Reuters p... [1142 chars]",
+        "url": "https://www.reuters.com/legal/litigation/thomson-reuters-cut-small-number-engineering-jobs-2026-07-13/",
+        "image": "https://www.reuters.com/resizer/v2/TRABIGIFYZLHVOQTKFY5PYDZPA.jpg?auth=cd9d577b6b4c7821a8611ee9c378367aeb54abcdf39b709773e7f7f9167caa4a&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-07-13T20:11:05Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "cc0832bc8ab3e9e66db2910fe33a5223",
         "title": "AI-powered electronic nose can distinguish tens of thousands of odors",
         "description": "A research team has presented a roadmap for developing an \"artificial olfactory system\" that detects odors like the human nose and analyzes them using artificial intelligence (AI) by leveraging metal-organic frameworks (MOFs). The team systematically organized and reviewed key research trends in electronic nose technology, from MOF material design to sensor implementation and AI-based odor pattern recognition. The research was led by Hyuk-Jun Kwon's in the Department of Electrical Engineering & Computer Science of Daegu Gyeongbuk Institute of Science and Technology. The work is published in the journal Progress in Materials Science.",
@@ -109,54 +157,6 @@
             "name": "TechRadar",
             "url": "https://www.techradar.com",
             "country": "au"
-        }
-    },
-    {
-        "id": "68abe8ceceba29795ac12d82f333fa26",
-        "title": "Dyson releases AI-powered Airwrap Coriolis 2x with Gen2 motor and automated curling system",
-        "description": "Dyson's Airwrap Coriolis 2x uses artificial intelligence to create personalized curls based on your exact hair type.",
-        "content": "Dyson has a new way to curl your hair without doing any of the work yourself.\nDyson has released a new Airwrap that uses motion-sensing technology and artificial intelligence to automate the curling process while delivering increased power over previ... [2659 chars]",
-        "url": "https://www.cleveland.com/shopping/2026/07/dyson-drops-impressive-new-airwrap-with-gen2-motor-that-curls-your-unique-hair-type-using-ai.html",
-        "image": "https://www.cleveland.com/resizer/v2/PVHCKWP555C4FHMOTJR5A5Q7ZA.png?auth=660cb019366bef5c8a9b01e5627780d94e2922183d045b6e662da1ba5fc0e569&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-07-13T17:57:20Z",
-        "lang": "en",
-        "source": {
-            "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
-            "name": "cleveland.com",
-            "url": "https://www.cleveland.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f3fbf52a19f31e11cb72430426286c10",
-        "title": "Labels for Music Created With A.I. Could Join Explicit Lyrics Warnings",
-        "description": "Major music industry groups, including the organization behind the Grammy Awards, have proposed labels for tracks made with some degree of artificial intelligence.",
-        "content": "More than 30 years ago, the music industry adopted a labeling system on albums to alert consumers — and their parents — about explicit lyrics. Something similar could soon be coming for songs that were created with the use of A.I.\nA consortium of ind... [1692 chars]",
-        "url": "https://www.nytimes.com/2026/07/13/arts/music/ai-labels-warnings-riaa.html",
-        "image": "https://static01.nyt.com/images/2026/07/13/multimedia/13cul-ai-music-labels-cphb/13cul-ai-music-labels-cphb-facebookJumbo.jpg",
-        "publishedAt": "2026-07-13T17:32:29Z",
-        "lang": "en",
-        "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "97d7aa9f0a8301c834cc61739415d188",
-        "title": "Ravee Optics raises $6 million to meet growing AI demand for faster data transfers in space",
-        "description": "Artificial intelligence is creating a new challenge beyond chips and data centers. As AI systems generate larger volumes of data and satellite networks continue to grow, moving information through space is becoming a major infrastructure problem. Dayton, Ohio-based startup Ravee Optics believes lasers, not traditional radio systems, will carry much of that traffic. Investors appear",
-        "content": "Artificial intelligence is creating a new challenge beyond chips and data centers. As AI systems generate larger volumes of data and satellite networks continue to grow, moving information through space is becoming a major infrastructure problem. Day... [5276 chars]",
-        "url": "https://techstartups.com/2026/07/13/ravee-optics-raises-6-million-to-meet-growing-ai-demand-for-faster-data-transfers-in-space/",
-        "image": "https://techstartups.com/wp-content/uploads/2026/07/Ravee-Optics-Raises-6-Million-Seed-Funding-Round-960x544.jpg",
-        "publishedAt": "2026-07-13T17:29:26Z",
-        "lang": "en",
-        "source": {
-            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-            "name": "TechStartups.com",
-            "url": "https://techstartups.com",
-            "country": "us"
         }
     }
 ]
