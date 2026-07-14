@@ -1,33 +1,145 @@
 [
     {
-        "id": "7ab3138ea39fcfbb193282ec358a88e3",
-        "title": "Oil prices gain and stocks fall as fighting in the Middle East intensifies",
-        "description": "Oil prices are higher and Asian shares have fallen, dragged lower by losses for artificial-intelligence stocks.",
-        "content": "BANGKOK (AP) — Oil prices climbed early Tuesday as fighting intensified in the Middle East, while Asian shares declined, dragged lower by losses for artificial-intelligence stocks.\nThe price of Brent crude climbed to just over $84 a barrel after soar... [2918 chars]",
-        "url": "https://apnews.com/article/stocks-markets-oil-iran-trump-ai-6807d21c72974fbac48356f83eeebbce",
-        "image": "https://dims.apnews.com/dims4/default/2323515/2147483647/strip/true/crop/7838x5223+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2F0d%2F808213a71b2792c3bdcc88e6867a%2Ffa1f3089f931489fb241c4ddac436653",
-        "publishedAt": "2026-07-14T04:07:54Z",
+        "id": "e3dbdf7ccc752a7fc1ae0e380e8fc591",
+        "title": "Irish artists are being ripped off by systems exploting their work to produce 'AI art'",
+        "description": "IT’s not just ordinary workers who are being made to fear for their future as artificial intelligence continues to develop and expand.\nBut...",
+        "content": "IT’s not just ordinary workers who are being made to fear for their future as artificial intelligence continues to develop and expand.\nBut musical artists, writers and filmmakers are also being badly hit by the AI revolution.\nAdvertisement\nFake recor... [5448 chars]",
+        "url": "https://www.thesun.ie/news/17289480/irish-artists-ripped-off-ai-art-ireland-sinn-fein/",
+        "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/07/newspress-collage-b7ftyvchs-1783963858624.jpg?quality=90&strip=all&1783967480&w=1920&h=1080&crop=1",
+        "publishedAt": "2026-07-14T06:00:00Z",
         "lang": "en",
         "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com",
+            "id": "cf119ed600a8a7c8e23575950f071fec",
+            "name": "The Irish Sun",
+            "url": "https://www.thesun.ie",
+            "country": "ie"
+        }
+    },
+    {
+        "id": "08fa0a78bd546793ce26c37262548d2f",
+        "title": "AI safety body to scan for ‘catastrophic’ threats",
+        "description": "The head of the new AI Safety Institute says it will prioritise protecting Australia from potential catastrophic harm posed by sophisticated artificial intelligence.",
+        "content": "The government’s new AI Safety Institute will act as an early warning system to identify and protect Australia from rapidly evolving artificial intelligence risks that could cause existential or catastrophic harm, says the body’s recently appointed c... [304 chars]",
+        "url": "https://www.afr.com/politics/federal/ai-safety-body-to-scan-for-catastrophic-threats-20260713-p60ew6",
+        "image": "https://static.ffx.io/images/$zoom_0.138%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/0b2c9717652045cfb3724c2c7daee281e4d1379c",
+        "publishedAt": "2026-07-14T05:57:33Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "443b3f11df840852106b7cafbbe38f73",
+        "title": "Oil prices extend run higher as fighting flares in the Middle East",
+        "description": "Oil prices climbed early Tuesday as fighting intensified in the Middle East, while Asian shares declined, dragged lower by losses for artificial-intelligence stocks.",
+        "content": "The price of Brent crude climbed to just over $84 a barrel after soaring nearly 10% on Monday. US benchmark crude was up 1.4% at $79.20 a barrel.\nOil prices are still below their wartime peak of nearly $120 a barrel, but uncertainty over the future s... [2716 chars]",
+        "url": "https://www.euronews.com/business/2026/07/14/oil-prices-extend-run-higher-as-fighting-flares-in-the-middle-east",
+        "image": "https://images.euronews.com/articles/stories/09/83/68/49/1200x675_cmsv2_42b58e04-f90c-5dd1-8873-b96fac9efb9d-9836849.jpg",
+        "publishedAt": "2026-07-14T05:53:39Z",
+        "lang": "en",
+        "source": {
+            "id": "3d24c816061d69b2e23b8583aed9b447",
+            "name": "Euronews",
+            "url": "https://www.euronews.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "3ef4868ad0eb4aa1412ff1ce72505290",
+        "title": "AI cameras now being used to assist Sacramento parking enforcement",
+        "description": "Drivers who stop or park in Sacramento bike lanes could now face a steeper fine as the city expands its use of artificial intelligence to enforce parking rules.",
+        "content": "Drivers who stop or park in Sacramento bike lanes could now face a steeper fine as the city expands its use of artificial intelligence to enforce parking rules.\nStarting this week, the city increased the fine for parking or stopping in a bike lane fr... [2045 chars]",
+        "url": "https://www.cbsnews.com/sacramento/news/ai-cameras-sacramento-parking-enforcement/",
+        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/14/100bc5eb-62f7-4a3b-9797-8f86452e16e0/thumbnail/1200x630/032320f2a0b35ff1cf1cd9b1fcd14851/for-web-sac-ai-parking-cameras.jpg",
+        "publishedAt": "2026-07-14T05:30:57Z",
+        "lang": "en",
+        "source": {
+            "id": "3a3847d645a619320aa3b3484581e395",
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com",
             "country": "us"
         }
     },
     {
-        "id": "234840a15403f1be4373d1e514f00a08",
-        "title": "Oil prices jump as fighting flares in the Middle East, while AI-led retreat pulls Asian stocks lower",
-        "description": "Oil prices are higher and Asian shares have fallen, dragged lower by losses for artificial-intelligence stocks",
-        "content": "BANGKOK (AP) — Oil prices climbed early Tuesday as fighting intensified in the Middle East, while Asian shares declined, dragged lower by losses for artificial-intelligence stocks.\nThe price of Brent crude climbed to just over $84 a barrel after soar... [2918 chars]",
-        "url": "https://www.barchart.com/story/news/3264754/oil-prices-jump-as-fighting-flares-in-the-middle-east-while-ai-led-retreat-pulls-asian-stocks-lower",
-        "image": "https://barchart-news-media-prod.aws.barchart.com/ap/1bc3b0e0fef04bc3ab70a8738735f7e9/1bc3b0e0fef04bc3ab70a8738735f7e9_main_iran_war_strait_of_hormuz_49499.jpg",
-        "publishedAt": "2026-07-14T04:07:54Z",
+        "id": "ebcc2bb34a4f5cea615087af4d00244f",
+        "title": "China's June exports surge 27% from a year earlier as AI boom drives strong demand",
+        "description": "China’s exports accelerated in June, jumping 27% from a year earlier thanks partly to the boom in artificial intelligence, the customs agency said on Tuesday.",
+        "content": "The increase in exports in June was much better than economists had expected. Exports rose 19.4% year-on-year in May.\nImports in June surged 36%, better than May’s 27.4% year-on-year growth, with analysts attributing the expansion in part due to the ... [2631 chars]",
+        "url": "https://www.euronews.com/business/2026/07/14/chinas-june-exports-surge-27-from-a-year-earlier-as-ai-boom-drives-strong-demand",
+        "image": "https://images.euronews.com/articles/stories/09/83/68/31/1200x675_cmsv2_6e1484ee-2857-5917-8d82-3d9c566f4be2-9836831.jpg",
+        "publishedAt": "2026-07-14T05:23:20Z",
+        "lang": "en",
+        "source": {
+            "id": "3d24c816061d69b2e23b8583aed9b447",
+            "name": "Euronews",
+            "url": "https://www.euronews.com",
+            "country": "fr"
+        }
+    },
+    {
+        "id": "157e2ff6de0af8e34fe7414bbe68db4c",
+        "title": "Hundreds of economists say 'we must act now' on AI’s economic impact and job displacement risks",
+        "description": "Hundreds of economists say in an open letter that institutions \"must act now\" to address how artificial intelligence could transform the economy and could put many people out of work.",
+        "content": "SAN FRANCISCO: Hundreds of economists say in an open letter that institutions \"must act now” to address how artificial intelligence (AI) could transform the economy and could put many people out of work.\nThe statement released on July 13 was signed b... [1324 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/14/hundreds-of-economists-say-039we-must-act-now039-on-ais-economic-impact-and-job-displacement-risks",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/14/4009142.jpg",
+        "publishedAt": "2026-07-14T05:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "fd8b2b3cdad4a4307fbfd4d4431e85f2",
+        "title": "China's June exports surge 27% from a year earlier as AI boom drives strong demand",
+        "description": "China’s customs agency says its exports accelerated in June, jumping 27% from a year earlier, driven by strong demand due to the boom in artificial intelligence",
+        "content": "HONG KONG (AP) — China’s exports accelerated in June, jumping 27% from a year earlier thanks partly to the boom in artificial intelligence, the customs agency said Tuesday.\nThe increase in exports in June was much better than economists had expected.... [2546 chars]",
+        "url": "https://www.barchart.com/story/news/3264414/china-s-june-exports-surge-27-from-a-year-earlier-as-ai-boom-drives-strong-demand",
+        "image": "https://barchart-news-media-prod.aws.barchart.com/ap/f4c0b76bb67b42a6bb175327d0193f96/f4c0b76bb67b42a6bb175327d0193f96_main_china_economy__94_6.jpg",
+        "publishedAt": "2026-07-14T04:44:21Z",
         "lang": "en",
         "source": {
             "id": "f81e0cedbddbe08e3058634e8bb4a56f",
             "name": "Barchart",
             "url": "https://www.barchart.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d3b70fefac81de021e36f57e956d3cfc",
+        "title": "Monorale V4.1 Expands Multi-Model AI Platform With Redesigned Chat, Reasoning Controls and Enterprise Foundations",
+        "description": "Monorale is a British artificial intelligence technology company developing a multi-model AI platform designed to provide",
+        "content": "Share\nShare\nShare\nShare\nEmail\nMonorale has announced the release of V4.1, introducing a redesigned chat experience, expanded access to leading AI models, new reasoning controls, flexible billing infrastructure and significant architectural improvemen... [6880 chars]",
+        "url": "https://techbullion.com/monorale-v4-1-expands-multi-model-ai-platform-with-redesigned-chat-reasoning-controls-and-enterprise-foundations/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-13-at-12.11.27-PM-1-1000x600.jpeg",
+        "publishedAt": "2026-07-14T04:34:28Z",
+        "lang": "en",
+        "source": {
+            "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+            "name": "TechBullion",
+            "url": "https://techbullion.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "f5acb50a991d7a53ebe01e8bd1fdb7a8",
+        "title": "SoftBank Group's CEO says $5 trillion a year needed globally to meet AI demand",
+        "description": "Japanese tech giant SoftBank Group’s CEO Masayoshi Son has ridiculed people who worry about a bubble in artificial intelligence investments. TOKYO",
+        "content": "Japanese tech giant SoftBank Group’s CEO Masayoshi Son has ridiculed people who worry about a bubble in artificial intelligence investments.\nTOKYO (AP) — Worries about a bubble in artificial intelligence investments are absurd, SoftBank Group’s CEO M... [1984 chars]",
+        "url": "https://www.breitbart.com/news/softbank-groups-ceo-says-5-trillion-a-year-needed-globally-to-meet-ai-demand/",
+        "image": "https://media.breitbart.com/media/2026/07/wi/ap/japan-softbank-ai-99792-japan-softbank-ai-masayoshi-son-chairman-ceo-of-softbank-speaks-business-640x335.jpg",
+        "publishedAt": "2026-07-14T04:34:25Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
             "country": "us"
         }
     },
@@ -44,118 +156,6 @@
             "id": "384b3c633f1aa3e0a1bcb208f94d519d",
             "name": "SFGATE",
             "url": "https://www.sfgate.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "add50fcbe1b90c8751823b8a55f9bcdd",
-        "title": "Oil prices jump as fighting flares in the Middle East, while AI-led retreat pulls Asian stocks lower",
-        "description": "Oil prices are higher and Asian shares have fallen, dragged lower by losses for artificial-intelligence stocks.",
-        "content": "BANGKOK – Oil prices climbed early Tuesday as fighting intensified in the Middle East, while Asian shares declined, dragged lower by losses for artificial-intelligence stocks.\nThe price of Brent crude climbed to just over $84 a barrel after soaring n... [2913 chars]",
-        "url": "https://www.clickondetroit.com/business/2026/07/14/oil-prices-jump-as-fighting-flares-in-the-middle-east-while-ai-led-retreat-pulls-asian-stocks-lower/",
-        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/JAITDZQ36VGDBGGACOHLRHU2HU.jpg?_a=DATAg1kSZAA0",
-        "publishedAt": "2026-07-14T04:07:53Z",
-        "lang": "en",
-        "source": {
-            "id": "35515662ec044d3f94b543cd8802d63f",
-            "name": "WDIV ClickOnDetroit",
-            "url": "https://www.clickondetroit.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "dc023d54ebb9d79d5893dadc594282ff",
-        "title": "OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT",
-        "description": "The partnership, a first of its kind for the artificial intelligence company, will use the prediction market’s data to power some search results about the soccer tournament.",
-        "content": "Kalshi, the start-up that lets users wager on almost anything, has struck a partnership with the artificial intelligence company OpenAI to show World Cup prediction market data in ChatGPT search results.\nThe tie-up, which has not been promoted public... [2308 chars]",
-        "url": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html",
-        "image": "https://static01.nyt.com/images/2026/07/13/multimedia/13biz-kalshi-openai-kqcj/13biz-kalshi-openai-kqcj-facebookJumbo.jpg",
-        "publishedAt": "2026-07-14T03:34:35Z",
-        "lang": "en",
-        "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "abff5c944cc72eaf9f490c81e3129859",
-        "title": "China's exports surge 27% from a year earlier as AI boom drives strong demand",
-        "description": "China’s customs agency says its exports accelerated in June, jumping 27% from a year earlier, driven by strong demand due to the boom in artificial intelligence. The increase in exports in June was...",
-        "content": "HONG KONG (AP) — China’s exports accelerated in June, jumping 27% from a year earlier, driven by strong demand due to the boom in artificial intelligence, the customs agency said Tuesday.\nThe increase in exports in June was much better than economist... [1743 chars]",
-        "url": "https://www.sfgate.com/news/world/article/china-s-exports-surge-27-from-a-year-earlier-as-22344148.php",
-        "image": "https://s.hdnux.com/photos/01/66/55/42/31119523/6/rawImage.jpg",
-        "publishedAt": "2026-07-14T03:23:03Z",
-        "lang": "en",
-        "source": {
-            "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-            "name": "SFGATE",
-            "url": "https://www.sfgate.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "cce2f33cda7c44938a08cc7d0d1e6a9f",
-        "title": "China's exports surge 27% from a year earlier as AI boom drives strong demand",
-        "description": "China’s customs agency says its exports accelerated in June, jumping 27% from a year earlier, driven by strong demand due to the boom in artificial intelligence",
-        "content": "HONG KONG (AP) — China’s exports accelerated in June, jumping 27% from a year earlier, its customs agency said Tuesday, driven by strong demand due to the boom in artificial intelligence.\nThe increase in exports in June was much better than economist... [406 chars]",
-        "url": "https://www.barchart.com/story/news/3264414/china-s-exports-surge-27-from-a-year-earlier-as-ai-boom-drives-strong-demand",
-        "image": "https://barchart-news-media-prod.aws.barchart.com/ap/f4c0b76bb67b42a6bb175327d0193f96/f4c0b76bb67b42a6bb175327d0193f96_main_china_economy__94_6.jpg",
-        "publishedAt": "2026-07-14T03:06:46Z",
-        "lang": "en",
-        "source": {
-            "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-            "name": "Barchart",
-            "url": "https://www.barchart.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "fb0a857c31fead1337175d261dbe7da6",
-        "title": "China's exports jump 27% in June on strong demand for AI",
-        "description": "China’s customs agency says its exports accelerated in June, jumping 27% from a year earlier, driven by strong demand due to the boom in artificial intelligence.",
-        "content": "HONG KONG (AP) — China’s exports accelerated in June, jumping 27% from a year earlier, driven by strong demand due to the boom in artificial intelligence, the customs agency said Tuesday.\nThe increase in exports in June was much better than economist... [1644 chars]",
-        "url": "https://apnews.com/article/china-trade-ai-tech-economy-29da1a43eba2961b57f6cfbe6f936e42",
-        "image": "https://dims.apnews.com/dims4/default/7f4d454/2147483647/strip/true/crop/3135x2089+187+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2F84%2F16edb0197dcdadbe1a87ba3a8af8%2F586edfa7a08f4713a7eb8d3d929eb2b0",
-        "publishedAt": "2026-07-14T03:06:46Z",
-        "lang": "en",
-        "source": {
-            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-            "name": "The Associated Press",
-            "url": "https://apnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "7af70a32a24ac39436f93506c9b4386e",
-        "title": "China's June exports surge 27% from a year earlier as AI boom drives strong demand",
-        "description": "China’s customs agency says its exports accelerated in June, jumping 27% from a year earlier, driven by strong demand due to the boom in artificial intelligence.",
-        "content": "HONG KONG – China’s exports accelerated in June, jumping 27% from a year earlier thanks partly to the boom in artificial intelligence, the customs agency said Tuesday.\nThe increase in exports in June was much better than economists had expected. Expo... [2541 chars]",
-        "url": "https://www.clickondetroit.com/news/2026/07/14/chinas-june-exports-surge-27-from-a-year-earlier-as-ai-boom-drives-strong-demand/",
-        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ZAYDMUAO2VE5VDQYJLKKJT37GA.jpg?_a=DATAg1kSZAA0",
-        "publishedAt": "2026-07-14T03:06:45Z",
-        "lang": "en",
-        "source": {
-            "id": "35515662ec044d3f94b543cd8802d63f",
-            "name": "WDIV ClickOnDetroit",
-            "url": "https://www.clickondetroit.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "bb9d57a3df29977b641f10f324f3dad9",
-        "title": "South Korea forecasts 2026 economic growth at 5-year high on AI chip boom",
-        "description": "South Korea pledged on Tuesday to swiftly advance artificial intelligence investments to bolster economic ‌performance, as it raised its 2026 growth forecast to a five-year high of 3.0% on the back of a global semiconductor boom.",
-        "content": "SEOUL, July 14 (Reuters) - South Korea pledged on Tuesday to swiftly advance artificial intelligence investments to bolster economic ‌performance, as it raised its 2026 growth forecast to a five-year high of 3.0% on the back of a global semiconductor... [2107 chars]",
-        "url": "https://www.reuters.com/world/asia-pacific/south-korea-forecasts-2026-economic-growth-5-year-high-ai-chip-boom-2026-07-14/",
-        "image": "https://www.reuters.com/resizer/v2/JVCBQNS5TROQDD32ITCWQOMKAY.jpg?auth=2ab827f7ceff663f502e8c81315bd5771b5201f237dc48fcac4c3980f09613d4&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-07-14T02:58:44Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
             "country": "us"
         }
     }
