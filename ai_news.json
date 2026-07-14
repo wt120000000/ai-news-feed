@@ -1,5 +1,21 @@
 [
     {
+        "id": "d2aae829f499f95c6d430d6238bf7e60",
+        "title": "Thomson Reuters to cut 'small number' of engineering jobs",
+        "description": "July 13 (Reuters) - Thomson Reuters ⁠on Monday said it is cutting \"a small number of roles\" ⁠in engineering, as the Canadian content and technology company aggressively ‌deploys artificial intelligence across its businesses.",
+        "content": "July 13 (Reuters) - Thomson Reuters ⁠on Monday said it is cutting \"a small number of roles\" ⁠in engineering, as the Canadian content and technology company aggressively ‌deploys artificial intelligence across its businesses.\nThe layoffs affect the gl... [1522 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/14/thomson-reuters-to-cut-039small-number039-of-engineering-jobs",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/14/4009094.jpg",
+        "publishedAt": "2026-07-13T23:57:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "640a92d2277e6b8371be0ffca76a4c61",
         "title": "PM's China trip aims to boost tech investment",
         "description": "Prime Minister Anutin Charnvirakul is set to embark on a crucial visit to China later this week, aiming to strengthen economic ties and attract investment in Thailand's future industries, notably semiconductors, artificial intelligence (AI), and electric vehicles.",
@@ -141,22 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "4fd5b7b254a85f9408c82c0d533566fa",
-        "title": "‘The fate of humanity must not be decided behind closed doors’: US artificial intelligence sovereign wealth fund sees surge in support as AI job losses mount — 69% of Americans want to see half of AI",
-        "description": "Americans want AI wealth to be for the benefit of all, not just the rich",
-        "content": "Americans want the massive wealth of AI firms added to a sovereign wealth fund\n69% would see AI firms forced to transfer 50% of stock into a sovereign fund\nThe fund would help redistribute wealth and back new infrastructure and developments for worki... [2544 chars]",
-        "url": "https://www.techradar.com/pro/the-fate-of-humanity-must-not-be-decided-behind-closed-doors-us-artificial-intelligence-sovereign-wealth-fund-sees-surge-in-support-as-ai-job-losses-mount-69-percent-of-americans-want-to-see-half-of-ai-stock-placed-into-new-state-owned-investment-fund",
-        "image": "https://cdn.mos.cms.futurecdn.net/5XKgbiz2DZRRBFJUtTanJb-2560-80.jpg",
-        "publishedAt": "2026-07-13T18:20:00Z",
-        "lang": "en",
-        "source": {
-            "id": "76684855c5d801b81fd06490668d04fe",
-            "name": "TechRadar",
-            "url": "https://www.techradar.com",
-            "country": "au"
         }
     }
 ]
