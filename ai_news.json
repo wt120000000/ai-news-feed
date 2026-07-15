@@ -1,28 +1,44 @@
 [
     {
-        "id": "432f3c77693041bb11a5d7d369142ed6",
-        "title": "Demis Hassabis says AGI could arrive within years, proposes Frontier AI Standards Body",
-        "description": "Demis Hassabis, founder and CEO of Google DeepMind, suggests the creation of an independent regulatory body to evaluate advanced AI models before their release. With concerns over frontier AI and the looming possibility of artificial general intelligence, Hassabis emphasizes the importance of safety standards and responsible deployment. He proposes a public-private partnership in the US.",
-        "content": "Technology 7 min ago\nThis is an AI assisted summary.\nDemis Hassabis, founder and CEO of Google DeepMind, suggests the creation of an independent regulatory body to evaluate advanced AI models before their release. With concerns over frontier AI and t... [23047 chars]",
-        "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/demis-hassabis-agi-proposes-frontier-ai-standards-body-10786981/",
-        "image": "https://images.indianexpress.com/2026/02/Demis-Hassabis-x.jpg",
-        "publishedAt": "2026-07-15T04:12:49Z",
+        "id": "a4723d2afc4c5b6e6a8d5d8b22c8f7b1",
+        "title": "The Race to Stop AI’s Threats to Democracy",
+        "description": "Tech journalist Karen Hao sounds the alarm about the rising risks to the country—and planet—from the growth of artificial intelligence.",
+        "content": "OpenAI and its revolutionary chatbot ChatGPT have single-handedly accelerated AI’s boom and threatened to upend much of how we work, create, learn, and communicate in the process. But when OpenAI was founded a decade ago, the company’s approach to ar... [1194 chars]",
+        "url": "https://www.motherjones.com/politics/2026/07/openai-chatgpt-sam-altman-artificial-intelligence-karen-hao-2026/",
+        "image": "https://www.motherjones.com/wp-content/uploads/2025/10/20251008_AI-Karen-Hao_2000px.png?w=1200&h=630&crop=1",
+        "publishedAt": "2026-07-15T06:01:00Z",
         "lang": "en",
         "source": {
-            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-            "name": "The Indian Express",
-            "url": "https://indianexpress.com",
-            "country": "in"
+            "id": "8ade8c29472fb3bf8cf029dc6fd89aa7",
+            "name": "Mother Jones",
+            "url": "https://www.motherjones.com",
+            "country": "us"
         }
     },
     {
-        "id": "472b085743cdb84246c35665e64a1d47",
-        "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave",
-        "description": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.",
-        "content": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence (AI) systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.\nThey are among the 8,000 employees, or abo... [4574 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/15/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4011250.JPG",
-        "publishedAt": "2026-07-15T04:00:00Z",
+        "id": "4dc4c16f96fe0d1dbfc6da47e00940b1",
+        "title": "\"A generational opportunity\": PM unveils new national standards for artificial intelligence in major speech",
+        "description": "In a major speech, the Prime Minister has outlined plans for a set of new national standards for artificial intelligence. The federal government will establish an Office of Artificial Intelligence as part of the new national framework. Anthony Albanese says Australia can encourage investment while managing risk to capitalise on the technology.",
+        "content": "In a major speech, the Prime Minister has outlined plans for a set of new national standards for artificial intelligence. The federal government will establish an Office of Artificial Intelligence as part of the new national framework. Anthony Albane... [5587 chars]",
+        "url": "https://www.sbs.com.au/news/podcast-episode/a-generational-opportunity-pm-unveils-new-national-standards-for-artificial-intelligence-in-major-speech/hgmbjjkd3",
+        "image": "https://assets.sbs.com.au/dims4/default/563ebf4/2147483647/strip/true/crop/1800x1013+0+94/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F4c%2Fff%2Fc72dd0c64c3b943f333d3e15682f%2Faustralian-prime-minister-anthony-albanese-deklivers-a-speech-titled-ai-in-australias-interests-at-the-university-of-sydney-wednesday-july-15-2026-aap-image-dan-himbrechts.jpg",
+        "publishedAt": "2026-07-15T05:57:07Z",
+        "lang": "en",
+        "source": {
+            "id": "94466d37d8c67a438250646866df36df",
+            "name": "SBS Australia",
+            "url": "https://www.sbs.com.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "1701446e88b252b2c9fd7ee63a79d543",
+        "title": "Australian PM says to enact laws to govern AI",
+        "description": "SYDNEY: Australia will enact laws to regulate how artificial intelligence data centres use power and water, and to protect creative copyright, Prime Minister Anthony Albanese said on Wednesday (July 15)",
+        "content": "SYDNEY: Australia will enact laws to regulate how artificial intelligence data centres use power and water, and to protect creative copyright, Prime Minister Anthony Albanese (pic) said on Wednesday (July 15).\nIn a landmark speech setting out his gov... [2175 chars]",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/15/australian-pm-says-to-enact-laws-to-govern-ai",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4011647.jpg",
+        "publishedAt": "2026-07-15T05:38:00Z",
         "lang": "en",
         "source": {
             "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -32,109 +48,61 @@
         }
     },
     {
-        "id": "be7780d4e6134228aaa2e043f8605a48",
-        "title": "Australia's Bold Step Forward: The Creation of the Office of AI",
-        "description": "Australia is establishing an 'Office of AI' within the Department of the Prime Minister and Cabinet to manage artificial intelligence standards and streamline approval processes, particularly for data centers. The initiative positions the nation as a global AI hub amid concerns over environmental and economic impacts.",
-        "content": "Australia is setting the stage for a significant shift in its AI landscape with the announcement of a dedicated 'Office of AI'. Prime Minister Anthony Albanese revealed this development, aiming to unify the government's approach to AI and manage data... [637 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3950438-australias-bold-step-forward-the-creation-of-the-office-of-ai",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_47_4854533.png&width=920&format=jpeg",
-        "publishedAt": "2026-07-15T03:51:20Z",
+        "id": "3a1825af3b606f240592ed9974a479ff",
+        "title": "New rules for AI as critics lash 'energy vampires'",
+        "description": "Australia will introduce laws to govern artificial intelligence and data centres in less than a year, but they...",
+        "content": "Prime Minister Anthony Albanese has proposed new rules for data centre energy and AI use. Photo: Dan Himbrechts/AAP PHOTOS\nAustralia will introduce legal standards for artificial intelligence and data centres in less than a year, but the prime minist... [6134 chars]",
+        "url": "https://www.canberratimes.com.au/story/9310843/new-rules-for-ai-as-critics-lash-energy-vampires/",
+        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/c0b452cb-f27a-4fe7-8337-d43ebdfc8369.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+        "publishedAt": "2026-07-15T05:16:19Z",
         "lang": "en",
         "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d1757e6cfe44a6240e5ae75d3b81a96e",
-        "title": "AI explored as tool for unraveling radicalization's complex drivers",
-        "description": "Radicalization is a complex process, influenced by many variables that interact to varying degrees. AI scientist Mijke van den Hurk investigated whether artificial intelligence could help unravel this intricate interplay. She defended her Ph.D. thesis cum laude on June 29.",
-        "content": "Radicalization is a complex process, influenced by many variables that interact to varying degrees. AI scientist Mijke van den Hurk investigated whether artificial intelligence could help unravel this intricate interplay. She defended her Ph.D. thesi... [4385 chars]",
-        "url": "https://phys.org/news/2026-07-ai-explored-tool-unraveling-radicalization.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/a-better-understanding.jpg",
-        "publishedAt": "2026-07-15T03:40:02Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "160684c652c69f9e550852ee440a5b28",
-        "title": "Albanese hits data centres with grid mandate in major AI pivot",
-        "description": "Tech giants face tough grid mandates and a world-first copyright regime as the Albanese government launches a major regulatory crackdown on artificial intelligence.",
-        "content": "The Albanese government will force data centres to generate more power than they take from the grid and minimise water usage to keep household bills from rising and is also exploring a new copyright regime designed for artificial intelligence trainin... [280 chars]",
-        "url": "https://www.afr.com/technology/albanese-hits-data-centres-with-grid-mandate-in-major-ai-pivot-20260715-p60fg6",
-        "image": "https://static.ffx.io/images/$zoom_0.8454%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_386%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e0f1d47add74988f739d4ab165632f229de6d2ea",
-        "publishedAt": "2026-07-15T03:03:27Z",
-        "lang": "en",
-        "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "Australian Financial Review",
-            "url": "https://www.afr.com",
+            "id": "92021aca7322dc2b29226023c35d9a4a",
+            "name": "The Canberra Times",
+            "url": "https://www.canberratimes.com.au",
             "country": "au"
         }
     },
     {
-        "id": "6fa360a507b5ec9ede7699d6c022a8d0",
-        "title": "Plug and Play Announces a Strategic Partnership with Thales to Support Global Expansion of Deep-Tech Startups through Trust My Tech Program",
-        "description": "Plug and Play and Thales have entered a strategic partnership to accelerate the growth and international expansion of deep-tech startups through Thales' global Trust My Tech (TMT), global open innovation, and business acceleration program.As part of the partnership, Plug and Play will implement its Innovation Framework within Thales-a structured approach designed to further catalyze and strengthen an organization's innovation. Complementing this approach, the partnership will identify and support frontier startups across artificial intelligence (AI), cybersecurity, aerospace, digital identity, quantum technologies, sustainability, fintech, communications, regulatory technology, and other emerging technology sectors, connecting them with opportunities to collaborate with Thales.Selected startups will have the opportunity to develop proofs-of-concept (POCs), pilot initiatives, and potential commercial collaborations with Thales' regional and global business units, enabling real-world validation of their technologies and creating pathways to international markets.SINGAPORE, July 15, 2026 /PRNewswire/ -- Plug and Play, a global innovation platform headquartered in Silicon Valley, has announced a strategic partnership with Thales, a global leader in advanced technologies across defense, aerospace, cyber and digital sectors.",
-        "content": "Plug and Play and Thales have entered a strategic partnership to accelerate the growth and international expansion of deep-tech startups through Thales' global Trust My Tech (TMT), global open innovation, and business acceleration program.\nAs part of... [5942 chars]",
-        "url": "https://www.manilatimes.net/2026/07/15/tmt-newswire/pr-newswire/plug-and-play-announces-a-strategic-partnership-with-thales-to-support-global-expansion-of-deep-tech-startups-through-trust-my-tech-program/2384681",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-07-15T02:26:00Z",
+        "id": "1f7db54f6d9a7f608b3d77672265d3df",
+        "title": "ASML tops Q2 estimates on AI chip demand",
+        "description": "ASML , the world's biggest supplier of ​equipment used to ‌manufacture computer chips, on Wednesday reported better-than-expected second-quarter ​revenue and ​profit, as demand from makers ⁠of artificial intelligence ​chips offset uncertainty ​over sales to China.",
+        "content": "July 15 (Reuters) - ASML (ASML.AS), opens new tab, the world's biggest supplier of ​equipment used to ‌manufacture computer chips, on Wednesday reported better-than-expected second-quarter ​revenue and ​profit, as demand from makers ⁠of artificial in... [449 chars]",
+        "url": "https://www.reuters.com/business/asml-tops-q2-estimates-ai-chip-demand-2026-07-15/",
+        "image": "https://www.reuters.com/resizer/v2/KWFP22U6TZJN5M6BDNBDONMR34.jpg?auth=a450104cd6ba41e39058ace0288f066737b34228b005f2cea0af4a05de5d942b&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-07-15T05:07:35Z",
         "lang": "en",
         "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "880abf364d7e234b63d99a179b2f6c1d",
-        "title": "AI infrastructure company unveils plans for Callaway County data center",
-        "description": "KINGDOM CITY, Mo. (KMIZ)  As data center projects continue to pop up across the country, an artificial intelligence company is now eyeing Callaway County for its next development. On Tuesday, the Callaway County Chamber of Commerce and Denver-based AI infrastructure provider Crusoe hosted an informational open house at 54 Country in Kingdom City to discuss",
-        "content": "KINGDOM CITY, Mo. (KMIZ)\nAs data center projects continue to pop up across the country, an artificial intelligence company is now eyeing Callaway County for its next development.\nOn Tuesday, the Callaway County Chamber of Commerce and Denver-based AI... [9478 chars]",
-        "url": "https://abc17news.com/news/top-stories/2026/07/14/ai-infrastructure-company-unveils-plans-for-callaway-county-data-center/",
-        "image": "https://abc17news.b-cdn.net/abc17news.com/2026/07/Screenshot-2026-07-14-at-8.49.04-PM.png",
-        "publishedAt": "2026-07-15T01:59:22Z",
-        "lang": "en",
-        "source": {
-            "id": "d5a02d07558c5563d72576efc406e608",
-            "name": "ABC17News.com",
-            "url": "https://abc17news.com",
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
             "country": "us"
         }
     },
     {
-        "id": "f78c4df8cdf9bfc8731af9483659a586",
-        "title": "US steps up AI, minerals race against China",
-        "description": "US steps up AI, minerals race against China - Washington, July 15 The Trump administration has received 78 applications for its new artificial intelligence export programme and ... Get Latest News on International only on lokmattimes.com",
-        "content": "Washington, July 15 The Trump administration has received 78 applications for its new artificial intelligence export programme and signed more than 28 critical minerals agreements as Washington intensifies efforts to compete with China in technology ... [3556 chars]",
-        "url": "https://www.lokmattimes.com/international/us-steps-up-ai-minerals-race-against-china/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607153864587_202607.jpg",
-        "publishedAt": "2026-07-15T01:40:24Z",
+        "id": "6bd4afc3e3750c69887e14b01b16988c",
+        "title": "OpenAI’s first device will be movable, screenless speaker built as AI companion",
+        "description": "OpenAI's much-anticipated push into consumer devices is slated to begin with a mobile, screen-free smart speaker designed to be a new type of home computer for the artificial intelligence era, according to people familiar with the matter.",
+        "content": "OpenAI’s much-anticipated push into consumer devices is slated to begin with a mobile, screen-free smart speaker designed to be a new type of home computer for the artificial intelligence (AI) era, according to people familiar with the matter.\nThe pr... [7034 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/15/openais-first-device-will-be-movable-screenless-speaker-built-as-ai-companion",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4011366.jpg",
+        "publishedAt": "2026-07-15T05:00:00Z",
         "lang": "en",
         "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
-            "country": "in"
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
         }
     },
     {
-        "id": "761edb5a94c3fc568914abcdc1fe9f09",
-        "title": "Publishers accuse Google of stealing copyrighted content in new lawsuit",
-        "description": "Multiple book publishers sued Google on Tuesday for allegedly stealing copyrighted content, using it to train artificial intelligence (AI) models and then generating content that \"directly\" competes with the original authors' work. Furthermore, they claim the content generated by Gemini directly competes with the authors who wrote the original work.",
-        "content": "Synopsis\nMultiple book publishers sued Google on Tuesday for allegedly stealing copyrighted content, using it to train artificial intelligence (AI) models and then generating content that \"directly\" competes with the original authors' work. Furthermo... [2249 chars]",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/publishers-accuse-google-of-stealing-copyrighted-content-in-new-lawsuit/articleshow/132403807.cms",
-        "image": "https://img.etimg.com/thumb/msid-132403810,width-1200,height-630,imgsize-41876,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-07-15T01:35:00Z",
+        "id": "381b01ad06570fdd096b1a4d5b47a100",
+        "title": "BRICS trade union delegates call for worker-centric AI policies, stronger social dialogue",
+        "description": "Trade union representatives attending the BRICS Trade Union Forum in Hyderabad have called for artificial intelligence (AI) to be deployed as a tool to improve workers' lives rather than replace jobs, while also urging member nations to strengthen social dialogue and address global economic and geopolitical challenges affecting workers.",
+        "content": "Synopsis\nTrade union representatives attending the BRICS Trade Union Forum in Hyderabad have called for artificial intelligence (AI) to be deployed as a tool to improve workers' lives rather than replace jobs, while also urging member nations to stre... [3174 chars]",
+        "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/brics-trade-union-delegates-call-for-worker-centric-ai-policies-stronger-social-dialogue/articleshow/132406717.cms",
+        "image": "https://img.etimg.com/thumb/msid-132406737,width-1200,height-630,imgsize-51114,overlay-etrise/articleshow.jpg",
+        "publishedAt": "2026-07-15T05:00:00Z",
         "lang": "en",
         "source": {
             "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -144,18 +112,50 @@
         }
     },
     {
-        "id": "37a72a3ea4bd287e285a38da4df7e83d",
-        "title": "White House launches Gold Eagle cyber shield",
-        "description": "White House launches Gold Eagle cyber shield - Washington, July 15 The White House has launched Gold Eagle, an artificial intelligence-powered clearing house which is designed ... Get Latest News on International only on lokmattimes.com",
-        "content": "Washington, July 15 The White House has launched Gold Eagle, an artificial intelligence-powered clearing house which is designed to identify and patch cybersecurity vulnerabilities across critical US infrastructure at unprecedented speed and scale.\nT... [3135 chars]",
-        "url": "https://www.lokmattimes.com/international/white-house-launches-gold-eagle-cyber-shield/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607153864584_202607.jpg",
-        "publishedAt": "2026-07-15T01:25:44Z",
+        "id": "fee71041d4efcabd5df1f435b0e3e2ae",
+        "title": "National Unity Ministry launches 2026-2030 strategic plans to modernise museums",
+        "description": "KUALA LUMPUR: The National Unity Ministry has launched two five-year strategic plans (2026–2030) to modernise the Museums Department through digital transformation, including the integration of virtual reality (VR) and artificial intelligence (AI).",
+        "content": "KUALA LUMPUR: The National Unity Ministry has launched two five-year strategic plans (2026–2030) to modernise the Museums Department through digital transformation, including the integration of virtual reality (VR) and artificial intelligence (AI).\nO... [1145 chars]",
+        "url": "https://www.thestar.com.my/news/nation/2026/07/15/national-unity-ministry-launches-2026-2030-strategic-plans-to-modernise-museums",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4011540.JPG",
+        "publishedAt": "2026-07-15T04:50:00Z",
         "lang": "en",
         "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "2b6e98972b00fc5de85e305e74c7bb86",
+        "title": "Meta AI feature pulled after backlash over privacy concerns",
+        "description": "Has Meta learned nothing? Facebook owner ditches AI feature after facing major privacy backlash . Facebook parent company Meta has ditched its latest Artificial Intelligence (AI) feature after days of backlash",
+        "content": "Facebook parent company Meta has ditched its latest Artificial Intelligence (AI) feature after days of backlash.\nDubbed Muse Image, the tool was designed to let you generate AI images based on photos posted on any public Instagram account. And if you... [884 chars]",
+        "url": "https://www.gbnews.com/tech/meta-ai-feature-privacy-concerns",
+        "image": "https://www.gbnews.com/media-library/meta-logo-on-mobile.jpg?id=67148097&width=1200&height=600&coordinates=0%2C59%2C0%2C110",
+        "publishedAt": "2026-07-15T04:40:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0c047612bc7bc0113342d2651f47b208",
+            "name": "GB News",
+            "url": "https://www.gbnews.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "a5ba7539487a2ad3728ef56f44d91978",
+        "title": "AI wants more than your searches now",
+        "description": "India News: The privacy debate around artificial intelligence has intensified after recent changes by Google and Meta highlighted how user data can be used to imp.",
+        "content": "AI-generated image\nThe privacy debate around artificial intelligence has intensified after recent changes by Google and Meta highlighted how user data can be used to improve AI models. The issue is no longer limited to search queries. AI companies ar... [3269 chars]",
+        "url": "https://timesofindia.indiatimes.com/india/ai-wants-more-than-your-searches-now/articleshow/132406007.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132406060,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-15T04:29:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
             "country": "in"
         }
     }
