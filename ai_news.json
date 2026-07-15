@@ -1,5 +1,85 @@
 [
     {
+        "id": "d5549839214641ee889104e202afcf7f",
+        "title": "White House launches cybersecurity clearinghouse to patch software flaws discovered by AI",
+        "description": "The 'Gold Eagle' initiative seeks to help federal agencies, critical infrastructure operators and artificial intelligence developers patch crucial security flaws uncovered by advanced AI models.",
+        "content": "The Trump administration has launched a new artificial intelligence cybersecurity clearinghouse that officials say will help federal agencies, critical infrastructure owners and operators, and AI companies identify and patch software vulnerabilities ... [1615 chars]",
+        "url": "https://www.politico.com/news/2026/07/14/white-house-launches-gold-eagle-cybersecurity-clearinghouse-to-patch-software-flaws-discovered-by-ai-00998011",
+        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2d%2F93%2F987ecb194ef29115c01f4d29e306%2Fwhite-house-22140.jpg",
+        "publishedAt": "2026-07-14T22:38:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c477009a98f37b19212d8ae20ce8c018",
+            "name": "POLITICO",
+            "url": "https://www.politico.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "9eb7fbbbd0a47c3d6f409773d50be395",
+        "title": "26 Meta employees sue over AI-driven layoffs",
+        "description": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.",
+        "content": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.\nThey are among the 8,000 employees, or about 10... [4560 chars]",
+        "url": "https://www.manilatimes.net/2026/07/15/business/sunday-business-it/26-meta-employees-sue-over-ai-driven-layoffs/2384615",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/15/1137346.jpg",
+        "publishedAt": "2026-07-14T22:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "ecfacdf35e153ff9f55e63958c378b3d",
+        "title": "driven layoff picks hit workers on medical and parental leave",
+        "description": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs…",
+        "content": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.\nThey are among the 8,000 employees, or about 10... [4952 chars]",
+        "url": "https://wtop.com/parenting/2026/07/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave/",
+        "image": "https://wtop.com/wp-content/uploads/2026/07/UE-META_8_623-scaled.jpg",
+        "publishedAt": "2026-07-14T21:44:48Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "5da783e3dcd49cba2e15cf30a54a3f01",
+        "title": "Lawsuit claims Meta's AI unfairly targeted employees on leave",
+        "description": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems that disproportionately targeted those on medical or family leave for layoffs.",
+        "content": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.\nThey are among the 8,000 employees, or about 10... [4562 chars]",
+        "url": "https://apnews.com/article/meta-lawsuit-workers-target-ai-layoffs-leave-019fb9c7fdc09167e91547546bce5be8",
+        "image": "https://dims.apnews.com/dims4/default/0a76a8c/2147483647/strip/true/crop/5804x3867+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2Fb1%2F000183a919584eadc43fff5823f6%2F3ed49573c8ac45ce80ecbac67158dea1",
+        "publishedAt": "2026-07-14T21:42:33Z",
+        "lang": "en",
+        "source": {
+            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+            "name": "The Associated Press",
+            "url": "https://apnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e8f28d52290c00250af20a7742d9c25c",
+        "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave",
+        "description": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems that disproportionately targeted those on medical or family leave for layoffs.",
+        "content": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.\nThey are among the 8,000 employees, or about 10... [4562 chars]",
+        "url": "https://www.clickondetroit.com/business/2026/07/14/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave/",
+        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/OGHOBLS3DFCFDMGF53INE6OZXQ.jpg?_a=DATAg1kSZAA0",
+        "publishedAt": "2026-07-14T21:42:33Z",
+        "lang": "en",
+        "source": {
+            "id": "35515662ec044d3f94b543cd8802d63f",
+            "name": "WDIV ClickOnDetroit",
+            "url": "https://www.clickondetroit.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "6e774ece09cef01dea2a2fc85390aff6",
         "title": "'Getting this right': Labor unveils blueprint for AI",
         "description": "Anthony Albanese will draw parallels between the impact of artificial intelligence on society to the introduction of civil aviation in a major policy speech.",
@@ -76,86 +156,6 @@
             "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
             "name": "Times Now",
             "url": "https://www.timesnownews.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "ef6a9cacbf1a6ee08961af543f8527b0",
-        "title": "AI inflates gas costs while solar and wind charge ahead",
-        "description": "The data centre boom is affecting more than just land and water as global demand for artificial intelligence...",
-        "content": "The future of cheaper energy is solar and wind-powered, a national science agency report has found. Photo: Michael Currie/AAP PHOTOS\nThe artificial intelligence boom is pushing up the price of gas technology, a report has found, helping to cement ren... [4794 chars]",
-        "url": "https://www.canberratimes.com.au/story/9310839/ai-inflates-gas-costs-while-solar-and-wind-charge-ahead/",
-        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/541ecd3b-e2f8-4bc6-b5c5-77ea8b60a3e9.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-        "publishedAt": "2026-07-14T19:00:02Z",
-        "lang": "en",
-        "source": {
-            "id": "92021aca7322dc2b29226023c35d9a4a",
-            "name": "The Canberra Times",
-            "url": "https://www.canberratimes.com.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "0c9588a242e79715f2eaa9464cdd29e1",
-        "title": "George Lucas Is Pro AI, Which Shouldn’t Be a Surprise",
-        "description": "The creator of 'Star Wars' and ILM thinks artificial intelligence is the future of filmmaking.",
-        "content": "George Lucas never looks backwards. When he didn’t know how to make a shot he wanted in Star Wars, he invented the technology to do it. When he had a vision for the Star Wars prequels, he waited until technology caught up before he brought it to life... [3245 chars]",
-        "url": "https://gizmodo.com/george-lucas-is-pro-ai-which-shouldnt-be-a-surprise-2000785497",
-        "image": "https://gizmodo.com/app/uploads/2025/07/George-Lucas-Photo-Gustavo-Caballero-Getty-Images-1200x675.jpg",
-        "publishedAt": "2026-07-14T18:00:09Z",
-        "lang": "en",
-        "source": {
-            "id": "18c2a6429621fbedc49891aa7c847ec6",
-            "name": "Gizmodo",
-            "url": "https://gizmodo.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e7a78206830555da36e5b3ba70dc019a",
-        "title": "What Is Going on With NVIDIA Stock on Tuesday?",
-        "description": "NVIDIA (NASDAQ: NVDA) stock rallied nearly 3% on Tuesday as global tech buyers flooded back into artificial intelligence leaders, backed by an aggressive $330 price target hike from KeyBanc.",
-        "content": "Nvidia remains well-positioned for AI data center growth, according to KeyBanc analyst John Vinh, who raised his price forecast despite some near-term ramp delays.\nKeyBanc Raises Nvidia Forecast\nVinh maintained an Overweight rating on Nvidia and rais... [2832 chars]",
-        "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/07/60452792/what-is-going-on-with-nvidia-stock-on-tuesday",
-        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/14/Kyiv--Ukraine---January-29--2025-Nvidia-.jpg",
-        "publishedAt": "2026-07-14T17:58:18Z",
-        "lang": "en",
-        "source": {
-            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-            "name": "Benzinga",
-            "url": "https://www.benzinga.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4f61a2d73d8d86e29e8fee9e72217b1b",
-        "title": "NASA astronaut Anil Menon, others embark on 8-month sojourn to International Space Station",
-        "description": "NASA astronaut Anil Menon, of Kerala roots, launched on his first ISS mission for eight months of research, including studying spaceflight's effects.Anil Menon, NASA astronaut, International Space Station, Soyuz MS-29, space mission, scientific research, technology demonstrations, microgravity effects, deep-space missions, semiconductor crystals, augmented reality, artificial intelligence, Indian space exploration, Kerala roots, spaceflight",
-        "content": "Washington: NASA astronaut Anil Menon, who traces his roots to Kerala, on Tuesday lifted off aboard the Soyuz MS-29 spacecraft from Kazakhstan on his maiden mission to the International Space Station (ISS), where he will spend about eight months cond... [3420 chars]",
-        "url": "https://www.onmanorama.com/news/world/2026/07/14/nasa-astronaut-anil-menon-embarks-on-8-month-sojourn-to-international-space-station.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/7/12/anil-menon.jpg",
-        "publishedAt": "2026-07-14T17:48:41Z",
-        "lang": "en",
-        "source": {
-            "id": "60c457b35b486691319f105c3a760060",
-            "name": "Malayala Manorama",
-            "url": "https://www.onmanorama.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8d737805aa729fd5f417c1ba937d4d3d",
-        "title": "BCG sees wider AI execution gap in India as marketers prepare for agentic AI",
-        "description": "Indian marketers embrace artificial intelligence with high ambition and investment. However, many companies mistake experimentation for true transformation and measurable impact. The gap between ambition and reality is wider in India than globally. Companies making progress redesign workflows and invest in data and employee upskilling.",
-        "content": "Synopsis\nIndian marketers embrace artificial intelligence with high ambition and investment. However, many companies mistake experimentation for true transformation and measurable impact. The gap between ambition and reality is wider in India than gl... [4491 chars]",
-        "url": "https://economictimes.indiatimes.com/industry/services/advertising/bcg-sees-wider-ai-execution-gap-in-india-as-marketers-prepare-for-agentic-ai/articleshow/132398248.cms",
-        "image": "https://img.etimg.com/thumb/msid-132398439,width-1200,height-630,imgsize-103224,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-07-14T17:46:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
