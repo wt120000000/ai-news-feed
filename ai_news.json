@@ -1,5 +1,85 @@
 [
     {
+        "id": "432f3c77693041bb11a5d7d369142ed6",
+        "title": "Demis Hassabis says AGI could arrive within years, proposes Frontier AI Standards Body",
+        "description": "Demis Hassabis, founder and CEO of Google DeepMind, suggests the creation of an independent regulatory body to evaluate advanced AI models before their release. With concerns over frontier AI and the looming possibility of artificial general intelligence, Hassabis emphasizes the importance of safety standards and responsible deployment. He proposes a public-private partnership in the US.",
+        "content": "Technology 7 min ago\nThis is an AI assisted summary.\nDemis Hassabis, founder and CEO of Google DeepMind, suggests the creation of an independent regulatory body to evaluate advanced AI models before their release. With concerns over frontier AI and t... [23047 chars]",
+        "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/demis-hassabis-agi-proposes-frontier-ai-standards-body-10786981/",
+        "image": "https://images.indianexpress.com/2026/02/Demis-Hassabis-x.jpg",
+        "publishedAt": "2026-07-15T04:12:49Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "472b085743cdb84246c35665e64a1d47",
+        "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave",
+        "description": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.",
+        "content": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence (AI) systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.\nThey are among the 8,000 employees, or abo... [4574 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/15/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4011250.JPG",
+        "publishedAt": "2026-07-15T04:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "be7780d4e6134228aaa2e043f8605a48",
+        "title": "Australia's Bold Step Forward: The Creation of the Office of AI",
+        "description": "Australia is establishing an 'Office of AI' within the Department of the Prime Minister and Cabinet to manage artificial intelligence standards and streamline approval processes, particularly for data centers. The initiative positions the nation as a global AI hub amid concerns over environmental and economic impacts.",
+        "content": "Australia is setting the stage for a significant shift in its AI landscape with the announcement of a dedicated 'Office of AI'. Prime Minister Anthony Albanese revealed this development, aiming to unify the government's approach to AI and manage data... [637 chars]",
+        "url": "https://www.devdiscourse.com/article/technology/3950438-australias-bold-step-forward-the-creation-of-the-office-of-ai",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_47_4854533.png&width=920&format=jpeg",
+        "publishedAt": "2026-07-15T03:51:20Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "d1757e6cfe44a6240e5ae75d3b81a96e",
+        "title": "AI explored as tool for unraveling radicalization's complex drivers",
+        "description": "Radicalization is a complex process, influenced by many variables that interact to varying degrees. AI scientist Mijke van den Hurk investigated whether artificial intelligence could help unravel this intricate interplay. She defended her Ph.D. thesis cum laude on June 29.",
+        "content": "Radicalization is a complex process, influenced by many variables that interact to varying degrees. AI scientist Mijke van den Hurk investigated whether artificial intelligence could help unravel this intricate interplay. She defended her Ph.D. thesi... [4385 chars]",
+        "url": "https://phys.org/news/2026-07-ai-explored-tool-unraveling-radicalization.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/a-better-understanding.jpg",
+        "publishedAt": "2026-07-15T03:40:02Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "160684c652c69f9e550852ee440a5b28",
+        "title": "Albanese hits data centres with grid mandate in major AI pivot",
+        "description": "Tech giants face tough grid mandates and a world-first copyright regime as the Albanese government launches a major regulatory crackdown on artificial intelligence.",
+        "content": "The Albanese government will force data centres to generate more power than they take from the grid and minimise water usage to keep household bills from rising and is also exploring a new copyright regime designed for artificial intelligence trainin... [280 chars]",
+        "url": "https://www.afr.com/technology/albanese-hits-data-centres-with-grid-mandate-in-major-ai-pivot-20260715-p60fg6",
+        "image": "https://static.ffx.io/images/$zoom_0.8454%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_386%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e0f1d47add74988f739d4ab165632f229de6d2ea",
+        "publishedAt": "2026-07-15T03:03:27Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "6fa360a507b5ec9ede7699d6c022a8d0",
         "title": "Plug and Play Announces a Strategic Partnership with Thales to Support Global Expansion of Deep-Tech Startups through Trust My Tech Program",
         "description": "Plug and Play and Thales have entered a strategic partnership to accelerate the growth and international expansion of deep-tech startups through Thales' global Trust My Tech (TMT), global open innovation, and business acceleration program.As part of the partnership, Plug and Play will implement its Innovation Framework within Thales-a structured approach designed to further catalyze and strengthen an organization's innovation. Complementing this approach, the partnership will identify and support frontier startups across artificial intelligence (AI), cybersecurity, aerospace, digital identity, quantum technologies, sustainability, fintech, communications, regulatory technology, and other emerging technology sectors, connecting them with opportunities to collaborate with Thales.Selected startups will have the opportunity to develop proofs-of-concept (POCs), pilot initiatives, and potential commercial collaborations with Thales' regional and global business units, enabling real-world validation of their technologies and creating pathways to international markets.SINGAPORE, July 15, 2026 /PRNewswire/ -- Plug and Play, a global innovation platform headquartered in Silicon Valley, has announced a strategic partnership with Thales, a global leader in advanced technologies across defense, aerospace, cyber and digital sectors.",
@@ -77,86 +157,6 @@
             "name": "Lokmat Times",
             "url": "https://www.lokmattimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "f9e41676c349dd59c70e56f29f03d42e",
-        "title": "Global Market Today: Asian stocks rise after soft US CPI, Kospi rallies",
-        "description": "Asian shares advanced as softer US inflation data eased rate hike concerns. The artificial intelligence trade gained renewed strength, boosting technology stocks significantly. Oil prices rose for a third consecutive day due to escalating Middle East tensions. Investors are closely watching the semiconductor sector after a volatile trading session. Fed officials reiterated their commitment to controlling inflation despite recent positive data.",
-        "content": "Synopsis\nAsian shares advanced as softer US inflation data eased rate hike concerns. The artificial intelligence trade gained renewed strength, boosting technology stocks significantly. Oil prices rose for a third consecutive day due to escalating Mi... [5075 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-after-soft-us-cpi-kospi-rallies/articleshow/132403636.cms",
-        "image": "https://img.etimg.com/thumb/msid-132403634,width-1200,height-630,imgsize-86136,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-07-15T01:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "b3dd4ea6c05e061e87ec16a4407f0b53",
-        "title": "India's agentic AI adoption mirrors mobile revolution: DeepMind executive",
-        "description": "Indians embracing AI agents is similar to the mobile revolution that propelled the country ahead, said a top executive at Google's artificial intelligence research arm DeepMind, noting that the country is playing a key role in building agentic use cases.",
-        "content": "Synopsis\nIndians embracing AI agents is similar to the mobile revolution that propelled the country ahead, said a top executive at Google's artificial intelligence research arm DeepMind, noting that the country is playing a key role in building agent... [1179 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/indias-agentic-ai-adoption-mirrors-mobile-revolution-deepmind-executive/articleshow/132400500.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-225334,resizemode-75,msid-132400500/tech/technology/indias-agentic-ai-adoption-mirrors-mobile-revolution-deepmind-executive.jpg",
-        "publishedAt": "2026-07-15T00:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "63d165b613989f5fb81a4a0fb1a9213e",
-        "title": "RBI governor meets bank CEOs to discuss AI, geopolitics and ECL guidelines",
-        "description": "Central bank governor Sanjay Malhotra met bank chief executives on Tuesday. Geopolitical complexities and artificial intelligence were key discussion points. New expected credit loss guidelines also featured in the important talks. Some banks shared their FCNR(B) scheme inflow estimates with the governor. Oil prices have spiked over nine percent after recent military actions.",
-        "content": "Synopsis\nCentral bank governor Sanjay Malhotra met bank chief executives on Tuesday. Geopolitical complexities and artificial intelligence were key discussion points. New expected credit loss guidelines also featured in the important talks. Some bank... [4257 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-governor-meets-bank-ceos-to-discuss-ai-geopolitics-and-ecl-guidelines/articleshow/132403469.cms",
-        "image": "https://img.etimg.com/thumb/msid-132403466,width-1200,height-630,imgsize-234630,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-07-15T00:09:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "fefdd89ec0855595bbf13e9aa5fd428f",
-        "title": "Karnataka CM announces India’s first Govt-driven AI University",
-        "description": "bengaluru : chief minister d k shivakumar on tuesday announced that karnataka will establish india’s first government-driven artificial intelligence university, reaffirming the state’s ambition to become a global leader in res",
-        "content": "BENGALURU :\nCHIEF Minister D K Shivakumar on Tuesday announced that Karnataka will establish India’s first Government-driven Artificial Intelligence University, reaffirming the State’s ambition to become a global leader in responsible AI innovation. ... [1926 chars]",
-        "url": "https://www.thehitavada.com/Encyc/2026/7/15/karnataka-cm-announces-indias-first-govt-driven-ai-university.html",
-        "image": "https://www.thehitavada.com/Encyc/2026/7/15/Untitled_202607151132145914_H@@IGHT_282_W@@IDTH_420.jpg",
-        "publishedAt": "2026-07-15T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "2ff4b6327735b249ca9fe9bb8f044251",
-            "name": "The Hitavada",
-            "url": "https://www.thehitavada.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1b9a26b18bc6f9ce1a7dd730364971f8",
-        "title": "China Unveils Sweeping Health Care Plan to Curb Mega-Hospitals and Boost AI",
-        "description": "China Unveils Sweeping Health Care Plan to Curb Mega-Hospitals and Boost AI - The State Council’s 15th Five-Year Plan caps the growth of top-tier urban medical centers and increases the use of artificial intelligence in the pharmaceutical supply chain",
-        "content": "The Chinese government has unveiled its 15th Five-Year Plan for National Health, a sweeping blueprint aimed at raising average life expectancy to 80 years by 2030 while reining in the expansion of massive urban hospitals and accelerating the use of a... [437 chars]",
-        "url": "https://www.caixinglobal.com/2026-07-15/china-unveils-sweeping-health-care-plan-to-curb-mega-hospitals-and-boost-ai-102464367.html",
-        "image": "https://img.caixin.com/2026-07-14/178400538347748_560_373.jpg",
-        "publishedAt": "2026-07-15T00:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "f6aff458be2c33b80c8600fb696f68fb",
-            "name": "Caixin",
-            "url": "https://www.caixinglobal.com",
-            "country": "cn"
         }
     }
 ]
