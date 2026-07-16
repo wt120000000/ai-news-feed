@@ -1,5 +1,133 @@
 [
     {
+        "id": "6d927a7a184992c64e79f23ed6b600a5",
+        "title": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says",
+        "description": "A study shows major artificial intelligence models are likely to refuse to criticize restrictive leaders worldwide. The Meta Oversight Board report published Thursday warns AI systems might unintentionally extend “illegitimate restrictions on freedom of expression.” The report raises concerns the large language models powering chatbots and AI agents could be fueling government influence over online speech. The findings come as countries are determining how to put up guardrails around AI without impeding their ability to compete in the rapidly developing field. Neither Anthropic nor OpenAI responded to requests for comment on another study finding U.S.-built AI models are vulnerable to foreign controls when trained on non-English-language data that's been influenced by governments.",
+        "content": "WASHINGTON (AP) — Ask Claude to make a pamphlet critical of President Donald Trump or Britain's King Charles III, and Anthropic's chatbot would oblige. Prompted to do the same for Thailand's king, Saudi Arabia's crown prince or China's leader, and th... [3290 chars]",
+        "url": "https://www.ajc.com/news/2026/07/ai-chatbots-are-at-risk-of-spreading-government-restrictions-on-online-speech-a-new-study-says/",
+        "image": "https://images.ajc.com/resizer/v2/EGLOIK7TXBH47FMN3LPRUGM434.jpg?auth=5115b6b535a365f35729fd8e1e044070e2db3dc28929365b44fe3b7dcfa7123e&width=1200&height=630&smart=true",
+        "publishedAt": "2026-07-16T10:42:57Z",
+        "lang": "en",
+        "source": {
+            "id": "79e9a45376a66fd7e1a4e68bba928c39",
+            "name": "The Atlanta Journal-Constitution",
+            "url": "https://www.ajc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "18b5cbfa774155d862ed585717ab0cd4",
+        "title": "AI Knows What You Did Online. Now Your Employer Does, Too",
+        "description": "Artificial intelligence makes it easier than ever to trace your online history, and trying to cover your tracks can backfire and sabotage your career. | Technology News",
+        "content": "Leaving the wrong kind of digital footprint can sabotage your career. Maybe you thought you already knew this, but artificial intelligence is making it easier to trace your online history and efforts to cover your tracks can backfire.\nEmployers that ... [5722 chars]",
+        "url": "https://www.hindustantimes.com/technology/ai-knows-what-you-did-online-now-your-employer-does-too-101784174337582.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/16/550x309/im-63264645_1784174341926_1784174414578_bf07a294-e936-4a68-ac58-931e0ec8b1ba.jpg",
+        "publishedAt": "2026-07-16T10:40:07Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "397b09a70b8ebef9d59a5d6f0e28e09f",
+        "title": "Government censorship affects AI chatbots, studies show",
+        "description": "A study shows major artificial intelligence models are likely to refuse to criticize restrictive leaders worldwide.",
+        "content": "WASHINGTON (AP) — Ask Claude to make a pamphlet critical of President Donald Trump or Britain’s King Charles III, and Anthropic’s chatbot would oblige. Prompted to do the same for Thailand’s king, Saudi Arabia’s crown prince or China’s leader, and th... [4830 chars]",
+        "url": "https://apnews.com/article/artificial-intelligence-chatbots-censorship-bias-free-speech-fed8fdbf90751c10fe77b77832e0ffba",
+        "image": "https://dims.apnews.com/dims4/default/d7f96d7/2147483647/strip/true/crop/3500x2332+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0f%2Fbf%2Fb66a2ce35b05f8919e41c0aa491d%2F1adeafd06acd4666bea99e1b0c3275ac",
+        "publishedAt": "2026-07-16T10:33:01Z",
+        "lang": "en",
+        "source": {
+            "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+            "name": "The Associated Press",
+            "url": "https://apnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d82dfc52b397b8dcf51f179d872159bb",
+        "title": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says",
+        "description": "A study shows major artificial intelligence models are likely to refuse to criticize restrictive leaders worldwide.",
+        "content": "WASHINGTON – Ask Claude to make a pamphlet critical of President Donald Trump or Britain's King Charles III, and Anthropic's chatbot would oblige. Prompted to do the same for Thailand's king, Saudi Arabia's crown prince or China's leader, and the art... [4825 chars]",
+        "url": "https://www.clickondetroit.com/business/2026/07/16/ai-chatbots-are-at-risk-of-spreading-government-restrictions-on-online-speech-a-new-study-says/",
+        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/X3KXW6BHBNHAJI67CFFWEN4HLQ.jpg?_a=DATAg1kSZAA0",
+        "publishedAt": "2026-07-16T10:33:00Z",
+        "lang": "en",
+        "source": {
+            "id": "35515662ec044d3f94b543cd8802d63f",
+            "name": "WDIV ClickOnDetroit",
+            "url": "https://www.clickondetroit.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e127863ea37628e50e106f2a49d33ccc",
+        "title": "3% amid AI disruption, weak client spending: Crisil",
+        "description": "Revenue growth of Indian IT services companies is expected to remain muted at 1-3 per cent this fiscal, as artificial intelligence (AI)-driven disruptions, weak discretionary spending and continuing geopolitical uncertainties weigh on demand, according to a Crisil Ratings sector analysis.",
+        "content": "New Delhi [India], July 16 (ANI): Revenue growth of Indian IT services companies is expected to remain muted at 1-3 per cent this fiscal, as artificial intelligence (AI)-driven disruptions, weak discretionary spending and continuing geopolitical unce... [2868 chars]",
+        "url": "https://www.tribuneindia.com/news/business/indian-it-services-growth-to-stay-muted-at-1-3-amid-ai-disruption-weak-client-spending-crisil/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY2ZTNkMTkwLTgwZmUtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+        "publishedAt": "2026-07-16T10:13:10Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "11d046cb7c9fd8b559ccaebc9ac63d2d",
+        "title": "Global Market: TSMC to invest additional $100 billion in Arizona, raises capex on booming AI demand",
+        "description": "TSMC will invest an additional one hundred billion dollars in Arizona facilities. This expansion underscores strong confidence in future artificial intelligence demand. The company also raised its capital expenditure guidance for the coming years. TSMC's robust second-quarter earnings beat analyst expectations significantly. This move signals sustained investment in global AI infrastructure development.",
+        "content": "Taiwan Semiconductor Manufacturing Co. (TSMC), the world's largest contract chipmaker, announced an additional $100 billion investment in Arizona and raised its capital expenditure guidance, underscoring its confidence that artificial intelligence-dr... [4926 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-tsmc-to-invest-additional-100-billion-in-arizona-raises-capex-on-booming-ai-demand/articleshow/132435792.cms",
+        "image": "https://img.etimg.com/thumb/msid-132435792,width-1200,height-630,imgsize-47020,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-07-16T10:02:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "2b7ba9728d864fcfac922ec75ac6a3e0",
+        "title": "BRICS MoU on standardisation would create framework for collaboration: Pralhad Joshi",
+        "description": "Bengaluru hosted the fifth BRICS National Standardisation Bodies meeting today. A significant Memorandum of Understanding on cooperation in standardisation was signed. This agreement establishes a formal framework for collaboration among member nations. Discussions also covered standards for artificial intelligence and trade facilitation. BRICS countries will now jointly shape international standards through coordinated efforts.",
+        "content": "Synopsis\nBengaluru hosted the fifth BRICS National Standardisation Bodies meeting today. A significant Memorandum of Understanding on cooperation in standardisation was signed. This agreement establishes a formal framework for collaboration among mem... [4030 chars]",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/brics-mou-on-standardisation-would-create-framework-for-collaboration-pralhad-joshi/articleshow/132434892.cms",
+        "image": "https://img.etimg.com/thumb/msid-132434930,width-1200,height-630,imgsize-48396,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-07-16T09:20:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "4386fd2eda71ae260ebc4742cbf0b985",
+        "title": "AI impact, rising costs reshaping Gen Z careers towards multiple income streams: Report",
+        "description": "Impact of Artificial Intelligence (AI) and rising living costs, the growth of gig work and the need for greater flexibility are prompting India's Generation Z to build multiple income streams instead of relying on a single employer, according to a report by International Workplace Group (IWG).",
+        "content": "New Delhi [India], July 16 (ANI): Impact of Artificial Intelligence (AI) and rising living costs, the growth of gig work and the need for greater flexibility are prompting India's Generation Z to build multiple income streams instead of relying on a ... [2776 chars]",
+        "url": "https://www.tribuneindia.com/news/business/ai-impact-rising-costs-reshaping-gen-z-careers-towards-multiple-income-streams-report/",
+        "image": "https://publish.tribuneindia.com/wp-content/uploads/2026/07/ANI-20260716091219.jpg",
+        "publishedAt": "2026-07-16T09:13:16Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "f5205159b16f8962603aad27029cc25b",
         "title": "Microsoft Arms Sales Teams for AI Fight Against OpenAI, Anthropic",
         "description": "Microsoft has asked its sales teams to step up competition against OpenAI and Anthropic by highlighting the strengths of its own artificial intelligence (AI) offerings, according to a Bloomberg report.",
@@ -28,134 +156,6 @@
             "id": "2b5db686603d0197d748f18d2dc01aec",
             "name": "Bloomberg Tax News",
             "url": "https://news.bloombergtax.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "8aeb6613039452216c550ac0fd671d69",
-        "title": "boom fuels 'K' shaped global economic growth: Moody's Analytics",
-        "description": "The global economy shows K-shaped growth as artificial intelligence advances some sectors. Moody's Analytics predicts a slowdown to 2.5 percent in 2026. AI demand has prevented a sharper economic downturn globally. Geopolitical risks and market volatility could lead to recession. Economies and industries not benefiting from AI have struggled.",
-        "content": "Synopsis\nThe global economy shows K-shaped growth as artificial intelligence advances some sectors. Moody's Analytics predicts a slowdown to 2.5 percent in 2026. AI demand has prevented a sharper economic downturn globally. Geopolitical risks and mar... [1620 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boom-fuels-k-shaped-global-economic-growth-moodys-analytics/articleshow/132434461.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38456,resizemode-75,msid-132434461/tech/artificial-intelligence/ai-boom-fuels-k-shaped-global-economic-growth-moodys-analytics.jpg",
-        "publishedAt": "2026-07-16T08:57:55Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "4eb2b17cf86a1bfe905113d9f87a6f2d",
-        "title": "Can artificial intelligence improve IVF outcomes? Fertility specialist Dr Manika Khanna explains",
-        "description": "Dr Manika Khanna explains how AI is quietly changing IVF — making sperm and embryo selection more precise. Here is her take on what AI can and can’t do. | Health",
-        "content": "Modern fertility treatment is undergoing a quiet technological revolution, moving from traditional microscopic evaluation to data-driven precision, according to a fertility expert. In an interview with HT Lifestyle, she explained how the integration ... [4544 chars]",
-        "url": "https://www.hindustantimes.com/lifestyle/health/can-artificial-intelligence-improve-ivf-outcomes-fertility-specialist-dr-manika-khanna-explains-101784189631186.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/16/550x309/IVF_India_1784189704043_1784189704194_04f30242-18cc-41d3-a0af-667c83b5eb4b.jpg",
-        "publishedAt": "2026-07-16T08:43:25Z",
-        "lang": "en",
-        "source": {
-            "id": "21468bec836de1ebb209ff6f78fbfe3e",
-            "name": "Hindustan Times",
-            "url": "https://www.hindustantimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "cefa3432f41ea4fb31b428f72506ac7c",
-        "title": "CMS signals intent to revamp how it pays for clinical software, AI",
-        "description": "CMS wants to build a standardized payment structure for clinical software and artificial intelligence that factors in the technologies' impact on patient outcomes.",
-        "content": "You’re reading Part 3 of Paying for AI, a series examining how new clinical artificial intelligence tools influence the affordability of health care and patients’ long-term health. Read Part 1 here, and Part 2 here.\nFor years, Medicare has been wrest... [797 chars]",
-        "url": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1940190765-1024x576.jpeg",
-        "publishedAt": "2026-07-16T08:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "8867e8e7dcb6466620736bb48c455572",
-            "name": "STAT",
-            "url": "https://www.statnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "be7186610d9e53178a6e46ed6153c456",
-        "title": "Public sector modernisation efforts accelerate amid infrastructure challenges: Report",
-        "description": "India's Public sector organisations are accelerating efforts to modernise their technology infrastructure as artificial intelligence (AI) adoption gathers pace, but infrastructure readiness, governance and security challenges continue to slow large-scale deployment, according to the 8th Annual Nutanix Public Sector Cloud Index Report.",
-        "content": "New Delhi [India], July 16 (ANI): India's Public sector organisations are accelerating efforts to modernise their technology infrastructure as artificial intelligence (AI) adoption gathers pace, but infrastructure readiness, governance and security c... [3184 chars]",
-        "url": "https://www.tribuneindia.com/news/business/public-sector-modernisation-efforts-accelerate-amid-infrastructure-challenges-report/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTljODMwZjkwLTgwZWYtMTFmMS1hMjIxLWM3MTFjYjk5YTdlZS5qcGc=",
-        "publishedAt": "2026-07-16T08:23:16Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1ebeac40fc63d18d91d489dd83555e6a",
-        "title": "Fujitsu and leading Japanese robotics companies to use Nvidia technology in 'physical AI'",
-        "description": "Fujitsu and Nvidia are leading a major push in physical AI technology. This initiative aims to integrate Japan's robotics with advanced artificial intelligence. Smart robots will work alongside people in factories, homes, and hospitals. The collaboration seeks to address Japan's acute labor shortage and aging population. This partnership signifies Japan's eagerness to catch up in artificial intelligence development.",
-        "content": "Synopsis\nFujitsu and Nvidia are leading a major push in physical AI technology. This initiative aims to integrate Japan's robotics with advanced artificial intelligence. Smart robots will work alongside people in factories, homes, and hospitals. The ... [2796 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/fujitsu-and-leading-japanese-robotics-companies-to-use-nvidia-technology-in-physical-ai/articleshow/132433483.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-107244,resizemode-75,msid-132433483/tech/artificial-intelligence/fujitsu-and-leading-japanese-robotics-companies-to-use-nvidia-technology-in-physical-ai.jpg",
-        "publishedAt": "2026-07-16T08:18:18Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "60bb83d3aa39bbef653da9a45095a594",
-        "title": "TCS opens AI-focused Gemini experience centre in Kolkata",
-        "description": "Kolkata, Jul 16 (PTI) Tata Consultancy Services on Thursday launched a Gemini Experience Centre (GEC) in Kolkata in collaboration with Google Cloud to showcase artificial intelligence-led innovations for consumer businesses, as part of its global expansion of industry-focused AI innovation hubs. The Consumer Business Group (CBG) Gemini Experience Centre, built using Google Cloud and Google’s […]",
-        "content": "Kolkata, Jul 16 (PTI) Tata Consultancy Services on Thursday launched a Gemini Experience Centre (GEC) in Kolkata in collaboration with Google Cloud to showcase artificial intelligence-led innovations for consumer businesses, as part of its global exp... [1867 chars]",
-        "url": "https://theprint.in/economy/tcs-opens-ai-focused-gemini-experience-centre-in-kolkata/2987926/",
-        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-        "publishedAt": "2026-07-16T08:16:48Z",
-        "lang": "en",
-        "source": {
-            "id": "34cc62608b4607dc3a776802caadb7bd",
-            "name": "ThePrint",
-            "url": "https://theprint.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "40e2d5916516d3a71b0b4222c2c1d28f",
-        "title": "TCS and Google Cloud launch Gemini Experience Center in Kolkata",
-        "description": "Tata Consultancy Services and Google Cloud have opened a new Gemini Experience Center in Kolkata. This facility will help consumer businesses develop and deploy agentic artificial intelligence solutions. The center is TCS's eighth globally and third in India, with plans for further expansion. Enterprises can co-create and scale AI applications using Google's Gemini models. The center will showcase AI-powered solutions for various business operations and customer service needs.",
-        "content": "Synopsis\nTata Consultancy Services and Google Cloud have opened a new Gemini Experience Center in Kolkata. This facility will help consumer businesses develop and deploy agentic artificial intelligence solutions. The center is TCS's eighth globally a... [1574 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/technology/tcs-and-google-cloud-launch-gemini-experience-center-in-kolkata/articleshow/132433314.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-48742,resizemode-75,msid-132433314/tech/technology/tcs-and-google-cloud-launch-gemini-experience-center-in-kolkata.jpg",
-        "publishedAt": "2026-07-16T08:03:53Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "2a053f2dd7636eae6d60e658389d8dfa",
-        "title": "Fujitsu and leading Japanese robotics companies to use Nvidia technology in ‘physical AI’",
-        "description": "TOKYO (AP) — Japanese communications company Fujitsu is leading a major push in artificial intelligence using Nvidia’s technology, bringing together what it…",
-        "content": "TOKYO (AP) — Japanese communications company Fujitsu is leading a major push in artificial intelligence using Nvidia’s technology, bringing together what it said was the best in Japan’s manufacturing prowess in robotics with AI.\nThe technology area k... [2447 chars]",
-        "url": "https://wtop.com/world/2026/07/fujitsu-and-leading-japanese-robotics-companies-to-use-nvidia-technology-in-physical-ai/",
-        "image": "https://wtop.com/wp-content/uploads/2026/06/Artificial_Intelligence_Nvidia_74313-scaled.jpg",
-        "publishedAt": "2026-07-16T08:01:03Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
             "country": "us"
         }
     }
