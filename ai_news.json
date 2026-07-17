@@ -1,5 +1,53 @@
 [
     {
+        "id": "804080138deb2a6ec3e2b03879da4931",
+        "title": "New California law requires human teachers, not AI",
+        "description": "California's new law ensures K-12 students are taught by human teachers, not artificial intelligence.",
+        "content": "California is drawing a line in the digital sand.\nStarting 2027, public schools in the Golden State can’t have AI teachers for K-12 students.\nThe latest amendment to the state’s education code, signed by Gov. Gavin Newsom last month, clarifies that a... [1153 chars]",
+        "url": "https://nypost.com/2026/07/16/us-news/new-california-law-requires-human-teachers-not-ai/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/sixth-grade-teacher-lindsay-rachal-134610734.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-07-16T22:58:31Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e7b535aaf272a80550811f10f3cdec3b",
+        "title": "Appeals Court Warns Bankruptcy Lawyer Over Alleged AI Citations",
+        "description": "A federal appeals court admonished, but declined to sanction, an attorney for a brief containing what one judge called “an astonishing number” of citations that were incorrect or possibly hallucinated by artificial intelligence.",
+        "content": "A federal appeals court admonished, but declined to sanction, an attorney for a brief containing what one judge called “an astonishing number” of citations that were incorrect or possibly hallucinated by artificial intelligence.\nA two-judge panel maj... [354 chars]",
+        "url": "https://news.bloombergtax.com/daily-tax-report/appeals-court-warns-bankruptcy-lawyer-over-alleged-ai-citations",
+        "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+        "publishedAt": "2026-07-16T22:02:14Z",
+        "lang": "en",
+        "source": {
+            "id": "2b5db686603d0197d748f18d2dc01aec",
+            "name": "Bloomberg Tax News",
+            "url": "https://news.bloombergtax.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e6d09e5feb72d54006433b196781aa05",
+        "title": "Rising AI Demand Drives Surge in Data Center Water Consumption, Reports Indicate",
+        "description": "Analyze the environmental cost of Artificial Intelligence (AI) as data center water consumption spikes to unprecedented levels in the U.S.",
+        "content": "AI Workloads Push Data Center Water Use to Nearly One Trillion Liters Annually\nThe rapid expansion of artificial intelligence workloads has driven U.S. data center water consumption to nearly one trillion liters per year, according to industry report... [7016 chars]",
+        "url": "https://www.activistpost.com/rising-ai-demand-drives-surge-in-data-center-water-consumption-reports-indicate/",
+        "image": "https://www.activistpost.com/wp-content/uploads/2026/07/ai-demand-data-center-water-consumption-cooling-systems-2542-original.jpg",
+        "publishedAt": "2026-07-16T22:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "435d508bebcc8689d5c7711d44865b80",
+            "name": "Activist Post",
+            "url": "https://www.activistpost.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "ccf2819d4db91363a2a32ee8d3a18367",
         "title": "US judge warns Justice Department about AI use in immigration case",
         "description": "A federal judge in Michigan on Thursday cautioned the U.S. ​Justice Department about the risks associated with generative artificial intelligence after finding that a government filing ‌cited a case that the court could not locate.",
@@ -108,54 +156,6 @@
             "id": "458ddf355ab77631d3eb3dd84a0351b4",
             "name": "Business Insider",
             "url": "https://www.businessinsider.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "14ffee0cfd0758fa9442279f6f48a6d9",
-        "title": "Walmart highlights 10 jobs that are AI-proof and pay up to $351,000 a year",
-        "description": "AS artificial intelligence creates uncertainty in a number of career fields, one of the world's largest corporations is putting an emphasis on its...",
-        "content": "AS artificial intelligence creates uncertainty in a number of career fields, one of the world’s largest corporations is putting an emphasis on its need for people.\nAccording to Walmart leadership, AI will not diminish its need for people to back the ... [6100 chars]",
-        "url": "https://www.the-sun.com/money/16702232/walmart-highlights-10-jobs-that-are-ai-proof-and-pay-up-to-351000-a-year-and-you-dont-need-experience/",
-        "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/06/2023-miami-florida-walmart-announced-908903204.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-        "publishedAt": "2026-07-16T19:03:16Z",
-        "lang": "en",
-        "source": {
-            "id": "df8898b40ea58da32bb50978f1d85cb3",
-            "name": "The Sun U.S Edition",
-            "url": "https://www.the-sun.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "cf8861dcc0e633a9eadd50e6a1823927",
-        "title": "Public health leadership needs to build trustworthy AI in health, expert argues",
-        "description": "From disease surveillance to clinical care, artificial intelligence is transforming health. As AI becomes more deeply embedded in decisions affecting population health, a new editorial argues that realizing AI's full potential requires public health leadership alongside technical innovation.",
-        "content": "From disease surveillance to clinical care, artificial intelligence is transforming health. As AI becomes more deeply embedded in decisions affecting population health, a new editorial argues that realizing AI's full potential requires public health ... [3802 chars]",
-        "url": "https://medicalxpress.com/news/2026-07-health-leadership-trustworthy-ai-expert.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/outside-hospital.jpg",
-        "publishedAt": "2026-07-16T19:00:04Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "ccba4cf10ec183c4dad6b482a39da617",
-        "title": "X adds Grok-powered insights to Ads Manager",
-        "description": "The move represents the platform’s latest artificial intelligence integration advance, and could eventually lead to full advertising automation.",
-        "content": "This audio is auto-generated. Please let us know if you have feedback.\nX has launched beta testing of its new Grok integration in Ads Manager, which should offer more artificial intelligence-powered guidance for promotions..\nAs shown in this image, o... [1922 chars]",
-        "url": "https://www.socialmediatoday.com/news/x-adds-grok-powered-insights-to-ads-manager/825497/",
-        "image": "https://imgproxy.divecdn.com/c-Fpab_my4oj9okexK0ataa6rE-X-cu-zCq6Et6ATFw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nb2tfYWRzX2FkdmljZS5wbmc=.webp",
-        "publishedAt": "2026-07-16T18:50:42Z",
-        "lang": "en",
-        "source": {
-            "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-            "name": "Social Media Today",
-            "url": "https://www.socialmediatoday.com",
             "country": "us"
         }
     }
