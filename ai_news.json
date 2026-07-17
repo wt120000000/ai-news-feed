@@ -1,5 +1,69 @@
 [
     {
+        "id": "878e68cd93206097a14ef47e9b4effbd",
+        "title": "Global Market Today: Asian stocks drop after chip selloff, oil gains",
+        "description": "Asian stocks declined as chipmakers pulled down Wall Street amid valuation concerns. Oil prices climbed higher this week due to escalating Middle East hostilities. Investors are questioning the sustainability of massive artificial intelligence investments and tech valuations. Heightened geopolitical tensions fueled inflation worries and potential interest rate hikes. Consumers continue spending and the labor market shows resilience despite economic challenges.",
+        "content": "Synopsis\nAsian stocks declined as chipmakers pulled down Wall Street amid valuation concerns. Oil prices climbed higher this week due to escalating Middle East hostilities. Investors are questioning the sustainability of massive artificial intelligen... [4784 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-after-chip-selloff-oil-gains/articleshow/132450371.cms",
+        "image": "https://img.etimg.com/thumb/msid-132450367,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-07-17T01:01:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "250ee2747d356a5b69ba0103e8d41fa9",
+        "title": "Securing the foundations of AI",
+        "description": "Artificial intelligence is exposing a weakness that has little to do with the technology itself.",
+        "content": "The Australian Cyber Security Centre’s Annual Cyber Threat Report 2024–25 found the average self-reported cost of cybercrime for businesses increased by 50 per cent, while critical infrastructure accounted for 13 per cent of reported incidents. APRA’... [5768 chars]",
+        "url": "https://www.afr.com/technology/securing-the-foundations-of-ai-20260714-p60f3g",
+        "image": "https://static.ffx.io/images/$zoom_0.8445%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/04771e5021d32a071ffc06f1032bb51dfa9d01bf94452153dfacebe25ea2c570",
+        "publishedAt": "2026-07-17T00:48:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "cad9f294c7aa26a35fe837d4603207e9",
+        "title": "C-DAC anchors India’s bid for Nvidia-like artificial intelligence chip",
+        "description": "India’s first, indigenous AI inference chip will be made and presented as early as 2029 or 2030, Union IT minister Ashwini Vaishnaw said on Wednesday after the Cabinet approved a ₹1.27 trillion Semicon 2.0 mission to incentivize chip factories, startups, design firms and research.",
+        "content": "“Following this, C-DAC will work jointly with HCL to validate the performance of the chip, and the same will then be tested across multiple systems and computing architecture. Our eventual goal is to offer the chip to run on domestic servers and IT i... [3060 chars]",
+        "url": "https://www.livemint.com/companies/news/cdac-anchors-india-s-bid-for-nvidia-like-artificial-intelligence-chip-11784206912955.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/07/16/1600x900/logo/ga8b86a5217d383d8a3520599aa0e074815e3f27ed615ea398_1784215827281_1784215827379_37890028-9a25-4ad2-9e34-5c1b2da100f2.jpg",
+        "publishedAt": "2026-07-17T00:27:29Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "53771665901f0c3be6aae86c90fbbb0e",
+        "title": "MLB cracks down on dugout iPads with artificial intelligence fears growing",
+        "description": "With AI fears growing, MLB is cracking down on the use of league-provided dugout iPads.",
+        "content": "MLB is cracking down on artificial intelligence.\nAccording to a report by The Athletic on Thursday, the league “has effectively outlawed the growing practice of using league-provided dugout iPads to access generative artificial intelligence, which so... [2553 chars]",
+        "url": "https://nypost.com/2026/07/16/sports/mlb-cracks-down-on-dugout-ipads-with-artificial-intelligence-fears-growing/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-cp8sn763b-1784231591313.jpg?quality=75&strip=all&1784217217&w=1200",
+        "publishedAt": "2026-07-17T00:22:03Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "804080138deb2a6ec3e2b03879da4931",
         "title": "New California law requires human teachers, not AI",
         "description": "California's new law ensures K-12 students are taught by human teachers, not artificial intelligence.",
@@ -92,70 +156,6 @@
             "id": "17d7c2645f485578130862e0c8dd9480",
             "name": "The Mercury News",
             "url": "https://www.mercurynews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "05f77441e777568a30ccc00f57915be9",
-        "title": "Humanoid robots and smart homes put AI centre stage at VivaTech 2026 in Paris",
-        "description": "France is putting artificial intelligence and robotics in the spotlight at VivaTech 2026, which opened on 17 June at Paris Expo Porte de Versailles.",
-        "content": "Among the first attractions greeting visitors are AI-powered humanoid robots from Chinese company Unitree, performing boxing movements, balancing exercises and other demonstrations. Robotic dogs also navigate through exhibition halls crowded with tec... [1037 chars]",
-        "url": "https://www.africanews.com/2026/06/18/humanoid-robots-and-smart-homes-put-ai-centre-stage-at-vivatech-2026-in-paris/",
-        "image": "https://www.africanews.com/favicon-32x32.png?v=3",
-        "publishedAt": "2026-07-16T20:59:00Z",
-        "lang": "en",
-        "source": {
-            "id": "4ee8a93f92a1be4ced3de6f96b13bcca",
-            "name": "Africanews",
-            "url": "https://www.africanews.com",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "b63f6418aa7bc38904589ef3e7d95801",
-        "title": "Xi to present China's AI dream at major conference",
-        "description": "SHANGHAI — President Xi Jinping presents China's vision for the development and regulation of artificial intelligence on Friday, at a major conference showcasing cutting-edge technology he hopes will soon rival that of the United States.",
-        "content": "SHANGHAI — President Xi Jinping presents China's vision for the development and regulation of artificial intelligence on Friday, at a major conference showcasing cutting-edge technology he hopes will soon rival that of the United States.\nChinese AI m... [4136 chars]",
-        "url": "https://www.manilatimes.net/2026/07/17/world/xi-to-present-chinas-ai-dream-at-major-conference/2386291",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/17/1140623.jpg",
-        "publishedAt": "2026-07-16T20:51:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "6d261d97b5457d413345cbebb894fe4a",
-        "title": "China's Xi says AI should not be dominated by one country",
-        "description": "Artificial intelligence should not be dominated by a single country, China's President Xi Jinping said Friday, urging international cooperation on its",
-        "content": "Artificial intelligence should not be dominated by a single country, China’s President Xi Jinping said Friday, urging international cooperation on its development at a major conference in Shanghai.\nChinese AI models are catching up to the most powerf... [4136 chars]",
-        "url": "https://www.breitbart.com/news/chinas-xi-says-ai-should-not-be-dominated-by-one-country/",
-        "image": "https://media.breitbart.com/media/2026/07/wi/afp/chinese-ai-models-catching-up-powerful-offerings-united-chinese-ai-models-catching-640x335.jpg",
-        "publishedAt": "2026-07-16T20:34:12Z",
-        "lang": "en",
-        "source": {
-            "id": "85b540771682043e2a9f294068f5345b",
-            "name": "Breitbart News Network",
-            "url": "https://www.breitbart.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "92da47ef6599297f52426b01833be5f5",
-        "title": "US Navy Chasing Data, AI for 'AI-First' Fleet",
-        "description": "Artificial intelligence will be used across naval operations to accelerate the speed of information and data gathering.",
-        "content": "The US Navy wants to build a new \"AI-first\" fleet, and it's betting that better data, faster technology adoption, and more tech-savvy sailors will help make it happen.\nThe service's newly released strategy focuses on using AI and data in more ways an... [3119 chars]",
-        "url": "https://www.businessinsider.com/us-navy-data-ai-for-ai-first-fleet-2026-7",
-        "image": "https://i.insider.com/6a592689ce52cb26b83902bc?width=1200&format=jpeg",
-        "publishedAt": "2026-07-16T19:28:25Z",
-        "lang": "en",
-        "source": {
-            "id": "458ddf355ab77631d3eb3dd84a0351b4",
-            "name": "Business Insider",
-            "url": "https://www.businessinsider.com",
             "country": "us"
         }
     }
