@@ -1,5 +1,37 @@
 [
     {
+        "id": "27aeeb5ace492bb1e91f6a4fca776a1e",
+        "title": "'It's like having a dumb friend': Young San Franciscans hate AI",
+        "description": "Explore the impact of Artificial Intelligence (AI) on communities. Discover how technology shapes our living environments today.",
+        "content": "When Somerset Dwyer found a two-bedroom apartment in Nob Hill, she felt she had done the impossible. Having grown up four blocks from her new place, she would be moving to her first apartment after college, returning to San Francisco for the first ti... [9611 chars]",
+        "url": "https://www.activistpost.com/its-like-having-a-dumb-friend-young-san-franciscans-hate-ai/",
+        "image": "https://www.activistpost.com/wp-content/uploads/2026/07/ratio3x2_1440.webp",
+        "publishedAt": "2026-07-17T10:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "435d508bebcc8689d5c7711d44865b80",
+            "name": "Activist Post",
+            "url": "https://www.activistpost.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "8c8a98f1375da152a465283e1a89301c",
+        "title": "Indonesia's copyright rewrite puts Google, AI platforms on notice",
+        "description": "Indonesia is preparing sweeping changes to its copyright law, ​including granting copyright privileges to people who use artificial intelligence to help them generate content, a draft bill reviewed by Reuters showed, setting up a ‌potential showdown between the government and major tech platforms.",
+        "content": "JAKARTA, July 17 (Reuters) - Indonesia is preparing sweeping changes to its copyright law, ​including granting copyright privileges to people who use artificial intelligence to help them generate content, a draft bill reviewed by Reuters showed, sett... [4007 chars]",
+        "url": "https://www.reuters.com/legal/litigation/indonesias-copyright-rewrite-puts-google-ai-platforms-notice-2026-07-17/",
+        "image": "https://www.reuters.com/resizer/v2/CWI7CVZGRNJTFESLNEDYP3D3U4.jpg?auth=a2daf088c85a6154f0cbc92af7ed1484f981c352ee783c7f23481735625a398c&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-07-17T09:48:20Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "d1a2a0528af92e7dbf0959e1c5a2ee0f",
         "title": "Google Delays Gemini 3.5 Pro Release Over Coding Issues",
         "description": "Alphabet Inc. has delayed the release of its flagship Gemini 3.5 Pro artificial intelligence model to improve its coding performance, missing its June target. The delay, which has caused internal frustration and a nearly 3% drop in Alphabet shares, comes as rivals OpenAI and Anthropic navigate their own regulatory hurdles in the competitive AI market.",
@@ -124,38 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "50648c196cd82faf1d91b7e14ede51e5",
-        "title": "AI Development Must Not Harm Diversity of Civilizations - Xi Jinping",
-        "description": "The development and application of artificial intelligence must not undermine the diversity of world civilizations or the uniqueness of national cultures, so that AI remains under human control, Chinese President Xi Jinping said at the opening ceremony of the World Artificial Intelligence Conference.",
-        "content": "AI Development Must Not Harm Diversity of Civilizations - Xi Jinping\nSputnik International\nThe development and application of artificial intelligence must not undermine the diversity of world civilizations or the uniqueness of national cultures, so t... [2566 chars]",
-        "url": "https://sputnikglobe.com/20260717/ai-development-must-not-harm-diversity-of-civilizations---xi-jinping-1124457709.html",
-        "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124457709.jpg?11229455331784275340",
-        "publishedAt": "2026-07-17T08:02:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9962a9b594044b42e892f4760e2dfd7e",
-            "name": "Sputnik News",
-            "url": "https://sputnikglobe.com",
-            "country": "ru"
-        }
-    },
-    {
-        "id": "eb23217391dbef7d0368c65dd4e53f7b",
-        "title": "Is the AI stock boom losing steam after the latest chip selloff?",
-        "description": "Asian technology stocks tumbled on Friday after a sharp overnight selloff in U.S. semiconductor shares rattled investor confidence in the artificial intelligence trade. The weakness spread across major Asian markets, dragging down AI-linked companies despite no major deterioration in industry fundamentals. (Sources: CNBC, Reuters) AI Rout",
-        "content": "IRFC Share Price88.32-32.1%-0.1(-0.11%) Upside Suzlon Energy Share Price51.2926.7%-0.68(-1.31%) Upside IREDA Share Price120.3749.0%-0.46(-0.39%) Upside Tata Motors PV Share Price334.011.7%2.2(0.67%) Upside YES Bank Share Price23.45-17.0%-0.31(-1.27%)... [2272 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-the-ai-stock-boom-losing-steam-after-the-latest-chip-selloff/slideshow/132456124.cms",
-        "image": "https://img.etimg.com/thumb/msid-132456124,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-        "publishedAt": "2026-07-17T07:57:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
