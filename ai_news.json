@@ -1,5 +1,37 @@
 [
     {
+        "id": "a1963e7db60c0502b1d37fafbad3ec97",
+        "title": "SBS Japanese Weekly News Wrap Saturday 18 July",
+        "description": "Prime Minister Anthony Albanese this week unveiled a new national regulatory framework for the Artificial Intelligence industry. United Nations is again urging all parties to de-escalate and return to diplomacy in the ongoing conflict between Iran and the United States in the Middle East. And following the child sexual abuse case at a Sydney childcare centre, the Australian Federal Police are appealing for information to help identify potential victims. Recorded 17 July.",
+        "content": "Watch FIFA World Cup 2026™\nLIVE, FREE and EXCLUSIVE\nSBS Japanese Weekly News Wrap Saturday 18 July\nPrime Minister Anthony Albanese this week unveiled a new national regulatory framework for the Artificial Intelligence industry. United Nations is agai... [1556 chars]",
+        "url": "https://www.sbs.com.au/language/japanese/en/podcast-episode/sbs-japanese-weekly-news-wrap-saturday-18-july/c8a9a5lzq",
+        "image": "https://assets.sbs.com.au/dims4/default/731593b/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fd6%2F07%2F97709fe0418fb78c7cacb218485e%2Fjapanese-news-wrap.png",
+        "publishedAt": "2026-07-17T22:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "94466d37d8c67a438250646866df36df",
+            "name": "SBS Australia",
+            "url": "https://www.sbs.com.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "7b5f0aa419f33d94e6af202144c377b0",
+        "title": "Sailing the Stormy Seas of AI",
+        "description": "Delve into the reality of Artificial Intelligence (AI) and learn why skepticism is essential for its future impacts on business.",
+        "content": "Forecasts of AI’s future impacts must be viewed with skepticism, as AI and its promoters are adept at saying what we want to hear rather than telling us the discomfiting truth, as the truth might prompt us to turn AI off.\nSmall business owner and San... [5541 chars]",
+        "url": "https://www.activistpost.com/sailing-the-stormy-seas-of-ai/",
+        "image": "https://www.activistpost.com/wp-content/uploads/2026/07/istockphoto-520794474-612x612-1.jpg",
+        "publishedAt": "2026-07-17T22:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "435d508bebcc8689d5c7711d44865b80",
+            "name": "Activist Post",
+            "url": "https://www.activistpost.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "709dcd77f3f6182da2bfd9a9d05443ed",
         "title": "Chinese AI model takes U.S. tech industry by surprise",
         "description": "Another powerful new artificial intelligence model from China is taking the U.S. tech industry by surprise.",
@@ -124,38 +156,6 @@
             "id": "bce8b9fcd331f3552e3dcf603b83b80e",
             "name": "Markets Insider",
             "url": "https://markets.businessinsider.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b80b77a1e6ff401f28d4a7f55077888c",
-        "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
-        "description": "Another powerful new artificial intelligence model from China is taking the U.S. tech industry by surprise. The Beijing-based startup Moonshot on Friday unveiled its Kimi K3, the latest release from Chinese startups whose “open-source” AI technology is making the California titans of AI sweat. The technology appears to be catching up to the best versions of Anthropic’s Claude and OpenAI’s ChatGPT. Kimi K3 topped the charts on Arena’s ranking of what it calls “front-end coding capability,” which is one measure of an AI large language model’s performance. The unveiling came shortly before Chinese President Xi Jinping’s opening address Friday to the nation’s annual World Artificial Intelligence Conference in Shanghai.",
-        "content": "Another powerful new artificial intelligence model from China took the U.S. tech industry by surprise Friday, the latest sign that Chinese startups that publicly release their “open-source” AI technology are making the California titans of AI sweat.\n... [469 chars]",
-        "url": "https://www.ajc.com/news/2026/07/chinese-ai-model-takes-us-tech-industry-by-surprise-with-abilities-rivaling-claude-and-chatgpt/",
-        "image": "https://images.ajc.com/resizer/v2/PFYACHNGLRDXZN6ZC4YYTWWXIQ.jpg?auth=2fc7bdfaf101136421b8bd7b4f609e3c905553d35578b2bfa5362d594c97c035&width=1200&height=630&smart=true",
-        "publishedAt": "2026-07-17T18:32:42Z",
-        "lang": "en",
-        "source": {
-            "id": "79e9a45376a66fd7e1a4e68bba928c39",
-            "name": "The Atlanta Journal-Constitution",
-            "url": "https://www.ajc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "81d0ed2b60a69f7beed2af8c367ea3e0",
-        "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
-        "description": "Another powerful new artificial intelligence model from China took the U.S. tech industry by surprise Friday, the latest sign that Chinese startups that…",
-        "content": "Another powerful new artificial intelligence model from China took the U.S. tech industry by surprise Friday, the latest sign that Chinese startups that publicly release their “open-source” AI technology are making the California titans of AI sweat.\n... [4926 chars]",
-        "url": "https://wtop.com/national/2026/07/chinese-ai-model-takes-us-tech-industry-by-surprise-with-abilities-rivaling-claude-and-chatgpt/",
-        "image": "https://wtop.com/wp-content/uploads/2026/07/China_AI_37794-scaled.jpg",
-        "publishedAt": "2026-07-17T18:30:44Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
             "country": "us"
         }
     }
