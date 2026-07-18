@@ -1,5 +1,53 @@
 [
     {
+        "id": "c1ce787239235b1911a3dac0bbaf8bef",
+        "title": "New AI tool brings transparency to the solar buying process",
+        "description": "An innovative startup is leveraging agentic artificial intelligence to dismantle the massive soft costs and high-pressure sales tactics that have long burdened the U.S. residential solar market.",
+        "content": "The residential solar sector has long suffered from pricing inconsistency and aggressive sales tactics. While the utility sector undergoes massive technical innovation, individual homeowners are often left navigating a market that feels like a black ... [3480 chars]",
+        "url": "https://www.pv-magazine.com/2026/07/18/an-ex-nrel-scientist-is-using-ai-to-bypass-high-pressure-solar-sales-reps/",
+        "image": "https://www.pv-magazine.com/wp-content/uploads/2026/07/Solar_Panels_on_Rooftop.jpg",
+        "publishedAt": "2026-07-18T07:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "f4967fce32bfc735983f0f39dcdba127",
+            "name": "pv magazine",
+            "url": "https://www.pv-magazine.com",
+            "country": "de"
+        }
+    },
+    {
+        "id": "7c367aa8b3b0791110b43a44b525d74b",
+        "title": "Chinese startup unveils world’s 1st ‘brain-to-robot’ platform",
+        "description": "Chinese tech unicorn BrainCo has introduced the world’s first integrated ‘brain-to-robot’ platform at the World Artificial Intelligence Conference. This platform allows users to control robots with their thoughts using an EEG headset. BrainCo claims its platform works with a variety of third-party hardware and could help solve the robotics industry’s data shortage.",
+        "content": "Technology 7 min ago\nThis is an AI assisted summary.\nChinese tech unicorn BrainCo has introduced the world's first integrated 'brain-to-robot' platform at the World Artificial Intelligence Conference. This platform allows users to control robots with... [21827 chars]",
+        "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/chinese-startup-unveils-worlds-1st-brain-to-robot-platform-10792247/",
+        "image": "https://images.indianexpress.com/2026/07/BrainCo.jpg",
+        "publishedAt": "2026-07-18T06:58:14Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "d96707efef7b8d10e7a06c303098b0e5",
+        "title": "Nikhil Kamath and Brian Armstrong: Dissecting the Future of Crypto and AI",
+        "description": "In an insightful podcast episode, Nikhil Kamath engages Coinbase CEO Brian Armstrong in a thought-provoking discussion about the evolving landscape of cryptocurrency and artificial intelligence. They explore the political and economic implications, questioning who truly owns the infrastructure underpinning our digital future.",
+        "content": "In the latest episode of the 'People by WTF' podcast, Nikhil Kamath delves into an illuminating conversation with Brian Armstrong, co-founder and CEO of Coinbase. Kamath initiates the discussion by challenging traditional notions of cryptocurrency, h... [1212 chars]",
+        "url": "https://www.devdiscourse.com/article/business/3952256-nikhil-kamath-and-brian-armstrong-dissecting-the-future-of-crypto-and-ai",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/18_07_2026_10_52_24_1184183.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-07-18T05:22:30Z",
+        "lang": "en",
+        "source": {
+            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "4e3ba00b8e5f25d925ef342e7ef5b4ca",
         "title": "Apple overtakes Nvidia as world’s most valuable company amid AI selloff",
         "description": "Apple overtook Nvidia on Friday to become the world’s most valuable publicly traded company, as renewed selling pressure on artificial intelligence-related stocks",
@@ -109,54 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "e6a34ae9d042ec645c0989f381b4d72b",
-        "title": "Global Times: Head-of-state diplomacy shines at WAIC, fostering ties and advancing global governance consensus",
-        "description": "BEIJING, July 18, 2026 /PRNewswire/ -- Chinese President Xi Jinping on Friday held a series of high-level meetings on the sidelines of the 2026 World Artificial Intelligence Conference (WAIC) and High-Level Meeting on Global AI Governance in Shanghai, sitting down successively with Thai Prime Minister Anutin Charnvirakul, Cambodian Prime Minister Hun Manet, and UN Secretary-General António Guterres. The bustling diplomatic activity transformed the WAIC from a premier showcase of AI technologies and industrial breakthroughs into a vibrant platform for head-of-state diplomacy and global governance coordination.",
-        "content": "BEIJING, July 18, 2026 /PRNewswire/ -- Chinese President Xi Jinping on Friday held a series of high-level meetings on the sidelines of the 2026 World Artificial Intelligence Conference (WAIC) and High-Level Meeting on Global AI Governance in Shanghai... [7618 chars]",
-        "url": "https://www.manilatimes.net/2026/07/18/tmt-newswire/pr-newswire/global-times-head-of-state-diplomacy-shines-at-waic-fostering-ties-and-advancing-global-governance-consensus/2386867",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-07-18T03:00:48Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "0ce11765019c54cc59bda1f6389c47c5",
-        "title": "WeRide Named Among China's Top 10 AI Case Studies for UAE Autonomous Driving Deployment, the Only Autonomous Driving Company Recognized",
-        "description": "SHANGHAI, July 17, 2026 (GLOBE NEWSWIRE) -- WeRide (NASDAQ: WRD; HKEX: 0800), a global leader in autonomous driving technology, today announced that its autonomous driving deployment in the United Arab Emirates (UAE) has been selected as one of the Top 10 examples of international cooperation in Chinese AI technologies and products in AI From China Benefits the World (2026), in a national case collection released at the 2026 World Artificial Intelligence Conference (WAIC).",
-        "content": "SHANGHAI, July 17, 2026 (GLOBE NEWSWIRE) -- WeRide (NASDAQ: WRD; HKEX: 0800), a global leader in autonomous driving technology, today announced that its autonomous driving deployment in the United Arab Emirates (UAE) has been selected as one of the T... [6378 chars]",
-        "url": "https://www.manilatimes.net/2026/07/18/tmt-newswire/globenewswire/weride-named-among-chinas-top-10-ai-case-studies-for-uae-autonomous-driving-deployment-the-only-autonomous-driving-company-recognized/2386865",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/18/1141718.png",
-        "publishedAt": "2026-07-18T02:39:18Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "5959cf2da848244ef421210b72d6aaa9",
-        "title": "George Lucas Says AI Makes Filmmaking Easier - 'That's Progress'",
-        "description": "In an interview with A Rabbit's Foot, George Lucas addressed the controversial topic of artificial intelligence (AI) in filmmaking.",
-        "content": "In an interview with A Rabbit’s Foot, George Lucas addressed the controversial topic of artificial intelligence (AI) in filmmaking.\nGeorge Lucas on AI\nTalking about technological advances, Lucas said, “I have a lot of friends who are on the Film Foun... [2526 chars]",
-        "url": "https://wdwnt.com/2026/07/george-lucas-says-ai-makes-filmmaking-easier-thats-progress/",
-        "image": "https://r2-media.wdwnt.com/2019/05/george-lucas-star-wars.jpg",
-        "publishedAt": "2026-07-18T01:30:00Z",
-        "lang": "en",
-        "source": {
-            "id": "fb9233e6850dc4745e3e8b0f1b028249",
-            "name": "wdwnt.com",
-            "url": "https://wdwnt.com",
-            "country": "us"
         }
     }
 ]
