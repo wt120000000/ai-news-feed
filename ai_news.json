@@ -1,5 +1,85 @@
 [
     {
+        "id": "29281002d61792c70aadb486d225cc0b",
+        "title": "Singer Kate Ceberano reveals shock at deepfake artificial intelligence post showing her crying about late friend Sam Neill",
+        "description": "’You were tricked and I kinda think this is just the beginning.’",
+        "content": "ARIA Hall of Fame inductee Kate Ceberano “nearly threw up” after coming across a deepfake post showing her mourning the death of late actor Sam Neill.\nThe artificial intelligence creation depicted a tearful Ceberano holding up a phone with a photo of... [3353 chars]",
+        "url": "https://www.perthnow.com.au/news/singer-kate-ceberano-reveals-shock-at-deepfake-artificial-intelligence-post-showing-her-crying-about-late-friend-sam-neill-c-22610330",
+        "image": "https://images.perthnow.com.au/publication/C-22610330/632ed12ad3ae2e2bfac5177df247ecb22e3850c7-16x9-x0y0w1280h720.jpg?imwidth=1200",
+        "publishedAt": "2026-07-21T22:24:48Z",
+        "lang": "en",
+        "source": {
+            "id": "7f6e8514e9d8f8376aaa9a7229861518",
+            "name": "PerthNow",
+            "url": "https://www.perthnow.com.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "e929698e96ebeaeaec3fe6d5c9f25339",
+        "title": "Uncovering multidimensional effects of generative AI on learning",
+        "description": "A research team consisting of researcher Somi Joo, Professor Changjun Lee and Professor Daeho Lee from the Sungkyunkwan University (SKKU) Department of Artificial Intelligence Convergence have published a study comprehensively analyzing the opportunities and risks of using generative artificial intelligence (GAI) in educational settings. The study examines how students have recently used generative AI in education.",
+        "content": "A research team consisting of researcher Somi Joo, Professor Changjun Lee and Professor Daeho Lee from the Sungkyunkwan University (SKKU) Department of Artificial Intelligence Convergence have published a study comprehensively analyzing the opportuni... [2530 chars]",
+        "url": "https://phys.org/news/2026-07-uncovering-multidimensional-effects-generative-ai.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/generative-ai.jpg",
+        "publishedAt": "2026-07-21T21:40:06Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "b2e05341777861546624a46bddf15a3d",
+        "title": "The Urgency to Close the AI Gender Divide Before It Affects the Pay Gap",
+        "description": "Reese Witherspoon recently took to Instagram to lecture her millions of followers about how women aren’t using artificial intelligence enough. She concluded",
+        "content": "Reese Witherspoon recently took to Instagram to lecture her millions of followers about how women aren’t using artificial intelligence enough. She concluded the video with a call to action to learn AI with her.\nWitherspoon received thousands of comme... [5715 chars]",
+        "url": "https://www.europesays.com/3145573/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/07/GettyImages-2215157591_e30e6a-768x512.jpg",
+        "publishedAt": "2026-07-21T21:31:23Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "29efec2c4e519e216e54d79fa63ef761",
+        "title": "OpenAI Says Its AI Caused Hugging Face Cyber Breach (1)",
+        "description": "OpenAI said its artificial intelligence models were able to compromise the internal systems of startup Hugging Face Inc., offering an early glimpse of how AI systems could fuel new cybersecurity threats.",
+        "content": "OpenAI said its artificial intelligence models were able to compromise the internal systems of startup Hugging Face Inc., offering an early glimpse of how AI systems could fuel new cybersecurity threats.\nThe company said in a blog post Tuesday that s... [387 chars]",
+        "url": "https://news.bloombergtax.com/daily-tax-report/openai-says-its-ai-caused-hugging-face-cyber-breach-1",
+        "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+        "publishedAt": "2026-07-21T21:13:26Z",
+        "lang": "en",
+        "source": {
+            "id": "2b5db686603d0197d748f18d2dc01aec",
+            "name": "Bloomberg Tax News",
+            "url": "https://news.bloombergtax.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c41aabc23132ae7d5bc4858f1dc1cee7",
+        "title": "Super Micro surges on new order disclosure after SpaceX announcement",
+        "description": "Many server makers are seeing faster growth as companies race to deploy artificial intelligence servers.",
+        "content": "Shares of Super Micro Computer jumped 15% after the server maker said Tuesday it now sees higher margins than previously projected for the June quarter, with a surge in new orders.\nThe company said its gross margin and adjusted gross margin should co... [1316 chars]",
+        "url": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108218698-1761754000890-gettyimages-2223502375-FRANCE_RAISE_SUMMIT.jpeg?v=1784666033&w=1920&h=1080",
+        "publishedAt": "2026-07-21T20:46:08Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "1a10ea35d66552a803e48cdfd853d88c",
         "title": "Human eyes needed, not AI, to study the Arctic sky",
         "description": "Scientists studying space weather are turning to human volunteers rather than artificial intelligence to help sort through hundreds of thousands of images of the Arctic sky. The Clear Skies—Kiruna project is asking members of the public to look at pictures of the sky above Kiruna, Sweden, and say whether it is clear or cloudy. Volunteers need no experience to get involved.",
@@ -77,86 +157,6 @@
             "name": "WIRED",
             "url": "https://www.wired.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "f361ff56bf80ff4e054dff6a980a5321",
-        "title": "AI financial advice is surprisingly good - especially if you ask the right questions",
-        "description": "People are increasingly turning to artificial intelligence for financial advice, but will following it improve their financial standing?",
-        "content": "People are increasingly turning to artificial intelligence for financial advice, but will following it improve their financial standing?\n“Half of Americans say they are using AI to get financial advice, but we know very little about what kind of advi... [9001 chars]",
-        "url": "https://www.europesays.com/3145321/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/07/ai-finance.png.webp",
-        "publishedAt": "2026-07-21T18:50:23Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0c468fb649c15ba284e7292aa08842b7",
-        "title": "As US-Chinese AI model gap narrows, what next for Washington?",
-        "description": "China’s major advances in artificial intelligence have intensified pressure on US rivals, leaving American AI policy at a crucial crossroads.",
-        "content": "China’s major advances in artificial intelligence have intensified pressure on US rivals, leaving American AI policy at a crucial crossroads\n5 -MIN READ5 -MIN\nListen\nVincent Chowin Washington\nPublished: 2:38am, 22 Jul 2026\nFor years, Washington has f... [1557 chars]",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3361393/us-chinese-ai-model-gap-narrows-what-next-washington",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/22/da9f4937-2310-44ef-994e-586779d804ea_f5a6f062.jpg?itok=nR837J3O&v=1784659097",
-        "publishedAt": "2026-07-21T18:38:24Z",
-        "lang": "en",
-        "source": {
-            "id": "d6397b77175680e2678c0d60edcee7af",
-            "name": "South China Morning Post",
-            "url": "https://www.scmp.com",
-            "country": "hk"
-        }
-    },
-    {
-        "id": "08c82580f19708df6e0cc68cecca52cf",
-        "title": "Sen. Mark Warner to Unveil His Most Ambitious AI Plan. It Requires Government Testing Before Powerful Models Launch",
-        "description": "Sen. Mark Warner is rolling out one of the most comprehensive artificial intelligence policy proposals introduced in Congress this year, placing AI regulation at the center of both his legislative",
-        "content": "Sen. Mark Warner is rolling out one of the most comprehensive artificial intelligence policy proposals introduced in Congress this year, placing AI regulation at the center of both his legislative agenda and his 2026 reelection campaign.\nThe Virginia... [3904 chars]",
-        "url": "https://www.ibtimes.com/sen-mark-warner-unveil-his-most-ambitious-ai-plan-it-requires-government-testing-before-powerful-3805556",
-        "image": "https://d.ibtimes.com/en/full/4651531/mark-warner.jpg",
-        "publishedAt": "2026-07-21T17:58:10Z",
-        "lang": "en",
-        "source": {
-            "id": "933344203c2b862af768b5e662a162a4",
-            "name": "International Business Times",
-            "url": "https://www.ibtimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "2a175ce83d973bdd176e4dff14002d1c",
-        "title": "New Louisiana artificial intelligence laws take effect Aug. 1",
-        "description": "By Misty Castile | The Center Square Louisiana will begin enforcing a series of new artificial intelligence laws Aug. 1 that expand criminal penalties for AI-generated sexual images, require disclosures on […]",
-        "content": "Louisiana will begin enforcing a series of new artificial intelligence laws Aug. 1 that expand criminal penalties for AI-generated sexual images, require disclosures on certain political advertisements created with artificial intelligence and establi... [3409 chars]",
-        "url": "https://americanpress.com/2026/07/21/new-louisiana-artificial-intelligence-laws-take-effect-aug-1/",
-        "image": "https://americanpress.com/wp-content/uploads/sites/65/2022/07/N2003P58006H.jpg?w=622",
-        "publishedAt": "2026-07-21T17:37:05Z",
-        "lang": "en",
-        "source": {
-            "id": "6fae16c69c9deb028341a9a49f563281",
-            "name": "American Press",
-            "url": "https://americanpress.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e25108a8986d9cc54b6b405a1aeff1af",
-        "title": "Teens use generative AI to create explicit content",
-        "description": "As the use of artificial intelligence continues to proliferate, AI-generated sexual content is already impacting teenagers.",
-        "content": "As the use of artificial intelligence continues to proliferate, AI-generated sexual content is already impacting teenagers.\nNearly 75 per cent of teens have seen online pornography and more than half are encountering this type of content as early as ... [5714 chars]",
-        "url": "https://www.cp24.com/news/world/2026/07/21/more-teens-are-using-generative-ai-to-make-explicit-content-what-parents-should-know-about-it/",
-        "image": "https://www.cp24.com/resizer/v2/N2MRWKFBIFHZJFVKGODILE57PM.JPG?smart=true&auth=9c7bd184b468e97c89687e9aa4850d7f84ebd1c3c5909e8b8b5abc0506fa6418&width=1200&height=630",
-        "publishedAt": "2026-07-21T17:18:13Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
         }
     }
 ]
