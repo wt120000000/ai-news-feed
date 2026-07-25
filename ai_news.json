@@ -1,5 +1,21 @@
 [
     {
+        "id": "f02724277bb535a013f68a1fc1891137",
+        "title": "Lee meets Anthropic CEO Amodei, seeks support for Korea's AI sector",
+        "description": "SAN FRANCISCO — South Korean President Lee Jae Myung met with Dario Amodei, chief executive officer of U.S. artificial intelligence (AI) company An...",
+        "content": "SAN FRANCISCO — South Korean President Lee Jae Myung met with Dario Amodei, chief executive officer of U.S. artificial intelligence (AI) company Anthropic PBC, on Friday and asked for his special attention to South Korea's AI sector.\nThe meeting took... [1078 chars]",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260725/lee-meets-anthropic-ceo-amodei-seeks-support-for-koreas-ai-sector",
+        "image": "https://newsimg.koreatimes.co.kr/2026/07/25/84063699-ede3-4cb4-a8e3-998696213484.jpg",
+        "publishedAt": "2026-07-24T23:06:03Z",
+        "lang": "en",
+        "source": {
+            "id": "9f2e79f0f9194d0d88f0074def064e60",
+            "name": "The Korea Times",
+            "url": "https://www.koreatimes.co.kr",
+            "country": "kr"
+        }
+    },
+    {
         "id": "178ac827d51526594b550ffe5019ee80",
         "title": "Washington Is Weighing Curbs On Chinese AI. Nvidia, Microsoft And Meta Warn Open Models Shouldn't Be Included",
         "description": "Nvidia, Microsoft, Meta and more than two dozen technology companies are urging U.S. policymakers not to impose broad restrictions on open-weight artificial intelligence models, arguing that doing so",
@@ -140,22 +156,6 @@
             "id": "a0300bc9a6e9d5b317bd6f614767231f",
             "name": "Forbes",
             "url": "https://www.forbes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c5f6b37c88f9df036cc52e94eb36421a",
-        "title": "Report claims teachers unions are expanding DEI efforts into artificial intelligence",
-        "description": "A new report from the education advocacy group Defending Education argues that the nation's two largest teachers' unions are focusing on artificial intelligence",
-        "content": "A new report from the education advocacy group Defending Education argues that the nation's two largest teachers' unions are increasingly focusing on artificial intelligence as a way to advance diversity, equity and inclusion (DEI) initiatives in sch... [4699 chars]",
-        "url": "https://foxbaltimore.com/news/nation-world/report-claims-teachers-unions-are-expanding-dei-efforts-into-artificial-intelligence-erika-sanzi-defending-education-diversity-equity-inclusion-ai-technology-classroom-school-educational-content-national-education-association-politics",
-        "image": "https://foxbaltimore.com/resources/media2/16x9/6000/1320/0x313/90/f4582c10-0385-4a56-ae7b-1918206c5182-GettyImages2261973898.jpg",
-        "publishedAt": "2026-07-24T18:04:31Z",
-        "lang": "en",
-        "source": {
-            "id": "9f53afb019d44feb16bcc7da150e679a",
-            "name": "Baltimore News",
-            "url": "https://foxbaltimore.com",
             "country": "us"
         }
     }
