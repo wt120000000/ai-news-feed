@@ -1,5 +1,37 @@
 [
     {
+        "id": "6895f4b85bec7050ccf6acf48bece9b0",
+        "title": "How Does Google Maps Predict Traffic?",
+        "description": "Google Maps combines information from users' smartphones with historical data, then sprinkles in a generous helping of artificial intelligence.",
+        "content": "Google Maps helps users navigate in part by providing information about traffic congestion. By now, plenty of drivers frequently open the app to check potential routes, avoiding stretches that appear yellow or red on Google Maps whenever possible. Th... [2240 chars]",
+        "url": "https://www.bgr.com/2219037/how-does-google-maps-predict-traffic/",
+        "image": "https://www.bgr.com/img/gallery/how-does-google-maps-predict-traffic/l-intro-1784571930.jpg",
+        "publishedAt": "2026-07-25T20:17:00Z",
+        "lang": "en",
+        "source": {
+            "id": "b98becfda029f124cf65538c8af36d20",
+            "name": "BGR",
+            "url": "https://www.bgr.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "1f846a70ddac83f40a74d93e34f17d0d",
+        "title": "Nvidia vs. Planet Labs: Comparing Revenue Trends Between an Artificial Intelligence Giant and a Rising Star of the Space",
+        "description": "Nvidia (NVDA -1.01%) primarily generates revenue by providing advanced graphics, computational, and networking solutions for diverse applications.",
+        "content": "Nvidia: Accelerating Revenue Expansion\nNvidia (NVDA -1.01%) primarily generates revenue by providing advanced graphics, computational, and networking solutions for diverse applications.\nIt commenced full production of its new hardware architecture, V... [2379 chars]",
+        "url": "https://www.europesays.com/3153656/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/07/urlhttps3A2F2Fg.foolcdn.com2Fcharts2Fproduction2Fprocessed2Fnvda-pl2Fquarter2Frevenue2Fb.png",
+        "publishedAt": "2026-07-25T19:31:21Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "97edda39532bcec7368dd2226d600257",
         "title": "IBM lays out AI-first roadmap for APAC",
         "description": "SINGAPORE — Tech giant IBM said Asia-Pacific is positioned to lead the next phase of enterprise artificial intelligence as organizations shift from isolated AI projects to operating AI across their businesses, underpinned by digital sovereignty, hybrid cloud and quantum computing.",
@@ -124,38 +156,6 @@
             "id": "ed23d65928efaec6669dd2212a773d9f",
             "name": "EUROPE SAYS",
             "url": "https://www.europesays.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "5b9e63a3031e4ba00dc2f3a1b75996a3",
-        "title": "The AI jobs apocalypse probably isn’t coming anytime soon",
-        "description": "Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay",
-        "content": "In March, Anthropic, the cutting-edge artificial intelligence business that gave us the chatbot Claude, published an analysis on the impact of AI on employment, to help us assess the claim that intelligent robots were about to redefine human existenc... [6283 chars]",
-        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-        "image": "https://i.guim.co.uk/img/media/e9dc22d7de9bd5d0f413d80dd7b363bb0c6517cc/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=b4774108bb4ef4e3b836d5fcd4c71fdd",
-        "publishedAt": "2026-07-25T13:00:43Z",
-        "lang": "en",
-        "source": {
-            "id": "01558c024928d45cf320f6f75eede787",
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "25ea5cf7bff76438303d369b70174009",
-        "title": "Anita Chabria: AI companies are creating ‘all-powerful psychopaths.’ Maybe not a great idea?",
-        "description": "Repeated law-breaking. Lying and deceit. Reckless disregard for safety. Lack of remorse. Those are traits that help define a psychopath, someone who lives among us but doesn't have the empathy and ethics necessary to behave in a civilized, or even safe, fashion. Unfortunately, it's also increasingly clear that these are the traits that define the most powerful artificial intelligence models ...",
-        "content": "By Anita Chabria, Los Angeles Times\nRepeated law-breaking. Lying and deceit. Reckless disregard for safety. Lack of remorse.\nThose are traits that help define a psychopath, someone who lives among us but doesn’t have the empathy and ethics necessary ... [7028 chars]",
-        "url": "https://www.courant.com/2026/07/25/anita-chabria-ai-companies-are-creating-all-powerful-psychopaths-maybe-not-a-great-idea/",
-        "image": "https://www.courant.com/wp-content/uploads/2026/07/202607241230MCT_____PHOTO____OPED-CHABRIA-COLUMN-FILEPIC-GET.jpg?w=2000&h=1333",
-        "publishedAt": "2026-07-25T13:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "494f687bd1dfaa9f7b4a705c860671d0",
-            "name": "Hartford Courant",
-            "url": "https://www.courant.com",
             "country": "us"
         }
     }
