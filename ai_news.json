@@ -1,5 +1,37 @@
 [
     {
+        "id": "801583ce76fdff2d2c1b150aa6b16082",
+        "title": "Google unveils Gemini 3.6 Flash with 17% lower token usage",
+        "description": "Google has announced three new artificial intelligence models - Gemini 3.6 Flash, Gemini 3.5 Flash-Lite and Gemini 3.5 Flash Cyber - aimed at improving coding, AI agent performance and security analysis while reducing token consumption and accelerating processing speeds.",
+        "content": "Google has announced three new artificial intelligence models - Gemini 3.6 Flash, Gemini 3.5 Flash-Lite and Gemini 3.5 Flash Cyber - aimed at improving coding, AI agent performance and security analysis while reducing token consumption and accelerati... [2318 chars]",
+        "url": "https://www.bangkokpost.com/life/tech/3291927/google-unveils-gemini-36-flash-with-17-lower-token-usage",
+        "image": "https://static.bangkokpost.com/media/content/20260726/c2_3291927.jpg",
+        "publishedAt": "2026-07-26T03:05:00Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
+        "id": "1a35920500c4311e054938d3427b3048",
+        "title": "In Singapore, one pay cheque is no longer enough",
+        "description": "Young Singaporeans are taking second jobs to make ends meet, even though the expensive city-state is well-prepared for job losses from artificial intelligence.",
+        "content": "Singapore | By day, Adele Lee juggles schedules and administrative work as a personal assistant to a senior director at a financial advisory firm. Three evenings a week, the 32-year-old logs back on, this time to sell second-hand clothes through TikT... [298 chars]",
+        "url": "https://www.afr.com/world/asia/singapore-residents-find-one-pay-cheque-no-longer-enough-20260726-p60imq",
+        "image": "https://static.ffx.io/images/$zoom_0.2118%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/32bf56548254aaef6cc49c5b1b36997e3b94c6a4",
+        "publishedAt": "2026-07-26T02:15:43Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "d2991a3d48dfd546c4bada7ee6e876a2",
         "title": "3 Top AI Bargain Stocks to Buy Today",
         "description": "The tech bull market over the past few years has largely been driven by artificial intelligence (AI) growth stocks, particularly in the infrastructure space.",
@@ -125,38 +157,6 @@
             "name": "Activist Post",
             "url": "https://www.activistpost.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "e1c4d8bfdecd6c05056967e8ecef7422",
-        "title": "Muscogee Nation to examine role of data centers, AI",
-        "description": "During his penultimate State of the Nation address Saturday, Principal Chief David Hill announced his support for legislation examining the role of data centers and artificial intelligence on the reservation.",
-        "content": "Lenzy Krehbiel-Burton\nTulsa World Reporter\nGet email notifications on {{subject}} daily!\nYour notification has been saved.\nThere was a problem saving your notification.\n{{description}}\nEmail notifications are only sent once a day, and only if there a... [688 chars]",
-        "url": "https://tulsaworld.com/news/local/indigenous/article_27a45ec6-ebec-40ac-b49d-70b744016c50.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/2/7a/27a45ec6-ebec-40ac-b49d-70b744016c50/6a65338a418b6.preview.jpg?crop=1719%2C902%2C0%2C151&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2026-07-25T22:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ff08198bd1f06590c448195855068383",
-            "name": "Tulsa World",
-            "url": "https://tulsaworld.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "afa1ad6d922860cf2cbbc0c4e27962fb",
-        "title": "If you think AI helped terminate you, read this",
-        "description": "Whether we know it or not, most of us are using artificial intelligence multiple times a day. Read more.",
-        "content": "Article content\nSee more Toronto Sun on Google — save as a Preferred Source\nAdvertisement 2\nStory continues below\nThis advertisement has not loaded yet, but your article continues below.\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\nSubscribe now to ... [6272 chars]",
-        "url": "https://torontosun.com/opinion/columnists/think-ai-helped-terminate-you-read-this",
-        "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/GettyImages-2150966252-e1731446434618.jpg",
-        "publishedAt": "2026-07-25T21:25:04Z",
-        "lang": "en",
-        "source": {
-            "id": "09dc1bda762f4f787cec10477a894d96",
-            "name": "Toronto Sun",
-            "url": "https://torontosun.com",
-            "country": "ca"
         }
     }
 ]
