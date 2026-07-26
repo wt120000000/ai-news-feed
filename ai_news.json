@@ -1,5 +1,21 @@
 [
     {
+        "id": "43836841b028ae7132ce26c0d478ad38",
+        "title": "Samsung, SK, Hyundai expand AI partnerships with Big Tech firms to $950 bil.",
+        "description": "Samsung, SK Group, Hyundai Motor Group and other Korean tech conglomerates expanded their artificial intelligence (AI) and semiconductor partnershi...",
+        "content": "Samsung, SK Group, Hyundai Motor Group and other Korean tech conglomerates expanded their artificial intelligence (AI) and semiconductor partnerships with U.S. Big Tech companies to $950 billion during President Lee Jae Myung's visit to San Francisco... [6852 chars]",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260726/samsung-sk-hyundai-expand-ai-partnerships-with-big-tech-firms-to-950-bil",
+        "image": "https://newsimg.koreatimes.co.kr/2026/07/26/5d3e063f-c36c-48f1-9990-dcc59c4469c5.jpg",
+        "publishedAt": "2026-07-26T05:06:02Z",
+        "lang": "en",
+        "source": {
+            "id": "9f2e79f0f9194d0d88f0074def064e60",
+            "name": "The Korea Times",
+            "url": "https://www.koreatimes.co.kr",
+            "country": "kr"
+        }
+    },
+    {
         "id": "552f8bde6b6d64af4a19c248278b87fc",
         "title": "AI adoption reshapes workflows and hiring across high",
         "description": "Artificial intelligence adoption is rapidly transforming how high-growth, venture-backed technology companies operate, with businesses deploying AI across engineering, finance, human resources, sales, marketing and customer success, according to a research report by global venture capital firm Bessemer Venture Partners.",
@@ -141,22 +157,6 @@
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "801583ce76fdff2d2c1b150aa6b16082",
-        "title": "Google unveils Gemini 3.6 Flash with 17% lower token usage",
-        "description": "Google has announced three new artificial intelligence models - Gemini 3.6 Flash, Gemini 3.5 Flash-Lite and Gemini 3.5 Flash Cyber - aimed at improving coding, AI agent performance and security analysis while reducing token consumption and accelerating processing speeds.",
-        "content": "Google has announced three new artificial intelligence models - Gemini 3.6 Flash, Gemini 3.5 Flash-Lite and Gemini 3.5 Flash Cyber - aimed at improving coding, AI agent performance and security analysis while reducing token consumption and accelerati... [2318 chars]",
-        "url": "https://www.bangkokpost.com/life/tech/3291927/google-unveils-gemini-36-flash-with-17-lower-token-usage",
-        "image": "https://static.bangkokpost.com/media/content/20260726/c2_3291927.jpg",
-        "publishedAt": "2026-07-26T03:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "91120a92e0d24e24fbffb6d0affabfe6",
-            "name": "Bangkok Post",
-            "url": "https://www.bangkokpost.com",
-            "country": "th"
         }
     }
 ]
