@@ -1,5 +1,37 @@
 [
     {
+        "id": "9826625d3171ab58ff0d8bf28509cd11",
+        "title": "Sam Altman says humanity already in the singularity, warns of AI authoritarianism",
+        "description": "The singularity, long viewed as a distant milestone in artificial intelligence, has already arrived, according to OpenAI CEO Sam Altman. The ChatGPT-maker’s frontman reiterated that humanity is already in the singularity, stating that the pace of AI development in the past decade has ushered in an era of superintelligence. Altman made these remarks in a […]",
+        "content": "Technology 13 min ago\nThis is an AI assisted summary.\nThe singularity, long viewed as a distant milestone in artificial intelligence, has already arrived, according to OpenAI CEO Sam Altman. The ChatGPT-maker’s frontman reiterated that humanity is al... [22934 chars]",
+        "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/openai-sam-altman-humanity-singularity-ai-authoritarianism-10804471/",
+        "image": "https://images.indianexpress.com/2026/04/sam-altman.jpg",
+        "publishedAt": "2026-07-26T10:57:50Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "90f1559285ed7114f14a82b0f94456bc",
+        "title": "Keeping at bay the dangers of AI",
+        "description": "A conversation with artificial intelligence ‘godfather’ Geoffrey Hinton",
+        "content": "Nvidia CEO Jensen Huang has a simple analogy for how to make artificial intelligence safe. He says that people will have to create new social norms and adapt society to the technology, the way cities developed sidewalks and crosswalks to protect chil... [10597 chars]",
+        "url": "https://www.theglobeandmail.com/opinion/editorials/article-keeping-at-bay-the-dangers-of-ai/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/4ZDOYSVU7VG3BPECG3RC6CAOAA.jpg?auth=996d0d297508ab8de6c638675c7b6083c41ee6873c1000f73752f3ad4cb8b175&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-07-26T10:45:00Z",
+        "lang": "en",
+        "source": {
+            "id": "f5081afeaba654292dd91fffd29f9dd4",
+            "name": "The Globe and Mail",
+            "url": "https://www.theglobeandmail.com",
+            "country": "ca"
+        }
+    },
+    {
         "id": "a6f95cda07f57b0462ccaa4c3d777ae7",
         "title": "Israel pitches Canada high-tech trade and safer AI as diplomatic tensions persist",
         "description": "OTTAWA — Israel is pitching itself to Canada as a technology partner that can offer tangible solutions and safer artificial intelligence, despite the heavy strains on the bilateral relationship over wars in the Middle East.",
@@ -125,38 +157,6 @@
             "name": "Moneycontrol",
             "url": "https://www.moneycontrol.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "306fd23c375bbd4b60f5384bc383e93f",
-        "title": "AI adoption reshapes workflows and hiring across high",
-        "description": "Artificial intelligence adoption is rapidly transforming high-growth technology companies. Many businesses are deploying AI across engineering, finance, and human resources. Most respondents feel AI will meaningfully change team operations within a year. Engineering teams show the highest level of AI adoption and usage. Data quality and system fragmentation present key implementation challenges.",
-        "content": "Synopsis\nArtificial intelligence adoption is rapidly transforming high-growth technology companies. Many businesses are deploying AI across engineering, finance, and human resources. Most respondents feel AI will meaningfully change team operations w... [2910 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-adoption-reshapes-workflows-and-hiring-across-high-growth-technology-companies-report/articleshow/132638128.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-87430,resizemode-75,msid-132638128/tech/artificial-intelligence/ai-adoption-reshapes-workflows-and-hiring-across-high-growth-technology-companies-report.jpg",
-        "publishedAt": "2026-07-26T07:55:54Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "726cdcc9bbad644e7f505f7021b12250",
-        "title": "Portugal has energy for data centers. But will it have a network to connect them?",
-        "description": "Today, the equation has changed. Artificial intelligence, cloud computing and the exponential growth in the volume of data have made energy the main decision",
-        "content": "Today, the equation has changed. Artificial intelligence, cloud computing and the exponential growth in the volume of data have made energy the main decision criterion. It is no longer enough to have space to build. It is necessary to ensure reliable... [3517 chars]",
-        "url": "https://www.europesays.com/3154681/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/07/server-room-data-center-networking-database-co-2026-01-09-10-39-47-utc.jpg",
-        "publishedAt": "2026-07-26T07:27:18Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
         }
     }
 ]
