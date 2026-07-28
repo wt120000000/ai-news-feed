@@ -1,44 +1,124 @@
 [
     {
-        "id": "297021d4735ddc116359e008896b864f",
-        "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
-        "description": "The company slipped by the chipmaker Nvidia, amid growing concern about costs associated with the artificial intelligence boom.",
-        "content": "Apple overtook the chipmaker Nvidia on Monday to become the world’s most valuable publicly traded company, about two years after it lost the crown.\nThe company’s ascent was as much a result of a sell-off of Nvidia’s stock as it was an endorsement by ... [1803 chars]",
-        "url": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
-        "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27biz-apple-valuation-2-mkpz/27biz-apple-valuation-2-mkpz-facebookJumbo.jpg",
-        "publishedAt": "2026-07-27T20:26:04Z",
+        "id": "c3a94fbcf59b720687c414bed29244fb",
+        "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
+        "description": "The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
+        "content": "Artificial intelligence could surpass the combined intelligence of humanity within about five years, and humans are unlikely to remain in control of the technology within a decade, according to Elon Musk.\nSpeaking with The Economist editor-in-chief Z... [3179 chars]",
+        "url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
+        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png",
+        "publishedAt": "2026-07-27T23:00:04Z",
         "lang": "en",
         "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
+            "id": "6956007add5fc13a6721202ec906b1c4",
+            "name": "Decrypt",
+            "url": "https://decrypt.co",
             "country": "us"
         }
     },
     {
-        "id": "34cb4d815b5d38332c7557be37f70f61",
+        "id": "a7ac40c082798097593ba93ac2461e4d",
+        "title": "Reddit, Publishers Consider Cutting Google Access as AI Summaries Reduce Traffic, Report Says",
+        "description": "Reddit and multiple news publishers are reportedly considering blocking Google’s access to their content, according to a Wall Street Journal (WSJ) report, as the company’s artificial intelligence (AI)-generated search summaries – called AI Overviews – have caused sharp declines in referral traffic. Reddit, which signed a $60 million per year deal with Google to allow training […]",
+        "content": "Reddit and multiple news publishers are reportedly considering blocking Google's access to their content, according to a Wall Street Journal (WSJ) report, as the company's artificial intelligence (AI)-generated search summaries – called AI Overviews ... [5583 chars]",
+        "url": "https://www.naturalnews.com/2026-07-27-reddit-publishers-consider-cutting-google-access-report.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/ai-overviews-google-search-reddit-2928-original.jpg",
+        "publishedAt": "2026-07-27T22:55:15Z",
+        "lang": "en",
+        "source": {
+            "id": "188e9ebf53d05fc7ba360240a0b28154",
+            "name": "Natural News",
+            "url": "https://www.naturalnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "ff1b8491940072affa062b67f4821402",
+        "title": "AI analysis could help tailor intensified treatment for locally advanced rectal cancer",
+        "description": "Artificial intelligence developed by researchers at UCL has revealed a promising combination of cancer treatments that could help patients with locally advanced rectal cancer live longer.",
+        "content": "Artificial intelligence developed by researchers at UCL has revealed a promising combination of cancer treatments that could help patients with locally advanced rectal cancer live longer.\nA new study, published in eBioMedicine, shows that combining t... [4875 chars]",
+        "url": "https://medicalxpress.com/news/2026-07-ai-analysis-tailor-treatment-locally.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/cancer-1.jpg",
+        "publishedAt": "2026-07-27T22:30:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "a117bc058a99cf20ee15c84becf7cdf4",
+        "title": "Silicon Valley splits over closing the borders to Chinese AI",
+        "description": "SAN FRANCISCO -- For years, a philosophical divide over how artificial intelligence software should be created has split Silicon Valley technologists.",
+        "content": "Those camps have started publicly clashing. On Friday, Jensen Huang, Nvidia’s CEO, said in his first-ever post to the social platform X that “the world needs both frontier closed models and frontier open models.” Nine minutes later, Satya Nadella, Mi... [8313 chars]",
+        "url": "https://www.bostonglobe.com/2026/07/27/business/silicon-valley-splits-over-closing-borders-chinese-ai/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/S6U423ANNNGDXFRKORAY3EM4LU.jpg?auth=c9a436fe719fdf35a0335e383becb45f10daea5debf492c31212ae0c6b02ab50&width=1440",
+        "publishedAt": "2026-07-27T22:26:49Z",
+        "lang": "en",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "82764bdfc6ebd396361134551ce5a3d4",
         "title": "agentic artificial intelligence needs shared memory",
-        "description": "Agentic artificial intelligence needs shared memory and traceability. Yugabyte’s Meko provides a data layer for multi-agent systems.",
-        "content": "Enterprise investment in agentic artificial intelligence is accelerating, but the infrastructure supporting those systems is still catching up.\nOrganizations are moving agents into customer support, software development, sales operations and other pr... [9548 chars]",
-        "url": "https://siliconangle.com/2026/07/27/agentic-artificial-intelligence-shared-memory-thecuberesearch/",
-        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Yugabyte-Header-Image.png",
-        "publishedAt": "2026-07-27T20:10:18Z",
+        "description": "Enterprise investment in agentic artificial intelligence is accelerating, but the infrastructure supporting those systems is still catching up.",
+        "content": "Enterprise investment in agentic artificial intelligence is accelerating, but the infrastructure supporting those systems is still catching up.\nOrganizations are moving agents into customer support, software development, sales operations and other pr... [10877 chars]",
+        "url": "https://www.europesays.com/3157883/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/07/Yugabyte-Header-Image.png",
+        "publishedAt": "2026-07-27T22:09:22Z",
         "lang": "en",
         "source": {
-            "id": "2e9e50c94b2fe950c6f3c06660288260",
-            "name": "SiliconANGLE News",
-            "url": "https://siliconangle.com",
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
             "country": "us"
         }
     },
     {
-        "id": "b6ede403823f261dce38fc3d60f656fc",
-        "title": "Applied Digital Reports Fiscal Fourth Quarter and Full Year 2026 Results",
-        "description": "DALLAS, July 27, 2026 (GLOBE NEWSWIRE) -- Applied Digital Corporation (Nasdaq: APLD)('Applied Digital' or the Company'), a U.S.-based designer, developer, owner, and operator of large-scale, purpose-built data centers engineered to support high-performance computing ('HPC”) workloads, including artificial intelligence ('AI”), machine learning, and other accelerated-compute applications, reported financial results for the fiscal fourth quarter ended May 31, 2026. The Company also provided operational updates.",
-        "content": "DALLAS, July 27, 2026 (GLOBE NEWSWIRE) -- Applied Digital Corporation (Nasdaq: APLD)(\"Applied Digital\" or the Company\"), a U.S.-based designer, developer, owner, and operator of large-scale, purpose-built data centers engineered to support high-perfo... [38103 chars]",
-        "url": "https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/applied-digital-reports-fiscal-fourth-quarter-and-full-year-2026-results/2392514",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/28/1153305.png",
-        "publishedAt": "2026-07-27T20:08:33Z",
+        "id": "dd885f599e286b1759a48d3567492b76",
+        "title": "Hyundai Motor's AI push struggles to offset earnings concerns",
+        "description": "Hyundai Motor Group's push into physical artificial intelligence (AI) is failing to offset mounting investor concerns, as weakening automotive earn...",
+        "content": "Hyundai Motor Group's push into physical artificial intelligence (AI) is failing to offset mounting investor concerns, as weakening automotive earnings prompt brokerages to cut their target prices for Hyundai Motor and Kia.\nDespite Hyundai Motor Grou... [2948 chars]",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260728/hyundai-motors-ai-push-struggles-to-offset-earnings-concerns",
+        "image": "https://newsimg.koreatimes.co.kr/2026/07/27/2a521c2a-02b3-418b-b74b-505cc54618ac.jpg",
+        "publishedAt": "2026-07-27T22:00:12Z",
+        "lang": "en",
+        "source": {
+            "id": "9f2e79f0f9194d0d88f0074def064e60",
+            "name": "The Korea Times",
+            "url": "https://www.koreatimes.co.kr",
+            "country": "kr"
+        }
+    },
+    {
+        "id": "0ab358a62d1a7d19d8697a7f2dbd3784",
+        "title": "New global CARE-AI framework sets standard for responsible AI in health education and care",
+        "description": "An international team of researchers, clinicians, educators, ethicists and patient partners has developed and validated the Health CARE-AI (Contextual, Accountable, Responsible, and Equitable Artificial Intelligence) Framework. Published in JMIR Medical Education, the study provides a consensus-backed roadmap for the responsible integration of AI across the health care learning and practice continuum.",
+        "content": "An international team of researchers, clinicians, educators, ethicists and patient partners has developed and validated the Health CARE-AI (Contextual, Accountable, Responsible, and Equitable Artificial Intelligence) Framework. Published in JMIR Medi... [2955 chars]",
+        "url": "https://medicalxpress.com/news/2026-07-global-ai-framework-standard-responsible.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/new-global-care-ai-fra.jpg",
+        "publishedAt": "2026-07-27T21:40:03Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "bd9922c8891cbe2d9ad361ea7f337120",
+        "title": "Univest Securities, LLC Announces a $10 Million Equity Line Facility for its Client Artificial Intelligence Technology Solutions Inc. (OTCID: AITX)",
+        "description": "New York, July 27, 2026 (GLOBE NEWSWIRE) -- Univest Securities, LLC ('Univest”), a member of FINRA and SIPC, and a full-service investment bank and securities broker-dealer firm based in New York, today announced that it has entered into a $10,000,000 equity line facility (the 'Offering”) for its client Artificial Intelligence Technology Solutions Inc. (OTCID: AITX) (the 'Company” or 'AITX”), a developer and operator of AI-driven security and productivity solutions for enterprise clients.",
+        "content": "New York, July 27, 2026 (GLOBE NEWSWIRE) -- Univest Securities, LLC (\"Univest”), a member of FINRA and SIPC, and a full-service investment bank and securities broker-dealer firm based in New York, today announced that it has entered into a $10,000,00... [7073 chars]",
+        "url": "https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/univest-securities-llc-announces-a-10-million-equity-line-facility-for-its-client-artificial-intelligence-technology-solutions-inc-otcid-aitx/2392557",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/28/1153359.jpg",
+        "publishedAt": "2026-07-27T21:09:25Z",
         "lang": "en",
         "source": {
             "id": "7c666ee953f873d3057b310220f510df",
@@ -48,115 +128,35 @@
         }
     },
     {
-        "id": "89b9211886b55f10512c753bf03583d3",
-        "title": "US stocks: US market ends mixed as investors focus on tech earnings",
-        "description": "Wall Street closed mixed as investors awaited tech earnings and feared rate hikes. Oil prices fell after President Trump discussed peace talks with Iran. Major technology firms like Microsoft and Apple will report their quarterly results this week. Investors are questioning the sustainability of the artificial intelligence rally. The Federal Reserve's monetary policy decision is due on Wednesday.",
-        "content": "Wall Street ended mixed on Monday, as investors awaited guidance from major technology companies in a busy week for quarterly earnings, while also worrying that stubbornly high oil prices could force the Federal Reserve to raise interest rates.\nMicro... [4557 chars]",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-mixed-as-investors-focus-on-tech-earnings/articleshow/132670435.cms",
-        "image": "https://img.etimg.com/thumb/msid-132670438,width-1200,height-630,imgsize-142758,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-07-27T20:01:00Z",
+        "id": "6681f06195082afa470c1bf11417b85f",
+        "title": "What happens when AI chatbots handle a mental health crisis?",
+        "description": "Artificial intelligence is transforming how we gather information and communicate with one another.It’s also changing how some people seek out mental health care. But what happens when this sophisticated technology is used to deal with serious mental health issues?For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Jason Fuller, with audio engineering by Ted Mebane and Valentina Rodriguez Sanchez. Our director is Jonas Adams.It was edited by Diane Webber and Tinbete Ermyas.Our interim executive producer is Courtney Dorning.",
+        "content": "Artificial intelligence is transforming how we gather information and communicate with one another.\nIt’s also changing how some people seek out mental health care.\nBut what happens when this sophisticated technology is used to deal with serious menta... [404 chars]",
+        "url": "https://www.npr.org/2026/07/27/nx-s1-5906805/what-happens-when-ai-chatbots-handle-a-mental-health-crisis",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2Fcd%2F4642e4504188a8956e5c849e9e88%2F569ecf70-6a3e-4464-9030-9a82931e8672.jpg",
+        "publishedAt": "2026-07-27T21:05:34Z",
         "lang": "en",
         "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
+            "id": "b41851fb2662ea502db29f71ec4d1583",
+            "name": "NPR",
+            "url": "https://www.npr.org",
+            "country": "us"
         }
     },
     {
-        "id": "5baf0f3156eb5a945ec0424697d687dc",
-        "title": "Soil carbon effectively measured by new, efficient AI model",
-        "description": "A new computer model is one of the first artificial intelligence tools to advance scientific discovery in agriculture and biogeochemistry and is 50 times more efficient than its predecessors, according to a study that offers a proof-of-principle for how AI might be used to shed light on obscure biological processes.",
-        "content": "A new computer model is one of the first artificial intelligence tools to advance scientific discovery in agriculture and biogeochemistry and is 50 times more efficient than its predecessors, according to a study that offers a proof-of-principle for ... [3191 chars]",
-        "url": "https://phys.org/news/2026-07-soil-carbon-effectively-efficient-ai.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/soil-carbon-effectivel-3.jpg",
-        "publishedAt": "2026-07-27T20:00:06Z",
+        "id": "465e87dc1e21e2097700c31aaf65822f",
+        "title": "Critical care doctor says patients' reliance on chatbots reflects deeper problems in health care",
+        "description": "In a new commentary published in Annals of Internal Medicine, Robert B. Shpiner, MD, a clinical professor of pulmonary and critical care at the David Geffen School of Medicine at UCLA, argues that the growing use of artificial intelligence chatbots for health information reflects both health system strain and a broader shift in how patients seek information.",
+        "content": "In a new commentary published in Annals of Internal Medicine, Robert B. Shpiner, MD, a clinical professor of pulmonary and critical care at the David Geffen School of Medicine at UCLA, argues that the growing use of artificial intelligence chatbots f... [999 chars]",
+        "url": "https://medicalxpress.com/news/2026-07-critical-doctor-patients-reliance-chatbots.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/chatbot-1.jpg",
+        "publishedAt": "2026-07-27T21:00:13Z",
         "lang": "en",
         "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "fbdb61e8408593b50fac3330dad6225c",
-        "title": "Politician appears to read out AI prompt during speech",
-        "description": "A Canadian politician appeared to read out an artificial intelligence (AI) prompt during a speech. Bill Oliver, Member of the Legislative Assembly of New Brunswick, told lawmakers: \"Here's a more natural, flowing version of that section that reads like a legislative speech rather than a series of short points.” The sentence appeared to be similar to output from a large language model (LLM), which is an AI tool that processes and generates text. The Independent has reached out to Mr Oliver for comment.",
-        "content": "A Canadian politician appeared to read out an artificial intelligence (AI) prompt during a speech.\nBill Oliver, Member of the Legislative Assembly of New Brunswick, told lawmakers: \"Here's a more natural, flowing version of that section that reads li... [256 chars]",
-        "url": "https://www.independent.co.uk/tv/news/canada-politician-ai-bill-oliver-b3022525.html",
-        "image": "https://cdn.jwplayer.com/v2/media/lFY6FXsX/poster.jpg?width=720",
-        "publishedAt": "2026-07-27T19:39:29Z",
-        "lang": "en",
-        "source": {
-            "id": "97497c18f5cb431f5f324b3d8643c24f",
-            "name": "The Independent",
-            "url": "https://www.independent.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "3f64f66d04dee9c472c9a11dedb36de5",
-        "title": "DIAGNOS Receives Health Canada Medical Device Licence for CARA System, Bringing AI-Assisted Retinal Image Analysis to Canadian Optometrists",
-        "description": "BROSSARD, Quebec, July 27, 2026 (GLOBE NEWSWIRE) -- Diagnos Inc. ('DIAGNOS” or the 'Corporation”) (TSX Venture: ADK, OTCQB: DGNOF, FWB: 4D4A), a Corporation dedicated to the early detection of eye-related health using Artificial Intelligence (AI) techniques, is pleased to announce that, on July 23, 2026, it has received a Health Canada Medical Device Licence authorizing the commercialization of its CARA System in Canada.",
-        "content": "BROSSARD, Quebec, July 27, 2026 (GLOBE NEWSWIRE) -- Diagnos Inc. (\"DIAGNOS” or the \"Corporation”) (TSX Venture: ADK, OTCQB: DGNOF, FWB: 4D4A), a Corporation dedicated to the early detection of eye-related health using Artificial Intelligence (AI) tec... [5361 chars]",
-        "url": "https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/diagnos-receives-health-canada-medical-device-licence-for-cara-system-bringing-ai-assisted-retinal-image-analysis-to-canadian-optometrists/2392478",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/28/1153265.png",
-        "publishedAt": "2026-07-27T19:27:50Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "cffae818ff4f78f7a8ded95cf793fabb",
-        "title": "Punjab's AI Future Begins with People",
-        "description": "Every technological revolution arrives with a familiar cycle of anticipation, anxiety and exaggerated expectation. Artificial Intelligence is no exception. Depending on",
-        "content": "Every technological revolution arrives with a familiar cycle of anticipation, anxiety and exaggerated expectation. Artificial Intelligence is no exception. Depending on whom you ask, it is either destined to solve every challenge confronting society ... [6862 chars]",
-        "url": "https://www.nation.com.pk/28-Jul-2026/punjab-s-ai-future-begins-people",
-        "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-        "publishedAt": "2026-07-27T19:09:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-            "name": "The Nation",
-            "url": "https://www.nation.com.pk",
-            "country": "pk"
-        }
-    },
-    {
-        "id": "5e0f426b14026fdc813b68f63e485554",
-        "title": "'AI evangelism' is contributing to anti-tech extremism, experts say",
-        "description": "Talk of artificial intelligence adoption as inevitable and disruptive can create a sense of desperation",
-        "content": "The rapid introduction of artificial intelligence is making it difficult for people to build resilience to its side effects, leading to a rapid rise in anti-technology extremism, experts have said.\nThe phenomenon can be found in many parts of the pol... [4089 chars]",
-        "url": "https://www.thenationalnews.com/future/technology/2026/07/27/anti-tech-extremism-ai/",
-        "image": "https://www.thenationalnews.com/resizer/v2/YUBFZILLW5JFVBTYG4DMKJBLEY.jpg?smart=true&auth=e4ff065169eba8085dd06a0f4ba9d4990bca36c4a2a4f1fb81b729ad1359bc9c&width=1200&height=630",
-        "publishedAt": "2026-07-27T19:04:24Z",
-        "lang": "en",
-        "source": {
-            "id": "075fbabce69f64ecf3c8f28c83fdd6e0",
-            "name": "The National",
-            "url": "https://www.thenationalnews.com",
-            "country": "ae"
-        }
-    },
-    {
-        "id": "276495d25263c983d8c431d04f2f40b9",
-        "title": "AI’s next test - reaching India’s informal women worker",
-        "description": "India’s journey towards Viksit Bharat by 2047 rests on whether the productivity gains unlocked by artificial intelligence are broadly shared or concentrated among those already well-served",
-        "content": "India’s journey towards Viksit Bharat by 2047 rests on whether the productivity gains unlocked by artificial intelligence (AI) are broadly shared or concentrated among those already well-served. AI is reshaping value chains across agriculture, logist... [5718 chars]",
-        "url": "https://www.thehindu.com/opinion/op-ed/ais-next-test-reaching-indias-informal-women-worker/article71273832.ece",
-        "image": "https://th-i.thgim.com/public/opinion/op-ed/z173ad/article71273857.ece/alternates/LANDSCAPE_1200/iStock-1301128368.jpg",
-        "publishedAt": "2026-07-27T18:38:00Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
-            "country": "in"
         }
     }
 ]
