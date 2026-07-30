@@ -1,5 +1,69 @@
 [
     {
+        "id": "169b1343e37ae2046f5b420c5ae43cfe",
+        "title": "Thai businesses urged to fully embed AI",
+        "description": "Adopting artificial intelligence (AI) at an enterprise level has the potential to generate 1.4 trillion baht in economic value for Thailand over five years, says Google Cloud Thailand.",
+        "content": "Adopting artificial intelligence (AI) at an enterprise level has the potential to generate 1.4 trillion baht in economic value for Thailand over five years, says Google Cloud Thailand.\n\"Rather than focusing on standalone AI tools, companies need to e... [3933 chars]",
+        "url": "https://www.bangkokpost.com/business/general/3293824/thai-businesses-urged-to-fully-embed-ai",
+        "image": "https://static.bangkokpost.com/media/content/dcx/2026/07/30/6171644_700.jpeg",
+        "publishedAt": "2026-07-30T00:06:00Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
+        "id": "1021056b46467063785d7a20d58a1848",
+        "title": "U.S. wants Asia to use its AI, but China dominates cheaper models",
+        "description": "The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.",
+        "content": "Evelyn Cheng | CNBC\nBEIJING — The artificial intelligence race between the U.S. and China is heating up in the world's largest continent: Asia.\n\"The American strategy is to stop China from becoming the leading AI supplier for the rest of Asia ... and... [5622 chars]",
+        "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108341546-1785309418092-20260723_114149.jpg?v=1785309878&w=1920&h=1080",
+        "publishedAt": "2026-07-29T23:10:46Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "501da5628a6207a50a43cdcaa0de3bb9",
+        "title": "Renewable Energy Growth Trails Data Center Demand, Analysts Say",
+        "description": "The rapid expansion of artificial intelligence computing and data centers is driving electricity demand at a pace that renewable energy generation has not matched, according to multiple industry reports and grid operator data. Analysts project that U.S. data center electricity consumption could more than double by 2030, while wind and solar capacity additions struggle to […]",
+        "content": "The rapid expansion of artificial intelligence computing and data centers is driving electricity demand at a pace that renewable energy generation has not matched, according to multiple industry reports and grid operator data. Analysts project that U... [8879 chars]",
+        "url": "https://www.naturalnews.com/2026-07-29-renewable-energy-growth-trails-data-service-demand.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/renewable-energy-data-centers-electricity-demand-2979-original.jpg",
+        "publishedAt": "2026-07-29T22:46:09Z",
+        "lang": "en",
+        "source": {
+            "id": "188e9ebf53d05fc7ba360240a0b28154",
+            "name": "Natural News",
+            "url": "https://www.naturalnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "cef2b5ed725810381dc4c41b666e6e54",
+        "title": "OpenAI says rogue AI agent attack hit other companies",
+        "description": "SAN FRANCISCO — ChatGPT maker OpenAI has revealed that an autonomous artificial intelligence agent which hacked a popular platform for computer programmers also attempted to breach four other companies during the incident.",
+        "content": "SAN FRANCISCO — ChatGPT maker OpenAI has revealed that an autonomous artificial intelligence agent which hacked a popular platform for computer programmers also attempted to breach four other companies during the incident.\nIn an update late Tuesday t... [3220 chars]",
+        "url": "https://www.manilatimes.net/2026/07/30/business/sunday-business-it/openai-says-rogue-ai-agent-attack-hit-other-companies/2394520",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/30/1156874.jpg",
+        "publishedAt": "2026-07-29T22:32:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "f98a08f1cda79fe2b584ef7b13674788",
         "title": "Missouri Senate candidate goes on attack with AI ads",
         "description": "COLUMBIA, Mo. (KMIZ) Political campaigns, like Republican state Senate candidate Rudy Veit's, are using artificial intelligence in their political advertisements to get their message across and/or to disparage opponents. This week, Veit's campaign launched advertisements using AI against another candidate, Jake Vogel. Both men are seeking the Republican nomination in Missouri's Senate District 6, where",
@@ -93,70 +157,6 @@
             "name": "WJLA",
             "url": "https://wjla.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "0faa9fec0e4798808eb139f46e000ff1",
-        "title": "Microsoft Increases Spending on A.I. as Profit Jumps 31.6%",
-        "description": "Like other big technology companies, Microsoft is hoping its aggressive spending on artificial intelligence is starting to translate into revenue.",
-        "content": "Microsoft’s spending on artificial intelligence is still going up, even as questions swirl about whether returns justify the cost.\nOn Wednesday, the company said it spent $41 billion on capital expenditures, including data centers, in the three month... [2823 chars]",
-        "url": "https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html",
-        "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29biz-microsoft1-vmcl/29biz-microsoft1-vmcl-facebookJumbo.jpg",
-        "publishedAt": "2026-07-29T20:34:10Z",
-        "lang": "en",
-        "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "fe04bf2296402ed3b7bbdb5e0eb3e6e0",
-        "title": "Meta’s Profit Falls 14 Percent as A.I. Spending Continues",
-        "description": "The Silicon Valley company’s costs rose more steeply than revenue growth, as it continues to invest heavily in artificial intelligence.",
-        "content": "Meta has bet big on artificial intelligence. On Wednesday, it said that bet would not let up.\nThe Silicon Valley company, which owns Facebook, Instagram and WhatsApp, increased the lower end of its capital expenditure forecast for the year to at leas... [2090 chars]",
-        "url": "https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html",
-        "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29biz-meta-earnings-lpzq/29biz-meta-earnings-lpzq-facebookJumbo.jpg",
-        "publishedAt": "2026-07-29T20:31:46Z",
-        "lang": "en",
-        "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "acde5eb738bea71a259b373a1b151f22",
-        "title": "Trump Administration Eyes AI Controls After OpenAI Incident",
-        "description": "President Donald Trump announced his administration is considering implementing controls on artificial intelligence. This comes after OpenAI reported an incident involving a rogue AI system. OpenAI CEO Sam Altman met with U.S. senators to discuss upcoming AI models amid growing regulatory interest.",
-        "content": "President Donald Trump revealed that his administration is examining potential controls on artificial intelligence, especially in light of a recent incident where an AI system went rogue. During a press briefing on Wednesday, Trump emphasized the imp... [642 chars]",
-        "url": "https://www.devdiscourse.com/article/technology/3956912-trump-administration-eyes-ai-controls-after-openai-incident",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_05_2025_20_28_53_3406583.png&width=920&format=jpeg",
-        "publishedAt": "2026-07-29T19:44:43Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a974862071c53180139754df2ee7d075",
-        "title": "Strathroy mayor opposes rezoning that could allow data centre",
-        "description": "Data centres have become a hot-button issue across Ontario as demand for artificial intelligence grows.",
-        "content": "Article content\nSTRATHROY – Citing too many “unknowns,” Strathroy-Caradoc’s mayor says he opposes a rezoning application in the town’s north end that would expand a property’s permitted uses to include a data centre, among other changes.\nTHIS CONTENT... [4731 chars]",
-        "url": "https://lfpress.com/news/local-news/strathroy-mayor-opposes-rezoning-that-could-allow-data-centre",
-        "image": "https://smartcdn.gprod.postmedia.digital/lfpress/wp-content/uploads/2026/01/0612-sd-strathroy.SD_-1.jpg",
-        "publishedAt": "2026-07-29T19:16:39Z",
-        "lang": "en",
-        "source": {
-            "id": "8c6e9834b8fccfc4c516038dbb543005",
-            "name": "The London Free Press",
-            "url": "https://lfpress.com",
-            "country": "gb"
         }
     }
 ]
