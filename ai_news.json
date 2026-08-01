@@ -1,5 +1,37 @@
 [
     {
+        "id": "8ad4a1dc353b3979ea1de2ef35864101",
+        "title": "AI-powered blood test detects liver cancer across distinct populations",
+        "description": "Researchers at the Johns Hopkins Kimmel Cancer Center validated an artificial intelligence (AI)-powered blood test that accurately detected liver cancer in people from two geographically and biologically distinct populations and also uncovered the underlying biological signals that make the test effective.",
+        "content": "Researchers at the Johns Hopkins Kimmel Cancer Center validated an artificial intelligence (AI)-powered blood test that accurately detected liver cancer in people from two geographically and biologically distinct populations and also uncovered the un... [5837 chars]",
+        "url": "https://www.news-medical.net/news/20260731/AI-powered-blood-test-detects-liver-cancer-across-distinct-populations.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+        "publishedAt": "2026-08-01T02:42:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "b5f27f420c7f3013ff5c9b1a6a1ba6a7",
+        "title": "Deepfake labels, model inspections and massive fines: The EU’s AI Act explained",
+        "description": "BRUSSELS, Aug 1 — The European Union will from tomorrow have the power to enforce landmark artificial intelligence rules and hit any companies breaking the law with fines.The EU...",
+        "content": "BRUSSELS, Aug 1 — The European Union will from tomorrow have the power to enforce landmark artificial intelligence rules and hit any companies breaking the law with fines.\nThe EU has the world’s most comprehensive digital rulebook covering social med... [3030 chars]",
+        "url": "https://www.malaymail.com/news/tech-gadgets/2026/08/01/deepfake-labels-model-inspections-and-massive-fines-the-eus-ai-act-explained/229815",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/01/354944.jpg",
+        "publishedAt": "2026-08-01T01:44:32Z",
+        "lang": "en",
+        "source": {
+            "id": "cc589abcee543815a82a8b2856ebe9ed",
+            "name": "Malay Mail",
+            "url": "https://www.malaymail.com",
+            "country": "my"
+        }
+    },
+    {
         "id": "8a6fd195ea2c0931a0c3f79302b7dcfd",
         "title": "Cybersecurity expert has AI 'turd tornado' warning after uncovering celebrity data breach",
         "description": "Artificial Intelligence has 'given cybercriminals steroids'",
@@ -124,38 +156,6 @@
             "id": "b270331faaf20dc58f78e3a4fb5c2faf",
             "name": "NewsBreak",
             "url": "https://www.newsbreak.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1edca4e4a7718d0d61cf0904251c0240",
-        "title": "Judge denies X.AI request to block Minnesota’s AI nudification ban",
-        "description": "SAINT PAUL, M.N. (KFGO) – A court has rejected a request by tech company X.AI to block Minnesota’s first-in-the-nation ban on artificial intelligence",
-        "content": "SAINT PAUL, M.N. (KFGO) – A court has rejected a request by tech company X.AI to block Minnesota’s first-in-the-nation ban on artificial intelligence nudification software, clearing the way for the law to take effect Saturday as scheduled.\nThe court ... [1587 chars]",
-        "url": "https://www.europesays.com/3166146/",
-        "image": "https://www.europesays.com/wp-content/uploads/2025/04/eu-1200x1200-1.png",
-        "publishedAt": "2026-07-31T22:12:35Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3335b65f3042cdb55af9a7f6382ea406",
-        "title": "Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down.",
-        "description": "Situational Awareness, led by a 24-year-old, exploded onto the artificial intelligence scene — and then nose-dived.",
-        "content": "Last year, Leopold Aschenbrenner, a man barely of legal drinking age with a fondness for Rubik’s Cubes, crisscrossed the nation to raise money for his high-flying hedge fund.\nAn ex-researcher at OpenAI, who departed there in a cloud of controversy an... [1226 chars]",
-        "url": "https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html",
-        "image": "https://static01.nyt.com/images/2026/07/31/multimedia/Biz-Situational-Awareness-twfz/Biz-Situational-Awareness-twfz-facebookJumbo.jpg",
-        "publishedAt": "2026-07-31T21:28:40Z",
-        "lang": "en",
-        "source": {
-            "id": "e553cce06d349ac1f7fbb7618a979256",
-            "name": "The New York Times",
-            "url": "https://www.nytimes.com",
             "country": "us"
         }
     }
