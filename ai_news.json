@@ -1,5 +1,21 @@
 [
     {
+        "id": "9d79a9fc31b6c8b3c0db30b7037057a1",
+        "title": "Indian Missions lean on AI-enabled videos to serve diaspora better",
+        "description": "Officials say, “The initiative seeks to educate and assist the diaspora in the region by leveraging artificial intelligence and modern digital communication tools.”",
+        "content": "Officials say, “The initiative seeks to educate and assist the diaspora in the region by leveraging artificial intelligence and modern digital communication tools.”\nIndicating that this is what advisories for Indians abroad would look like in the fut... [2854 chars]",
+        "url": "https://indianexpress.com/article/india/indian-missions-lean-on-ai-enabled-videos-to-serve-diaspora-better-10814066/",
+        "image": "https://images.indianexpress.com/2026/08/US_968e3c_20260802005345.jpg",
+        "publishedAt": "2026-08-02T00:54:08Z",
+        "lang": "en",
+        "source": {
+            "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "3f7d91e7d52545d6bef7224698383c2e",
         "title": "backed bill would require AI data centers to supply their own energy and water",
         "description": "A proposal from U.S. Rep. Byron Donalds, a Florida Republican, could reshape how the rapidly growing artificial intelligence industry develops new data",
@@ -141,22 +157,6 @@
             "name": "Anchorage Daily News",
             "url": "https://www.adn.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "da40d0a17f6250518bb95d69d25e65a1",
-        "title": "Maharashtra Cyber Police Register FIR Over AI-Generated Video Allegedly Targeting Central Government",
-        "description": "The complainant alleged that the video was generated using artificial intelligence (AI) and falsely depicted a Delhi Police officer making the statements. He further stated that the Press Information Bureau (PIB) had examined the video and declared it to be fake.",
-        "content": "The Maharashtra Cyber Police have registered an FIR against an unidentified individual for allegedly uploading an AI-generated video containing misleading content about the Central Government. The video was allegedly uploaded through the X handle @Bh... [1445 chars]",
-        "url": "https://www.freepressjournal.in/mumbai/maharashtra-cyber-police-register-fir-over-ai-generated-video-allegedly-targeting-central-government",
-        "image": "https://media.assettype.com/freepressjournal/2026-08-01/8uqi1fe6/ChatGPT-Image-Aug-1-2026-094248-PM.png",
-        "publishedAt": "2026-08-01T16:13:15Z",
-        "lang": "en",
-        "source": {
-            "id": "7eeaf9a839918543cc708f2d331c3be4",
-            "name": "Free Press Journal",
-            "url": "https://www.freepressjournal.in",
-            "country": "in"
         }
     }
 ]
