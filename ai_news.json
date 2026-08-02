@@ -1,5 +1,37 @@
 [
     {
+        "id": "8af7a480cf74ab13730f0bbfd7ab70db",
+        "title": "After layoffs in AGI division, shutdown of Lab, Amazon is reorganizing teams and refocusing its AI strategy",
+        "description": "Tech News News: Amazon is shaking things up in its artificial intelligence (AI) division. Those changes include winding down a number of flagship in-house models, clo.",
+        "content": "Amazon changing AI strategy, says report.\nAmazon is shaking things up in its artificial intelligence (AI) division. Those changes include winding down a number of flagship in-house models, closing down specialized research groups, and consolidating i... [3003 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-layoffs-in-agi-division-shutdown-of-lab-amazon-is-reorganizing-teams-and-refocusing-its-ai-strategy/articleshow/132796645.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132796640,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-02T02:41:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "6273be02613fee3264531011ccd710d6",
+        "title": "When AI hacks you, who gets sued?",
+        "description": "NEW YORK, Aug 2 — Recent cyberattacks carried out autonomously by two rogue OpenAI artificial intelligence models raises an untested legal question: who is responsible when AI...",
+        "content": "NEW YORK, Aug 2 — Recent cyberattacks carried out autonomously by two rogue OpenAI artificial intelligence models raises an untested legal question: who is responsible when AI acts on its own?\nOn Friday, Clement Delangue, head of the Hugging Face pla... [2834 chars]",
+        "url": "https://www.malaymail.com/news/tech-gadgets/2026/08/02/when-ai-hacks-you-who-gets-sued/229929",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/02/355081.jpg",
+        "publishedAt": "2026-08-02T01:26:16Z",
+        "lang": "en",
+        "source": {
+            "id": "cc589abcee543815a82a8b2856ebe9ed",
+            "name": "Malay Mail",
+            "url": "https://www.malaymail.com",
+            "country": "my"
+        }
+    },
+    {
         "id": "9d79a9fc31b6c8b3c0db30b7037057a1",
         "title": "Indian Missions lean on AI-enabled videos to serve diaspora better",
         "description": "Officials say, “The initiative seeks to educate and assist the diaspora in the region by leveraging artificial intelligence and modern digital communication tools.”",
@@ -125,38 +157,6 @@
             "name": "Toronto Sun",
             "url": "https://torontosun.com",
             "country": "ca"
-        }
-    },
-    {
-        "id": "27c2d4a551d2a498f2f07c0586fedad4",
-        "title": "Poll: Majority of Americans Distrust AI in Workplace, Cite Job Security Concerns",
-        "description": "A Gallup survey released in April 2026 found that more than half of Generation Z Americans express distrust toward the use of artificial intelligence in the workplace, with job security cited as a primary concern. According to the poll, many young Americans use AI regularly but their skepticism and resentment toward the technology are growing […]",
-        "content": "A Gallup survey released in April 2026 found that more than half of Generation Z Americans express distrust toward the use of artificial intelligence in the workplace, with job security cited as a primary concern. According to the poll, many young Am... [4459 chars]",
-        "url": "https://www.naturalnews.com/2026-08-01-majority-of-americans-distrust-ai-in-workplace.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/ai-workplace-distrust-job-security-concerns-job-displacement-3060-original.jpg",
-        "publishedAt": "2026-08-01T16:50:38Z",
-        "lang": "en",
-        "source": {
-            "id": "188e9ebf53d05fc7ba360240a0b28154",
-            "name": "Natural News",
-            "url": "https://www.naturalnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "bd7511613f770709d522882db099d56a",
-        "title": "Opinion: How a $100K campaign donation complicated the future of AI and Alaska",
-        "description": "As the state begins considering rules for artificial intelligence, major campaign contributions raise questions about access and influence.",
-        "content": "I got to know Jonathan Kreiss-Tomkins, or JKT, about seven years ago as a student at the Outer Coast Summer Seminar in Sitka — a program he spent years developing around the idea that people should have a voice and help shape the rules of their commu... [4747 chars]",
-        "url": "https://www.adn.com/opinions/2026/08/01/opinion-how-a-100k-campaign-donation-complicated-the-future-of-ai-and-alaska/",
-        "image": "https://www.adn.com/resizer/v2/5WHGYCQEIFAFPGFW5TITOD6JYI.jpg?smart=true&auth=06745000dd583437d7fb1b1cad750a5a73cac3a0cc935104a911abb19f1d893a&width=1200&height=630",
-        "publishedAt": "2026-08-01T16:28:23Z",
-        "lang": "en",
-        "source": {
-            "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-            "name": "Anchorage Daily News",
-            "url": "https://www.adn.com",
-            "country": "us"
         }
     }
 ]
