@@ -1,5 +1,37 @@
 [
     {
+        "id": "b344cc4148da8a6b10cabea4ec3b9328",
+        "title": "Launching a bid for AI sovereignty",
+        "description": "Thailand is advancing artificial intelligence (AI) sovereignty through domestic large language models (LLM) such as ThaiLLM, led by the Big Data Institute (BDI) and its partners.",
+        "content": "Thailand is advancing artificial intelligence (AI) sovereignty through domestic large language models (LLM) such as ThaiLLM, led by the Big Data Institute (BDI) and its partners.\nThe initiative aims to reduce reliance on foreign technology while ensu... [7398 chars]",
+        "url": "https://www.bangkokpost.com/business/general/3295694/launching-a-bid-for-ai-sovereignty",
+        "image": "https://static.bangkokpost.com/media/content/20260803/c1_3295694_260803053242_700.jpg",
+        "publishedAt": "2026-08-02T22:31:00Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
+        "id": "42badb90568646c20d900a1a1655717f",
+        "title": "Why I rate these ASX ETFs as buys in August",
+        "description": "Global X Artificial Intelligence ETF (ASX: GXAI) and Global X FANG+ ETF (ASX: FANG) are two targeted ETF buys for August.",
+        "content": "The new month is underway, and I think there are some exciting exchange-traded funds (ETFs) available to investors looking beyond the usual broad market options.\nThe three funds below take very different approaches to finding growth.\nHere is why I ra... [3349 chars]",
+        "url": "https://www.fool.com.au/2026/08/03/why-i-rate-these-asx-etfs-as-buys-in-august/",
+        "image": "https://www.fool.com.au/wp-content/uploads/2021/07/Group-of-people-cheer-around-laptops-in-office-1200x675.jpg",
+        "publishedAt": "2026-08-02T21:35:50Z",
+        "lang": "en",
+        "source": {
+            "id": "c6075ba0dc9d123bb327faaa419d3d07",
+            "name": "The Motley Fool Australia",
+            "url": "https://www.fool.com.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "fa38fde8e467bff45e915e8de71e5e62",
         "title": "CEO of AI firm Hugging Face calls last month's hack by OpenAI model \"very weird and unprecedented\"",
         "description": "An artificial intelligence model that was being tested by OpenAI went rogue and hacked the firm Hugging Face on its own, in what Hugging Face CEO Clément Delangue called a \"very weird and unprecedented\" incident.",
@@ -124,38 +156,6 @@
             "id": "b270331faaf20dc58f78e3a4fb5c2faf",
             "name": "NewsBreak",
             "url": "https://www.newsbreak.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "fe73ae4fa157e0debfc983d39c2b1933",
-        "title": "Investors’ questions on SpaceX go beyond moon",
-        "description": "SPACEX’S first earnings call as a public company may be expected to focus on artificial intelligence (AI) spending and profits from its Starlink satellite communications network, but many retail investors have other things on their minds.",
-        "content": "SPACEX’S first earnings call as a public company may be expected to focus on artificial intelligence (AI) spending and profits from its Starlink satellite communications network, but many retail investors have other things on their minds.\nTaking a pa... [2818 chars]",
-        "url": "https://www.manilatimes.net/2026/08/03/business/foreign-business/investors-questions-on-spacex-go-beyond-moon/2396544",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/02/1160775.jpg",
-        "publishedAt": "2026-08-02T16:01:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "e625bb357d59bf9058992427c7cd4f21",
-        "title": "AI-assisted staging draws boos at famed Wagner festival in Germany",
-        "description": "An experiment with artificial intelligence at the annual Richard Wagner festival in Bayreuth draws boos from the audience after producing a staging that appeared to leave some spectators confused.",
-        "content": "An experiment with artificial intelligence at the famed annual Richard Wagner festival in the southeastern German town of Bayreuth drew boos from the audience after producing a staging that appeared to leave some spectators confused.\nCurator Marcus L... [1212 chars]",
-        "url": "https://www.latimes.com/world-nation/story/2026-08-02/ai-assisted-staging-draws-boos-at-famed-wagner-festival-in-germany",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/bd6eb97/2147483647/strip/true/crop/3806x1998+70+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd7%2F24%2F65288b314e89ba164daf603e242a%2F51737919960249ccbddccf53ba10bee1.jpg",
-        "publishedAt": "2026-08-02T15:34:41Z",
-        "lang": "en",
-        "source": {
-            "id": "492abf277b7277432148b61b21ddc836",
-            "name": "Los Angeles Times",
-            "url": "https://www.latimes.com",
             "country": "us"
         }
     }
