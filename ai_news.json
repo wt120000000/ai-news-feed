@@ -1,5 +1,85 @@
 [
     {
+        "id": "20bc8cc76053679ee73d1691a319e858",
+        "title": "OpenAI CEO goes viral for more strange ChatGPT parenting advice",
+        "description": "It's not the first time Sam Altman has caught backlash for making comments on artificial intelligence and parenting.",
+        "content": "Over the weekend, OpenAI CEO Sam Altman caught flak online for suggesting a new use for ChatGPT: getting to know your kids.\nIn a post on X on Friday, Altman wrote that he heard of a new “cool use case” where users explain their kids' interests to Cha... [2204 chars]",
+        "url": "https://www.sfgate.com/tech/article/chatgpt-parenting-advice-22372408.php",
+        "image": "https://s.hdnux.com/photos/01/66/77/05/31191415/3/rawImage.jpg",
+        "publishedAt": "2026-08-03T21:47:39Z",
+        "lang": "en",
+        "source": {
+            "id": "384b3c633f1aa3e0a1bcb208f94d519d",
+            "name": "SFGATE",
+            "url": "https://www.sfgate.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d6e3f335d09a085219e7f1b93e6e989d",
+        "title": "OpenAI CEO goes viral for strange ChatGPT parenting advice",
+        "description": "It's not the first time Sam Altman has caught backlash for making comments on artificial intelligence and parenting.",
+        "content": "Over the weekend, OpenAI CEO Sam Altman caught flak online for suggesting a new use for ChatGPT: getting to know your kids.\nIn a post on X on Friday, Altman wrote that he heard of a new “cool use case” where users explain their kids' interests to Cha... [2204 chars]",
+        "url": "https://www.sfgate.com/tech/article/sam-altman-ai-parenting-22372408.php",
+        "image": "https://s.hdnux.com/photos/01/66/77/05/31191415/3/rawImage.jpg",
+        "publishedAt": "2026-08-03T21:47:39Z",
+        "lang": "en",
+        "source": {
+            "id": "384b3c633f1aa3e0a1bcb208f94d519d",
+            "name": "SFGATE",
+            "url": "https://www.sfgate.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "6541156b52fff158437df2c6c89d269e",
+        "title": "Sam Altman Tells Parents to Use ChatGPT to Connect With Family and Gets Roasted: ‘What If You Just Talked",
+        "description": "The rise of artificial intelligence companies, like OpenAI, has led to more use cases for consumers and companies. When it comes to AI replacing parents, it’s not quite there yet, as OpenAI co-founder and CEO Sam Altman",
+        "content": "The rise of artificial intelligence companies, like OpenAI, has led to more use cases for consumers and companies. When it comes to AI replacing parents, it’s not quite there yet, as OpenAI co-founder and CEO Sam Altman quickly learned on social medi... [3203 chars]",
+        "url": "https://www.benzinga.com/markets/tech/26/08/60892663/sam-altman-tells-parents-to-use-chatgpt-to-connect-with-family-and-gets-roasted-what-if-you-just-talked-to-your-children",
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/03/Openai-Ceo-Sam-Altman-Attends-The-Artifi.jpg",
+        "publishedAt": "2026-08-03T21:10:53Z",
+        "lang": "en",
+        "source": {
+            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "43481b3c26daa17deacc7a6a9c54bbf4",
+        "title": "AI-enabled measurements of 'local brain aging' offer detailed insights on dementia and more",
+        "description": "USC researchers have developed an approach that uses artificial intelligence to generate detailed maps that highlight differences in how distinct parts of the brain age. The new model also sheds light on how patterns of brain changes correlate with changes in cognitive function across the lifespan, according to a new USC study published in the journal Proceedings of the National Academy of Sciences.",
+        "content": "USC researchers have developed an approach that uses artificial intelligence to generate detailed maps that highlight differences in how distinct parts of the brain age. The new model also sheds light on how patterns of brain changes correlate with c... [5486 chars]",
+        "url": "https://medicalxpress.com/news/2026-08-ai-enabled-local-brain-aging.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-enabled-measurement.jpg",
+        "publishedAt": "2026-08-03T21:00:06Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "00306b9459e3f76d73a8d069e1144d11",
+        "title": "New AI model generates detailed maps of aging in brain regions",
+        "description": "USC researchers have developed an approach that uses artificial intelligence to generate detailed maps that highlight differences in how distinct parts of the brain age.",
+        "content": "USC researchers have developed an approach that uses artificial intelligence to generate detailed maps that highlight differences in how distinct parts of the brain age. The new model also sheds light on how patterns of brain changes correlate with c... [5562 chars]",
+        "url": "https://www.news-medical.net/news/20260803/New-AI-model-generates-detailed-maps-of-aging-in-brain-regions.aspx",
+        "image": "https://www.news-medical.net/images/tags/TagImage-1241-45296008423622681466-620x480.jpg",
+        "publishedAt": "2026-08-03T20:41:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "ccd443d365a7b7604cb6b6f9a1dbbba1",
         "title": "The updated list of Trump ownership stakes in private companies",
         "description": "The administration has justified its ventures into business ownership as necessary for national security and to compete in artificial intelligence.",
@@ -77,86 +157,6 @@
             "name": "The Hindu",
             "url": "https://www.thehindu.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "f42a4d6ceda83497e9a8acee6f236f2e",
-        "title": "Anthropic, OpenAI Face New EU AI Crackdown as Regulators Gain Enforcement Power",
-        "description": "The European Commission has expanded its authority to oversee the world’s most advanced artificial intelligence systems.",
-        "content": "The European Commission has expanded its authority to oversee the world’s most advanced artificial intelligence systems, giving regulators new powers to scrutinize general-purpose AI models before they are released across the European Union.\nThe new ... [2374 chars]",
-        "url": "https://www.benzinga.com/markets/private-markets/26/08/60885037/anthropic-openai-face-new-eu-ai-crackdown-as-regulators-gain-enforcement-power",
-        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/03/Creative-Ai-Background-With-Forex-Chart-.jpg",
-        "publishedAt": "2026-08-03T18:39:07Z",
-        "lang": "en",
-        "source": {
-            "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-            "name": "Benzinga",
-            "url": "https://www.benzinga.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "4282aa1c88e56b9a74ac73b0c2f8ac11",
-        "title": "Citadel Securities Sees a $500 Billion Chip Financing Debt Binge",
-        "description": "The credit markets may have had their fill of record borrowing for data centers, but tech companies aren’t done yet. Citadel Securities LLC is forecasting another $500 billion-plus of debt in the public and private markets by 2028 to bankroll the chips that go inside the artificial intelligence campuses.",
-        "content": "(Bloomberg) -- The credit markets may have had their fill of record borrowing for data centers, but tech companies aren’t done yet. Citadel Securities LLC is forecasting another $500 billion-plus of debt in the public and private markets by 2028 to b... [2723 chars]",
-        "url": "https://www.livemint.com/companies/citadel-securities-sees-a-500-billion-chip-financing-debt-binge-11785781970858.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
-        "publishedAt": "2026-08-03T18:32:50Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "5876c2860202571622357d371bf0c864",
-        "title": "EU enforces mandatory labelling of AI",
-        "description": "Under the new rules, companies operating AI systems, such as chatbots, must inform users that they are interacting with artificial intelligence. Text, images and other content generated using AI must also carry clear labels, which may include watermarks or other markers to facilitate identification.",
-        "content": "Synopsis\nUnder the new rules, companies operating AI systems, such as chatbots, must inform users that they are interacting with artificial intelligence. Text, images and other content generated using AI must also carry clear labels, which may includ... [1445 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-enforces-mandatory-labelling-of-ai-generated-content/articleshow/132839361.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-122820,resizemode-75,msid-132839361/tech/artificial-intelligence/eu-enforces-mandatory-labelling-of-ai-generated-content.jpg",
-        "publishedAt": "2026-08-03T18:10:03Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d169993efc7845d22055d901c2df8336",
-        "title": "Can India beat US-China in AI dominance? Sarvam CEO, Peak XV make the case for India’s AI moment",
-        "description": "India has entered a new phase in artificial intelligence, with industry leaders saying 2026 marks the country's real entry into the global AI race. Rajan Anandan and Sarvam AI CEO Pratyush Kumar said that India's talent, growing demand and focus on affordable AI models could help it build globally competitive AI companies despite the current dominance of the US and China.",
-        "content": "“India is early in the AI game. 2026 is the year India entered the AI game,” Anandan said, adding that while global capital continues to favour markets with dedicated AI companies, India’s private innovation ecosystem tells a very different story.\nTh... [4840 chars]",
-        "url": "https://www.financialexpress.com/life/technology/can-india-beat-us-china-in-ai-dominance-sarvam-ceo-peak-xv-make-the-case-for-indias-ai-moment/4309795/",
-        "image": "https://images.financialexpressdigital.com/2026/08/Rajan_event_live_live.jpg",
-        "publishedAt": "2026-08-03T18:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6990b3589689630b8410224b245e5cbe",
-        "title": "TikTok rolls out Dreamina Seedance 2.5",
-        "description": "The newest artificial intelligence video generation model is designed to allow for advanced storytelling and longer clips.",
-        "content": "This audio is auto-generated. Please let us know if you have feedback.\nTikTok is giving advertisers expanded capacity to use artificial intelligence to generate video ads. The app has integrated the latest AI model from parent company ByteDance in or... [2208 chars]",
-        "url": "https://www.socialmediatoday.com/news/tiktok-rolls-out-dreamina-seedance-25/826905/",
-        "image": "https://imgproxy.divecdn.com/08DCKhOeYHjEZAICOPm9-1WUMlFIK46gcwvziNvfYVA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfZHJlYW1pbmFfMi41LnBuZw==.webp",
-        "publishedAt": "2026-08-03T17:36:14Z",
-        "lang": "en",
-        "source": {
-            "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-            "name": "Social Media Today",
-            "url": "https://www.socialmediatoday.com",
-            "country": "us"
         }
     }
 ]
