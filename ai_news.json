@@ -1,5 +1,21 @@
 [
     {
+        "id": "c6d929bedb92406b48b8f82800330a53",
+        "title": "Scientists use AI to create viruses never seen in nature",
+        "description": "US researchers have successfully used Artificial Intelligence to design fully functional, replicating viruses, marking the first instance of AI-created whole genomes.",
+        "content": "The AI models, Evo1 and Evo2, were trained on genetic codes from various life forms including viruses, bacteria, plants, and humans.\nThey were then fine-tuned to create a specific type of virus called bacteriophage which only infects certain species ... [1025 chars]",
+        "url": "https://www.newsbytesapp.com/news/science/scientists-use-ai-to-create-viruses-never-seen-in-nature/story",
+        "image": "https://i.cdn.newsbytesapp.com/images/l1620260807103543.jpeg",
+        "publishedAt": "2026-08-07T05:06:04Z",
+        "lang": "en",
+        "source": {
+            "id": "eba2f6a49db29efc8343807ba675665f",
+            "name": "NewsBytes",
+            "url": "https://www.newsbytesapp.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "fb698e78ab467ae2004cc33af83ceb64",
         "title": "Stanford researchers create viruses not found in nature using genomes designed by artificial intelligence",
         "description": "Researchers from Stanford University have synthesised brand-new, self-replicating viruses using genomes designed by artificial intelligence for the first time, raising the possibility of significant medical advancements but also prompting concerns the technology could be misused.",
@@ -140,22 +156,6 @@
             "id": "2f5884e252590f739df55c0e7db375df",
             "name": "WJLA",
             "url": "https://wjla.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "958484ff8e12de776bf37bf714f16b7a",
-        "title": "'Significant risk': AI expert calls for legislation to address security breaches",
-        "description": "Artificial intelligence companies revealed that advanced models of their software breached real companies during testing.",
-        "content": "Artificial intelligence companies revealed that advanced models of their software breached real companies during testing. The hacks pose safety concerns and the White House is in talks with companies such as Anthropic, Google, OpenAI and Meta to disc... [1487 chars]",
-        "url": "https://foxbaltimore.com/news/nation-world/significant-risk-ai-expert-calls-for-legislation-to-address-security-breaches-white-house-anthropic-google-open-ai-meta",
-        "image": "https://foxbaltimore.com/resources/media2/16x9/4479/1320/0x234/90/1f77769f-4022-43b9-b035-a98d3d08c9f3-GettyImages22881819444.jpg",
-        "publishedAt": "2026-08-07T00:23:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9f53afb019d44feb16bcc7da150e679a",
-            "name": "Baltimore News",
-            "url": "https://foxbaltimore.com",
             "country": "us"
         }
     }
