@@ -1,5 +1,37 @@
 [
     {
+        "id": "ed849a64301f0fc363f4524eba447f49",
+        "title": "AI detects multiple heart failure types from routine ECGs",
+        "description": "A new study led by researchers at Wake Forest University School of Medicine has found that artificial intelligence (AI) can help clinicians identify signs of heart failure, including a type that is often missed in routine care.",
+        "content": "A new study led by researchers at Wake Forest University School of Medicine has found that artificial intelligence (AI) can help clinicians identify signs of heart failure, including a type that is often missed in routine care. The AI model also perf... [4119 chars]",
+        "url": "https://www.news-medical.net/news/20260806/AI-detects-multiple-heart-failure-types-from-routine-ECGs.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg",
+        "publishedAt": "2026-08-07T02:43:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "3caa085fba4fffd7ac82f1582fcf35e1",
+        "title": "This AI just created viruses not found in nature",
+        "description": "Scientists trained artificial intelligence on libraries of DNA and then asked the model to create recipes for viral genomes. Sixteen of them were viable,...",
+        "content": "For the first time, scientists have used artificial intelligence to create new kinds of viruses, raising hopes for medical advances while also raising the disturbing possibility that the technology could someday be used to invent dangerous pathogens.... [7406 chars]",
+        "url": "https://www.nzherald.co.nz/business/this-ai-just-created-viruses-not-found-in-nature/premium/YXJWWI7PMNFY3AQQ4PEHOJIL2Y/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/R4XQ6BUDQJDDFMWRCNBWIZUHAI.jpg?auth=1727156805e9d74d0959f0856f0ee5e2d347e7ad8cdfc3906bf4e50aee21f80a&width=1200&height=675&quality=70&focal=703%2C468&smart=false",
+        "publishedAt": "2026-08-07T01:12:11Z",
+        "lang": "en",
+        "source": {
+            "id": "321f3fa90dde0946a7b4a17731c0314d",
+            "name": "The New Zealand Herald",
+            "url": "https://www.nzherald.co.nz",
+            "country": "nz"
+        }
+    },
+    {
         "id": "f8624da4c00268d247cff43366635208",
         "title": "AI risks require tougher cyber defences, top US officials warn",
         "description": "The US government's top information security official warned that computer systems nationwide need to bolster their defences to meet the growing threat of cyberattacks powered by artificial intelligence.",
@@ -125,38 +157,6 @@
             "name": "ABC17News.com",
             "url": "https://abc17news.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "6e4056556dd8285f20c5efa204262cc9",
-        "title": "AI for homework-parents more willing to pay subscriptions for their children as peer pressure rises",
-        "description": "Many parents have mixed feelings about the unrestricted use of artificial intelligence (AI) for schoolwork. They are concerned about the potential impact on their child's ability to learn but also don't want them to be left behind if other young people are using AI.",
-        "content": "Many parents have mixed feelings about the unrestricted use of artificial intelligence (AI) for schoolwork. They are concerned about the potential impact on their child's ability to learn but also don't want them to be left behind if other young peop... [2509 chars]",
-        "url": "https://phys.org/news/2026-08-ai-homework-parents-pay-subscriptions.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/the-more-childrens-pee.jpg",
-        "publishedAt": "2026-08-06T23:40:01Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "9e360c34d19662d612b7cb7b7cc65049",
-        "title": "Furious pace of AI investment on some Fed officials' radar now",
-        "description": "Aug 6 (Reuters) - Federal Reserve officials ⁠are beginning to mull whether the frenzied investment driving the buildout of the artificial intelligence sector is getting out of hand ⁠and creating risks for the financial sector.",
-        "content": "Aug 6 (Reuters) - Federal Reserve officials ⁠are beginning to mull whether the frenzied investment driving the buildout of the artificial intelligence sector is getting out of hand ⁠and creating risks for the financial sector.\nFor now, some of the of... [3055 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/07/furious-pace-of-ai-investment-on-some-fed-officials039-radar-now",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/07/4047923.jpg",
-        "publishedAt": "2026-08-06T23:25:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
