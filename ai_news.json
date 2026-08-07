@@ -1,5 +1,37 @@
 [
     {
+        "id": "f8fcf59bb50b48d59ee68727adf30c08",
+        "title": "OpenAI’s new device will be hockey puck-size and cost over $300",
+        "description": "The device will be positioned as an artificial intelligence-first computer that can help users get things done, people familiar with the matter said.",
+        "content": "A highly anticipated new device from OpenAI will have a unique look, complete with moving parts that help give it personality, and likely cost more than $300, according to people familiar with the matter.\nThe product — essentially a smart speaker wit... [592 chars]",
+        "url": "https://www.japantimes.co.jp/business/2026/08/07/companies/openai-new-device/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/07/556005.JPG?v=3.1",
+        "publishedAt": "2026-08-07T03:02:54Z",
+        "lang": "en",
+        "source": {
+            "id": "4b9101ef61d45607a32072a7504f5fb0",
+            "name": "The Japan Times ",
+            "url": "https://www.japantimes.co.jp",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "08b0ca88624ad6fe7142300a0f1c099b",
+        "title": "Love with deadlines, digital hearts: Korea's dating reality boom tests ethics of romance TV",
+        "description": "Korea’s dating reality boom has entered a new, uneasy chapter — one where terminal illness and artificial intelligence (AI) join ex-lovers, divorce...",
+        "content": "Korea’s dating reality boom has entered a new, uneasy chapter — one where terminal illness and artificial intelligence (AI) join ex-lovers, divorced couples, shamans and LGBTQ+ participants on television, raising fresh questions about how far romance... [3778 chars]",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260807/love-with-deadlines-digital-hearts-koreas-dating-reality-boom-tests-ethics-of-romance-tv",
+        "image": "https://newsimg.koreatimes.co.kr/2026/08/06/dbb01dde-ba48-4ba0-8500-fa43729fac58.jpg",
+        "publishedAt": "2026-08-07T03:00:04Z",
+        "lang": "en",
+        "source": {
+            "id": "9f2e79f0f9194d0d88f0074def064e60",
+            "name": "The Korea Times",
+            "url": "https://www.koreatimes.co.kr",
+            "country": "kr"
+        }
+    },
+    {
         "id": "ed849a64301f0fc363f4524eba447f49",
         "title": "AI detects multiple heart failure types from routine ECGs",
         "description": "A new study led by researchers at Wake Forest University School of Medicine has found that artificial intelligence (AI) can help clinicians identify signs of heart failure, including a type that is often missed in routine care.",
@@ -124,38 +156,6 @@
             "id": "e7b4d14003cc89c64a689f1c38723ef5",
             "name": "Live 5 News WCSC",
             "url": "https://www.live5news.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f8261a5e49f4f3c9a3a6206e8b16493d",
-        "title": "AI creates 16 new viruses from scratch, showing promise for drug resistance and drawing warnings about potential for misuse",
-        "description": "Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and that targeted specific hosts, according to a new study. The development is a hopeful step toward medical advances, but it also raises concerns around the potential for misuse.",
-        "content": "Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and that targeted specific hosts, according to a new study. The development is a hopeful step toward medical advances, bu... [3405 chars]",
-        "url": "https://edition.cnn.com/2026/08/06/health/ai-viruses-bacteriophages",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-983949850.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-08-06T23:52:33Z",
-        "lang": "en",
-        "source": {
-            "id": "26269dbc42635df9af8c24f3cdab8e37",
-            "name": "Cable News Network",
-            "url": "https://edition.cnn.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9164f2a5d39b1201b813b27c086ca0e1",
-        "title": "AI creates 16 new viruses from scratch, showing promise for drug resistance and drawing warnings about potential for misuse",
-        "description": "By Deidre McPhillips, CNN (CNN) — Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and that targeted specific hosts, according to a new study. The development is a hopeful step toward medical advances, but it also raises concerns around the potential for misuse. The",
-        "content": "By Deidre McPhillips, CNN\n(CNN) — Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and that targeted specific hosts, according to a new study. The development is a hopefu... [3439 chars]",
-        "url": "https://abc17news.com/cnn-health/2026/08/06/ai-creates-16-new-viruses-from-scratch-showing-promise-for-drug-resistance-and-drawing-warnings-about-potential-for-misuse/",
-        "image": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
-        "publishedAt": "2026-08-06T23:52:33Z",
-        "lang": "en",
-        "source": {
-            "id": "d5a02d07558c5563d72576efc406e608",
-            "name": "ABC17News.com",
-            "url": "https://abc17news.com",
             "country": "us"
         }
     }
