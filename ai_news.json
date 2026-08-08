@@ -1,5 +1,37 @@
 [
     {
+        "id": "5dd4b61aa35e98ed7088fdeff0117b55",
+        "title": "MyGOV gets AI agent to make government services easier, says Gobind",
+        "description": "PETALING JAYA: Malaysians may soon find it easier to deal with government agencies online as the MyGOV Malaysia application is enhanced with an artificial intelligence (AI) agent, says Digital Minister Gobind Singh Deo.",
+        "content": "PETALING JAYA: Malaysians may soon find it easier to deal with government agencies online as the MyGOV Malaysia application is enhanced with an artificial intelligence (AI) agent, says Digital Minister Gobind Singh Deo.\nGobind said the move was part ... [3190 chars]",
+        "url": "https://www.thestar.com.my/news/nation/2026/08/08/mygov-gets-ai-agent-to-make-government-services-easier-says-gobind",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/08/4049803.JPG",
+        "publishedAt": "2026-08-08T05:20:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "585eafe6ffee1702b3a2e300a7057982",
+        "title": "Pressure building for AI regulation",
+        "description": "As the global artificial intelligence race unfolds and governments, public institutions and many individuals expand their use of the emerging technology, industry regulation is becoming a crucial question. In the past month, OpenAI and Anthropic, two major AI companies, disclosed that, during testing, their models hacked into other companies’ systems.",
+        "content": "As the global artificial intelligence race unfolds and governments, public institutions and many individuals expand their use of the emerging technology, industry regulation is becoming a crucial question.\nIn the past month, OpenAI and Anthropic, two... [6681 chars]",
+        "url": "https://triblive.com/local/valley-news-dispatch/pressure-building-for-ai-regulation/",
+        "image": "https://assets-varnish.triblive.com/2026/08/9763125_web1_VND-AIMH03.JPG",
+        "publishedAt": "2026-08-08T05:01:00Z",
+        "lang": "en",
+        "source": {
+            "id": "b1fa63410571207862faad9daf9b4527",
+            "name": "Pittsburgh Tribune-Review",
+            "url": "https://triblive.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "6be57d738eb6f7602f37279c5c565775",
         "title": "Fahmi: AI cannot replace human moderators in detecting cyberbullying, Tamil language a case in point",
         "description": "KUALA LUMPUR, Aug 8 — Artificial intelligence (AI) cannot be left entirely in charge of moderating online content as it may fail to understand the nuances of certain languages,...",
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "4d784ffc3bb8b17efd4d8c12d31a0529",
-        "title": "‘AI creating more jobs than it cuts in India’",
-        "description": "India Business News: India, the world’s back office for many global companies, is emerging as a key test case for artificial intelligence’s impact on employment, with AI-r.",
-        "content": "India recorded 83,100 AI-related hires during the period, compared with 31,921 layoffs and attrition, according to the report released Friday.\nIndia, the world’s back office for many global companies, is emerging as a key test case for artificial int... [2114 chars]",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/ai-creating-more-jobs-than-it-cuts-in-india/articleshow/133045133.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133045300,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-08T02:22:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "97e984081175bbd09b16ab4bb2410b90",
-        "title": "Using AI to improve precision of visual cortical prostheses",
-        "description": "Researchers from three institutions, including UC Santa Barbara, have demonstrated that artificial intelligence has the potential to make future visual prostheses, like a bionic eye, more precise, predictable and responsive to an individual user.",
-        "content": "Researchers from three institutions, including UC Santa Barbara, have demonstrated that artificial intelligence has the potential to make future visual prostheses, like a bionic eye, more precise, predictable and responsive to an individual user.\nUCS... [6059 chars]",
-        "url": "https://www.news-medical.net/news/20260807/Using-AI-to-improve-precision-of-visual-cortical-prostheses.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-        "publishedAt": "2026-08-08T02:21:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
         }
     }
 ]
