@@ -1,5 +1,37 @@
 [
     {
+        "id": "0e8c9c95ba75b691862f89110843e974",
+        "title": "OpenAI's first hardware device can be doughnut-shaped - Bloomberg",
+        "description": "U.S.-based artificial intelligence startup OpenAI is reportedly planning to release its first physical device—an AI-powered computer priced at more than $300. — Ukrinform.",
+        "content": "According to Bloomberg, citing people familiar with the matter, the device will essentially be a smart speaker without a display. It is expected to have the shape of a doughnut and be roughly the size of a hockey puck. The design is intended to make ... [802 chars]",
+        "url": "https://www.ukrinform.net/rubric-society/4152076-openais-first-hardware-device-can-be-doughnutshaped-bloomberg.html",
+        "image": "https://static.ukrinform.com/photos/2026_08/thumb_files/630_360_1786123853-787.jpg",
+        "publishedAt": "2026-08-08T00:36:00Z",
+        "lang": "en",
+        "source": {
+            "id": "bcf30bc045f2e6dc279666907e09eab5",
+            "name": "Ukrinform",
+            "url": "https://www.ukrinform.net",
+            "country": "ua"
+        }
+    },
+    {
+        "id": "166163d7e36227987b37ebf7a32e14c3",
+        "title": "Fahmi advises parents to be careful when kids make AI 'friends'",
+        "description": "KUALA LUMPUR: Parents need to be more careful and take notice if their children start using artificial intelligence (AI) as chat buddies or \"friends\", says Datuk Seri Fahmi Fadzil.",
+        "content": "KUALA LUMPUR: Parents need to be more careful and take notice if their children start using artificial intelligence (AI) as chat buddies or \"friends\", says Datuk Seri Fahmi Fadzil.\nThe Communications Minister said although AI can help in various matt... [2454 chars]",
+        "url": "https://www.thestar.com.my/news/nation/2026/08/08/fahmi-advises-parents-to-be-careful-when-kids-make-ai-039friends039",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/08/4049974.JPG",
+        "publishedAt": "2026-08-08T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "994e0bfe0182d8260d39e8762ea6c222",
         "title": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns (1)",
         "description": "OpenAI is pausing some internal work around one of its upcoming artificial intelligence models to implement stricter safeguards after the system was found to be significantly more adept at cybersecurity tasks.",
@@ -125,38 +157,6 @@
             "name": "Forbes",
             "url": "https://www.forbes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "56971a2b77def8b386c88bd7b1b8b996",
-        "title": "Gujarat notifies Data Center Policy 2026-29, targets 7.5 GW Green AI capacity",
-        "description": "The policy targets the creation of 7.5 GW of hyperscale Green AI data centre capacity in Gujarat to meet the growing demand for artificial intelligence, cloud computing, high-performance computing and digital services.",
-        "content": "Gandhinagar (Gujarat) [India], August 7 (ANI): The Gujarat government on Friday notified the Viksit Gujarat Data Centre Policy 2026-29, aiming to establish the state as a leading hub for hyperscale Green AI data centres and next-generation digital in... [2272 chars]",
-        "url": "https://www.aninews.in/news/national/general-news/gujarat-notifies-data-center-policy-2026-29-targets-75-gw-green-ai-capacity20260807230226/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260807172228-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-08-07T17:32:26Z",
-        "lang": "en",
-        "source": {
-            "id": "f282f77e41f55d72f00fefcaccc92954",
-            "name": "ANI (Asian News International)",
-            "url": "https://www.aninews.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "9f2fb475a002765f70baeae425a0a59b",
-        "title": "BRICS WAVES Bazaar Draws 900 Delegates and New Global Media Deals",
-        "description": "The Bazaar extended beyond conventional cinema, reflecting the growing commercial importance of animation, gaming, immersive entertainment and artificial intelligence within the global content industry.",
-        "content": "The BRICS WAVES Bazaar 2026 has concluded in Mumbai after bringing more than 900 industry delegates from 20 BRICS member and partner countries together for two days of business meetings, international project announcements and discussions covering fi... [4327 chars]",
-        "url": "https://www.devdiscourse.com/article/law-order/3961264-brics-waves-bazaar-draws-900-delegates-and-new-global-media-deals",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/07_08_2026_21_57_41_7071656.png&width=920&format=jpeg",
-        "publishedAt": "2026-08-07T16:56:05Z",
-        "lang": "en",
-        "source": {
-            "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-            "name": "Devdiscourse",
-            "url": "https://www.devdiscourse.com",
-            "country": "in"
         }
     }
 ]
