@@ -1,5 +1,21 @@
 [
     {
+        "id": "b6e58f25530dccf75e34c631dcd4c770",
+        "title": "Govt focusing on tech skills for those aged 18 to 40, says Chang",
+        "description": "IPOH: The government is currently focusing on developing technology skills among those aged 18 to 40, with no specific programmes yet in place to expose younger children to artificial intelligence, robotics and other emerging technologies, says Datuk Chang Lih Kang.",
+        "content": "IPOH: The government is currently focusing on developing technology skills among those aged 18 to 40, with no specific programmes yet in place to expose younger children to artificial intelligence, robotics and other emerging technologies, says Datuk... [2462 chars]",
+        "url": "https://www.thestar.com.my/news/nation/2026/08/08/govt-focusing-on-tech-skills-for-those-aged-18-to-40-says-chang",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/08/4049806.jpg",
+        "publishedAt": "2026-08-08T05:45:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "5dd4b61aa35e98ed7088fdeff0117b55",
         "title": "MyGOV gets AI agent to make government services easier, says Gobind",
         "description": "PETALING JAYA: Malaysians may soon find it easier to deal with government agencies online as the MyGOV Malaysia application is enhanced with an artificial intelligence (AI) agent, says Digital Minister Gobind Singh Deo.",
@@ -141,22 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "dad72014c871527ddc352cfef1535685",
-        "title": "AI designed viruses that never existed in nature; 16 worked in the lab",
-        "description": "Researchers have successfully used artificial intelligence to design entirely new viruses. These laboratory-tested viruses function as intended and do not exist in nature. This breakthrough could accelerate treatments for bacterial infections and advance biological engineering. However, experts warn that stronger safeguards are urgently needed for this technology. The development highlights AI's growing capabilities and potential risks.",
-        "content": "Synopsis\nResearchers have successfully used artificial intelligence to design entirely new viruses. These laboratory-tested viruses function as intended and do not exist in nature. This breakthrough could accelerate treatments for bacterial infection... [5674 chars]",
-        "url": "https://economictimes.indiatimes.com/us/science-tech/scientists-used-ai-to-create-16-new-viruses-that-never-existed-in-nature-they-worked-and-now-experts-fear-how-the-technology-could-be-used/articleshow/133045613.cms",
-        "image": "https://img.etimg.com/thumb/msid-133045688,width-1200,height-630,imgsize-442668,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-08T02:59:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
