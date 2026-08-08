@@ -1,5 +1,21 @@
 [
     {
+        "id": "2cd3582afc7910b091423b636944b401",
+        "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+        "description": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
+        "content": "Scott Mlyn | CNBC\nThe \"SaaSpocalypse\" was raging this week. Then it got a reprieve.\nThe pennies-on-the-dollar acquisition of one-time highflyer Airtable, followed by plunges in HubSpot , Datadog and Figma on earnings reports, all served to underscore... [4998 chars]",
+        "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/106413615-1582815498409img_8994r.jpg?v=1698963731&w=1920&h=1080",
+        "publishedAt": "2026-08-07T20:22:17Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "0b41ca23015643e8604ad845f79f61f1",
         "title": "Deep learning refines how bionic eyes communicate with the brain",
         "description": "Researchers from three institutions, including UC Santa Barbara, have demonstrated that artificial intelligence has the potential to make future visual prostheses, like a bionic eye, more precise, predictable and responsive to an individual user.",
@@ -141,22 +157,6 @@
             "name": "ThePrint",
             "url": "https://theprint.in",
             "country": "in"
-        }
-    },
-    {
-        "id": "e153adabf48fe4c01ce0c2f5ffb87e6f",
-        "title": "SK Hynix Makes a New $38 Billion AI Bet: Memory Plants For South Korea",
-        "description": "SK Hynix is making one of its biggest bets yet on the artificial intelligence boom, announcing plans to invest 54 trillion Korean won, or about $38.1 billion, to expand its memory chip manufacturing",
-        "content": "SK Hynix is making one of its biggest bets yet on the artificial intelligence boom, announcing plans to invest 54 trillion Korean won, or about $38.1 billion, to expand its memory chip manufacturing capacity as demand for AI hardware continues to out... [3422 chars]",
-        "url": "https://www.ibtimes.com/sk-hynix-makes-new-38-billion-ai-bet-memory-plants-south-korea-3806181",
-        "image": "https://d.ibtimes.com/en/full/4649466/sk-hynix.jpg",
-        "publishedAt": "2026-08-07T16:05:27Z",
-        "lang": "en",
-        "source": {
-            "id": "933344203c2b862af768b5e662a162a4",
-            "name": "International Business Times",
-            "url": "https://www.ibtimes.com",
-            "country": "us"
         }
     }
 ]
