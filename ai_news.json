@@ -1,5 +1,37 @@
 [
     {
+        "id": "0b41ca23015643e8604ad845f79f61f1",
+        "title": "Deep learning refines how bionic eyes communicate with the brain",
+        "description": "Researchers from three institutions, including UC Santa Barbara, have demonstrated that artificial intelligence has the potential to make future visual prostheses, like a bionic eye, more precise, predictable and responsive to an individual user.",
+        "content": "Researchers from three institutions, including UC Santa Barbara, have demonstrated that artificial intelligence has the potential to make future visual prostheses, like a bionic eye, more precise, predictable and responsive to an individual user.\nUCS... [6029 chars]",
+        "url": "https://medicalxpress.com/news/2026-08-deep-refines-bionic-eyes-communicate.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/deep-learning-refines.jpg",
+        "publishedAt": "2026-08-07T18:20:03Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "e044a958a7728497d3830c7acd31f271",
+        "title": "How North Carolina newsrooms are using AI",
+        "description": "Public media and nonprofit newsrooms are trying to determine how best to leverage artificial intelligence tools in their work. At WUNC in Chapel Hill, N.C.,",
+        "content": "Public media and nonprofit newsrooms are trying to determine how best to leverage artificial intelligence tools in their work. At WUNC in Chapel Hill, N.C., journalists are interested in AI but are concerned about its potential effects on audience tr... [6597 chars]",
+        "url": "https://www.europesays.com/3180651/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/08/wunc_sign.jpeg",
+        "publishedAt": "2026-08-07T18:18:26Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f44e8b23352c6af1838b8484c2f360b2",
         "title": "Elon Musk’s Net Worth Tops $800 Billion Amid SpaceX Rally",
         "description": "Musk’s net worth exceeded $1 trillion in June after his spaceflight and artificial intelligence company went public.",
@@ -125,38 +157,6 @@
             "name": "International Business Times",
             "url": "https://www.ibtimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "8653b244e3fed046cacc31230a0ceafd",
-        "title": "AI model predicts heart function",
-        "description": "RESEARCHERS led by scientists from Ateneo de Manila University have developed an artificial intelligence (AI) model that can accurately predict heart function using non-invasive physiological measurements, offering a potential alternative to more complex cardiovascular tests, this was reported by Danika Geronimo of the Ateneo Research Communications Department.",
-        "content": "RESEARCHERS led by scientists from Ateneo de Manila University have developed an artificial intelligence (AI) model that can accurately predict heart function using non-invasive physiological measurements, offering a potential alternative to more com... [2599 chars]",
-        "url": "https://www.manilatimes.net/2026/08/08/business/science-technology/ai-model-predicts-heart-function/2400893",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/07/1168270.jpg",
-        "publishedAt": "2026-08-07T16:02:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "899b529e78895ffd092fb783eaebfdf8",
-        "title": "More hirings than firings: Nomura report tests ‘ground zero’; says AI creating more jobs in India than cuts",
-        "description": "India Business News: Is artificial intelligence taking away jobs or is it leading to hirings? A new report by Nomura suggests that in India, AI is creating more jobs than .",
-        "content": "India added 83,100 AI-related jobs during the period, compared with 31,921 positions lost through layoffs and attrition.\nIs artificial intelligence taking away jobs or is it leading to hirings? A new report by Nomura suggests that in India, AI is cre... [4099 chars]",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/more-hirings-than-firings-nomura-report-tests-ground-zero-says-ai-creating-more-jobs-in-india-than-cuts/articleshow/133036953.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133037696,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-07T15:41:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
         }
     }
 ]
