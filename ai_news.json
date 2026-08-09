@@ -1,5 +1,37 @@
 [
     {
+        "id": "a22383757d0583b816f579eeba73fff1",
+        "title": "Samsung is studying how users interact with AI in devices",
+        "description": "Samsung Electronics is monitoring consumer AI usage globally, leveraging local market feedback to refine and innovate future artificial intelligence-driven experiences.",
+        "content": "Kim emphasized that Samsung is focusing on how consumers adopt, react to, and use AI.\nHe said the company is getting a lot of feedback from local markets and will gradually apply these learnings.\n\"We are now focusing on how consumers are adopting AI,... [908 chars]",
+        "url": "https://www.newsbytesapp.com/news/science/samsung-uses-consumer-feedback-to-shape-future-ai-experiences/story",
+        "image": "https://i.cdn.newsbytesapp.com/images/l271_39161786266789.jpg",
+        "publishedAt": "2026-08-09T10:10:17Z",
+        "lang": "en",
+        "source": {
+            "id": "eba2f6a49db29efc8343807ba675665f",
+            "name": "NewsBytes",
+            "url": "https://www.newsbytesapp.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "1be77b064bd260c9deb5dfb936719f63",
+        "title": "Watching cancer cells live could open new frontiers in drug discovery: Experts",
+        "description": "NEW DELHI, Aug 9: Researchers are exploring technologies that will allow scientists to observe living cancer cells in real time to help them improve understanding of the disease and accelerate drug discovery. Despite advances in genomics, artificial intelligence and precision...",
+        "content": "NEW DELHI, Aug 9: Researchers are exploring technologies that will allow scientists to observe living cancer cells in real time to help them improve understanding of the disease and accelerate drug discovery.\nDespite advances in genomics, artificial ... [4731 chars]",
+        "url": "https://www.dailyexcelsior.com/watching-cancer-cells-live-could-open-new-frontiers-in-drug-discovery-experts/",
+        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTY3Njc5MDMwLTkzZGEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+        "publishedAt": "2026-08-09T10:09:26Z",
+        "lang": "en",
+        "source": {
+            "id": "28bc60a23a7bf89e60f893506992a3fe",
+            "name": "Daily Excelsior",
+            "url": "https://www.dailyexcelsior.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "9453f10483e3aee8e5348a578ecba219",
         "title": "These AI Barons Are Ready to Give Away Their Fortunes",
         "description": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
@@ -124,38 +156,6 @@
             "id": "ed23d65928efaec6669dd2212a773d9f",
             "name": "EUROPE SAYS",
             "url": "https://www.europesays.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "2f14bb1a06c031874b5d84c4821aa73f",
-        "title": "Samsung tracking consumer AI adoption to shape future features: Official",
-        "description": "NEW DELHI, Aug 9:  Samsung Electronics is closely tracking how consumers are adopting and using artificial intelligence (AI) in their everyday lives, with the company relying on feedback from local markets to shape future AI experiences, a top Samsung official...",
-        "content": "NEW DELHI, Aug 9: Samsung Electronics is closely tracking how consumers are adopting and using artificial intelligence (AI) in their everyday lives, with the company relying on feedback from local markets to shape future AI experiences, a top Samsung... [2509 chars]",
-        "url": "https://www.dailyexcelsior.com/samsung-tracking-consumer-ai-adoption-to-shape-future-features-official/",
-        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWIzNGJhY2YwLTkzYjktMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-09T06:15:20Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "2fecd724fb62e9603d63b478bc35de02",
-        "title": "Scientists Report: AI Creates Never",
-        "description": "Researchers at the Arc Institute in Palo Alto, California and Stanford University used an artificial intelligence (AI) model called Evo to generate new versions of a virus not found in nature, according to the study authors. The resulting pathogens, known as bacteriophages – viruses that infect bacteria – cannot infect humans or animals, the report stated. Samuel […]",
-        "content": "Researchers at the Arc Institute in Palo Alto, California and Stanford University used an artificial intelligence (AI) model called Evo to generate new versions of a virus not found in nature, according to the study authors.\nThe resulting pathogens, ... [4986 chars]",
-        "url": "https://www.naturalnews.com/2026-08-09-scientists-ai-creates-never-before-seen-virus.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/ai-generated-viruses-bacteriophages-evo-model-3236-original.jpg",
-        "publishedAt": "2026-08-09T05:00:44Z",
-        "lang": "en",
-        "source": {
-            "id": "188e9ebf53d05fc7ba360240a0b28154",
-            "name": "Natural News",
-            "url": "https://www.naturalnews.com",
             "country": "us"
         }
     }
