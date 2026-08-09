@@ -1,5 +1,21 @@
 [
     {
+        "id": "dfd0d8ea2f258a88e0c927083740c451",
+        "title": "Singapore to ensure AI helps workers worried about jobs, PM Wong says",
+        "description": "Singapore is benefiting from the rapid growth of artificial intelligence, and the government is making use of the technology to ensure higher productivity.",
+        "content": "SINGAPORE (Bloomberg): Singapore is benefiting from the rapid growth of artificial intelligence, and the government is making use of the technology to ensure higher productivity and better jobs for workers who are worried about their livelihoods, Pri... [1955 chars]",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/09/singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-wong-says",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/09/4050790.jpg",
+        "publishedAt": "2026-08-09T03:47:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "898fd714a4f5e86588d6311f89543cfb",
         "title": "Premier pens deal with ChatGPT developer on US trip",
         "description": "South Australia has inked an agreement with the developer of the world's most popular artificial intelligence chatbot, ChatGPT.",
@@ -141,22 +157,6 @@
             "name": "Spokane Spokesman-Review",
             "url": "https://www.spokesman.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "5473cc399c913d44f5687791360f632d",
-        "title": "Public Relations in the world of AI",
-        "description": "There is a moment every industry eventually reaches, when the tool that was supposed to set you apart becomes the thing everyone owns. For public relations, that moment has arrived quietly in the form of artificial intelligence that can write a press release in seconds. For John Caparros, media and community partnerships lead at PRecious Communications Philippines, the moment did not change what he believed. It confirmed it.",
-        "content": "There is a moment every industry eventually reaches, when the tool that was supposed to set you apart becomes the thing everyone owns. For public relations, that moment has arrived quietly in the form of artificial intelligence that can write a press... [4016 chars]",
-        "url": "https://www.manilatimes.net/2026/08/09/the-sunday-times/filipino-champions/public-relations-in-the-world-of-ai/2401403",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/08/1169233.jpg",
-        "publishedAt": "2026-08-08T16:08:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
