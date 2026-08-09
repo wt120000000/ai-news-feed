@@ -1,5 +1,21 @@
 [
     {
+        "id": "347eb6a6c558674b555674144cf6ac4f",
+        "title": "Medina County fair warns of AI app spreading false info",
+        "description": "Medina County officials say an artificial intelligence-based app is spreading false information about the Medina County Fairgrounds.",
+        "content": "Medina County officials say an app that uses artificial intelligence is incorrectly reporting information about emergency situations occurring at the Medina County Fairgrounds.\nMedina County fair officials posted on social media on Aug. 8 to assure r... [1018 chars]",
+        "url": "https://www.beaconjournal.com/story/news/local/2026/08/08/medina-county-fair-warns-of-ai-app-spreading-false-info/91228455007/",
+        "image": "https://www.beaconjournal.com/gcdn/presto/2021/08/05/NABJ/b40782c2-d0a3-4a7e-bacf-bb196502cb9d-time02.jpg?crop=1565,881,x0,y457&width=1565&height=881&format=pjpg&auto=webp",
+        "publishedAt": "2026-08-08T19:53:51Z",
+        "lang": "en",
+        "source": {
+            "id": "a264eb6813d0472e83bde84a1aef630a",
+            "name": "Akron Beacon Journal",
+            "url": "https://www.beaconjournal.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "8b8ed5127b5eea099ce49f00ad0076cf",
         "title": "OpenAI to pause some work on AI model Astra due to security concerns",
         "description": "OpenAI will pause some work on an artificial intelligence model because of security concerns, the company stated Friday, following a series of incidents in",
@@ -141,22 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "a8db9dee15fbbc699c37db5707f217ad",
-        "title": "Turkish AI startups making their mark in Silicon Valley",
-        "description": "Artificial intelligence startups founded by Turkish entrepreneurs are emerging as success stories, with companies such as fal.ai and Periodic Labs surpassing",
-        "content": "Artificial intelligence startups founded by Turkish entrepreneurs are emerging as success stories, with companies such as fal.ai and Periodic Labs surpassing the $1 billion valuation threshold through recent funding rounds.\nAccording to the 2025 Turk... [9402 chars]",
-        "url": "https://www.europesays.com/3182533/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/454730.jpg",
-        "publishedAt": "2026-08-08T15:38:25Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
         }
     }
 ]
