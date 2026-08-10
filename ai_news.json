@@ -1,5 +1,37 @@
 [
     {
+        "id": "4bf8d92b9c2331de659bcfac0da3412c",
+        "title": "area classrooms, it’s not just students who are learning",
+        "description": "As schools across the D.C. region expand artificial intelligence use, early research suggests the technology can help teachers and students, but results are mixed.",
+        "content": "School systems around the D.C. region are beginning to embrace artificial intelligence in different ways.\nIn Prince George’s County, Maryland, AI is being used to help students improve their storytelling skills. In Virginia’s Fairfax and Prince Willi... [4425 chars]",
+        "url": "https://wtop.com/education/2026/08/when-it-comes-to-ai-in-dc-area-classrooms-its-not-just-students-who-are-learning/",
+        "image": "https://wtop.com/wp-content/uploads/2026/01/Polling_AI_In_the_Workspace_64507-scaled-e1786351912368.jpg",
+        "publishedAt": "2026-08-10T09:35:59Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "b59c43a07007f46adec30923f21464a8",
+        "title": "India’s IT sector is surviving artificial intelligence",
+        "description": "AI has not eaten India’s software services yet. But it is eyeing it hungrily. Read more at straitstimes.com.",
+        "content": "If the hype about artificial intelligence is to be believed, India’s tech industry should bear the brunt of any incoming wave of AI job losses.\nBefore the breakthroughs that made chatbots functional, tech types quipped that AI stood for “actually Ind... [266 chars]",
+        "url": "https://www.straitstimes.com/opinion/indias-it-sector-is-surviving-artificial-intelligence",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a213e2df7e40b5c071a1596adfaf45832fb2617d4490af02d476044131256559",
+        "publishedAt": "2026-08-10T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+            "name": "The Straits Times",
+            "url": "https://www.straitstimes.com",
+            "country": "sg"
+        }
+    },
+    {
         "id": "e254183e47567ea1a09e1ad1fa31a508",
         "title": "India’s GCCs trade hefty headcount for specialised talent",
         "description": "Global Capacity Centres are becoming smaller and more engineering-focused. India's GCC market is projected to reach one hundred billion dollars by 2030. Companies are prioritizing specialized talent and faster product development. Artificial intelligence enables greater output with smaller, agile teams. Value density and strategic work routing now define center importance.",
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "72c579f2188a9d8bcceb4cb89f288ecb",
-        "title": "OPINION | What India can-and shouldn’t-copy from Germany’s Industrial AI playbook",
-        "description": "Germany is using artificial intelligence to quietly rewire its industrial backbone while India is building a broader “AI for all” ecosystem anchored in public services and digital infrastructure",
-        "content": "While the world races to build yet another “innovative” chatbot or generative AI “unicorn”, Germany seems to be playing a more calculated game of teaching artificial intelligence to run its factories, fix its supply chains and drive its machines rath... [4218 chars]",
-        "url": "https://www.theweek.in/news/sci-tech/2026/08/10/opinion-germany-industrial-ai-strategy-india.html",
-        "image": "https://img.theweek.in/content/dam/week/en/archive/news/sci-tech/images/2026/8/10/bosch-ai-representative-image.jpg",
-        "publishedAt": "2026-08-10T07:36:33Z",
-        "lang": "en",
-        "source": {
-            "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
-            "name": "THE WEEK",
-            "url": "https://www.theweek.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "aef47f4da9edb5e780f8c1c59ee0630c",
-        "title": "Free DeepSeek with your beer? Beijing bar captures China’s AI boom",
-        "description": "BEIJING, Aug 10 — Artificial intelligence users are shopping around as US giants face fierce competition from Chinese rivals — and in Beijing’s tech district, drinkers at an...",
-        "content": "BEIJING, Aug 10 — Artificial intelligence users are shopping around as US giants face fierce competition from Chinese rivals — and in Beijing’s tech district, drinkers at an AI-themed bar can even plug in to DeepSeek for free.\nA new generation of cos... [3921 chars]",
-        "url": "https://www.malaymail.com/news/money/2026/08/10/free-deepseek-with-your-beer-beijing-bar-captures-chinas-ai-boom/230826",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/10/356368.jpg",
-        "publishedAt": "2026-08-10T07:09:30Z",
-        "lang": "en",
-        "source": {
-            "id": "cc589abcee543815a82a8b2856ebe9ed",
-            "name": "Malay Mail",
-            "url": "https://www.malaymail.com",
-            "country": "my"
         }
     }
 ]
