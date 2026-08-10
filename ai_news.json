@@ -1,5 +1,37 @@
 [
     {
+        "id": "bca684d652d642858536d3e9e1a8dea9",
+        "title": "Govt looking to use AI to plan for affordable housing, says Nga",
+        "description": "PETALING JAYA: The government plans to use big data analytics and artificial intelligence (AI) to determine affordable housing needs based on locality, income levels and demand, says Nga Kor Ming.",
+        "content": "PETALING JAYA: The government plans to use big data analytics and artificial intelligence (AI) to determine affordable housing needs based on locality, income levels and demand, says Nga Kor Ming.\nThe Housing and Local Government Minister said the RM... [2688 chars]",
+        "url": "https://www.thestar.com.my/news/nation/2026/08/10/govt-looking-to-use-ai-to-plan-for-affordable-housing-says-nga",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/10/4052410.jpg",
+        "publishedAt": "2026-08-10T06:46:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "83dbf4d9caa85a5e9a972166ba852f85",
+        "title": "Delhi HC restrains misuse of actress Tabu's identity; orders Google, Meta, X, Reddit to remove 150+ URLs over AI-generated content",
+        "description": "The Delhi High Court has granted an ex-parte interim injunction protecting Bollywood star Tabu from unauthorised use of her name, image, voice, photographs and other personality attributes, including through Artificial Intelligence, deepfakes, face morphing and other digital technologies.",
+        "content": "New Delhi [India], August 10 (ANI): The Delhi High Court has granted an ex-parte interim injunction protecting Bollywood star Tabu from unauthorised use of her name, image, voice, photographs and other personality attributes, including through Artifi... [3750 chars]",
+        "url": "https://www.aninews.in/news/entertainment/bollywood/delhi-hc-restrains-misuse-of-actress-tabus-identity-orders-google-meta-x-reddit-to-remove-150-urls-over-ai-generated-content20260810120657/",
+        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260810063644-thumbnail-320x180-70.jpg",
+        "publishedAt": "2026-08-10T06:36:57Z",
+        "lang": "en",
+        "source": {
+            "id": "f282f77e41f55d72f00fefcaccc92954",
+            "name": "ANI (Asian News International)",
+            "url": "https://www.aninews.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "6ef46e74daf66df3ffdfc45e75f4b50d",
         "title": "North Korean hackers build advanced AI tools to support cyberattacks: report",
         "description": "According to recent cybersecurity findings, North Korean state-sponsored threat groups are actively building, configuring, and deploying localized artificial intelligence tools to scale and...",
@@ -125,38 +157,6 @@
             "name": "The Korea Times",
             "url": "https://www.koreatimes.co.kr",
             "country": "kr"
-        }
-    },
-    {
-        "id": "9a9379f799ed66db065c33cc55b56778",
-        "title": "OpenAI pauses some work on new Astra model on cyber concerns",
-        "description": "OpenAI is pausing some internal work around one of its upcoming artificial intelligence models to implement stricter safeguards after the system was found to be significantly more adept at cybersecurity tasks.",
-        "content": "OpenAI is pausing some internal work around one of its upcoming artificial intelligence (AI) models to implement stricter safeguards after the system was found to be significantly more adept at cybersecurity tasks.\nThe ChatGPT maker said on Aug 7 it ... [1600 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/10/openai-pauses-some-work-on-new-astra-model-on-cyber-concerns",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/10/4052096.jpg",
-        "publishedAt": "2026-08-10T04:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "10e9424a018162ac6560947126d48435",
-        "title": "Google’s search monopoly is becoming an AI monopoly",
-        "description": "Google's search crawler now feeds its artificial intelligence models, creating an unfair advantage. This strategy accelerates automated internet traffic, surpassing human activity online. Regulators and industry players are pushing for changes to this practice. Google will now allow websites to opt out of AI data usage without search ranking penalties. This shift aims to ensure original content creators are still rewarded for their work.",
-        "content": "Synopsis\nGoogle's search crawler now feeds its artificial intelligence models, creating an unfair advantage. This strategy accelerates automated internet traffic, surpassing human activity online. Regulators and industry players are pushing for chang... [6393 chars]",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/googles-search-monopoly-is-becoming-an-ai-monopoly/articleshow/133079731.cms",
-        "image": "https://img.etimg.com/thumb/msid-133079772,width-1200,height-630,imgsize-58302,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-10T03:33:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
