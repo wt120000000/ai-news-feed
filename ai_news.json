@@ -1,5 +1,37 @@
 [
     {
+        "id": "f48bc60b312400a004970d5260e154f1",
+        "title": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+        "description": "Some US adults are using artificial intelligence for financial guidance, but it's far from the most trusted source of advice, according to a new Gallup survey.",
+        "content": "NEW YORK: Some US adults are using artificial intelligence (AI) for financial guidance, but it’s far from the most trusted source of advice, according to a new Gallup survey conducted in partnership with Edward Jones, a financial services firm.\nAbout... [3660 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/10/some-us-adults-are-using-ai-for-financial-guidance-but-few-trust-it-gallup-poll-finds",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/10/4052083.jpg",
+        "publishedAt": "2026-08-10T02:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "929c6a8ab28790fdf35786ddc30a0617",
+        "title": "AI - Friend or foe of IT workers?",
+        "description": "The high-velocity nature of information technology development often becomes the lure for starting businesses closely tied to the field, such as one producing applications or software. However, is the fast-moving development, especially the parts related to Artificial Intelligence, currently carrying the threat of extinction for certain professions in the world of such technology, such as the professions of coder or designer?",
+        "content": "The high-velocity nature of information technology development often becomes the lure for starting businesses closely tied to the field, such as one producing applications or software. However, is the fast-moving development, especially the parts rel... [1651 chars]",
+        "url": "https://www.sbs.com.au/language/indonesian/en/podcast-episode/ai-friend-or-foe-of-it-workers/hmhdzwdcw",
+        "image": "https://assets.sbs.com.au/dims4/default/054720d/2147483647/strip/true/crop/8600x4838+0+126/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F98%2F59%2F7499b3084cd9ab9189ca933d0273%2Fgettyimages-2225645020.jpg",
+        "publishedAt": "2026-08-10T01:23:56Z",
+        "lang": "en",
+        "source": {
+            "id": "94466d37d8c67a438250646866df36df",
+            "name": "SBS Australia",
+            "url": "https://www.sbs.com.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "3156706d16bd8a81cbe775b992205b4e",
         "title": "'Act now': assessment overhaul to curb AI in schools",
         "description": "One state is considering a ban on take-home testing, as authorities scramble to combat the rise of artificial intelligence in the classroom.",
@@ -125,38 +157,6 @@
             "name": "EUROPE SAYS",
             "url": "https://www.europesays.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "a22383757d0583b816f579eeba73fff1",
-        "title": "Samsung is studying how users interact with AI in devices",
-        "description": "Samsung Electronics is monitoring consumer AI usage globally, leveraging local market feedback to refine and innovate future artificial intelligence-driven experiences.",
-        "content": "Kim emphasized that Samsung is focusing on how consumers adopt, react to, and use AI.\nHe said the company is getting a lot of feedback from local markets and will gradually apply these learnings.\n\"We are now focusing on how consumers are adopting AI,... [908 chars]",
-        "url": "https://www.newsbytesapp.com/news/science/samsung-uses-consumer-feedback-to-shape-future-ai-experiences/story",
-        "image": "https://i.cdn.newsbytesapp.com/images/l271_39161786266789.jpg",
-        "publishedAt": "2026-08-09T10:10:17Z",
-        "lang": "en",
-        "source": {
-            "id": "eba2f6a49db29efc8343807ba675665f",
-            "name": "NewsBytes",
-            "url": "https://www.newsbytesapp.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1be77b064bd260c9deb5dfb936719f63",
-        "title": "Watching cancer cells live could open new frontiers in drug discovery: Experts",
-        "description": "NEW DELHI, Aug 9: Researchers are exploring technologies that will allow scientists to observe living cancer cells in real time to help them improve understanding of the disease and accelerate drug discovery. Despite advances in genomics, artificial intelligence and precision...",
-        "content": "NEW DELHI, Aug 9: Researchers are exploring technologies that will allow scientists to observe living cancer cells in real time to help them improve understanding of the disease and accelerate drug discovery.\nDespite advances in genomics, artificial ... [4731 chars]",
-        "url": "https://www.dailyexcelsior.com/watching-cancer-cells-live-could-open-new-frontiers-in-drug-discovery-experts/",
-        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTY3Njc5MDMwLTkzZGEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-09T10:09:26Z",
-        "lang": "en",
-        "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
-            "country": "in"
         }
     }
 ]
