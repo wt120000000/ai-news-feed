@@ -1,5 +1,85 @@
 [
     {
+        "id": "f425bbaeb31d57109fb379da3fb8b23d",
+        "title": "Mumbai’s cybersecurity is national economic priority: Maha Minister",
+        "description": "Mumbai’s cybersecurity is national economic priority: Maha Minister - Mumbai, Aug 10 Maharashtra Minister of Electronics, Information Technology and Artificial Intelligence Ashish Shelar on Monday said Mumbai’s ... Get Latest News on National only on lokmattimes.com",
+        "content": "Mumbai, Aug 10 Maharashtra Minister of Electronics, Information Technology and Artificial Intelligence Ashish Shelar on Monday said Mumbai’s cybersecurity is no longer merely an Information Technology concern; it has become a critical priority for th... [2934 chars]",
+        "url": "https://www.lokmattimes.com/national/mumbais-cybersecurity-is-national-economic-priority-maha-minister/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608103899176_202608.jpg",
+        "publishedAt": "2026-08-10T17:05:25Z",
+        "lang": "en",
+        "source": {
+            "id": "f2ddccedc9e60d844e7a1045928cad48",
+            "name": "Lokmat Times",
+            "url": "https://www.lokmattimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "080bcb2b4ea85fd6082f4d0e26f44dce",
+        "title": "Meta just picked a side in a big debate over the future of AI",
+        "description": "Meta is taking a stance on one of the biggest debates shaping the future of artificial intelligence: Should AI models be open for anyone to tinker with and modify, or should they be tightly controlled by the companies making them?",
+        "content": "Meta is taking a stance on one of the biggest debates shaping the future of artificial intelligence: Should AI models be open for anyone to tinker with and modify, or should they be tightly controlled by the companies making them?\nFor Meta CEO Mark Z... [4186 chars]",
+        "url": "https://edition.cnn.com/2026/08/10/tech/meta-glimmer-mark-zuckerberg-future-of-ai",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-09t212757z-1706285672-rc2kamahyrd8-rtrmadp-3-media-sunvalley.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-08-10T16:48:13Z",
+        "lang": "en",
+        "source": {
+            "id": "26269dbc42635df9af8c24f3cdab8e37",
+            "name": "Cable News Network",
+            "url": "https://edition.cnn.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d83b3a5c92257b521a46fd2da23327da",
+        "title": "JPMorgan is the latest to raise its S&P 500 target, this time to 8,000. Here's why",
+        "description": "The Wall Street bank said the latest earnings season suggests that the massive investments in artificial intelligence is justified.",
+        "content": "JPMorgan is the latest Wall Street firm to raise its year-end S & P 500 target, now that the bulk of corporate earnings have been reported and appear to confirm a key tenet of the bull case — that the largest technology companies' massive investments... [2523 chars]",
+        "url": "https://www.cnbc.com/2026/08/10/jpmorgan-is-the-latest-to-raise-its-sp-500-target-this-time-to-8000-heres-why.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/106403530-1582315290122img_7820rr.jpg?v=1732725061&w=1920&h=1080",
+        "publishedAt": "2026-08-10T16:35:46Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a656bcb0f57d1b6c253a878b7140f7e5",
+        "title": "Seipi: Pax Silica could turn PH into manufacturing hub",
+        "description": "THE Semiconductor and Electronics Industries in the Philippines Foundation Inc. (Seipi) has backed the Pax Silica initiative, saying it could strengthen the country’s position in global semiconductor, electronics, artificial intelligence, and advanced manufacturing value chains.",
+        "content": "THE Semiconductor and Electronics Industries in the Philippines Foundation Inc. (Seipi) has backed the Pax Silica initiative, saying it could strengthen the country’s position in global semiconductor, electronics, artificial intelligence, and advance... [2407 chars]",
+        "url": "https://www.manilatimes.net/2026/08/11/business/top-business/seipi-pax-silica-could-turn-ph-into-manufacturing-hub/2402276",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/10/1171201.jpeg",
+        "publishedAt": "2026-08-10T16:11:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "27c3563ba7362a98aea8dcf1ff780b9f",
+        "title": "Marian Rivera tries AI for restorative sleep",
+        "description": "A premium smart mattress brand is bringing artificial intelligence, adaptive support and wellness technology into Filipino bedrooms.",
+        "content": "A premium smart mattress brand is bringing artificial intelligence, adaptive support and wellness technology into Filipino bedrooms.\nZleep AI, which targets the high-end mattress market in the Philippines with products designed around different sleep... [1918 chars]",
+        "url": "https://www.manilatimes.net/2026/08/11/entertainment-lifestyle/show-times/marian-rivera-tries-ai-for-restorative-sleep/2401886",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/10/1170382.jpeg",
+        "publishedAt": "2026-08-10T16:02:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "9ea93d8e580854008dc400e5b7d54346",
         "title": "Zuckerberg pushes open-source AI approach as Meta unveils latest model",
         "description": "Meta Platforms on Monday announced the release of a new artificial intelligence model that's open for other software developers to use as CEO Mark Zuckerberg warned of the risks if control of advanced AI is concentrated under a select few companies, institutions or governments.",
@@ -76,86 +156,6 @@
             "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
             "name": "The Verge",
             "url": "https://www.theverge.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "24d36b08c802699ea054736d238fca5e",
-        "title": "Meta launches Muse Glimmer AI model that can run on consumer computers",
-        "description": "Meta has launched Muse Glimmer, a 30-billion-parameter artificial intelligence model designed to run AI agents locally on consumer computers, allowing developers to build AI tools that can work without continuously relying on cloud infrastructure or internet access.",
-        "content": "New Delhi [India], August 10 (ANI): Meta has launched Muse Glimmer, a 30-billion-parameter artificial intelligence model designed to run AI agents locally on consumer computers, allowing developers to build AI tools that can work without continuously... [2567 chars]",
-        "url": "https://www.tribuneindia.com/news/business/meta-launches-muse-glimmer-ai-model-that-can-run-on-consumer-computers/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJlNTUyMTYwLTk0Y2UtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-10T15:18:22Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "01ecc5ab706b8e900e6ab7c477331004",
-        "title": "Meta launches Muse Glimmer AI model that can run on consumer computers",
-        "description": "Meta has launched Muse Glimmer, a 30-billion-parameter artificial intelligence model designed to run AI agents locally on consumer computers, allowing developers to build AI tools that can work without continuously relying on cloud infrastructure or internet access.",
-        "content": "New Delhi [India], August 10 (ANI): Meta has launched Muse Glimmer, a 30-billion-parameter artificial intelligence model designed to run AI agents locally on consumer computers, allowing developers to build AI tools that can work without continuously... [947 chars]",
-        "url": "https://www.aninews.in/news/business/meta-launches-muse-glimmer-ai-model-that-can-run-on-consumer-computers20260810204600/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260810145837-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-08-10T15:16:00Z",
-        "lang": "en",
-        "source": {
-            "id": "f282f77e41f55d72f00fefcaccc92954",
-            "name": "ANI (Asian News International)",
-            "url": "https://www.aninews.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8861c37a8b33d9631bc748b5870e3d85",
-        "title": "Microsoft may launch its next AI chip next month to challenge Nvidia dominance",
-        "description": "Tech News News: Microsoft is preparing to unveil its next-generation custom artificial intelligence (AI) processor, the Maia 300, as early as next month, a report has.",
-        "content": "Microsoft is preparing to unveil its next-generation custom artificial intelligence (AI) processor, the Maia 300, as early as next month, a report has said. This comes as the software giant accelerates efforts to scale in-house silicon and reduce its... [2236 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-may-launch-its-next-ai-chip-next-month-to-challenge-nvidia-dominance/articleshow/133111341.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133111443,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-10T15:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "06b804b613a492190d21b61eb455cdc8",
-        "title": "Pezeshkian says US, Israel used AI data in attacks on Iran",
-        "description": "Iranian President Masoud Pezeshkian claimed US and Israeli calculations during their attacks on Iran were based on artificial intelligence data, espionage networks and hired agents",
-        "content": "Liked this AI Summary?\nJoin our AI Workshop\nIranian President Masoud Pezeshkian claimed on Monday that US and Israeli calculations during their attacks on Iran were based on artificial intelligence (AI) data, espionage networks and hired agents.\nPeze... [1757 chars]",
-        "url": "https://www.moneycontrol.com/world/pezeshkian-says-us-israel-used-ai-data-in-attacks-on-iran-article-14000632.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260614235047_pezeshkianiran.png",
-        "publishedAt": "2026-08-10T15:03:45Z",
-        "lang": "en",
-        "source": {
-            "id": "fd3677545b80d5db7541de8e111d27ba",
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "dc509a6bb7a374853e6dabedd3253397",
-        "title": "US Navy tests AI-powered submarine hunter",
-        "description": "The U.S. Navy tested artificial intelligence-powered sonar to target submarines during the multinational Rim of the Pacific exercise.",
-        "content": "The U.S. Navy tested artificial intelligence-powered sonar to target submarines during the multinational Rim of the Pacific exercise in July.\nSensorMAX, developed by Lockheed Martin, uses AI and machine learning to analyze acoustic sensor data, updat... [2344 chars]",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-navy-tests-ai-powered-submarine-hunter/",
-        "image": "https://www.armytimes.com/resizer/v2/JFFBDVZMBVF3XERNVFMGOXUZH4.jpg?width=1200&auth=c5098428838440adfef78bc6efdb5614ae8a9571fbf359a04d6976a2a3a54a68",
-        "publishedAt": "2026-08-10T15:01:39Z",
-        "lang": "en",
-        "source": {
-            "id": "0efa652ad857b0970d5f941368f29ba0",
-            "name": "DefenseNews.com",
-            "url": "https://www.defensenews.com",
             "country": "us"
         }
     }
