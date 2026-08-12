@@ -1,5 +1,37 @@
 [
     {
+        "id": "0d37fe123c9a391a1614163c442acace",
+        "title": "Police say 19 victims identified in AI child sexual abuse image investigation",
+        "description": "An investigation led by the Royal Newfoundland Constabulary, looking at complaints involving exploitation material created with the aid of artificial intelligence program or programs, has resulted in nearly 60 charges against a 17-year-old in St. John's.",
+        "content": "A group of teenagers filed a complaint in January with the Royal Newfoundland Constabulary, saying they were being exploited through images posted online.\n\"They reported that images of them had been digitally altered. So normal pictures of them had b... [2329 chars]",
+        "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/police-say-19-victims-identified-in-ai-child-sexual-abuse-image-investigation-9.7303781",
+        "image": "https://i.cbc.ca/ais/1.4280486,1533644822000/full/max/0/default.jpg?im=Crop%2Crect%3D%28113%2C113%2C420%2C236%29%3BResize%3D620",
+        "publishedAt": "2026-08-11T21:27:45Z",
+        "lang": "en",
+        "source": {
+            "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+            "name": "CBC.ca",
+            "url": "https://www.cbc.ca",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "ecacc38e2987bdd84de53704aa80f38f",
+        "title": "Global rate rose in 2025, UN says",
+        "description": "Global youth unemployment rose last year, the United Nations said Tuesday, with some of the steepest increases seen in high-income countries as artificial intelligence begins to change the jobs market.",
+        "content": "Global youth unemployment rose last year, the United Nations said Tuesday, with some of the steepest increases seen in high-income countries as artificial intelligence begins to change the jobs market.\nThe tentative, short-lived recovery in youth lab... [3693 chars]",
+        "url": "https://www.cp24.com/news/world/2026/08/11/world-youth-unemployment-rate-rose-last-year-un/",
+        "image": "https://www.cp24.com/resizer/v2/32TZQVQSBBESJMCIQU3DVATM2Q.jpg?smart=true&auth=33fd62c724c2baa7943ac61a4d00fc90d6d852404d49a720cfecc7fa3ea0c5c1&width=1200&height=630",
+        "publishedAt": "2026-08-11T21:09:46Z",
+        "lang": "en",
+        "source": {
+            "id": "85e5403407038478a5e7d8d100ff8e8f",
+            "name": "CP24 Toronto",
+            "url": "https://www.cp24.com",
+            "country": "ca"
+        }
+    },
+    {
         "id": "c33357015a2edde3ebc7aaa8198cb9cb",
         "title": "SA's AI royal commission is genuinely novel - but critics have warned of glitches",
         "description": "South Australia's royal commission into artificial intelligence is Premier Peter Malinauskas's latest foray into a national issue. There's no guarantee of success, writes state political reporter Thomas Kelsall.",
@@ -125,38 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "4f64f7cacd9417be8490370c41cfc94d",
-        "title": "AI & AI alone can help limit AI frauds: RBI Governor",
-        "description": "At FIBAC 2026, RBI Governor Sanjay Malhotra emphasized that banks must adopt artificial intelligence and machine learning models to detect real-time digital fraud, democratize credit, and lower operational costs.",
-        "content": "“Fraud today moves at a speed of an (application programming interface) API call. Rules-based fraud engines, however well-designed, are perpetually one step behind the fraudsters, who adapt more frequently. It is only AI and machine learning models, ... [1502 chars]",
-        "url": "https://www.financialexpress.com/business/banking-finance/ai-amp-ai-alone-can-help-limit-ai-frauds-rbi-governornbsp/4315738/",
-        "image": "https://images.financialexpressdigital.com/2026/08/Artificial-intelligence_20251109140415_20251121073953_20251123145912_20251217192848_20251219144708_20260220141953_20260227203818_20260703183355_20260704120044_20260718192416_20260731135805_20260811174232.jpg",
-        "publishedAt": "2026-08-11T17:43:47Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "35cc36f19b85754d31acc33039c970c8",
-        "title": "LinkedIn playbook offers guide to optimizing for AI",
-        "description": "As more people turn to chatbots for answers, the professional platform’s new playbook features tips on how to boost credibility via artificial intelligence citations.",
-        "content": "This audio is auto-generated. Please let us know if you have feedback.\nLinkedIn published a new playbookon how to optimize content for artificial intelligence chatbot citations. The guide explains how to use LinkedIn to boost brand credibility, which... [2214 chars]",
-        "url": "https://www.socialmediatoday.com/news/linkedin-playbook-offers-guide-to-optimizing-for-ai/827635/",
-        "image": "https://imgproxy.divecdn.com/sONCGz_CKm2tTN9hN3nDgWz_f6cclFSiwegvfL_84xU/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9saW5rZWRpbl9haV9zZWFyY2hfcnV6T0c1ci5wbmc=.webp",
-        "publishedAt": "2026-08-11T17:32:12Z",
-        "lang": "en",
-        "source": {
-            "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-            "name": "Social Media Today",
-            "url": "https://www.socialmediatoday.com",
-            "country": "us"
         }
     }
 ]
