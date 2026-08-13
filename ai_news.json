@@ -1,5 +1,21 @@
 [
     {
+        "id": "9085be857ff1889df78a7ba172ceccb9",
+        "title": "NeoCity’s Lily George found a spot ‘In the Game’ at EA Sports STEAM camp",
+        "description": "The more society enters into a digital world, the more it needs classes that teach and jobs that produce coding, the digital DNA, for those programs. Code is at the heart of new units like artificial intelligence, and companies that produce games that require massive amounts of code, like sports title video game producer Electronic Arts, will need students ready to hit the ground coding, armed with that technical knowledge.",
+        "content": "The more society enters into a digital world, the more it needs classes that teach and jobs that produce coding, the digital DNA, for those programs.\nCode is at the heart of new units like artificial intelligence, and companies that produce games tha... [2496 chars]",
+        "url": "https://www.aroundosceola.com/sports/neocitys-lily-george-found-spot-game-ea-sports-steam-camp",
+        "image": "https://www.aroundosceola.com/sites/aroundosceola.com/files/2026-08/Lily-George.jpg",
+        "publishedAt": "2026-08-13T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "4ecbadd82aa9fe7a52c0a3b5454020ab",
+            "name": "Around Osceola",
+            "url": "https://www.aroundosceola.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "8d63ad337b8e50cc77a68680dcf5b309",
         "title": "Target Appoints Its First-Ever AI Exec as the Retailer Pushes Deeper Into Artificial Intelligence. What It Means for TGT Stock.",
         "description": "Target appointed Chandhu Nair as its first chief artificial intelligence officer, effective Aug. 24, as the retailer expands its use of AI across inventory, operations, and customer experience.",
@@ -29,6 +45,22 @@
             "name": "Phys.org",
             "url": "https://phys.org",
             "country": "gb"
+        }
+    },
+    {
+        "id": "e8f573321df264668be1420613ab31d2",
+        "title": "Nurses seek a seat at the table as they fight expanding clinical AI",
+        "description": "Nurses are getting more vocal about the risks posed by clinical artificial intelligence to their jobs and patient care as the technology makes deeper inroads into the practice of medicine.",
+        "content": "As that workplace advocacy and bargaining continue, educators and researchers also have their eyes on the future: They’re trying to build solutions to support the next generation of nurses through training and involvement in how patient-facing AI is ... [7095 chars]",
+        "url": "https://www.bostonglobe.com/2026/08/12/business/nurses-clinical-ai/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/B53E75BHNWMGJ3ADCKFXAGLANI.jpg?auth=50c5bdd71cbfabe3cef2be7a250fbc200511d39d58df6fc14366cdeb1daaccce&width=1440",
+        "publishedAt": "2026-08-12T22:05:47Z",
+        "lang": "en",
+        "source": {
+            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+            "name": "The Boston Globe",
+            "url": "https://www.bostonglobe.com",
+            "country": "us"
         }
     },
     {
@@ -125,38 +157,6 @@
             "name": "CBC.ca",
             "url": "https://www.cbc.ca",
             "country": "ca"
-        }
-    },
-    {
-        "id": "d9cac34eb734502ee42b252285d724da",
-        "title": "The blueprint for agentic operations",
-        "description": "This report details new emerging artificial intelligence (AI)-first operating models organized around agentic workflows spanning functional domains— based on",
-        "content": "This report details new emerging artificial intelligence (AI)-first operating models organized around agentic workflows spanning functional domains— based on an IBV survey of more than 2,000 C‑suite executives across 16 countries and 17 industries. T... [508 chars]",
-        "url": "https://www.europesays.com/3189896/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/AzAiEtFsAgbK6o4A6cYGBK-1920-80.png",
-        "publishedAt": "2026-08-12T19:54:20Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1404634d1c75f22b73f3e5564fc3a957",
-        "title": "Beyond medical breakthroughs: Health literacy India’s greatest need",
-        "description": "India stands at a remarkable moment in medical history. Artificial intelligence, precision medicine, robotic surgery, organ transplantation and newer therapies are transforming healthcare. Yet, millions of people continue to suffer from diseases that are largely preventable. Scientific progress alone cannot improve public health unless people understand how to protect themselves.",
-        "content": "India stands at a remarkable moment in medical history. Artificial intelligence, precision medicine, robotic surgery, organ transplantation and newer therapies are transforming healthcare. Yet, millions of people continue to suffer from diseases that... [7014 chars]",
-        "url": "https://www.tribuneindia.com/news/himachal/beyond-medical-breakthroughs-health-literacy-indias-greatest-need/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ2ODc3ZTcwLTk2YzMtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-12T19:52:12Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
         }
     }
 ]
