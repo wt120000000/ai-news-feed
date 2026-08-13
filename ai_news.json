@@ -1,5 +1,53 @@
 [
     {
+        "id": "71f9195b936af0d39f6a76e8d1a42b8b",
+        "title": "Bernie Sanders claims AI will eliminate jobs, demands government action",
+        "description": "Artificial intelligence has sparked fears of job displacement from Democrats like Sen. Bernie Sanders, but U.S. employment data shows continued growth since AI chatbots launched.",
+        "content": "In recent months, top Democrats like Sen. Bernie Sanders, I-Vt., who caucuses with Senate Democrats, have raised fears about artificial intelligence and cast dismal projections about what it might mean for the job market, pressing for government inte... [5487 chars]",
+        "url": "https://www.foxnews.com/politics/dems-sound-alarm-ai-job-apocalypse-labor-market-isnt-following-script",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/bernie-sanders-alexandria-ocasio-cortez-march-2026.jpg",
+        "publishedAt": "2026-08-13T11:21:19Z",
+        "lang": "en",
+        "source": {
+            "id": "8da923084554b2821233d6c5c5f02c97",
+            "name": "Fox News",
+            "url": "https://www.foxnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "1c317e8a45383653f1c8d337121aee67",
+        "title": "‘Akron Pulse’ creates discovery platform for local events",
+        "description": "Photo courtesy of Mac Love AKRON — Summit County residents Byron Delpinal, of Green, and Mac Love, of Akron, have launched “Akron Pulse,” a new local events platform that uses a combination of design, engineering and technology to provide a comprehensive and user-friendly regional events calendar in the area. “We used [artificial intelligence] to build",
+        "content": "AKRON — Summit County residents Byron Delpinal, of Green, and Mac Love, of Akron, have launched “Akron Pulse,” a new local events platform that uses a combination of design, engineering and technology to provide a comprehensive and user-friendly regi... [2532 chars]",
+        "url": "https://www.akron.com/articles/akron-pulse-creates-discovery-platform-for-local-events/",
+        "image": "https://www.akron.com/wp-content/uploads/2026/08/Akron-PulseCOVER.jpg",
+        "publishedAt": "2026-08-13T11:00:31Z",
+        "lang": "en",
+        "source": {
+            "id": "b2be64a3780bbe84214fe23ea9ac98db",
+            "name": "akron.com",
+            "url": "https://www.akron.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "a74a7ab00a34c82a06ae6805d6017907",
+        "title": "Chatbots are doing the work of Congress with little oversight",
+        "description": "Lawmakers and staffers are using artificial intelligence to write speeches and news releases, sort constituent mail, prepare questions for congressional hearings and draft amendments.",
+        "content": "The amendment was one of hundreds filed this summer to an annual defense bill making its way through Congress. Along with her proposed change, Rep. Anna Paulina Luna’s office had sent a summary of what it would do.\nBut the first line made no sense.\n“... [11269 chars]",
+        "url": "https://www.inquirer.com/politics/nation/congress-staff-ai-chatbot-use-20260813.html",
+        "image": "https://www.inquirer.com/resizer/v2/GO3NPHDO3YA7YVFLFQ7DEO25ZY.jpg?auth=546c93b1fa705aa9af86841e4c294ee7166b4fd6a71c7f731988ae3d58b5248d&width=760&height=507&smart=true",
+        "publishedAt": "2026-08-13T10:46:28Z",
+        "lang": "en",
+        "source": {
+            "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+            "name": "The Philadelphia Inquirer",
+            "url": "https://www.inquirer.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "62af5b19e6bfc186ea7b666995c1cda6",
         "title": "Punjab Police's Sadak Surakhya Force to become India's first 3D policing model",
         "description": "The longer term Vision SSF 2047 seeks to build an integrated road safety ecosystem combining satellite data, artificial intelligence, drones and geospatial tech",
@@ -109,54 +157,6 @@
             "name": "TechBullion",
             "url": "https://techbullion.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "e42715bf89b0c56729e06a7938b66de8",
-        "title": "Kushal Yuva Program extended till 2031: Check eligibility, benefits and other details",
-        "description": "Additional CS (Cabinet) Md Sohail said that the curriculum will be recalibrated to reflect rapid advances in artificial intelligence and digital technologies.",
-        "content": "The Bihar government has approved the extension of the Kushal Yuva scheme for five more years, until 2030-31. The Kushal Yuva scheme will continue from the financial year 2026-27 through 2030-31. The government has allocated ₹430.08 crore for the pro... [2964 chars]",
-        "url": "https://www.hindustantimes.com/education/features/kushal-yuva-program-extended-till-2031-check-eligibility-benefits-and-other-details-101786611574859.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/13/1600x900/logo/A-high-level-delegation-from-Baden-Wurttemberg-was_1765132858182_1786611780840_283f14ec-f77e-472d-891d-6749a3c22c17.jpg",
-        "publishedAt": "2026-08-13T09:08:01Z",
-        "lang": "en",
-        "source": {
-            "id": "21468bec836de1ebb209ff6f78fbfe3e",
-            "name": "Hindustan Times",
-            "url": "https://www.hindustantimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a12b8ffd540051fe2afd6814a7241321",
-        "title": "AI boom or bubble? Timing is everything",
-        "description": "Artificial intelligence is a game-changing technology that’s already transforming how the world lives and works.",
-        "content": "Artificial intelligence is a game-changing technology that’s already transforming how the world lives and works.\nYet AI can also fuel a market meltdown, a recession – or both.\nTiming is everything. Money is pouring into AI so rapidly that it’s outpac... [6033 chars]",
-        "url": "https://edition.cnn.com/2026/08/13/business/ai-stock-tech-bubble",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1400563623.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-08-13T09:00:29Z",
-        "lang": "en",
-        "source": {
-            "id": "26269dbc42635df9af8c24f3cdab8e37",
-            "name": "Cable News Network",
-            "url": "https://edition.cnn.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "2067bdcb395d844871bcf81083f2701a",
-        "title": "AI data centers fuel demand for skilled trades apprenticeship programs",
-        "description": "Artificial intelligence data centers need 140,000 additional skilled trades workers by 2030. Swiss-style apprenticeship programs could help address labor shortages.",
-        "content": "NEWYou can now listen to Fox News articles!\nThe future of artificial intelligence may depend less on coders than on construction workers, electricians and factory technicians.\nTech companies are pouring money into new artificial intelligence (AI) dat... [3753 chars]",
-        "url": "https://www.foxnews.com/opinion/america-needs-thousands-blue-collar-workers-manufacture-ai-future",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/power-worker-lines.png",
-        "publishedAt": "2026-08-13T09:00:23Z",
-        "lang": "en",
-        "source": {
-            "id": "8da923084554b2821233d6c5c5f02c97",
-            "name": "Fox News",
-            "url": "https://www.foxnews.com",
-            "country": "us"
         }
     }
 ]
