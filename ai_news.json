@@ -1,5 +1,85 @@
 [
     {
+        "id": "e0c9e78eb6ed380788be890a1614b82e",
+        "title": "Anthropic in talks to buy startup Decart AI for $6 billion",
+        "description": "Decart’s software can reduce the cost of training artificial intelligence models by helping chips work more efficiently. That technology could help Anthropic’s existing infrastructure absorb more demand, according to a person familiar with the matter. Anthropic, which rarely makes large acquisitions, has been spending heavily on computing power to develop new products and serve customers.",
+        "content": "Synopsis\nDecart’s software can reduce the cost of training artificial intelligence models by helping chips work more efficiently. That technology could help Anthropic’s existing infrastructure absorb more demand, according to a person familiar with t... [2384 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-to-buy-startup-decart-ai-for-6-billion/articleshow/133196950.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-25480,resizemode-75,msid-133196950/tech/artificial-intelligence/anthropic-in-talks-to-buy-startup-decart-ai-for-6-billion.jpg",
+        "publishedAt": "2026-08-13T03:39:11Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "39fd7f868d354d2eea680ef53e0bf5ca",
+        "title": "Through algorithmic lens: Retracing dawn of modern Korea in Seoul",
+        "description": "Artificial intelligence (AI)-assisted travel often has a goal of finding cheaper flight tickets and affordable accommodation options. Recently, how...",
+        "content": "Artificial intelligence (AI)-assisted travel often has a goal of finding cheaper flight tickets and affordable accommodation options.\nRecently, however, an acquaintance of mine living in Seattle reached out asking for advice on planning her upcoming ... [11780 chars]",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260813/through-algorithmic-lens-retracing-dawn-of-modern-korea-in-seoul",
+        "image": "https://newsimg.koreatimes.co.kr/2026/08/12/d89ade56-8f08-4a86-bac1-190a02c3309d.jpg",
+        "publishedAt": "2026-08-13T03:00:04Z",
+        "lang": "en",
+        "source": {
+            "id": "9f2e79f0f9194d0d88f0074def064e60",
+            "name": "The Korea Times",
+            "url": "https://www.koreatimes.co.kr",
+            "country": "kr"
+        }
+    },
+    {
+        "id": "be6e8d2d6bb8958dbdf0b665e411f8cb",
+        "title": "Opinion: ‘Think of all we love’ - we are at a perilous moment when it comes to artificial intelligence",
+        "description": "A group of AI experts are warning we must ‘pace the frontier’",
+        "content": "A truly remarkable document was published last week. It is an open letter, signed by 1,376 engineers and other experts who work on “frontier AI” — that is, cutting-edge artificial intelligence — at the leading AI companies, such as Anthropic, OpenAI ... [6843 chars]",
+        "url": "https://www.deseret.com/opinion/2026/08/12/ai-open-letter-pace-the-frontier/",
+        "image": "https://www.deseret.com/resizer/v2/TUMLBBD6Q5AANBJNXYQY5JSK6Q.jpg?focal=1600%2C967&auth=3a2d1adb62141b3eab15fc9ba395bf7d7427f793c34280b0f2b6ebb6b71847d5&width=630&height=331",
+        "publishedAt": "2026-08-13T03:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "aaa6f2928e430ec2ed450ed89cc822f5",
+            "name": "Salt Lake City Deseret News",
+            "url": "https://www.deseret.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e2e986ec7275df4c2e446280b49573ed",
+        "title": "DeepSeek publicises efforts to challenge Anthropic’s Claude Code",
+        "description": "DeepSeek has set up an official social media account and posted job listings for a new team focused on helping develop artificial intelligence agents that can take on services like Anthropic PBC's popular Claude Code.",
+        "content": "DeepSeek has set up an official social media account and posted job listings for a new team focused on helping develop artificial intelligence (AI) agents that can take on services like Anthropic PBC’s popular Claude Code.\nThe Hangzhou-based company ... [1475 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/13/deepseek-publicises-efforts-to-challenge-anthropics-claude-code",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/13/4057117.jpg",
+        "publishedAt": "2026-08-13T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "7c598fab41149ea397a42a394a16c6a4",
+        "title": "Chinese firm tops Micron and Kioxia in shipments of NAND memory chips",
+        "description": "Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.",
+        "content": "BEIJING — Yangtze Memory Technologies is rapidly gaining market share in a critical chip sector, according to Counterpoint Research.\nThe company, also known as YMTC, landed in third place by shipments globally in the second quarter, behind South Kore... [1968 chars]",
+        "url": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108348863-1786584005383-gettyimages-2219721785-UK_GLOBAL_SWITCH.jpeg?v=1786584097&w=1920&h=1080",
+        "publishedAt": "2026-08-13T02:59:50Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "94f198b10bddd0e4da7db1dd54e68980",
         "title": "Elon Musk to Spacex employees at townhall: You will effectively be the parents of AI, it will inherit your …",
         "description": "Tech News News: Elon Musk has reportedly informed SpaceX employees during a recent company town hall that the company plans to train its Grok artificial intelligence .",
@@ -77,86 +157,6 @@
             "name": "Around Osceola",
             "url": "https://www.aroundosceola.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "8d63ad337b8e50cc77a68680dcf5b309",
-        "title": "Target Appoints Its First-Ever AI Exec as the Retailer Pushes Deeper Into Artificial Intelligence. What It Means for TGT Stock.",
-        "description": "Target appointed Chandhu Nair as its first chief artificial intelligence officer, effective Aug. 24, as the retailer expands its use of AI across inventory, operations, and customer experience.",
-        "content": "Artificial intelligence has quickly become a major spending priority. Worldwide AI spending is expected to reach $2.59 trillion in 2026, up 47% from the prior year. Much of that spending is coming from large cloud companies and technology vendors, bu... [5748 chars]",
-        "url": "https://www.barchart.com/story/news/3816502/target-appoints-its-first-ever-ai-exec-as-the-retailer-pushes-deeper-into-artificial-intelligence-what-it-means-for-tgt-stock",
-        "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Consumer%20Defensive/Target%20Corp%20logo%20sign-%20by%20jetcityimage%20via%20iStock.jpg",
-        "publishedAt": "2026-08-12T23:30:02Z",
-        "lang": "en",
-        "source": {
-            "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-            "name": "Barchart",
-            "url": "https://www.barchart.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "921b210eab2392a1f90b25f39eb7f2bd",
-        "title": "AI‑designed viruses are a test of whether biosecurity can keep pace",
-        "description": "Scientists have crossed an important line in biological engineering. In a recent study, researchers used artificial intelligence to design complete sets of genetic instructions for bacteriophages, viruses that infect bacteria. Some of those computer-generated designs produced working viruses when they were built and tested in the laboratory.",
-        "content": "Scientists have crossed an important line in biological engineering. In a recent study, researchers used artificial intelligence to design complete sets of genetic instructions for bacteriophages, viruses that infect bacteria. Some of those computer-... [6414 chars]",
-        "url": "https://phys.org/news/2026-08-aidesigned-viruses-biosecurity-pace.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2016/1-zikavirus.jpg",
-        "publishedAt": "2026-08-12T23:20:07Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "e8f573321df264668be1420613ab31d2",
-        "title": "Nurses seek a seat at the table as they fight expanding clinical AI",
-        "description": "Nurses are getting more vocal about the risks posed by clinical artificial intelligence to their jobs and patient care as the technology makes deeper inroads into the practice of medicine.",
-        "content": "As that workplace advocacy and bargaining continue, educators and researchers also have their eyes on the future: They’re trying to build solutions to support the next generation of nurses through training and involvement in how patient-facing AI is ... [7095 chars]",
-        "url": "https://www.bostonglobe.com/2026/08/12/business/nurses-clinical-ai/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/B53E75BHNWMGJ3ADCKFXAGLANI.jpg?auth=50c5bdd71cbfabe3cef2be7a250fbc200511d39d58df6fc14366cdeb1daaccce&width=1440",
-        "publishedAt": "2026-08-12T22:05:47Z",
-        "lang": "en",
-        "source": {
-            "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-            "name": "The Boston Globe",
-            "url": "https://www.bostonglobe.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "37f844c223d0ad7355abf96349513921",
-        "title": "Harper’s new AI certificate programs meet workforce demand : Harper College",
-        "description": "Harper College is launching three new artificial intelligence certificate programs this fall to help meet the growing demand for AI-related skills in the",
-        "content": "Harper College is launching three new artificial intelligence certificate programs\nthis fall to help meet the growing demand for AI-related skills in the workplace.\nThe AI Strategist,Computer Vision and Deep Learning Specialist, and Cloud Computing A... [5450 chars]",
-        "url": "https://www.europesays.com/3190040/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/AICerts2026.jpg",
-        "publishedAt": "2026-08-12T21:52:25Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "34d912a68650e976ba1532e570e38f15",
-        "title": "Patients wary of governments, companies pushing AI as a rural health care solution",
-        "description": "Two of the nation's most powerful health officials predict artificial intelligence will play a key role in solving rural America's health challenges. Health secretary Robert F. Kennedy Jr. told a panel of U.S. senators that AI nurses can provide \"concierge care\" to rural patients. Dr. Mehmet Oz, who leads the Centers for Medicare & Medicaid Services, has said \"the best way to help some of these communities is going to be AI-based avatars\" that connect rural patients to mental health services.",
-        "content": "Two of the nation's most powerful health officials predict artificial intelligence will play a key role in solving rural America's health challenges. Health secretary Robert F. Kennedy Jr. told a panel of U.S. senators that AI nurses can provide \"con... [9860 chars]",
-        "url": "https://medicalxpress.com/news/2026-08-patients-wary-companies-ai-rural.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/patients-wary-of-gover.jpg",
-        "publishedAt": "2026-08-12T21:40:08Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
         }
     }
 ]
