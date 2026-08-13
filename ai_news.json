@@ -1,5 +1,37 @@
 [
     {
+        "id": "8d63ad337b8e50cc77a68680dcf5b309",
+        "title": "Target Appoints Its First-Ever AI Exec as the Retailer Pushes Deeper Into Artificial Intelligence. What It Means for TGT Stock.",
+        "description": "Target appointed Chandhu Nair as its first chief artificial intelligence officer, effective Aug. 24, as the retailer expands its use of AI across inventory, operations, and customer experience.",
+        "content": "Artificial intelligence has quickly become a major spending priority. Worldwide AI spending is expected to reach $2.59 trillion in 2026, up 47% from the prior year. Much of that spending is coming from large cloud companies and technology vendors, bu... [5748 chars]",
+        "url": "https://www.barchart.com/story/news/3816502/target-appoints-its-first-ever-ai-exec-as-the-retailer-pushes-deeper-into-artificial-intelligence-what-it-means-for-tgt-stock",
+        "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Consumer%20Defensive/Target%20Corp%20logo%20sign-%20by%20jetcityimage%20via%20iStock.jpg",
+        "publishedAt": "2026-08-12T23:30:02Z",
+        "lang": "en",
+        "source": {
+            "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+            "name": "Barchart",
+            "url": "https://www.barchart.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "921b210eab2392a1f90b25f39eb7f2bd",
+        "title": "AI‑designed viruses are a test of whether biosecurity can keep pace",
+        "description": "Scientists have crossed an important line in biological engineering. In a recent study, researchers used artificial intelligence to design complete sets of genetic instructions for bacteriophages, viruses that infect bacteria. Some of those computer-generated designs produced working viruses when they were built and tested in the laboratory.",
+        "content": "Scientists have crossed an important line in biological engineering. In a recent study, researchers used artificial intelligence to design complete sets of genetic instructions for bacteriophages, viruses that infect bacteria. Some of those computer-... [6414 chars]",
+        "url": "https://phys.org/news/2026-08-aidesigned-viruses-biosecurity-pace.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2016/1-zikavirus.jpg",
+        "publishedAt": "2026-08-12T23:20:07Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
         "id": "37f844c223d0ad7355abf96349513921",
         "title": "Harper’s new AI certificate programs meet workforce demand : Harper College",
         "description": "Harper College is launching three new artificial intelligence certificate programs this fall to help meet the growing demand for AI-related skills in the",
@@ -125,38 +157,6 @@
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "eb8ff033d9c1b6dd0188642350503d55",
-        "title": "AI-augmented analysis sheds new light on Crohn's disease complications",
-        "description": "Scientists have combined Artificial Intelligence (AI), genetics and gut microbiome analysis to shed new light on one of the most serious complications of Crohn's disease: intestinal fibrosis, the irreversible scarring of the bowel that often leads to surgery.",
-        "content": "Scientists have combined Artificial Intelligence (AI), genetics and gut microbiome analysis to shed new light on one of the most serious complications of Crohn's disease: intestinal fibrosis, the irreversible scarring of the bowel that often leads to... [4136 chars]",
-        "url": "https://www.news-medical.net/news/20260812/AI-augmented-analysis-sheds-new-light-on-Crohns-disease-complications.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-        "publishedAt": "2026-08-12T19:37:00Z",
-        "lang": "en",
-        "source": {
-            "id": "6fea3ee012f060c6309366516e8d00be",
-            "name": "News-Medical.net",
-            "url": "https://www.news-medical.net",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "8bde1872540b4a7e21b5489df96ebbd4",
-        "title": "Oakville enacts data centre pause as Ontario municipalities wrestle with AI buildout",
-        "description": "Oakville has enacted a one-year moratorium on new data centres, becoming the first Ontario municipality to take the step as local lawmakers grapple with the concerns surrounding the new wave of facilities powering artificial intelligence.",
-        "content": "Oakville has enacted a one-year moratorium on new data centres, becoming the first Ontario municipality to take the step as local lawmakers grapple with the concerns surrounding the new wave of facilities powering artificial intelligence.\nCouncillors... [1955 chars]",
-        "url": "https://www.cp24.com/local/halton/2026/08/12/oakville-enacts-data-centre-pause-as-ontario-municipalities-wrestle-with-ai-buildout/",
-        "image": "https://www.cp24.com/resizer/v2/V3DFV7I4Y77X3RNALSV2DLKVYA.jpg?smart=true&auth=e3c34deac486c000b37e4ebdfe20c400f6f1f96792b9ca1474aa48af34600574&width=1200&height=630",
-        "publishedAt": "2026-08-12T19:02:54Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
         }
     }
 ]
