@@ -1,5 +1,37 @@
 [
     {
+        "id": "a3ffdbe01681cba5a6d5e3255bf4200b",
+        "title": "up explores AI, mental health, faith",
+        "description": "At a Dallas Morning News pop-up newsroom at SMU, faculty and staff discussed artificial intelligence, student mental health, religion, future of local news",
+        "content": "Earlier this summer, dozens of journalists worked in a pop-up newsroom at SMU’s Hughes-Trigg Student Center where readers and SMU students, faculty and staff members dropped by to share what was on their minds.\nThe pop-up newsroom is the signature ev... [7596 chars]",
+        "url": "https://www.dallasnews.com/news/article/dallas-news-pop-up-smu-22375847.php",
+        "image": "https://s.hdnux.com/photos/01/67/00/22/31196317/7/rawImage.jpg",
+        "publishedAt": "2026-08-13T17:34:00Z",
+        "lang": "en",
+        "source": {
+            "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+            "name": "The Dallas Morning News",
+            "url": "https://www.dallasnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "c0d1450219d8edbbef714a866a51ce07",
+        "title": "Nvidia Stock Loses $130 Billion in Market Value as AI Selloff Deepens",
+        "description": "Nvidia Corp. lost approximately $130 billion in market value in a single trading session as a selloff in artificial-intelligence-related equities deepened, according to financial reports. Nvidia shares closed sharply lower on the Nasdaq exchange, with the decline confirmed by market data cited in the article. The drop extended a period of heightened volatility for the […]",
+        "content": "Nvidia Corp. lost approximately $130 billion in market value in a single trading session as a selloff in artificial-intelligence-related equities deepened, according to financial reports. Nvidia shares closed sharply lower on the Nasdaq exchange, wit... [5937 chars]",
+        "url": "https://www.naturalnews.com/2026-08-13-nvidia-stock-loses-market-value-ai-selloff.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/nvidia-stock-market-selloff-ai-stocks-3325-original.jpg",
+        "publishedAt": "2026-08-13T17:32:27Z",
+        "lang": "en",
+        "source": {
+            "id": "188e9ebf53d05fc7ba360240a0b28154",
+            "name": "Natural News",
+            "url": "https://www.naturalnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "0e3fa422c8e5144b155168dfda65bd38",
         "title": "Trump White House says it's losing $19B-$26B a year in revenue as countries dodge tariffs",
         "description": "A new US report claims countries route exports through third nations to avoid tariffs. This practice, known as transshipping, costs the United States billions in lost tax revenue annually. China is specifically named as a country utilizing this method to circumvent import taxes. The Trump administration is implementing new measures and artificial intelligence to combat this trade evasion.",
@@ -124,38 +156,6 @@
             "id": "391302f06b19835f4e0d9f8b4aa57091",
             "name": "Breaking Defense",
             "url": "https://breakingdefense.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "bf76fbcd4f68dec9f4c1e5e97a884bfa",
-        "title": "Uttarakhand CM Dhami interacts with Doon University students, outlines initiatives on employment, migration and AI",
-        "description": "Uttarakhand Chief Minister Pushkar Singh Dhami on Thursday interacted with students at Doon University, where students raised questions on preventing migration from Uttarakhand, creating employment opportunities for youth, developing the state as a hub for higher education, new job opportunities in the era of science, technology and Artificial Intelligence (AI), and addressing traffic congestion in Dehradun.",
-        "content": "Dehradun (Uttarakhand) [India], August 13 (ANI): Uttarakhand Chief Minister Pushkar Singh Dhami on Thursday interacted with students at Doon University, where students raised questions on preventing migration from Uttarakhand, creating employment opp... [2093 chars]",
-        "url": "https://www.aninews.in/news/national/general-news/uttarakhand-cm-dhami-interacts-with-doon-university-students-outlines-initiatives-on-employment-migration-and-ai20260813201817/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260813144805-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-08-13T14:48:17Z",
-        "lang": "en",
-        "source": {
-            "id": "f282f77e41f55d72f00fefcaccc92954",
-            "name": "ANI (Asian News International)",
-            "url": "https://www.aninews.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "8145c4599320bd44ee294522a5717287",
-        "title": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding",
-        "description": "Databricks said on Thursday it had raised $5 billion at a $190 billion valuation, as the data ​and artificial intelligence software company looks to expand ‌investments in products that help businesses build and manage AI applications.",
-        "content": "Aug 13 (Reuters) - Databricks said on Thursday it had raised $5 billion at a $190 billion valuation, as the data ​and artificial intelligence software company looks to expand ‌investments in products that help businesses build and manage AI applicati... [861 chars]",
-        "url": "https://www.reuters.com/legal/transactional/databricks-raises-5-billion-financing-190-billion-valuation-2026-08-13/",
-        "image": "https://www.reuters.com/resizer/v2/Z3FRW5QHABNGBFQVM5EMHVINVQ.jpg?auth=254cb37e83f0998b203cc8659d56c7fdc9f0bbec53bd65e2bb5ca7dd4734475f&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-08-13T14:21:32Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
             "country": "us"
         }
     }
