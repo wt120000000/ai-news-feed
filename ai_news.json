@@ -1,5 +1,37 @@
 [
     {
+        "id": "994a6034034bf0592bc7d4483355fd84",
+        "title": "Your AI strategy shouldn't be dictated by your software vendor",
+        "description": "Artificial intelligence AI has become a strategic priority for enterprise organisations. As AI adoption matures, organisations are asking a different question: who should...",
+        "content": "GUEST OPINION: Artificial intelligence (AI) has become a strategic priority for enterprise organisations. As AI adoption matures, organisations are asking a different question: who should control their AI strategy?\nIncreasingly, the answer is that co... [3399 chars]",
+        "url": "https://itwire.com/guest-articles/guest-opinion/your-ai-strategy-shouldnt-be-dictated-by-your-software-vendor",
+        "image": "https://media.itwire.com/2026/08/14/your-ai-strategy-shouldnt-be-dictated-by-your-software-vendor-e6a71e7f8a07.jpg",
+        "publishedAt": "2026-08-14T00:46:24Z",
+        "lang": "en",
+        "source": {
+            "id": "10cbfb3760cfcdeb78c733c527f0e814",
+            "name": "iTWire",
+            "url": "https://itwire.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "855f9838195d434dfc8ae35b351a5186",
+        "title": "Commentary: Electricity Takes Center Stage in the Global AI Race",
+        "description": "Commentary: Electricity Takes Center Stage in the Global AI Race - As the demands of artificial intelligence push power grids to their limits, Beijing’s centralized infrastructure offers an immediate advantage over The U.S.’ fragmented system",
+        "content": "In the technology industry, a new adage is taking hold: the end of artificial intelligence (AI) is computing power, and the end of computing power is electricity. As AI rapidly evolves, electricity has shifted from a backstage utility to the front li... [391 chars]",
+        "url": "https://www.caixinglobal.com/2026-08-14/commentary-electricity-takes-center-stage-in-the-global-ai-race-102474099.html",
+        "image": "https://img.caixin.com/2026-08-13/178660857161434_560_373.jpg",
+        "publishedAt": "2026-08-14T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "f6aff458be2c33b80c8600fb696f68fb",
+            "name": "Caixin",
+            "url": "https://www.caixinglobal.com",
+            "country": "cn"
+        }
+    },
+    {
         "id": "c591efc9fdded851527e6f3ef1a8b6c3",
         "title": "The AI Buildout Is Fueling The Stock Market. It Could…",
         "description": "An argument in favor of the artificial intelligence boom is that it could make businesses dramatically more productive and goods and services cheaper. For the",
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "96af8ff167d6692365ebf95622ab4613",
-        "title": "How artificial intelligence is transforming online entertainment platforms",
-        "description": "It’s fair to say AI is not far from the lips of many across Augusta County. It’s transforming every industry and every role.",
-        "content": "It’s fair to say AI is not far from the lips of many across Augusta County. It’s transforming every industry and every role, whether we work in a hospital, in retail or in online entertainment like casinos, streaming services and gaming platforms.\nIt... [4377 chars]",
-        "url": "https://augustafreepress.com/commercial/how-artificial-intelligence-is-transforming-online-entertainment-platforms/",
-        "image": "https://augustafreepress.com/wp-content/uploads/2026/08/AI-gaming-igaming-casino-social.jpg",
-        "publishedAt": "2026-08-13T19:15:52Z",
-        "lang": "en",
-        "source": {
-            "id": "4cda04aac68febbbf6f365965739681e",
-            "name": "Augusta Free Press",
-            "url": "https://augustafreepress.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "58a4ccac41565cf686388ff5c99b0c4a",
-        "title": "AI digital twin platform advances personalized cancer treatment planning",
-        "description": "A research team at The Hong Kong Polytechnic University (PolyU) has developed a patient-centric \"Artificial Intelligence (AI) Virtual Patient Simulation System,\" overcoming the limitations of conventional static diagnosis.",
-        "content": "A research team at The Hong Kong Polytechnic University (PolyU) has developed a patient-centric \"Artificial Intelligence (AI) Virtual Patient Simulation System,\" overcoming the limitations of conventional static diagnosis.\nBy dynamically integrating ... [4128 chars]",
-        "url": "https://medicalxpress.com/news/2026-08-ai-digital-twin-platform-advances.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/ai-powered-virtual-pat-1.jpg",
-        "publishedAt": "2026-08-13T19:00:03Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
         }
     }
 ]
