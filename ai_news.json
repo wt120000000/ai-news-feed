@@ -1,5 +1,37 @@
 [
     {
+        "id": "2202e6bd5757456edf43e41ce47474a1",
+        "title": "Naidu inaugurates Seed Access Road for Amaravati, quarters for MLAs and MLCs",
+        "description": "Andhra Pradesh chief minister N Chandrababu Naidu on Thursday announced that Amaravati would be developed as a completely pollution-free city, and a major deep-tech hub, with plans to transform it into an Artificial Intelligence and Quantum Computing Valley | India News",
+        "content": "Addressing a public meeting after inaugurating the Amaravati Seed Access Road, the largest trunk road passing through the capital city, and bridges connecting the capital city with the old Vijayawada-Guntur highway, Naidu said the infrastructure was ... [2153 chars]",
+        "url": "https://www.hindustantimes.com/india-news/naidu-inaugurates-seed-access-road-for-amaravati-quarters-for-mlas-and-mlcs-101786649463583.html",
+        "image": "https://images.hindustantimes.com/default/1600x900.jpg",
+        "publishedAt": "2026-08-14T03:31:09Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "1d6c5c1f5e6bab1cd5672cb55a9ddbc5",
+        "title": "Maharashtra to form ministerial task force for effective implementation of drone policy",
+        "description": "The task force will be chaired by the state’s electronics, information technology, and artificial intelligence minister, Ashish Shelar | Mumbai news",
+        "content": "The move comes amid concerns raised by industry stakeholders over alleged conflicts of interest in the policy’s drafting, procedural delays, and a lack of competitive incentives compared to other states, among other issues.\nAt a meeting with represen... [2198 chars]",
+        "url": "https://www.hindustantimes.com/cities/mumbai-news/maharashtra-to-form-ministerial-task-force-for-effective-implementation-of-drone-policy-101786648258379.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/13/1600x900/logo/The-task-force-will-be-chaired-by-the-state-s-elec_1786648256580.jpg",
+        "publishedAt": "2026-08-14T03:19:07Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "3306272e0675e12bbf7a433cf87cd6be",
         "title": "Taiwan says AI agents used in cyberattacks targeting island",
         "description": "Overseas hackers used artificial intelligence agents to help carry out a wave of cyberattacks targeting Taiwanese government agencies in July, the island's digital affairs ministry said Thursday. The cyberattacks began in July and the \"affected agencies have successively completed the response measures\", the Ministry of Digital Affairs said in a statement, without providing further details on the scale, damage or targets of the attacks.",
@@ -125,38 +157,6 @@
             "name": "The Philadelphia Inquirer",
             "url": "https://www.inquirer.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "e31258b2216040a297eb1fbfa1993d58",
-        "title": "Column: AI is reshaping Hampton Roads before our eyes",
-        "description": "Artificial intelligence requires physical infrastructure. The question is how Virginia chooses to build it, writer Jeff Bennett argues in a guest column.",
-        "content": "Last month, the Chesapeake City Council did something unusual.\nRather than approving the next wave of data center development, council members unanimously voted to pause new applications for eight months. They wanted time to study where these facilit... [3938 chars]",
-        "url": "https://www.pilotonline.com/2026/08/13/column-ai-is-reshaping-hampton-roads-before-our-eyes/",
-        "image": "https://www.pilotonline.com/wp-content/uploads/2026/07/TVP-L-NW-DATA-CENTER-HEARING-PC-005.jpg?w=3600&h=2400",
-        "publishedAt": "2026-08-13T22:05:16Z",
-        "lang": "en",
-        "source": {
-            "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
-            "name": "Norfolk Virginian-Pilot",
-            "url": "https://www.pilotonline.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a6e3d419410ec7ddea8e10cb1e572a85",
-        "title": "Can AI guide tourists through Korean history?",
-        "description": "Artificial intelligence (AI)-assisted travel often has a goal of finding cheaper flight tickets or affordable accommodation options. Recently, howe...",
-        "content": "Artificial intelligence (AI)-assisted travel often has a goal of finding cheaper flight tickets or affordable accommodation options.\nRecently, however, an acquaintance of mine living in Seattle reached out, asking for advice on planning her upcoming ... [10781 chars]",
-        "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260814/can-ai-guide-tourists-through-korean-history",
-        "image": "https://newsimg.koreatimes.co.kr/2026/08/13/2fe321ab-ba61-4cea-97d8-21e67bb7ca96.jpg",
-        "publishedAt": "2026-08-13T22:00:09Z",
-        "lang": "en",
-        "source": {
-            "id": "9f2e79f0f9194d0d88f0074def064e60",
-            "name": "The Korea Times",
-            "url": "https://www.koreatimes.co.kr",
-            "country": "kr"
         }
     }
 ]
