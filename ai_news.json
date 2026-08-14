@@ -1,5 +1,37 @@
 [
     {
+        "id": "d26711ec55eaaf25da622ac141d3cc5e",
+        "title": "Apple trains its own AI model for China market with Alibaba ahead of Apple Intelligence launch",
+        "description": "Apple has developed a customized large language model LLM specifically for the Chinese market with the technical backing of Alibaba Group, marking a major shift in its local artificial intelligence...",
+        "content": "Apple has developed a customized large language model LLM specifically for the Chinese market with the technical backing of Alibaba Group, marking a major shift in its local artificial intelligence strategy.\nThe tech giant has trained a LLM, as a dep... [1635 chars]",
+        "url": "https://www.thenews.com.pk/latest/1412233-apple-trains-its-own-ai-model-for-china-market-with-alibaba-ahead-of-apple-intelligence-launch",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-08-14/1412233_124252_updates.jpg",
+        "publishedAt": "2026-08-14T07:41:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
+        "id": "065c364fb68213a349b1b4aa926bb272",
+        "title": "Punjab’s road safety force turns to AI, drones and satellites after saving 47,000 lives",
+        "description": "Punjab's Sadak Surakhya Force (SSF), a dedicated highway patrol launched in 2024, is planning to use artificial intelligence, drones, satellite imager.",
+        "content": "Punjab Police\nPunjab's Sadak Surakhya Force (SSF), a dedicated highway patrol launched in 2024, is planning to use artificial intelligence, drones, satellite imagery and geospatial technology to build what the state police describes as India's first ... [7372 chars]",
+        "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjabs-road-safety-force-turns-to-ai-drones-and-satellites-after-saving-47000-lives/articleshow/133231761.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133231994,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-14T07:16:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "535eb76f8ec488677a06fd7dcb71f831",
         "title": "HCLTech, NetApp expand partnership to deliver hybrid cloud storage",
         "description": "HCLTech and NetApp expanded their partnership for hybrid cloud storage-as-a-service (STaaS) to accelerate enterprise AI adoption. The initiative is designed to assist organisations in scaling artificial intelligence alongside traditional enterprise data workloads.",
@@ -124,38 +156,6 @@
             "id": "21468bec836de1ebb209ff6f78fbfe3e",
             "name": "Hindustan Times",
             "url": "https://www.hindustantimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1d6c5c1f5e6bab1cd5672cb55a9ddbc5",
-        "title": "Maharashtra to form ministerial task force for effective implementation of drone policy",
-        "description": "The task force will be chaired by the state’s electronics, information technology, and artificial intelligence minister, Ashish Shelar | Mumbai news",
-        "content": "The move comes amid concerns raised by industry stakeholders over alleged conflicts of interest in the policy’s drafting, procedural delays, and a lack of competitive incentives compared to other states, among other issues.\nAt a meeting with represen... [2198 chars]",
-        "url": "https://www.hindustantimes.com/cities/mumbai-news/maharashtra-to-form-ministerial-task-force-for-effective-implementation-of-drone-policy-101786648258379.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/13/1600x900/logo/The-task-force-will-be-chaired-by-the-state-s-elec_1786648256580.jpg",
-        "publishedAt": "2026-08-14T03:19:07Z",
-        "lang": "en",
-        "source": {
-            "id": "21468bec836de1ebb209ff6f78fbfe3e",
-            "name": "Hindustan Times",
-            "url": "https://www.hindustantimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "3306272e0675e12bbf7a433cf87cd6be",
-        "title": "Taiwan says AI agents used in cyberattacks targeting island",
-        "description": "Overseas hackers used artificial intelligence agents to help carry out a wave of cyberattacks targeting Taiwanese government agencies in July, the island's digital affairs ministry said Thursday. The cyberattacks began in July and the \"affected agencies have successively completed the response measures\", the Ministry of Digital Affairs said in a statement, without providing further details on the scale, damage or targets of the attacks.",
-        "content": "Synopsis\nOverseas hackers used artificial intelligence agents to help carry out a wave of cyberattacks targeting Taiwanese government agencies in July, the island's digital affairs ministry said Thursday. The cyberattacks began in July and the \"affec... [2925 chars]",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-says-ai-agents-used-in-cyberattacks-targeting-island/articleshow/133227692.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-107509,resizemode-75,msid-133227692/tech/artificial-intelligence/taiwan-says-ai-agents-used-in-cyberattacks-targeting-island.jpg",
-        "publishedAt": "2026-08-14T02:50:09Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
