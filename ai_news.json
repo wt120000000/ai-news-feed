@@ -1,5 +1,21 @@
 [
     {
+        "id": "4dbaec52b0998452ed4261d53848750a",
+        "title": "‘Revenge is inevitable’: Iran ramps up propaganda war with violent billboards",
+        "description": "Anti-U.S. messaging has intensified in recent weeks following the death of Supreme Leader Ayatollah Ali Khamenei, with artificial intelligence playing a major role.",
+        "content": "The billboards are state-sponsored, plastered across Iran’s capital and far from subtle. One features an image of President Donald Trump lying in a casket; another shows the White House on fire; a third is a parody of the American flag with skulls in... [2855 chars]",
+        "url": "https://www.nbcnews.com/world/iran/revenge-inevitable-iran-ramps-propaganda-war-violent-billboards-rcna591867",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260811-tehran-mb-1232-2f8c36.jpg",
+        "publishedAt": "2026-08-15T09:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "59658bd1026cf6c65bda73f50103552b",
         "title": "Rockwell Automation advances software-driven control platforms across global plants",
         "description": "Rockwell Automation is accelerating its transition from a traditional hardware supplier into a software-led industrial intelligence provider, embedding artificial intelligence, autonomous robotics, and cloud-native software directly into the core control layers of global manufacturing. The industrial technology giant detailed these developments during its second-quarter fiscal year 2026 reporting, outlining how software-defined systems are restructuring operational architecture across mission-critical sectors.",
@@ -141,22 +157,6 @@
             "name": "Arkansas Online",
             "url": "https://www.arkansasonline.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "45d954c5cf3ca507fe7ebafbc4a1e417",
-        "title": "AI era to reshape banking operations, unlock productivity beyond digitisation: Report",
-        "description": "Indian banks will need to move beyond digitising structured processes and fundamentally redesign their operating models to unlock the next wave of productivity from artificial intelligence (AI), with agentic AI expected to automate complex tasks while enabling employees to focus on higher-value decisions, according to a report by FICCI, IBA and Boston Consulting Group (BCG).",
-        "content": "New Delhi [India], August 15 (ANI): Indian banks will need to move beyond digitising structured processes and fundamentally redesign their operating models to unlock the next wave of productivity from artificial intelligence (AI), with agentic AI exp... [994 chars]",
-        "url": "https://www.aninews.in/news/business/ai-era-to-reshape-banking-operations-unlock-productivity-beyond-digitisation-report20260815121318/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260815064000-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-08-15T06:43:19Z",
-        "lang": "en",
-        "source": {
-            "id": "f282f77e41f55d72f00fefcaccc92954",
-            "name": "ANI (Asian News International)",
-            "url": "https://www.aninews.in",
-            "country": "in"
         }
     }
 ]
