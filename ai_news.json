@@ -1,5 +1,37 @@
 [
     {
+        "id": "80e5924f6227caa0e023ae43725dbe89",
+        "title": "China’s Z.ai claims its new GLM-5.3 model is close to Anthropic’s Mythos 5 level in cybersecurity tests",
+        "description": "Tech News News: Chinese artificial intelligence (AI) startup Z.ai has announced that its upcoming open-source model, GLM-5.3, demonstrated vulnerability detection cap.",
+        "content": "Representative image\nChinese artificial intelligence (AI) startup Z.ai has announced that its upcoming open-source model, GLM-5.3, demonstrated vulnerability detection capabilities on par with Anthropic’s restricted cybersecurity model, Mythos 5. Cit... [2406 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/chinas-z-ai-claims-its-new-glm-5-3-model-is-close-to-anthropics-mythos-5-level-in-cybersecurity-tests/articleshow/133245860.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133245928,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-14T15:33:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "1113d7b63125cd7f5e28cd4966352fe1",
+        "title": "Elon Musk's SpaceX gears up to take on rivals OpenAI, Anthropic with $60 billion acquisition of AI startup Cursor",
+        "description": "SpaceX has completed a $60 billion acquisition of artificial intelligence coding startup Cursor, a key part of Elon Musk’s bid to gain ground on rivals Anthropic PBC and OpenAI.",
+        "content": "(Bloomberg) — SpaceX has completed a $60 billion acquisition of artificial intelligence coding startup Cursor, a key part of Elon Musk’s bid to gain ground on rivals Anthropic PBC and OpenAI.\nThe deal became effective on Aug. 14, according to a regul... [2205 chars]",
+        "url": "https://www.livemint.com/companies/news/elon-musks-spacex-gears-up-to-take-on-rivals-openai-anthropic-with-60-billion-acquisition-of-ai-startup-cursor-11786716524549.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/FILES-US-TECH-AI-COMPUTERS-AEROSPACE-1_17860181956_1786719667881_1786719668073_1816f817-7d7b-42cb-82a8-f3893c2a9d42.jpg",
+        "publishedAt": "2026-08-14T15:01:37Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "cc5891b2f3006328d2cb644fa2920bae",
         "title": "Proof Your Career In The Age Of AI",
         "description": "Artificial intelligence is reshaping the workplace—but not always in the ways people think. What does that mean for your career? Join Forbes expert journalists and leading workplace experts Thursday, August 27th at 12pm ET for a live conversation with audience Q&A about how AI is changing hiring, the careers and industries poised for growth, and the skills that matter most in the years ahead. Whether you're new to the job market, looking for your next opportunity or thinking about a career pivot, we'll share actionable insights to help you stay competitive in an increasingly AI-driven economy.",
@@ -124,38 +156,6 @@
             "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
             "name": "Fortune",
             "url": "https://fortune.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "02bd94262a0a45aa7d0a7d85ab03149d",
-        "title": "Apple’s China AI Push: iPhone Maker Trains Its Own Model With Alibaba",
-        "description": "Apple has trained a large language model specifically for the Chinese market with support from Alibaba Group, marking a shift in its approach to artificial intelligence (AI) in the country, according to a Reuters report.",
-        "content": "Apple has trained a large language model specifically for the Chinese market with support from Alibaba Group, marking a shift in its approach to artificial intelligence (AI) in the country, according to a Reuters report.\nThe China-specific model was ... [1746 chars]",
-        "url": "https://www.outlookbusiness.com/corporate/apples-china-ai-push-iphone-maker-trains-its-own-model-with-alibaba",
-        "image": "https://media.assettype.com/outlookbusiness/2026-08-14/1zpdwa8y/shutterstock2523340185.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-08-14T12:20:04Z",
-        "lang": "en",
-        "source": {
-            "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-            "name": "Outlook Business",
-            "url": "https://www.outlookbusiness.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "73ae58147f0044bddbbbd54a42718ac6",
-        "title": "Data breaches surge in 2026 as AI plays a growing role in cyberattacks",
-        "description": "Data breaches are surging in 2026, with artificial intelligence playing a growing role in cyberattacks, and 'malicious insider' incidents also on the rise.",
-        "content": "Daniel De La Hoz | Moment | Getty Images\nEven as companies devote more resources to cybersecurity, the number of reported data breaches involving consumers' personal data is on pace to surpass last year's record.\nMore than 471 million million victim ... [5159 chars]",
-        "url": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108349275-1786641181966-gettyimages-2154852749-img_8452.jpeg?v=1786641309&w=1920&h=1080",
-        "publishedAt": "2026-08-14T12:15:01Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
             "country": "us"
         }
     }
