@@ -1,5 +1,37 @@
 [
     {
+        "id": "29a19d185d654d3da8d03ff4ad9ba6e0",
+        "title": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
+        "description": "Tiny viruses that infect bacteria could one day help us tackle infections that antibiotics can no longer treat. But first, scientists need to understand how these viruses work, and artificial intelligence could provide them with a powerful way to do that.",
+        "content": "Tiny viruses that infect bacteria could one day help us tackle infections that antibiotics can no longer treat. But first, scientists need to understand how these viruses work, and artificial intelligence could provide them with a powerful way to do ... [6077 chars]",
+        "url": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg",
+        "publishedAt": "2026-08-16T00:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "09793a1ec5ba11289c79cb0cc13138bd",
+        "title": "NeoCity’s Lily George found a spot ‘In the Game’ at EA Sports STEAM camp",
+        "description": "The more society enters into a digital world, the more it needs classes that teach and jobs that produce coding, the digital DNA, for those programs. Code is at the heart of new units like artificial intelligence, and companies that produce games that require massive amounts of code, like sports title video game producer Electronic Arts, will need students ready to hit the ground coding, armed with that technical knowledge.",
+        "content": "The more society enters into a digital world, the more it needs classes that teach and jobs that produce coding, the digital DNA, for those programs.\nCode is at the heart of new units like artificial intelligence, and companies that produce games tha... [2496 chars]",
+        "url": "https://www.aroundosceola.com/news/neocitys-lily-george-found-spot-game-ea-sports-steam-camp",
+        "image": "https://www.aroundosceola.com/sites/aroundosceola.com/files/2026-08/Lily-George.jpg",
+        "publishedAt": "2026-08-16T00:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "4ecbadd82aa9fe7a52c0a3b5454020ab",
+            "name": "Around Osceola",
+            "url": "https://www.aroundosceola.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "13dba39bfb262350ddac7fc21b4725b0",
         "title": "Can Artificial Intelligence Replace Human Judges?",
         "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "8ddd8be355e8d4c2e61e9e0839ab82b0",
-        "title": "Scammers embrace AI-generated love",
-        "description": "PETALING JAYA: While most dream of a fairy tale love story, the rise of artificial intelligence has given scammers yet another tool to sell victims an illusion before disappearing with their money.",
-        "content": "Realistic photos, voices and videos trick victims\nPETALING JAYA: While most dream of a fairy tale love story, the rise of artificial intelligence has given scammers yet another tool to sell victims an illusion before disappearing with their money.\nBu... [3915 chars]",
-        "url": "https://www.thestar.com.my/news/nation/2026/08/16/scammers-embrace-ai-generated-love",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/16/4061731.jpeg",
-        "publishedAt": "2026-08-15T16:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "412954f1e6f1527b806425b036cdbb58",
-        "title": "Deciphering signs of a love scam before it’s too late",
-        "description": "PETALING JAYA: Artificial intelligence is enabling scammers to go beyond creating fake identities in love scams, allowing them to build fake intimacy that makes victims feel understood, cared for and trusted.",
-        "content": "PETALING JAYA: Artificial intelligence is enabling scammers to go beyond creating fake identities in love scams, allowing them to build fake intimacy that makes victims feel understood, cared for and trusted.\nUniversiti Malaya criminologist Dr Haezre... [2771 chars]",
-        "url": "https://www.thestar.com.my/news/nation/2026/08/16/deciphering-signs-of-a-love-scam-before-its-too-late",
-        "image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-        "publishedAt": "2026-08-15T16:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
