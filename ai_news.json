@@ -1,5 +1,37 @@
 [
     {
+        "id": "8ced4aed797b4336d04143c177ed581a",
+        "title": "AI Could Give Us 100 Years Of Medical Progress In Just 5-10 Years, Says Anthropic CEO",
+        "description": "The rapid advancement of artificial intelligence is highlighted by Anthropic's CEO, Dario Amodei, who believes this is just the beginning of AI's potential. He envisions that within the next decade, AI could significantly aid in curing diseases. , Technology & Science, Times Now",
+        "content": "Artificial intelligence is growing at a rapid pace, and companies like OpenAI and Anthropic are dropping one advanced model after another. In a recent development, Anthropic CEO Dario Amodei said that he believes what we see right now is only the beg... [1698 chars]",
+        "url": "https://www.timesnownews.com/technology-science/ai-could-give-us-100-years-of-medical-progress-in-just-5-10-years-says-anthropic-ceo-article-155696458",
+        "image": "https://images.timesnownews.com/thumb/msid-155696598,thumbsize-105494,width-1280,height-720,resizemode-75/155696598.jpg",
+        "publishedAt": "2026-08-16T11:14:13Z",
+        "lang": "en",
+        "source": {
+            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+            "name": "Times Now",
+            "url": "https://www.timesnownews.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "d982febbacad5b289659d3900aa5101d",
+        "title": "Open-weight AI won’t crimp demand for picks and shovels",
+        "description": "Some of the artificial intelligence boom’s biggest beneficiaries can cash in whether open models proliferate or not. | Technology News",
+        "content": "A wave of cheap and powerful Chinese open-weight AI models is causing a scare among investors in the AI boom. For a decent chunk of the tech universe, however, there is less to worry about than meets the eye.\nThe rapid advance of open-weight models, ... [5559 chars]",
+        "url": "https://www.hindustantimes.com/technology/openweight-ai-won-t-crimp-demand-for-picks-and-shovels-101786875793458.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/16/1600x900/logo/im-00376855_1786875797667_1786875825960_4fc9052b-b832-4c80-b16d-ad48f82e1f6b.jpg",
+        "publishedAt": "2026-08-16T10:24:28Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "9a26c3e4082810b97b246c1e0d1f2a0d",
         "title": "Flock is watching you | Sheneman",
         "description": "Second only to artificial intelligence data centers and AI itself, Flock cameras are drawing the ire of the masses over incidents of abuse.",
@@ -112,22 +144,6 @@
         }
     },
     {
-        "id": "ad9c7988c11d245f5ab41bea3c826300",
-        "title": "Young Korean workers hit hardest as AI automation slashes jobs",
-        "description": "More than half of the jobs lost by young Koreans in July were concentrated in industries heavily exposed to artificial intelligence (AI). This mark...",
-        "content": "More than half of the jobs lost by young Koreans in July were concentrated in industries heavily exposed to artificial intelligence (AI). This marks a dramatic departure from previous years, when youth employment dips were primarily driven by slowdow... [2146 chars]",
-        "url": "https://www.koreatimes.co.kr/economy/20260816/young-korean-workers-hit-hardest-as-ai-automation-slashes-jobs",
-        "image": "https://newsimg.koreatimes.co.kr/2026/08/16/48fcc600-9f03-45c9-b0e2-3aa0012d1109.jpg",
-        "publishedAt": "2026-08-16T07:16:03Z",
-        "lang": "en",
-        "source": {
-            "id": "9f2e79f0f9194d0d88f0074def064e60",
-            "name": "The Korea Times",
-            "url": "https://www.koreatimes.co.kr",
-            "country": "kr"
-        }
-    },
-    {
         "id": "bc068beb52593591f15829cfccb667ce",
         "title": "Young workers hit hardest as AI automation slashes jobs in Korea",
         "description": "More than half of the jobs lost by young Koreans in July were concentrated in industries heavily exposed to artificial intelligence (AI). This mark...",
@@ -141,22 +157,6 @@
             "name": "The Korea Times",
             "url": "https://www.koreatimes.co.kr",
             "country": "kr"
-        }
-    },
-    {
-        "id": "08b39719d784f301e22ae78ebc016e4f",
-        "title": "US corporate AI spending accelerates, but earnings impact remains limited: Goldman Sachs",
-        "description": "The impact of artificial intelligence (AI) adoption on US corporate earnings is expected to become more visible in the coming quarters as companies accelerate enterprise AI spending, although measurable productivity gains remain at an early stage, according to a Goldman Sachs report.",
-        "content": "New Delhi [India], August 16 (ANI): The impact of artificial intelligence (AI) adoption on US corporate earnings is expected to become more visible in the coming quarters as companies accelerate enterprise AI spending, although measurable productivit... [2365 chars]",
-        "url": "https://www.tribuneindia.com/news/business/us-corporate-ai-spending-accelerates-but-earnings-impact-remains-limited-goldman-sachs/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTMxNTFhNjYwLTk5M2YtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-16T06:53:25Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
         }
     }
 ]
