@@ -1,5 +1,21 @@
 [
     {
+        "id": "40eb7b3a9010c15289abcf8a11acaa7a",
+        "title": "Tuberville talks to ChatGPT on long drives: ‘You don’t know whether or not they’re 100% right’",
+        "description": "The senator, who is seeking the governor's house, was one of several lawmakers who spoke about their use of artificial intelligence tools.",
+        "content": "U.S. Sen. Tommy Tuberville says he has a conversational partner on long drives across Alabama - the artificial intelligence tool ChatGPT.\nTuberville was one of several federal lawmakers and staffers who told The Washington Post how they use A.I.\nThe ... [1593 chars]",
+        "url": "https://www.al.com/news/2026/08/tuberville-talks-to-chatgpt-on-long-drives-you-dont-know-whether-or-not-theyre-100-right.html",
+        "image": "https://www.al.com/resizer/v2/N4AM5SPUGVCADHXF56LWKDPCFA.jpg?auth=5f679d340f09fbcb48a33cb9c65a809793c1a866f510f0122bfb07801a21cde8&width=1280&smart=true&quality=90",
+        "publishedAt": "2026-08-16T01:39:50Z",
+        "lang": "en",
+        "source": {
+            "id": "6d317e2944258f799763413d14b479f4",
+            "name": "AL.com",
+            "url": "https://www.al.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "29a19d185d654d3da8d03ff4ad9ba6e0",
         "title": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
         "description": "Tiny viruses that infect bacteria could one day help us tackle infections that antibiotics can no longer treat. But first, scientists need to understand how these viruses work, and artificial intelligence could provide them with a powerful way to do that.",
@@ -141,22 +157,6 @@
             "name": "Natural News",
             "url": "https://www.naturalnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "433648067cd797861c30a4882797acce",
-        "title": "PH ahead in AI use, but firms lag",
-        "description": "PINOY workers are already among the most advanced users of artificial intelligence, but organizations need to change how they manage people, processes and technology if they are to capture the full value of AI, Microsoft Philippines said during a media briefing on the tech company’s latest Work Trend Index Annual Report.",
-        "content": "PINOY workers are already among the most advanced users of artificial intelligence, but organizations need to change how they manage people, processes and technology if they are to capture the full value of AI, Microsoft Philippines said during a med... [8041 chars]",
-        "url": "https://www.manilatimes.net/2026/08/16/business/sunday-business-it/ph-ahead-in-ai-use-but-firms-lag/2406152",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/15/1178006.jpg",
-        "publishedAt": "2026-08-15T16:06:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
