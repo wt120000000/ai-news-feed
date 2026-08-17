@@ -1,5 +1,21 @@
 [
     {
+        "id": "bccff436d6386c61bc1ed9a66c5e70b5",
+        "title": "Alibaba Overtakes Google and Meta With 3 Billion AI Downloads",
+        "description": "Open-weight models from China’s Alibaba have reportedly become the world’s top artificial intelligence offerings.",
+        "content": "The company’s models have seen more than 3 billion downloads worldwide over the last six months, surpassing those of Meta, Google and Alibaba’s Chinese competitors like DeepSeek, Bloomberg News reported Saturday (Aug. 15).\nAlibaba told Bloomberg in a... [2116 chars]",
+        "url": "https://www.europesays.com/3198121/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/08/Alibaba-Qwen-1.jpg",
+        "publishedAt": "2026-08-16T22:17:14Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "2453a637eec012b497b02fca664764a6",
         "title": "Scientists have designed a functioning virus from scratch using AI. What you need to know",
         "description": "Artificial intelligence has designed viruses that can infect bacteria and reproduce—a first that shows AI is beginning to do more than analyze the genetic code of living things. It can write new versions of it, too.",
@@ -141,22 +157,6 @@
             "name": "The Indian Express",
             "url": "https://indianexpress.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "8fd6320e5eea4d94cd3107ae768b0deb",
-        "title": "US to tell partners they must pick sides in AI race",
-        "description": "WASHINGTON — The US is preparing to tell dozens of countries they must pick sides in the artificial intelligence race with China, warning they will be excluded from a US-led AI coalition if they also sign up for Beijing’s competing framework, according to a US official and an internal draft reviewed by Reuters.",
-        "content": "WASHINGTON — The US is preparing to tell dozens of countries they must pick sides in the artificial intelligence race with China, warning they will be excluded from a US-led AI coalition if they also sign up for Beijing’s competing framework, accordi... [4113 chars]",
-        "url": "https://www.manilatimes.net/2026/08/17/business/top-business/us-to-tell-partners-they-must-pick-sides-in-ai-race/2406439",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/17/1178870.jpeg",
-        "publishedAt": "2026-08-16T16:14:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
