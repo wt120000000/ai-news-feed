@@ -1,5 +1,37 @@
 [
     {
+        "id": "2453a637eec012b497b02fca664764a6",
+        "title": "Scientists have designed a functioning virus from scratch using AI. What you need to know",
+        "description": "Artificial intelligence has designed viruses that can infect bacteria and reproduce—a first that shows AI is beginning to do more than analyze the genetic code of living things. It can write new versions of it, too.",
+        "content": "Artificial intelligence has designed viruses that can infect bacteria and reproduce—a first that shows AI is beginning to do more than analyze the genetic code of living things. It can write new versions of it, too.\nThe viruses in question are bacter... [6797 chars]",
+        "url": "https://medicalxpress.com/news/2026-08-scientists-functioning-virus-ai.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/bacteriophages.jpg",
+        "publishedAt": "2026-08-16T21:40:01Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "98ca83d912ee06a83b161b52d20361e6",
+        "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
+        "description": "Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies switch between artificial intelligence models, for more than $7 billion, according to people familiar with the matter.",
+        "content": "(Bloomberg) -- Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies switch between artificial intelligence models, for more than $7 billion, according to people familiar with the matter.\nThe deal, just mon... [2381 chars]",
+        "url": "https://www.livemint.com/companies/stripe-clinches-over-7-billion-deal-to-buy-ai-firm-openrouter-11786915829048.html",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+        "publishedAt": "2026-08-16T21:30:28Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "3d43be061a54c769de7ceaad6ebb06de",
         "title": "AI super PACs flood money into state elections",
         "description": "The tug-of-war over artificial intelligence regulation is drawing a flood of money to the midterm elections as super PACs on both sides of the debate seek to influence outcomes.",
@@ -125,38 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "e1f9c11d0ec38a3a171ec601407788e8",
-        "title": "AI is reshaping retail ops faster than most teams expect",
-        "description": "Artificial intelligence is rapidly transforming retail operations, impacting areas from supply chain compliance to last-mile delivery. These AI tools are",
-        "content": "Retail operators who have been treating AI as a future-state investment are running out of runway. Across apparel, grocery, furniture, and social commerce, major brands deployed AI into live operational workflows in 2026, driven less by ambition than... [5942 chars]",
-        "url": "https://www.europesays.com/3197471/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/news-cover-ai-is-reshaping-retail-operations-faster-than-most-e-commerce-teams-are-ready-for.jpeg",
-        "publishedAt": "2026-08-16T14:18:23Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b4fe7010232b6c6bf20e9ef19711d373",
-        "title": "NIELIT launches CYBER KUSHTI 2026 cybersecurity, AI hackathon",
-        "description": "The National Institute of Electronics and Information Technology (NIELIT), under the Ministry of Electronics and Information Technology (MeitY), has launched CYBER KUSHTI 2026, a national cybersecurity and Artificial Intelligence (AI) hackathon designed to test and recognise human judgment in cybersecurity assessment.",
-        "content": "New Delhi [India], August 16 (ANI): The National Institute of Electronics and Information Technology (NIELIT), under the Ministry of Electronics and Information Technology (MeitY), has launched CYBER KUSHTI 2026, a national cybersecurity and Artifici... [2054 chars]",
-        "url": "https://www.tribuneindia.com/news/business/nielit-launches-cyber-kushti-2026-cybersecurity-ai-hackathon/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWI1ZjUxYmQwLTk5N2MtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-16T14:13:46Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
         }
     }
 ]
