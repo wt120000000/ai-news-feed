@@ -1,5 +1,37 @@
 [
     {
+        "id": "7e61f60480f490cdf3ccabc89c3fb429",
+        "title": "PhysicsWallah eyes PAT growth in Q3, says cofounder Prateek Maheshwari",
+        "description": "Maheshwari also delved into the company's offline expansion, acquisitions and artificial intelligence (AI) strategy",
+        "content": "The shareholders’ letter says profitability improved, driven by operating leverage. What kind of factors are contributing to this?\nFundamentally, it is coming from both businesses — online as well as offline. Every additional student contributes to t... [2390 chars]",
+        "url": "https://www.business-standard.com/companies/people/physicswallah-eyes-pat-growth-in-q3-says-cofounder-prateek-maheshwari-126081600249_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/16/thumb/fitandfill/1200X628/1786902635-096.jpg",
+        "publishedAt": "2026-08-16T18:00:26Z",
+        "lang": "en",
+        "source": {
+            "id": "44d394a4e765f82b49b452e4302a72b0",
+            "name": "Business Standard",
+            "url": "https://www.business-standard.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "c1143aee0b59b52087f26101ba82976e",
+        "title": "US to tell partners they must pick sides in AI race with China",
+        "description": "By pressing countries to choose sides the US hopes to starve China of resources in a race to make the most sophisticated AI, which ​could be used for military or economic dominance. In July, Chinese President Xi Jinping launched a rival \"World Artificial Intelligence Cooperation Organization\", promoting his country's open-weight technology as a challenge to US influence over the fast-moving sector.",
+        "content": "Synopsis\nBy pressing countries to choose sides the US hopes to starve China of resources in a race to make the most sophisticated AI, which ​could be used for military or economic dominance. In July, Chinese President Xi Jinping launched a rival \"Wor... [4666 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-tell-partners-they-must-pick-sides-in-ai-race-with-china/articleshow/133280365.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-147548,resizemode-75,msid-133280365/tech/artificial-intelligence/us-to-tell-partners-they-must-pick-sides-in-ai-race-with-china.jpg",
+        "publishedAt": "2026-08-16T17:55:06Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "3ebad59f2e719c2d5b42ba8de430015d",
         "title": "GS, the ultimate tech frontier to tap into",
         "description": "Genuine stupidity is presented as a revolutionary technology surpassing artificial intelligence. This concept requires no advanced infrastructure, relying solely on human ingenuity. Corporations and governments will embrace this trend, announcing strategic pivots and unrealistic promises. Investors will support startups focused on this concept, with delivery being secondary. Universities and consultants will also adapt, offering new degrees and explanations for its adoption.",
@@ -125,38 +157,6 @@
             "name": "Markets Insider",
             "url": "https://markets.businessinsider.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "173aaf57c2d60b78730297ad54852cf1",
-        "title": "Why AI training can backfire for older workers",
-        "description": "Employers are increasingly investing in training to prepare their employees for artificial intelligence (AI). Training budgets are growing, and \"upskilling\" has become a common response to rapid technological change.",
-        "content": "Employers are increasingly investing in training to prepare their employees for artificial intelligence (AI). Training budgets are growing, and \"upskilling\" has become a common response to rapid technological change.\nAI adoption has moved quickly. In... [5901 chars]",
-        "url": "https://phys.org/news/2026-08-ai-backfire-older-workers.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/older-people-online.jpg",
-        "publishedAt": "2026-08-16T12:20:01Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "8ced4aed797b4336d04143c177ed581a",
-        "title": "AI Could Give Us 100 Years Of Medical Progress In Just 5-10 Years, Says Anthropic CEO",
-        "description": "The rapid advancement of artificial intelligence is highlighted by Anthropic's CEO, Dario Amodei, who believes this is just the beginning of AI's potential. He envisions that within the next decade, AI could significantly aid in curing diseases. , Technology & Science, Times Now",
-        "content": "Artificial intelligence is growing at a rapid pace, and companies like OpenAI and Anthropic are dropping one advanced model after another. In a recent development, Anthropic CEO Dario Amodei said that he believes what we see right now is only the beg... [1698 chars]",
-        "url": "https://www.timesnownews.com/technology-science/ai-could-give-us-100-years-of-medical-progress-in-just-5-10-years-says-anthropic-ceo-article-155696458",
-        "image": "https://images.timesnownews.com/thumb/msid-155696598,thumbsize-105494,width-1280,height-720,resizemode-75/155696598.jpg",
-        "publishedAt": "2026-08-16T11:14:13Z",
-        "lang": "en",
-        "source": {
-            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-            "name": "Times Now",
-            "url": "https://www.timesnownews.com",
-            "country": "in"
         }
     }
 ]
