@@ -1,5 +1,69 @@
 [
     {
+        "id": "4fd750db32ee3fc4a0cdb34f7e9f1a87",
+        "title": "SilverFox hackers use fake Claude apps to target companies in Asia: Kaspersky",
+        "description": "Cybersecurity group SilverFox is exploiting artificial intelligence across Asia Pacific. They distribute fake Claude AI applications for various operating systems. Kaspersky researchers identified SilverFox as a highly active threat group in the region. This group targets manufacturing, IT, healthcare, and finance sectors with sophisticated attacks.",
+        "content": "Synopsis\nCybersecurity group SilverFox is exploiting artificial intelligence across Asia Pacific. They distribute fake Claude AI applications for various operating systems. Kaspersky researchers identified SilverFox as a highly active threat group in... [3578 chars]",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/silverfox-hackers-use-fake-claude-apps-to-target-companies-in-asia-kaspersky/articleshow/133290005.cms",
+        "image": "https://img.etimg.com/thumb/msid-133290222,width-1200,height-630,imgsize-97262,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-08-17T07:28:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "00f7886233523f84b055dc22db32b2ba",
+        "title": "AI manager fires human worker in real-world experiment",
+        "description": "An artificial intelligence system powered by Anthropic’s Claude has reportedly fired a human worker while managing an experimental retail store in San Francisco, highlighting the emerging possibilities—and risks—of AI taking on managerial roles.",
+        "content": "New Delhi, Aug 17: An artificial intelligence system powered by Anthropic’s Claude has reportedly fired a human worker while managing an experimental retail store in San Francisco, highlighting the emerging possibilities—and risks—of AI taking on man... [1677 chars]",
+        "url": "https://www.greaterkashmir.com/tech/ai-manager-fires-human-worker-in-real-world-experiment-12267538",
+        "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/07/23/ai-2026-07-23-12-08-03.jpeg",
+        "publishedAt": "2026-08-17T07:20:52Z",
+        "lang": "en",
+        "source": {
+            "id": "45feb5d82cbb4a21911b36edd4bb175a",
+            "name": "Greater Kashmir",
+            "url": "https://www.greaterkashmir.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "dc91a3797f1c527f0c65f56d07891e0d",
+        "title": "fight future wars? : Short Wave : NPR",
+        "description": "This year, the Department of Defense announced that they’d entered agreements with eight artificial intelligence companies. It follows decades of popular media exploring the idea of artificial intelligence in war – from the computer threatening global thermonuclear conflict in the movie WarGames to the Skynet neural net in Terminator. In 2026, when Anthropic’s Claude and OpenAI’s ChatGPT are just a click away, the concept of AI-supported war is suddenly much closer to reality. So what does it really mean for militaries to use AI? And what are the potential implications if they succeed? Short Wave producer Hannah Chinn reports.Listen to the whole Tech Camp series. Interested in more military science and/or tech episodes? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.",
+        "content": "This year, the Department of Defense announced that they'd entered agreements with eight artificial intelligence companies. It follows decades of popular media exploring the idea of artificial intelligence in war – from the computer threatening globa... [882 chars]",
+        "url": "https://www.npr.org/2026/08/17/nx-s1-5844635/ai-chatgpt-war-tech-claude",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8660x4871+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F82%2F64ee5df24503bfbec77426fe772e%2Fcd86f8ea-ff06-42af-9d6f-4f695e4160ac.jpg",
+        "publishedAt": "2026-08-17T07:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "b41851fb2662ea502db29f71ec4d1583",
+            "name": "NPR",
+            "url": "https://www.npr.org",
+            "country": "us"
+        }
+    },
+    {
+        "id": "56487e0782308610c5c7adb85159c721",
+        "title": "Accenture CEO Julie Sweet has a vacation request for employees: Staff can skip using leave in August & carry it forward as company wants strong Q4 finish",
+        "description": "Accenture CEO Julie Sweet is urging employees to boost the company's fourth quarter performance. A temporary vacation policy change allows staff to carry unused leave into the next financial year. This move aims to keep more employees available during the crucial August sales period. The company seeks to strengthen sales and revenue after weaker-than-expected quarterly results. Accenture's performance is also watched amid growing artificial intelligence concerns.",
+        "content": "Synopsis\nAccenture CEO Julie Sweet is urging employees to boost the company's fourth quarter performance. A temporary vacation policy change allows staff to carry unused leave into the next financial year. This move aims to keep more employees availa... [4299 chars]",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/accenture-ceo-julie-sweet-has-a-vacation-request-for-employees-staff-can-skip-using-leave-in-august-carry-it-forward-as-company-wants-a-strong-q4-finish/articleshow/133289242.cms",
+        "image": "https://img.etimg.com/thumb/msid-133289298,width-1200,height-630,imgsize-31840,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-08-17T06:55:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "0333f736427b3cc98c11f34c81cb3ec1",
         "title": "Nestle looks to develop products for users of GLP",
         "description": "Nestle is seeking to turn the rise of GLP-1 weight-loss drugs from a threat into a business opportunity, using artificial intelligence and nutritional science to develop products aimed at millions of consumers taking medicines such as Ozempic and Wegovy",
@@ -93,70 +157,6 @@
             "name": "The Star",
             "url": "https://www.thestar.com.my",
             "country": "my"
-        }
-    },
-    {
-        "id": "7978f23a5aaa9b9b87d9105103b37548",
-        "title": "U.S. to tell partners they must pick sides in AI race with China",
-        "description": "The U.S. is preparing to tell dozens of countries they must pick sides in ⁠the artificial intelligence race with China, according to a U.S. official",
-        "content": "The U.S. is preparing to tell dozens of countries they must pick sides in ⁠the artificial intelligence race with China, warning they will be excluded from a U.S.-led AI coalition if they also sign up for Beijing’s competing framework, according to a ... [4126 chars]",
-        "url": "https://www.thehindu.com/sci-tech/technology/us-to-tell-partners-they-must-pick-sides-in-ai-race-with-china/article71354765.ece",
-        "image": "https://th-i.thgim.com/public/incoming/klsp3g/article71354772.ece/alternates/LANDSCAPE_1200/2026-07-14T155201Z_2062503755_RC2UCZ9W4KQU_RTRMADP_3_USA-CHINA-NVIDIA.JPG",
-        "publishedAt": "2026-08-17T04:32:04Z",
-        "lang": "en",
-        "source": {
-            "id": "b33a42ef1c098421f66aad47a76d6a3c",
-            "name": "The Hindu",
-            "url": "https://www.thehindu.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "ad48d8eadd8ee9fa66bde84b832ecf05",
-        "title": "From toilets to AI: How PM Modi’s I-Day speeches have captured Bharat’s evolving priorities",
-        "description": "From toilets and bank accounts to semiconductors and artificial intelligence, Prime Minister Narendra Modi’s Independence Day speeches have undergone a visible shift over the past 13 years.",
-        "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nSince his first address from the Red Fort in 2014, Modi has used the occasion to set out both the government’s priorities and a broader vision for India. B... [4759 chars]",
-        "url": "https://www.moneycontrol.com/news/india/from-toilets-to-ai-how-pm-modi-s-i-day-speeches-have-captured-bharat-s-evolving-priorities-14007082.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260816121712_wwwe.jpg",
-        "publishedAt": "2026-08-17T04:03:05Z",
-        "lang": "en",
-        "source": {
-            "id": "fd3677545b80d5db7541de8e111d27ba",
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "dd15dd9b31b4b57c5d37ae34aa5f0f89",
-        "title": "Singapore criminalises AI-generated abuse images",
-        "description": "Singapore authorities prepare to enforce legislation that goes into effect on Aug 17, protecting citizens from online sexual abuse, including banning the use of artificial intelligence to create explicit images without consent.",
-        "content": "SINGAPORE: Singapore authorities prepare to enforce legislation that goes into effect on Aug 17, protecting citizens from online sexual abuse, including banning the use of artificial intelligence (AI) to create explicit images without consent.\nThe la... [1509 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/17/singapore-criminalises-ai-generated-abuse-images",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/17/4063227.jpg",
-        "publishedAt": "2026-08-17T04:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "67e1ba83e9663c5a08b498d46eb72a39",
-        "title": "Google’s AI debt machine lands with four brokers and a video link",
-        "description": "Australian capital markets officially have a role in the world’s biggest investment theme: hyperscalers and their plans to spend up on artificial intelligence.",
-        "content": "Fresh from reportedly attracting $US115 billion ($162 billion) in bids for new bonds 10 days ago, Google and YouTube owner Alphabet rolled into Australia for this first time this week to ask for just one thing: mo’ money.\nFor all for the effort of re... [261 chars]",
-        "url": "https://www.afr.com/chanticleer/google-s-ai-debt-machine-lands-with-four-brokers-and-a-video-link-20260817-p60ozy",
-        "image": "https://static.ffx.io/images/$zoom_0.3146%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_51/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/7ab386e03b1b367b3ab949cc758958783669f111",
-        "publishedAt": "2026-08-17T03:45:14Z",
-        "lang": "en",
-        "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "Australian Financial Review",
-            "url": "https://www.afr.com",
-            "country": "au"
         }
     }
 ]
