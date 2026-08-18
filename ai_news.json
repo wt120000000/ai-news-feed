@@ -1,5 +1,21 @@
 [
     {
+        "id": "c8140da9333d6d47a7122db735c6c071",
+        "title": "Kane County man accused of using AI to create child sexual abuse material",
+        "description": "A west suburban man has been charged with dozens of counts related to using artificial intelligence to create child sexual abuse material, including altering...",
+        "content": "A west suburban man has been charged with dozens of counts related to using artificial intelligence to create child sexual abuse material, including altering images of real children into sexually explicit images and videos, authorities said.\nJeremy B... [1263 chars]",
+        "url": "https://www.nbcchicago.com/news/local/suburban-man-allegedly-used-ai-to-create-child-sexual-abuse-material-prosecutors/3976723/",
+        "image": "https://media.nbcchicago.com/2020/07/dallas-police-lights-generic.png?resize=1200%2C675&quality=85&strip=all",
+        "publishedAt": "2026-08-18T01:44:17Z",
+        "lang": "en",
+        "source": {
+            "id": "046a50607901bb9bca25f6624dc87f76",
+            "name": "NBC 5 Chicago",
+            "url": "https://www.nbcchicago.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "f516101d1f66c455b24a6d22d658000d",
         "title": "Alibaba launches AI music generation model HappyShrimp in beta",
         "description": "Alibaba Group Holding Ltd launched the beta version of an artificial intelligence music-generation model that can turn a single text prompt into a fully produced song, expanding the Chinese technology giant's push into generative AI.",
@@ -141,22 +157,6 @@
             "name": "Phys.org",
             "url": "https://phys.org",
             "country": "gb"
-        }
-    },
-    {
-        "id": "205c9ea37c39bba20ba5bf239607b41b",
-        "title": "Gaxos.ai Inc. Raises $3.6 Million in Gross Proceeds from Warrant Exercise Transaction",
-        "description": "Roseland, NJ, Aug. 17, 2026 (GLOBE NEWSWIRE) -- Gaxos.ai Inc. (NASDAQ: GXAI), ('Gaxos” or the 'Company”), a company developing artificial intelligence applications across various high-growth sectors, today announced the closing of its previously announced exercise of certain outstanding warrants to purchase up to an aggregate of 3,007,654 shares of common stock originally issued in December 2024 and September 2024, having exercise prices ranging from $2.33 to $3.32 per share, at a reduced exercise price of $1.20 per share. The shares of common stock issuable upon exercise of the existing warrants are registered pursuant to an effective registration statements on Form S-1 (No. 333-292709) and Form S-3 (File No. 333-282739).",
-        "content": "Roseland, NJ, Aug. 17, 2026 (GLOBE NEWSWIRE) -- Gaxos.ai Inc. (NASDAQ: GXAI), (\"Gaxos” or the \"Company”), a company developing artificial intelligence applications across various high-growth sectors, today announced the closing of its previously anno... [5097 chars]",
-        "url": "https://www.manilatimes.net/2026/08/18/tmt-newswire/globenewswire/gaxosai-inc-raises-36-million-in-gross-proceeds-from-warrant-exercise-transaction/2407134",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/18/1180294.png",
-        "publishedAt": "2026-08-17T20:25:43Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
         }
     }
 ]
