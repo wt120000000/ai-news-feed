@@ -1,5 +1,21 @@
 [
     {
+        "id": "f516101d1f66c455b24a6d22d658000d",
+        "title": "Alibaba launches AI music generation model HappyShrimp in beta",
+        "description": "Alibaba Group Holding Ltd launched the beta version of an artificial intelligence music-generation model that can turn a single text prompt into a fully produced song, expanding the Chinese technology giant's push into generative AI.",
+        "content": "Alibaba Group Holding Ltd launched the beta version of an artificial intelligence (AI) music-generation model that can turn a single text prompt into a fully produced song, expanding the Chinese technology giant’s push into generative AI.\nThe AI mode... [1050 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/18/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4064270.JPG",
+        "publishedAt": "2026-08-18T01:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "5909b76b800e1b92d99ae81855271ae7",
         "title": "Use AI and keep your brain sharp",
         "description": "Artificial intelligence can be a handy tool but too heavy use risks weakening critical thinking skills, one expert says.",
@@ -141,22 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "6915891cd7c48f7a811cd55a32b5649f",
-        "title": "Use AI and keep your brain sharp",
-        "description": "Artificial intelligence can be a handy tool but too heavy use risks weakening critical thinking skills, one expert says.",
-        "content": "Artificial intelligence can be a handy tool, but too much heavy use risks weakening critical thinking skills, one expert says.\nSinead Bovell, a tech entrepreneur, suggested using AI as a “sparring partner” in an interview with CTV Your Morning on Mon... [2203 chars]",
-        "url": "https://www.cp24.com/news/canada/2026/08/17/heavy-use-of-ai-can-weaken-critical-thinking-skills-heres-how-you-can-use-it-to-polish-them-instead/",
-        "image": "https://www.cp24.com/resizer/v2/Y5ZBU76UWZC73BPNQTN6NXHHPE.jpeg?smart=true&auth=7db0e52137f9289a47098c7b6fcfecbea5ffa2f119584ecf8848296c34c33891&width=1200&height=630",
-        "publishedAt": "2026-08-17T20:19:01Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
         }
     }
 ]
