@@ -1,5 +1,37 @@
 [
     {
+        "id": "b40bb37c030aaae79f7518fb36e9accc",
+        "title": "Trump Kids Back Venture That Sidesteps Trump Administration’s AI Firewall",
+        "description": "The Trump administration is telling the world to pick a side in the artificial intelligence race: America or China. The Trump children are telling the world,",
+        "content": "The Trump administration is telling the world to pick a side in the artificial intelligence race: America or China. The Trump children are telling the world, “We know where the back door is if you want in.” According to Reuters, as Trump and company ... [2374 chars]",
+        "url": "https://www.europesays.com/3199766/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/08/trump-boys-AI-1200x675.jpg",
+        "publishedAt": "2026-08-17T19:08:18Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "37eac3402ca585ce7bf0c8d65c190377",
+        "title": "Bloomberg: Andreesen Horowitz is the focus of an antitrust investigation.",
+        "description": "According to Bloomberg, a “nearly year-old investigation” is looking into the possibility that a16z “investment partners are improperly serving on the boards of competing artificial intelligence companies.” Co-founder Ben Horowitz is on the board of Databricks, while partner Martin Casado was on the board of dbt labs before it was acquired by Fivetran, where he now holds a seat.\n[Link: The moral bankruptcy of Marc Andreessen and Ben Horowitz | https://www.theverge.com/2024/7/24/24204706/marc-andreessen-ben-horowitz-a16z-trump-donations | The Verge]",
+        "content": "R\nThe Verge\nBloomberg: Andreesen Horowitz is the focus of an antitrust investigation.\nAccording to Bloomberg, a “nearly year-old investigation” is looking into the possibility that a16z “investment partners are improperly serving on the boards of com... [653 chars]",
+        "url": "https://www.theverge.com/business/981161/bloomberg-andreesen-horowitz-is-the-focus-of-an-antitrust-investigation",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK417_banking_money_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-08-17T19:03:13Z",
+        "lang": "en",
+        "source": {
+            "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+            "name": "The Verge",
+            "url": "https://www.theverge.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "306177a0eba5f86ad8528d8dfb12b9e5",
         "title": "UK PM Andy Burnham Duped by Susie Wiles Imposter, White House Denies Hack",
         "description": "This incident highlights ongoing issues with impersonation using artificial intelligence, which has previously targeted other political figures, US News, Times Now",
@@ -125,38 +157,6 @@
             "name": "ANI (Asian News International)",
             "url": "https://www.aninews.in",
             "country": "in"
-        }
-    },
-    {
-        "id": "15f99e92a3cef63afa1dc950bf50d957",
-        "title": "Fortinet, IBD Stock Of The Day, Steps Up AI Acquisitions To Build Cloud Platform",
-        "description": "Fortinet stock has gained nearly 100% in 2026 amid artificial intelligence-related acquisitions aimed at building cloud platform.",
-        "content": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we ... [1013 chars]",
-        "url": "https://www.investors.com/research/ibd-stock-of-the-day/fortinet-stock-artificial-intelligence-acquisition/",
-        "image": "https://www.investors.com/wp-content/uploads/2026/08/sotd-for-08-17-2026-desktop.png",
-        "publishedAt": "2026-08-17T16:55:45Z",
-        "lang": "en",
-        "source": {
-            "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-            "name": "Investor's Business Daily",
-            "url": "https://www.investors.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "ba90458108f136487c98253a4bfb83c4",
-        "title": "Feuding AI billionaires pour millions into Florida race to shape Trump's next governor",
-        "description": "The artificial-intelligence industry’s political machines battling each other over how to regulate the technology are trying a new tactic in Florida after fighting in primary elections across the US: joining together to make multimillion-dollar bets on the same candidate.",
-        "content": "The artificial-intelligence industry’s political machines battling each other over how to regulate the technology are trying a new tactic in Florida after fighting in primary elections across the US: joining together to make multimillion-dollar bets ... [5741 chars]",
-        "url": "https://www.latimes.com/business/story/2026-08-17/feuding-ai-billionaires-pour-millions-into-florida-race-to-shape-trumps-next-governor",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/061c12c/2147483647/strip/true/crop/2200x1155+0+156/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F72%2Ff5%2F0b06c0f2e2ab1d268a23a39604b0%2F1x-1.jpg",
-        "publishedAt": "2026-08-17T16:45:31Z",
-        "lang": "en",
-        "source": {
-            "id": "492abf277b7277432148b61b21ddc836",
-            "name": "Los Angeles Times",
-            "url": "https://www.latimes.com",
-            "country": "us"
         }
     }
 ]
