@@ -1,5 +1,21 @@
 [
     {
+        "id": "f71f1358c4747036aaa804b5032febde",
+        "title": "exposed sectors see sharp drop in youth employment: BOK report",
+        "description": "Youth employment has fallen sharply in sectors highly exposed to artificial intelligence (AI) technology since the emergence of generative AI chatb...",
+        "content": "Youth employment has fallen sharply in sectors highly exposed to artificial intelligence (AI) technology since the emergence of generative AI chatbots, a central bank report showed Tuesday.\nOver the four-year period from June 2022 to June 2026, the n... [1864 chars]",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260818/ai-exposed-sectors-see-sharp-drop-in-youth-employment-bok-report",
+        "image": "https://newsimg.koreatimes.co.kr/2026/08/18/66fc4cb2-aa09-4ca1-8b3a-3078622e9cac.jpg",
+        "publishedAt": "2026-08-18T03:27:03Z",
+        "lang": "en",
+        "source": {
+            "id": "9f2e79f0f9194d0d88f0074def064e60",
+            "name": "The Korea Times",
+            "url": "https://www.koreatimes.co.kr",
+            "country": "kr"
+        }
+    },
+    {
         "id": "c8140da9333d6d47a7122db735c6c071",
         "title": "Kane County man accused of using AI to create child sexual abuse material",
         "description": "A west suburban man has been charged with dozens of counts related to using artificial intelligence to create child sexual abuse material, including altering...",
@@ -141,22 +157,6 @@
             "name": "EUROPE SAYS",
             "url": "https://www.europesays.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "2e2d114e5f3d7fd49b4662a77c68e01b",
-        "title": "From Google to ChatGPT, physics students increasingly seek answers through conversational AI",
-        "description": "Students around the world are increasingly turning to artificial intelligence tools such as ChatGPT to find answers to questions about physics, according to a new study led by researchers at Bar-Ilan University.",
-        "content": "Students around the world are increasingly turning to artificial intelligence tools such as ChatGPT to find answers to questions about physics, according to a new study led by researchers at Bar-Ilan University.\nThe study, conducted by Dr. Yossi Ben-... [2810 chars]",
-        "url": "https://phys.org/news/2026-08-google-chatgpt-physics-students-conversational.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/from-google-to-chatgpt.jpg",
-        "publishedAt": "2026-08-17T20:40:01Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
         }
     }
 ]
