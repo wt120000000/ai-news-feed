@@ -1,5 +1,53 @@
 [
     {
+        "id": "f771454400f6595d8464e908db6c1f0b",
+        "title": "Pentagon pressure to move AI faster drives Smack's new funding round, CEO says",
+        "description": "WASHINGTON, Aug 17 (Reuters) - Smack ⁠Technologies, a defense-technology startup building artificial intelligence decision-making tools for the military, is raising funding to ⁠speed production of its flagship product and make wearable AI hardware designed for the battlefield.",
+        "content": "WASHINGTON, Aug 17 (Reuters) - Smack ⁠Technologies, a defense-technology startup building artificial intelligence decision-making tools for the military, is raising funding to ⁠speed production of its flagship product and make wearable AI hardware de... [2506 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/18/pentagon-pressure-to-move-ai-faster-drives-smack039s-new-funding-round-ceo-says",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4064690.jpg",
+        "publishedAt": "2026-08-17T23:15:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "a74d5f208d0dec4b9a865d611d77c390",
+        "title": "Spending spree on AI skills to help turbocharge business growth, bank survey says",
+        "description": "ARTIFICIAL intelligence has created jobs for more than half of UK businesses, new research reveals.\nFifty-four per cent of UK firms have placed...",
+        "content": "ARTIFICIAL intelligence has created jobs for more than half of UK businesses, new research reveals.\nFifty-four per cent of UK firms have placed adopting the new tech at the heart of their plans to grow and upskill their workers, a bank survey reveals... [1878 chars]",
+        "url": "https://www.thesun.co.uk/money/40084312/artificial-intelligence-firms-tech-lloyds-bank/",
+        "image": "https://www.thesun.co.uk/wp-content/uploads/2026/06/message-reading-ai-artificial-intelligence-1085769011.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+        "publishedAt": "2026-08-17T23:01:00Z",
+        "lang": "en",
+        "source": {
+            "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+            "name": "The Sun",
+            "url": "https://www.thesun.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "9b81a3a3992a34987116c5d209249b84",
+        "title": "Money or power? The key to winning the U.S.-China AI race",
+        "description": "The U.S. can outspend China in financing artificial intelligence development, but is that the only factor that matters?",
+        "content": "For Beijing, the artificial intelligence race is a story of resolve.\nIf China has one dollar left, \"that dollar is going to be spent on AI rather than real estate,\" said Bruce Liu, CEO of Esoterica Capital.\nThe goal is to be self-sufficient in AI, wi... [3888 chars]",
+        "url": "https://www.cnbc.com/2026/08/17/money-or-power-the-key-to-winning-the-us-china-ai-race.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108350114-1786923132275-gettyimages-2289238743-AFP_C4A63CQ.jpeg?v=1786923189&w=1920&h=1080",
+        "publishedAt": "2026-08-17T23:00:01Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "6974ce842773fbe7fb9979073d7f3b90",
         "title": "AI at work puts new pressure on managers",
         "description": "Gallup finds managers play a key role in artificial intelligence’s workplace impact, but many companies still lack the training, support and organizational changes needed to realize its potential.And even though 99% of s",
@@ -109,54 +157,6 @@
             "name": "Devdiscourse",
             "url": "https://www.devdiscourse.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "646c8c6513136b37236fb6b0ae6ef458",
-        "title": "Market Factors: An easy way to guard against a stock market bubble",
-        "description": "Non-U.S. markets can offer a natural hedge against artificial intelligence fever - but investors must be choosy",
-        "content": "An age-old dilemma for investors is how reap the rewards of a booming stock market without risking your neck. This is investment reporter Tim Shufelt filling in for Scott Barlow, and today we’re talking about how to have it both ways. Plus, move over... [4453 chars]",
-        "url": "https://www.theglobeandmail.com/investing/investment-ideas/article-stock-market-bubble-investing-advice/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/6QWCVWMINVDMZK3XHNOXWWP6MA.jpg?auth=9b0d015463e37e1eacd796cf89b31530183f7a2fe1e81373bc13ca94da7bc251&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-08-17T20:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "f5081afeaba654292dd91fffd29f9dd4",
-            "name": "The Globe and Mail",
-            "url": "https://www.theglobeandmail.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "3aa5f55e99e10678a799ba992be1658a",
-        "title": "These stocks will benefit most from AI productivity gains: per Goldman",
-        "description": "The investment bank compared companies' labor intensity and artificial intelligence sensitivity to see where AI implementation gains will make an impact.",
-        "content": "The success of the artificial intelligence boom ultimately hinges on productivity gains from automation that will turn investments in computing power into higher corporate profits. Those gains have yet to materialize in force at the enterprise level,... [2688 chars]",
-        "url": "https://www.cnbc.com/2026/08/17/these-stocks-will-benefit-most-from-ai-productivity-gains-per-goldman.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108130970-1744395366731-gettyimages-2207048930-TFSPI_29032025-5963.jpeg?v=1769733203&w=1920&h=1080",
-        "publishedAt": "2026-08-17T19:59:01Z",
-        "lang": "en",
-        "source": {
-            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-            "name": "CNBC",
-            "url": "https://www.cnbc.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b40bb37c030aaae79f7518fb36e9accc",
-        "title": "Trump Kids Back Venture That Sidesteps Trump Administration’s AI Firewall",
-        "description": "The Trump administration is telling the world to pick a side in the artificial intelligence race: America or China. The Trump children are telling the world,",
-        "content": "The Trump administration is telling the world to pick a side in the artificial intelligence race: America or China. The Trump children are telling the world, “We know where the back door is if you want in.” According to Reuters, as Trump and company ... [2374 chars]",
-        "url": "https://www.europesays.com/3199766/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/trump-boys-AI-1200x675.jpg",
-        "publishedAt": "2026-08-17T19:08:18Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
         }
     }
 ]
