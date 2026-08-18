@@ -1,5 +1,37 @@
 [
     {
+        "id": "14e5dd0f6de00d04cc9cdee5409bc95a",
+        "title": "AI Agents Can Move Money, But They Can’t Pay for Their Mistakes",
+        "description": "Agentic artificial intelligence (AI) wallets may be capable of moving money, negotiating terms and entering transactions without human intervention, but under",
+        "content": "Agentic artificial intelligence (AI) wallets may be capable of moving money, negotiating terms and entering transactions without human intervention, but under existing U.S. law they cannot be held legally responsible when those actions go wrong.\nThat... [4486 chars]",
+        "url": "https://www.europesays.com/3199923/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/08/legal-AI.jpg",
+        "publishedAt": "2026-08-17T20:44:19Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2e2d114e5f3d7fd49b4662a77c68e01b",
+        "title": "From Google to ChatGPT, physics students increasingly seek answers through conversational AI",
+        "description": "Students around the world are increasingly turning to artificial intelligence tools such as ChatGPT to find answers to questions about physics, according to a new study led by researchers at Bar-Ilan University.",
+        "content": "Students around the world are increasingly turning to artificial intelligence tools such as ChatGPT to find answers to questions about physics, according to a new study led by researchers at Bar-Ilan University.\nThe study, conducted by Dr. Yossi Ben-... [2810 chars]",
+        "url": "https://phys.org/news/2026-08-google-chatgpt-physics-students-conversational.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/from-google-to-chatgpt.jpg",
+        "publishedAt": "2026-08-17T20:40:01Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
         "id": "205c9ea37c39bba20ba5bf239607b41b",
         "title": "Gaxos.ai Inc. Raises $3.6 Million in Gross Proceeds from Warrant Exercise Transaction",
         "description": "Roseland, NJ, Aug. 17, 2026 (GLOBE NEWSWIRE) -- Gaxos.ai Inc. (NASDAQ: GXAI), ('Gaxos” or the 'Company”), a company developing artificial intelligence applications across various high-growth sectors, today announced the closing of its previously announced exercise of certain outstanding warrants to purchase up to an aggregate of 3,007,654 shares of common stock originally issued in December 2024 and September 2024, having exercise prices ranging from $2.33 to $3.32 per share, at a reduced exercise price of $1.20 per share. The shares of common stock issuable upon exercise of the existing warrants are registered pursuant to an effective registration statements on Form S-1 (No. 333-292709) and Form S-3 (File No. 333-282739).",
@@ -125,38 +157,6 @@
             "name": "Times Now",
             "url": "https://www.timesnownews.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "f11541181d95465a1bf589606fee6f68",
-        "title": "AI splits tech hiring into builders & adopters",
-        "description": "Artificial intelligence is driving two distinct hiring trends in tech: Indian IT firms are focusing on highly technical AI talent, while Big Tech emphasizes sales and consulting roles to boost AI adoption, converging on the forward deployed engineer role.",
-        "content": "The divergence reflects the different stages at which the two segments are operating in the AI value chain, even as both are increasingly converging on a new role that sits between technology and the customer -— the forward deployed engineer (FDE).\n“... [4647 chars]",
-        "url": "https://www.financialexpress.com/business/industry-ai-splits-tech-hiring-into-builders-amp-adopters-4319870/",
-        "image": "https://images.financialexpressdigital.com/2026/08/Artificial-intelligence_20251109140415_20251121073953_20251123145912_20251217192848_20251219144708_20260220141953_20260227203818_20260703183355_20260704120044_20260718192416_20260731135805_20260811174232_20260817183335.jpg",
-        "publishedAt": "2026-08-17T18:33:58Z",
-        "lang": "en",
-        "source": {
-            "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-            "name": "The Financial Express",
-            "url": "https://www.financialexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "6e905d4176c6ade4d3d9220f42866f13",
-        "title": "OpenAI to Fund Think Tank’s Study On Options for Taxing AI",
-        "description": "OpenAI awarded a grant to a US-based global tax think tank to study approaches to taxing artificial intelligence and how wider adoption of the technology would affect individual and corporate incomes.",
-        "content": "OpenAI awarded a grant to a US-based global tax think tank to study approaches to taxing artificial intelligence and how wider adoption of the technology would affect individual and corporate incomes.\nThe Tax Foundation will use the grant to conduct ... [396 chars]",
-        "url": "https://news.bloombergtax.com/daily-tax-report/openai-to-fund-think-tanks-study-on-options-for-taxing-ai",
-        "image": "https://bwrite-static.bloombergindustry.com/dims4/default/44943aa/2147483647/crop/6098x2350+0+157/resize/960x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F80%2F4b%2F316eebe443dc98e8aa12f7d3c3c3%2Fgettyimages-2032109653-1.jpg",
-        "publishedAt": "2026-08-17T18:09:06Z",
-        "lang": "en",
-        "source": {
-            "id": "2b5db686603d0197d748f18d2dc01aec",
-            "name": "Bloomberg Tax News",
-            "url": "https://news.bloombergtax.com",
-            "country": "us"
         }
     }
 ]
