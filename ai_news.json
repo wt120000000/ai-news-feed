@@ -1,5 +1,37 @@
 [
     {
+        "id": "aec8ac96022e3f52fdb44ddd38376d53",
+        "title": "OpenAI makes AI safety changes in wake of Hugging Face breach",
+        "description": "OpenAI said it's implementing more aggressive systems to monitor and safeguard artificial intelligence models under development after recent cybersecurity incidents ignited concerns about AI tools running amok.",
+        "content": "OpenAI said it’s implementing more aggressive systems to monitor and safeguard artificial intelligence (AI) models under development after recent cybersecurity incidents ignited concerns about AI tools running amok.\nOn Aug 18, the ChatGPT maker said ... [1919 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/19/openai-makes-ai-safety-changes-in-wake-of-hugging-face-breach",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/19/4066790.jpg",
+        "publishedAt": "2026-08-19T05:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "8bc60c9ac8402e486007cde16c745e3b",
+        "title": "IIT Bombay launches ePGD in Computer Science and AI, check other online PG diplomas",
+        "description": "IIT Bombay has introduced an e-Postgraduate Diploma in Computer Science and Artificial Intelligence. The programme combines foundational computing with AI learning for professionals and fresh graduates.",
+        "content": "The Indian Institute of Technology Bombay (IIT Bombay) has launched an e-Postgraduate Diploma in Computer Science and Artificial Intelligence. The programme is being offered through IIT Bombay’s Educational Outreach initiative. The ePGD course is des... [3623 chars]",
+        "url": "https://www.indiatoday.in/education-today/news/story/iit-bombay-e-postgraduate-diploma-computer-science-ai-other-epgd-courses-2974581-2026-08-19",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/iit-bombay-canteen-fda-071221887-16x9_2.jpg?VersionId=vSYvlNmWRCLyO3f.2qg5kLjwj62KqJ8r",
+        "publishedAt": "2026-08-19T04:48:41Z",
+        "lang": "en",
+        "source": {
+            "id": "c73686fdf0e30639d57eddaf7a77236e",
+            "name": "India Today",
+            "url": "https://www.indiatoday.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "161b2e4e50402b57cfa8a12a30653580",
         "title": "Shares fall in Asia, with Kospi down 5.2%; oil prices jump",
         "description": "Shares slipped Wednesday in Asia after Wall Street pulled further from its all-time high as artificial-intelligence stocks resumed their decline.",
@@ -125,38 +157,6 @@
             "name": "SFGATE",
             "url": "https://www.sfgate.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "735a8281f97d4c03f73e1fa646309bc9",
-        "title": "Shares fall in Asia, with Kospi down 5.2%, while oil prices jump",
-        "description": "Shares are sharply lower in Asia after Wall Street pulled further from its all-time high as artificial-intelligence stocks resumed their decline.",
-        "content": "BANGKOK – Shares slipped Wednesday in Asia after Wall Street pulled further from its all-time high as artificial-intelligence stocks resumed their decline.\nSouth Korea’s Kospi led the regional retreat, dropping 5.2% to 6,515.97. The two biggest compa... [2976 chars]",
-        "url": "https://www.clickondetroit.com/business/2026/08/19/shares-fall-in-asia-with-kospi-down-52-while-oil-prices-jump/",
-        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VB2ZAOOE4ZC6JJ7SYJUQ5E4KCE.jpg?_a=DATAg1kSZAA0",
-        "publishedAt": "2026-08-19T03:05:36Z",
-        "lang": "en",
-        "source": {
-            "id": "35515662ec044d3f94b543cd8802d63f",
-            "name": "WDIV ClickOnDetroit",
-            "url": "https://www.clickondetroit.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "30367e0aa1bbcebca55a0288be3db00a",
-        "title": "Gartex Texprocess India 2026: How AI is reshaping textile and fashion manufacturing",
-        "description": "Fashion manufacturing is on the brink of a transformation as industry experts highlight the potential of artificial intelligence. But while AI plays a critical role, human interpretation remains vital for assessing data accurately.",
-        "content": "Synopsis\nFashion manufacturing is on the brink of a transformation as industry experts highlight the potential of artificial intelligence. But while AI plays a critical role, human interpretation remains vital for assessing data accurately.\nListen to... [4502 chars]",
-        "url": "https://economictimes.indiatimes.com/small-biz/sme-sector/gartex-texprocess-india-2026-how-ai-is-reshaping-textile-and-fashion-manufacturing/articleshow/133335867.cms",
-        "image": "https://img.etimg.com/thumb/msid-133335867,width-1200,height-630,imgsize-232228,overlay-etrise/articleshow.jpg",
-        "publishedAt": "2026-08-19T02:56:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
         }
     }
 ]
