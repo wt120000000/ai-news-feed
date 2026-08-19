@@ -1,5 +1,21 @@
 [
     {
+        "id": "3038133bb8bee82cc16a5949060768eb",
+        "title": "AI’s lucrative jobs boom is leaving women behind globally",
+        "description": "As artificial intelligence creates some of the fastest-growing and most-lucrative jobs globally, women are underrepresented in roles from the C-suite to rank-and-file positions at AI companies.",
+        "content": "As artificial intelligence (AI) creates some of the fastest-growing and most-lucrative jobs globally, women are underrepresented in roles from the C-suite to rank-and-file positions at AI companies, according to a report from LinkedIn Corp.\nWomen wit... [1571 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/19/ais-lucrative-jobs-boom-is-leaving-women-behind-globally",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/19/4065662.jpg",
+        "publishedAt": "2026-08-19T01:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "a6eb967ee2ab8434da35b1d3bbb05d07",
         "title": "AI, sanctions and geopolitics: What they mean for businesses operating across borders",
         "description": "An employee uses artificial intelligence to draft a report, write software code, or create a design for a client project.",
@@ -141,22 +157,6 @@
             "name": "Breitbart News Network",
             "url": "https://www.breitbart.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "fe542ece8e34d5562594b9c3c55665a4",
-        "title": "Canada's AI strategy needs educators who feel prepared, not just trained",
-        "description": "The Canadian government recently introduced AI for All, a national artificial intelligence strategy that has two focuses: building trust and creating opportunity.",
-        "content": "The Canadian government recently introduced AI for All, a national artificial intelligence strategy that has two focuses: building trust and creating opportunity.\nAs Canada invests in AI literacy and adoption, schools and post-secondary institutions ... [6301 chars]",
-        "url": "https://phys.org/news/2026-08-canada-ai-strategy.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/canadas-ai-strategy-ne.jpg",
-        "publishedAt": "2026-08-18T22:20:03Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
         }
     }
 ]
