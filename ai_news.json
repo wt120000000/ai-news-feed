@@ -1,5 +1,37 @@
 [
     {
+        "id": "55d5193431a203344a557b60e5d1a9e4",
+        "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot",
+        "description": "OpenAI is launching a version of ChatGPT designed for teenagers — the first generation to grow up with artificial intelligence.",
+        "content": "By BARBARA ORTUTAY, Associated Press\nSAN FRANCISCO (AP) — OpenAI is launching a version of ChatGPT designed for teenagers — the first generation to grow up with artificial intelligence — who are already using it for schoolwork, questions about daily ... [4255 chars]",
+        "url": "https://www.mercurynews.com/2026/08/18/openai-chatgpt-for-teens/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/ChatGPT_Teens_33976.jpg?w=2000&h=1333",
+        "publishedAt": "2026-08-18T15:14:28Z",
+        "lang": "en",
+        "source": {
+            "id": "17d7c2645f485578130862e0c8dd9480",
+            "name": "The Mercury News",
+            "url": "https://www.mercurynews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e9ec6c29d2ed35a22b87a5e26b40f113",
+        "title": "AI beauty ratings raise concerns for young people",
+        "description": "Click here for more articles by Kormedi.com. Artificial intelligence (AI) can analyze a person’s face and assign a numerical score for attractivene...",
+        "content": "Click here for more articles by Kormedi.com.\nArtificial intelligence (AI) can analyze a person’s face and assign a numerical score for attractiveness. Some online services even compare users’ scores in real time to determine a “winner,” while viewers... [5096 chars]",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260819/ai-beauty-ratings-raise-concerns-for-young-people",
+        "image": "https://newsimg.koreatimes.co.kr/2026/08/18/9b9acf2b-5703-439e-8e02-ab53494460d8.jpg",
+        "publishedAt": "2026-08-18T15:00:03Z",
+        "lang": "en",
+        "source": {
+            "id": "9f2e79f0f9194d0d88f0074def064e60",
+            "name": "The Korea Times",
+            "url": "https://www.koreatimes.co.kr",
+            "country": "kr"
+        }
+    },
+    {
         "id": "61a15ff18ea1dfc059ca97d96172b207",
         "title": "France to use AI tools to test cybsecurity vulnerabilities after tax agency hacking",
         "description": "PARIS, Aug ⁠18 (Reuters) - French budget ⁠minister David Amiel ‌said on Tuesday that his ministry will use artificial ​intelligence tools to ⁠test government ⁠agencies' cybsecurity vulnerabilities after ⁠a ‌broad hacking of the ⁠country's tax agency was disclosed ​last ‌week.",
@@ -125,38 +157,6 @@
             "name": "ThePrint",
             "url": "https://theprint.in",
             "country": "in"
-        }
-    },
-    {
-        "id": "0136c81d616941366fedf460b2e7d35d",
-        "title": "Google is buying all of Spirit Airlines’ data to feed its AI models",
-        "description": "Did you ever fly on Spirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Google’s artificial intelligence model.",
-        "content": "Did you ever fly on Spirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Google’s artificial intelligence model.\nThe discount airline halted all operations in May, and it’s been sell... [1547 chars]",
-        "url": "https://edition.cnn.com/2026/08/18/business/google-spirit-airlines-data",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2274586037.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-08-18T13:08:44Z",
-        "lang": "en",
-        "source": {
-            "id": "26269dbc42635df9af8c24f3cdab8e37",
-            "name": "Cable News Network",
-            "url": "https://edition.cnn.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9bb45a1ee1f02bd0ce04b6c818d99b1f",
-        "title": "In Open-Source AI Debate, the U.S. Needs a New Theory of Tech Power",
-        "description": "Export controls can no longer determine who leads in artificial intelligence or across a range of other emerging technology.",
-        "content": "The U.S. government and American tech companies are in the throes of a debate over whether developers of artificial intelligence should be permitted to publicly release the “weights” — the rules or numerical calculations that determine how large lang... [8157 chars]",
-        "url": "https://www.justsecurity.org/153033/ai-america-china-technological-power/",
-        "image": "https://www.justsecurity.org/wp-content/uploads/2026/08/GettyImages-2289238912.jpg",
-        "publishedAt": "2026-08-18T13:04:33Z",
-        "lang": "en",
-        "source": {
-            "id": "68a8e5d4f1b05e95fc9dc659d202d2f9",
-            "name": "Just Security",
-            "url": "https://www.justsecurity.org",
-            "country": "us"
         }
     }
 ]
