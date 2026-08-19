@@ -1,5 +1,37 @@
 [
     {
+        "id": "fe542ece8e34d5562594b9c3c55665a4",
+        "title": "Canada's AI strategy needs educators who feel prepared, not just trained",
+        "description": "The Canadian government recently introduced AI for All, a national artificial intelligence strategy that has two focuses: building trust and creating opportunity.",
+        "content": "The Canadian government recently introduced AI for All, a national artificial intelligence strategy that has two focuses: building trust and creating opportunity.\nAs Canada invests in AI literacy and adoption, schools and post-secondary institutions ... [6301 chars]",
+        "url": "https://phys.org/news/2026-08-canada-ai-strategy.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/canadas-ai-strategy-ne.jpg",
+        "publishedAt": "2026-08-18T22:20:03Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "2250a9914b78c88b35ff978a50ec7129",
+        "title": "Young people expect AI to replace desired jobs within 5 years amid hiring slump",
+        "description": "More than half of young job seekers and workers say artificial intelligence (AI) is likely to replace or reduce the need for workers in their desir...",
+        "content": "More than half of young job seekers and workers say artificial intelligence (AI) is likely to replace or reduce the need for workers in their desired occupations within five years, reflecting deepening anxiety about their place in an AI-driven labor ... [3283 chars]",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260819/young-people-expect-ai-to-replace-desired-jobs-within-5-years-amid-hiring-slump",
+        "image": "https://newsimg.koreatimes.co.kr/2026/08/18/da6440de-fdab-4182-9b17-b9003e72e89d.jpg",
+        "publishedAt": "2026-08-18T22:00:04Z",
+        "lang": "en",
+        "source": {
+            "id": "9f2e79f0f9194d0d88f0074def064e60",
+            "name": "The Korea Times",
+            "url": "https://www.koreatimes.co.kr",
+            "country": "kr"
+        }
+    },
+    {
         "id": "b291693802052ac4bc2264182926f63e",
         "title": "How can AI help identify pain when animals can't tell us they're suffering?",
         "description": "A new AI framework, known as SHIC-XE, has been developed to detect signs of pain in horses from video analysis while providing stable, anatomically consistent explanations for its decisions. The framework was developed by an international team of researchers led by Dr. Marcelo Feighelstein, head of the Artificial Intelligence Systems Engineering Program at Tel-Hai University's new Cluster of Engineering and Advanced Computing.",
@@ -124,38 +156,6 @@
             "id": "efaafb02d34a4a267f22c3b80bd225c1",
             "name": "KRDO",
             "url": "https://krdo.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "232dcd662618ccb474a2520670377923",
-        "title": "Experiment shows how AI discoveries can shape human cultural evolution",
-        "description": "Artificial intelligence can develop solutions that humans would be unlikely to discover on their own. But what happens when machines do more than solve individual problems and actually discover entirely new solution strategies? And can such discoveries become part of human knowledge?",
-        "content": "Artificial intelligence can develop solutions that humans would be unlikely to discover on their own. But what happens when machines do more than solve individual problems and actually discover entirely new solution strategies? And can such discoveri... [4917 chars]",
-        "url": "https://phys.org/news/2026-08-ai-discoveries-human-cultural-evolution.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/how-ai-can-contribute.jpg",
-        "publishedAt": "2026-08-18T19:30:03Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "38f60a2ee1b383bbda611b73b08f78ac",
-        "title": "TikTok Live adds AI-generated intros",
-        "description": "The app is offering creators the opportunity to generate summaries of themselves using artificial intelligence-powered tools.",
-        "content": "This audio is auto-generated. Please let us know if you have feedback.\nTikTok has launched a new artificial intelligence-powered introduction tool within the TikTok Live composer, which will generate a summary of the live host and the focus of their ... [1893 chars]",
-        "url": "https://www.socialmediatoday.com/news/tiktok-live-adds-ai-generated-intros/828220/",
-        "image": "https://imgproxy.divecdn.com/VUIXNVVPu-xUKoh9sPFemJ-R5nYB7XXBzK4bx7pfCDE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfYWlfaW50cm8ucG5n.webp",
-        "publishedAt": "2026-08-18T19:19:37Z",
-        "lang": "en",
-        "source": {
-            "id": "ae4d16febbb4ccdaa8c1091d9ced73ba",
-            "name": "Social Media Today",
-            "url": "https://www.socialmediatoday.com",
             "country": "us"
         }
     }
