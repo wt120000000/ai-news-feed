@@ -1,5 +1,37 @@
 [
     {
+        "id": "b86ba7efe8398770f5451945aabdd21b",
+        "title": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
+        "description": "Shipments of semiconductor equipment posted a massive 49.1% jump in value, reflecting continued demand, boosted by the artificial intelligence boom.",
+        "content": "Semiconductor shipments continued to power Japan's exports in July, helping clock the fastest growth since October 2022, beating expectations.\nExports growth accelerated for a fifth straight month, coming in at 23.2%. Economists polled by Reuters had... [1207 chars]",
+        "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108019082-1723463960946-gettyimages-1388181678-japaneseflagoncpu.jpeg?v=1731479400&w=1920&h=1080",
+        "publishedAt": "2026-08-20T00:01:01Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "21f0fb1af95d86ebe58b20b3a7e312bd",
+        "title": "Artificial intelligence can be friend and foe",
+        "description": "Artificial intelligence - KI in German and Artificial Intelligence (AI) in English - is no longer just a topic of the future, it has already arrived in our lives and is for some creating a spirit of optimism. Daniel Reissenberger is a young start-up founder. He understands the opportunities and concerns associated with the spread of AI.",
+        "content": "Artificial intelligence - KI in German and Artificial Intelligence (AI) in English - is no longer just a topic of the future, it has already arrived in our lives and is for some creating a spirit of optimism. Daniel Reissenberger is a young start-up ... [1098 chars]",
+        "url": "https://www.sbs.com.au/language/german/en/podcast-episode/artificial-intelligence-can-be-friend-and-foe/wqzrztv0r",
+        "image": "https://assets.sbs.com.au/dims4/default/d05a972/2147483647/strip/true/crop/704x396+0+1/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fdrupal%2Fyourlanguage%2Fpublic%2Fpodcast_images%2Fai_0.jpg",
+        "publishedAt": "2026-08-19T23:33:04Z",
+        "lang": "en",
+        "source": {
+            "id": "94466d37d8c67a438250646866df36df",
+            "name": "SBS Australia",
+            "url": "https://www.sbs.com.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "ae85158ce0499f3add4cb6f4ad528c63",
         "title": "Virginia county expecting its data centers to bring in $1.3B haul in tax revenue",
         "description": "Loudoun County, a wealthy suburb outside of Washington, DC, is home to roughly 250 data centers that are operated or leased by tech giants like Amazon, Microsoft and Google to power artificial intelligence and the internet.",
@@ -125,38 +157,6 @@
             "name": "Bloomberg",
             "url": "https://www.bloomberg.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "bf50f24584aca1e37065bb6bc259ef0a",
-        "title": "Bird evolution didn’t happen steadily: AI reveals 45 million years of climate-driven changes in skeletons",
-        "description": "Bird skeletons reveal evolutionary history shaped by climate shifts and environmental upheaval. Artificial intelligence analyzed thousands of museum specimens for anatomical measurements. Researchers found rapid anatomical changes occurred during ancient cooling periods. Evolutionary rates also slowed during other significant geological and environmental shifts. This study highlights how environmental variability influences bird body form evolution.",
-        "content": "Synopsis\nBird skeletons reveal evolutionary history shaped by climate shifts and environmental upheaval. Artificial intelligence analyzed thousands of museum specimens for anatomical measurements. Researchers found rapid anatomical changes occurred d... [11413 chars]",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/bird-evolution-didnt-happen-steadily-ai-reveals-45-million-years-of-climate-driven-changes-in-skeletons/articleshow/133358101.cms",
-        "image": "https://img.etimg.com/thumb/msid-133358121,width-1200,height-630,imgsize-144272,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-19T19:07:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "c5ec504f7cada693c181aaa0ffb23f13",
-        "title": "Most AI medical devices cleared for use were not tested on patient outcomes",
-        "description": "A new analysis shows that, of 1,357 artificial intelligence (AI)-based medical devices authorized by the U.S. Food and Drug Administration (FDA) for use in patient care, only three had been tested on whether they actually improve patients' health.",
-        "content": "A new analysis shows that, of 1,357 artificial intelligence (AI)-based medical devices authorized by the U.S. Food and Drug Administration (FDA) for use in patient care, only three had been tested on whether they actually improve patients' health.\nRa... [2478 chars]",
-        "url": "https://medicalxpress.com/news/2026-08-ai-medical-devices-patient-outcomes.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/most-ai-medical-device.jpg",
-        "publishedAt": "2026-08-19T18:00:13Z",
-        "lang": "en",
-        "source": {
-            "id": "0a4c92a1a91d0994627a96e134064d69",
-            "name": "Medical Xpress",
-            "url": "https://medicalxpress.com",
-            "country": "gb"
         }
     }
 ]
