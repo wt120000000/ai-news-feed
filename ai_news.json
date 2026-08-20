@@ -1,5 +1,21 @@
 [
     {
+        "id": "db8980495fb8a42352a4c042b8cd3a90",
+        "title": "Asian shares gain, with South Korea's Kospi up 6%, after the US Treasury expands its debt buybacks",
+        "description": "Shares are mostly higher in Asia, with South Korea’s benchmark Kospi rebounding more than 6%. U.S. futures also were trading higher early Thursday after the U.S. Treasury Department said it would at least double the size of its planned purchases of longer-term government debt. South Korea led the gains after sinking 5.8% on Wednesday on renewed selling of shares related to artificial intelligence. On Wednesday, U.S. stocks climbed after the Treasury Department announced its plan, which could ease pressure coming from the bond market. Buying bonds would increase their prices, which would help bring down yields. The benchmark S&P 500 climbed 0.2% and the Dow industrials added 0.2%. The technology-heavy Nasdaq composite rose 0.2%.",
+        "content": "HONG KONG (AP) — Asian shares advanced Thursday, tracking Wall Street gains, and South Korea’s benchmark Kospi jumped more than 6%.\nU.S. futures edged higher after the U.S. Treasury Department said it would at least double the size of planned purchas... [1574 chars]",
+        "url": "https://www.ajc.com/news/2026/08/asian-shares-gain-with-south-koreas-kospi-up-6-after-the-us-treasury-expands-its-debt-buybacks/",
+        "image": "https://images.ajc.com/resizer/v2/D2XLMNYPZFCSDH3XB7C23NRCMM.jpg?auth=fabcec8d7c55e9b5e3f89cf993ebb00b7db8704e5bb59859e17cac6caf03e474&width=1200&height=630&smart=true",
+        "publishedAt": "2026-08-20T05:22:05Z",
+        "lang": "en",
+        "source": {
+            "id": "79e9a45376a66fd7e1a4e68bba928c39",
+            "name": "The Atlanta Journal-Constitution",
+            "url": "https://www.ajc.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "1853ad197155cc6c00122056165d3678",
         "title": "FDA-cleared medical AI rarely tested for real-world benefits",
         "description": "A new analysis shows that, of 1,357 artificial intelligence (AI)-based medical devices authorized by the U.S. Food and Drug Administration (FDA) for use in patient care, only three had been tested on whether they actually improve patients' health.",
@@ -141,22 +157,6 @@
             "name": "New York Post",
             "url": "https://nypost.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "0a4929a5bec3c255ba4e1cc2afd9f129",
-        "title": "OpenAI says ads coming to ChatGPT in Europe",
-        "description": "European users of ChatGPT's free and low-cost artificial intelligence agents will start seeing ads from Aug 24, as its builder OpenAI expands a plan for extracting more revenue from its models.",
-        "content": "PARIS: European users of ChatGPT's free and low-cost artificial intelligence (AI) agents will start seeing ads from Aug 24, as its builder OpenAI expands a plan for extracting more revenue from its models.\nAfter initially rolling out advertising in t... [1357 chars]",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/20/openai-says-ads-coming-to-chatgpt-in-europe",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/20/4068077.jpg",
-        "publishedAt": "2026-08-20T01:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
