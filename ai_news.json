@@ -1,5 +1,37 @@
 [
     {
+        "id": "c5a61793f063b1537e4cf3e2e620bfe8",
+        "title": "Could Australian businesses be next? The potential impact of New York’s AI Ad Disclosure Laws",
+        "description": "Artificial intelligence is changing the way businesses create content, from generating campaign imagery to developing virtual influencers and digital brand ambassadors. As...",
+        "content": "COMPANY NEWS: Artificial intelligence is changing the way businesses create content, from generating campaign imagery to developing virtual influencers and digital brand ambassadors. As AI-generated talent becomes more common across advertising and s... [4484 chars]",
+        "url": "https://itwire.com/guest-articles/company-news/could-australian-businesses-be-next-the-potential-impact-of-new-york-s-ai-ad-disclosure-laws",
+        "image": "https://media.itwire.com/2026/08/20/could-australian-businesses-be-next-the-potential-impact-of-new-york-s-ai-ad-disclosure-laws-e0a679d82b23.webp",
+        "publishedAt": "2026-08-20T03:27:17Z",
+        "lang": "en",
+        "source": {
+            "id": "10cbfb3760cfcdeb78c733c527f0e814",
+            "name": "iTWire",
+            "url": "https://itwire.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "862b61bdbdfc6e28256f28f96b3d7b0b",
+        "title": "New AI spots hypertrophic cardiomyopathy obstruction from standard ultrasounds",
+        "description": "Mayo Clinic researchers have developed and externally validated an artificial intelligence (AI) model that can identify a potentially significant heart obstruction from routine ultrasound videos without relying on specialized Doppler imaging.",
+        "content": "Mayo Clinic researchers have developed and externally validated an artificial intelligence (AI) model that can identify a potentially significant heart obstruction from routine ultrasound videos without relying on specialized Doppler imaging. The tec... [3113 chars]",
+        "url": "https://www.news-medical.net/news/20260819/New-AI-spots-hypertrophic-cardiomyopathy-obstruction-from-standard-ultrasounds.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/Ultrasound-620x480.jpg",
+        "publishedAt": "2026-08-20T02:57:00Z",
+        "lang": "en",
+        "source": {
+            "id": "6fea3ee012f060c6309366516e8d00be",
+            "name": "News-Medical.net",
+            "url": "https://www.news-medical.net",
+            "country": "gb"
+        }
+    },
+    {
         "id": "356892b61ce2ecba6788f4a8929d5ed9",
         "title": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants",
         "description": "US agencies issued a warning about hackers targeting Siemens devices. These devices are crucial for operating water and other critical infrastructure systems. Hackers are reportedly using artificial intelligence to speed up attacks. This threat could disrupt essential services and damage equipment. The advisory highlights an active threat to multiple sectors across the nation.",
@@ -124,38 +156,6 @@
             "id": "95a96a1867c4dac6f720e9d08d4c1b96",
             "name": "New York Post",
             "url": "https://nypost.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d940dd9f060715d13d34644a3d1256ab",
-        "title": "Legal resident loses thousands seeking citizenship to AI immigration attorney",
-        "description": "NEW YORK (WABC) -- It's a perfect storm, where online scammers use artificial intelligence to victimize vulnerable people out of thousands of dollars, with",
-        "content": "NEW YORK (WABC) — It’s a perfect storm, where online scammers use artificial intelligence to victimize vulnerable people out of thousands of dollars, with many getting taken for their life savings and immigrants are increasingly the target.\nNot only ... [3869 chars]",
-        "url": "https://www.europesays.com/3204019/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/1787178817_19704808_081926-wabc-ai-immigration-scam-img.jpg",
-        "publishedAt": "2026-08-19T22:33:29Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e547a012460a55eb1798e0b83a9ac516",
-        "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light",
-        "description": "The president said the U.S. is far ahead of China in artificial intelligence and defended the rapid construction of data centers and power plants needed to fuel the industry.",
-        "content": "President Donald Trump said Wednesday that artificial intelligence could become “bigger than the internet,” as he called for regulation that does not slow the industry and defended the rapid buildout of data centers and power plants across the United... [2117 chars]",
-        "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
-        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png",
-        "publishedAt": "2026-08-19T21:36:50Z",
-        "lang": "en",
-        "source": {
-            "id": "6956007add5fc13a6721202ec906b1c4",
-            "name": "Decrypt",
-            "url": "https://decrypt.co",
             "country": "us"
         }
     }
