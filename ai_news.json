@@ -1,5 +1,37 @@
 [
     {
+        "id": "ae85158ce0499f3add4cb6f4ad528c63",
+        "title": "Virginia county expecting its data centers to bring in $1.3B haul in tax revenue",
+        "description": "Loudoun County, a wealthy suburb outside of Washington, DC, is home to roughly 250 data centers that are operated or leased by tech giants like Amazon, Microsoft and Google to power artificial intelligence and the internet.",
+        "content": "A lavish Virginia county that’s home to hundreds of data centers is raking in more than a billion-dollar windfall off the server farms — and residents are reaping the tech boom benefits with 30% reductions property taxes and splashy public projects.\n... [2831 chars]",
+        "url": "https://nypost.com/2026/08/19/us-news/virginia-county-expecting-its-data-centers-to-bring-in-1-3b-haul-in-tax-revenue/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40419431.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-08-19T23:00:24Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d940dd9f060715d13d34644a3d1256ab",
+        "title": "Legal resident loses thousands seeking citizenship to AI immigration attorney",
+        "description": "NEW YORK (WABC) -- It's a perfect storm, where online scammers use artificial intelligence to victimize vulnerable people out of thousands of dollars, with",
+        "content": "NEW YORK (WABC) — It’s a perfect storm, where online scammers use artificial intelligence to victimize vulnerable people out of thousands of dollars, with many getting taken for their life savings and immigrants are increasingly the target.\nNot only ... [3869 chars]",
+        "url": "https://www.europesays.com/3204019/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/08/1787178817_19704808_081926-wabc-ai-immigration-scam-img.jpg",
+        "publishedAt": "2026-08-19T22:33:29Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "e547a012460a55eb1798e0b83a9ac516",
         "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light",
         "description": "The president said the U.S. is far ahead of China in artificial intelligence and defended the rapid construction of data centers and power plants needed to fuel the industry.",
@@ -125,38 +157,6 @@
             "name": "Medical Xpress",
             "url": "https://medicalxpress.com",
             "country": "gb"
-        }
-    },
-    {
-        "id": "e54d653951369362c2e64469e7e74159",
-        "title": "Nvidia H200 AI processors enter China: These two companies secure new batches",
-        "description": "Tech News News: Chinese regulatory authorities have reportedly begun permitting limited quantities of Nvidia’s H200 artificial intelligence (AI) processors into mainl.",
-        "content": "Chinese regulatory authorities have reportedly begun permitting limited quantities of Nvidia’s H200 artificial intelligence (AI) processors into mainland China, providing critical computing power to domestic tech companies as they work to close the t... [2794 chars]",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-h200-ai-processors-enter-china-these-two-companies-secure-new-batches/articleshow/133356136.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133356305,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-19T17:54:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "21d50ea8fb65762ec279fc63435c1cbf",
-        "title": "Schools spend billions on AI, but struggle to figure out what’s worth buying",
-        "description": "As a new school year begins, some classrooms may use artificial intelligence tools to flag a student struggling with classwork, track attendance or try to raise reading scores.",
-        "content": "Robbie Sequeira\nStateline.org (TNS)\nAs a new school year begins, some classrooms may use artificial intelligence tools to flag a student struggling with classwork, track attendance or try to raise reading scores.\nBut as school districts make decision... [9841 chars]",
-        "url": "https://www.baltimoresun.com/2026/08/19/schools-spend-billions-on-ai-but-struggle-to-figure-out-whats-worth-buying/",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/08/US-NEWS-EDU-SCHOOLS-AI-SPENDING-FILEPIC-DMT.jpg?w=2738&h=1825",
-        "publishedAt": "2026-08-19T17:38:22Z",
-        "lang": "en",
-        "source": {
-            "id": "3271eb2093cfa66b030a37cf84a8df5e",
-            "name": "Baltimore Sun",
-            "url": "https://www.baltimoresun.com",
-            "country": "us"
         }
     }
 ]
