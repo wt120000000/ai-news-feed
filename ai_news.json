@@ -1,5 +1,21 @@
 [
     {
+        "id": "bf50f24584aca1e37065bb6bc259ef0a",
+        "title": "Bird evolution didn’t happen steadily: AI reveals 45 million years of climate-driven changes in skeletons",
+        "description": "Bird skeletons reveal evolutionary history shaped by climate shifts and environmental upheaval. Artificial intelligence analyzed thousands of museum specimens for anatomical measurements. Researchers found rapid anatomical changes occurred during ancient cooling periods. Evolutionary rates also slowed during other significant geological and environmental shifts. This study highlights how environmental variability influences bird body form evolution.",
+        "content": "Synopsis\nBird skeletons reveal evolutionary history shaped by climate shifts and environmental upheaval. Artificial intelligence analyzed thousands of museum specimens for anatomical measurements. Researchers found rapid anatomical changes occurred d... [11413 chars]",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/bird-evolution-didnt-happen-steadily-ai-reveals-45-million-years-of-climate-driven-changes-in-skeletons/articleshow/133358101.cms",
+        "image": "https://img.etimg.com/thumb/msid-133358121,width-1200,height-630,imgsize-144272,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-08-19T19:07:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "c5ec504f7cada693c181aaa0ffb23f13",
         "title": "Most AI medical devices cleared for use were not tested on patient outcomes",
         "description": "A new analysis shows that, of 1,357 artificial intelligence (AI)-based medical devices authorized by the U.S. Food and Drug Administration (FDA) for use in patient care, only three had been tested on whether they actually improve patients' health.",
@@ -141,22 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "84d128e58b586fa8bc02c7e3eae6189f",
-        "title": "Businesses want govt leadership in AI adoption",
-        "description": "Almost three quarters of businesses based in Malaysia will accelerate adoption of artificial intelligence (AI) tools with greater public sector adoption, a survey by Amazon Web Services (AWS), the cloud computing arm of Amazon.com Inc, reveals.",
-        "content": "KUALA LUMPUR: Almost three quarters of businesses based in Malaysia will accelerate adoption of artificial intelligence (AI) tools with greater public sector adoption, a survey by Amazon Web Services (AWS), the cloud computing arm of Amazon.com Inc, ... [3244 chars]",
-        "url": "https://www.thestar.com.my/business/business-news/2026/08/20/businesses-want-govt-leadership-in-ai-adoption",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/20/4068507.jpeg",
-        "publishedAt": "2026-08-19T16:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
         }
     }
 ]
