@@ -1,5 +1,85 @@
 [
     {
+        "id": "a0230d91961bbfda3ef51d7c575da7db",
+        "title": "Raghuram Rajan pitches tax credits as an antidote to AI job losses",
+        "description": "Governments could consider a tax credit for additional training provided to workers as artificial intelligence reshapes jobs, economist Raghuram Rajan has said, arguing that retraining and worker retention will be important to minimise the effects of AI-related displacement.",
+        "content": "Under Rajan's proposal, governments could consider a tax credit for additional training provided to workers, with one-third of the value usable each year a worker retains employment.\nBy Navneet Singh\nEconomist Raghuram Rajan has suggested that govern... [4057 chars]",
+        "url": "https://www.cnbctv18.com/technology/raghuram-rajan-pitches-tax-credits-as-an-antidote-to-ai-job-losses-19973023.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/08/artificial-intelligence-2026-08-157d4ad18920504ec808be88433894f3.jpg?im=FitAndFill,width=1200,height=675",
+        "publishedAt": "2026-08-19T15:37:53Z",
+        "lang": "en",
+        "source": {
+            "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+            "name": "CNBC TV18",
+            "url": "https://www.cnbctv18.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b72780bedc712b00bf624e3985bb99d4",
+        "title": "Parents grappling with teen AI use in school, learning impact",
+        "description": "Seven in ten teens use artificial intelligence tools for schoolwork, according to a new survey from Common Sense Media.",
+        "content": "There’s one item on many teens’ back-to-school supply lists you won’t find in stores — and at some schools, not even in the classroom.\nSeven in ten teens use artificial intelligence tools for schoolwork, according to a new survey from Common Sense Me... [2255 chars]",
+        "url": "https://www.nbcboston.com/news/national-international/teens-ai-use-school-parents-grappling-impact-learning/4000426/",
+        "image": "https://media.nbcboston.com/2026/08/GettyImages-1242701087.jpg?quality=85&strip=all&crop=0px%2C0px%2C8256px%2C4644px&resize=1200%2C675",
+        "publishedAt": "2026-08-19T15:34:43Z",
+        "lang": "en",
+        "source": {
+            "id": "8749653ef849c3df2e467a8e0f0c6672",
+            "name": "NBC10 Boston",
+            "url": "https://www.nbcboston.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "2538782620cf3662ce329a033123b3c7",
+        "title": "Parents grappling with teen AI use in school, learning impact",
+        "description": "Seven in ten teens use artificial intelligence tools for schoolwork, according to a new survey from Common Sense Media.",
+        "content": "There’s one item on many teens’ back-to-school supply lists you won’t find in stores — and at some schools, not even in the classroom.\nSeven in ten teens use artificial intelligence tools for schoolwork, according to a new survey from Common Sense Me... [2255 chars]",
+        "url": "https://www.nbcchicago.com/news/national-international/teens-ai-use-school-parents-grappling-impact-learning/3977429/",
+        "image": "https://media.nbcchicago.com/2026/08/GettyImages-1242701087.jpg?quality=85&strip=all&crop=0px%2C0px%2C8256px%2C4644px&resize=1200%2C675",
+        "publishedAt": "2026-08-19T15:34:43Z",
+        "lang": "en",
+        "source": {
+            "id": "046a50607901bb9bca25f6624dc87f76",
+            "name": "NBC 5 Chicago",
+            "url": "https://www.nbcchicago.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "15585127376bfdae4d531f9c58f840fa",
+        "title": "The anti-AI revolt is here",
+        "description": "While governments put their faith in artificial intelligence, a “techlash” is building among a younger generation sceptical of its benefits and frightened by its potential for catastrophe",
+        "content": "How to medicate those sclerotic, wheezing twins, the British economy and state? This has been the central question facing successive UK governments since at least the financial crisis of 2008 – and the question to which no prime minister has been abl... [1627 chars]",
+        "url": "https://www.newstatesman.com/politics/society/2026/08/the-anti-ai-revolt-is-here",
+        "image": "https://dl6pgk4f88hky.cloudfront.net/2026/08/19/202634tinlineai-649x418.jpg?1787189393",
+        "publishedAt": "2026-08-19T15:23:11Z",
+        "lang": "en",
+        "source": {
+            "id": "b2d8e57d5a31a35fb8ee70adba5bfff2",
+            "name": "New Statesman",
+            "url": "https://www.newstatesman.com",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "a447ea542ba730f794aa8b489364bd9f",
+        "title": "Students need more than AI skills-they need accountable AI literacy",
+        "description": "As students return to Canadian colleges and universities soon, many will enter classrooms where generative artificial intelligence (GenAI) is already part of everyday academic life. Many might use tools such as ChatGPT and Gemini to brainstorm, summarize readings, revise writing and prepare job applications.",
+        "content": "As students return to Canadian colleges and universities soon, many will enter classrooms where generative artificial intelligence (GenAI) is already part of everyday academic life. Many might use tools such as ChatGPT and Gemini to brainstorm, summa... [6809 chars]",
+        "url": "https://phys.org/news/2026-08-students-ai-skills-accountable-literacy.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/students-need-more-tha.jpg",
+        "publishedAt": "2026-08-19T15:20:09Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
         "id": "dad004ba6c35890eaffdd76ac4052b94",
         "title": "Goldman: Junior white-collar workers squeezed hardest by AI hiring slump",
         "description": "Artificial intelligence is beginning to weigh most heavily on junior white-collar jobs, according to Goldman Sachs",
@@ -77,86 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "e8385940ba4a53ae3385a6f16a476718",
-        "title": "China’s J-36 fighter jet designers report danger of military AI hallucinations",
-        "description": "Content generated by artificial intelligence models can ‘defy basic physics, design principles or operational constraints’.",
-        "content": "In a paper published on June 20, engineer Zhang Xianzhe said that “AI models can invent aircraft specifications – length, payload, weapons, speed, combat radius – and get radar scan ranges and frequency bands wrong”.\n“The so-called hallucination effe... [558 chars]",
-        "url": "https://www.scmp.com/news/china/science/article/3364546/chinas-j-36-fighter-jet-designers-report-danger-military-ai-hallucinations",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/19/246d2e85-0deb-4d50-b2e6-9bf82f22ddca_d6d5882e.jpg?itok=pkuyXz58&v=1787124915",
-        "publishedAt": "2026-08-19T14:00:14Z",
-        "lang": "en",
-        "source": {
-            "id": "d6397b77175680e2678c0d60edcee7af",
-            "name": "South China Morning Post",
-            "url": "https://www.scmp.com",
-            "country": "hk"
-        }
-    },
-    {
-        "id": "90041930a5118a981d4594b1ba2822f3",
-        "title": "India's international tax regime set for major shift as AI, global tax rules evolve: Industry experts",
-        "description": "India's international taxation framework is likely to undergo further transformation as evolving court judgments, artificial intelligence and global digitalisation reshape the way taxes are assessed and collected, tax experts Rakesh Nangia, Prashanth Agarwal and G.S. Pannu said in separate interactions with ANI on the sidelines of the 23rd International Taxation Conference organised by ASSOCHAM.",
-        "content": "New Delhi [India], August 19 (ANI): India's international taxation framework is likely to undergo further transformation as evolving court judgments, artificial intelligence and global digitalisation reshape the way taxes are assessed and collected, ... [2454 chars]",
-        "url": "https://www.tribuneindia.com/news/business/indias-international-tax-regime-set-for-major-shift-as-ai-global-tax-rules-evolve-industry-experts/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVhYWMwYmMwLTliZDUtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-19T13:53:21Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "76d04d1a84a5fae067e7f574ad9919ef",
-        "title": "India's international tax regime set for major shift as AI, global tax rules evolve: Industry experts",
-        "description": "India's international taxation framework is likely to undergo further transformation as evolving court judgments, artificial intelligence and global digitalisation reshape the way taxes are assessed and collected, tax experts Rakesh Nangia, Prashanth Agarwal and G.S. Pannu said in separate interactions with ANI on the sidelines of the 23rd International Taxation Conference organised by ASSOCHAM.",
-        "content": "New Delhi [India], August 19 (ANI): India's international taxation framework is likely to undergo further transformation as evolving court judgments, artificial intelligence and global digitalisation reshape the way taxes are assessed and collected, ... [761 chars]",
-        "url": "https://www.aninews.in/news/business/indias-international-tax-regime-set-for-major-shift-as-ai-global-tax-rules-evolve-industry-experts20260819192023/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260819135011-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-08-19T13:50:23Z",
-        "lang": "en",
-        "source": {
-            "id": "f282f77e41f55d72f00fefcaccc92954",
-            "name": "ANI (Asian News International)",
-            "url": "https://www.aninews.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "1cb6d5ce53df72d2c74218d7b127cf08",
-        "title": "Are We Losing Human Intelligence to Artificial Intelligence?",
-        "description": "Daily Ecstasy News: At the outset, let me confess that Artificial Intelligence is one of humanity’s greatest technological achievements. As a tool, it is revolutionary. I.",
-        "content": "Representative image\nAt the outset, let me confess that Artificial Intelligence is one of humanity’s greatest technological achievements. As a tool, it is revolutionary. It can process enormous amounts of information, simplify complex tasks, improve ... [3421 chars]",
-        "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/are-we-losing-human-intelligence-to-artificial-intelligence/articleshow/133349951.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133349964,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-19T13:21:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "a6526f267afde1c2ff96b33f786042b5",
-        "title": "Gujarat eyes AI, semiconductor, data centre partnerships during US visit",
-        "description": "Gujarat is looking to deepen its partnerships with leading global technology companies in semiconductors, artificial intelligence (AI), data centres and skill development, with Chief Minister Bhupendra Patel holding discussions with Micron, Google, Perplexity AI and The Indus Entrepreneurs (TiE) during the third day of his US visit.",
-        "content": "New Delhi [India], August 19 (ANI): Gujarat is looking to deepen its partnerships with leading global technology companies in semiconductors, artificial intelligence (AI), data centres and skill development, with Chief Minister Bhupendra Patel holdin... [796 chars]",
-        "url": "https://www.aninews.in/news/business/gujarat-eyes-ai-semiconductor-data-centre-partnerships-during-us-visit20260819182918/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260819125855-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-08-19T12:59:18Z",
-        "lang": "en",
-        "source": {
-            "id": "f282f77e41f55d72f00fefcaccc92954",
-            "name": "ANI (Asian News International)",
-            "url": "https://www.aninews.in",
-            "country": "in"
         }
     }
 ]
