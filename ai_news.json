@@ -1,5 +1,21 @@
 [
     {
+        "id": "3d56dad085fca1aa328cff05fb8d6fb5",
+        "title": "AI researcher Sanja Fidler raises US$90-million for robotics startup",
+        "description": "Veeda Innovation Inc. will build artificial intelligence models to help train robots",
+        "content": "Former Nvidia Corp. NVDA-Q researcher Sanja Fidler has launched a new Toronto startup that will build artificial intelligence models to help train robots, with backing from venture capital firms Khosla Ventures and Radical Ventures.\nMs. Fidler is chi... [3268 chars]",
+        "url": "https://www.theglobeandmail.com/business/article-sanja-fidler-veeda-innovation-nvidia-ai-robotics-training-toronto/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/XW3QQ2Q3ABAWJGCOKTZ5CAOWA4.JPG?auth=175cec875b88e443d30dff417e913b2a9440381e79852b39a708e9ecb88de4fb&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-08-19T20:58:35Z",
+        "lang": "en",
+        "source": {
+            "id": "f5081afeaba654292dd91fffd29f9dd4",
+            "name": "The Globe and Mail",
+            "url": "https://www.theglobeandmail.com",
+            "country": "ca"
+        }
+    },
+    {
         "id": "9b663c71d5f13b9175f8b61f4de660e4",
         "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
         "description": "Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.",
@@ -140,22 +156,6 @@
             "id": "e8d7ea30b7c7cf50d2b88be83a09a0fa",
             "name": "InvenGlobal",
             "url": "https://www.invenglobal.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "60f20a723c61131326bb2c5b2c19c900",
-        "title": "What are data centers and why do they matter?",
-        "description": "Here, PolitiFact explains: What are data centers, how do they operate, what is artificial intelligence’s role and what it could mean for communities when a data center opens nearby.",
-        "content": "Listen now and subscribe: Apple Podcasts | Google Podcasts | Spotify | Stitcher | RSS Feed | SoundStack | All Of Our Podcasts\nWhile a data center moratorium is officially in place for New York, advocates for legislation awaiting action by the governo... [262 chars]",
-        "url": "https://buffalonews.com/news/state-regional/business/article_98b567db-6700-4252-8d32-62b8e38beac6.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/8b/98b567db-6700-4252-8d32-62b8e38beac6/6a84c5b04db79.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2026-08-19T17:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c19dcd0d635e985c09987af436e2e9eb",
-            "name": "Buffalo Buffalo News",
-            "url": "https://buffalonews.com",
             "country": "us"
         }
     }
