@@ -16,6 +16,22 @@
         }
     },
     {
+        "id": "cc958fd8783b63f707317e9ebcd53b8b",
+        "title": "Brazil launches AI supercomputer push, splits projects between Chinese, US firms",
+        "description": "Brazil's government announced on Thursday investments of about 2.3 billion reais ($444.2 million) to ‌bolster its artificial intelligence ecosystem, splitting projects between U.S. and Chinese companies in a move that underscores its effort to navigate relations with both powers.",
+        "content": "BRASILIA, Aug 20 (Reuters) - Brazil's government announced on Thursday investments of about 2.3 billion reais ($444.2 million) to ‌bolster its artificial intelligence ecosystem, splitting projects between U.S. and Chinese companies in a move that und... [2153 chars]",
+        "url": "https://www.reuters.com/world/americas/brazil-launches-ai-supercomputer-push-splits-projects-between-chinese-us-firms-2026-08-20/",
+        "image": "https://www.reuters.com/resizer/v2/XZAB6W45Y5OAZD56STZWTO6HUI.jpg?auth=91315eff901d7290002b50dc0ef579c18922b0b2386db4d359ef9bc617fdaea4&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-08-20T21:07:31Z",
+        "lang": "en",
+        "source": {
+            "id": "da5c26287bdd02563a2c32b55cb12051",
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b54278a41bb3f667158cb3029ed921e4",
         "title": "No gold standard needed: Method ranks the precision of medical imaging measurements",
         "description": "Advances in medical imaging and artificial intelligence (AI) have revolutionized many aspects of medical practice in recent years. Quantitative measurements derived from medical images are increasingly being used to support diagnosis and clinical decision-making. Consequently, many new quantitative imaging tools, including those based on AI, are being developed.",
@@ -141,22 +157,6 @@
             "name": "CNBC TV18",
             "url": "https://www.cnbctv18.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "a7daf83f7d0142a11609d3c1252ae02a",
-        "title": "Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-        "description": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence",
-        "content": "The U.S. government on Wednesday warned of an “active threat” targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.\nThe activity is targeting Siemens S7 SeriesProgrammable Logic C... [6255 chars]",
-        "url": "https://www.europesays.com/3205495/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/plc.jpg",
-        "publishedAt": "2026-08-20T17:17:23Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
         }
     }
 ]
