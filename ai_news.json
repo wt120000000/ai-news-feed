@@ -1,5 +1,21 @@
 [
     {
+        "id": "b54278a41bb3f667158cb3029ed921e4",
+        "title": "No gold standard needed: Method ranks the precision of medical imaging measurements",
+        "description": "Advances in medical imaging and artificial intelligence (AI) have revolutionized many aspects of medical practice in recent years. Quantitative measurements derived from medical images are increasingly being used to support diagnosis and clinical decision-making. Consequently, many new quantitative imaging tools, including those based on AI, are being developed.",
+        "content": "Advances in medical imaging and artificial intelligence (AI) have revolutionized many aspects of medical practice in recent years. Quantitative measurements derived from medical images are increasingly being used to support diagnosis and clinical dec... [4707 chars]",
+        "url": "https://medicalxpress.com/news/2026-08-gold-standard-method-precision-medical.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/technique-evaluates-re.jpg",
+        "publishedAt": "2026-08-20T20:20:02Z",
+        "lang": "en",
+        "source": {
+            "id": "0a4c92a1a91d0994627a96e134064d69",
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com",
+            "country": "gb"
+        }
+    },
+    {
         "id": "822d6017220008f01b1a286f427bd900",
         "title": "Artificial intelligence powered traffic lights are being trialled, but will it ease traffic congestion?",
         "description": "While it may be the latest \"buzzword\", researchers say AI could help improve our understanding of intersections and use that information to reduce delays.",
@@ -141,22 +157,6 @@
             "name": "FOX 4 News",
             "url": "https://www.fox4news.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "0f0c03e32d7c8ffeaeaf6ff7e748eeb0",
-        "title": "PM Narendra Modi chairs third high-level meeting with Secretaries to Government of India",
-        "description": "As per the PMO, the Prime Minister called for effective use of Artificial Intelligence while ensuring human intervention and judgement. He called for exploring innovative ways of combining the capabilities of AI with human expertise.",
-        "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nPrime Minister Narendra Modi chaired the third high-level meeting with Secretaries to the Government of India at his residence at 7, Lok Kalyan Marg earlie... [3786 chars]",
-        "url": "https://www.moneycontrol.com/news/india/pm-narendra-modi-chairs-third-high-level-meeting-with-secretaries-to-government-of-india-14011845.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260215124410_narendramodipti.png",
-        "publishedAt": "2026-08-20T17:08:26Z",
-        "lang": "en",
-        "source": {
-            "id": "fd3677545b80d5db7541de8e111d27ba",
-            "name": "Moneycontrol",
-            "url": "https://www.moneycontrol.com",
-            "country": "in"
         }
     }
 ]
