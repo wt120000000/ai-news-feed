@@ -1,5 +1,69 @@
 [
     {
+        "id": "a6fa6e4a90e7ae29b0c5c052af90db10",
+        "title": "Bubonicon 57 celebrates androids, robots and A.I. with authors Patricia Briggs and Martha Wells",
+        "description": "Bubonicon 57 in Albuquerque explores the theme 'Androids & Robots and Droids, Oh A.I.' with guests of honor Patricia Briggs and Martha Wells discussing science fiction, artificial intelligence, and the future of publishing.",
+        "content": "Robots will take the focus at Bubonicon 57, which lands Friday, Aug. 21, through Sunday, Aug. 23, in Albuquerque, with the theme “Androids & Robots and Droids, Oh A.I.”\nCo-guest of honor Patricia Briggs, author of the “Mercyverse” and “Sianim” series... [3116 chars]",
+        "url": "https://www.abqjournal.com/lifestyles/these-are-the-droids-youre-looking-for/3104572",
+        "image": "https://image.abqjournal.com/3104686.jpg?imageId=3104686&x=0&y=1.12&cropw=100&croph=48.31&panox=0&panoy=1.12&panow=100&panoh=48.31&width=1200&height=683",
+        "publishedAt": "2026-08-20T14:45:00Z",
+        "lang": "en",
+        "source": {
+            "id": "e3cad7a35669a0f5933fa172f5aa2e41",
+            "name": "Albuquerque Journal",
+            "url": "https://www.abqjournal.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "9560a3ae2f25de72c3653f7af4127d81",
+        "title": "Artificial intelligence helps man win landmark employment case",
+        "description": "Gregory Baker has said he won by using multiple paid AI agents, such as OpenAI’s paid offering, ChatGPT Pro",
+        "content": "Last week, the Fair Work Commission ruled Gregory Baker, a computing academic at Macquarie University, should be treated as an ongoing, part-time employee, after the university had earlier declined his request to convert from a casual role.\nIt was im... [4931 chars]",
+        "url": "https://www.independent.co.uk/news/world/australasia/artificial-intelligence-law-case-australia-b3036435.html",
+        "image": "https://static.independent.co.uk/2026/08/20/13/48/iStock-1995289625.jpeg?trim=0,27,0,27&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-08-20T14:28:22Z",
+        "lang": "en",
+        "source": {
+            "id": "97497c18f5cb431f5f324b3d8643c24f",
+            "name": "The Independent",
+            "url": "https://www.independent.co.uk",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "5cc33c12e1a8e6a91e619781bea5eab5",
+        "title": "American billionaire Mark Cuban on how he will use Claude, ChatGPT and Gemini if he was a doctor",
+        "description": "Tech News News: Mark Cuban has outlined a forward-thinking blueprint for modern healthcare, detailing how he would leverage leading artificial intelligence (AI) platf.",
+        "content": "Mark Cuban has outlined a forward-thinking blueprint for modern healthcare, detailing how he would leverage leading artificial intelligence (AI) platforms, including OpenAI’s ChatGPT, Anthropic Claude, Google Gemini and Grok, if he were operating a p... [2434 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/american-billionaire-mark-cuban-on-how-he-will-use-claude-chatgpt-and-gemini-if-he-was-a-doctor/articleshow/133380454.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133380466,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-20T14:21:00Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "9412ca1e42d761adcfe13fd56be2eaaf",
+        "title": "Meta emerges as a major Microsoft Azure AI customer: What to know",
+        "description": "Meta has reportedly become one of Microsoft Corp.’s largest customers for artificial intelligence services, underscoring the heavy capital expenditures for tech infrastructure required to...",
+        "content": "Meta has reportedly become one of Microsoft Corp.’s largest customers for artificial intelligence services, underscoring the heavy capital expenditures for tech infrastructure required to support AI expansion.\nThe scale of Meta’s spending demonstrate... [1105 chars]",
+        "url": "https://www.thenews.com.pk/latest/1412944-meta-emerges-as-a-major-microsoft-azure-ai-customer-what-to-know",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-08-20/1412944_070022_updates.jpg",
+        "publishedAt": "2026-08-20T14:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk",
+            "country": "pk"
+        }
+    },
+    {
         "id": "c9fd8af230966e1e9057c7f84d5d456d",
         "title": "Using artificial intelligence in research and development: Opportunities and pitfalls",
         "description": "by Bina Botts, Botts Consulting. Used responsibly by the rubber industry, artificial intelligence can accelerate routine work, improve access to information, focus testing efforts and unlock value from existing data",
@@ -92,70 +156,6 @@
             "id": "214d496d625fc657723cf4da80cff8ce",
             "name": "Deccan Chronicle",
             "url": "https://www.deccanchronicle.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "bfbbcd64c21906f404500a996378add7",
-        "title": "Chinese AI chips fall short on coding, forcing firms to stretch scarce Nvidia supply",
-        "description": "Surging token usage as artificial intelligence moves into large-scale deployment spurs search for new approaches.",
-        "content": "Chinese AI companies are optimising software to cope with surging demand for inference, as part of that workload still relies on computing power from a limited pool of high-end chips amid restricted access to Nvidia processors.\nCompared with training... [1537 chars]",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3364700/chinese-ai-chips-fall-short-coding-forcing-firms-stretch-scarce-nvidia-supply",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/20/f1e58693-819b-4bd4-91b6-3cb70cf75049_615418b0.jpg?itok=lPzf7hog&v=1787218632",
-        "publishedAt": "2026-08-20T12:30:12Z",
-        "lang": "en",
-        "source": {
-            "id": "d6397b77175680e2678c0d60edcee7af",
-            "name": "South China Morning Post",
-            "url": "https://www.scmp.com",
-            "country": "hk"
-        }
-    },
-    {
-        "id": "cc5780efdddf0c36a422945787f3f2b4",
-        "title": "AI productivity gains may not curb inflation, IMF's Tenreyro warns",
-        "description": "Even if artificial intelligence boosts productivity, it may not lower inflation, the International Monetary Fund's new chief economist Silvana Tenreyro warned in research ​published by Bank of England staff on Thursday.",
-        "content": "At first glance, higher ‌economic productivity — producing more output for the same amount of inputs — looks as if it should lead to lower prices.\nSign up here.\nFederal Reserve Chair Kevin Warsh has said he hopes that the ​rollout of artificial intel... [1701 chars]",
-        "url": "https://www.reuters.com/business/ai-productivity-gains-may-not-curb-inflation-imfs-tenreyro-warns-2026-08-20/",
-        "image": "https://www.reuters.com/resizer/v2/6VU5636N2BPJFNGSPEI7FFSW64.jpg?auth=ebc451a8127caa4a687bdb1f79323908311b91a864b72cf451232d85d959791e&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-08-20T12:14:32Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "623b37feeda6d89a99c3ef7d1ab62b70",
-        "title": "Jim de Bree | AI Is Not the Ultimate Authority",
-        "description": "Like most people, I find that artificial intelligence is creeping into my life in many ways. Increasingly, people I deal with disagree with me because their favorite AI chatbot tells […]",
-        "content": "Like most people, I find that artificial intelligence is creeping into my life in many ways. Increasingly, people I deal with disagree with me because their favorite AI chatbot tells them I am mistaken. AI can easily demean your self-confidence if yo... [4479 chars]",
-        "url": "https://signalscv.com/2026/08/jim-de-bree-ai-is-not-the-ultimate-authority/",
-        "image": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2016/11/13133121/Jim_de_Bree_feature.jpg",
-        "publishedAt": "2026-08-20T11:46:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ab6b7d957a91e0dbf63976cb1b9c26f5",
-            "name": "Santa Clarita Valley Signal",
-            "url": "https://signalscv.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "481c7b35d51ee89d46f977f05481b937",
-        "title": "Contributing to PM Modi’s Vision for a Skilled India, PyNet Labs Launches Free Technology Training Initiative",
-        "description": "New Delhi, August 2026: Prime Minister Narendra Modi’s announcement to skill one crore young Indians in Artificial Intelligence within one year has placed a renewed focus on preparing India’s youth for an increasingly technology-driven economy. Supporting the broader vision of...",
-        "content": "New Delhi, August 2026: Prime Minister Narendra Modi’s announcement to skill one crore young Indians in Artificial Intelligence within one year has placed a renewed focus on preparing India’s youth for an increasingly technology-driven economy. Suppo... [8743 chars]",
-        "url": "https://www.tribuneindia.com/news/business/contributing-to-pm-modis-vision-for-a-skilled-india-pynet-labs-launches-free-technology-training-initiative/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc1ZjY4MjQwLTljOGMtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-20T11:38:50Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
             "country": "in"
         }
     }
