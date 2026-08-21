@@ -1,5 +1,53 @@
 [
     {
+        "id": "bb2861df05108db5bbdc53cde25e978a",
+        "title": "AI in corporate Australia is a mess. Your job is safe for a while yet",
+        "description": "Artificial intelligence is everywhere in firms – except the top line, bottom line, or lines between. That’s got ramifications for the money-go-round and jobs.",
+        "content": "It’s been a deeply weird few weeks in the high-stakes world of artificial intelligence.\nFirst, there was Nvidia’s bizarre announcement of a $US500 billion ($702 billion) “deal” with some of the world’s biggest banks and private capital groups to fund... [325 chars]",
+        "url": "https://www.afr.com/chanticleer/ai-in-corporate-australia-is-a-mess-your-job-is-safe-for-a-while-yet-20260821-p60qbm",
+        "image": "https://static.ffx.io/images/$zoom_0.3146%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_56/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/552b9819c8f5bb58fdc0bcb643d1b81361167755",
+        "publishedAt": "2026-08-21T01:20:04Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "e56112fdf04dcaf92e51e655318e8969",
+        "title": "Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws",
+        "description": "AI chatbots have become the bane of teachers everywhere. NORTH CHARLESTON, S.C. (AP) — Artificial intelligence chatbots have become the bane of",
+        "content": "AI chatbots have become the bane of teachers everywhere.\nNORTH CHARLESTON, S.C. (AP) — Artificial intelligence chatbots have become the bane of teachers everywhere, but to prepare for the new school year, a group of educators in Charleston, South Car... [7439 chars]",
+        "url": "https://www.breitbart.com/news/schools-are-starting-to-teach-ai-literacy-for-many-that-means-helping-kids-see-chatbots-flaws/",
+        "image": "https://media.breitbart.com/media/2026/08/wi/ap/education-ai-literacy-2475-education-ai-literacy-amanda-bickerstaff-ceo-of-ai-education-speaks-640x335.jpg",
+        "publishedAt": "2026-08-21T01:04:28Z",
+        "lang": "en",
+        "source": {
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "89a28b3bd7b8d79fcfeea23585fd247d",
+        "title": "AI pioneer Fei-Fei Li warns of risks from growing tech backlash",
+        "description": "Fei-Fei Li, an AI pioneer, says technologists like herself need to do a better job of communicating the benefits of artificial intelligence and warns that growing public opposition in the US could carry risks for the world.",
+        "content": "Fei-Fei Li, an AI pioneer, says technologists like herself need to do a better job of communicating the benefits of artificial intelligence and warns that growing public opposition in the US could carry risks for the world.\n\"The US is such an importa... [1655 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/21/ai-pioneer-fei-fei-li-warns-of-risks-from-growing-tech-backlash",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4069479.jpg",
+        "publishedAt": "2026-08-21T01:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "18be33cc695c539f39952d4d03963a7e",
         "title": "Tourist sign translations made more culturally fluent by AI system",
         "description": "A new artificial intelligence, or AI, translation model could improve the accuracy and cultural appropriateness of Chinese-English public signs at tourist attractions, according to research in the International Journal of Environmental Technology and Management. The approach treats translation as more than a word-for-word conversion and combines machine translation with principles from eco-translatology, in which language, culture and social context are considered.",
@@ -108,54 +156,6 @@
             "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
             "name": "Washington Examiner",
             "url": "https://www.washingtonexaminer.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "6004d613cbc65d9344022b5e80479cef",
-        "title": "Most popular AI tools in 2026: ChatGPT takes the top spot",
-        "description": "ChatGPT leads the global AI race with billions of monthly visits, while Gemini, Claude, Canva and DeepSeek feature prominently as specialised platforms reshape how people use artificial intelligence.",
-        "content": "ChatGPT keeps a massive lead\nOpenAI’s ChatGPT was the most visited AI tool in June, recording 5.3 billion web visits. That was higher than the combined traffic of the next 9 tools, underlining how far ahead the chatbot remains in online reach.\nMust R... [2048 chars]",
-        "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/most-popular-ai-tools-in-2026-chatgpt-takes-the-top-spot-550382-2026-08-21",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a86ddab8f21f-top-10-ai-tools-ranking-worldwide-205742144-16x9.png",
-        "publishedAt": "2026-08-20T22:35:02Z",
-        "lang": "en",
-        "source": {
-            "id": "76a2f820b104591b97fed1b0932cec38",
-            "name": "Business Today",
-            "url": "https://www.businesstoday.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "674561ccbb2de11886684d257bdd47d0",
-        "title": "Charleston County School District launches AI resource hub",
-        "description": "The Charleston County School District has created a Generative Artificial Intelligence (Gen-AI) Resource Hub on its website to give students, families and educators a centralized place to learn about the district’s approach to AI.",
-        "content": "CHARLESTON, S.C. (WCSC) — The Charleston County School District has created a Generative Artificial Intelligence (Gen-AI) Resource Hub on its website to give students, families and educators a centralized place to learn about the district’s approach ... [2437 chars]",
-        "url": "https://www.live5news.com/2026/08/20/charleston-county-school-district-launches-ai-resource-hub/",
-        "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/AUKWX2BQCBFTBDECEWQBSZKMVU.jpg?auth=fb29d0c10db3a039c84c971f75fabe02a8c1d4f973d713bf85b2e61c485370a8&width=1200&height=600&smart=true",
-        "publishedAt": "2026-08-20T21:20:00Z",
-        "lang": "en",
-        "source": {
-            "id": "e7b4d14003cc89c64a689f1c38723ef5",
-            "name": "Live 5 News WCSC",
-            "url": "https://www.live5news.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "cc958fd8783b63f707317e9ebcd53b8b",
-        "title": "Brazil launches AI supercomputer push, splits projects between Chinese, US firms",
-        "description": "Brazil's government announced on Thursday investments of about 2.3 billion reais ($444.2 million) to ‌bolster its artificial intelligence ecosystem, splitting projects between U.S. and Chinese companies in a move that underscores its effort to navigate relations with both powers.",
-        "content": "BRASILIA, Aug 20 (Reuters) - Brazil's government announced on Thursday investments of about 2.3 billion reais ($444.2 million) to ‌bolster its artificial intelligence ecosystem, splitting projects between U.S. and Chinese companies in a move that und... [2153 chars]",
-        "url": "https://www.reuters.com/world/americas/brazil-launches-ai-supercomputer-push-splits-projects-between-chinese-us-firms-2026-08-20/",
-        "image": "https://www.reuters.com/resizer/v2/XZAB6W45Y5OAZD56STZWTO6HUI.jpg?auth=91315eff901d7290002b50dc0ef579c18922b0b2386db4d359ef9bc617fdaea4&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-08-20T21:07:31Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
             "country": "us"
         }
     }
