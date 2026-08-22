@@ -1,5 +1,21 @@
 [
     {
+        "id": "e2cfe9989c8527686ef4cb064355416f",
+        "title": "Singapore allocates 200MW of new data centre capacity to four operators",
+        "description": "SINGAPORE: (Bernama) Singapore has provisionally allocated 200 megawatts (MW) of new data centre (DC) capacity to four operators, strengthening the country's position as a trusted global hub for artificial intelligence (AI) and data centre investments.",
+        "content": "SINGAPORE: (Bernama) Singapore has provisionally allocated 200 megawatts (MW) of new data centre (DC) capacity to four operators, strengthening the country’s position as a trusted global hub for artificial intelligence (AI) and data centre investment... [1286 chars]",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/22/singapore-allocates-200mw-of-new-data-centre-capacity-to-four-operators",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/22/4072573.jpg",
+        "publishedAt": "2026-08-22T01:47:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "6f2dfa1d7bfca623f2f0ed4e11589d36",
         "title": "“You Will Have No Freedom”: Open AI Sam Altman Describes the World He Is Building for You",
         "description": "What does the future hold for Artificial Intelligence (AI)? Discover Sam Altman's views on agency, privacy, and the surveillance state.",
@@ -140,22 +156,6 @@
             "id": "9f53afb019d44feb16bcc7da150e679a",
             "name": "Baltimore News",
             "url": "https://foxbaltimore.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "135e69e3c97ee3a81216acb8b970ff61",
-        "title": "12 Celebrities Who Support AI",
-        "description": "Major Hollywood players like James Cameron and Ben Affleck have put their chips in the ever-expanding world of artificial intelligence.",
-        "content": "The Oscar winner has made some major bank thanks to AI.\nIn July, federal filings revealed that Netflix paid $587 million for Affleck's upstart InterPositive, which he founded in 2022.\nThe company develops tools that allow filmmakers to use an AI mode... [8527 chars]",
-        "url": "https://www.businessinsider.com/pro-ai-celebrities-investors-companies",
-        "image": "https://i.insider.com/6a85e46c85cca0a87cd8aae8?width=1200&format=jpeg",
-        "publishedAt": "2026-08-21T20:30:19Z",
-        "lang": "en",
-        "source": {
-            "id": "458ddf355ab77631d3eb3dd84a0351b4",
-            "name": "Business Insider",
-            "url": "https://www.businessinsider.com",
             "country": "us"
         }
     }
