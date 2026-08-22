@@ -1,5 +1,37 @@
 [
     {
+        "id": "33c4782cacd801c83398a0929dcaceed",
+        "title": "Pope Leo XIV Calls For AI To Serve Humanity, Not Rival It",
+        "description": "Pope Leo XIV has expressed strong opinions about artificial intelligence, emphasizing that it should serve humanity rather than replace jobs. He advocates for human intelligence guided by wisdom and charity, asserting that AI must enhance human dignity. , Technology & Science, Times Now",
+        "content": "Pope Leo XIV has been very vocal when it comes to sharing his opinions on how AI should work for the masses and not against the masses. In the past, he gave a statement that AI should not be replacing jobs and the sentiment should not be supported. A... [1417 chars]",
+        "url": "https://www.timesnownews.com/technology-science/pope-leo-xiv-calls-for-ai-to-serve-humanity-not-rival-it-article-155952450",
+        "image": "https://images.timesnownews.com/thumb/msid-155952449,thumbsize-64762,width-1280,height-720,resizemode-75/155952449.jpg",
+        "publishedAt": "2026-08-22T05:40:48Z",
+        "lang": "en",
+        "source": {
+            "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+            "name": "Times Now",
+            "url": "https://www.timesnownews.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b5df059ae4212ee42999eec7ca4bb894",
+        "title": "Big Tech in “Frantic” Push to Contain AI Backlash, Report Says",
+        "description": "Big technology companies are deploying advocacy campaigns and policy arguments to counter a widening public and regulatory backlash against artificial intelligence, according to industry reporting and opinion surveys. The push comes as Americans express rising unease about the technology. Pew Research found that 52% of respondents are “more concerned than excited” about the increased use […]",
+        "content": "Big technology companies are deploying advocacy campaigns and policy arguments to counter a widening public and regulatory backlash against artificial intelligence, according to industry reporting and opinion surveys. The push comes as Americans expr... [5552 chars]",
+        "url": "https://www.naturalnews.com/2026-08-22-big-tech-push-to-contain-ai-backlash.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/ai-backlash-big-tech-lobbying-3522-original.jpg",
+        "publishedAt": "2026-08-22T05:29:52Z",
+        "lang": "en",
+        "source": {
+            "id": "188e9ebf53d05fc7ba360240a0b28154",
+            "name": "Natural News",
+            "url": "https://www.naturalnews.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "b2384fda051b79be5a70f5ddc05576da",
         "title": "Apple Cuts Over 200 Jobs As It Shifts Focus To AI And Future Devices",
         "description": "Apple is cutting more than 200 jobs across teams working on its Siri digital assistant, artificial intelligence (AI) software and Vision Pro headset, according to a Bloomberg report. The move comes as the company reshapes teams to focus more closely on AI and future devices.",
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "e2cfe9989c8527686ef4cb064355416f",
-        "title": "Singapore allocates 200MW of new data centre capacity to four operators",
-        "description": "SINGAPORE: (Bernama) Singapore has provisionally allocated 200 megawatts (MW) of new data centre (DC) capacity to four operators, strengthening the country's position as a trusted global hub for artificial intelligence (AI) and data centre investments.",
-        "content": "SINGAPORE: (Bernama) Singapore has provisionally allocated 200 megawatts (MW) of new data centre (DC) capacity to four operators, strengthening the country’s position as a trusted global hub for artificial intelligence (AI) and data centre investment... [1286 chars]",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/22/singapore-allocates-200mw-of-new-data-centre-capacity-to-four-operators",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/22/4072573.jpg",
-        "publishedAt": "2026-08-22T01:47:00Z",
-        "lang": "en",
-        "source": {
-            "id": "1e30d944d63d9090db5a2c2e28a8772f",
-            "name": "The Star",
-            "url": "https://www.thestar.com.my",
-            "country": "my"
-        }
-    },
-    {
-        "id": "6f2dfa1d7bfca623f2f0ed4e11589d36",
-        "title": "“You Will Have No Freedom”: Open AI Sam Altman Describes the World He Is Building for You",
-        "description": "What does the future hold for Artificial Intelligence (AI)? Discover Sam Altman's views on agency, privacy, and the surveillance state.",
-        "content": "Sam Altman, CEO of OpenAI (CHATGPT), stood in front of a packed Chase Center alongside Y Combinator CEO Garry Tan and described a future where ordinary people have no freedom, no agency and no privacy. In his version of what the world could look like... [13925 chars]",
-        "url": "https://www.activistpost.com/you-will-have-no-freedom-open-ai-sam-altman-describes-the-world-he-is-building-for-you/",
-        "image": "https://www.activistpost.com/wp-content/uploads/2026/08/aithreats.jpg",
-        "publishedAt": "2026-08-22T00:57:00Z",
-        "lang": "en",
-        "source": {
-            "id": "435d508bebcc8689d5c7711d44865b80",
-            "name": "Activist Post",
-            "url": "https://www.activistpost.com",
-            "country": "us"
         }
     }
 ]
