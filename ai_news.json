@@ -1,5 +1,37 @@
 [
     {
+        "id": "0f587b0af942537d63eb3a2d13936d19",
+        "title": "Chrome and Edge to embed AI in the browser",
+        "description": "Tech giants Google and Microsoft are preparing to embed on-device artificial intelligence directly into their Chrome and Edge web browsers, although the background feature will require users to hold at least 20GB of free storage space.",
+        "content": "Tech giants Google and Microsoft are preparing to embed on-device artificial intelligence directly into their Chrome and Edge web browsers, although the background feature will require users to hold at least 20GB of free storage space.\nGoogle confirm... [1659 chars]",
+        "url": "https://www.bangkokpost.com/life/tech/3306519/chrome-and-edge-to-embed-ai-in-the-browser",
+        "image": "https://static.bangkokpost.com/media/content/20260823/c2_3306519.jpg",
+        "publishedAt": "2026-08-23T03:05:00Z",
+        "lang": "en",
+        "source": {
+            "id": "91120a92e0d24e24fbffb6d0affabfe6",
+            "name": "Bangkok Post",
+            "url": "https://www.bangkokpost.com",
+            "country": "th"
+        }
+    },
+    {
+        "id": "424fee11b7249000e61b4623f65e0475",
+        "title": "‘Writing to dazzle can be a fatal mistake of the preoccupation with writerly craft’: Saikat Majumdar",
+        "description": "An interview with the author of ‘Open Intelligence: Education Between Art and Artificial’.",
+        "content": "Having read several of Saikat Majumdar’s novels and a couple of his non-fiction books, I consider him one of those rare contemporary writers who move seamlessly across fiction, nonfiction, and academia – embodying the spirit of a true literary polyma... [12460 chars]",
+        "url": "https://scroll.in/article/1093936/writing-to-dazzle-can-be-a-fatal-mistake-of-the-preoccupation-with-writerly-craft-saikat-majumdar",
+        "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/200884-msdicwnpmk-1716451802.jpeg",
+        "publishedAt": "2026-08-23T03:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "41ffcb0a7e770544afd8def89d1e0674",
+            "name": "Scroll.in",
+            "url": "https://scroll.in",
+            "country": "in"
+        }
+    },
+    {
         "id": "26ae0a22817c0328884cd3df22075cab",
         "title": "AI Compute Emerges as 'Second Commodity' Traded Like Crude Oil",
         "description": "Graphics processing units (GPUs) that power artificial intelligence (AI) computation are expected to evolve into commodities traded on benchmark and futures",
@@ -125,38 +157,6 @@
             "name": "International Business Times",
             "url": "https://www.ibtimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "12963630580b5e5330201bcabaed9bb1",
-        "title": "Dagupan police warn against AI-created content",
-        "description": "THE Dagupan City Police Office (DCPO) has issued a public advisory following the increasing number of artificial intelligence (AI)-generated images depicting police personnel and individuals wearing police uniforms that have been circulating on social media, particularly among accounts of city residents.",
-        "content": "THE Dagupan City Police Office (DCPO) has issued a public advisory following the increasing number of artificial intelligence (AI)-generated images depicting police personnel and individuals wearing police uniforms that have been circulating on socia... [1800 chars]",
-        "url": "https://www.manilatimes.net/2026/08/23/regions/dagupan-police-warn-against-ai-created-content/2410367",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/22/1186656.jpg",
-        "publishedAt": "2026-08-22T16:07:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "c0654b80ffa35778c2c9acd479550fb4",
-        "title": "'Trust key asset for modern corporate governance,' SEBI Chairman Tuhin Kanta Pandey",
-        "description": "Pandey detailed how modern corporate enterprises face a landscape dominated by cyber threats, artificial intelligence, climate risks, and shifting investor expectations.",
-        "content": "Addressing corporate leaders at the Institute of Directors Annual Directors' Conclave 2026, Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey emphasised that trust remains a company's most vital asset. Highlighting the rapid e... [2210 chars]",
-        "url": "https://www.businesstoday.in/india/story/trust-key-asset-for-modern-corporate-governance-sebi-chairman-tuhin-kanta-pandey-550778-2026-08-22",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a89c90668997-highlighting-the-rapid-expansion-of-indias-capital-markets--he-urged-boardrooms-to-shift-their-focu-220624479-16x9.jpg",
-        "publishedAt": "2026-08-22T16:06:55Z",
-        "lang": "en",
-        "source": {
-            "id": "76a2f820b104591b97fed1b0932cec38",
-            "name": "Business Today",
-            "url": "https://www.businesstoday.in",
-            "country": "in"
         }
     }
 ]
