@@ -1,5 +1,21 @@
 [
     {
+        "id": "f738c70a22bc955c69750a4519df2f35",
+        "title": "What are companies getting for all that AI spending?",
+        "description": "A new field of 'tokenomics' has emerged to measure the return on all the money companies are pouring into artificial intelligence.",
+        "content": "Corporate America was enthusiastic about artificial intelligence (AI). Until it got the bill.\nWhiplash around spending on “tokens”, the units of computing power in which AI is sold, is hitting engineering teams and boardrooms. First there was “tokenm... [8653 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/23/what-are-companies-getting-for-all-that-ai-spending",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4044309.jpg",
+        "publishedAt": "2026-08-23T01:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
         "id": "eeedec1f4f785b80b5ae7f6bb79ec6e7",
         "title": "India must become an AI creator, not just a user: Delhi CM Gupta",
         "description": "business reporter : india must transform itself into a creator of artificial intelligence rather than remain merely a consumer of it, delhi chief minister rekha gupta said on saturday.\nshe was speaking as chief guest at the 41st con",
@@ -141,22 +157,6 @@
             "name": "The Manila Times",
             "url": "https://www.manilatimes.net",
             "country": "ph"
-        }
-    },
-    {
-        "id": "1d91a80a657f3e5ad4ed5363275bf04c",
-        "title": "Trump and White House aide Natalie Harp get the LEGO treatment in ‘incredible’ AI video from parody account",
-        "description": "In the latest artificial intelligence-generated Lego parody, Harp follows Trump closely, carrying a printer to keep up a steady stream of positive news",
-        "content": "Amid widespread speculation about President Donald Trump’s close relationship with White House aide Natalie Harp, the pair are featured in a new AI-generated Lego-themed video poking fun at the 35-year-old staffer’s devotion.\nThe AI video, created in... [3024 chars]",
-        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-natalie-harp-ai-lego-video-b3037527.html",
-        "image": "https://static.independent.co.uk/2026/08/22/13/16/AI-LEGO-Donald-Trump-Natalie-Harp.png?trim=69,138,19,148&width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-08-22T15:53:25Z",
-        "lang": "en",
-        "source": {
-            "id": "97497c18f5cb431f5f324b3d8643c24f",
-            "name": "The Independent",
-            "url": "https://www.independent.co.uk",
-            "country": "gb"
         }
     }
 ]
