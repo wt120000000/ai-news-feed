@@ -1,5 +1,21 @@
 [
     {
+        "id": "f2b1330b0cb7b83c667173d4aeba5888",
+        "title": "As Hong Kong boosts governance efficiency with AI, balance is key",
+        "description": "The use of artificial intelligence to speed up environmental impact assessments is welcome, but care must be taken to ensure accuracy and reliability.",
+        "content": "Hong Kong has never had the luxury of abundant land for development. A small territory supporting a large and highly urbanised population must constantly make difficult choices about housing, transport and infrastructure. This is especially true when... [1715 chars]",
+        "url": "https://www.scmp.com/opinion/comment/article/3364817/hong-kong-boosts-governance-efficiency-ai-balance-key",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_editorial/public/d8/images/canvas/2026/08/21/f3afe7c1-dc23-43e7-98e6-d96e62871d50_c147fe10.jpg?itok=5KtAqffB&v=1787301106",
+        "publishedAt": "2026-08-22T23:15:07Z",
+        "lang": "en",
+        "source": {
+            "id": "d6397b77175680e2678c0d60edcee7af",
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com",
+            "country": "hk"
+        }
+    },
+    {
         "id": "9fc5acaa6eba8df9eac8d0641b7cdee8",
         "title": "TISS Awards Degrees To 1,377 Students At 86th Convocation, Highlights AI Ethics, Social Reform, & Vision 2047",
         "description": "Tata Institute of Social Sciences held its 86th Convocation on August 22, awarding degrees to 1,377 students across four campuses. Chancellor Prof. D. P. Singh highlighted ethical concerns around artificial intelligence, while Vice-Chancellor Prof. Badri Narayan Tiwari announced new initiatives including an AI and Society centre with IIT Bombay and policy research projects under TISS Bharat.",
@@ -141,22 +157,6 @@
             "name": "ANI (Asian News International)",
             "url": "https://www.aninews.in",
             "country": "in"
-        }
-    },
-    {
-        "id": "351376177480915419cfc5acccbac074",
-        "title": "Anthropic IPO could break SpaceX record",
-        "description": "SAN FRANCISCO - The market debut of the artificial intelligence companyAnthropic, a chief rival to OpenAI, could break the record set by SpaceX, US media have reported.",
-        "content": "SAN FRANCISCO - The market debut of the artificial intelligence companyAnthropic, a chief rival to OpenAI, could break the record set by SpaceX, US media have reported.\nElon Musk’s space company went public in June at a value of $1.77 trillion and ra... [1908 chars]",
-        "url": "https://www.bangkokpost.com/business/general/3306204/anthropic-ipo-could-break-spacex-record",
-        "image": "https://static.bangkokpost.com/media/content/20260822/c1_6198464_700.jpg",
-        "publishedAt": "2026-08-22T13:45:00Z",
-        "lang": "en",
-        "source": {
-            "id": "91120a92e0d24e24fbffb6d0affabfe6",
-            "name": "Bangkok Post",
-            "url": "https://www.bangkokpost.com",
-            "country": "th"
         }
     }
 ]
