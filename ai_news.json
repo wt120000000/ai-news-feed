@@ -1,5 +1,21 @@
 [
     {
+        "id": "63223a3aa5a1c0e4130c41abee0c38a0",
+        "title": "Anthropic eyes US$100b-plus IPO, potentially eclipsing SpaceX",
+        "description": "SAN FRANCISCO, Aug 24 — The market debut of artificial intelligence start-up Anthropic, a chief rival to OpenAI, could break the record set by SpaceX, US media have reported.Elon...",
+        "content": "SAN FRANCISCO, Aug 24 — The market debut of artificial intelligence start-up Anthropic, a chief rival to OpenAI, could break the record set by SpaceX, US media have reported.\nElon Musk’s space company went public in June at a value of US$1.77 trillio... [1952 chars]",
+        "url": "https://www.malaymail.com/news/money/2026/08/24/anthropic-eyes-us100b-plus-ipo-potentially-eclipsing-spacex/232387",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/23/358442.jpg",
+        "publishedAt": "2026-08-23T23:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "cc589abcee543815a82a8b2856ebe9ed",
+            "name": "Malay Mail",
+            "url": "https://www.malaymail.com",
+            "country": "my"
+        }
+    },
+    {
         "id": "877842b750cca9e3521394243f0d140b",
         "title": "Dr Dre admits he uses AI to produce music: 'I don't see it as a threat'",
         "description": "Dr Dre has revealed that he uses artificial intelligence as a creative tool in music production, arguing that those threatened by the technology may be reluctant to embrace new ways of creating.",
@@ -141,22 +157,6 @@
             "name": "PR Newswire UK",
             "url": "https://www.prnewswire.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "f23cf7f9fd596fcf78c3cd4ef7f6fe77",
-        "title": "Queensland sets up national cabinet showdown over AI data centre power",
-        "description": "Under Labor’s policy set to be legislated early next year, all next-generation data centres such as those that train and power artificial intelligence agents will be required to use renewable electricity.",
-        "content": "Queensland Premier David Crisafulli will firmly reject federal Labor’s push to force large data centres to use renewable electricity when he meets with Prime Minister Anthony Albanese at national cabinet this week, laying the groundwork for a stoush ... [284 chars]",
-        "url": "https://www.afr.com/politics/federal/queensland-sets-up-national-cabinet-showdown-over-ai-data-centre-power-20260823-p60qqg",
-        "image": "https://static.ffx.io/images/$zoom_0.9636%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_72%2C$y_44/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/4eafee06c7c7d5f9d456a93783d4a2cf203cac9d",
-        "publishedAt": "2026-08-23T19:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "Australian Financial Review",
-            "url": "https://www.afr.com",
-            "country": "au"
         }
     }
 ]
