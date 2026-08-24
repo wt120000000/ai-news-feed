@@ -1,5 +1,85 @@
 [
     {
+        "id": "4dc9150a825245cbb101037458cd6ff6",
+        "title": "Mystery AI model Ox Alpha draws developers with free access",
+        "description": "A new artificial intelligence model called Ox Alpha is gaining traction among developers after appearing online for free, even as the identity of its creator remains a mystery.",
+        "content": "A new artificial intelligence model (AI) called Ox Alpha is gaining traction among developers after appearing online for free, even as the identity of its creator remains a mystery.\nThe model appeared on AI marketplace OpenRouter under the label \"ste... [1107 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/24/mystery-ai-model-ox-alpha-draws-developers-with-free-access",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/24/4074799.jpg",
+        "publishedAt": "2026-08-24T04:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "fbe2d56117e951ae18fc5c967370f038",
+        "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
+        "description": "HONG KONG (AP) — Computer programmer Fei Zhaojun's boss asked him if artificial intelligence could soon replace humans in coding jobs. Two weeks later…",
+        "content": "HONG KONG (AP) — Computer programmer Fei Zhaojun’s boss asked him if artificial intelligence could soon replace humans in coding jobs. Two weeks later, he was laid off from his job in Beijing, together with about 160 of his colleagues.\nIt’s an increa... [7407 chars]",
+        "url": "https://wtop.com/education/2026/08/workers-in-china-worry-over-being-replaced-as-they-adapt-to-the-growing-impact-of-ai-on-jobs/",
+        "image": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+        "publishedAt": "2026-08-24T04:19:43Z",
+        "lang": "en",
+        "source": {
+            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+            "name": "WTOP",
+            "url": "https://wtop.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "573dad209ace7211dfe36dda82ac39c7",
+        "title": "Public trust in AI rises as media becomes more sceptical, CARMA finds",
+        "description": "Public trust in artificial intelligence is rising even as media coverage becomes more sceptical, according to new research from media intelligence firm CARMA.",
+        "content": "Public trust in artificial intelligence is rising even as media coverage becomes more sceptical, according to new research from media intelligence firm CARMA.\nIts latest study, \"Perceptions of AI: A power shift from productivity tool to strategic inf... [6040 chars]",
+        "url": "https://www.marketing-interactive.com/public-trust-in-ai-rises-as-media-becomes-more-sceptical-carma-finds",
+        "image": "https://marketing-interactive-assets.b-cdn.net/article_images/public-trust-in-ai-rises-as-media-becomes-more-sceptical-carma-finds/1787565945_achint%20setia%20%283%29.jpg",
+        "publishedAt": "2026-08-24T03:55:24Z",
+        "lang": "en",
+        "source": {
+            "id": "d894d2a2b7c9ae7ff7505a197738f18c",
+            "name": "Marketing Interactive",
+            "url": "https://www.marketing-interactive.com",
+            "country": "sg"
+        }
+    },
+    {
+        "id": "a9d2e1da818f8d87c51389d88a7f45a8",
+        "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
+        "description": "Artificial intelligence is beginning to reshape China's job market, supported by state policies that some economists believe might undermine the overall strength of its economy",
+        "content": "HONG KONG (AP) — Computer programmer Fei Zhaojun's boss asked him if artificial intelligence could soon replace humans in coding jobs. Two weeks later, he was laid off from his job in Beijing, together with about 160 of his colleagues.\nIt's an increa... [7274 chars]",
+        "url": "https://www.barchart.com/story/news/3995771/workers-in-china-worry-over-being-replaced-as-they-adapt-to-the-growing-impact-of-ai-on-jobs",
+        "image": "https://barchart-news-media-prod.aws.barchart.com/ap/ded907f7646e4a7aabaee7580093911e/ded907f7646e4a7aabaee7580093911e_main_china_ai_job_fears_1_731.jpg",
+        "publishedAt": "2026-08-24T03:42:25Z",
+        "lang": "en",
+        "source": {
+            "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+            "name": "Barchart",
+            "url": "https://www.barchart.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e2e85a43aed6dbaaccf1024dc7abe829",
+        "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
+        "description": "Artificial intelligence is beginning to reshape China's job market, supported by state policies that some economists believe might undermine the overall strength of its economy. That's forcing many...",
+        "content": "HONG KONG (AP) — Computer programmer Fei Zhaojun's boss asked him if artificial intelligence could soon replace humans in coding jobs. Two weeks later, he was laid off from his job in Beijing, together with about 160 of his colleagues.\nIt's an increa... [7704 chars]",
+        "url": "https://www.sfgate.com/news/world/article/workers-in-china-worry-over-being-replaced-as-22400517.php",
+        "image": "https://s.hdnux.com/photos/01/67/11/75/31235923/3/rawImage.jpg",
+        "publishedAt": "2026-08-24T03:42:25Z",
+        "lang": "en",
+        "source": {
+            "id": "384b3c633f1aa3e0a1bcb208f94d519d",
+            "name": "SFGATE",
+            "url": "https://www.sfgate.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "417dc31fae86b90933f2b5ba7ccdbd82",
         "title": "SoftBank plans $6.29 billion corporate bond issuance amid AI fundraising boom",
         "description": "SoftBank is gearing up for a historic bond issuance aimed at securing funding for its robust investments in artificial intelligence. This ambitious seven-year corporate bond aims to raise a staggering one trillion yen from individual investors. With a provisional coupon rate established, this marks SoftBank's largest issuance to date, as companies throughout Asia also ramp up spending to enhance their AI infrastructure. Final terms are anticipated soon.",
@@ -13,6 +93,22 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
+        }
+    },
+    {
+        "id": "f5074d4e01744315665e55dda8985c2e",
+        "title": "Trump says the US leads the AI race with China 'by a lot'",
+        "description": "President Donald Trump also said that artificial intelligence companies are building their own power plants to supply electricity to data centers.",
+        "content": "President Donald Trump said on Sunday the United States holds a significant lead over the Chinese Communist Party in the artificial intelligence race while touting his administration’s ratepayer-protection pledge.\n“This is a renaissance,” Trump said ... [879 chars]",
+        "url": "https://www.washingtonexaminer.com/policy/technology/4697828/trump-us-leads-ai-race-china-by-a-lot/",
+        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/image-collage-0ryocduxt-1787538247466-e1787538347839.jpg?1787523934&resize=1200,683",
+        "publishedAt": "2026-08-24T03:14:12Z",
+        "lang": "en",
+        "source": {
+            "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+            "name": "Washington Examiner",
+            "url": "https://www.washingtonexaminer.com",
+            "country": "us"
         }
     },
     {
@@ -60,102 +156,6 @@
             "id": "6a3aad3dbb44ac873f72b594aaea22c4",
             "name": "The Indian Express",
             "url": "https://indianexpress.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "14ffffc540745beace24df1480626f9f",
-        "title": "Private Equity Begins Placing AI Experts in Portfolio Companies",
-        "description": "Private equity firms have reportedly begun placing artificial intelligence experts within their portfolio companies to grow those businesses.",
-        "content": "That’s according to a report Friday (Aug. 21) from The Wall Street Journal (WSJ), which cites the example of Wall Street firms like Blackstone and Hellman & Friedman’s $1.5 billion partnership with Anthropic to form an approximately 160-person team o... [2420 chars]",
-        "url": "https://www.europesays.com/3211882/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/Blackstone-private-equity-AI-1.jpg",
-        "publishedAt": "2026-08-24T00:36:15Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "63223a3aa5a1c0e4130c41abee0c38a0",
-        "title": "Anthropic eyes US$100b-plus IPO, potentially eclipsing SpaceX",
-        "description": "SAN FRANCISCO, Aug 24 — The market debut of artificial intelligence start-up Anthropic, a chief rival to OpenAI, could break the record set by SpaceX, US media have reported.Elon...",
-        "content": "SAN FRANCISCO, Aug 24 — The market debut of artificial intelligence start-up Anthropic, a chief rival to OpenAI, could break the record set by SpaceX, US media have reported.\nElon Musk’s space company went public in June at a value of US$1.77 trillio... [1952 chars]",
-        "url": "https://www.malaymail.com/news/money/2026/08/24/anthropic-eyes-us100b-plus-ipo-potentially-eclipsing-spacex/232387",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/23/358442.jpg",
-        "publishedAt": "2026-08-23T23:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "cc589abcee543815a82a8b2856ebe9ed",
-            "name": "Malay Mail",
-            "url": "https://www.malaymail.com",
-            "country": "my"
-        }
-    },
-    {
-        "id": "877842b750cca9e3521394243f0d140b",
-        "title": "Dr Dre admits he uses AI to produce music: 'I don't see it as a threat'",
-        "description": "Dr Dre has revealed that he uses artificial intelligence as a creative tool in music production, arguing that those threatened by the technology may be reluctant to embrace new ways of creating.",
-        "content": "Dr Dre said he uses artificial intelligence in his music production and views the technology as a creative tool rather than a threat to artists.\nDr Dre admits using AI in music production\nSpeaking to The New York Times, the rapper and producer said h... [2332 chars]",
-        "url": "https://www.livemint.com/entertainment/dr-dre-admits-he-uses-ai-to-produce-music-i-dont-see-it-as-a-threat-11787519115565.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/dr_dre_1787520088692_1787520098773_53a703f1-e83d-4417-b0e7-7014c1a71b23.jpg",
-        "publishedAt": "2026-08-23T21:38:16Z",
-        "lang": "en",
-        "source": {
-            "id": "3bd4bd306c42647825fa42989624c036",
-            "name": "Livemint",
-            "url": "https://www.livemint.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d1a8c4507aa5478edf20d306ca29f8d0",
-        "title": "Artificial Intelligence and Public Debt: Why Growth Is Not Enough",
-        "description": "The U.S. federal debt is approaching $40 trillion, while annual deficits add about two trillion dollars a year. The interest paid by the government to service",
-        "content": "AI may boost growth but not fix U.S. debt\nCapital, not labor, captures most AI-driven income gains\nPolitical spending risks outpacing any real AI dividend\nThe U.S. federal debt is approaching $40 trillion, while annual deficits add about two trillion... [9691 chars]",
-        "url": "https://www.europesays.com/3211629/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/Artificial20Intelligence20and20Public20Debt_20260819_ECON.jpg",
-        "publishedAt": "2026-08-23T21:33:29Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "e5d401dafac979d3bb538be37727cc8b",
-        "title": "Will artificial intelligence speed the demise of human race?",
-        "description": "Yes, AI can make much work much more efficient, but unless we use it wisely, its potential for speeding up job loss and economic disruption should cause us all concern.",
-        "content": "In 2014, Stephen Hawking warned, \"The development of full artificial intelligence could spell the end of the human race.\"\nI build automated systems, and artificial intelligence is a great and awesome tool. I am able to efficiently complete boring rep... [3946 chars]",
-        "url": "https://www.postandcourier.com/opinion/commentary/artificial-initelligence-demise-human-race/article_d13f72e3-c078-464c-a106-2f7fab69aa06.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/c/ab/cab3f160-b7bd-41d1-9415-2ba4907e6a25/6a7f36488176d.image.jpg?crop=388%2C388%2C44%2C7&resize=200%2C200&order=crop%2Cresize",
-        "publishedAt": "2026-08-23T21:15:00Z",
-        "lang": "en",
-        "source": {
-            "id": "c1903669db0b115cc673ce9c333a70dd",
-            "name": "Charleston Post and Courier",
-            "url": "https://www.postandcourier.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0a6eb6bca2d9b03b250de016f9237b13",
-        "title": "How companies evaluate and judge AI will decide winners: BCG CEO Christoph Schweizer",
-        "description": "India is well-positioned to productively adopt artificial intelligence technology. CEOs must combine technical understanding with human leadership skills. Entry-level hiring in the tech sector remains steady despite automation concerns. Parts of the IT services value chain will be automated by AI. Indian companies can develop new capabilities and offerings in demand.",
-        "content": "Synopsis\nIndia is well-positioned to productively adopt artificial intelligence technology. CEOs must combine technical understanding with human leadership skills. Entry-level hiring in the tech sector remains steady despite automation concerns. Part... [3698 chars]",
-        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/how-companies-evaluate-and-judge-ai-will-decide-winners-bcg-ceo-christoph-schweizer/articleshow/133446350.cms",
-        "image": "https://img.etimg.com/thumb/msid-133446349,width-1200,height-630,imgsize-89534,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-23T19:49:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     }
