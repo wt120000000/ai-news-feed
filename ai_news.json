@@ -1,5 +1,21 @@
 [
     {
+        "id": "04f79f92b8192c209778340888c20d29",
+        "title": "Fast-evolving online scams fleece millions from Aussies",
+        "description": "Total losses from online scams seem to be falling, but with artificial intelligence and digital connectedness on the...",
+        "content": "There is an increasing prevalence of investment and crypto scams targeting Australians. Photo: Susie Dodds/AAP PHOTOS\nAussies have lost hundreds of millions of dollars to scammers in 2026, with swindle tactics becoming trickier despite a drop in repo... [5356 chars]",
+        "url": "https://www.canberratimes.com.au/story/9335746/fast-evolving-online-scams-fleece-millions-from-aussies/",
+        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/dc2e667b-72c9-4830-b3be-a9e3e7383fb2.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+        "publishedAt": "2026-08-23T17:30:05Z",
+        "lang": "en",
+        "source": {
+            "id": "92021aca7322dc2b29226023c35d9a4a",
+            "name": "The Canberra Times",
+            "url": "https://www.canberratimes.com.au",
+            "country": "au"
+        }
+    },
+    {
         "id": "068f6b292396c20c590ca104d401dbf7",
         "title": "Robinsons Land sees AI reshaping office demand",
         "description": "ROBINSONS Land Corp. (RLC) expects artificial intelligence (AI) to reshape demand for office space, rather than significantly weaken the market, as business process outsourcing (BPO) companies shift toward higher-value functions.",
@@ -140,22 +156,6 @@
             "id": "c5725557f39c24c8b029ee39900a8406",
             "name": "The Tribune",
             "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "efd3f607c49794673a735b0edfa6f658",
-        "title": "NSDC, Cultus Education partner with AWS to train 1.6 lakh youth in cloud and AI skills",
-        "description": "The National Skill Development Corporation (NSDC) and Cultus Education have launched a nationwide cloud and artificial intelligence skilling initiative with support from Amazon Web Services (AWS).",
-        "content": "New Delhi [India], August 23 (ANI): The National Skill Development Corporation (NSDC) and Cultus Education have launched a nationwide cloud and artificial intelligence skilling initiative with support from Amazon Web Services (AWS).\nAccording to the ... [1558 chars]",
-        "url": "https://www.aninews.in/news/business/nsdc-cultus-education-partner-with-aws-to-train-16-lakh-youth-in-cloud-and-ai-skills20260823182545/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260823125518-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-08-23T12:55:45Z",
-        "lang": "en",
-        "source": {
-            "id": "f282f77e41f55d72f00fefcaccc92954",
-            "name": "ANI (Asian News International)",
-            "url": "https://www.aninews.in",
             "country": "in"
         }
     }
