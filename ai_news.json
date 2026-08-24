@@ -1,5 +1,69 @@
 [
     {
+        "id": "28acb76a085638fd956ac075628f404f",
+        "title": "Private Equity’s Public Accounting Push Reflects a Tech Shock",
+        "description": "Grant Thornton’s $5 billion acquisition of CBIZ shows how developments in artificial intelligence have increased the need for capital in public accounting, says Andrew Belnap of the University of Texas at Austin.",
+        "content": "Private equity’s arrival in public accounting is sometimes framed as a clash between Wall Street ruthlessness and a profession built on independence and trust. Grant Thornton’s $5 billion agreement to acquire CBIZ Inc. seems to fit that story.\nCBIZ h... [5511 chars]",
+        "url": "https://news.bloombergtax.com/daily-tax-report/private-equitys-public-accounting-push-reflects-a-tech-shock",
+        "image": "https://bwrite-static.bloombergindustry.com/dims4/default/c942b48/2147483647/legacy_thumbnail/960x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F76%2F5a%2F7ef2703643969360d56450a5e662%2Fbli-private-equity-investment.png",
+        "publishedAt": "2026-08-24T08:30:06Z",
+        "lang": "en",
+        "source": {
+            "id": "2b5db686603d0197d748f18d2dc01aec",
+            "name": "Bloomberg Tax News",
+            "url": "https://news.bloombergtax.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "d53c770e24ff634db4566446ef0064f8",
+        "title": "Picture-perfect AI resumes push firms back to tests, referrals",
+        "description": "Artificial intelligence tools have made it easy to submit a flawless job application, so employers are bringing back traditional techniques to sift through candidates.",
+        "content": "Recruiters are facing a problem they may have once wished for: Every resume is perfect. Artificial intelligence (AI) tools have made it easy to submit a flawless job application, so employers are bringing back traditional techniques to sift through c... [3112 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/24/picture-perfect-ai-resumes-push-firms-back-to-tests-referrals",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/24/4074993.jpg",
+        "publishedAt": "2026-08-24T08:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "8f58c022dcbb2acc0806702053415560",
+        "title": "Korea sets national principles for AI ethics",
+        "description": "Those developing and using artificial intelligence (AI) should keep human dignity and the common good of society as core values while also focusing...",
+        "content": "Those developing and using artificial intelligence (AI) should keep human dignity and the common good of society as core values while also focusing on fairness, accountability, safety and transparency in practical use, according to the government's A... [4475 chars]",
+        "url": "https://www.koreatimes.co.kr/business/tech-science/20260824/korea-sets-national-principles-for-ai-ethics",
+        "image": "https://newsimg.koreatimes.co.kr/2026/08/24/a6638a05-00f5-47f1-859e-41b43b501085.jpg",
+        "publishedAt": "2026-08-24T07:39:02Z",
+        "lang": "en",
+        "source": {
+            "id": "9f2e79f0f9194d0d88f0074def064e60",
+            "name": "The Korea Times",
+            "url": "https://www.koreatimes.co.kr",
+            "country": "kr"
+        }
+    },
+    {
+        "id": "fea150fcc7398a35a0a0b69cec92e9d5",
+        "title": "Korea's AI ethics principles lack binding force, specificity",
+        "description": "The government's new artificial intelligence (AI) ethics principles provide a broad framework for responsible AI use but lack legal force and speci...",
+        "content": "The government's new artificial intelligence (AI) ethics principles provide a broad framework for responsible AI use but lack legal force and specific implementation standards, experts noted, raising questions about their practical impact.\nThe govern... [4428 chars]",
+        "url": "https://www.koreatimes.co.kr/business/tech-science/20260824/koreas-ai-ethics-principles-lack-binding-force-specificity",
+        "image": "https://newsimg.koreatimes.co.kr/2026/08/24/a6638a05-00f5-47f1-859e-41b43b501085.jpg",
+        "publishedAt": "2026-08-24T07:39:02Z",
+        "lang": "en",
+        "source": {
+            "id": "9f2e79f0f9194d0d88f0074def064e60",
+            "name": "The Korea Times",
+            "url": "https://www.koreatimes.co.kr",
+            "country": "kr"
+        }
+    },
+    {
         "id": "f271d5641bce2db8034d5d5e4f84e5a3",
         "title": "Beyond the Magnificent Seven: The Next Wave of AI Investment",
         "description": "The first phase of the artificial intelligence (AI) investment story belonged to a handful of remarkable companies. Apple, Microsoft, Alphabet, Amazon, Nvidia, Meta and Tesla, the so-called Magnificent Seven, sit at the centre of the most important technology shift in a generation, and the market has rewarded them for it. They now account for roughly a third of the S&P 500, and in 2025 they produced about 42% of the index's total return1. Buy a plain US index fund today and nearly 40 cents of every dollar goes into just 10 companies.",
@@ -93,70 +157,6 @@
             "name": "The Korea Times",
             "url": "https://www.koreatimes.co.kr",
             "country": "kr"
-        }
-    },
-    {
-        "id": "106df8504060818bd60597849739c222",
-        "title": "Taiwan indicts nine over alleged illegal export of AI servers to China",
-        "description": "Taiwan prosecutors said on Monday they indicted nine people, including employees of ​Nvidia and Super Micro , accused of illegal ‌export of artificial intelligence servers to China.",
-        "content": "Semiconductor powerhouse Taiwan is the world's largest producer of advanced chips used ​in AI applications. Prosecutors this year investigated ​the suspected illegal export of servers equipped with ⁠Nvidia chips subject to U.S. export controls.\nSign ... [1034 chars]",
-        "url": "https://www.reuters.com/world/asia-pacific/taiwan-indicts-9-over-alleged-illegal-export-ai-servers-china-2026-08-24/",
-        "image": "https://www.reuters.com/resizer/v2/XBHNYLDAANJJPH5HAPRF2VKA7U.jpg?auth=dc8d620f0e6464478015cfbf97b1bdb773dc2667696648c087b92811153b1631&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-08-24T06:25:06Z",
-        "lang": "en",
-        "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "314cdf1c6445343777b10b9a804ef7c0",
-        "title": "Northern Ireland artist and business backlash against AI slop",
-        "description": "As artificial intelligence becomes part of our everyday lives, there are some railing against cheaply produced material they say is empty and puts real artists' jobs at risk.",
-        "content": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'\nWhen they first started appearing, it was hard to tell where they were coming from, these posters, flyers and food menus that all looked like they had rolled off the same i... [5895 chars]",
-        "url": "https://www.bbc.com/news/articles/cq89jpjeq7ko",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4072/live/6ff801d0-9ca4-11f1-a5a0-114ca9d4a1bc.jpg",
-        "publishedAt": "2026-08-24T05:20:47Z",
-        "lang": "en",
-        "source": {
-            "id": "109f2b4a20da4fe1c2fd502b03c07243",
-            "name": "BBC News",
-            "url": "https://www.bbc.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "944e6e44bf4663b3cd5853c4a587b57f",
-        "title": "Alibaba stock slumps in Hong Kong after $13 billion share placement to fund AI",
-        "description": "Investors are worried about payback from Alibaba's massive artificial intelligence spending. Read more at straitstimes.com.",
-        "content": "SHANGHAI – The Hong Kong-listed shares of Alibaba slumped on Aug 24 after the Chinese e-commerce and cloud computing company launched a US$10.2 billion (S$ 13 billion) share placement, as investors worried about payback from its massive artificial in... [1765 chars]",
-        "url": "https://www.straitstimes.com/business/companies-markets/alibaba-stock-slumps-in-hong-kong-after-13-billion-share-placement-to-fund-ai",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8a7d68c3bd56753c504b83cb645ac9d4abe33e91f9060c5ce6fc73bb72770e43",
-        "publishedAt": "2026-08-24T05:01:00Z",
-        "lang": "en",
-        "source": {
-            "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-            "name": "The Straits Times",
-            "url": "https://www.straitstimes.com",
-            "country": "sg"
-        }
-    },
-    {
-        "id": "b8ab20eff8054960b56282a762c786b0",
-        "title": "Esports diplomacy: Macron and Saudi Crown Prince attend Paris tournament",
-        "description": "Governments increasingly bank on video game tournaments with deep ties to artificial intelligence",
-        "content": "The biggest international esports competition has ended in Paris in the presence of Saudi Crown Prince Mohammed bin Salman and French President Emmanuel Macron.\nThe visit by the two leaders highlights the importance given by states to securing a foot... [2676 chars]",
-        "url": "https://www.thenationalnews.com/news/europe/2026/08/24/esports-diplomacy-macron-and-saudi-crown-prince-attend-paris-tournament/",
-        "image": "https://www.thenationalnews.com/resizer/v2/FBBKIG6SZ36BV7C7JSMWUBMEUQ.jpg?smart=true&auth=ab262666be81a92186259acf076919418fb83051a42a971c6b81da2341b29121&width=1200&height=630",
-        "publishedAt": "2026-08-24T05:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "075fbabce69f64ecf3c8f28c83fdd6e0",
-            "name": "The National",
-            "url": "https://www.thenationalnews.com",
-            "country": "ae"
         }
     }
 ]
