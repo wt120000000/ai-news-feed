@@ -1,5 +1,53 @@
 [
     {
+        "id": "eba072c7f0fd0e71fd49aea280b314d9",
+        "title": "Carnegie Mellon to lead national study on AI, arts education",
+        "description": "Carnegie Mellon University’s College of Fine Arts will lead a two-year study on how artificial intelligence can be integrated in arts education. “Our goal is to help folks in higher education and schools talk about how we should work creatively, skillfully and ethically with AI,” said Daragh Byrne, who teaches",
+        "content": "Carnegie Mellon University’s College of Fine Arts will lead a two-year study on how artificial intelligence can be integrated in arts education.\n“Our goal is to help folks in higher education and schools talk about how we should work creatively, skil... [2058 chars]",
+        "url": "https://triblive.com/news/education-classroom/carnegie-mellon-to-lead-national-study-on-ai-arts-education/",
+        "image": "https://assets-varnish.triblive.com/2026/08/9877266_web1_ptr-CMUArtStudy1.jpg",
+        "publishedAt": "2026-08-24T18:14:11Z",
+        "lang": "en",
+        "source": {
+            "id": "b1fa63410571207862faad9daf9b4527",
+            "name": "Pittsburgh Tribune-Review",
+            "url": "https://triblive.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "00177a19801815b2e4f7382958dae9ad",
+        "title": "This US company is repurposing old EV batteries in Nevada to power AI data centres. This could solve one of AI’s biggest problems",
+        "description": "A new trend is emerging as retired electric vehicle batteries are repurposed to fuel artificial intelligence data centres. Retaining considerable capacity, these batteries offer a budget-friendly energy storage alternative. In Nevada, a pioneering initiative combines solar energy with numerous second-life battery systems, illustrating their effectiveness for intensive computing needs. As these projects grow, they will provide further insights into the durability of these energy solutions for major AI infrastructures.",
+        "content": "Synopsis\nA new trend is emerging as retired electric vehicle batteries are repurposed to fuel artificial intelligence data centres. Retaining considerable capacity, these batteries offer a budget-friendly energy storage alternative. In Nevada, a pion... [4484 chars]",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/this-us-company-is-repurposing-old-ev-batteries-in-nevada-to-power-ai-data-centres-this-could-solve-one-of-ais-biggest-problems/articleshow/133475316.cms",
+        "image": "https://img.etimg.com/thumb/msid-133475779,width-1200,height-630,imgsize-249244,overlay-etpanache/articleshow.jpg",
+        "publishedAt": "2026-08-24T18:08:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "b4febbc0e66d1939c030a81f96f20928",
+        "title": "Amit Shah calls for AI-driven analysis of intelligence data to counter national-security challenges",
+        "description": "Directing security agencies to strictly deal with infiltration, Union Home Minister Amit Shah on Monday called for an artificial intelligence-driven analysis of intelligence data to counter various national-security challenges.",
+        "content": "New Delhi, Aug 24: Directing security agencies to strictly deal with infiltration, Union Home Minister Amit Shah on Monday called for an artificial intelligence-driven analysis of intelligence data to counter various national-security challenges.\nIna... [2635 chars]",
+        "url": "https://www.greaterkashmir.com/national/amit-shah-calls-for-ai-driven-analysis-of-intelligence-data-to-counter-national-security-challenges-12429228",
+        "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/08/24/amit-shah-2-2026-08-24-23-31-34.jpg",
+        "publishedAt": "2026-08-24T18:02:38Z",
+        "lang": "en",
+        "source": {
+            "id": "45feb5d82cbb4a21911b36edd4bb175a",
+            "name": "Greater Kashmir",
+            "url": "https://www.greaterkashmir.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "545e64b44ff3b1566fdeb13b7a63d4d6",
         "title": "Power hungry: data centre energy use set to skyrocket",
         "description": "Artificial intelligence is set to make a major impact on Australia's electricity network, with a report warning about...",
@@ -109,54 +157,6 @@
             "name": "Los Angeles Times",
             "url": "https://www.latimes.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "7c27327b04fde4798d1f985e277fec7c",
-        "title": "SM City Baguio shares love of learning through AI, connecting generations in the digital age",
-        "description": "RECOGNIZING the growing role of artificial intelligence (AI) in everyday life and the importance of making digital learning accessible to all generations, SM Supermalls, through SM City Baguio, partnered with the Department of Information and Communications Technology – Cordillera Administrative Region (DICT-CAR) to conduct a learning session on Artificial Intelligence for senior citizens and children at SM City Baguio.",
-        "content": "RECOGNIZING the growing role of artificial intelligence (AI) in everyday life and the importance of making digital learning accessible to all generations, SM Supermalls, through SM City Baguio, partnered with the Department of Information and Communi... [5502 chars]",
-        "url": "https://www.manilatimes.net/2026/08/24/supplements/sm-city-baguio-shares-love-of-learning-through-ai-connecting-generations-in-the-digital-age/2411101",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1188271.jpg",
-        "publishedAt": "2026-08-24T14:05:00Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "94643ae2a15dc0f59d6e100e56661bfd",
-        "title": "Australian PM Wants To Ban Data Centres Near Schools",
-        "description": "Albanese's government has pledged to rush through a national artificial intelligence law, likening its response to the data centre boom to Australia's world-first teen social media ban",
-        "content": "Sydney: Australia's Prime Minister Anthony Albanese will seek to ban large data centres being built near schools, homes and farms when he meets with state leaders this week, according to plans seen by AFP on Monday.\nAlbanese's government has pledged ... [1800 chars]",
-        "url": "https://www.deccanchronicle.com/world/australia-and-new-zealand/australian-pm-wants-to-ban-data-centres-near-schools-1981849",
-        "image": "https://www.deccanchronicle.com/h-upload/2026/08/24/2080532-australian-pm-anthony-albanese.jpg",
-        "publishedAt": "2026-08-24T12:52:26Z",
-        "lang": "en",
-        "source": {
-            "id": "214d496d625fc657723cf4da80cff8ce",
-            "name": "Deccan Chronicle",
-            "url": "https://www.deccanchronicle.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "f71e6624568d0795cbd0b14386ff963f",
-        "title": "An AI job boom? Here's what the tedious, temporary work in data labeling is actually like",
-        "description": "Amid all the talk about artificial intelligence (AI) both creating and destroying jobs, a troubling reality flies under the radar.",
-        "content": "Amid all the talk about artificial intelligence (AI) both creating and destroying jobs, a troubling reality flies under the radar.\nThe tasks machines can't perform well are often offloaded onto marginalized global workers who are struggling in precar... [5531 chars]",
-        "url": "https://phys.org/news/2026-08-ai-job-boom-tedious-temporary.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-job.jpg",
-        "publishedAt": "2026-08-24T12:40:01Z",
-        "lang": "en",
-        "source": {
-            "id": "263578fdccd92a76494cd34055806fcc",
-            "name": "Phys.org",
-            "url": "https://phys.org",
-            "country": "gb"
         }
     }
 ]
