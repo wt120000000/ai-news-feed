@@ -1,5 +1,37 @@
 [
     {
+        "id": "83bd3a71f807ff5f5fc6c382c24da35e",
+        "title": "Fully AI-generated music to be banned from ARIA charts",
+        "description": "Songs created mostly or entirely by artificial intelligence will be excluded from Australia's official music charts from this Friday.",
+        "content": "Songs created mostly or entirely by artificial intelligence will be excluded from Australia's official music charts from this Friday, under new rules set down by the recording industry.\nHowever, AI-assisted recordings can still chart if they are subs... [2633 chars]",
+        "url": "https://www.abc.net.au/news/2026-08-25/ai-generated-music-to-be-banned-from-aria-charts/107072642",
+        "image": "https://live-production.wcms.abc-cdn.net.au/4305c5850797519cf17b18a4de0148ab?impolicy=wcms_watermark_news&cropH=640&cropW=1138&xPos=33&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-08-24T19:07:55Z",
+        "lang": "en",
+        "source": {
+            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+            "name": "ABC (Australian Broadcasting Corporation)",
+            "url": "https://www.abc.net.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "64d64459cbaff008cec34f923c58ea7e",
+        "title": "How homebuyers are using AI-powered realtors to save tens of thousands in fees",
+        "description": "Homebuyers are pocketing thousands by using artificial intelligence to cut out some of the costly legwork traditionally performed by realtors.",
+        "content": "Homebuyers are saving thousands of dollars by using artificial intelligence to cut out some of the costly legwork traditionally performed by real estate agents — while still keeping a human broker on call to negotiate and close the deal.\nThe new mode... [9810 chars]",
+        "url": "https://nypost.com/2026/08/24/business/how-homebuyers-are-using-ai-powered-realtors-to-save-tens-of-thousands-in-fees/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/i-saved-20k-using-ai-136757115.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-08-24T19:04:16Z",
+        "lang": "en",
+        "source": {
+            "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+            "name": "New York Post",
+            "url": "https://nypost.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "eba072c7f0fd0e71fd49aea280b314d9",
         "title": "Carnegie Mellon to lead national study on AI, arts education",
         "description": "Carnegie Mellon University’s College of Fine Arts will lead a two-year study on how artificial intelligence can be integrated in arts education. “Our goal is to help folks in higher education and schools talk about how we should work creatively, skillfully and ethically with AI,” said Daragh Byrne, who teaches",
@@ -124,38 +156,6 @@
             "id": "63fec970d50112ee9b8bc1418d9c5872",
             "name": "Scientific Computing World",
             "url": "https://www.scientific-computing.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "40809a9d12ffd3dc74e1fb4abea80f65",
-        "title": "Hohhot, Inner Mongolia: Converting Prairie Winds into Computing Power",
-        "description": "HOHHOT, CHINA - Media OutReach Newswire - 24 August 2026 - On August 22, 2026, the fourth annual Green Computing Power (Artificial Intelligence) Conference was held on the picturesque Cilechuan Grassland in Hohhot, Inner Mongolia. Centered on the theme 'Building Synergy between Computing and Electricity, Exploring New Horizons in Token Economy, and Creating the Future of Artificial Intelligence Together,' the conference presented the latest research achievements, including the Green Computing Power Development Research Report (2026), and showcased pilot initiatives such as 'millisecond-level urban computing' applications. Prominent companies, including ByteDance and Cambricon, signed a series of significant agreements valued at tens of billions, focusing on green intelligent computing centers and token factories.",
-        "content": "HOHHOT, CHINA - Media OutReach Newswire - 24 August 2026 - On August 22, 2026, the fourth annual Green Computing Power (Artificial Intelligence) Conference was held on the picturesque Cilechuan Grassland in Hohhot, Inner Mongolia. Centered on the the... [4737 chars]",
-        "url": "https://www.manilatimes.net/2026/08/24/tmt-newswire/media-outreach-newswire/hohhot-inner-mongolia-converting-prairie-winds-into-computing-power/2411164",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1188492.jpg",
-        "publishedAt": "2026-08-24T15:15:13Z",
-        "lang": "en",
-        "source": {
-            "id": "7c666ee953f873d3057b310220f510df",
-            "name": "The Manila Times",
-            "url": "https://www.manilatimes.net",
-            "country": "ph"
-        }
-    },
-    {
-        "id": "289cf6c27552edba9d7e0ea764e1cc27",
-        "title": "Laid off for a bot, China’s workers face an AI jobs squeeze",
-        "description": "Artificial intelligence is beginning to reshape China's job market, supported by state policies that some economists believe might undermine the overall strength of its economy",
-        "content": "Computer programmer Fei Zhaojun’s boss asked him if artificial intelligence could soon replace humans in coding jobs. Two weeks later, he was laid off in Beijing, along with about 160 colleagues.\nIt’s an increasingly common scenario as artificial int... [7132 chars]",
-        "url": "https://www.latimes.com/business/story/2026-08-24/laid-off-for-bot-chinas-workers-face-ai-jobs-squeeze",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/0a4da81/2147483647/strip/true/crop/7664x4024+0+543/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F56%2Ff70bafb34b639d43b38e2919807c%2F25bba0311d4740c48220f8bd0d32e5d8.jpg",
-        "publishedAt": "2026-08-24T14:26:28Z",
-        "lang": "en",
-        "source": {
-            "id": "492abf277b7277432148b61b21ddc836",
-            "name": "Los Angeles Times",
-            "url": "https://www.latimes.com",
             "country": "us"
         }
     }
