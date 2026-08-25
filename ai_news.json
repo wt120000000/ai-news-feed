@@ -1,5 +1,21 @@
 [
     {
+        "id": "eafd8a73dd1eb6faef957945103ecd93",
+        "title": "PM’s AI push cements rise of the chief AI officer",
+        "description": "Prime Minister’s decision to put a new Office of AI inside his own department raises a question: who is actually in charge of artificial intelligence?",
+        "content": "“It’s not just about creating new structures in government,” she says. “It’s really about growing recognition that AI needs clearer accountability, governance and a more co-ordinated approach.”\nAnnouncing the Office of AI in July, Albanese said: “Thi... [7525 chars]",
+        "url": "https://www.afr.com/technology/pm-s-ai-push-cements-rise-of-the-chief-ai-officer-20260820-p60q02",
+        "image": "https://static.ffx.io/images/$zoom_0.3396%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_217%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/19e05a8b653eb12105b773dbf325c86b4daa07a2d5b920d43766834348359c3c",
+        "publishedAt": "2026-08-24T21:55:29Z",
+        "lang": "en",
+        "source": {
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
         "id": "a01b7d36904ce4e3cce3bd460ccaa3db",
         "title": "AI finds six ways to print rocket-grade alloy on commercial 3D printers",
         "description": "Washington State University researchers used artificial intelligence to find a more efficient, less expensive way to 3D-print a high-performance metal alloy, saving researchers from needing to painstakingly test more than 100 million options.",
@@ -141,22 +157,6 @@
             "name": "The Canberra Times",
             "url": "https://www.canberratimes.com.au",
             "country": "au"
-        }
-    },
-    {
-        "id": "97fb9d3ef25477ead41071a4e917bf5f",
-        "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
-        "description": "Artificial intelligence is beginning to reshape China's job market, supported by state policies that some economists believe might undermine the overall strength of its economy.",
-        "content": "HONG KONG (AP) — Computer programmer Fei Zhaojun's boss asked him if artificial intelligence could soon replace humans in coding jobs. Two weeks later, he was laid off from his job in Beijing, together with about 160 of his colleagues.\nIt's an increa... [7343 chars]",
-        "url": "https://www.pbs.org/newshour/world/workers-in-china-worry-over-being-replaced-as-they-adapt-to-the-growing-impact-of-ai-on-jobs",
-        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-07-18T152522Z_416417339_RC26GMAK9V8F_RTRMADP_3_CHINA-AI-1024x683.jpg",
-        "publishedAt": "2026-08-24T17:23:40Z",
-        "lang": "en",
-        "source": {
-            "id": "31177620c1e6e610b5d2b67916ed3615",
-            "name": "PBS News",
-            "url": "https://www.pbs.org",
-            "country": "us"
         }
     }
 ]
