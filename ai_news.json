@@ -1,5 +1,37 @@
 [
     {
+        "id": "289cf6c27552edba9d7e0ea764e1cc27",
+        "title": "Laid off for a bot, China’s workers face an AI jobs squeeze",
+        "description": "Artificial intelligence is beginning to reshape China's job market, supported by state policies that some economists believe might undermine the overall strength of its economy",
+        "content": "Computer programmer Fei Zhaojun’s boss asked him if artificial intelligence could soon replace humans in coding jobs. Two weeks later, he was laid off in Beijing, along with about 160 colleagues.\nIt’s an increasingly common scenario as artificial int... [7132 chars]",
+        "url": "https://www.latimes.com/business/story/2026-08-24/laid-off-for-bot-chinas-workers-face-ai-jobs-squeeze",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/0a4da81/2147483647/strip/true/crop/7664x4024+0+543/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F56%2Ff70bafb34b639d43b38e2919807c%2F25bba0311d4740c48220f8bd0d32e5d8.jpg",
+        "publishedAt": "2026-08-24T14:26:28Z",
+        "lang": "en",
+        "source": {
+            "id": "492abf277b7277432148b61b21ddc836",
+            "name": "Los Angeles Times",
+            "url": "https://www.latimes.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "7c27327b04fde4798d1f985e277fec7c",
+        "title": "SM City Baguio shares love of learning through AI, connecting generations in the digital age",
+        "description": "RECOGNIZING the growing role of artificial intelligence (AI) in everyday life and the importance of making digital learning accessible to all generations, SM Supermalls, through SM City Baguio, partnered with the Department of Information and Communications Technology – Cordillera Administrative Region (DICT-CAR) to conduct a learning session on Artificial Intelligence for senior citizens and children at SM City Baguio.",
+        "content": "RECOGNIZING the growing role of artificial intelligence (AI) in everyday life and the importance of making digital learning accessible to all generations, SM Supermalls, through SM City Baguio, partnered with the Department of Information and Communi... [5502 chars]",
+        "url": "https://www.manilatimes.net/2026/08/24/supplements/sm-city-baguio-shares-love-of-learning-through-ai-connecting-generations-in-the-digital-age/2411101",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1188271.jpg",
+        "publishedAt": "2026-08-24T14:05:00Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
         "id": "94643ae2a15dc0f59d6e100e56661bfd",
         "title": "Australian PM Wants To Ban Data Centres Near Schools",
         "description": "Albanese's government has pledged to rush through a national artificial intelligence law, likening its response to the data centre boom to Australia's world-first teen social media ban",
@@ -125,38 +157,6 @@
             "name": "The Economic Times",
             "url": "https://economictimes.indiatimes.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "bfbe3a5dbbb53423b1d20d204d708762",
-        "title": "TCS secures €1.25 billion five-year strategic deal with Porsche",
-        "description": "Tata Consultancy Services has secured a significant five-year deal worth €1.25 billion. This strategic agreement follows TCS' acquisition of MHP Management- und IT-Beratung GmbH. Porsche will partner with MHP and TCS to industrialize artificial intelligence across its operations. The partnership will also focus on delivering next-generation automotive technology services. This engagement anchors a long-term technology partnership between the three entities.",
-        "content": "Synopsis\nTata Consultancy Services has secured a significant five-year deal worth €1.25 billion. This strategic agreement follows TCS' acquisition of MHP Management- und IT-Beratung GmbH. Porsche will partner with MHP and TCS to industrialize artific... [1790 chars]",
-        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tcs-to-buy-porsche-it-unit-for-373-million-tata-news/articleshow/133463961.cms",
-        "image": "https://img.etimg.com/thumb/msid-133464153,width-1200,height-630,imgsize-48218,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-24T11:39:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "d04893573abf361c7bc1688281d3b66c",
-        "title": "Trump defends AI data centers, dismisses opposition as ‘mistake’-Touts tech infrastructure boom",
-        "description": "In a recent update U.S. President Donald Trump strongly defended the rapid buildout of artificial intelligence infrastructure, arguing during a media interview that local communities and states...",
-        "content": "In a recent update U.S. President Donald Trump strongly defended the rapid buildout of artificial intelligence infrastructure, arguing during a media interview that local communities and states turning down data centers are making a significant mista... [1256 chars]",
-        "url": "https://www.thenews.com.pk/latest/1413427-trump-defends-ai-data-centers-dismisses-opposition-as-mistaketouts-tech-infrastructure-boom",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-08-24/1413427_041807_updates.jpg",
-        "publishedAt": "2026-08-24T11:18:00Z",
-        "lang": "en",
-        "source": {
-            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-            "name": "The News International",
-            "url": "https://www.thenews.com.pk",
-            "country": "pk"
         }
     }
 ]
