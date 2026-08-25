@@ -1,5 +1,21 @@
 [
     {
+        "id": "a01b7d36904ce4e3cce3bd460ccaa3db",
+        "title": "AI finds six ways to print rocket-grade alloy on commercial 3D printers",
+        "description": "Washington State University researchers used artificial intelligence to find a more efficient, less expensive way to 3D-print a high-performance metal alloy, saving researchers from needing to painstakingly test more than 100 million options.",
+        "content": "Washington State University researchers used artificial intelligence to find a more efficient, less expensive way to 3D-print a high-performance metal alloy, saving researchers from needing to painstakingly test more than 100 million options.\nThe fin... [4675 chars]",
+        "url": "https://phys.org/news/2026-08-ai-ways-rocket-grade-alloy.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/researchers-use-ai-to-6.jpg",
+        "publishedAt": "2026-08-24T21:30:04Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
         "id": "9278d77acd2455344ad01625ffafef95",
         "title": "City to tweak Missoula data center regulations",
         "description": "The change comes as a local artificial intelligence development company is seeking to build a new 4,200-square-foot research facility near the Missoula Montana Airport.",
@@ -141,22 +157,6 @@
             "name": "PBS News",
             "url": "https://www.pbs.org",
             "country": "us"
-        }
-    },
-    {
-        "id": "b4adb373321f52b605c435d14be15743",
-        "title": "UK, Ukraine sign AI defence partnership linked to battlefield technology",
-        "description": "LONDON, Aug 24 - Britain said on Monday it had signed a partnership with Ukraine to jointly develop artificial intelligence tools for defence and security, giving British researchers access to a Ukrainian battlefield data platform used to train military AI systems. Read more at straitstimes.com.",
-        "content": "LONDON, Aug 24 - Britain said on Monday it had signed a partnership with Ukraine to jointly develop artificial intelligence tools for defence and security, giving British researchers access to a Ukrainian battlefield data platform used to train milit... [1790 chars]",
-        "url": "https://www.straitstimes.com/world/europe/uk-ukraine-sign-ai-defence-partnership-linked-to-battlefield-technology",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/60a01781d2084a6c00fe329556e728affc399535c7246ee3c499d5104ad05a94",
-        "publishedAt": "2026-08-24T17:09:03Z",
-        "lang": "en",
-        "source": {
-            "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-            "name": "The Straits Times",
-            "url": "https://www.straitstimes.com",
-            "country": "sg"
         }
     }
 ]
