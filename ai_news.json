@@ -1,5 +1,21 @@
 [
     {
+        "id": "1fc717fd328ad8fe646873d3650b4aba",
+        "title": "WRTN raises $72 mil. in Series C funding round",
+        "description": "Korean artificial intelligence (AI) service provider WRTN Technologies has raised approximately 100 billion won ($72.23 million) in a Series C fund...",
+        "content": "Korean artificial intelligence (AI) service provider WRTN Technologies has raised approximately 100 billion won ($72.23 million) in a Series C funding round, the company said Wednesday.\nAccording to WRTN, the company was valued at more than 1 trillio... [2734 chars]",
+        "url": "https://www.koreatimes.co.kr/business/tech-science/20260826/wrtn-raises-72-mil-in-series-c-funding-round",
+        "image": "https://newsimg.koreatimes.co.kr/2026/08/26/db2fb76d-a29d-4cbb-9104-55d910de1bac.png",
+        "publishedAt": "2026-08-26T01:47:03Z",
+        "lang": "en",
+        "source": {
+            "id": "9f2e79f0f9194d0d88f0074def064e60",
+            "name": "The Korea Times",
+            "url": "https://www.koreatimes.co.kr",
+            "country": "kr"
+        }
+    },
+    {
         "id": "e37558277e5a44e7d2f9b62c0e0f5a2f",
         "title": "Venture Capital & Startup Funding Roundup, August 25, 2026: Aramco Ventures, ARK Invest, Salesforce Ventures, Samsung Ventures, Siemens & More",
         "description": "Venure capital’s signal today is not that risk appetite has returned evenly across the startup market. It is that investors are paying aggressively for bottlenecks created by the deployment of artificial intelligence: electricity, model security, autonomous logistics, semiconductor design, licensed media, verifiable information, and specialized workflow software. Across the ten financings selected in this report,",
@@ -140,22 +156,6 @@
             "id": "7f6e8514e9d8f8376aaa9a7229861518",
             "name": "PerthNow",
             "url": "https://www.perthnow.com.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "8c0149a6aa2ed8da103756d499c21ed5",
-        "title": "Financial watchdog sinks teeth into rapid tech changes",
-        "description": "Protecting consumers amid emerging new financial systems and adapting to artificial intelligence are leading challenges for Australia's financial...",
-        "content": "The potential misuse of AI is one of the main areas of focus for Australia's financial regulator. Photo: Rounak Amini/AAP PHOTOS\nAustralia's financial watchdog says it wants to get out of the way of economic growth, while protecting consumers in a ti... [4401 chars]",
-        "url": "https://www.canberratimes.com.au/story/9337504/financial-watchdog-sinks-teeth-into-rapid-tech-changes/",
-        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/6304ede0-3c50-42e1-86e1-ece738419d40.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-        "publishedAt": "2026-08-25T19:00:01Z",
-        "lang": "en",
-        "source": {
-            "id": "92021aca7322dc2b29226023c35d9a4a",
-            "name": "The Canberra Times",
-            "url": "https://www.canberratimes.com.au",
             "country": "au"
         }
     }
