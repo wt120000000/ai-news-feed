@@ -1,5 +1,21 @@
 [
     {
+        "id": "e37558277e5a44e7d2f9b62c0e0f5a2f",
+        "title": "Venture Capital & Startup Funding Roundup, August 25, 2026: Aramco Ventures, ARK Invest, Salesforce Ventures, Samsung Ventures, Siemens & More",
+        "description": "Venure capital’s signal today is not that risk appetite has returned evenly across the startup market. It is that investors are paying aggressively for bottlenecks created by the deployment of artificial intelligence: electricity, model security, autonomous logistics, semiconductor design, licensed media, verifiable information, and specialized workflow software. Across the ten financings selected in this report,",
+        "content": "Venure capital’s signal today is not that risk appetite has returned evenly across the startup market. It is that investors are paying aggressively for bottlenecks created by the deployment of artificial intelligence: electricity, model security, aut... [33736 chars]",
+        "url": "https://techstartups.com/2026/08/25/venture-capital-startup-funding-roundup-august-25-2026-aramco-ventures-ark-invest-salesforce-ventures-samsung-ventures-siemens-more/",
+        "image": "https://techstartups.com/wp-content/uploads/2026/08/Stability-AI-Team-960x604.jpg",
+        "publishedAt": "2026-08-25T22:17:01Z",
+        "lang": "en",
+        "source": {
+            "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+            "name": "TechStartups.com",
+            "url": "https://techstartups.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "a7ec4a87bd5cf808a69792eca901088a",
         "title": "Now OpenAI’s former head of data centers is out.",
         "description": "The Wall Street Journal and Bloomberg report that Chris Malone, a “key executive” leading OpenAI’s massive build-out plans, left the company last week. The WSJ reports that Malone, who held similar roles at Meta and Google before joining OpenAI in early 2025, had previously reported directly to OpenAI president and cofounder Greg Brockman, but that changed earlier this year amid other reshuffling.\n[Link: It’s Greg Brockman’s OpenAI now | https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion | The Verge]",
@@ -140,22 +156,6 @@
             "id": "92021aca7322dc2b29226023c35d9a4a",
             "name": "The Canberra Times",
             "url": "https://www.canberratimes.com.au",
-            "country": "au"
-        }
-    },
-    {
-        "id": "07314c155a85610b571629fe8e05a2f9",
-        "title": "Three hard truths about AI every CEO and director needs to hear",
-        "description": "Companies on the frontier of deploying artificial intelligence the most effectively display three common characteristics.",
-        "content": "In a recent survey of consumers by strategy consultant McKinsey, nearly a quarter of respondents said they used a generative artificial intelligence tool for financial tasks, such as budgeting or expense tracking, at least once a month.\nNearly two-th... [300 chars]",
-        "url": "https://www.afr.com/work-and-careers/workplace/three-hard-truths-about-ai-every-ceo-and-director-needs-to-hear-20260810-p60n3i",
-        "image": "https://static.ffx.io/images/$zoom_0.23%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_400%2C$y_53/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ef2df54159e72fe641d10c1672ae298f5f075b70",
-        "publishedAt": "2026-08-25T19:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "Australian Financial Review",
-            "url": "https://www.afr.com",
             "country": "au"
         }
     }
