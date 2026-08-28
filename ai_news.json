@@ -1,28 +1,60 @@
 [
     {
-        "id": "183c88ded657f4442c9394a8b7973791",
-        "title": "Bill Gates reveals tech industry’s chilling AI secret",
-        "description": "Microsoft co-founder Bill Gates has shared alarming details about how Artificial Intelligence is going to change the world, for the worse for the majority of the world population.The...",
-        "content": "Microsoft co-founder Bill Gates has shared alarming details about how Artificial Intelligence is going to change the world, for the worse for the majority of the world population.\nThe billionaire’s latest interview with The New York Times underlines ... [923 chars]",
-        "url": "https://www.thenews.com.pk/latest/1413850-bill-gates-reveals-tech-industry-s-chilling-ai-secret",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-08-27/1413850_060543_updates.jpg",
-        "publishedAt": "2026-08-27T13:05:00Z",
+        "id": "726f55ca4d28c959b4993ce9a03b1a5b",
+        "title": "OpenAI says it could have reacted sooner to prevent AI hack of Hugging Face",
+        "description": "OpenAI could have reacted sooner to prevent an inadvertent hack that its artificial intelligence models carried out on Hugging Face Inc, the company said in a report on Aug 26.",
+        "content": "OpenAI could have reacted sooner to prevent an inadvertent hack that its artificial intelligence (AI) models carried out on Hugging Face Inc, the company said in a report on Aug 26.\nIn the report, OpenAI said that it knew as far back as late May that... [5486 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/28/openai-says-it-could-have-reacted-sooner-to-prevent-ai-hack-of-hugging-face",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/28/4080895.jpg",
+        "publishedAt": "2026-08-28T02:00:00Z",
         "lang": "en",
         "source": {
-            "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-            "name": "The News International",
-            "url": "https://www.thenews.com.pk",
-            "country": "pk"
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
         }
     },
     {
-        "id": "7e9f3df82416db44e427233ab406224a",
-        "title": "Kioxia, Sandisk to invest more than $31 billion in memory chips",
-        "description": "Kioxia Holdings and Sandisk plan to invest more than $31 billion in Japan to strengthen their joint venture and drive the large-scale supply of flash memory chips in the age of artificial intelligence.",
-        "content": "Kioxia Holdings and Sandisk plan to invest more than $31 billion in Japan to strengthen their joint venture and drive the large-scale supply of flash memory chips in the age of artificial intelligence.\nThese investments through 2032 will support the ... [1962 chars]",
-        "url": "https://www.livemint.com/global/kioxia-sandisk-to-invest-more-than-31-billion-in-memory-chips-11787834336425.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/08/27/1600x900/logo/JAPAN-SEMICONDUCTORS-AI-KOIXIA-0_1787834695880_1787834709247_4f44c789-061d-4ea6-b8d1-cdd1111075d4.jpg",
-        "publishedAt": "2026-08-27T12:45:59Z",
+        "id": "573dad209ace7211dfe36dda82ac39c7",
+        "title": "Public trust in AI rises as media becomes more sceptical, CARMA finds",
+        "description": "Public trust in artificial intelligence is rising even as media coverage becomes more sceptical, according to new research from media intelligence firm CARMA.",
+        "content": "Public trust in artificial intelligence is rising even as media coverage becomes more sceptical, according to new research from media intelligence firm CARMA.\nIts latest study, \"Perceptions of AI: A power shift from productivity tool to strategic inf... [5955 chars]",
+        "url": "https://www.marketing-interactive.com/public-trust-in-ai-rises-as-media-becomes-more-sceptical-carma-finds",
+        "image": "https://marketing-interactive-assets.b-cdn.net/article_images/public-trust-in-ai-rises-as-media-becomes-more-sceptical-carma-finds/1787565945_achint%20setia%20%283%29.jpg",
+        "publishedAt": "2026-08-28T01:56:31Z",
+        "lang": "en",
+        "source": {
+            "id": "d894d2a2b7c9ae7ff7505a197738f18c",
+            "name": "Marketing Interactive",
+            "url": "https://www.marketing-interactive.com",
+            "country": "sg"
+        }
+    },
+    {
+        "id": "6f98a44cccba57a3edd64f3b6cdcb9f4",
+        "title": "National emergency: Trump bans foreign equipment to protect power infrastructure. Here's why",
+        "description": "The directive targets foreign actors accused of exploiting vulnerabilities within the US bulk-power system — the foundational network that fuels advanced manufacturing, defense facilities, artificial intelligence clusters, and emergency services nationwide.",
+        "content": "Behind the flip of a light switch or the steady hum of a data center sits thousands of miles of high-voltage transmission equipment — much of it quietly running on components and digital software sourced from abroad.\nOn August 26, 2026, President Don... [2393 chars]",
+        "url": "https://www.businesstoday.in/world/story/national-emergency-trump-bans-foreign-equipment-to-protect-power-infrastructure-heres-why-551921-2026-08-28",
+        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a90e9895bce8-the-bulk-power-decree-follows-a-series-of-executive-measures-executed-by-the-administration-througho-285059543-16x9.jpg",
+        "publishedAt": "2026-08-28T01:51:11Z",
+        "lang": "en",
+        "source": {
+            "id": "76a2f820b104591b97fed1b0932cec38",
+            "name": "Business Today",
+            "url": "https://www.businesstoday.in",
+            "country": "in"
+        }
+    },
+    {
+        "id": "349c3410833581c17df46b1ed43f7dc2",
+        "title": "When will the AI bubble burst? History says not anytime soon.",
+        "description": "The spending on artificial intelligence will end, but probably not when investors suspect it will.",
+        "content": "The scale of AI capital expenditures has been astounding. Since the start of 2024, roughly $500 billion has been spent on chips, $350 billion on power infrastructure, $200 billion on construction, and $100 billion on networking. That dwarfs the rough... [11942 chars]",
+        "url": "https://www.livemint.com/global/when-will-the-ai-bubble-burst-history-says-not-anytime-soon-11787878510084.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/im-42795110_1787878515401_1787878534928_c46af50e-ed05-4890-97e5-05abd7512d6a.jpg",
+        "publishedAt": "2026-08-28T00:56:53Z",
         "lang": "en",
         "source": {
             "id": "3bd4bd306c42647825fa42989624c036",
@@ -32,93 +64,13 @@
         }
     },
     {
-        "id": "29400b9d0abfb2b2090caf04d9a5e577",
-        "title": "Focused Technology Training with AI",
-        "description": "Thane (Maharashtra) [India], August 27: Artificial intelligence is rapidly transforming the technology landscape, changing how software is developed, businesses operate, and professionals build their careers. As organizations increasingly adopt AI-powered solutions, demand is growing for professionals who can combine traditional technology skills with emerging AI capabilities.",
-        "content": "VMPL\nThane (Maharashtra) [India], August 27: Artificial intelligence is rapidly transforming the technology landscape, changing how software is developed, businesses operate, and professionals build their careers. As organizations increasingly adopt ... [4594 chars]",
-        "url": "https://www.tribuneindia.com/news/business/obox-edge-expands-industry-focused-technology-training-with-ai/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTMzNWZmYjkwLWEyMTQtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-27T12:38:16Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "47a77fabf9339a6b53fff7c04c66065f",
-        "title": "Obox EDGE Expands Industry-Focused Technology Training with AI",
-        "description": "Thane (Maharashtra) [India], August 27: Artificial intelligence is rapidly transforming the technology landscape, changing how software is developed, businesses operate, and professionals build their careers. As organizations increasingly adopt AI-powered solutions, demand is growing for professionals who can combine traditional technology skills with emerging AI capabilities.",
-        "content": "VMPL\nThane (Maharashtra) [India], August 27: Artificial intelligence is rapidly transforming the technology landscape, changing how software is developed, businesses operate, and professionals build their careers. As organizations increasingly adopt ... [1961 chars]",
-        "url": "https://www.aninews.in/news/business/obox-edge-expands-industry-focused-technology-training-with-ai20260827180441/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260827123427-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-08-27T12:34:41Z",
-        "lang": "en",
-        "source": {
-            "id": "f282f77e41f55d72f00fefcaccc92954",
-            "name": "ANI (Asian News International)",
-            "url": "https://www.aninews.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "941b9726ab0a158d907a5e94a529dca7",
-        "title": "Alberta’s Smith to take part in virtual town hall on AI data centre development",
-        "description": "Danielle Smith and her technology minister are set to take part in a virtual town hall Thursday about developing artificial intelligence data centres in the province.",
-        "content": "Alberta Premier Danielle Smith and her technology minister are set to take part in a virtual town hall Thursday about developing artificial intelligence data centres in the province.\nIt’s the third of four town halls the government has organized to t... [1778 chars]",
-        "url": "https://globalnews.ca/news/12037359/albertas-smith-to-take-part-in-virtual-town-hall-on-ai-data-centre-development/",
-        "image": "https://globalnews.ca/wp-content/uploads/2026/08/9d1eb698c312c3a95616e1b36ee564c815e9c71b3488ead2e9ebcbb26709c73f.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2026-08-27T12:31:14Z",
-        "lang": "en",
-        "source": {
-            "id": "49853ffafc28f405ff8ed06043290ae8",
-            "name": "Global News",
-            "url": "https://globalnews.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "c3a591bc79dfef500361994020f0702f",
-        "title": "ChatGPT releases teen mode AI with new study tools",
-        "description": "ChatGPT launches new 'Teen Mode' tailored for under-18s, promoting new study tools and safety features . Teenagers will be treated to a bespoke Artificial Intelligence (AI) experience from OpenAI",
-        "content": "Teenagers will be treated to a bespoke Artificial Intelligence (AI) experience from OpenAI. The breakout brand behind ChatGPT is rolling out ChatGPT for Teens, which offers anyone aged between 13 – 17, a dedicated space to use AI with tighter safety ... [724 chars]",
-        "url": "https://www.gbnews.com/tech/chatgpt-for-teens-features-safety",
-        "image": "https://www.gbnews.com/media-library/chatgpt-logo.jpg?id=67673635&width=1200&height=600&coordinates=0%2C120%2C0%2C51",
-        "publishedAt": "2026-08-27T12:06:00Z",
-        "lang": "en",
-        "source": {
-            "id": "0c047612bc7bc0113342d2651f47b208",
-            "name": "GB News",
-            "url": "https://www.gbnews.com",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "5b9d1feab5efbfa26e51abdd02322f9f",
-        "title": "US futures mostly higher as the artificial intelligence business booms",
-        "description": "US futures are mostly higher as Nvidia’s strong quarterly performance powered the Nasdaq and technology stocks",
-        "content": "US futures are mostly higher as demand for artificial intelligence technology leads to a surge in business for Nvidia and other tech companies with heavy exposure to AI.\nS&P 500 futures gained 0.4%, while Dow Jones Industrial Average futures were nea... [1787 chars]",
-        "url": "https://www.barchart.com/story/news/4174114/us-futures-mostly-higher-as-the-artificial-intelligence-business-booms",
-        "image": "https://barchart-news-media-prod.aws.barchart.com/ap/9de618e634f2465a899d00ed26a440dd/9de618e634f2465a899d00ed26a440dd_main_japan_financial_markets_33_61.jpg",
-        "publishedAt": "2026-08-27T12:05:37Z",
-        "lang": "en",
-        "source": {
-            "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-            "name": "Barchart",
-            "url": "https://www.barchart.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "0615feec97bda5248ba5a731d762a7f2",
-        "title": "Gates Foundation, India to develop AI tools for farmers, explore Asia-Africa expansion",
-        "description": "The Gates Foundation will collaborate with India to enhance AI-powered digital tools for farmers. Discussions focused on India's advanced use of artificial intelligence and digital public infrastructure in agriculture. These tools will offer farmers better weather forecasts and market price information. India's successful agri-tech models may be replicated across Asia and Africa.",
-        "content": "Synopsis\nThe Gates Foundation will collaborate with India to enhance AI-powered digital tools for farmers. Discussions focused on India's advanced use of artificial intelligence and digital public infrastructure in agriculture. These tools will offer... [3880 chars]",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/gates-foundation-india-to-develop-ai-tools-for-farmers-explore-asia-africa-expansion/articleshow/133566356.cms",
-        "image": "https://img.etimg.com/thumb/msid-133567378,width-1200,height-630,imgsize-41144,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-27T11:49:00Z",
+        "id": "02c0881e917d630de4dc96d45a783d5b",
+        "title": "Global Market Today: Asian shares slip as US stock futures dip ahead of Warsh’s Jackson Hole speech",
+        "description": "Futures for the Nasdaq 100 Index fell 0.3% and those for the S&P 500 Index retreated 0.2% as initial enthusiasm about the artificial intelligence trade following Nvidia Corp.s bullish outlook waned. Sentiment was weighed down by Marvell Technology Inc., which fell more than 7% in extended trading following its earnings report.",
+        "content": "US stock futures slipped as investors braced for Federal Reserve Chair Kevin Warsh’s speech in Jackson Hole, where some expect a hawkish tone.\nFutures for the Nasdaq 100 Index fell 0.3% and those for the S&P 500 Index retreated 0.2% as initial enthus... [5359 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-slip-as-us-stock-futures-dip-ahead-of-warshs-jackson-hole-speech/articleshow/133580806.cms",
+        "image": "https://img.etimg.com/thumb/msid-133580816,width-1200,height-630,imgsize-242288,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-08-28T00:42:00Z",
         "lang": "en",
         "source": {
             "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -128,35 +80,83 @@
         }
     },
     {
-        "id": "f5d24d35654cfc29508edcb7fc1b3356",
-        "title": "The big Indian IT sector shake-up: GCCs are hiring more than traditional tech; who is getting the jobs?",
-        "description": "India Business News: The Indian IT sector is undergoing a tectonic shift with artificial intelligence rendering many traditional roles redundant and requiring an unprecede.",
-        "content": "Can GCCs absorb talent across levels that are not finding jobs in traditional IT sector firms?\nThe Indian IT sector is undergoing a tectonic shift with artificial intelligence rendering many traditional roles redundant and requiring an unprecedented ... [10966 chars]",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/the-big-indian-it-sector-shake-up-gccs-are-hiring-more-than-traditional-tech-who-is-getting-the-jobs/articleshow/133565257.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133567274,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-27T11:46:00Z",
+        "id": "927221f80f1785019b2f2269e1920a07",
+        "title": "Exclusive-Anthropic planned, then abandoned $7 billion purchase of MatX, sources say",
+        "description": "SAN FRANCISCO, Aug 27 (Reuters) - Anthropic ⁠discussed buying artificial intelligence chip startup MatX for roughly $7 billion, seeking to accelerate efforts to develop custom hardware for its fast-growing AI business, two people briefed on the matter ⁠told Reuters.",
+        "content": "SAN FRANCISCO, Aug 27 (Reuters) - Anthropic ⁠discussed buying artificial intelligence chip startup MatX for roughly $7 billion, seeking to accelerate efforts to develop custom hardware for its fast-growing AI business, two people briefed on the matte... [4458 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/28/exclusive-anthropic-planned-then-abandoned-7-billion-purchase-of-matx-sources-say",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/28/4081944.jpg",
+        "publishedAt": "2026-08-28T00:05:00Z",
         "lang": "en",
         "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
         }
     },
     {
-        "id": "4df8d7ccc6da3d2891be74b216902327",
-        "title": "scale adoption, aims to be AI maker and shaper: Google's Smith",
-        "description": "India is moving from the era of AI pilots to broad-scale adoption and wants to be a maker and shaper of artificial intelligence, with Google highly optimistic about the country's long-term AI trajectory and seeing rising demand for advanced digital infrastructure, Alexander Smith, Principal, Global Infrastructure, Asia Pacific, Google, said.",
-        "content": "New Delhi [India], August 27 (ANI): India is moving from the era of AI pilots to broad-scale adoption and wants to be a maker and shaper of artificial intelligence, with Google highly optimistic about the country's long-term AI trajectory and seeing ... [5003 chars]",
-        "url": "https://www.tribuneindia.com/news/business/india-moving-from-ai-pilots-to-broad-scale-adoption-aims-to-be-ai-maker-and-shaper-googles-smith/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ0MzBlNDcwLWEyMGItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-27T11:38:25Z",
+        "id": "87ce8f6715ddc7ba2cc510be03c79153",
+        "title": "With AI, good of humanity is at risk of being sacrificed to private interests",
+        "description": "With the rapid progress of artificial intelligence (AI), the good of humanity is at risk of being sacrificed to private interests, Pope Leo XIV said Friday. (ANSA)",
+        "content": "With the rapid progress of artificial intelligence (AI), the good of humanity is at risk of being sacrificed to private interests, Pope Leo XIV said Friday.\n\"The speed with which AI-related innovations are developing pushes us to ask ourselves whethe... [664 chars]",
+        "url": "https://www.ansa.it/english/news/vatican/2026/08/28/with-ai-good-of-humanity-is-at-risk-of-being-sacrificed-to-private-interests-pope_10a6ea5c-4420-4f83-81f2-481bd8d7e204.html",
+        "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/28/94f1f936c00aa4161f338ec27262dc8c.jpg",
+        "publishedAt": "2026-08-28T00:00:00Z",
         "lang": "en",
         "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
+            "id": "eb5e2f8a99ce1e98768eb91c19e8668d",
+            "name": "Agenzia ANSA",
+            "url": "https://www.ansa.it",
+            "country": "it"
+        }
+    },
+    {
+        "id": "a069914db43cfe82873df59556ba826f",
+        "title": "Responsible ESG AI enablement could become Australia's next great export if we start now",
+        "description": "Logicalis Australia is calling for a shift in how Australia approaches artificial intelligence AI, warning that the country risks missing a major global opportunity if it...",
+        "content": "Logicalis Australia is calling for a shift in how Australia approaches artificial intelligence (AI), warning that the country risks missing a major global opportunity if it continues to focus primarily on policy and access to compute rather than infr... [6214 chars]",
+        "url": "https://itwire.com/business-it-news/data/responsible-esg-ai-enablement-could-become-australias-next-great-export-if-we-start-now",
+        "image": "https://media.itwire.com/2026/08/27/responsible-esg-ai-enablement-could-become-australias-next-great-export-if-we-start-now-ddeca81a70bc.jpg",
+        "publishedAt": "2026-08-27T23:59:50Z",
+        "lang": "en",
+        "source": {
+            "id": "10cbfb3760cfcdeb78c733c527f0e814",
+            "name": "iTWire",
+            "url": "https://itwire.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "1d4f56788f787454ddef26d962392323",
+        "title": "Major tech companies call for defensive surge to defeat AI-driven hacks",
+        "description": "WASHINGTON, Aug ⁠27 (Reuters) - Major tech companies including OpenAI, Anthropic, Microsoft, Alphabet and ⁠Amazon are calling for a society-wide defensive surge to defeat what ‌they describe as an impending wave of hacks driven by artificial intelligence.",
+        "content": "WASHINGTON, Aug ⁠27 (Reuters) - Major tech companies including OpenAI, Anthropic, Microsoft, Alphabet and ⁠Amazon are calling for a society-wide defensive surge to defeat what ‌they describe as an impending wave of hacks driven by artificial intellig... [1636 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/28/major-tech-companies-call-for-defensive-surge-to-defeat-ai-driven-hacks",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/28/4081912.jpg",
+        "publishedAt": "2026-08-27T23:11:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "ad9ebbfdbb1774e26c26d732e70eab8b",
+        "title": "Maryland data center debate intensifies as local rules diverge",
+        "description": "On Steve Black’s farm, the data center debate begins far from the servers and algorithms that power artificial intelligence.It begins with rows of trees, open g",
+        "content": "On Steve Black’s farm, the data center debate begins far from the servers and algorithms that power artificial intelligence.\nIt begins with rows of trees, open ground, rolling hills and the land Black has worked for nearly a quarter-century.\n“We’ve b... [8198 chars]",
+        "url": "https://foxbaltimore.com/news/local/maryland-data-center-debate-intensifies-as-local-rules-diverge",
+        "image": "https://foxbaltimore.com/resources/media2/16x9/4031/1320/0x378/90/2c4c222d-86f6-4536-a388-b141d05cb9fc-SteveBlackonhispropertyinFrederickCounty.jpg",
+        "publishedAt": "2026-08-27T22:26:59Z",
+        "lang": "en",
+        "source": {
+            "id": "9f53afb019d44feb16bcc7da150e679a",
+            "name": "Baltimore News",
+            "url": "https://foxbaltimore.com",
+            "country": "us"
         }
     }
 ]
