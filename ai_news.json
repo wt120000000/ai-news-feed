@@ -1,5 +1,21 @@
 [
     {
+        "id": "2310efc11bb173cd388b33f3783a9eda",
+        "title": "OpenAI, Microsoft Vs Newspapers: What’s Behind The New AI Copyright Fight?",
+        "description": "The Seattle Times and Newsday have sued OpenAI and Microsoft in a US federal court, alleging that the technology companies used their journalism without permission to train artificial intelligence (AI) systems, according to a Reuters report.",
+        "content": "The Seattle Times and Newsday have sued OpenAI and Microsoft in a US federal court, alleging that the technology companies used their journalism without permission to train artificial intelligence (AI) systems, according to a Reuters report.\nThe laws... [2124 chars]",
+        "url": "https://www.outlookbusiness.com/corporate/openai-microsoft-vs-newspapers-whats-behind-the-new-ai-copyright-fight",
+        "image": "https://media.assettype.com/outlookbusiness/2026-09-06/tbqcqz4o/gpt.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-09-06T07:43:07Z",
+        "lang": "en",
+        "source": {
+            "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+            "name": "Outlook Business",
+            "url": "https://www.outlookbusiness.com",
+            "country": "in"
+        }
+    },
+    {
         "id": "cfc2b938894c160c39b259e5724270e4",
         "title": "Anthropic IPO launch shifts toward mid-October: Report",
         "description": "The offering is ​expected to ​be one ​of the most closely anticipated IPOs ever, as investors look to public markets for exposure to the rapidly growing ​artificial intelligence industry.",
@@ -141,22 +157,6 @@
             "name": "Evening Chronicle",
             "url": "https://www.chroniclelive.co.uk",
             "country": "gb"
-        }
-    },
-    {
-        "id": "a09f462279861e7297cd7212dcd546fe",
-        "title": "Quebec courts say generative AI cannot replace judges' reasoning",
-        "description": "Quebec’s courts have issued new guidelines restricting judges’ use of generative artificial intelligence, stressing that judging must remain a fundamentally human responsibility.",
-        "content": "MONTREAL — Quebec’s courts have issued new guidelines restricting judges’ use of generative artificial intelligence, stressing that judging must remain a fundamentally human responsibility.\nThe guidelines, jointly adopted by the Quebec Court of Appea... [3501 chars]",
-        "url": "https://www.cp24.com/news/canada/2026/09/05/quebec-courts-say-generative-ai-cannot-replace-judges-reasoning/",
-        "image": "https://www.cp24.com/resizer/v2/QBR2WVEA677DNTAH23ITEACUUE.jpg?smart=true&auth=3a4d55cd7c52ec084438e16167f8af64004cbba99f791c779343fc3abfca7de8&width=1200&height=630",
-        "publishedAt": "2026-09-05T21:15:23Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
         }
     }
 ]
