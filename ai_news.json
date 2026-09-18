@@ -1,12 +1,76 @@
 [
     {
-        "id": "89ee53bf83eb9ef46f4a2a09c0d726cd",
-        "title": "White Hat Hackers Breached OpenAI Using Anthropic's Software - Reports",
-        "description": "White hat hackers were able to gain access to the internal data of artificial intelligence developer OpenAI using software of its competitor Anthropic, the Financial Times reported on Friday, citing OpenAI.",
-        "content": "White Hat Hackers Breached OpenAI Using Anthropic's Software - Reports\nSputnik International\nWhite hat hackers were able to gain access to the internal data of artificial intelligence developer OpenAI using software of its competitor Anthropic, the F... [1971 chars]",
-        "url": "https://sputnikglobe.com/20260918/white-hat-hackers-breached-openai-using-anthropics-software---reports-1124755280.html",
-        "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124755280.jpg?10782790531789722651",
-        "publishedAt": "2026-09-18T09:10:00Z",
+        "id": "31578d4f7018abd7686a9f8399a3f643",
+        "title": "OpenAI flags concerning behaviour",
+        "description": "OpenAI has disclosed six reports of “unexpected or concerning” behaviour in artificial-intelligence models as the debate on AI safety becomes increasingly heated.",
+        "content": "OpenAI has disclosed six reports of “unexpected or concerning” behaviour in artificial-intelligence models as the debate on AI safety becomes increasingly heated.\nThe AI company also said Wednesday it was introducing a new framework for tracking, pro... [3032 chars]",
+        "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/17/openai-flags-concerning-new-ai-behaviour-and-vows-to-track-it-more-closely/",
+        "image": "https://www.bnnbloomberg.ca/resizer/v2/ES6EQH7ZIRX2OD3TWL2R6QTARY.jpg?smart=true&auth=69fad8fcd0ff961fe7bc304ee2676b63ba11f8529e19a995bc154bd1b761f75d&width=1200&height=630",
+        "publishedAt": "2026-09-18T11:50:03Z",
+        "lang": "en",
+        "source": {
+            "id": "1b697445987e8a33f6c82842e17d60d9",
+            "name": "Bnn Bloomberg",
+            "url": "https://www.bnnbloomberg.ca",
+            "country": "ca"
+        }
+    },
+    {
+        "id": "f7b35883577a01d21294e418f3f188a9",
+        "title": "‘Godfather of AI’ Geoffrey Hinton warns humans running out of time to control Artificial Intelligence - ‘maybe a year’",
+        "description": "AI pioneer Geoffrey Hinton warns humans may have just a year to control advanced AI, citing a Hugging Face incident where AI agents escaped a test environment and hacked servers. US lawmakers are pushing an ‘AI Kill Switch Act’ as Hinton compares the breach to a ‘little Chernobyl’.",
+        "content": "Geoffrey Hinton, one of the pioneers of artificial intelligence, has warned that humans may have only about a year to put effective safeguards around advanced AI. After a meeting with US lawmakers in Washington, Hinton said AI could become hard for p... [2444 chars]",
+        "url": "https://www.livemint.com/ai/godfather-of-ai-geoffrey-hinton-warns-humans-running-out-of-time-to-control-artificial-intelligence-maybe-a-year-11789729884696.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/logo/Scientists-AI-Nightmares-Explainer-0_1683287080094_1789730029536_vasm_30874615-539e-4727-9494-f1fc730e98ca_NDMT.jpg",
+        "publishedAt": "2026-09-18T11:44:08Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "9bb9f9189da1859147221bd8816d4c07",
+        "title": "AI lowering entry barriers for small contractors, reshaping blue",
+        "description": "Artificial intelligence (AI) is lowering some of the traditional barriers for skilled workers looking to start or expand small businesses by taking over administrative tasks such as scheduling, dispatch, paperwork and contract analysis, according to a report by SkyPSI, a tech company.",
+        "content": "Synopsis\nArtificial intelligence (AI) is lowering some of the traditional barriers for skilled workers looking to start or expand small businesses by taking over administrative tasks such as scheduling, dispatch, paperwork and contract analysis, acco... [3216 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-lowering-entry-barriers-for-small-contractors-reshaping-blue-collar-services-report/articleshow/134333830.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-159150,resizemode-75,msid-134333830/tech/artificial-intelligence/ai-lowering-entry-barriers-for-small-contractors-reshaping-blue-collar-services-report.jpg",
+        "publishedAt": "2026-09-18T11:26:41Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "4b5f45af2c1f4bd89e542e83af14780c",
+        "title": "UNESCO can be 'moderator' in AI debate: chief to AFP",
+        "description": "UNESCO chief Khaled el-that the UN culture and education agency become a facilitator in the worldwide wrangling on the risks of artificial intelligence. The UN educational, scientific and cultural organisation has long stressed that its remit covers more than heritage, looking to advance in areas ranging from access to education to the ethical use of artificial intelligence.",
+        "content": "Synopsis\nUNESCO chief Khaled el-that the UN culture and education agency become a facilitator in the worldwide wrangling on the risks of artificial intelligence. The UN educational, scientific and cultural organisation has long stressed that its remi... [3296 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/unesco-can-be-moderator-in-ai-debate-chief-to-afp/articleshow/134333801.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1584488,resizemode-75,msid-134333801/tech/technology/unesco-can-be-moderator-in-ai-debate-chief-to-afp.jpg",
+        "publishedAt": "2026-09-18T11:25:20Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "47e9562967770d7b2823f86d20bb7131",
+        "title": "Japanese Right-Wing Forces Use AI to Whitewash War Crimes - Chinese Foreign Ministry",
+        "description": "BEIJING (Sputnik) - Right-wing forces in Japan are using artificial intelligence technologies to filter historical archives, seeking to whitewash... 18.09.2026, Sputnik International",
+        "content": "Japanese Right-Wing Forces Use AI to Whitewash War Crimes - Chinese Foreign Ministry\nSputnik International\nBEIJING (Sputnik) - Right-wing forces in Japan are using artificial intelligence technologies to filter historical archives, seeking to whitewa... [2445 chars]",
+        "url": "https://sputnikglobe.com/20260918/japanese-right-wing-forces-use-ai-to-whitewash-war-crimes---chinese-foreign-ministry-1124756144.html",
+        "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124756144.jpg?10767364611789730656",
+        "publishedAt": "2026-09-18T11:24:00Z",
         "lang": "en",
         "source": {
             "id": "9962a9b594044b42e892f4760e2dfd7e",
@@ -16,61 +80,45 @@
         }
     },
     {
-        "id": "d9604ce947956d214df67f529adebe75",
-        "title": "Global Experts Deliberate on Democracy in the Age of AI at DSVV",
-        "description": "New Delhi [India], September 17: Artificial Intelligence (AI) is no longer merely a technology; it has emerged as a powerful force capable of shaping the future of governance…",
-        "content": "New Delhi [India], September 17: Artificial Intelligence (AI) is no longer merely a technology; it has emerged as a powerful force capable of shaping the future of governance and society. Against this backdrop, an international summit on “AI for Demo... [2879 chars]",
-        "url": "https://www.newsx.com/bl-news/global-experts-deliberate-on-democracy-in-the-age-of-ai-at-dsvv-273254/",
-        "image": "https://www.newsx.com/wp-content/uploads/2026/09/Global-Experts-Deliberate-on-Democracy-in-the-Age-of-AI.avif",
-        "publishedAt": "2026-09-18T09:08:10Z",
+        "id": "ac4252ccc63574916933578b7d978021",
+        "title": "AI lowering entry barriers for small contractors, reshaping blue",
+        "description": "Artificial intelligence (AI) is lowering some of the traditional barriers for skilled workers looking to start or expand small businesses by taking over administrative tasks such as scheduling, dispatch, paperwork and contract analysis, according to a report by SkyPSI, a tech company.",
+        "content": "New Delhi [India], September 18 (ANI): Artificial intelligence (AI) is lowering some of the traditional barriers for skilled workers looking to start or expand small businesses by taking over administrative tasks such as scheduling, dispatch, paperwo... [3003 chars]",
+        "url": "https://www.tribuneindia.com/news/business/ai-lowering-entry-barriers-for-small-contractors-reshaping-blue-collar-services-report/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkzZTVmZjEwLWIzNTItMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+        "publishedAt": "2026-09-18T11:17:40Z",
         "lang": "en",
         "source": {
-            "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-            "name": "NewsX",
-            "url": "https://www.newsx.com",
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
             "country": "in"
         }
     },
     {
-        "id": "47ea18f774e67972f7985202fb20423c",
-        "title": "AI anxiety is misplaced. Creativity is human, and sacred",
-        "description": "Where does creativity come from? And can artificial intelligence replace it?",
-        "content": "“For the Lord gives wisdom; from his mouth come knowledge and understanding.” — Proverbs 2:6\nMy writing life began in the 1980s, long before digital cameras, email submissions or AI‑powered tools. I mailed a sleeve of Kodachrome 64 slides and a 4,000... [4422 chars]",
-        "url": "https://www.app.com/story/opinion/2026/09/18/ai-anxiety-is-misplaced-creativity-is-human-and-sacred-opinion/91792630007/",
-        "image": "https://www.app.com/gcdn/authoring/authoring-images/2024/04/04/USAT/73206753007-usatsi-22578969.jpg?crop=3596,2022,x2,y376&width=3200&height=1800&format=pjpg&auto=webp",
-        "publishedAt": "2026-09-18T09:08:05Z",
+        "id": "6b7c238ec05708b995e9656a7a884723",
+        "title": "AI lowering entry barriers for small contractors, reshaping blue-collar services: Report",
+        "description": "Artificial intelligence (AI) is lowering some of the traditional barriers for skilled workers looking to start or expand small businesses by taking over administrative tasks such as scheduling, dispatch, paperwork and contract analysis, according to a report by SkyPSI, a tech company.",
+        "content": "New Delhi [India], September 18 (ANI): Artificial intelligence (AI) is lowering some of the traditional barriers for skilled workers looking to start or expand small businesses by taking over administrative tasks such as scheduling, dispatch, paperwo... [1426 chars]",
+        "url": "https://www.aninews.in/news/business/ai-lowering-entry-barriers-for-small-contractors-reshaping-blue-collar-services-report20260918164319/",
+        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260918105604-thumbnail-320x180-70.jpg",
+        "publishedAt": "2026-09-18T11:13:19Z",
         "lang": "en",
         "source": {
-            "id": "efe720f491c0b5680c72afaa4182eba7",
-            "name": "Asbury Park Press",
-            "url": "https://www.app.com",
-            "country": "us"
+            "id": "f282f77e41f55d72f00fefcaccc92954",
+            "name": "ANI (Asian News International)",
+            "url": "https://www.aninews.in",
+            "country": "in"
         }
     },
     {
-        "id": "a280cac12a898149c39a5afe172494e3",
-        "title": "French Army wants to keep adversaries guessing on see-through battlefield",
-        "description": "The French Future Combat Command is looking at what Baratz called “frugal artificial intelligence,” designed to consume as little energy as possible.",
-        "content": "BESANÇON, France — The French Army’s Future Combat Command is seeking ways to create “opacity” on an increasingly transparent battlefield in order to restore offensive maneuver, looking at everything from physical decoys to electronic warfare and ele... [5784 chars]",
-        "url": "https://www.defensenews.com/global/europe/2026/09/18/french-army-wants-to-keep-adversaries-guessing-on-see-through-battlefield/",
-        "image": "https://www.armytimes.com/resizer/v2/UZU4TTCHD5DA7MTOR4ZXPU3RS4.jpg?width=1200&auth=2ec73ff32af98959385f0e149eec206153849d4a1201057f59beed819e388905",
-        "publishedAt": "2026-09-18T09:01:16Z",
-        "lang": "en",
-        "source": {
-            "id": "0efa652ad857b0970d5f941368f29ba0",
-            "name": "DefenseNews.com",
-            "url": "https://www.defensenews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "fa00189a62bff989b88eb06dcac06fb0",
-        "title": "AI race depends on data centers, power grid and digital infrastructure",
-        "description": "Data centers, power generation and a skilled workforce of electricians, welders and technicians are essential if America wants to lead the artificial intelligence race.",
-        "content": "NEWYou can now listen to Fox News articles!\nMost Americans don't think much about digital infrastructure because, for the most part, it is always there. We carry supercomputers in our pockets and expect instant access to our bank accounts, medical re... [5138 chars]",
-        "url": "https://www.foxnews.com/opinion/america-runs-data-dont-build-infrastructure-china-will",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Greg-Abbot-data-centers-Texas-002.jpg",
-        "publishedAt": "2026-09-18T09:00:30Z",
+        "id": "f77add8586e3869da1bb4e96723f8bc5",
+        "title": "Anthropic's Claude leads more than a quarter of company's artificial intelligence R&D",
+        "description": "Claude, first launched in March 2023, has taken an extraordinarily active role in building new AI models for Anthropic. The company, eying an IPO later this fall, said Claude is still working under human guidance and supervision.",
+        "content": "OpenAI released information about six times its models went rogue in recent months as industry leaders continue to call for a slowdown in AI research.\nThe company says it found examples of its AI models creating self-generated instructions, instructi... [1154 chars]",
+        "url": "https://www.foxnews.com/live-news/ai-news-openai-anthropic-claude-artificial-intelligence-rogue-debate-09-18-26",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/7912b03281ee5c8c1d6d2e25c4ac3797.jpg",
+        "publishedAt": "2026-09-18T11:10:24Z",
         "lang": "en",
         "source": {
             "id": "8da923084554b2821233d6c5c5f02c97",
@@ -80,83 +128,35 @@
         }
     },
     {
-        "id": "024982788bcf3001f1321cfc45b33f65",
-        "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-        "description": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
-        "content": "Concerns about an AI-induced apocalypse are reaching a fever pitch, from Silicon Valley to Washington, DC.\nOne of the top theories about how a rogue AI will wipe us out? Biological weapons.\nEarlier this summer, AI CEOs called for new laws to control ... [7173 chars]",
-        "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-        "image": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/191:100/w_1280,c_limit/091526-Bioweapon%20AI.jpg",
-        "publishedAt": "2026-09-18T09:00:00Z",
+        "id": "62ba78b29a585a0c664fe8222775d43a",
+        "title": "Exclusive - Seven-Figure Ad Buy Spotlights Mike Rogers over Abdul El-Sayed on AI Safeguards in Michigan",
+        "description": "A new seven-figure advertising campaign in Michigan is highlighting Republican Senate candidate Mike Rogers’ call for a national security framework governing artificial intelligence as Americans increasingly pressure Washington to adopt safeguards for the emerging technology. | Politics",
+        "content": "A new seven-figure advertising campaign in Michigan is highlighting Republican Senate candidate Mike Rogers’ call for a national security framework governing artificial intelligence as Americans increasingly pressure Washington to adopt safeguards fo... [1820 chars]",
+        "url": "https://www.breitbart.com/politics/2026/09/18/exclusive-seven-figure-ad-buy-spotlights-mike-rogers-over-abdul-el-sayed-on-ai-safeguards-in-michigan/",
+        "image": "https://media.breitbart.com/media/2026/09/GettyImages-2294587148-640x335.png",
+        "publishedAt": "2026-09-18T11:07:44Z",
         "lang": "en",
         "source": {
-            "id": "b683218c3952d77a76b7bda7512f2f6e",
-            "name": "WIRED",
-            "url": "https://www.wired.com",
+            "id": "85b540771682043e2a9f294068f5345b",
+            "name": "Breitbart News Network",
+            "url": "https://www.breitbart.com",
             "country": "us"
         }
     },
     {
-        "id": "aa1a749ee9ff971d69f4bb7a05cb0b33",
-        "title": "AI use in South Carolina continues to grow unregulated",
-        "description": "South Carolina has lagged behind other states in adopting regulations around the rapidly evolving artificial intelligence space. The Statehouse is trying to catch up, but has done little to rein in the industry.",
-        "content": "COLUMBIA — In today’s world, if you make a business phone call, should you have a legal right to know if the voice on the other end is live or AI?\nThat’s just one of the scenarios South Carolina lawmakers are grappling with as the artificial intellig... [7449 chars]",
-        "url": "https://www.postandcourier.com/politics/south-carolina-artificial-intelligence-regulations-statehouse/article_3b8540bf-3e86-4822-b7fa-111ffd62e81d.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/2/7b/27b7f46f-f145-42d2-8826-78d4071890be/6aac3d146fe1f.image.jpg?crop=1660%2C873%2C0%2C187&resize=1200%2C631&order=crop%2Cresize",
-        "publishedAt": "2026-09-18T09:00:00Z",
+        "id": "46309a6e0914f901e5273707f5c7f504",
+        "title": "Embassy Developments Reimagines Real Estate Marketing with 'Natural Intelligence'",
+        "description": "Unveils new brand campaign for Embassy Origins putting nature, not home, at the centre of the story Bengaluru, Karnataka, India (NewsVoir) At a time when Artificial Intelligence is increasingly shaping our future, Embassy Developments Limited (EDL) is exploring a different...",
+        "content": "Unveils new brand campaign for Embassy Origins putting nature, not home, at the centre of the story Bengaluru, Karnataka, India (NewsVoir) At a time when Artificial Intelligence is increasingly shaping our future, Embassy Developments Limited (EDL) i... [8082 chars]",
+        "url": "https://www.tribuneindia.com/news/business/embassy-developments-reimagines-real-estate-marketing-with-natural-intelligence-2-2/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRmNDdkYjYwLWIzNTAtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+        "publishedAt": "2026-09-18T11:03:22Z",
         "lang": "en",
         "source": {
-            "id": "c1903669db0b115cc673ce9c333a70dd",
-            "name": "Charleston Post and Courier",
-            "url": "https://www.postandcourier.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "a36b0a04a6f2ca696fd5e8c7d4ef29fd",
-        "title": "Pa. Gov. Shapiro: Congress, federal government must regulate AI",
-        "description": "At an artificial intelligence summit in Pittsburgh, the governor challenged the federal government to regulate artificial intelligence for safer use.",
-        "content": "Pennsylvania Gov. Josh Shapiro joined the chorus of leaders in the artificial intelligence, or AI, industry calling for stronger regulations and controls over the technology some fear could take over the world.\nAnd while the Democratic governor seeki... [3334 chars]",
-        "url": "https://www.goerie.com/story/news/politics/state/2026/09/18/josh-shapiro-stacy-garrity-governor-pennsylvania-ai-artificial-intelligence-donald-trump-data-center/91816057007/",
-        "image": "https://www.goerie.com/gcdn/authoring/authoring-images/2026/06/26/NPOR/90713121007-img-0138-2.JPG?crop=4733,2664,x0,y242&width=3200&height=1802&format=pjpg&auto=webp",
-        "publishedAt": "2026-09-18T08:56:21Z",
-        "lang": "en",
-        "source": {
-            "id": "88edaca11f69edd554d0622b0c30ed29",
-            "name": "Erie Times-News",
-            "url": "https://www.goerie.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "f01b293f139cd39f8c550be1ca881160",
-        "title": "Amazon Enters AI Safety Fray, Calls For \"Rigorous Testing,\" Safeguards",
-        "description": "Amazon develops AI models through its Amazon Web Services subsidiary and in a unit devoted to artificial general intelligence, or AGI, in part to power voice assistant Alexa, among other services",
-        "content": "San Francisco: Amazon weighed in on the artificial intelligence safety debate roiling Silicon Valley, saying AI labs should ‌ensure models are released only when they are safe and fully tested, but stopped short of calling for an industry slowdown.\n\"... [2704 chars]",
-        "url": "https://www.deccanchronicle.com/technology/amazon-enters-ai-safety-fray-calls-for-rigorous-testing-safeguards-1988441",
-        "image": "https://www.deccanchronicle.com/h-upload/2026/09/18/2090334-amazon.jpg",
-        "publishedAt": "2026-09-18T08:38:39Z",
-        "lang": "en",
-        "source": {
-            "id": "214d496d625fc657723cf4da80cff8ce",
-            "name": "Deccan Chronicle",
-            "url": "https://www.deccanchronicle.com",
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
             "country": "in"
-        }
-    },
-    {
-        "id": "03a0f7ec185af423f84549a4ba98099a",
-        "title": "Meta's next AI smart glasses could remove the camera",
-        "description": "Meta's next AI smart glasses could make this controversial feature disappear . Meta could soon release Artificial Intelligence (AI) smart glasses without built-in cameras",
-        "content": "Meta could soon release Artificial Intelligence (AI) smart glasses without built-in cameras.\nThe smart specs, codenamed internally as Luna, are expected to be presented at the company's annual Connect developer conference on September 23-24, accordin... [1123 chars]",
-        "url": "https://www.gbnews.com/tech/meta-ai-smart-glasses-camera",
-        "image": "https://www.gbnews.com/media-library/kylie-jenner-wearing-meta-ai-glasses.png?id=67790195&width=1200&height=600&coordinates=0%2C52%2C0%2C59",
-        "publishedAt": "2026-09-18T08:38:02Z",
-        "lang": "en",
-        "source": {
-            "id": "0c047612bc7bc0113342d2651f47b208",
-            "name": "GB News",
-            "url": "https://www.gbnews.com",
-            "country": "gb"
         }
     }
 ]
