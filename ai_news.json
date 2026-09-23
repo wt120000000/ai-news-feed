@@ -1,124 +1,60 @@
 [
     {
-        "id": "40fd9e731b153eb5ab2613af31e2a11b",
-        "title": "China seeking to establish new AI hotline to deal with national security AI threats",
-        "description": "BEIJING, Sep 22: The US is seeking to establish a new 'notification mechanism' with China that would allow mutual alerts in case an incident regarding artificial intelligence becomes potent enough to pose a threat to national security, even as President...",
-        "content": "BEIJING, Sep 22: The US is seeking to establish a new \"notification mechanism\" with China that would allow mutual alerts in case an incident regarding artificial intelligence becomes potent enough to pose a threat to national security, even as Presid... [3981 chars]",
-        "url": "https://www.dailyexcelsior.com/us-china-seeking-to-establish-new-ai-hotline-to-deal-with-national-security-ai-threats/",
-        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTgwYTNiNmMwLWI2ZDgtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-        "publishedAt": "2026-09-22T22:54:00Z",
+        "id": "a4d1924e46e49c126978e18ce221c288",
+        "title": "China's Xi kicks off state visit to Washington on Wednesday with a rare planeside welcome from Trump",
+        "description": "When Chinese President Xi Jinping arrives in Washington, he’s expected to get a rare greeting from President Donald Trump, who will be on the tarmac to welcome his counterpart’s plane instead of waiting for him to drive up to the White House. Trump’s decision to greet Xi at Joint Base Andrews on Wednesday just outside Washington shows how far the U.S. president is going to honor China’s leader as he makes his first state visit in more than a decade. The ceremonial patina may help mask some of the tensions between the two countries over issues like trade and artificial intelligence.",
+        "content": "WASHINGTON (AP) — When Chinese President Xi Jinping arrives in Washington on Wednesday, he's expected to get a rare greeting from President Donald Trump, who will be on the tarmac to welcome his counterpart's plane instead of waiting for him to drive... [756 chars]",
+        "url": "https://www.ajc.com/news/2026/09/chinas-xi-kicks-off-state-visit-to-washington-on-wednesday-with-a-rare-planeside-welcome-from-trump/",
+        "image": "https://images.ajc.com/resizer/v2/OT4UQ4YLFRDRZEHWTFQUUBV7MM.jpg?auth=ac37435fe9e45ec5d0dd5c540d639c9f0002d99e7ff81435b18e7323e476cd12&width=1200&height=630&smart=true",
+        "publishedAt": "2026-09-23T04:13:10Z",
         "lang": "en",
         "source": {
-            "id": "28bc60a23a7bf89e60f893506992a3fe",
-            "name": "Daily Excelsior",
-            "url": "https://www.dailyexcelsior.com",
+            "id": "79e9a45376a66fd7e1a4e68bba928c39",
+            "name": "The Atlanta Journal-Constitution",
+            "url": "https://www.ajc.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "93295a796625d280a785fe06e03df5ab",
+        "title": "CNG pumps check for expired cylinder certificates automatically now: IGL has started using cameras to match vehicle number plates with hydro test records before refuelling",
+        "description": "Indraprastha Gas Limited has rolled out an automated vehicle verification system at ten Delhi retail outlets, using cameras and artificial intelligence to check CNG cylinder hydro-test certificates before vehicles are allowed to refuel, as part of an ongoing safety enforcement drive.",
+        "content": "Synopsis\nIndraprastha Gas Limited has rolled out an automated vehicle verification system at ten Delhi retail outlets, using cameras and artificial intelligence to check CNG cylinder hydro-test certificates before vehicles are allowed to refuel, as p... [4865 chars]",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/cng-pumps-can-check-for-expired-cylinder-certificates-automatically-now-igl-has-started-using-cameras-to-match-vehicle-number-plates-with-hydro-test-records-before-allowing-refuelling/articleshow/134424918.cms",
+        "image": "https://img.etimg.com/thumb/msid-134425554,width-1200,height-630,imgsize-176911,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-09-23T04:13:00Z",
+        "lang": "en",
+        "source": {
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
             "country": "in"
         }
     },
     {
-        "id": "771b0a48c019f9bc1dd58e4dc48838f8",
+        "id": "245a46a4cc47400f19f3e4d6861ad711",
+        "title": "Alibaba unveils what it calls China’s most powerful chip and ambitious AI model plans",
+        "description": "China’s Alibaba unveiled new artificial intelligence chip technologies and plans for more powerful models on Tuesday, including what it said was China’s most powerful AI chip.",
+        "content": "HONG KONG — China’s Alibaba unveiled new artificial intelligence chip technologies and plans for more powerful models on Tuesday, including what it said was China’s most powerful AI chip, days ahead of a meeting between Chinese and U.S. leaders at wh... [3877 chars]",
+        "url": "https://www.nbcnews.com/world/asia/china-alibaba-unveils-powerful-chip-ambitious-ai-model-plans-rcna599343",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260922-alibaba-hq-vsb-2352-bddc35.jpg",
+        "publishedAt": "2026-09-23T04:08:02Z",
+        "lang": "en",
+        "source": {
+            "id": "77b86639d1384ac68141803ec5db27c0",
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "af7d9b0cee4ea09ccbc4a3fb4b05cf87",
         "title": "Worries about an AI internet takeover gain new urgency among doomsday scenarios",
-        "description": "In a summer filled with revelations about artificial intelligence’s rapid development, researchers were especially alarmed by runaway bots finding",
-        "content": "In a summer filled with revelations about artificial intelligence’s rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another.\nIn a su... [5674 chars]",
-        "url": "https://www.breitbart.com/news/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
-        "image": "https://media.breitbart.com/media/2026/09/wi/ap/anthropic-researcher-resignation-85781-anthropic-researcher-resignation-anthropic-website-640x335.jpg",
-        "publishedAt": "2026-09-22T22:49:31Z",
-        "lang": "en",
-        "source": {
-            "id": "85b540771682043e2a9f294068f5345b",
-            "name": "Breitbart News Network",
-            "url": "https://www.breitbart.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b72bb8424883da35578ba04bb9ea047a",
-        "title": "AI Ads Flood Campaign Trail Despite Growing Data Center Outrage",
-        "description": "At least 164 political advertisements this year were generated or enhanced by artificial intelligence (AI), according to a Wesleyan Media Project report, as voter frustration over data center construction intensifies across the country. About 80% of those ads came from Republican candidates or GOP groups, the report said. Examples include a Texas Senate race ad […]",
-        "content": "At least 164 political advertisements this year were generated or enhanced by artificial intelligence (AI), according to a Wesleyan Media Project report, as voter frustration over data center construction intensifies across the country.\nAbout 80% of ... [5628 chars]",
-        "url": "https://www.naturalnews.com/2026-09-22-ai-ads-flood-campaign-trail-despite-outrage.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/ai-generated-political-ads-deepfakes-data-center-backlash-4349-original.jpg",
-        "publishedAt": "2026-09-22T22:20:22Z",
-        "lang": "en",
-        "source": {
-            "id": "188e9ebf53d05fc7ba360240a0b28154",
-            "name": "Natural News",
-            "url": "https://www.naturalnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "9acd38f3b785f57b856bd1bd62888988",
-        "title": "Trump and world leaders debate future of AI",
-        "description": "Visions of the future straight out of comic books are playing out at the United Nations as world leaders talk about the threat — or promise — of artificial intelligence.",
-        "content": "UNITED NATIONS — It’s killer robots versus super intelligence.\nVisions of the future straight out of comic books are playing out at the United Nations as world leaders talk about the threat — or promise — of artificial intelligence.\nOnce again it was... [5337 chars]",
-        "url": "https://www.cp24.com/news/world/2026/09/22/is-it-killer-robots-or-super-intelligence-at-the-un-leaders-see-both/",
-        "image": "https://www.cp24.com/resizer/v2/5SKH3CEV4VAHGQWYQJ5IXUYCKE.jpg?smart=true&auth=b2eaed49754c2dffd6fe2b333d4c45b4a4a493b24d21d4e7ecd10e85c0c10989&width=1200&height=630",
-        "publishedAt": "2026-09-22T22:15:14Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "2143a2ee1bb8d5d7fc3954fb40ffb66f",
-        "title": "Wing Forces of Using AI to Whitewash War Crimes – NaturalNews.com",
-        "description": "Right-wing forces in Japan are using artificial intelligence (AI) technologies to filter historical archives in an effort to whitewash responsibility for war crimes and distort historical truth, Chinese Ministry of Foreign Affairs (MFA) spokesman Guo Jiakun said on Sept. 18. Guo made the statement during a briefing in Beijing, according to an account published by […]",
-        "content": "Right-wing forces in Japan are using artificial intelligence (AI) technologies to filter historical archives in an effort to whitewash responsibility for war crimes and distort historical truth, Chinese Ministry of Foreign Affairs (MFA) spokesman Guo... [5804 chars]",
-        "url": "https://www.naturalnews.com/2026-09-22-china-japanese-right-wingers-ai-whitewash-crimes.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/artificial-intelligence-war-crimes-historical-revisionism-4270-original.jpg",
-        "publishedAt": "2026-09-22T22:10:46Z",
-        "lang": "en",
-        "source": {
-            "id": "188e9ebf53d05fc7ba360240a0b28154",
-            "name": "Natural News",
-            "url": "https://www.naturalnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "c7565bb5633e7c2beaacece4dc861624",
-        "title": "AI Governance Must Not Become a Geopolitical Battlefield",
-        "description": "Both leaders must recognize a fundamental reality: framing artificial intelligence as a geopolitical battleground hinders our ability to manage its real, objective risks.",
-        "content": "As Chinese President Xi Jinping and U.S. President Donald Trump prepare to meet next week, artificial intelligence governance will stand as one of the most urgent yet fraught items on their agenda. The rapid evolution of AI models and autonomous syst... [6347 chars]",
-        "url": "https://moderndiplomacy.eu/2026/09/23/ai-governance-must-not-become-a-geopolitical-battlefield/",
-        "image": "https://moderndiplomacy.eu/wp-content/uploads/2026/05/Trump-Xi-Jinping.jpg",
-        "publishedAt": "2026-09-22T22:00:29Z",
-        "lang": "en",
-        "source": {
-            "id": "f11e9506aaab942b5eafbb067eb85c51",
-            "name": "Modern Diplomacy",
-            "url": "https://moderndiplomacy.eu",
-            "country": "fr"
-        }
-    },
-    {
-        "id": "50c9ea8bf468e15ecdc321dfb5ab3788",
-        "title": "Can Xi and Trump use their leverage to actually make progress?",
-        "description": "Analysts agree that keeping ties stable will be a priority when the leaders meet, and artificial intelligence could be an area for cooperation.",
-        "content": "When the presidents of the United States and China meet in Washington, the world will be watching to see whether their two countries can make good on their agreement to work towards “constructive strategic stability”. In the fifth part of a series, F... [267 chars]",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3368375/can-xi-and-trump-use-their-leverage-actually-make-progress",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/22/c78657fa-d1b1-4551-a32c-4270f90a9388_355cd60a.jpg?itok=Bye6435X&v=1790066679",
-        "publishedAt": "2026-09-22T22:00:06Z",
-        "lang": "en",
-        "source": {
-            "id": "d6397b77175680e2678c0d60edcee7af",
-            "name": "South China Morning Post",
-            "url": "https://www.scmp.com",
-            "country": "hk"
-        }
-    },
-    {
-        "id": "e89a97ac94823d54e843472f3b8fc5c8",
-        "title": "Is it 'killer robots' or 'super intelligence'? At the UN, leaders see both",
-        "description": "World leaders are painting quite different views of the future of artificial intelligence at the United Nations, with colorful phrases such as killer robots and super intelligence.",
-        "content": "CAMEROON – It's killer robots versus super intelligence.\nVisions of the future straight out of comic books are playing out at the United Nations as world leaders talk about the threat — or promise — of artificial intelligence.\nOnce again it was Donal... [5371 chars]",
-        "url": "https://www.clickondetroit.com/news/world/2026/09/22/is-it-killer-robots-or-super-intelligence-at-the-un-leaders-see-both/",
-        "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/CPHCUXTGYVF53FAUEM3VA55I4U.jpg?api_key=clickondetroit_06f87fefb2123598",
-        "publishedAt": "2026-09-22T21:58:35Z",
+        "description": "In a summer filled with revelations about artificial intelligence’s rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another.",
+        "content": "In a summer filled with revelations about artificial intelligence's rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another.\nCould a... [5431 chars]",
+        "url": "https://www.clickondetroit.com/business/2026/09/23/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+        "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/FM3DS6PP5FBWDFQCT5OSGDN34E.jpg?api_key=clickondetroit_06f87fefb2123598",
+        "publishedAt": "2026-09-23T04:00:37Z",
         "lang": "en",
         "source": {
             "id": "35515662ec044d3f94b543cd8802d63f",
@@ -128,35 +64,99 @@
         }
     },
     {
-        "id": "afc1748c11a193936918bfe1de24a5f8",
-        "title": "Anthropic, OpenEvidence partner to bring medical AI worldwide",
-        "description": "Artificial intelligence startup Anthropic and medical knowledge platform OpenEvidence are collaborating to bring AI-powered clinical decision support to physicians in regions without access to the technology, the companies said on Tuesday.",
-        "content": "Sept 22 (Reuters) - Artificial intelligence startup Anthropic and medical knowledge platform OpenEvidence are collaborating to bring AI-powered clinical decision support to physicians in regions without access to the technology, the companies said on... [2880 chars]",
-        "url": "https://www.reuters.com/legal/litigation/anthropic-openevidence-partner-bring-medical-ai-worldwide-2026-09-22/",
-        "image": "https://www.reuters.com/resizer/v2/LQPQI2GQCNK6ZPQSJFVU7X63KY.jpg?auth=6e86e19832601a12f719839c65bc9f4b1e78ac06631ceeaeb3fc68e5e8db7ea8&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-09-22T21:31:41Z",
+        "id": "346b953cac2aa299a8b0f322706f6a55",
+        "title": "Alibaba Cloud set to open new data centres in Europe next year as overseas push speeds up",
+        "description": "The tech giant is set to add extra capacity to help international clients deploy real-world artificial intelligence.",
+        "content": "Alibaba Cloud, Alibaba Group Holding’s cloud business unit, is set to launch data centres in Turkey, Finland and the Netherlands over the next 12 months, speeding up an overseas push as it seeks to win enterprise customers through its “full stack AI ... [843 chars]",
+        "url": "https://www.scmp.com/tech/big-tech/article/3368454/alibaba-cloud-set-open-new-data-centres-europe-next-year-overseas-push-speeds",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/23/6e8ccd4d-f3e4-4368-a925-62a2162c025f_63b0fb5a.jpg?itok=QdWeoTJH&v=1790134207",
+        "publishedAt": "2026-09-23T04:00:10Z",
         "lang": "en",
         "source": {
-            "id": "da5c26287bdd02563a2c32b55cb12051",
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
+            "id": "d6397b77175680e2678c0d60edcee7af",
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com",
+            "country": "hk"
+        }
+    },
+    {
+        "id": "b5f07cd41fa8a0c0b86a33a9a43c8c92",
+        "title": "OpenAI and Anthropic CEOs Join UN Security Council AI Briefing",
+        "description": "Dario Amodei and Sam Altman are expected to join other AI leaders at a UN Security Council meeting focused on artificial intelligence risks and international security.",
+        "content": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman are expected to brief the United Nations Security Council on Wednesday as the body examines artificial intelligence risks and their implications for international security.\nAccording to CNBC, the U... [1121 chars]",
+        "url": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M363YGST64BF2W89BBFFTBJA/ai-un-flags.png",
+        "publishedAt": "2026-09-23T03:33:15Z",
+        "lang": "en",
+        "source": {
+            "id": "89726dd24a4d78041c65af3b4a364b31",
+            "name": "Cointelegraph",
+            "url": "https://cointelegraph.com",
             "country": "us"
         }
     },
     {
-        "id": "ff44295b035e6917105661272844640f",
-        "title": "Governor General talks Alberta, AI and UN",
-        "description": "Gov. Gen. Louise Arbour discussed Canadian unity, artificial intelligence, and the relevance on the United Nations in a wide-ranging exclusive interview with CTV News.",
-        "content": "TORONTO – Less than four weeks before Albertans head to the polls in a referendum that could set in motion a future vote on the province’s independence from Canada, the Governor General says she believes the case for “unified, strong country … whethe... [5589 chars]",
-        "url": "https://www.cp24.com/news/canada/2026/09/22/exclusive-canada-at-a-critical-part-of-its-history-governor-general-says-in-wide-ranging-interview/",
-        "image": "https://www.cp24.com/resizer/v2/M7EYY5TD7JFU7DKDZVQ6EJCDQQ.jpg?smart=true&auth=899202c19391bfb973461c961b887a3d288af2f7a0c5d9f193ade38aa3a62c88&width=1200&height=630",
-        "publishedAt": "2026-09-22T21:01:13Z",
+        "id": "bdaedf8be67f18d0a2df94b53bec1b96",
+        "title": "Singapore’s record AI boom unlikely to move MAS: Analysts",
+        "description": "SINGAPORE's electronics exports grew at an unprecedented pace in August as the artificial-intelligence boom shows no signs of waning.",
+        "content": "Singapore’s electronics exports grew at an unprecedented pace in August as the artificial-intelligence boom shows no signs of waning.\nWhile boosting the city-state’s economy, the surge is unlikely to stoke price pressures and push the central bank to... [2722 chars]",
+        "url": "https://www.thestar.com.my/business/business-news/2026/09/23/singapores-record-ai-boom-unlikely-to-move-mas-analysts",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/09/23/4124641.jpg",
+        "publishedAt": "2026-09-23T03:25:00Z",
         "lang": "en",
         "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "24f05791fd174972969f91ebc25e2513",
+        "title": "Penn Engineering announces joint master’s degree in AI, data science",
+        "description": "Penn’s School of Engineering and Applied Sciences recently launched a master’s degree in data science and artificial intelligence.",
+        "content": "Penn’s School of Engineering and Applied Sciences recently launched a master’s degree in data science and artificial intelligence.\nThe Master of Science program — which will take its first students in fall 2027 — will be jointly administered by the C... [2177 chars]",
+        "url": "https://www.europesays.com/3267460/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/09/999156b8-6708-47ba-978b-375b35d07d48.sized-1000x1000.jpg",
+        "publishedAt": "2026-09-23T03:21:20Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "34ef2ab08c8e258d500aa375bfd956f5",
+        "title": "Agentic Security Starts With Data that Machines Can Trust",
+        "description": "The age of artificial intelligence has brought an end to the security operating model that served organisations for much of the past decade.",
+        "content": "GUEST OPINION: The age of artificial intelligence has brought an end to the security operating model that served organisations for much of the past decade.\nAttackers are increasingly using automation to identify weaknesses, adapt their tactics, and m... [5024 chars]",
+        "url": "https://itwire.com/guest-articles/guest-opinion/agentic-security-starts-with-data-that-machines-can-trust",
+        "image": "https://media.itwire.com/2026/09/23/agentic-security-starts-with-data-that-machines-can-trust-f9f1f6ca9cf1.webp",
+        "publishedAt": "2026-09-23T03:17:49Z",
+        "lang": "en",
+        "source": {
+            "id": "10cbfb3760cfcdeb78c733c527f0e814",
+            "name": "iTWire",
+            "url": "https://itwire.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "ab55771b12a79b0d2fad87ab51c84870",
+        "title": "Gold Silver Rate Today Live Updates: Spot gold slips 0.2%; silver, platinum and palladium also decline",
+        "description": "Asian shares extended their winning streak to a sixth session on renewed optimism over artificial intelligence demand, with technology stocks leading",
+        "content": "Spot gold fell 0.2% to $4,345.99 per ounce as of 0147 GMT on Wednesday, while US gold futures for December delivery rose 0.2% to $4,382.70.\nAmong other precious metals, spot silver fell 0.4% to $66.78 an ounce, platinum declined 0.8% to $1,818.21, wh... [2046 chars]",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/134424854.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134424854,width-1280,height-720,imgsize-82374,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-23T03:13:29Z",
+        "lang": "en",
+        "source": {
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
         }
     }
 ]
