@@ -1,5 +1,69 @@
 [
     {
+        "id": "f7e8e78744362de7db29ae78782b0cb8",
+        "title": "One of Steven Spielberg’s Most Divisive Sci",
+        "description": "It's fair to say artificial intelligence is a lot less fictional than it first felt 25 years ago, but thankfully ChatGPT, Claude and Grok haven't been looking",
+        "content": "It’s fair to say artificial intelligence is a lot less fictional than it first felt 25 years ago, but thankfully ChatGPT, Claude and Grok haven’t been looking for the Blue Fairy lately, just threatening to become self-aware. Steven Spielberg tried to... [2351 chars]",
+        "url": "https://www.europesays.com/3288324/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/10/1791067005.jpeg",
+        "publishedAt": "2026-10-03T22:36:43Z",
+        "lang": "en",
+        "source": {
+            "id": "ed23d65928efaec6669dd2212a773d9f",
+            "name": "EUROPE SAYS",
+            "url": "https://www.europesays.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "084cbef5e2fe4712559e9de1009ff70e",
+        "title": "Commentary: AI can be more comforting than a person. Here's what humans can learn from it",
+        "description": "Used carefully, generative artificial intelligence could help us become better at supporting one another, say psychology researchers.",
+        "content": "DURHAM, England: Some of us now use generative artificial intelligence (gen AI) to talk through difficult feelings. We may ask a chatbot to write an email or plan a holiday, but we also tell it that we have had a rotten day or feel anxious about a pr... [5753 chars]",
+        "url": "https://www.channelnewsasia.com/commentary/ai-chatbot-friend-help-problems-comfort-6391616",
+        "image": "https://dam.mediacorp.sg/image/upload/s--vPMi7mkl--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/08/10/christian_castillo_chatting_with_andre_his_friend_.png?itok=wEScENzi",
+        "publishedAt": "2026-10-03T22:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "09131c39169c9c96230862dc4c1fa727",
+            "name": "CNA",
+            "url": "https://www.channelnewsasia.com",
+            "country": "sg"
+        }
+    },
+    {
+        "id": "ef53f9d6317d69c2efe882fb54313ce0",
+        "title": "Three Times, Elon Musk Entered an Industry and Took It Over. Top Tech Expert Says He's Doing It a Fourth Time Right Now.",
+        "description": "One of America’s top tech experts lays out a pattern in Musk's career, payments, cars, and space, and explains artificial intelligence is next, following the same playbook almost nobody sees coming.",
+        "content": "One of America’s top tech experts lays out a pattern in Musk's career, payments, cars, and space, and explains artificial intelligence is next, following the same playbook almost nobody sees coming.\nWashington, D.C., Oct. 03, 2026 (GLOBE NEWSWIRE) --... [5370 chars]",
+        "url": "https://www.manilatimes.net/2026/10/04/tmt-newswire/globenewswire/three-times-elon-musk-entered-an-industry-and-took-it-over-top-tech-expert-says-hes-doing-it-a-fourth-time-right-now/2438485",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=75&f=webp&v=1",
+        "publishedAt": "2026-10-03T20:34:10Z",
+        "lang": "en",
+        "source": {
+            "id": "7c666ee953f873d3057b310220f510df",
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net",
+            "country": "ph"
+        }
+    },
+    {
+        "id": "409f4aa53d5ddeb61b954cb756cee4ec",
+        "title": "CEO of Leftist Propaganda Site Wikipedia Admits Website Traffic is Cratering amid AI Revolution",
+        "description": "Wikipedia is hemorrhaging traffic as the artificial intelligence revolution increasingly makes the left-wing online encyclopedia redundant.",
+        "content": "Wikipedia is hemorrhaging traffic as the artificial intelligence revolution increasingly makes the left-wing online encyclopedia redundant.\nWikimedia Foundation CEO Bernadette Meehan told Axios this week that Wikipedia page views fell eight percent i... [2439 chars]",
+        "url": "https://www.thegatewaypundit.com/2026/10/ceo-leftist-propaganda-site-wikipedia-admits-website-traffic/",
+        "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/10/03a468d4-4a54-48b3-970f-933688c09266-1200x630.png",
+        "publishedAt": "2026-10-03T18:40:01Z",
+        "lang": "en",
+        "source": {
+            "id": "c7b3fd167c575deb5133f19df6ed778f",
+            "name": "The Gateway Pundit",
+            "url": "https://www.thegatewaypundit.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "fa62cd48c5b651bc877b33239f582373",
         "title": "AI Researcher Warns Machines May Already Be Developing Languages Humans Can’t Fully Understand",
         "description": "Advanced artificial intelligence models may be less than a year away from inventing and deploying unique languages that humans would struggle to understand, a frontier AI researcher told Congress on Sept. 30 [1]. The Senate Homeland Security and Governmental Affairs Committee convened a hearing examining the threat that “rogue” AI may pose to U.S. national […]",
@@ -92,70 +156,6 @@
             "id": "9a9a0fb79c70bbf499d39baca94921ae",
             "name": "Times of India",
             "url": "https://timesofindia.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "36fdb9d03d9c0706accea00e579a1408",
-        "title": "Pune To Host Global Dialogue On Future Of English Language Education",
-        "description": "The future of English language and literature education will come under global discussion in Pune as educators and scholars examine the growing influence of artificial intelligence (AI), the National Education Policy (NEP) 2020, multilingual classrooms and changing pedagogical practices",
-        "content": "Pune: The future of English language and literature education will come under global discussion in Pune as educators and scholars examine the growing influence of artificial intelligence (AI), the National Education Policy (NEP) 2020, multilingual cl... [3950 chars]",
-        "url": "https://www.freepressjournal.in/pune/pune-to-host-global-dialogue-on-future-of-english-language-education",
-        "image": "https://media.assettype.com/freepressjournal/2026-10-03/58a2bs8m/1001102420.jpg",
-        "publishedAt": "2026-10-03T13:54:09Z",
-        "lang": "en",
-        "source": {
-            "id": "7eeaf9a839918543cc708f2d331c3be4",
-            "name": "Free Press Journal",
-            "url": "https://www.freepressjournal.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "046d844335ae5dccd26f9179b6b1b272",
-        "title": "Experts eye Alberta referendum as case study on impacts of artificial intelligence",
-        "description": "On any given day, says Aengus Bridgman, if you ask a popular artificial intelligence chatbot and a search engine whether taxes in an independent Alberta would be higher, it might say yes.",
-        "content": "EDMONTON — On any given day, says Aengus Bridgman, if you ask a popular artificial intelligence chatbot and a search engine whether taxes in an independent Alberta would be higher, it might say yes.\nA few hours later, it could be no.\nResponses from G... [5733 chars]",
-        "url": "https://www.cp24.com/news/canada/2026/10/03/experts-eye-alberta-referendum-as-case-study-on-impacts-of-artificial-intelligence/",
-        "image": "https://www.cp24.com/resizer/v2/EXTAFYNBESI77LMY754ALD6XZI.jpg?smart=true&auth=c78128ac4a9a2c7961047a16aecdcd7cae15068b7519b48c99dc4f011bab32c8&width=1200&height=630",
-        "publishedAt": "2026-10-03T13:54:01Z",
-        "lang": "en",
-        "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "1afa83a1fbcfefa90e4fc499530a6436",
-        "title": "Artificial Intelligence: Which jobs are going to be replaced by AI? Which age group will be exposed the most? Here's what experts say",
-        "description": "AI Impact on Jobs",
-        "content": "AI or artificial intelligence is witnessing exponential growth even as there are apprehensions about the impact of the latest technology especially on jobs and employment. However, as the AI race heats up between giant corporations, and leading econo... [4176 chars]",
-        "url": "https://www.europesays.com/3287589/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/10/artificial-intelligence-ai-jobs.jpg",
-        "publishedAt": "2026-10-03T13:51:15Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "3002c0b702da116e23d68890314c44a9",
-        "title": "OpenAI Safety Employee Quits, Calls For Nuclear-Level Safeguards",
-        "description": "A number of employees across the top AI companies in recent weeks have warned about the potential catastrophic risks from artificial intelligence. Some have gone so far as to say there's a chance the technology could one day wipe out the human race.",
-        "content": "An OpenAI employee focused on AI safety has quit the company and warned that top artificial intelligence firms aren't doing enough to mitigate the technology's risks, joining a growing chorus of employees raising alarms from within the industry.\nDavi... [1785 chars]",
-        "url": "https://www.ndtvprofit.com/business/openai-safety-employee-quits-calls-for-nuclear-level-safeguards-12134485",
-        "image": "https://c.ndtvimg.com/2026-10/o62kfnq_bb_625x300_03_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-10-03T13:46:39Z",
-        "lang": "en",
-        "source": {
-            "id": "73aabc646bff1356a46223f250cc6b52",
-            "name": "NDTV Profit",
-            "url": "https://www.ndtvprofit.com",
             "country": "in"
         }
     }
