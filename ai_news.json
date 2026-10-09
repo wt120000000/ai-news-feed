@@ -1,76 +1,28 @@
 [
     {
-        "id": "0ca52c0258997c468aacadbfdc143a43",
-        "title": "Japan and cybersecurity: What’s behind recent attacks and what’s being done?",
-        "description": "With artificial intelligence removing hurdles for would-be hackers, experts warn cybersecurity threats are becoming more sophisticated and widespread.",
-        "content": "Authorities are calling for renewed vigilance against cybersecurity threats after the disclosure of a flurry of incidents exposing users’ personal data, and as early figures show Japan may be headed for an unusually bad year for corporate data breach... [468 chars]",
-        "url": "https://www.japantimes.co.jp/business/2026/10/08/tech/focus-japan-data-leak/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/08/567569.jpg?v=3.1",
-        "publishedAt": "2026-10-08T09:05:12Z",
+        "id": "037a52511cd385108cfd116c8a9e9325",
+        "title": "Largest 2D map of the universe helps scientists discover new gravitational lenses",
+        "description": "Using data from the DESI Legacy Imaging Surveys, with help from artificial intelligence, an international team of scientists has discovered 70 new gravitational lenses—rare cosmic alignments that act as natural magnifying glasses. The new lenses further expand one of the largest collections of confirmed lenses to date and will allow scientists to study dark matter, galaxy evolution and the structure of the universe.",
+        "content": "Using data from the DESI Legacy Imaging Surveys, with help from artificial intelligence, an international team of scientists has discovered 70 new gravitational lenses—rare cosmic alignments that act as natural magnifying glasses. The new lenses furt... [7517 chars]",
+        "url": "https://phys.org/news/2026-10-largest-2d-universe-scientists-gravitational.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/largest-2d-map-of-the.jpg",
+        "publishedAt": "2026-10-08T13:40:12Z",
         "lang": "en",
         "source": {
-            "id": "4b9101ef61d45607a32072a7504f5fb0",
-            "name": "The Japan Times ",
-            "url": "https://www.japantimes.co.jp",
-            "country": "jp"
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
         }
     },
     {
-        "id": "4265fd79071e1b7b34bfbcec05fbc603",
-        "title": "Amazon layoffs hit India again: What severance pay can sacked workers expect?",
-        "description": "Amazon has cut fewer than 1,000 jobs in its Stores division as part of an ongoing corporate restructuring to prioritize massive investments in artificial intelligence infrastructure and data centers. The layoffs impact various business units including customer service, engineering, and marketplace support across multiple regions, with affected workers receiving severance and transition support.",
-        "content": "As Amazon prepares for its biggest sales event, the Great Indian festival, the e-commerce giant has initiated yet another round of job cuts. An official email statement from a company official on Wednesday said the latest layoffs will primarily affec... [1704 chars]",
-        "url": "https://www.theweek.in/news/biz-tech/2026/10/08/amazon-layoffs-hit-india-again-what-severance-pay-can-sacked-workers-expect.html",
-        "image": "https://img.theweek.in/content/dam/week/en/archive/news/biz-tech/images/2026/8/25/amazon-delivery.jpg",
-        "publishedAt": "2026-10-08T09:01:19Z",
-        "lang": "en",
-        "source": {
-            "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
-            "name": "THE WEEK",
-            "url": "https://www.theweek.in",
-            "country": "in"
-        }
-    },
-    {
-        "id": "5eecd1d3828e937d96fb4bf68eb31856",
-        "title": "Jio is teaching AI to run its telecom network",
-        "description": "Reliance Jio is transforming from a telecom provider to an AI-driven network, integrating artificial intelligence into its core operations beyond just powering applications.",
-        "content": "JioBrain is not just a single-purpose model but a platform that can enable multiple AI use cases across Jio's operations.\nThe company has also pitched it as something that could eventually cater to enterprises in different sectors.\nThis makes the pla... [1890 chars]",
-        "url": "https://www.newsbytesapp.com/news/science/jiobrain-could-make-ai-the-brain-behind-jio-s-network/story",
-        "image": "https://i.cdn.newsbytesapp.com/images/l142_13581791443734.jpg",
-        "publishedAt": "2026-10-08T08:53:07Z",
-        "lang": "en",
-        "source": {
-            "id": "eba2f6a49db29efc8343807ba675665f",
-            "name": "NewsBytes",
-            "url": "https://www.newsbytesapp.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "10db17a0eff3aeb5273b5724f40926be",
-        "title": "AI regulations coming soon in India: Govt to release consultation paper within a month, says Vaishnaw",
-        "description": "The government is preparing to release a consultation paper on artificial intelligence regulations very soon. Union Minister Ashwini Vaishnaw highlighted the importance of AI safety and deepfakes in this context. The proposed framework will prioritize a human-first approach to AI governance and implementation. Officials are currently gathering views on how best to regulate these emerging technologies.",
-        "content": "Synopsis\nThe government is preparing to release a consultation paper on artificial intelligence regulations very soon. Union Minister Ashwini Vaishnaw highlighted the importance of AI safety and deepfakes in this context. The proposed framework will ... [351 chars]",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-regulations-coming-soon-in-india-govt-to-release-consultation-paper-within-a-month-says-vaishnaw/articleshow/134785092.cms",
-        "image": "https://img.etimg.com/thumb/msid-134785223,width-1200,height-900,imgsize-67692,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-10-08T08:53:00Z",
-        "lang": "en",
-        "source": {
-            "id": "5464668c1f0466950a0b2fab5249ec6c",
-            "name": "The Economic Times",
-            "url": "https://economictimes.indiatimes.com",
-            "country": "in"
-        }
-    },
-    {
-        "id": "36cbe6f9783ebff0883e9c2239b0e414",
-        "title": "CoreWeave enters India with 240 MW AdaniConneX data center deal in Navi Mumbai",
-        "description": "CoreWeave entered India by expanding its AI Cloud platform through a collaboration with AdaniConneX, planning a 240-megawatt deployment in Navi Mumbai to bring its purpose-built artificial intelligence cloud infrastructure closer to customers.",
-        "content": "CoreWeave entered India by expanding its AI Cloud platform through a collaboration with AdaniConneX, planning a 240-megawatt deployment in Navi Mumbai to bring its purpose-built artificial intelligence cloud infrastructure closer to customers. The ne... [2079 chars]",
-        "url": "https://www.devdiscourse.com/article/business/3988899-coreweave-enters-india-with-240-mw-adaniconnex-data-center-deal-in-navi-mumbai",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/08_10_2026_14_20_56_6842071.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-10-08T08:51:03Z",
+        "id": "c8b95271cfafdce3139b77a1c1e961d6",
+        "title": "AI regulation consultation paper to be released next month, says Union Minister Ashwini Vaishnaw",
+        "description": "The central government will release a consultation paper on the regulation of artificial intelligence next month, Union Minister Ashwini Vaishnaw announced on Thursday.",
+        "content": "The central government will release a consultation paper on the regulation of artificial intelligence next month, Union Minister Ashwini Vaishnaw announced on Thursday. Speaking to the media after the launch of the World Bank's AI Report 2026, the mi... [2689 chars]",
+        "url": "https://www.devdiscourse.com/article/business/3989147-ai-regulation-consultation-paper-to-be-released-next-month-says-union-minister-ashwini-vaishnaw",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/08_10_2026_18_53_16_2550168.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-10-08T13:23:20Z",
         "lang": "en",
         "source": {
             "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -80,13 +32,13 @@
         }
     },
     {
-        "id": "8aa36070d8ebac9072da44d50b032ccd",
-        "title": "CoreWeave enters India with 240 MW AdaniConneX data center deal in Navi Mumbai",
-        "description": "CoreWeave entered India by expanding its AI Cloud platform through a collaboration with AdaniConneX, planning a 240-megawatt deployment in Navi Mumbai to bring its purpose-built artificial intelligence cloud infrastructure closer to customers.",
-        "content": "New Delhi [India], October 8 (ANI): CoreWeave entered India by expanding its AI Cloud platform through a collaboration with AdaniConneX, planning a 240-megawatt deployment in Navi Mumbai to bring its purpose-built artificial intelligence cloud infras... [2188 chars]",
-        "url": "https://www.tribuneindia.com/news/business/coreweave-enters-india-with-240-mw-adaniconnex-data-center-deal-in-navi-mumbai/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWI5MTVkMmUwLWMyZjQtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-        "publishedAt": "2026-10-08T08:46:09Z",
+        "id": "234335addc53b24709df11e2b9ae3642",
+        "title": "AI regulation consultation paper to be released next month, says Union Minister Ashwini Vaishnaw",
+        "description": "The central government will release a consultation paper on the regulation of artificial intelligence next month, Union Minister Ashwini Vaishnaw announced on Thursday.",
+        "content": "New Delhi [India], October 8 (ANI): The central government will release a consultation paper on the regulation of artificial intelligence next month, Union Minister Ashwini Vaishnaw announced on Thursday.\nSpeaking to the media after the launch of the... [2798 chars]",
+        "url": "https://www.tribuneindia.com/news/business/ai-regulation-consultation-paper-to-be-released-next-month-says-union-minister-ashwini-vaishnaw/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI4ZTBjYWYwLWMzMWItMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+        "publishedAt": "2026-10-08T13:21:18Z",
         "lang": "en",
         "source": {
             "id": "c5725557f39c24c8b029ee39900a8406",
@@ -96,13 +48,13 @@
         }
     },
     {
-        "id": "308e76773c9cbdda74a275f6e1324873",
-        "title": "CoreWeave enters India with 240 MW AdaniConneX data center deal in Navi Mumbai",
-        "description": "CoreWeave entered India by expanding its AI Cloud platform through a collaboration with AdaniConneX, planning a 240-megawatt deployment in Navi Mumbai to bring its purpose-built artificial intelligence cloud infrastructure closer to customers.",
-        "content": "New Delhi [India], October 8 (ANI): CoreWeave entered India by expanding its AI Cloud platform through a collaboration with AdaniConneX, planning a 240-megawatt deployment in Navi Mumbai to bring its purpose-built artificial intelligence cloud infras... [845 chars]",
-        "url": "https://www.aninews.in/news/business/coreweave-enters-india-with-240-mw-adaniconnex-data-center-deal-in-navi-mumbai20261008141555/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261008084542-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-10-08T08:45:55Z",
+        "id": "7fbd02396d7e67a556f60a3c6bb1c102",
+        "title": "AI regulation consultation paper to be released next month, says Union Minister Ashwini Vaishnaw",
+        "description": "The central government will release a consultation paper on the regulation of artificial intelligence next month, Union Minister Ashwini Vaishnaw announced on Thursday.",
+        "content": "New Delhi [India], October 8 (ANI): The central government will release a consultation paper on the regulation of artificial intelligence next month, Union Minister Ashwini Vaishnaw announced on Thursday.\nSpeaking to the media after the launch of the... [1006 chars]",
+        "url": "https://www.aninews.in/news/business/ai-regulation-consultation-paper-to-be-released-next-month-says-union-minister-ashwini-vaishnaw20261008184925/",
+        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261008131914-thumbnail-320x180-70.jpg",
+        "publishedAt": "2026-10-08T13:19:25Z",
         "lang": "en",
         "source": {
             "id": "f282f77e41f55d72f00fefcaccc92954",
@@ -112,51 +64,99 @@
         }
     },
     {
-        "id": "2153e71a09d3a5f8f9ae663032eb2b45",
-        "title": "FCC weighs relaxing robocall rules",
-        "description": "WASHINGTON -- The Federal Communications Commission is considering a request by a conservative group to loosen rules on political robocalls, including those with artificial intelligence-generated voices, before November's midterm elections.",
-        "content": "WASHINGTON -- The Federal Communications Commission is considering a request by a conservative group to loosen rules on political robocalls, including those with artificial intelligence-generated voices, before November's midterm elections.\nFederal l... [4160 chars]",
-        "url": "https://www.arkansasonline.com/news/2026/oct/08/fcc-weighs-relaxing-robocall-rules/",
-        "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213813877_213812987-75512f651ef944f4a827ebfb552409d9_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-        "publishedAt": "2026-10-08T08:33:00Z",
+        "id": "c469eff85e2ac4aff8f2734648584bf9",
+        "title": "Centre to unveil AI regulation roadmap within a month; industry to shoulder safety responsibility",
+        "description": "New Delhi: The Centre will release a consultation paper within a month to lay the groundwork for India's next set of artificial intelligence (AI)",
+        "content": "The Centre will release a consultation paper within a month to lay the groundwork for India's next set of artificial intelligence (AI) regulations.\nNew Delhi: The Centre will release a consultation paper within a month to lay the groundwork for India... [1716 chars]",
+        "url": "https://timesofindia.indiatimes.com/india/centre-to-unveil-ai-regulation-roadmap-within-a-month-industry-to-shoulder-safety-responsibility/articleshow/134791615.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134791818,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-08T13:12:00Z",
         "lang": "en",
         "source": {
-            "id": "69a24b80e5bce5a07f808f5ea84c434b",
-            "name": "Arkansas Online",
-            "url": "https://www.arkansasonline.com",
+            "id": "9a9a0fb79c70bbf499d39baca94921ae",
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "78ce6c1720e2c81edaa3d17280c0fdf6",
+        "title": "Amazon overhauls devices with pricier Alexa tablet, dumping Fire line",
+        "description": "The company said the Alexa tablet's improved speed and performance, artificial intelligence features and upgraded design warrant a higher price tag.",
+        "content": "Amazon on Thursday debuted a set of new, pricier Alexa tablets and said it's ditching its budget-friendly Fire lineup, marking a significant shift in the e-commerce juggernaut's devices strategy.\nThe company unveiled 8-inch, 11-inch and 12-inch model... [3838 chars]",
+        "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108374338-1791400240953-Tablets_Hero_1920x1080.png?v=1791400455&w=1920&h=1080",
+        "publishedAt": "2026-10-08T12:59:18Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
             "country": "us"
         }
     },
     {
-        "id": "3d919f757eb53b504fb7a0d379aa7f43",
-        "title": "Global Stocks Fall on Higher Oil Prices, AI Pullback",
-        "description": "By Joe Stonor\nU.S. stock futures fell and Treasury yields rose in early European trade, as rising oil prices and a fresh artificial-intelligence wobble combined to weigh on sentiment.\nNasdaq...",
-        "content": "By Joe Stonor\nU.S. stock futures fell and Treasury yields rose in early European trade, as rising oil prices and a fresh artificial-intelligence wobble combined to weigh on sentiment.\nNasdaq futures fell 0.5% after Samsung Electronics earnings in Kor... [2030 chars]",
-        "url": "https://www.marketscreener.com/news/global-stocks-fall-on-higher-oil-prices-ai-pullback-ce785dded18cf521",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-02-01T122709Z_1_LYNXMPED1026G_RTROPTP_2_USA-STOCKS.JPG",
-        "publishedAt": "2026-10-08T08:31:56Z",
+        "id": "19231cf949d3ec1c33bb7842793054e4",
+        "title": "India to release AI regulation consultation paper within a month, says Ashwini Vaishnaw",
+        "description": "The Centre will publish a consultation paper within a month that will form the foundation of India’s techno-legal regulatory framework for artificial intelligence | India News",
+        "content": "The government’s view is that AI cannot be regulated through legislation alone and requires a techno-legal approach, which the minister has said many times before, with stakeholders brought on board from the start. Much of the implementation, MeitY b... [3083 chars]",
+        "url": "https://www.hindustantimes.com/india-news/india-to-release-ai-regulation-consultation-paper-within-a-month-says-ashwini-vaishnaw-101791464351881.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/08/1600x900/logo/electronics-and-information-technology-minister-As_1791464463149_yQ00.jpg",
+        "publishedAt": "2026-10-08T12:59:11Z",
+        "lang": "en",
+        "source": {
+            "id": "21468bec836de1ebb209ff6f78fbfe3e",
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "a0cbd526c43a8ce32ea2d81e8aa60484",
+        "title": "BOJ raises economic assessment for Tohoku and Shikoku as tech demand remains strong",
+        "description": "Demand related to artificial intelligence remained strong, including for semiconductor manufacturing equipment and electronic components.",
+        "content": "The Bank of Japan revised up its economic assessment for two of the country’s nine regions in a quarterly report released Thursday while leaving it unchanged for the rest.\nThe central bank compiled the report at the day’s meeting of managers of its r... [2273 chars]",
+        "url": "https://www.japantimes.co.jp/business/2026/10/08/economy/boj-economic-assessment/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/08/567605.jpg?v=3.1",
+        "publishedAt": "2026-10-08T12:51:15Z",
+        "lang": "en",
+        "source": {
+            "id": "4b9101ef61d45607a32072a7504f5fb0",
+            "name": "The Japan Times ",
+            "url": "https://www.japantimes.co.jp",
+            "country": "jp"
+        }
+    },
+    {
+        "id": "c18dc68e16f8ee78f1a49aedfaec0051",
+        "title": "Softbank, Grab and Petros sign framework agreement to develop AI platform in Sarawak",
+        "description": "KUCHING: SoftBank Group Corp (SoftBank), Grab Holdings Ltd (Grab) and Petroleum Sarawak Bhd (Petros) today signed a framework agreement to explore developing an artificial intelligence (AI) and digital infrastructure platform in Sarawak.",
+        "content": "KUCHING: SoftBank Group Corp (SoftBank), Grab Holdings Ltd (Grab) and Petroleum Sarawak Bhd (Petros) today signed a framework agreement to explore developing an artificial intelligence (AI) and digital infrastructure platform in Sarawak.\nIn a joint s... [1909 chars]",
+        "url": "https://www.thestar.com.my/business/business-news/2026/10/08/softbank-grab-and-petros-sign-framework-agreement-to-develop-ai-platform-in-sarawak",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/10/08/4152277.jpg",
+        "publishedAt": "2026-10-08T12:47:00Z",
+        "lang": "en",
+        "source": {
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "1fbfddd060cd04f9552af7e87e492ef3",
+        "title": "Stock Futures Fall on Higher Oil Prices, AI Pullback -- Update",
+        "description": "By Joe Stonor\nFutures for the Dow Jones Industrial Average led a sharp selloff in U.S. stocks, as still higher Treasury yields, rising oil prices and a fresh artificial-intelligence wobble...",
+        "content": "By Joe Stonor\nFutures for the Dow Jones Industrial Average led a sharp selloff in U.S. stocks, as still higher Treasury yields, rising oil prices and a fresh artificial-intelligence wobble combined to weigh on sentiment.\nDow futures dropped 0.8%, whi... [2196 chars]",
+        "url": "https://www.marketscreener.com/news/stock-futures-fall-on-higher-oil-prices-ai-pullback-update-ce785ddfd88cf62d",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-01-18T122629Z_1_LYNXMPED0H0ZI_RTROPTP_2_USA-STOCKS.JPG",
+        "publishedAt": "2026-10-08T12:45:29Z",
         "lang": "en",
         "source": {
             "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
             "name": "MarketScreener",
             "url": "https://www.marketscreener.com",
             "country": "fr"
-        }
-    },
-    {
-        "id": "e1a40963d5969d99107a6a50cea8d6d7",
-        "title": "Mastercard Bets Shoppers Will Trust Agents a Purchase at a T…",
-        "description": "Consumers won’t hand artificial intelligence agents unrestricted purchasing authority on day one, but repeated successful transactions could expand what",
-        "content": "Consumers won’t hand artificial intelligence agents unrestricted purchasing authority on day one, but repeated successful transactions could expand what they’re willing to delegate.\nIt’s a topic that now dominates agentic AI discussions. The first ti... [3346 chars]",
-        "url": "https://www.europesays.com/3297697/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/10/1791447078.png",
-        "publishedAt": "2026-10-08T08:11:15Z",
-        "lang": "en",
-        "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
         }
     }
 ]
