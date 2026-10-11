@@ -1,5 +1,85 @@
 [
     {
+        "id": "810aa88598d85463329146d0c5df7050",
+        "title": "AI issuers upend debt market safety valve as borrowing costs rise",
+        "description": "Big tech companies known as hyperscalers are willing to pay higher yields, because they're borrowing to fund artificial intelligence investments like data centers and AI chips",
+        "content": "Big tech companies known as hyperscalers are willing to pay higher yields, because they're borrowing to fund artificial intelligence investments like data centers and AI chips\nSignage at the Broadcom headquarters in Palo Alto, California | Image: Blo... [4830 chars]",
+        "url": "https://www.business-standard.com/world-news/ai-issuers-upend-debt-market-safety-valve-as-borrowing-costs-rise-126101100064_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/11/thumb/featurecrop/1200X628/1791687800-6906.jpg",
+        "publishedAt": "2026-10-11T03:04:42Z",
+        "lang": "en",
+        "source": {
+            "id": "44d394a4e765f82b49b452e4302a72b0",
+            "name": "Business Standard",
+            "url": "https://www.business-standard.com",
+            "country": "in"
+        }
+    },
+    {
+        "id": "6f0e252c1fd74be503b98ba7e8198100",
+        "title": "Children and pregnant woman among eight killed in Pennsylvania shooting",
+        "description": "Police arrived at the home within minutes of receiving an alert via ShotSpotter, a controversial gunshot detection system that relies on artificial intelligence and a network of microphones, to discover the crime scene.",
+        "content": "A pregnant woman, children and other relatives are among eight victims gunned down by a man at a home in Pennsylvania.\nErie Police Chief Rick Lorah said the 45-year-old man was related to seven of the victims, while the eighth was a friend of the pre... [2403 chars]",
+        "url": "https://www.abc.net.au/news/2026-10-11/children-and-pregnant-woman-killed-pennsylvania-shooting/107252788",
+        "image": "https://live-production.wcms.abc-cdn.net.au/edf77f54a8a0448c686b8413020def92?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=271&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-10-11T00:07:52Z",
+        "lang": "en",
+        "source": {
+            "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+            "name": "ABC (Australian Broadcasting Corporation)",
+            "url": "https://www.abc.net.au",
+            "country": "au"
+        }
+    },
+    {
+        "id": "6992e812c557392220471d042dcdc592",
+        "title": "The next label on your book might say a human wrote it",
+        "description": "FRANKFURT, Oct 11 — Initiatives to label books as written by humans, and not artificial intelligence, are gaining ground following a string of scandals where authors were...",
+        "content": "FRANKFURT, Oct 11 — Initiatives to label books as written by humans, and not artificial intelligence, are gaining ground following a string of scandals where authors were suspected of using the technology without admitting it.\nSeveral labelling schem... [4032 chars]",
+        "url": "https://www.malaymail.com/news/life/2026/10/11/the-next-label-on-your-book-might-say-a-human-wrote-it/238534",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/10/367515.jpg",
+        "publishedAt": "2026-10-10T23:00:00Z",
+        "lang": "en",
+        "source": {
+            "id": "cc589abcee543815a82a8b2856ebe9ed",
+            "name": "Malay Mail",
+            "url": "https://www.malaymail.com",
+            "country": "my"
+        }
+    },
+    {
+        "id": "569bca80db6bc7f37126eaead10b510a",
+        "title": "White House demands transparency after Anthropic’s AI agents called in a false Philly homicide tip and applied for visas",
+        "description": "PHILADELPHIA — The White House said it expected “full transparency” and “immediate remediation” after the artificial intelligence company Anthropic disclosed that its agents supplied false information to the Philadelphia police homicide tip line and the State Department’s visa application system. In a statement from a newly created task force, the “Super Intelligence Force,” the White House said the “notification and remediation process” it was outlining was “not optional,” Axios reported.",
+        "content": "PHILADELPHIA — The White House said it expected “full transparency” and “immediate remediation” after the artificial intelligence company Anthropic disclosed that its agents supplied false information to the Philadelphia police homicide tip line and ... [4601 chars]",
+        "url": "https://www.spokesman.com/stories/2026/oct/10/white-house-demands-transparency-after-anthropics-/",
+        "image": "https://thumb.spokesman.com/uX4v0zCdcgZALbJjmyh45HHIou8=/2400x1260/smart/media.spokesman.com/photos/2026/10/10/6acae0ba4f17d.hires.jpg",
+        "publishedAt": "2026-10-10T21:30:00Z",
+        "lang": "en",
+        "source": {
+            "id": "c8c865ed042eb14694b8d596e22efe99",
+            "name": "Spokane Spokesman-Review",
+            "url": "https://www.spokesman.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "915198dabd5b6f5c446c6162fab150af",
+        "title": "Anthropic's Claude AI submits false tip on crime website",
+        "description": "An Anthropic artificial intelligence model submitted a false tip to Philadelphia police about an unsolved homicide case, the latest example of AI models acting in unintended ways.",
+        "content": "An Anthropic artificial intelligence model submitted a false tip to a Philadelphia police website about an unsolved homicide case, authorities and Anthropic said.\nIt’s the latest example of AI models acting in unintended ways and manipulating governm... [1898 chars]",
+        "url": "https://www.latimes.com/world-nation/story/2026-10-10/anthropics-claude-ai-submits-false-tip-on-crime-website",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/151cc9c/2147483647/strip/true/crop/5000x2625+0+356/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F04%2Ff2%2F24e534084e98a7f06607f9c0d3bb%2F8f374553ba894aaf9a18256af08de674.jpg",
+        "publishedAt": "2026-10-10T21:06:37Z",
+        "lang": "en",
+        "source": {
+            "id": "492abf277b7277432148b61b21ddc836",
+            "name": "Los Angeles Times",
+            "url": "https://www.latimes.com",
+            "country": "us"
+        }
+    },
+    {
         "id": "ef9affcf83f1c8f0d7e928f04d404233",
         "title": "Safety prompts can help AI models make safer clinical choices",
         "description": "As artificial intelligence (AI) becomes increasingly capable of assisting with health care tasks, a new study by researchers at the Icahn School of Medicine at Mount Sinai has found that adding a brief safety reminder reduced potentially harmful choices by AI models in clinical scenarios.",
@@ -77,86 +157,6 @@
             "name": "Natural News",
             "url": "https://www.naturalnews.com",
             "country": "us"
-        }
-    },
-    {
-        "id": "ad090e231167041653aaa8e17950bef4",
-        "title": "A timeline of developments in AI safety since the attack on Hugging Face",
-        "description": "In one alarming announcement after another, artificial intelligence companies in recent months have shared examples of their technology acting in ways that appe",
-        "content": "In one alarming announcement after another, artificial intelligence companies in recent months have shared examples of their technology acting in ways that appeared to evade instructions from humans.\nThe episodes have highlighted the vulnerabilities ... [6900 chars]",
-        "url": "https://wtop.com/national/2026/10/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face-2/",
-        "image": "https://wtop.com/wp-content/uploads/2026/09/Open_AI_Conference_16571-scaled.jpg",
-        "publishedAt": "2026-10-10T16:43:51Z",
-        "lang": "en",
-        "source": {
-            "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-            "name": "WTOP",
-            "url": "https://wtop.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d1fc1fd55df80457082a0df017730819",
-        "title": "A timeline of developments in AI safety since the attack on Hugging Face",
-        "description": "Since OpenAI disclosed this summer that its artificial intelligence system hacked into another AI company in what is now referred to as the Hugging Face incident, other AI companies have jumped on the bandwagon with their own concerning events, such as hacking or runaway bots seemingly evading human control",
-        "content": "In one alarming announcement after another, artificial intelligence companies in recent months have shared examples of their technology acting in ways that appeared to evade instructions from humans.\nThe episodes have highlighted the vulnerabilities ... [6900 chars]",
-        "url": "https://www.independent.co.uk/news/philadelphia-openai-education-department-anthony-albanese-claude-b3064632.html",
-        "image": "https://static.independent.co.uk/2026/09/30/15/Open_AI_Conference_16571.jpg?width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-10-10T16:41:39Z",
-        "lang": "en",
-        "source": {
-            "id": "97497c18f5cb431f5f324b3d8643c24f",
-            "name": "The Independent",
-            "url": "https://www.independent.co.uk",
-            "country": "gb"
-        }
-    },
-    {
-        "id": "9678209feb9d8e281d2bd19fa27ebb4c",
-        "title": "A timeline of developments in AI safety since the attack on Hugging Face",
-        "description": "Since OpenAI disclosed this summer that its artificial intelligence system hacked into another AI company in what is now referred to as the Hugging Face incident, other AI companies have jumped on the bandwagon with their own concerning events, such as hacking or runaway bots seemingly evading human control.",
-        "content": "In one alarming announcement after another, artificial intelligence companies in recent months have shared examples of their technology acting in ways that appeared to evade instructions from humans.\nThe episodes have highlighted the vulnerabilities ... [6900 chars]",
-        "url": "https://www.clickondetroit.com/business/2026/09/30/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/",
-        "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/APVSVWELYZHU5NOXHHX6ZRUOAI.jpg?api_key=clickondetroit_06f87fefb2123598",
-        "publishedAt": "2026-10-10T16:41:38Z",
-        "lang": "en",
-        "source": {
-            "id": "35515662ec044d3f94b543cd8802d63f",
-            "name": "WDIV ClickOnDetroit",
-            "url": "https://www.clickondetroit.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "1d7db153d6ba6805fcbc2da9269783a3",
-        "title": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face",
-        "description": "In one alarming announcement after another, artificial intelligence companies in recent months have shared examples of their technology acting in ways that appeared to evade instructions from humans.",
-        "content": "Google confirmed its Gemini AI model hacked three companies in May as part of a test of its cybersecurity capabilities. The company, which disclosed the hacks after an inquiry by The Wall Street Journal, said the model guessed passwords in one case a... [2335 chars]",
-        "url": "https://www.usnews.com/news/business/articles/2026-10-10/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face",
-        "image": "https://www.usnews.com/dims4/USNEWS/cee04d2/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F78%2Ff146792b1e17bd09a6b78244d00b98%2Fe535183c1c5e480f9b0d13faf4552723Open_AI_Conference_16571.jpg",
-        "publishedAt": "2026-10-10T16:41:00Z",
-        "lang": "en",
-        "source": {
-            "id": "37128a060981dbbe79321f096e7d1108",
-            "name": "U.S. News & World Report",
-            "url": "https://www.usnews.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "fe66900c317a6cde22fb0be592fca051",
-        "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case",
-        "description": "An Anthropic artificial intelligence model submitted a false tip to a Philadelphia police website about an unsolved homicide case, authorities and Anthropic said.",
-        "content": "An Anthropic artificial intelligence model submitted a false tip to a Philadelphia police website about an unsolved homicide case, authorities and Anthropic said.\nIt's the latest example of AI models acting on their own and manipulating government an... [1943 chars]",
-        "url": "https://www.cbc.ca/news/world/ai-agents-false-homicide-tip-anthropic-claude-9.7377169",
-        "image": "https://i.cbc.ca/ais/a628416c-83c9-446e-9029-0e9e7364d3f1,1791648960557/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C113%2C5000%2C2812%29%3BResize%3D620",
-        "publishedAt": "2026-10-10T16:33:06Z",
-        "lang": "en",
-        "source": {
-            "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
-            "name": "CBC.ca",
-            "url": "https://www.cbc.ca",
-            "country": "ca"
         }
     }
 ]
