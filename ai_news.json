@@ -1,124 +1,108 @@
 [
     {
-        "id": "719316a44ceb4c77fb5ab6b0b2b9f35e",
-        "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI",
-        "description": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell",
-        "content": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.\n“In one case, the attackers targ... [7019 chars]",
-        "url": "https://www.europesays.com/3331849/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/10/1792966646.jpeg",
-        "publishedAt": "2026-10-25T22:17:24Z",
+        "id": "ec27f992372ad2db3b73486b03015e5d",
+        "title": "Inside the biggest feud in artificial intelligence",
+        "description": "A new world has arrived. Dario Amodei and Sam Altman cannot stop fighting over it.",
+        "content": "Being in San Francisco in the mid-2020s sometimes feels like what I imagine living in Los Alamos was like in 1943 when the Manhattan Project rolled into town. The air is heavy with excitement and dread. Engineers toil, day and night, on systems of pr... [905 chars]",
+        "url": "https://www.afr.com/technology/inside-the-biggest-feud-in-artificial-intelligence-20261026-p618lx",
+        "image": "https://static.ffx.io/images/$zoom_0.7422%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_235%2C$y_206/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/0caea669ce8b7c5c13595021c5ed3c2f1abccb7eed0bd9b3c3376c741982cbcf",
+        "publishedAt": "2026-10-26T05:00:00Z",
         "lang": "en",
         "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
+            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+            "name": "Australian Financial Review",
+            "url": "https://www.afr.com",
+            "country": "au"
+        }
+    },
+    {
+        "id": "896e98c317e674f684b683399fad8916",
+        "title": "SoftBank reportedly plans $50 billion tech investment in Malaysia",
+        "description": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers.",
+        "content": "SoftBank Group plans to make $50 billion of investments in Malaysia, Prime Minister Anwar Ibrahim said, according to a Bloomberg report.\nAnwar said Saturday that Son had identified locations in Kuching, Sarawak, and peninsular Malaysia for the planne... [1358 chars]",
+        "url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108246651-1767105043132-108246651-1767103912282-gettyimages-2248717434-JAPAN_FII.jpeg?v=1767105059&w=1920&h=1080",
+        "publishedAt": "2026-10-26T04:56:16Z",
+        "lang": "en",
+        "source": {
+            "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com",
             "country": "us"
         }
     },
     {
-        "id": "d645243edcaaf85c47065002892f5f79",
-        "title": "Opinion: Jonathan Kreiss-Tomkins is the candidate who takes AI seriously",
-        "description": "Alaska needs clear rules for artificial intelligence before its risks become problems the state cannot ignore.",
-        "content": "Artificial intelligence is advancing much faster than our politics, and the past several weeks should have every candidate for governor paying attention.\nIn mid-September, the heads of the world’s leading AI companies did something remarkable. They p... [4062 chars]",
-        "url": "https://www.adn.com/opinions/2026/10/25/opinion-jonathan-kreiss-tomkins-is-the-candidate-who-takes-ai-seriously/",
-        "image": "https://www.adn.com/resizer/v2/5WHGYCQEIFAFPGFW5TITOD6JYI.jpg?smart=true&auth=06745000dd583437d7fb1b1cad750a5a73cac3a0cc935104a911abb19f1d893a&width=1200&height=630",
-        "publishedAt": "2026-10-25T22:15:17Z",
+        "id": "ebdf321602680a429aa2bc2beee74b92",
+        "title": "DAX weighed down by many concerns, focus on interest-rate decisions",
+        "description": "With oil prices high, persistent concerns about artificial intelligence and further unrest in France, the DAX faces fresh headwinds in the new week. Following a period of weakness for Germany's...",
+        "content": "FRANKFURT (dpa-AFX) - With oil prices high, persistent concerns about artificial intelligence and further unrest in France, the DAX faces fresh headwinds in the new week. Following a period of weakness for Germany's blue-chip index, attention is now ... [4370 chars]",
+        "url": "https://www.marketscreener.com/news/dax-weighed-down-by-many-concerns-focus-on-interest-rate-decisions-ce785cdfd08cff22",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-07-07T084440Z_1_LYNXNPEC660CP_RTROPTP_2_BRITAIN-EU-GERMANY.JPG",
+        "publishedAt": "2026-10-26T04:53:17Z",
         "lang": "en",
         "source": {
-            "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-            "name": "Anchorage Daily News",
-            "url": "https://www.adn.com",
-            "country": "us"
+            "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com",
+            "country": "fr"
         }
     },
     {
-        "id": "be6e5df6234ee9a1c2e297caf394ad58",
-        "title": "Tourism officials eager to tap Asia's stars",
-        "description": "Thai tourism officials plan to intensify efforts to increase arrivals from artificial intelligence (AI)-driven economies and neighbouring countries with strong GDP growth, focusing on Taiwan, Malaysia, Vietnam, Indonesia and Singapore, according to the Tourism Authority of Thailand (TAT), citing an International Monetary Fund (IMF) forecast released last week.",
-        "content": "New initiatives aim to widen appeal\nPUBLISHED : 26 Oct 2026 at 05:13\nNEWSPAPER SECTION: Business\nWRITER: Narumon Kasemsuk\nThai tourism officials plan to intensify efforts to increase arrivals from artificial intelligence (AI)-driven economies and nei... [2918 chars]",
-        "url": "https://www.bangkokpost.com/business/general/3343590/tourism-officials-eager-to-tap-asias-stars",
-        "image": "https://static.bangkokpost.com/media/content/20261026/c1_3343590_261026051540_700.jpg",
-        "publishedAt": "2026-10-25T22:13:00Z",
+        "id": "0975d2e035dd4aa1a1a1a78d83e0f970",
+        "title": "Bill Gates sounds alarm over AI jobs crisis as robots threaten to replace office staff and manual workers",
+        "description": "Artificial intelligence could reshape employment far beyond offices, with Bill Gates warning that advances in robotics may threaten construction, manufacturing and other physically demanding occupations. As businesses pursue lower costs, governments face mounting pressure to prepare workers for disruption while managing the economic and social consequences of increasingly capable machines.",
+        "content": "AI is moving towards work traditionally considered difficult to automate, raising fresh questions about the future of employment as software systems become more capable and humanoid robots advance.\nMicrosoft co-founder Bill Gates has warned that the ... [5449 chars]",
+        "url": "https://www.firstpost.com/tech/ai-job-crisis-bill-gates-warns-robots-could-replace-office-staff-and-manual-workers-14055294.html",
+        "image": "https://images.firstpost.com/uploads/2026/08/Bill-Gates-2026-08-b8cf7bf18e71fd2c8aaa791238f333e3-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+        "publishedAt": "2026-10-26T04:43:16Z",
         "lang": "en",
         "source": {
-            "id": "91120a92e0d24e24fbffb6d0affabfe6",
-            "name": "Bangkok Post",
-            "url": "https://www.bangkokpost.com",
-            "country": "th"
-        }
-    },
-    {
-        "id": "694d118994b8c960e706697c32861e53",
-        "title": "CBSE makes AI a part of formal teaching, NCERT develops module",
-        "description": "NEW DELHI: From spotting deepfake to questioning a chatbot’s confident but incorrect answers, artificial intelligence (AI) is moving from being an",
-        "content": "NCERT has developed a 20-hour introductory module for Classes IX-XII, which CBSE has earmarked for school-based assessment.\nNEW DELHI: From spotting deepfake to questioning a chatbot’s confident but incorrect answers, artificial intelligence (AI) is ... [1557 chars]",
-        "url": "https://timesofindia.indiatimes.com/india/cbse-makes-ai-a-part-of-formal-teaching-ncert-develops-module/articleshow/135197586.cms",
-        "image": "https://static.toiimg.com/thumb/msid-135197587,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-25T21:45:00Z",
-        "lang": "en",
-        "source": {
-            "id": "9a9a0fb79c70bbf499d39baca94921ae",
-            "name": "Times of India",
-            "url": "https://timesofindia.indiatimes.com",
+            "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com",
             "country": "in"
         }
     },
     {
-        "id": "944931eb0824822b7baa29e27abeffa9",
-        "title": "year job disruption from AI",
-        "description": "Bill Gates, Microsoft's co-founder, warned that the accelerating spread of artificial intelligence and robotics could cause widespread disruption in the labor",
-        "content": "Bill Gates, Microsoft’s co-founder, warned that the accelerating spread of artificial intelligence and robotics could cause widespread disruption in the labor market over the next two decades, before societies are able to reap the full benefits of th... [9280 chars]",
-        "url": "https://www.europesays.com/3331814/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/10/1792964239.jpeg",
-        "publishedAt": "2026-10-25T21:37:17Z",
+        "id": "5a56dc80255c9fa2f86f39e8844205d2",
+        "title": "To make AI morally good, tech companies are turning to religion, in spite of doubts",
+        "description": "As tech companies race to build the most powerful artificial intelligence, some are also asking how to teach a chatbot right from wrong. Their answer? Religion.",
+        "content": "As tech companies race to build the most powerful artificial intelligence, some are also asking how to teach a chatbot right from wrong. Their answer? Religion.\n“These are not questions a lab can answer,” Anthropic co-founder Chris Olah said earlier ... [7074 chars]",
+        "url": "https://www.thehindu.com/sci-tech/technology/to-make-ai-morally-good-tech-companies-are-turning-to-religion-in-spite-of-doubts/article71625515.ece",
+        "image": "https://th-i.thgim.com/public/incoming/xflc95/article71625528.ece/alternates/LANDSCAPE_1200/2026-10-22T211432Z_763984860_RC2K8OAK33FV_RTRMADP_3_CYBERSECURITY-PHP.JPG",
+        "publishedAt": "2026-10-26T04:30:49Z",
         "lang": "en",
         "source": {
-            "id": "ed23d65928efaec6669dd2212a773d9f",
-            "name": "EUROPE SAYS",
-            "url": "https://www.europesays.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "cacf46187517bf4673084d17c076bb21",
-        "title": "Congress questions Election Commission's secrecy over software used for SIR",
-        "description": "The Congress on Sunday accused the Election Commission of India (ECI) of withholding crucial information about the software used during the Special Intensive Revision (SIR) of electoral rolls, questioning whether artificial intelligence (AI) was being used to flag voter records and demanding the immediate suspension of the exercise and the removal of Chief Election Commissioner Gyanesh Kumar.",
-        "content": "The Congress on Sunday accused the Election Commission of India (ECI) of withholding crucial information about the software used during the Special Intensive Revision (SIR) of electoral rolls, questioning whether artificial intelligence (AI) was bein... [2114 chars]",
-        "url": "https://www.tribuneindia.com/news/india/congress-questions-election-commissions-secrecy-over-software-used-for-sir/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ5ZWY2MzIwLWQwYWQtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-        "publishedAt": "2026-10-25T19:54:10Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
+            "id": "b33a42ef1c098421f66aad47a76d6a3c",
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com",
             "country": "in"
         }
     },
     {
-        "id": "d06d24ce951fee6473be05ac4a9ea334",
-        "title": "Nearly half of Canadians use AI to self-diagnose: survey",
-        "description": "Nearly half of Canadians (48%) have either gone online or used artificial intelligence to self-diagnose. Read more",
-        "content": "Nearly two in three decided not to book a doctor's appointment because they expected it would be too hard to get seen\nArticle content\nSee more Toronto Sun on Google — save as a Preferred Source\nAdvertisement 2\nStory continues below\nThis advertisement... [4609 chars]",
-        "url": "https://torontosun.com/news/nearly-half-of-canadians-have-either-gone-online-or-used-artificial-intelligence-to-self-diagnose-report",
-        "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/10/GettyImages-1249601252.jpg",
-        "publishedAt": "2026-10-25T19:48:40Z",
+        "id": "538b7e915c402ef7af1ef5ff02c8dc32",
+        "title": "EC refuses to disclose software details used to flag voter roll anomalies during SIR, cites RTI exemption",
+        "description": "Ayyub had sought information on whether the software or any artificial intelligence (AI) platform automatically flagged voter records for verification, correction or deletion. He also asked the commission to disclose the workflow followed after such records were identified.",
+        "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nThe Election Commission (EC) has refused to disclose the name and version of the software used to detect errors and anomalies in electoral rolls during the... [1836 chars]",
+        "url": "https://www.moneycontrol.com/news/india/ec-refuses-to-disclose-software-details-used-to-flag-voter-roll-anomalies-during-sir-cites-rti-exemption-14059839.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2025/12/20251230115010_election-commission-SIR.png",
+        "publishedAt": "2026-10-26T03:37:03Z",
         "lang": "en",
         "source": {
-            "id": "09dc1bda762f4f787cec10477a894d96",
-            "name": "Toronto Sun",
-            "url": "https://torontosun.com",
-            "country": "ca"
+            "id": "fd3677545b80d5db7541de8e111d27ba",
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com",
+            "country": "in"
         }
     },
     {
-        "id": "db58ecf3648da9c9869a1b8fa291f1e7",
-        "title": "India must bolster tech, economic resilience: Dean Grandy, KPMG's global head for government and public sector",
-        "description": "India is encouraged to boost its domestic technology capabilities and economic resilience to face geopolitical tensions. Strengthening self-sufficiency in artificial intelligence and infrastructure is essential for national interests and security. Collaborative partnerships with like-minded governments are important for shared insights and investment opportunities. Developing independent AI regulations will safeguard India's data and business environment effectively. Addressing the emerging challenges in AI will be crucial as India's capabilities expand.",
-        "content": "Synopsis\nIndia is encouraged to boost its domestic technology capabilities and economic resilience to face geopolitical tensions. Strengthening self-sufficiency in artificial intelligence and infrastructure is essential for national interests and sec... [3970 chars]",
-        "url": "https://economictimes.indiatimes.com/news/india/india-must-bolster-tech-economic-resilience-dean-grandy-kpmgs-global-head-for-government-and-public-sector/articleshow/135196785.cms",
-        "image": "https://img.etimg.com/thumb/msid-135196854,width-1200,height-900,imgsize-843465,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-10-25T18:38:00Z",
+        "id": "d03a7754790919d068bcee7fbafa933c",
+        "title": "Talent, compute and R&D key to India's AI ambitions: Report",
+        "description": "India will need to strengthen its talent pool, research and development (R&D) capabilities, computing infrastructure and data systems to translate advances in artificial intelligence (AI) and other emerging technologies into economic and social benefits, according to a report by KPMG.",
+        "content": "Synopsis\nIndia will need to strengthen its talent pool, research and development (R&D) capabilities, computing infrastructure and data systems to translate advances in artificial intelligence (AI) and other emerging technologies into economic and soc... [3413 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talent-compute-and-rd-key-to-indias-ai-ambitions-report/articleshow/135201920.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-254700,resizemode-75,msid-135201920/tech/artificial-intelligence/talent-compute-and-rd-key-to-indias-ai-ambitions-report.jpg",
+        "publishedAt": "2026-10-26T03:23:49Z",
         "lang": "en",
         "source": {
             "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -128,35 +112,51 @@
         }
     },
     {
-        "id": "c8e5acad60f277109083ed00870a8727",
-        "title": "Two Sydney crypto bros find themselves stuck in small-town America",
-        "description": "Iren Energy has big plans to turn itself into an artificial intelligence processing giant. First, it will have to get the people of Kiowa, Oklahoma, on board.",
-        "content": "Pittsburgh County could not believe its luck. It was December 2024, and an Australian data centre hopeful had rolled into town with promises of building a $US50 billion ($71 billion) data centre – with conditions.\nFounded by Sydney brothers Daniel an... [265 chars]",
-        "url": "https://www.afr.com/companies/infrastructure/two-sydney-crypto-bros-find-themselves-stuck-in-small-town-america-20261026-p614ug",
-        "image": "https://static.ffx.io/images/$zoom_1.6547%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ec91582dce359d08a5eb47361cdf776590ba3ecb4bb5760cb4165aadbaeb6cc7",
-        "publishedAt": "2026-10-25T18:00:00Z",
+        "id": "e4c4423005f8f319a5f618b39483d70c",
+        "title": "Elon Musk says SpaceX raised $40 billion in debt for GPUs",
+        "description": "Musk's post comes after Reuters reported earlier this month that SpaceX is in talks with banks and asset managers to raise $40 billion for the purchase of ​Nvidia artificial intelligence chips.",
+        "content": "Synopsis\nMusk's post comes after Reuters reported earlier this month that SpaceX is in talks with banks and asset managers to raise $40 billion for the purchase of ​Nvidia artificial intelligence chips.\nListen to this article in summarized format\nElo... [1702 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-says-spacex-raised-40-billion-in-debt-for-gpus/articleshow/135201386.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29794,resizemode-75,msid-135201386/tech/artificial-intelligence/elon-musk-says-spacex-raised-40-billion-in-debt-for-gpus.jpg",
+        "publishedAt": "2026-10-26T02:54:55Z",
         "lang": "en",
         "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "Australian Financial Review",
-            "url": "https://www.afr.com",
-            "country": "au"
+            "id": "5464668c1f0466950a0b2fab5249ec6c",
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com",
+            "country": "in"
         }
     },
     {
-        "id": "534772d066ef3cb95264c93a94e28060",
-        "title": "20pc a year for a decade: How this fundie mastered the AI trade",
-        "description": "Loftus Peak has made a fortune from the world’s hottest trade, and Alex Pollak is still all-in despite worries of an artificial intelligence bubble.",
-        "content": "When it comes to the artificial intelligence trade, perhaps no investor in Australia is better qualified to share their views than Loftus Peak chief investment officer Alex Pollak.\nHis $1.6 billion Global Disruption Fund boasts a long list of early i... [368 chars]",
-        "url": "https://www.afr.com/markets/equity-markets/20pc-a-year-for-a-decade-how-this-fundie-mastered-the-ai-trade-20261026-p615vv",
-        "image": "https://static.ffx.io/images/$zoom_0.1684%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_3/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/5c6525fc24bf1902e3a1b9b008f801ad83c7a7df",
-        "publishedAt": "2026-10-25T18:00:00Z",
+        "id": "d8ad466631a6c1778eaceaeb45d01a2e",
+        "title": "Moonshot resets subscriber quotas after Kimi K3.1 Pro launch issues",
+        "description": "BEIJING, Oct ⁠26 (Reuters) - Chinese artificial intelligence startup ⁠Moonshot AI apologised on Monday ‌for rate limiting and unnecessary quota consumption after its Kimi K3.1 Pro launch.",
+        "content": "BEIJING, Oct ⁠26 (Reuters) - Chinese artificial intelligence startup ⁠Moonshot AI apologised on Monday ‌for rate limiting and unnecessary quota consumption after its Kimi K3.1 Pro launch.\nHere are ​some details:\n• Beijing-based Moonshot ⁠said on itsK... [649 chars]",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/10/26/moonshot-resets-subscriber-quotas-after-kimi-k31-pro-launch-issues",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/10/26/4180884.jpg",
+        "publishedAt": "2026-10-26T02:47:00Z",
         "lang": "en",
         "source": {
-            "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-            "name": "Australian Financial Review",
-            "url": "https://www.afr.com",
-            "country": "au"
+            "id": "1e30d944d63d9090db5a2c2e28a8772f",
+            "name": "The Star",
+            "url": "https://www.thestar.com.my",
+            "country": "my"
+        }
+    },
+    {
+        "id": "f841bb978ee3c860e0bbb0e25fc07111",
+        "title": "Talent, compute and R&D key to India's AI ambitions: Report",
+        "description": "India will need to strengthen its talent pool, research and development (R&D) capabilities, computing infrastructure and data systems to translate advances in artificial intelligence (AI) and other emerging technologies into economic and social benefits, according to a report by KPMG.",
+        "content": "New Delhi [India], October 26 (ANI): India will need to strengthen its talent pool, research and development (R&D) capabilities, computing infrastructure and data systems to translate advances in artificial intelligence (AI) and other emerging techno... [3198 chars]",
+        "url": "https://www.tribuneindia.com/news/business/talent-compute-and-rd-key-to-indias-ai-ambitions-report/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU1NWE0NTcwLWQwZTYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+        "publishedAt": "2026-10-26T02:42:27Z",
+        "lang": "en",
+        "source": {
+            "id": "c5725557f39c24c8b029ee39900a8406",
+            "name": "The Tribune",
+            "url": "https://www.tribuneindia.com",
+            "country": "in"
         }
     }
 ]
