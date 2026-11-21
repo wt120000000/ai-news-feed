@@ -1,60 +1,108 @@
 [
     {
-        "id": "c67548de646fdc0c4b4dba641c846340",
-        "title": "What would an AI-driven productivity boom mean for workers?",
-        "description": "Following record investment in the technology, artificial intelligence is reshaping the American workplace, from automated meeting summaries to assistance with radiology diagnostics.",
-        "content": "Following record investment in the technology, artificial intelligence is reshaping the American workplace, from automated meeting summaries to assistance with radiology diagnostics. But the massive productivity boom that Silicon Valley executives pr... [8034 chars]",
-        "url": "https://buffalonews.com/news/nation-world/business/article_3b77f751-e5df-5569-94d2-b816ac8ff98d.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/live/libraries/nova/components/x_config_buffalonews/resources/images/social.default.jpg?_dc=1794988816&resize=600",
-        "publishedAt": "2026-11-20T12:57:00Z",
+        "id": "6b744cdfdafbc94a1d7562858915d2e0",
+        "title": "AI industry braces for tougher oversight under incoming Democratic Congress",
+        "description": "The artificial intelligence industry is facing a new outlook on regulation with an incoming Democratic-controlled Congress that has been pushing to put more guardrails in place.",
+        "content": "The artificial intelligence industry is facing a new outlook on regulation with an incoming Democratic-controlled Congress that has been pushing to put more guardrails in place amid mounting warnings of risks.\nWhile Democrats are preparing to take a ... [5110 chars]",
+        "url": "https://wjla.com/news/connect-to-congress/ai-industry-braces-for-tougher-oversight-under-incoming-democratic-congress-artificial-intelligence-data-centers-cybersecurity-rogue-agents",
+        "image": "https://wjla.com/resources/media2/16x9/4680/1320/0x244/90/3a67b068-8580-4010-b3fb-9e5d1d6440c7-GettyImages2297756462.jpg",
+        "publishedAt": "2026-11-20T21:05:23Z",
         "lang": "en",
         "source": {
-            "id": "c19dcd0d635e985c09987af436e2e9eb",
-            "name": "Buffalo Buffalo News",
-            "url": "https://buffalonews.com",
+            "id": "2f5884e252590f739df55c0e7db375df",
+            "name": "WJLA",
+            "url": "https://wjla.com",
             "country": "us"
         }
     },
     {
-        "id": "7b63c70f6d9b253fd0fcb7ca7da3d0f5",
-        "title": "Bill Gates reacts to Cambridge Dictionary's 2026 Word of the Year 'Human'",
-        "description": "Cambridge Dictionary has named ‘human’ its Word of the Year for 2026, highlighting growing debates about identity in the age of artificial intelligence. Bill Gates welcomed the choice, saying AI's success should be measured by how much it improves lives while keeping people at the centre of technological progress.",
-        "content": "Artificial intelligence can write essays, create images, diagnose diseases and even hold conversations that sound remarkably human. But as machines become more capable, one question is becoming harder to ignore: what should remain uniquely human?\nCam... [2176 chars]",
-        "url": "https://www.indiatoday.in/education-today/news/story/bill-gates-reaction-cambridge-dictionary-word-of-the-year-2026-human-3043322-2026-11-20",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/bill-gates-reacts-to-cambridge-dictionarys-2026-word-of-the-year-human-204926277-16x9_0.jpg?VersionId=PYNfGeu66k8rxUztD7EJVY1txmKOf.As",
-        "publishedAt": "2026-11-20T12:50:53Z",
+        "id": "0a0ebb7588b7f2afd327436c9dd311d5",
+        "title": "AI industry braces for tougher oversight under incoming Democratic Congress",
+        "description": "The artificial intelligence industry is facing a new outlook on regulation with an incoming Democratic-controlled Congress that has been pushing to put more guardrails in place.",
+        "content": "The artificial intelligence industry is facing a new outlook on regulation with an incoming Democratic-controlled Congress that has been pushing to put more guardrails in place amid mounting warnings of risks.\nWhile Democrats are preparing to take a ... [5110 chars]",
+        "url": "https://foxbaltimore.com/news/nation-world/ai-industry-braces-for-tougher-oversight-under-incoming-democratic-congress-artificial-intelligence-data-centers-cybersecurity-rogue-agents",
+        "image": "https://foxbaltimore.com/resources/media2/16x9/4680/1320/0x244/90/3a67b068-8580-4010-b3fb-9e5d1d6440c7-GettyImages2297756462.jpg",
+        "publishedAt": "2026-11-20T21:05:23Z",
         "lang": "en",
         "source": {
-            "id": "c73686fdf0e30639d57eddaf7a77236e",
-            "name": "India Today",
-            "url": "https://www.indiatoday.in",
+            "id": "9f53afb019d44feb16bcc7da150e679a",
+            "name": "Baltimore News",
+            "url": "https://foxbaltimore.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "38394d82d4d3b28ab0bea5ec1bfd9852",
+        "title": "SUN: Maryland ranks third in projected AI job displacement, AI tracker finds",
+        "description": "The Maryland comptroller’s office has launched a public dashboard tracking how artificial intelligence could reshape the state’s economy.",
+        "content": "The Maryland comptroller’s office has launched a public dashboard tracking how artificial intelligence could reshape the state’s economy, including a projection that Maryland faces the nation’s third-highest rate of job displacement from AI automatio... [896 chars]",
+        "url": "https://foxbaltimore.com/news/local/maryland-ranks-third-ai-job-displacement-tracker",
+        "image": "https://foxbaltimore.com/resources/media2/16x9/3000/1320/0x157/90/09a1f686-1a45-40f0-95e8-7e75bf1eb2ea-AP26098799505286.jpg",
+        "publishedAt": "2026-11-20T20:22:54Z",
+        "lang": "en",
+        "source": {
+            "id": "9f53afb019d44feb16bcc7da150e679a",
+            "name": "Baltimore News",
+            "url": "https://foxbaltimore.com",
+            "country": "us"
+        }
+    },
+    {
+        "id": "e24f7f610a4927b4b90daff88d7d0939",
+        "title": "Tested on mushrooms, an AI model shows potential for detecting crop stress with far fewer computations",
+        "description": "A new artificial intelligence (AI) model can detect stress in agricultural crops using a nondestructive imaging technique, allowing changes in crop health to be monitored over time. Developed by a team of researchers at Penn State, the new model shows promise for accurately detecting crop stress caused by drought, disease, nutrient deficiency and other causes while using less computing power than some existing AI methods.",
+        "content": "A new artificial intelligence (AI) model can detect stress in agricultural crops using a nondestructive imaging technique, allowing changes in crop health to be monitored over time. Developed by a team of researchers at Penn State, the new model show... [6128 chars]",
+        "url": "https://phys.org/news/2026-11-mushrooms-ai-potential-crop-stress.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/novel-ai-model-can-rel.jpg",
+        "publishedAt": "2026-11-20T20:20:11Z",
+        "lang": "en",
+        "source": {
+            "id": "263578fdccd92a76494cd34055806fcc",
+            "name": "Phys.org",
+            "url": "https://phys.org",
+            "country": "gb"
+        }
+    },
+    {
+        "id": "aa915d8990fe3d4c77095cad8c0c2d15",
+        "title": "Asset-Backed Debt Sales Top Post-GFC Record on AI Strength",
+        "description": "Sales of asset-backed securities have surpassed their highest level since the Great Financial Crisis for a third straight year, as builders of artificial intelligence infrastructure continue to tap markets for financing and cash-rich insurance firms hunt for high-yielding debt.",
+        "content": "(Bloomberg) -- Sales of asset-backed securities have surpassed their highest level since the Great Financial Crisis for a third straight year, as builders of artificial intelligence infrastructure continue to tap markets for financing and cash-rich i... [2568 chars]",
+        "url": "https://www.livemint.com/market/assetbacked-debt-sales-top-post-gfc-record-on-ai-strength-11795205853665.html",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+        "publishedAt": "2026-11-20T20:17:33Z",
+        "lang": "en",
+        "source": {
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
             "country": "in"
         }
     },
     {
-        "id": "63b97e103fac2a92f8eee2105f501384",
-        "title": "Anil Kapoor meets French President Macron in Paris",
-        "description": "Bollywood star Anil Kapoor met French President Emmanuel Macron in Paris, discussing cinema, artificial intelligence, and their growing friendship.",
-        "content": "Kapoor wrote on Instagram, \"When I first met President Emmanuel Macron in India, our conversation flowed so naturally that it felt like we'd known each other for years.\"\n\"Meeting him again in Paris brought back that same warmth.\" He also thanked Macr... [544 chars]",
-        "url": "https://www.newsbytesapp.com/news/entertainment/anil-kapoor-s-parisian-encounter-with-president-macron/story",
-        "image": "https://i.cdn.newsbytesapp.com/images/l230_27601795176479.jpg",
-        "publishedAt": "2026-11-20T12:11:59Z",
+        "id": "7c2bb1495bcbccb526e2312b0bfc7750",
+        "title": "Two thirds of Swiss teenagers turn to chatbots for answers",
+        "description": "Swiss teenagers report spending about as much time online as they did in 2022. What they do there is changing fast. In 2026, 66% said they regularly used artificial intelligence to look up information, up from 22% two years earlier. Chatbots now rank third for finding things out, behind search engines and messaging apps and ahead of social networks.\nPhoto by fauxels on Pexels.com\nThe 2026 JAMES study, which analysed responses from 1,088 pupils aged 12 to 19 across Switzerland’s three main language regions, puts the median time online at three hours on a weekday and four hours and 50 minutes on a weekend day. Regular use of AI for entertainment rose too, from 5% to 21%.\nA search engine offers links. A chatbot can make following them seem unnecessary. That is convenient when the answer is right, and troublesome when it is wrong. For news publishers there is a further problem. A chatbot can draw on their reporting and satisfy a reader’s curiosity before the reader sees the original article.\nThe spread of AI also exposes a change in who can afford what online. Some 99% of teenagers have a smartphone of their own, and ownership shows no statistically significant difference by family circumstances. Better-off households, however, are more likely to pay for AI tools, streaming services and newspapers. Teenagers from different backgrounds use AI about as often, according to the study. That leaves open the question of whether they get the same tools or the same quality of answers.\nRegarding social media, the old favourites have held up. WhatsApp, Instagram, TikTok and Snapchat lead the list of favourite apps. Teenagers use messaging apps and social networks chiefly to chat and to look at or react to other people’s posts. They publish their own less often. The categories themselves are getting harder to distinguish. WhatsApp lets users share updates with a wider circle, while Snapchat offers a public video feed.\nFor schools, the change in how pupils find information matters. Checking a chatbot’s answer means knowing where else to look and having access to sources worth checking. The authors suggest that school subscriptions and libraries could help give pupils access to resources their families might not buy. A lesson could start with a chatbot’s answer and ask pupils to trace a claim back to its source, then see whether the source says what the chatbot says it does. Swiss teenagers have taken to asking machines for answers quickly. Learning when to ask for evidence may take a little longer.\nMore on this:2026 JAMES study (in French) – Take a 5 minute French test now\nFor more stories like this on Switzerland follow us on Facebook and X.",
+        "content": "Swiss teenagers report spending about as much time online as they did in 2022. What they do there is changing fast. In 2026, 66% said they regularly used artificial intelligence to look up information, up from 22% two years earlier. Chatbots now rank... [2322 chars]",
+        "url": "https://lenews.ch/2026/11/20/two-thirds-of-swiss-teenagers-turn-to-chatbots-for-answers/",
+        "image": "https://i0.wp.com/lenews.ch/wp-content/uploads/2026/11/pexels-photo-3183161-edited.jpeg?fit=868%2C579&ssl=1",
+        "publishedAt": "2026-11-20T19:55:19Z",
         "lang": "en",
         "source": {
-            "id": "eba2f6a49db29efc8343807ba675665f",
-            "name": "NewsBytes",
-            "url": "https://www.newsbytesapp.com",
-            "country": "in"
+            "id": "e5ac3f8bc80375efb14e390b3dee7794",
+            "name": "Le News",
+            "url": "https://lenews.ch",
+            "country": "ch"
         }
     },
     {
-        "id": "a52c144cf9f772802eb51fb88ce7c138",
-        "title": "Lok Sabha Speaker Om Birla calls for modern technology and AI to strengthen defence and land management",
-        "description": "Lok Sabha Speaker Om Birla on Friday called upon the Defence Estates Organisation to strengthen the management and protection of defence land through modern technology, digitisation, and Artificial Intelligence (AI).",
-        "content": "New Delhi [India], November 20 (ANI): Lok Sabha Speaker Om Birla on Friday called upon the Defence Estates Organisation to strengthen the management and protection of defence land through modern technology, digitisation, and Artificial Intelligence (... [2783 chars]",
-        "url": "https://www.aninews.in/news/national/general-news/lok-sabha-speaker-om-birla-calls-for-modern-technology-and-ai-to-strengthen-defence-and-land-management16020261120174114/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261120121047-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-11-20T12:11:14Z",
+        "id": "caa718b5fe9de0f5e6b0ecee7084f583",
+        "title": "\"Would like Jensen to be given second chance\": Trump backs embattled former Nvidia CEO",
+        "description": "US President Donald Trump on Friday (local time) voiced support for embattled former Nvidia CEO Jensen Huang, saying he would like to see him return to the company and urging its board to give him a \"second chance\", while describing him as a \"brilliant person\" who had helped keep the United States ahead in the artificial intelligence chip industry.",
+        "content": "Washington DC [US], November 21 (ANI): US President Donald Trump on Friday (local time) voiced support for embattled former Nvidia CEO Jensen Huang, saying he would like to see him return to the company and urging its board to give him a \"second chan... [4979 chars]",
+        "url": "https://www.aninews.in/news/world/us/would-like-jensen-to-be-given-second-chance-trump-backs-embattled-former-nvidia-ceo20261121012348/",
+        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261120192731-thumbnail-320x180-70.jpg",
+        "publishedAt": "2026-11-20T19:53:48Z",
         "lang": "en",
         "source": {
             "id": "f282f77e41f55d72f00fefcaccc92954",
@@ -64,99 +112,51 @@
         }
     },
     {
-        "id": "b8c5d249ad47a6d3e7b033b10cdd7b7d",
-        "title": "Jensen Huang’s leather jacket couldn’t protect Nvidia's shareholders (Opinion)",
-        "description": "We spend billions developing artificial intelligence. Maybe we should spend a little more time developing ordinary intelligence.",
-        "content": "By John Wahl\nI’ve always wondered about men who wear the same thing every day.\nSteve Jobs had his black turtleneck. Mark Zuckerberg had his gray T-shirt. And Jensen Huang had his black leather jacket.\nI suppose when you’re worth billions of dollars, ... [3870 chars]",
-        "url": "https://www.dailycamera.com/2026/11/20/dont-let-spouse-buy-leather-jacket-jensen-huang-nvidia/",
-        "image": "https://www.dailycamera.com/wp-content/uploads/2026/11/Nvidia_92119_2575d1-1.jpg?w=1999&h=1333",
-        "publishedAt": "2026-11-20T12:01:49Z",
+        "id": "626907112113336858431a85033fdb20",
+        "title": "Trump, Xi Agreed on AI Curb in Military Action, Bessent Says",
+        "description": "President Donald Trump and China’s Xi Jinping agreed that artificial intelligence should never be allowed to make autonomous major military actions, US Treasury Secretary Scott Bessent said Friday.",
+        "content": "President Donald Trump and China’s Xi Jinping agreed that artificial intelligence should never be allowed to make autonomous major military actions, US Treasury Secretary Scott Bessent said Friday.\n“President Trump, and President Xi agreed that human... [2590 chars]",
+        "url": "https://www.livemint.com/politics/trump-xi-agreed-on-ai-curb-in-military-action-bessent-says-11795203686666.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/Politics_1545994646567_1795203687138_CSf0_2e88b549-b78b-4d9a-aa63-9ea87f353090_YBvA.jpg",
+        "publishedAt": "2026-11-20T19:41:26Z",
         "lang": "en",
         "source": {
-            "id": "d9acc08d8066fc3620da5e6b20b406ad",
-            "name": "Boulder Daily Camera",
-            "url": "https://www.dailycamera.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "d00813d095f6ba2d48a9a80896230b98",
-        "title": "Students shouldn't rely on AI to do the heavy lifting",
-        "description": "A quick search is OK, but artificial intelligence shouldn't do the learning. Also, criticism of Israel and some Chicago-related reasons to cheer.",
-        "content": "As a Chicago Public Schools student, I have mixed feelings about the growing use of artificial intelligence in schools. I am not against AI entirely and think that it can be helpful when used correctly.\nAI can help students brainstorm ideas or point ... [2353 chars]",
-        "url": "https://chicago.suntimes.com/letters-to-the-editor/2026/11/20/ai-students-research-holocaust-israel-palestinians-gaza-antisemitism-cubs-sox-pope",
-        "image": "https://cst.brightspotcdn.com/dims4/default/5c82d38/2147483647/strip/true/crop/6192x3535+0+297/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F88%2F07%2F591533ce415c980c5c9709b88ca9%2Fadobestock-392860629.jpeg",
-        "publishedAt": "2026-11-20T12:00:00Z",
-        "lang": "en",
-        "source": {
-            "id": "a9b75d29a22d0e3d5640bed825a22b93",
-            "name": "Chicago Sun-Times",
-            "url": "https://chicago.suntimes.com",
-            "country": "us"
-        }
-    },
-    {
-        "id": "b07571f925bd89fc6ef3bc1c8c810068",
-        "title": "China's AI Dreams Face Reality Check as Market Plummets Amid Valuation Concerns",
-        "description": "China's AI Dreams Face Reality Check as Market Plummets Amid Valuation Concerns - New Delhi: China's ambitious push to make artificial intelligence a cornerstone of its economic growth is facing significant headwinds. ... Get Latest News on International only on lokmattimes.com",
-        "content": "New Delhi: China's ambitious push to make artificial intelligence a cornerstone of its economic growth is facing significant headwinds. A recent report highlights a sharp downturn in AI-related stocks, raising serious questions about their valuations... [2464 chars]",
-        "url": "https://www.lokmattimes.com/international/chinas-ai-dreams-face-reality-check-as-market-plummets-amid-valuation-concerns-a001-w02/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202611204019430_202611.jpg",
-        "publishedAt": "2026-11-20T11:51:56Z",
-        "lang": "en",
-        "source": {
-            "id": "f2ddccedc9e60d844e7a1045928cad48",
-            "name": "Lokmat Times",
-            "url": "https://www.lokmattimes.com",
+            "id": "3bd4bd306c42647825fa42989624c036",
+            "name": "Livemint",
+            "url": "https://www.livemint.com",
             "country": "in"
         }
     },
     {
-        "id": "d0ea1db485f0dc932bc603e02d2d01b5",
-        "title": "AI worries prompt global shares dip",
-        "description": "Global shares dropped in Friday trading as a wide selloff hits issues related to artificial intelligence and computer chips.",
-        "content": "TOKYO — Global shares dropped in Friday trading as a wide selloff hits issues related to artificial intelligence and computer chips.\nFrance’s CAC 40 slipped 0.9 per cent in early trading to 8,007.37, while the German DAX lost 1.3 per cent to 25,134.2... [1424 chars]",
-        "url": "https://www.cp24.com/news/money/2026/11/20/global-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/",
-        "image": "https://www.cp24.com/resizer/v2/CGYIVFQSHXA4GSARI47YU3VIGE.jpg?smart=true&auth=6ec6b66746aeaa95cf50ba2439cfee4a4679a268e568d146588beb9c67c4b9f2&width=1200&height=630",
-        "publishedAt": "2026-11-20T11:48:50Z",
+        "id": "e911e964d6b0aa0e8a46cb119e381181",
+        "title": "S&P 500 sinks 3.7%, Nasdaq composite goes negative for the year",
+        "description": "A bruising sell-off in artificial intelligence stocks on Friday knocked the S&P 500 down 3.7%.",
+        "content": "A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7%, dragging the index to its worst weekly loss in more than 18 months, and knocking the Nasdaq composite into the red for the year.\nThe benchmark index is now ... [5121 chars]",
+        "url": "https://www.nbcboston.com/news/national-international/november-20-stock-market-updates/4052993/",
+        "image": "https://media.nbcboston.com/2026/10/NYSE-WEALTH.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2026-11-20T19:31:36Z",
         "lang": "en",
         "source": {
-            "id": "85e5403407038478a5e7d8d100ff8e8f",
-            "name": "CP24 Toronto",
-            "url": "https://www.cp24.com",
-            "country": "ca"
+            "id": "8749653ef849c3df2e467a8e0f0c6672",
+            "name": "NBC10 Boston",
+            "url": "https://www.nbcboston.com",
+            "country": "us"
         }
     },
     {
-        "id": "42e872c43fdbaff09880e4b4b79616ca",
-        "title": "AI worries prompt global shares dip",
-        "description": "Global shares dropped in Friday trading as a wide selloff hits issues related to artificial intelligence and computer chips.",
-        "content": "TOKYO — Global shares dropped in Friday trading as a wide selloff hits issues related to artificial intelligence and computer chips.\nFrance’s CAC 40 slipped 0.9 per cent in early trading to 8,007.37, while the German DAX lost 1.3 per cent to 25,134.2... [1424 chars]",
-        "url": "https://www.bnnbloomberg.ca/markets/2026/11/20/global-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/CGYIVFQSHXA4GSARI47YU3VIGE.jpg?smart=true&auth=6ec6b66746aeaa95cf50ba2439cfee4a4679a268e568d146588beb9c67c4b9f2&width=1200&height=630",
-        "publishedAt": "2026-11-20T11:48:50Z",
+        "id": "51956bfec699259965434c39bfabaebf",
+        "title": "S&P 500 sinks 3.7%, Nasdaq composite goes negative for the year",
+        "description": "A bruising sell-off in artificial intelligence stocks on Friday knocked the S&P 500 down 3.7%.",
+        "content": "A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7%, dragging the index to its worst weekly loss in more than 18 months, and knocking the Nasdaq composite into the red for the year.\nThe benchmark index is now ... [5121 chars]",
+        "url": "https://www.nbcchicago.com/news/national-international/november-20-stock-market-updates/4019621/",
+        "image": "https://media.nbcchicago.com/2026/10/NYSE-WEALTH.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2026-11-20T19:31:36Z",
         "lang": "en",
         "source": {
-            "id": "1b697445987e8a33f6c82842e17d60d9",
-            "name": "Bnn Bloomberg",
-            "url": "https://www.bnnbloomberg.ca",
-            "country": "ca"
-        }
-    },
-    {
-        "id": "b05b996107c165303ac8d9e583b9a274",
-        "title": "Goa Cabinet approves Goa AI Policy 2026 and five flagship schemes",
-        "description": "PORVORIM, India, Nov. 20, 2026 /PRNewswire/ -- Strengthening the state's Artificial Intelligence ecosystem, the Goa Cabinet today approved the Goa AI Policy 2026 along with five flagship schemes proposed by the Department of Information Technology, Electronics and Communications (DITE&C). The...",
-        "content": "PORVORIM, India, Nov. 20, 2026 /PRNewswire/ -- Strengthening the state's Artificial Intelligence ecosystem, the Goa Cabinet today approved the Goa AI Policy 2026 along with five flagship schemes proposed by the Department of Information Technology, E... [4088 chars]",
-        "url": "https://www.tribuneindia.com/news/business/goa-cabinet-approves-goa-ai-policy-2026-and-five-flagship-schemes-2-2/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ0NTNmMzEwLWU0ZDctMTFmMS05NjM3LTViY2YwYzFjMTk4YS5qcGc=",
-        "publishedAt": "2026-11-20T11:38:54Z",
-        "lang": "en",
-        "source": {
-            "id": "c5725557f39c24c8b029ee39900a8406",
-            "name": "The Tribune",
-            "url": "https://www.tribuneindia.com",
-            "country": "in"
+            "id": "046a50607901bb9bca25f6624dc87f76",
+            "name": "NBC 5 Chicago",
+            "url": "https://www.nbcchicago.com",
+            "country": "us"
         }
     }
 ]
